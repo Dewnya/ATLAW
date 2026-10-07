@@ -329,6 +329,13 @@ Plan: `context/project-plan.md` and `context/ATLAW-Build-Plan-Developer-SEO-Scop
   - `BrowserRouter` runs with `v7_startTransition`, so the current page stays visible while the next chunk loads
   - Header: removed the GSAP hide-on-scroll; header always pinned, scroll only toggles the blurred background (now also with reduced motion)
   - `SmoothScroll` (protected, changed per build plan): Lenis off on touch devices and below 1024px; `lerp` 0.1 → 0.15 (the old `duration` was ignored by Lenis)
+- [x] 404 page (Oct 7, 2026)
+  - New `NotFoundPage` (noindex): message, homepage + call CTAs, links to PI, Areas Served, Team, Contact
+  - `<Route path="*">` catch-all; unknown URLs no longer render a blank page
+  - Invalid `/personal-injury/:practice/:city` and `/news/:slug` render the 404 instead of redirecting
+  - `PageMeta` gained a `noindex` prop (also needed later for unapproved pages)
+  - Verified in headless Chrome: 3 bad URLs show the 404 with `robots: noindex`; valid city page unaffected; desktop + mobile layout checked
+  - Still open: real 404 HTTP status (needs `dist/404.html` from prerender + Vercel config)
 
 ### Open Questions
 

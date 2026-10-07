@@ -1,5 +1,5 @@
 import { useEffect } from "react";
-import { useParams, Navigate } from "react-router-dom";
+import { useParams } from "react-router-dom";
 import { Header } from "../components/ATLAW/Header";
 import { Footer } from "../components/ATLAW/Footer";
 import { PageMeta } from "../components/ATLAW/PageMeta";
@@ -7,6 +7,7 @@ import { CityLandingTemplate } from "../components/ATLAW/CityLandingTemplate";
 import { practiceAreaBySlug } from "../data/practice/pi";
 import { cityBySlug } from "../data/cities";
 import { cityPracticeSchema } from "../data/schema-org";
+import { NotFoundPage } from "./NotFoundPage";
 import "./PersonalInjury.css";
 
 export const CityLandingPage = (): JSX.Element => {
@@ -18,7 +19,7 @@ export const CityLandingPage = (): JSX.Element => {
   useEffect(() => { window.scrollTo(0, 0); }, [practiceData, cityData]);
 
   if (!practiceData || !cityData) {
-    return <Navigate to="/personal-injury" replace />;
+    return <NotFoundPage />;
   }
 
   return (

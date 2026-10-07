@@ -58,6 +58,7 @@ atlaw_start/
 - Fallback during lazy load: thin `RouteProgressBar` at the top of the viewport.
 - `BrowserRouter` runs with `v7_startTransition`, so the current page stays on screen while the next chunk loads; there is no forced loading screen between pages.
 - `ScrollToTop` resets scroll position on route change.
+- Unknown URLs hit the `<Route path="*">` catch-all and render `NotFoundPage` (noindex). Dynamic routes with unmatched params (city, practice, news slug) render it too instead of redirecting. A real 404 HTTP status needs `dist/404.html` from the prerender step.
 
 ## Image Strategy
 

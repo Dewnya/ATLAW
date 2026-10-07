@@ -27,6 +27,7 @@ const NewsPage = lazy(() => import("./screens/NewsPage").then((m) => ({ default:
 const NewsPostPage = lazy(() => import("./screens/NewsPostPage").then((m) => ({ default: m.NewsPostPage })));
 const PrivacyPolicyPage = lazy(() => import("./screens/PrivacyPolicyPage").then((m) => ({ default: m.PrivacyPolicyPage })));
 const TermsOfUsePage = lazy(() => import("./screens/TermsOfUsePage").then((m) => ({ default: m.TermsOfUsePage })));
+const NotFoundPage = lazy(() => import("./screens/NotFoundPage").then((m) => ({ default: m.NotFoundPage })));
 
 createRoot(document.getElementById("app") as HTMLElement).render(
   <StrictMode>
@@ -69,6 +70,9 @@ createRoot(document.getElementById("app") as HTMLElement).render(
         <Route path="/practice-areas/*" element={<Navigate to="/" replace />} />
         <Route path="/global-reach" element={<Navigate to="/" replace />} />
         <Route path="/news-insights" element={<Navigate to="/" replace />} />
+
+        {/* Anything else */}
+        <Route path="*" element={<NotFoundPage />} />
       </Routes>
       </Suspense>
       <IntakeModal />
