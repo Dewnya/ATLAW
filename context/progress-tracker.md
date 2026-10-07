@@ -316,6 +316,20 @@ All Phase 1 specs (01–09) complete. Open questions resolved (see below).
   - Bonus fixes found while editing: Footer "Headquarters: Detroit, MI" → correct Dearborn address; map URL + Dearborn city data suite "1500" → "400W"
   - Zero TypeScript errors, zero build errors
 
+### Phase 2 — Launch build (Oct 7–30, 2026 · branch `mo-dev`)
+
+Plan: `context/project-plan.md` and `context/ATLAW-Build-Plan-Developer-SEO-Scope.pdf`.
+
+- [x] Day-1 setup (Oct 7, 2026)
+  - `package-lock.json`: 79 URLs moved from `registry.npmmirror.com` to `registry.npmjs.org` (versions and integrity unchanged; clean `npm ci` verified)
+  - `npm run build` clean; one pre-existing TS error in unrouted `src/screens/global-reach/shared.tsx`
+- [x] Navigation and UX — loading screen and header (Oct 7, 2026)
+  - Deleted `NavigationLoader` (700 ms full-screen overlay on every route change + same-page reload) and `LoaderOverlay`
+  - New `RouteProgressBar`: thin top bar used as the `<Suspense>` fallback
+  - `BrowserRouter` runs with `v7_startTransition`, so the current page stays visible while the next chunk loads
+  - Header: removed the GSAP hide-on-scroll; header always pinned, scroll only toggles the blurred background (now also with reduced motion)
+  - `SmoothScroll` (protected, changed per build plan): Lenis off on touch devices and below 1024px; `lerp` 0.1 → 0.15 (the old `duration` was ignored by Lenis)
+
 ### Open Questions
 
 - [ ] **Testimonials copy** — still pending from client; homepage + practice-area testimonials remain [CONFIRM] template (client working on copy).

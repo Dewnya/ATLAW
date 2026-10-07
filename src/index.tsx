@@ -5,8 +5,7 @@ import { HelmetProvider } from "react-helmet-async";
 import { ATLAWLandingPage } from "./screens/ATLAWLandingPage";
 import { BackToTop } from "./components/ATLAW/BackToTop";
 import { IntakeModal } from "./components/ATLAW/IntakeModal";
-import { NavigationLoader } from "./components/ATLAW/NavigationLoader";
-import { LoaderOverlay } from "./components/ATLAW/LoaderOverlay";
+import { RouteProgressBar } from "./components/ATLAW/RouteProgressBar";
 import { ScrollToTop } from "./components/ATLAW/ScrollToTop";
 import { SmoothScroll } from "./motion/SmoothScroll";
 import { MotionReady } from "./motion/MotionReady";
@@ -33,11 +32,10 @@ createRoot(document.getElementById("app") as HTMLElement).render(
   <StrictMode>
     <HelmetProvider>
     <SmoothScroll>
-    <BrowserRouter>
-      <NavigationLoader />
+    <BrowserRouter future={{ v7_startTransition: true }}>
       <ScrollToTop />
       <MotionReady />
-      <Suspense fallback={<LoaderOverlay />}>
+      <Suspense fallback={<RouteProgressBar />}>
       <Routes>
         <Route path="/" element={<ATLAWLandingPage />} />
         <Route path="/about" element={<AboutUsPage />} />

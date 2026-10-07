@@ -1,17 +1,10 @@
-import { useState, useRef, useEffect } from "react";
+import { useState, useEffect } from "react";
 import { Link, useLocation } from "react-router-dom";
-import { gsap } from "gsap";
-import { ScrollTrigger } from "gsap/ScrollTrigger";
-import { prefersReducedMotion } from "../../motion/config";
 import { NAVY, GOLD, navLinks } from "../../data/navigation";
-
-gsap.registerPlugin(ScrollTrigger);
 
 export const Header = (): JSX.Element => {
   const [mobileOpen, setMobileOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
-  const headerRef = useRef<HTMLElement>(null);
-  const mobileOpenRef = useRef(false);
   const location = useLocation();
 
   useEffect(() => {
@@ -26,33 +19,13 @@ export const Header = (): JSX.Element => {
     return () => document.removeEventListener("keydown", handleKey);
   }, []);
 
+  // Header stays pinned; scrolling only switches it to the translucent blurred style.
   useEffect(() => {
-    const el = headerRef.current;
-    if (!el) return;
-    if (prefersReducedMotion()) return;
-
-    const st = ScrollTrigger.create({
-      start: 0,
-      end: "max",
-      onUpdate: (self) => {
-        const y = self.scroll();
-        setScrolled(y > 8);
-        if (y < 120 || mobileOpenRef.current) {
-          gsap.to(el, { yPercent: 0, duration: 0.4, ease: "power3.out", overwrite: true });
-          return;
-        }
-        gsap.to(el, {
-          yPercent: self.direction === 1 ? -100 : 0,
-          duration: 0.4,
-          ease: "power3.out",
-          overwrite: true,
-        });
-      },
-    });
-    return () => st.kill();
+    const onScroll = () => setScrolled(window.scrollY > 8);
+    onScroll();
+    window.addEventListener("scroll", onScroll, { passive: true });
+    return () => window.removeEventListener("scroll", onScroll);
   }, []);
-
-  mobileOpenRef.current = mobileOpen;
 
   return (
     <>
@@ -60,7 +33,6 @@ export const Header = (): JSX.Element => {
       Skip to main content
     </a>
     <header
-      ref={headerRef}
       className={`sticky top-0 z-50 w-full border-b border-white/10 transition-colors duration-300 ${
         scrolled ? "backdrop-blur-md" : ""
       }`}

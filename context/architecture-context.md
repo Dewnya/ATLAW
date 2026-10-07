@@ -55,9 +55,9 @@ atlaw_start/
 - All routes defined in `src/index.tsx`.
 - Homepage is eagerly loaded (LCP route).
 - All other pages are lazy-loaded with `React.lazy()` + `<Suspense>`.
-- Fallback during lazy load: branded `LoaderOverlay` component.
+- Fallback during lazy load: thin `RouteProgressBar` at the top of the viewport.
+- `BrowserRouter` runs with `v7_startTransition`, so the current page stays on screen while the next chunk loads; there is no forced loading screen between pages.
 - `ScrollToTop` resets scroll position on route change.
-- `NavigationLoader` shows a progress bar during route transitions.
 
 ## Image Strategy
 
