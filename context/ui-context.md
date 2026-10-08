@@ -79,10 +79,11 @@ Every homepage section follows this editorial pattern:
 - Gold uppercase label at top, serif title, sans body, "Key Areas" list at bottom.
 
 ### Header
-- Sticky top, navy background, blur on scroll.
-- Hide on scroll down, reveal on scroll up (GSAP ScrollTrigger).
+- Sticky top, always visible, navy background, blur on scroll.
 - Logo left, nav center, gold "I NEED HELP" CTA right.
-- Mobile: hamburger → drawer.
+- Nav: PRACTICE AREAS and AREAS WE SERVE are dropdowns (full-width navy panel, gold uppercase group headings, "see all" link at the bottom); ABOUT, OUR TEAM, NEWS, CONTACT are direct links. Dropdowns open on mouse hover or click/Enter; Escape closes and returns focus.
+- 1024–1279px uses tighter cell padding and letter-spacing so all six items fit.
+- Mobile: hamburger → drawer; the two dropdowns become accordion sections.
 
 ### Footer
 - Deep navy gradient background with grain overlay.

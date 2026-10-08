@@ -336,6 +336,13 @@ Plan: `context/project-plan.md` and `context/ATLAW-Build-Plan-Developer-SEO-Scop
   - `PageMeta` gained a `noindex` prop (also needed later for unapproved pages)
   - Verified in headless Chrome: 3 bad URLs show the 404 with `robots: noindex`; valid city page unaffected; desktop + mobile layout checked
   - Still open: real 404 HTTP status (needs `dist/404.html` from prerender + Vercel config)
+- [x] Header dropdown menus (Oct 8, 2026)
+  - PRACTICE AREAS: groups Auto & No-Fault / Injury / Medical / Work & Disability + "All personal injury cases"
+  - AREAS WE SERVE: one column per county (county heading links to the county page) + "All areas we serve"
+  - Generated from new `src/data/practice/pi/registry.ts` and `src/data/cities-registry.ts` (new practices/cities appear automatically; main bundle +2.5 kB gzip)
+  - City links point to `/personal-injury/personal-injury/:city` via `cityHref()`; switch to `/areas-served/:city` when hubs exist
+  - Mobile drawer: accordion sections; desktop: hover/click, Enter/Tab/Escape keyboard support, `aria-expanded`
+  - Verified with a headless-Chrome script: hover/pin/leave, link click closes panel, keyboard open/Tab/Escape with focus return, 1024px header fits (0 overflow), 390px drawer with no horizontal scroll
 
 ### Open Questions
 

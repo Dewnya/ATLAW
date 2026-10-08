@@ -1,5 +1,7 @@
+import type { CitySlug } from "./cities-registry";
+
 export interface CityData {
-  slug: string;
+  slug: CitySlug;
   name: string;
   county: string;
   localContext: string[];

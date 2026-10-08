@@ -47,6 +47,7 @@ atlaw_start/
 - `src/screens/` — Page-level route components. One file per route. Each screen composes section components.
 - `src/components/ATLAW/` — Shared section components, header, footer. No business logic.
 - `src/data/` — Static content data. Single source of truth for copy, navigation links, team info.
+  - `practice/pi/registry.ts` and `cities-registry.ts` are lightweight lists (slug, label, group/county) that the header menus are generated from, so menus update automatically and the long-form copy stays out of the main bundle. `practiceAreaBySlug` must match the practice registry (enforced by `satisfies`); `CityData.slug` is typed against the city registry.
 - `src/motion/` — Animation primitives and scroll config. No content or layout.
 - `public/` — Static assets served as-is. Images, fonts, logos.
 
