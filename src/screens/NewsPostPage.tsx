@@ -2,7 +2,6 @@ import { Link, useParams } from "react-router-dom";
 import { Header } from "../components/ATLAW/Header";
 import { Footer } from "../components/ATLAW/Footer";
 import { PageMeta } from "../components/ATLAW/PageMeta";
-import { MobileFloatingCTA } from "../components/ATLAW/MobileFloatingCTA";
 import { IntakeFormSection } from "../components/ATLAW/IntakeFormSection";
 import { newsBySlug, newsPosts } from "../data/news";
 import { newsArticleSchema } from "../data/schema-org";
@@ -184,7 +183,6 @@ export const NewsPostPage = (): JSX.Element => {
 
         <IntakeFormSection />
       </main>
-      <MobileFloatingCTA />
       <Footer />
     </div>
   );

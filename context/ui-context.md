@@ -80,10 +80,16 @@ Every homepage section follows this editorial pattern:
 
 ### Header
 - Sticky top, always visible, navy background, blur on scroll.
-- Logo left, nav center, gold "I NEED HELP" CTA right.
+- Logo left, nav center; right: phone cell (icon below 1440px, icon + number from 1440px) and a solid gold "FREE CASE REVIEW" button that opens the intake modal. "Text Us" appears at xl+ once `SMS_NUMBER` is set in `src/data/contact.ts`.
 - Nav: PRACTICE AREAS and AREAS WE SERVE are dropdowns (full-width navy panel, gold uppercase group headings, "see all" link at the bottom); ABOUT, OUR TEAM, NEWS, CONTACT are direct links. Dropdowns open on mouse hover or click/Enter; Escape closes and returns focus.
 - 1024–1279px uses tighter cell padding and letter-spacing so all six items fit.
-- Mobile: hamburger → drawer; the two dropdowns become accordion sections.
+- Mobile: hamburger → drawer; the two dropdowns become accordion sections; drawer ends with a gold "Free Case Review" button.
+
+### Mobile Action Bar
+- Below 1024px only, fixed to the bottom of every page (`MobileActionBar`, mounted in `index.tsx`), 60px tall plus the safe-area inset.
+- Navy cells: CALL (and TEXT once `SMS_NUMBER` is set) + a gold FREE CASE REVIEW cell that opens the intake modal.
+- A navy spacer after the footer keeps the last footer line above the bar; the back-to-top button sits 14px above the bar.
+- Replaces the old floating round call button (`MobileFloatingCTA`, removed).
 
 ### Footer
 - Deep navy gradient background with grain overlay.

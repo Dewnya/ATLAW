@@ -1,10 +1,13 @@
 import { useState, useEffect, useRef } from "react";
 import { Link, useLocation } from "react-router-dom";
 import { NAVY, GOLD, navItems, type NavMenu } from "../../data/navigation";
+import { PHONE_DISPLAY, PHONE_HREF, SMS_NUMBER, smsHref } from "../../data/contact";
 import { DesktopNavMenu, MobileNavMenu } from "./header/NavMenus";
+import { PhoneIcon } from "./footer/icons";
+import { openIntakeModal } from "./IntakeModal";
 
 const desktopCellClass =
-  "relative flex items-center whitespace-nowrap border-r border-white/10 px-3.5 font-sans text-[11.5px] font-semibold uppercase tracking-[0.14em] text-[#FFFFFF]/85 transition-all duration-150 hover:bg-white/[0.04] hover:text-[#FFFFFF] focus-visible:bg-white/10 focus-visible:outline-none xl:px-6 xl:tracking-[0.18em]";
+  "relative flex items-center whitespace-nowrap border-r border-white/10 px-3 font-sans text-[11.5px] font-semibold uppercase tracking-[0.14em] text-[#FFFFFF]/85 transition-all duration-150 hover:bg-white/[0.04] hover:text-[#FFFFFF] focus-visible:bg-white/10 focus-visible:outline-none xl:px-6 xl:tracking-[0.18em]";
 
 export const Header = (): JSX.Element => {
   const [mobileOpen, setMobileOpen] = useState(false);
@@ -95,20 +98,31 @@ export const Header = (): JSX.Element => {
         {/* Spacer */}
         <div className="hidden flex-1 lg:flex" />
 
-        {/* I NEED HELP CTA */}
-        <Link
-          aria-label="I need help — contact ATLAW"
-          className="hidden items-center whitespace-nowrap px-5 font-sans text-[11.5px] font-semibold uppercase tracking-[0.16em] transition-all xl:px-7 xl:tracking-[0.22em] duration-150 hover:bg-[#0E2C4F] focus-visible:outline-none focus-visible:bg-[#0E2C4F] lg:flex"
-          style={{
-            backgroundColor: "rgba(211,154,42,0.06)",
-            color: GOLD,
-            borderLeft: "1px solid rgba(211,154,42,0.5)",
-          }}
-          to="/contact"
+        {/* Call + (Text) + Free Case Review — desktop. Mobile uses MobileActionBar. */}
+        <a
+          aria-label={`Call ATLAW at ${PHONE_DISPLAY}`}
+          className="hidden items-center gap-2 whitespace-nowrap border-l border-white/10 px-3.5 font-sans text-[13px] font-semibold tracking-[0.04em] text-[#FFFFFF] transition-colors duration-150 hover:bg-white/[0.04] focus-visible:bg-white/10 focus-visible:outline-none lg:flex xl:px-5"
+          href={PHONE_HREF}
         >
-          I need help
-          <span aria-hidden="true" className="ml-2">→</span>
-        </Link>
+          <PhoneIcon />
+          <span className="hidden min-[1440px]:inline">{PHONE_DISPLAY}</span>
+        </a>
+        {SMS_NUMBER && (
+          <a
+            className={`${desktopCellClass} hidden border-l xl:flex`}
+            href={smsHref(SMS_NUMBER)}
+          >
+            Text Us
+          </a>
+        )}
+        <button
+          className="hidden items-center whitespace-nowrap px-4 font-sans text-[11.5px] font-semibold uppercase tracking-[0.14em] text-[#0E1B2C] transition-opacity duration-150 hover:opacity-90 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-[-4px] focus-visible:outline-white lg:flex xl:px-6 xl:tracking-[0.18em]"
+          onClick={openIntakeModal}
+          style={{ backgroundColor: GOLD }}
+          type="button"
+        >
+          Free Case Review
+        </button>
 
         {/* Mobile menu button */}
         <button
@@ -137,7 +151,7 @@ export const Header = (): JSX.Element => {
           id="atlaw-mobile-nav"
           style={{ backgroundColor: NAVY }}
         >
-          <div className="max-h-[calc(100vh-72px)] overflow-y-auto px-5 pb-8 pt-3">
+          <div className="max-h-[calc(100vh-132px)] overflow-y-auto px-5 pb-8 pt-3">
             {navItems.map((item) =>
               item.kind === "menu" ? (
                 <MobileNavMenu key={item.id} menu={item} onNavigate={() => setMobileOpen(false)} />
@@ -153,18 +167,17 @@ export const Header = (): JSX.Element => {
               ),
             )}
 
-            <Link
-              className="mt-6 flex items-center justify-center px-6 py-4 font-sans text-[12px] font-semibold uppercase tracking-[0.22em]"
-              onClick={() => setMobileOpen(false)}
-              style={{
-                backgroundColor: "rgba(211,154,42,0.08)",
-                color: GOLD,
-                border: "1px solid rgba(211,154,42,0.5)",
+            <button
+              className="mt-6 flex w-full items-center justify-center px-6 py-4 font-sans text-[12px] font-semibold uppercase tracking-[0.22em] text-[#0E1B2C]"
+              onClick={() => {
+                setMobileOpen(false);
+                openIntakeModal();
               }}
-              to="/contact"
+              style={{ backgroundColor: GOLD }}
+              type="button"
             >
-              I need help <span aria-hidden="true" className="ml-2">→</span>
-            </Link>
+              Free Case Review
+            </button>
           </div>
         </nav>
       )}

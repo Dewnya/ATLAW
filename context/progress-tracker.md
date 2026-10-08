@@ -343,8 +343,17 @@ Plan: `context/project-plan.md` and `context/ATLAW-Build-Plan-Developer-SEO-Scop
   - City links point to `/personal-injury/personal-injury/:city` via `cityHref()`; switch to `/areas-served/:city` when hubs exist
   - Mobile drawer: accordion sections; desktop: hover/click, Enter/Tab/Escape keyboard support, `aria-expanded`
   - Verified with a headless-Chrome script: hover/pin/leave, link click closes panel, keyboard open/Tab/Escape with focus return, 1024px header fits (0 overflow), 390px drawer with no horizontal scroll
+- [x] Call / Free Case Review on every breakpoint (Oct 8, 2026)
+  - Layout chosen with Mo instead of the plan's top strip (a top strip would push every hero and sticky offset by 36px)
+  - Desktop header: phone cell + solid gold "Free Case Review" (opens intake modal), replacing "I need help"
+  - Mobile (<1024px): new `MobileActionBar` fixed to the bottom of every page — Call | Free Case Review; footer spacer; back-to-top lifted above it
+  - Removed `MobileFloatingCTA` (was only on 4 pages; the bar covers it everywhere)
+  - New `src/data/contact.ts` (phone + `SMS_NUMBER`); **Text Us is built but hidden** until `SMS_NUMBER` is set — see Open Questions
+  - Verified: header fits at 1024/1280/1440 (0 overflow), both Free Case Review buttons open the modal, 390px bar 60px at bottom, no horizontal scroll
 
 ### Open Questions
+
+- [ ] **PRE-LAUNCH — Text Us number.** Confirm with the firm whether (313) 406-7606 can receive SMS, or get a dedicated SMS number. Then set `SMS_NUMBER` in `src/data/contact.ts` (the Text buttons in the header and mobile bar appear automatically).
 
 - [ ] **Testimonials copy** — still pending from client; homepage + practice-area testimonials remain [CONFIRM] template (client working on copy).
 - [ ] **Email inconsistency** (pre-existing, needs client decision) — site mixes `info@atlawgroup.com` (Footer, templates, NoFeeBanner) and `db@atlawgroup.com` (Contact, legal, schema). Not changed — confirm which is the public contact address, then standardize.

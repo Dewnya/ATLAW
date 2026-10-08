@@ -2,7 +2,6 @@ import { useState } from "react";
 import { Header } from "../components/ATLAW/Header";
 import { Footer } from "../components/ATLAW/Footer";
 import { PageMeta } from "../components/ATLAW/PageMeta";
-import { MobileFloatingCTA } from "../components/ATLAW/MobileFloatingCTA";
 import { RevealText, RevealBlock, RevealStagger } from "../motion/primitives";
 import { STAGGER } from "../motion/config";
 import { contactPageSchema } from "../data/schema-org";
@@ -566,7 +565,6 @@ export const ContactPage = (): JSX.Element => {
         <TestimonialsSection />
         <IntakeFormSection />
       </main>
-      <MobileFloatingCTA />
       <Footer />
     </div>
   );

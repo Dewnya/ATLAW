@@ -14,7 +14,6 @@ import { WinningsTicker } from "../components/ATLAW/WinningsTicker";
 import { IntakeFormSection } from "../components/ATLAW/IntakeFormSection";
 import { FAQPreviewSection } from "../components/ATLAW/FAQPreviewSection";
 import { FinalCtaSection } from "../components/ATLAW/FinalCtaSection";
-import { MobileFloatingCTA } from "../components/ATLAW/MobileFloatingCTA";
 import { Footer } from "../components/ATLAW/Footer";
 import { homepageSchema } from "../data/schema-org";
 
@@ -44,7 +43,6 @@ export const ATLAWLandingPage = (): JSX.Element => {
         <FAQPreviewSection />
         <FinalCtaSection />
       </main>
-      <MobileFloatingCTA />
       <Footer />
     </div>
   );

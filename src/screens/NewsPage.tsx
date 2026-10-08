@@ -2,7 +2,6 @@ import { Link } from "react-router-dom";
 import { Header } from "../components/ATLAW/Header";
 import { Footer } from "../components/ATLAW/Footer";
 import { PageMeta } from "../components/ATLAW/PageMeta";
-import { MobileFloatingCTA } from "../components/ATLAW/MobileFloatingCTA";
 import { IntakeFormSection } from "../components/ATLAW/IntakeFormSection";
 import { newsPosts } from "../data/news";
 import "./PersonalInjury.css";
@@ -133,7 +132,6 @@ export const NewsPage = (): JSX.Element => {
 
         <IntakeFormSection />
       </main>
-      <MobileFloatingCTA />
       <Footer />
     </div>
   );

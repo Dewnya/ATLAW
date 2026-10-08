@@ -5,6 +5,7 @@ import { HelmetProvider } from "react-helmet-async";
 import { ATLAWLandingPage } from "./screens/ATLAWLandingPage";
 import { BackToTop } from "./components/ATLAW/BackToTop";
 import { IntakeModal } from "./components/ATLAW/IntakeModal";
+import { MobileActionBar } from "./components/ATLAW/MobileActionBar";
 import { RouteProgressBar } from "./components/ATLAW/RouteProgressBar";
 import { ScrollToTop } from "./components/ATLAW/ScrollToTop";
 import { SmoothScroll } from "./motion/SmoothScroll";
@@ -75,6 +76,7 @@ createRoot(document.getElementById("app") as HTMLElement).render(
         <Route path="*" element={<NotFoundPage />} />
       </Routes>
       </Suspense>
+      <MobileActionBar />
       <IntakeModal />
       <BackToTop />
     </BrowserRouter>
