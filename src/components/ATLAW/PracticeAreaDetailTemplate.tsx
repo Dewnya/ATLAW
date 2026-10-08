@@ -819,7 +819,7 @@ const FinalCTABand = () => (
           Get a FREE Case Evaluation Today!
         </h2>
         <p className="mt-4 font-sans text-[16px] leading-[1.5] text-white/75 lg:text-[18px]">
-          You Pay Nothing Unless We Win Your Case &mdash; Guaranteed.
+          You Pay Nothing Unless We Win Your Case.
         </p>
         <div className="mt-8 flex w-full flex-col items-center justify-center gap-4 sm:flex-row sm:gap-5">
           <a

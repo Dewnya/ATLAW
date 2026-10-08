@@ -371,6 +371,11 @@ Plan: `context/project-plan.md` and `context/ATLAW-Build-Plan-Developer-SEO-Scop
   - Practice and city results sections hide while empty; "Recent Case Results — [CONFIRM]" heading fixed
   - Deleted invented data from all 7 practice files: `caseResults`, `relatedCases` and the unrendered `[CONFIRM]` testimonials (they still shipped in the bundle)
   - Verified: built bundle has no "CONFIRM", "Sarah M.", "Offered Less" or "15,000"; screenshots desktop + mobile; practice and city pages render without the results blocks
+- [x] Unverified claims removed (Oct 9, 2026)
+  - "You Pay Nothing Unless We Win Your Case — Guaranteed." → "…Your Case." on the homepage final CTA, practice and city templates (no outcome guarantees)
+  - Dearborn city copy: removed "steps from the 19th District Court" (×4), "directly off Michigan Avenue" and "Free parking is available on-site"; the office FAQ now gives the address and office hours (Mon–Fri 9–5, from the firm's brief); court names kept
+  - Left for the copy rewrite (approximate, not location facts): Detroit "less than 15 minutes from downtown", Dearborn Heights "one of the closest personal injury law firms"
+  - Verified: none of the removed phrases in the built bundle or on /, a practice page and the Dearborn page
 
 ### Open Questions
 

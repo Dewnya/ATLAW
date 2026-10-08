@@ -59,7 +59,7 @@ export const FinalCtaSection = (): JSX.Element => {
             as="p"
             className="mt-5 font-sans text-[17px] leading-[1.5] text-white/75 lg:text-[19px]"
           >
-            You Pay Nothing Unless We Win Your Case &mdash; Guaranteed.
+            You Pay Nothing Unless We Win Your Case.
           </RevealBlock>
 
           <RevealBlock className="mt-10 flex w-full flex-col items-center justify-center gap-4 sm:flex-row sm:gap-6">
