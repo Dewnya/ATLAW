@@ -18,11 +18,7 @@ export const wrongfulDeathData: PracticeAreaPI = {
     "Attorney Dewnya Bazzi personally oversees every wrongful death case. She understands that behind every claim is a family in pain, and she fights to make sure their loss is acknowledged and compensated fairly under Michigan law.",
     "We work on contingency. You pay nothing up front and nothing at all unless we recover compensation for your family.",
   ],
-  caseResults: [
-    { name: "David K.", initials: "DK", caseType: "Fatal Vehicle Accident", insuranceOffer: 120000, recovered: 1250000 },
-    { name: "Rosa M.", initials: "RM", caseType: "Medical Negligence Death", insuranceOffer: 200000, recovered: 975000 },
-    { name: "Thomas J.", initials: "TJ", caseType: "Workplace Fatality", insuranceOffer: 85000, recovered: 680000 },
-  ],
+  caseResults: [], // firm-approved results only (none supplied yet)
   steps: [
     { number: 1, title: "Contact ATLAW", description: "When you’re ready, call us. There’s no cost to talk, and we’ll explain your options without pressure." },
     { number: 2, title: "We Investigate", description: "We gather evidence, obtain reports, and identify every party whose negligence contributed to the death." },
@@ -53,11 +49,7 @@ export const wrongfulDeathData: PracticeAreaPI = {
       ],
     },
   ],
-  testimonials: [
-    { quote: "[CONFIRM] We lost our father in a preventable accident. ATLAW guided us through the most difficult time with compassion and strength. They fought for justice and delivered a result that honored his memory.", name: "David K.", initials: "DK", date: "Fatal Vehicle Accident" },
-    { quote: "[CONFIRM] Dewnya treated our family with genuine care during an impossible time. She was direct about what to expect and then exceeded every expectation with the outcome.", name: "Rosa M.", initials: "RM", date: "Medical Negligence" },
-    { quote: "[CONFIRM] After losing my husband at work, I didn’t know how we would survive financially. ATLAW made sure our family was taken care of.", name: "Karen L.", initials: "KL", date: "Workplace Fatality" },
-  ],
+  testimonials: [], // pages use the shared Google reviews (data/testimonials.ts)
   faqs: [
     { question: "Who can file a wrongful death lawsuit in Michigan?", answer: "Only the personal representative of the deceased person’s estate can file a wrongful death lawsuit. This is typically the person named in the will as executor, or someone appointed by the probate court. The lawsuit is brought on behalf of the estate and the surviving beneficiaries." },
     { question: "What compensation is available in a wrongful death case?", answer: "Families may recover medical and funeral expenses, loss of financial support the deceased would have provided, loss of companionship and society, loss of guidance for minor children, and the pain and suffering the deceased experienced before death. Each case is evaluated individually." },
@@ -75,11 +67,7 @@ export const wrongfulDeathData: PracticeAreaPI = {
     { slug: "medical-malpractice", title: "Medical Malpractice" },
     { slug: "workers-compensation", title: "Workers’ Compensation" },
   ],
-  relatedCases: [
-    { amount: 1250000, caseType: "Fatal Vehicle Accident", county: "Wayne County" },
-    { amount: 975000, caseType: "Medical Negligence", county: "Oakland County" },
-    { amount: 680000, caseType: "Workplace Fatality", county: "Macomb County" },
-  ],
+  relatedCases: [], // firm-approved results only (none supplied yet)
   resources: [
     { title: "Michigan Personal Injury Overview", href: "/personal-injury" },
     { title: "Auto Accident & No-Fault Claims", href: "/personal-injury/auto-accidents" },

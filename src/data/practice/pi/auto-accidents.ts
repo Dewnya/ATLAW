@@ -18,11 +18,7 @@ export const autoAccidentsData: PracticeAreaPI = {
     "Attorney Dewnya Bazzi has been recognized as a Super Lawyers Rising Star three consecutive years for her work in personal injury. She personally oversees every auto accident case we take on, because the details matter and a missed deadline or an unsigned form can cost you thousands.",
     "We work on contingency. You pay nothing up front and nothing at all unless we recover money for you. That’s not a marketing line — it’s how we practice.",
   ],
-  caseResults: [
-    { name: "Sarah M.", initials: "SM", caseType: "Rear-End Collision", insuranceOffer: 15000, recovered: 127500 },
-    { name: "Ahmad R.", initials: "AR", caseType: "Multi-Vehicle Crash", insuranceOffer: 32000, recovered: 285000 },
-    { name: "Jennifer K.", initials: "JK", caseType: "Motorcycle Accident", insuranceOffer: 22000, recovered: 195000 },
-  ],
+  caseResults: [], // firm-approved results only (none supplied yet)
   steps: [
     { number: 1, title: "Contact ATLAW", description: "Call us or fill out our free case review form. We’ll listen to what happened and tell you where you stand." },
     { number: 2, title: "Get Medical Attention", description: "See a doctor immediately, even if you feel fine. Some injuries don’t show symptoms for days. Documentation starts now." },
@@ -54,11 +50,7 @@ export const autoAccidentsData: PracticeAreaPI = {
       ],
     },
   ],
-  testimonials: [
-    { quote: "[CONFIRM] After my car accident, I didn’t know where to turn. ATLAW took my case and fought hard against the insurance company. They kept me informed every step of the way and got me a settlement I never expected.", name: "Sarah M.", initials: "SM", date: "Auto Accident" },
-    { quote: "[CONFIRM] The insurance company offered me almost nothing. Dewnya and her team got me over ten times what they initially offered. I’m grateful I made that first call.", name: "Marcus T.", initials: "MT", date: "Rear-End Collision" },
-    { quote: "[CONFIRM] Professional, responsive, and genuinely caring. They handled everything with the insurance company so I could focus on recovering from my injuries.", name: "Layla H.", initials: "LH", date: "Multi-Vehicle Crash" },
-  ],
+  testimonials: [], // pages use the shared Google reviews (data/testimonials.ts)
   faqs: [
     { question: "How does Michigan No-Fault insurance work?", answer: "Michigan is a No-Fault state. After a car accident, your own auto insurance pays for your medical bills and a portion of your lost wages through Personal Injury Protection (PIP) benefits, regardless of who caused the crash. You may also have a separate third-party claim against the at-fault driver for pain and suffering." },
     { question: "What are PIP benefits and how do I get them?", answer: "PIP (Personal Injury Protection) benefits cover medical expenses, lost wages (up to 85% for three years), attendant care, and replacement services. You file a claim with your own auto insurer within one year of the accident. The coverage level depends on what you selected when you purchased your policy." },
@@ -81,13 +73,7 @@ export const autoAccidentsData: PracticeAreaPI = {
     { slug: "wrongful-death", title: "Wrongful Death" },
     { slug: "premises-liability", title: "Premises Liability" },
   ],
-  relatedCases: [
-    { amount: 285000, caseType: "Multi-Vehicle Crash", county: "Wayne County" },
-    { amount: 127500, caseType: "Rear-End Collision", county: "Wayne County" },
-    { amount: 195000, caseType: "Motorcycle Accident", county: "Oakland County" },
-    { amount: 92000, caseType: "Rideshare Accident", county: "Macomb County" },
-    { amount: 340000, caseType: "Truck Accident", county: "Wayne County" },
-  ],
+  relatedCases: [], // firm-approved results only (none supplied yet)
   resources: [
     { title: "Michigan Personal Injury Overview", href: "/personal-injury" },
     { title: "Medical Malpractice Claims", href: "/personal-injury/medical-malpractice" },

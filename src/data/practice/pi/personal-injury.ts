@@ -16,11 +16,7 @@ export const personalInjuryData: PracticeAreaPI = {
     "We take on insurance companies, hospitals, property owners, and employers who try to avoid paying what the law says they owe. Every case gets personal attention because the details drive the outcome, and a missed detail can cost you thousands.",
     "We practice on contingency — you pay nothing up front and nothing at all unless we recover money for you. That means our incentives are aligned with yours from day one.",
   ],
-  caseResults: [
-    { name: "Sarah M.", initials: "SM", caseType: "Auto Accident", insuranceOffer: 15000, recovered: 127500 },
-    { name: "Ahmad R.", initials: "AR", caseType: "Medical Malpractice", insuranceOffer: 45000, recovered: 385000 },
-    { name: "David K.", initials: "DK", caseType: "Wrongful Death", insuranceOffer: 120000, recovered: 1250000 },
-  ],
+  caseResults: [], // firm-approved results only (none supplied yet)
   steps: [
     { number: 1, title: "Call ATLAW", description: "Contact us for a free case review. We'll listen to what happened and tell you where you stand — honestly." },
     { number: 2, title: "We Investigate", description: "We gather evidence, consult with experts, and build the strongest possible case for your claim." },
@@ -50,11 +46,7 @@ export const personalInjuryData: PracticeAreaPI = {
       ],
     },
   ],
-  testimonials: [
-    { quote: "[CONFIRM] After my car accident, I didn't know where to turn. ATLAW took my case and fought hard against the insurance company. They kept me informed every step of the way and got me a settlement I never expected.", name: "Sarah M.", initials: "SM", date: "Auto Accident" },
-    { quote: "[CONFIRM] The team at ATLAW treated me like family from day one. They handled everything with the insurance company so I could focus on recovering from my injuries. Professional, compassionate, and they delivered results.", name: "Ahmad B.", initials: "AB", date: "Personal Injury" },
-    { quote: "[CONFIRM] I was hesitant to hire a lawyer, but ATLAW made the process easy. No upfront costs, constant communication, and they fought for every dollar I deserved. Highly recommend.", name: "Jennifer K.", initials: "JK", date: "Slip & Fall" },
-  ],
+  testimonials: [], // pages use the shared Google reviews (data/testimonials.ts)
   faqs: [
     { question: "How much is my personal injury case worth?", answer: "Every case is different. The value depends on the severity of your injuries, your medical expenses, lost wages, the impact on your daily life, and whether the other party's conduct was particularly reckless. We evaluate all of these factors during your free consultation and give you an honest assessment." },
     { question: "Do I need a lawyer after an accident?", answer: "If you were injured due to someone else's negligence, having an attorney protects your rights and ensures you receive fair compensation. Insurance companies have teams of lawyers and adjusters working to minimize what they pay. You should have experienced counsel on your side." },
@@ -75,13 +67,7 @@ export const personalInjuryData: PracticeAreaPI = {
     { slug: "dog-bites", title: "Dog Bite Injuries" },
     { slug: "workers-compensation", title: "Workers' Compensation" },
   ],
-  relatedCases: [
-    { amount: 1250000, caseType: "Wrongful Death", county: "Wayne County" },
-    { amount: 385000, caseType: "Medical Malpractice", county: "Oakland County" },
-    { amount: 285000, caseType: "Multi-Vehicle Crash", county: "Wayne County" },
-    { amount: 215000, caseType: "Slip & Fall", county: "Wayne County" },
-    { amount: 127500, caseType: "Auto Accident", county: "Macomb County" },
-  ],
+  relatedCases: [], // firm-approved results only (none supplied yet)
   resources: [
     { title: "Auto Accident & No-Fault Claims", href: "/personal-injury/auto-accidents" },
     { title: "Medical Malpractice Claims", href: "/personal-injury/medical-malpractice" },

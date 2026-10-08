@@ -18,11 +18,7 @@ export const premisesLiabilityData: PracticeAreaPI = {
     "We act quickly to preserve the evidence that proves your case. Attorney Dewnya Bazzi has handled premises liability claims across Michigan and understands what it takes to hold negligent property owners accountable.",
     "We work on contingency. You pay nothing unless we recover compensation for you.",
   ],
-  caseResults: [
-    { name: "Maria L.", initials: "ML", caseType: "Slip & Fall — Grocery Store", insuranceOffer: 25000, recovered: 215000 },
-    { name: "Robert C.", initials: "RC", caseType: "Icy Parking Lot Fall", insuranceOffer: 18000, recovered: 145000 },
-    { name: "Angela D.", initials: "AD", caseType: "Broken Stairway Injury", insuranceOffer: 35000, recovered: 280000 },
-  ],
+  caseResults: [], // firm-approved results only (none supplied yet)
   steps: [
     { number: 1, title: "Contact ATLAW", description: "Call us right away. Time-sensitive evidence like surveillance footage and condition reports can disappear quickly." },
     { number: 2, title: "Get Medical Attention", description: "See a doctor for your injuries, even if they seem minor. Medical documentation connects your injury to the incident." },
@@ -47,11 +43,7 @@ export const premisesLiabilityData: PracticeAreaPI = {
       ],
     },
   ],
-  testimonials: [
-    { quote: "[CONFIRM] I slipped on an unmarked wet floor in a grocery store and broke my hip. ATLAW proved the store knew about the spill and did nothing. They got me enough to cover my surgery and recovery.", name: "Maria L.", initials: "ML", date: "Slip & Fall" },
-    { quote: "[CONFIRM] The property manager kept ignoring the broken steps. When I fell, ATLAW was there within days gathering evidence. Professional and thorough.", name: "Angela D.", initials: "AD", date: "Broken Stairway" },
-    { quote: "[CONFIRM] I didn’t think I had a case after slipping on ice. Dewnya explained Michigan law and fought for every dollar. Highly recommend.", name: "Robert C.", initials: "RC", date: "Parking Lot Fall" },
-  ],
+  testimonials: [], // pages use the shared Google reviews (data/testimonials.ts)
   faqs: [
     { question: "What is premises liability?", answer: "Premises liability is the legal responsibility property owners have to keep their property reasonably safe for visitors. When an unsafe condition on someone else’s property causes your injury, the owner may be legally liable for your damages." },
     { question: "How do I prove a slip and fall case?", answer: "You need to show that a dangerous condition existed, the property owner knew or should have known about it, they failed to fix or warn about it, and the condition caused your injury. Evidence such as photos, surveillance footage, incident reports, and witness statements is critical." },
@@ -69,12 +61,7 @@ export const premisesLiabilityData: PracticeAreaPI = {
     { slug: "dog-bites", title: "Dog Bite Injuries" },
     { slug: "wrongful-death", title: "Wrongful Death" },
   ],
-  relatedCases: [
-    { amount: 215000, caseType: "Slip & Fall", county: "Wayne County" },
-    { amount: 145000, caseType: "Icy Parking Lot", county: "Oakland County" },
-    { amount: 280000, caseType: "Broken Stairway", county: "Wayne County" },
-    { amount: 175000, caseType: "Retail Store Fall", county: "Macomb County" },
-  ],
+  relatedCases: [], // firm-approved results only (none supplied yet)
   resources: [
     { title: "Michigan Personal Injury Overview", href: "/personal-injury" },
     { title: "Auto Accident & No-Fault Claims", href: "/personal-injury/auto-accidents" },

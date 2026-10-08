@@ -385,6 +385,9 @@ const CaseResultsSection = ({ practice }: { practice: PracticeAreaPI }) => {
   const [start, setStart] = useState(0);
   const maxStart = Math.max(0, practice.caseResults.length - 3);
 
+  // Firm-approved results only; the section stays hidden until there are some.
+  if (practice.caseResults.length === 0) return null;
+
   return (
     <section
       aria-labelledby="city-results-heading"
@@ -398,9 +401,9 @@ const CaseResultsSection = ({ practice }: { practice: PracticeAreaPI }) => {
           id="city-results-heading"
           style={{ fontSize: "clamp(28px, 4.5vw, 52px)", fontVariationSettings: headlineAxes }}
         >
-          They Offered Less. We Fought for{" "}
+          Insurance companies fight to pay less. ATLAW fights for{" "}
           <span className="relative inline-block">
-            More
+            what you deserve
             <span aria-hidden="true" className="absolute bottom-[2px] left-0 h-[3px] w-full rounded-full" style={{ backgroundColor: GOLD_BRIGHT }} />
           </span>
           <span style={{ color: GOLD_ACCENT }}>.</span>

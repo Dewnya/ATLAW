@@ -362,6 +362,15 @@ Plan: `context/project-plan.md` and `context/ATLAW-Build-Plan-Developer-SEO-Scop
   - Homepage and Contact wrapped the whole page, header and footer included, in `[zoom:1.12]`, so the header was 12% larger there and "Free Case Review" was cut off at 1440px
   - Zoom moved to `<main>` on both pages: content keeps its approved scale; header and footer are identical on every page
   - Verified: header overflow 0 and height 89px on /, /contact and /about at 1024/1280/1440
+- [x] Results: approved headline, no invented results (Oct 9, 2026) — revision brief D
+  - New `src/data/caseResults.ts` (`approvedCaseResults`, empty) is the only source for results; new `src/data/testimonials.ts` holds the real Google reviews, shared by `TestimonialsSection` and the homepage results section
+  - Headline "They Offered Less. We Fought for More." → "Insurance companies fight to pay less. ATLAW fights for what you deserve." (homepage, practice and city templates)
+  - Homepage results section: shows approved results when there are any; until then 3 real Google reviews (Mike Esseily, Prophet J.E. Lykes Sr., Moe Fares)
+  - "Hiring Us Means More Money." → "Hiring ATLAW Means More Money for You and Your Family." (brief: name the beneficiary); "We don't let them" → "ATLAW doesn't let them"; the invented $15,000 → $127,500 example only renders for an approved result with an insurer offer
+  - `WinningsTicker` reads approved results only and renders nothing while empty
+  - Practice and city results sections hide while empty; "Recent Case Results — [CONFIRM]" heading fixed
+  - Deleted invented data from all 7 practice files: `caseResults`, `relatedCases` and the unrendered `[CONFIRM]` testimonials (they still shipped in the bundle)
+  - Verified: built bundle has no "CONFIRM", "Sarah M.", "Offered Less" or "15,000"; screenshots desktop + mobile; practice and city pages render without the results blocks
 
 ### Open Questions
 

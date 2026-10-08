@@ -18,11 +18,7 @@ export const dogBitesData: PracticeAreaPI = {
     "Attorney Dewnya Bazzi has handled dog bite claims across Southeast Michigan and knows how to build the medical and factual record that shuts down these defenses. We document the injuries thoroughly, identify all insurance coverage available, and fight for the full value of the claim.",
     "We work on contingency. You pay nothing unless we recover money for you.",
   ],
-  caseResults: [
-    { name: "Lisa P.", initials: "LP", caseType: "Dog Bite — Child", insuranceOffer: 12000, recovered: 78500 },
-    { name: "Kevin R.", initials: "KR", caseType: "Dog Attack — Adult", insuranceOffer: 20000, recovered: 165000 },
-    { name: "Samira A.", initials: "SA", caseType: "Dog Bite — Facial Injury", insuranceOffer: 35000, recovered: 245000 },
-  ],
+  caseResults: [], // firm-approved results only (none supplied yet)
   steps: [
     { number: 1, title: "Contact ATLAW", description: "Call us for a free case review. We'll evaluate your claim and explain your options right away." },
     { number: 2, title: "Get Medical Attention", description: "Dog bites carry serious infection risk. Get medical treatment immediately and follow up as directed." },
@@ -47,11 +43,7 @@ export const dogBitesData: PracticeAreaPI = {
       ],
     },
   ],
-  testimonials: [
-    { quote: "[CONFIRM] Our daughter was bitten by a neighbor's dog and needed surgery. ATLAW fought the insurance company and got us enough to cover all her medical bills and the counseling she needed.", name: "Lisa P.", initials: "LP", date: "Child Dog Bite" },
-    { quote: "[CONFIRM] The owner said the dog had never bitten anyone before, as if that mattered. Dewnya explained Michigan's strict liability law and got us a result we're very happy with.", name: "Kevin R.", initials: "KR", date: "Dog Attack" },
-    { quote: "[CONFIRM] I was scared to pursue a claim against a neighbor. ATLAW handled everything professionally and the insurance company paid — not the neighbor personally.", name: "Samira A.", initials: "SA", date: "Facial Injury" },
-  ],
+  testimonials: [], // pages use the shared Google reviews (data/testimonials.ts)
   faqs: [
     { question: "Is the dog owner always liable for a bite in Michigan?", answer: "Yes, under Michigan's strict liability statute (MCL 287.351), the owner is liable if the dog bites someone who is on public property or lawfully on private property. The only exceptions are if the victim provoked the dog or was trespassing." },
     { question: "What if the dog has never bitten anyone before?", answer: "It doesn't matter. Michigan's strict liability law does not require proof that the dog had a history of aggression. The owner is liable regardless of whether they knew or should have known the dog was dangerous." },
@@ -69,11 +61,7 @@ export const dogBitesData: PracticeAreaPI = {
     { slug: "auto-accidents", title: "Auto Accident & No-Fault Claims" },
     { slug: "wrongful-death", title: "Wrongful Death" },
   ],
-  relatedCases: [
-    { amount: 78500, caseType: "Child Dog Bite", county: "Wayne County" },
-    { amount: 165000, caseType: "Dog Attack", county: "Oakland County" },
-    { amount: 245000, caseType: "Facial Injury", county: "Wayne County" },
-  ],
+  relatedCases: [], // firm-approved results only (none supplied yet)
   resources: [
     { title: "Michigan Personal Injury Overview", href: "/personal-injury" },
     { title: "Premises Liability / Slip & Fall", href: "/personal-injury/premises-liability" },

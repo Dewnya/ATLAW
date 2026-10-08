@@ -342,6 +342,9 @@ const CaseResultsComparison = ({ data }: { data: PracticeAreaPI }) => {
   const [start, setStart] = useState(0);
   const maxStart = Math.max(0, data.caseResults.length - 3);
 
+  // Firm-approved results only; the section stays hidden until there are some.
+  if (data.caseResults.length === 0) return null;
+
   return (
     <section
       aria-labelledby="pa-results-heading"
@@ -356,9 +359,9 @@ const CaseResultsComparison = ({ data }: { data: PracticeAreaPI }) => {
           id="pa-results-heading"
           style={{ fontSize: "clamp(28px, 4.5vw, 52px)", fontVariationSettings: headlineAxes }}
         >
-          They Offered Less. We Fought for{" "}
+          Insurance companies fight to pay less. ATLAW fights for{" "}
           <span className="relative inline-block">
-            More
+            what you deserve
             <span aria-hidden="true" className="absolute bottom-[2px] left-0 h-[3px] w-full rounded-full" style={{ backgroundColor: GOLD_BRIGHT }} />
           </span>
           <span style={{ color: GOLD_ACCENT }}>.</span>
@@ -599,7 +602,7 @@ const RelatedCasesStrip = ({ data }: { data: PracticeAreaPI }) => {
             className="font-sans text-[12px] font-semibold uppercase tracking-[0.22em] text-white/70"
             id="pa-related-cases-heading"
           >
-            Recent Case Results &mdash; [CONFIRM]
+            Recent Case Results
           </h2>
           <div className="flex gap-2">
             <button
