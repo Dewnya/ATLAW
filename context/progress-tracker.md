@@ -350,6 +350,14 @@ Plan: `context/project-plan.md` and `context/ATLAW-Build-Plan-Developer-SEO-Scop
   - Removed `MobileFloatingCTA` (was only on 4 pages; the bar covers it everywhere)
   - New `src/data/contact.ts` (phone + `SMS_NUMBER`); **Text Us is built but hidden** until `SMS_NUMBER` is set — see Open Questions
   - Verified: header fits at 1024/1280/1440 (0 overflow), both Free Case Review buttons open the modal, 390px bar 60px at bottom, no horizontal scroll
+- [x] Stats: "13 Years Serving Clients"; unverified totals held (Oct 9, 2026) — revision brief C
+  - New `src/data/firm.ts`: `YEARS_SERVING = 13` (bump yearly) and `VERIFIED_TOTALS = null`
+  - "Since 2013 / Founded 2013" stats → 13 years on the homepage hero strip, homepage stat bar, homepage Dewnya section, About numbers, Contact stats and city-page badges
+  - Cases closed / total recovered (10,000+ / $100M+) hidden until the firm confirms exact figures; set `VERIFIED_TOTALS` to show them (the case-results disclaimer returns with them)
+  - Homepage stat bar meanwhile: 13 Years Serving Clients · 10.0 Avvo Rating · 3× Super Lawyers Rising Star
+  - Kept as history: About timeline "2013" and Dewnya's "I founded ATLAW in 2013"
+  - Still open: the draft news post "ATLAW Surpasses $7 Million…" quotes 538 / $7,163,973 (handled with the news-posts task)
+  - Verified: built bundle has no "10,000" / "$100M"; screenshots of all six places on desktop + mobile
 
 ### Open Questions
 

@@ -5,6 +5,7 @@ import type { CityData } from "../../data/cities";
 import { cities } from "../../data/cities";
 import { practiceAreaBySlug } from "../../data/practice/pi";
 import { openIntakeModal } from "./IntakeModal";
+import { YEARS_SERVING } from "../../data/firm";
 import { IntakeFormSection } from "./IntakeFormSection";
 
 const GOLD = "#C9A24B";
@@ -174,7 +175,7 @@ const StatsBar = ({ city }: { city: CityData }) => (
   <section aria-label="Firm credentials" className="w-full border-y border-[#0B1F3A]/8 bg-[#F7F7F5]">
     <div className="mx-auto flex w-full max-w-[1180px] flex-wrap items-center justify-center gap-x-8 gap-y-3 px-6 py-5 sm:px-10 lg:gap-x-12 lg:px-16">
       {[
-        "Founded 2013",
+        `Serving Clients for ${YEARS_SERVING} Years`,
         `${city.county}`,
         "Super Lawyers Rising Star",
         "Avvo 10.0",

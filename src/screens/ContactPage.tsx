@@ -5,6 +5,7 @@ import { PageMeta } from "../components/ATLAW/PageMeta";
 import { RevealText, RevealBlock, RevealStagger } from "../motion/primitives";
 import { STAGGER } from "../motion/config";
 import { contactPageSchema } from "../data/schema-org";
+import { YEARS_SERVING } from "../data/firm";
 import { openIntakeModal } from "../components/ATLAW/IntakeModal";
 import { TestimonialsSection } from "../components/ATLAW/TestimonialsSection";
 import { IntakeFormSection } from "../components/ATLAW/IntakeFormSection";
@@ -184,7 +185,7 @@ const ContactHero = () => (
 /* ─── Section 2: Stats Bar ─────────────────────────────────────────────── */
 
 const stats = [
-  { label: "Founded", value: "2013" },
+  { label: "Serving Clients", value: `${YEARS_SERVING} Years` },
   { label: "Location", value: "Dearborn, MI" },
   { label: "Super Lawyers", value: "Rising Star" },
   { label: "Avvo Rating", value: "10.0" },

@@ -1,4 +1,5 @@
 import { openIntakeModal } from "./IntakeModal";
+import { YEARS_SERVING } from "../../data/firm";
 
 const grain =
   "url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E\")";
@@ -119,10 +120,10 @@ export const Hero = (): JSX.Element => {
         <div className="mx-auto flex max-w-[1440px] flex-wrap items-center justify-center gap-x-8 gap-y-3 px-6 py-5 sm:px-10 lg:gap-x-12 lg:px-20">
           <div className="flex flex-col items-center">
             <span className="font-serifDisplay text-[28px] font-normal leading-none tracking-[-0.02em] text-white sm:text-[32px]">
-              2013
+              {YEARS_SERVING}
             </span>
             <span className="mt-1 font-sans text-[9px] font-semibold uppercase tracking-[0.18em] text-white/40 sm:text-[10px]">
-              Founded
+              Years Serving Clients
             </span>
           </div>
 
