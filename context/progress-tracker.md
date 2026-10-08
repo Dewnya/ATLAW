@@ -358,6 +358,10 @@ Plan: `context/project-plan.md` and `context/ATLAW-Build-Plan-Developer-SEO-Scop
   - Kept as history: About timeline "2013" and Dewnya's "I founded ATLAW in 2013"
   - Still open: the draft news post "ATLAW Surpasses $7 Million…" quotes 538 / $7,163,973 (handled with the news-posts task)
   - Verified: built bundle has no "10,000" / "$100M"; screenshots of all six places on desktop + mobile
+- [x] Header/footer kept out of the 1.12 zoom (Oct 9, 2026)
+  - Homepage and Contact wrapped the whole page, header and footer included, in `[zoom:1.12]`, so the header was 12% larger there and "Free Case Review" was cut off at 1440px
+  - Zoom moved to `<main>` on both pages: content keeps its approved scale; header and footer are identical on every page
+  - Verified: header overflow 0 and height 89px on /, /contact and /about at 1024/1280/1440
 
 ### Open Questions
 

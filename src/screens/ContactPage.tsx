@@ -547,7 +547,7 @@ const ContactFAQ = () => (
 
 export const ContactPage = (): JSX.Element => {
   return (
-    <div className="min-h-screen bg-ivory text-ink [zoom:1.12]">
+    <div className="min-h-screen bg-ivory text-ink">
       <PageMeta
         title="Contact Us | Free Case Evaluation | ATLAW — Dearborn Personal Injury Lawyers"
         description="Contact ATLAW for a free personal injury case evaluation. Call (313) 406-7606 or visit our Dearborn office. No fee unless we win your case."
@@ -555,7 +555,7 @@ export const ContactPage = (): JSX.Element => {
         schema={contactPageSchema()}
       />
       <Header />
-      <main id="main-content">
+      <main id="main-content" className="[zoom:1.12]">
         <ContactHero />
         <StatsBar />
         <DirectContact />

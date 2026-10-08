@@ -19,7 +19,7 @@ import { homepageSchema } from "../data/schema-org";
 
 export const ATLAWLandingPage = (): JSX.Element => {
   return (
-    <div className="min-h-screen bg-ivory text-ink [zoom:1.12]">
+    <div className="min-h-screen bg-ivory text-ink">
       <PageMeta
         title="ATLAW"
         description="Dearborn personal injury lawyers fighting for injured clients across Southeast Michigan. Auto accidents, medical malpractice, wrongful death. Free consultation — no fee unless we win."
@@ -27,7 +27,7 @@ export const ATLAWLandingPage = (): JSX.Element => {
         schema={homepageSchema()}
       />
       <Header />
-      <main id="main-content">
+      <main id="main-content" className="[zoom:1.12]">
         <Hero />
         <AwardsMarquee />
         <ResultsStatBar />
