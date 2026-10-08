@@ -376,6 +376,12 @@ Plan: `context/project-plan.md` and `context/ATLAW-Build-Plan-Developer-SEO-Scop
   - Dearborn city copy: removed "steps from the 19th District Court" (×4), "directly off Michigan Avenue" and "Free parking is available on-site"; the office FAQ now gives the address and office hours (Mon–Fri 9–5, from the firm's brief); court names kept
   - Left for the copy rewrite (approximate, not location facts): Detroit "less than 15 minutes from downtown", Dearborn Heights "one of the closest personal injury law firms"
   - Verified: none of the removed phrases in the built bundle or on /, a practice page and the Dearborn page
+- [x] News: only approved firm updates (Oct 9, 2026) — revision brief N; Mo chose Option A
+  - Kept "ATLAW Founder Dewnya Bazzi Named Super Lawyers Rising Star for Third Consecutive Year" (facts already confirmed: 3× Rising Star, Avvo 10.0, Top 10 Under 40, 29-person team)
+  - Removed the quote attributed to Dewnya inside that post (written by the previous developer, never approved)
+  - Deleted the draft posts "ATLAW Surpasses $7 Million Recovered…" (unverified 538 / $7.16M) and "ATLAW Expands Personal Injury Team…" (no source); their URLs now show the 404 page and are out of `public/sitemap.xml`
+  - Still to confirm with the firm: the post's date (June 15, 2026 was set by the previous developer)
+  - Verified: /news shows 1 post (desktop + mobile, no overflow); post page renders without the quote; both removed URLs show the 404 page
 
 ### Open Questions
 
