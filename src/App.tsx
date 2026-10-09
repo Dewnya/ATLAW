@@ -11,13 +11,7 @@ import { MotionReady } from "./motion/MotionReady";
 const AboutUsPage = lazy(() => import("./screens/AboutUsPage").then((m) => ({ default: m.AboutUsPage })));
 const OurPeoplePage = lazy(() => import("./screens/OurPeoplePage").then((m) => ({ default: m.OurPeoplePage })));
 const ContactPage = lazy(() => import("./screens/ContactPage").then((m) => ({ default: m.ContactPage })));
-const PersonalInjuryPage = lazy(() => import("./screens/PersonalInjuryPage").then((m) => ({ default: m.PersonalInjuryPage })));
-const AutoAccidentsPage = lazy(() => import("./screens/AutoAccidentsPage").then((m) => ({ default: m.AutoAccidentsPage })));
-const MedicalMalpracticePage = lazy(() => import("./screens/MedicalMalpracticePage").then((m) => ({ default: m.MedicalMalpracticePage })));
-const WrongfulDeathPage = lazy(() => import("./screens/WrongfulDeathPage").then((m) => ({ default: m.WrongfulDeathPage })));
-const PremisesLiabilityPage = lazy(() => import("./screens/PremisesLiabilityPage").then((m) => ({ default: m.PremisesLiabilityPage })));
-const DogBitesPage = lazy(() => import("./screens/DogBitesPage").then((m) => ({ default: m.DogBitesPage })));
-const WorkersCompensationPage = lazy(() => import("./screens/WorkersCompensationPage").then((m) => ({ default: m.WorkersCompensationPage })));
+const PracticePage = lazy(() => import("./screens/PracticePage").then((m) => ({ default: m.PracticePage })));
 const CityLandingPage = lazy(() => import("./screens/CityLandingPage").then((m) => ({ default: m.CityLandingPage })));
 const AreasServedPage = lazy(() => import("./screens/AreasServedPage").then((m) => ({ default: m.AreasServedPage })));
 const NewsPage = lazy(() => import("./screens/NewsPage").then((m) => ({ default: m.NewsPage })));
@@ -47,13 +41,9 @@ export const App = (): JSX.Element => (
       <Route path="/terms" element={<TermsOfUsePage />} />
 
       {/* PI routes */}
-      <Route path="/personal-injury" element={<PersonalInjuryPage />} />
-      <Route path="/personal-injury/auto-accidents" element={<AutoAccidentsPage />} />
-      <Route path="/personal-injury/medical-malpractice" element={<MedicalMalpracticePage />} />
-      <Route path="/personal-injury/wrongful-death" element={<WrongfulDeathPage />} />
-      <Route path="/personal-injury/premises-liability" element={<PremisesLiabilityPage />} />
-      <Route path="/personal-injury/dog-bites" element={<DogBitesPage />} />
-      <Route path="/personal-injury/workers-compensation" element={<WorkersCompensationPage />} />
+      <Route path="/personal-injury" element={<PracticePage section="personal-injury" slug="personal-injury" />} />
+      <Route path="/personal-injury/:practice" element={<PracticePage section="personal-injury" />} />
+      <Route path="/disability/:practice" element={<PracticePage section="disability" />} />
       <Route path="/personal-injury/:practice/:city" element={<CityLandingPage />} />
       <Route path="/areas-served" element={<AreasServedPage />} />
 

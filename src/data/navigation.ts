@@ -1,4 +1,5 @@
-import { practiceNavGroups, practiceRegistry, practiceHref } from "./practice/pi/registry";
+import { practiceNavGroups, practiceHref } from "./practice/pi/registry";
+import { practicesWithPages } from "./practice/pages";
 import { cityRegistry, cityHref } from "./cities-registry";
 
 export const NAVY = "#0e1b33";
@@ -35,7 +36,7 @@ const practiceMenu: NavMenu = {
   label: "PRACTICE AREAS",
   groups: practiceNavGroups.map((group) => ({
     label: group.label,
-    links: practiceRegistry
+    links: practicesWithPages()
       .filter((p) => p.navGroup === group.id)
       .map((p) => ({ label: p.navLabel, to: practiceHref(p.slug) })),
   })),

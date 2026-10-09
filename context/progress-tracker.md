@@ -411,6 +411,12 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - Homepage stat bar: 10,000+ Cases Handled · $100M+ Recovered for Clients · 13 Years Serving Clients, with the case-results disclaimer (the Avvo and Rising Star stand-ins are no longer needed there; both remain elsewhere on the site)
   - About page "by the numbers": the two totals added beside years, team, home base and Rising Star
   - Verified: both sections on desktop + mobile, no horizontal overflow
+- [x] One route for every practice + the new practice areas (Oct 10, 2026) — build plan 4a, 4b
+  - `src/data/practice/pi/registry.ts` lists every planned practice with its URL section, nav group and schema service type: the original 7 plus truck, motorcycle, rideshare, pedestrian, distracted driving, drunk driving, uninsured motorist, no-fault insurance claims (car-accident-insurance), slip-and-fall, nursing home abuse and Social Security Disability (`/disability/`)
+  - `src/screens/PracticePage.tsx` serves `/personal-injury`, `/personal-injury/:practice` and `/disability/:practice`; the 7 hard-coded page files and routes are gone. Unknown slugs or the wrong section render the 404 page
+  - `src/data/practice/pages.ts` decides which practices have a page (for now the 7 with hand-written data); menus list only those, so new practices appear when their content is imported
+  - Menu groups now Auto & No-Fault / Injury / Medical / Work & Disability; "Auto Accidents" menu label is now "Car Accidents" (the page targets "car accident lawyer")
+  - Verified: the 7 pages keep their titles, H1s and canonicals; `/practice-areas/*` redirects still work; new and unknown slugs show the 404
 
 ### Open Questions
 

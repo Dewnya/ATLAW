@@ -56,6 +56,7 @@ atlaw_start/
 
 ## Routing Model
 
+- Practice pages: one `PracticePage` for `/personal-injury`, `/personal-injury/:practice` and `/disability/:practice`, driven by `src/data/practice/pi/registry.ts` (slug, section, nav group, schema service type). `src/data/practice/pages.ts` says which practices have a page; menus and prerender read it.
 - All routes defined in `src/App.tsx`; `src/index.tsx` wraps it in `BrowserRouter`, `src/entry-server.tsx` in `StaticRouter`.
 - Homepage is eagerly loaded (LCP route).
 - All other pages are lazy-loaded with `React.lazy()` + `<Suspense>`.
