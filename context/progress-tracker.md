@@ -417,6 +417,13 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - `src/data/practice/pages.ts` decides which practices have a page (for now the 7 with hand-written data); menus list only those, so new practices appear when their content is imported
   - Menu groups now Auto & No-Fault / Injury / Medical / Work & Disability; "Auto Accidents" menu label is now "Car Accidents" (the page targets "car accident lawyer")
   - Verified: the 7 pages keep their titles, H1s and canonicals; `/practice-areas/*` redirects still work; new and unknown slugs show the 404
+- [x] Content import for long pages (Oct 10, 2026) — build plan 4g
+  - Source: `content-source/practice/<slug>.md` = front matter (slug, section, status, SEO fields, source doc, delivered date) + the page copy in Markdown
+  - `scripts/docx_to_markdown.py` (bridge, Python): converts the writers' Word docs (Pandoc layout: metadata table, page copy, firm-confirm table) into those files. Used for Batch 1; drop it once the writers send Markdown or the sheet
+  - `npm run import-content` (`scripts/import-content.mjs`, uses `marked`): validates every page against the practice registry, splits the copy into intro / H2 sections / FAQs / closing CTA, stores copy as typed blocks (`src/content/types.ts`, no HTML), drops the per-page disclaimer (the footer carries it) and writes `src/content/practice/<slug>.json` (approved) or `src/content/practice-drafts/<slug>.json` (drafts)
+  - Refuses (exit 1, writes nothing) any approved page that still contains [CONFIRM], [VERIFY] or [ATTORNEY CHECK], a missing field, an unknown slug or section, H1 = title, unsupported Markdown, or (approved pages) a link to an unknown page. Warns on title/meta length outside 50–60 / 140–155
+  - Batch 1 imported: 14 drafts, 2,034–3,293 words, 10 FAQs each, 6–8 open items each. Warnings match the Batch 1 SEO review (14 long metas, 5 long titles, B1-15's `/car-accidents` link)
+  - Verified: flipping a page to approved with open items fails the import; re-running gives byte-identical output
 
 ### Open Questions
 

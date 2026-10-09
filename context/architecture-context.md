@@ -65,6 +65,12 @@ atlaw_start/
 - `ScrollToTop` resets scroll position on route change.
 - Unknown URLs hit the `<Route path="*">` catch-all and render `NotFoundPage` (noindex). Dynamic routes with unmatched params (city, practice, news slug) render it too instead of redirecting. A real 404 HTTP status needs `dist/404.html` from the prerender step.
 
+## Content pipeline (imported pages)
+
+- Writers' copy → `content-source/practice/<slug>.md` (front matter + Markdown; `scripts/docx_to_markdown.py` converts Word deliveries) → `npm run import-content` → `src/content/practice/*.json` (approved) or `src/content/practice-drafts/*.json` (drafts). JSON is committed, so builds never need the source or the network.
+- Copy is stored as typed blocks (`src/content/types.ts`), never HTML; the site renders it with its own components.
+- The import is the gate: approved pages with any [CONFIRM]/[VERIFY]/[ATTORNEY CHECK] are refused.
+
 ## Prerender (build-time HTML)
 
 - `npm run build:prerender` = client build, SSR build of `src/entry-server.tsx` into `dist-ssr/` (gitignored), then `scripts/prerender.mjs`.

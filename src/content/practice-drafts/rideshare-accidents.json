@@ -1,0 +1,1011 @@
+{
+ "slug": "rideshare-accidents",
+ "section": "personal-injury",
+ "status": "draft",
+ "seoTitle": "Michigan Uber & Lyft Accident Lawyer – Which Policy Pays",
+ "seoDescription": "Hurt in an Uber or Lyft crash in Michigan, as a passenger, driver, or the other car? ATLAW explains which of three insurance policies applies and who pays your bills. Free review.",
+ "h1": "Michigan Uber & Lyft Accident Lawyer",
+ "tagline": "Three insurance policies can apply to a rideshare crash, depending on what the app was doing. Here is how to tell which one, and what Michigan no-fault does for you.",
+ "primaryKeyword": "michigan uber accident lawyer",
+ "secondaryKeywords": [
+  "michigan uber accident attorney",
+  "lyft accident lawyer michigan",
+  "rideshare accident lawyer michigan",
+  "uber passenger accident michigan",
+  "detroit uber accident lawyer"
+ ],
+ "intro": [
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "A crash involving an Uber or Lyft is a car accident with one extra question that decides everything: what was the app doing at the moment of impact? The answer determines whether the driver’s personal insurance, a limited rideshare policy, or a $1 million commercial policy is responsible. It also determines who pays your Michigan no-fault benefits, and in what order. Insurers on both sides know the rules; most injured passengers, drivers, and other motorists do not."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "This page explains Michigan’s rideshare insurance law, how no-fault applies, and what to do in the first days, when the app data that answers the central question still exists."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across Wayne, Oakland, Macomb, and Washtenaw counties. Rideshare cases are handled on contingency: no fee unless we recover money for you, and the first conversation is free."
+    }
+   ]
+  }
+ ],
+ "sections": [
+  {
+   "id": "the-three-periods-which-insurance-applies-to-a-rideshare-crash",
+   "heading": "The three periods: which insurance applies to a rideshare crash",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Michigan regulates Uber, Lyft, and similar companies as “transportation network companies” under the Limousine, Taxicab, and Transportation Network Company Act (2016 PA 345, MCL 257.2101 and following). The Act requires insurance in three periods (MCL 257.2123):"
+      }
+     ]
+    },
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Period"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "What the driver was doing"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Required coverage"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Who provides it"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "App off"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Driving for personal reasons"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "The driver’s personal auto policy"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Driver’s insurer"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "App on, no ride accepted"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Logged in, waiting for a request"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$50,000 per person / $100,000 per crash bodily injury, $25,000 property damage, plus no-fault PIP and property protection"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Uber or Lyft, or the driver’s rideshare endorsement"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Ride accepted or passenger on board"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "En route to pick up, or carrying a passenger"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$1,000,000 combined bodily injury and property damage, plus no-fault PIP and property protection"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Uber or Lyft"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Two things follow. First, the moment the driver accepted the ride, a $1 million policy attached, and it stays attached until the passenger is dropped off. Second, the gap period (app on, no ride) has coverage only at Michigan’s minimum limits, which is why a serious injury in that period often turns on the injured person’s own uninsured/underinsured motorist coverage."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Most personal auto policies exclude driving for hire. A driver who crashed with the app off has ordinary coverage; a driver who crashed with the app on and no rideshare endorsement may find the personal insurer denying the claim and the rideshare policy covering it under the Act. The Act requires the rideshare company’s insurer to provide coverage when the driver’s policy lapses or excludes it."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Proving which period applied is the first job."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Uber and Lyft keep trip logs, GPS data, and timestamps for every session. They do not volunteer them. A preservation letter and, if necessary, a subpoena get the data. A driver who says “I was off the app” is contradicted or confirmed by the record within days of the request."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "who-pays-your-no-fault-benefits-after-a-rideshare-crash",
+   "heading": "Who pays your no-fault benefits after a rideshare crash",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Michigan no-fault pays your medical bills and lost wages regardless of fault, through Personal Injury Protection (PIP). Which insurer pays depends on who you were."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "If you were a passenger."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Rideshare vehicles are treated differently from taxis and buses under the no-fault priority rules. In general, your own auto policy pays first; if you have none, a policy held by a relative you live with; if there is none, the insurer of the rideshare vehicle, which during a trip is the company’s policy, since the Act requires it to include PIP; and only after that the Michigan Assigned Claims Plan. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "ATTORNEY CHECK",
+         "v": "confirm the PIP priority order for a transportation network company passenger under MCL 500.3114 as amended by 2016 PA 345, including whether the TNC policy or the driver’s personal policy is the “insurer of the owner or registrant” in the third position"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " The practical point for passengers: the fact that you were a paying customer does not mean Uber’s insurer pays your medical bills first. Your own policy usually does."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "If you were the rideshare driver."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Your own policy pays PIP if it does not exclude rideshare use; if it does, the rideshare company’s policy covers PIP while the app is on. Drivers are independent contractors, not employees, so there is no workers’ compensation claim, which makes the PIP and the third-party claim everything."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "If you were in another car, on a bike, or on foot, hit by a rideshare vehicle."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Your own policy pays your PIP, as in any crash. The rideshare period decides which liability policy you claim against for pain and suffering."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "PIP benefits are the same in every case: medical expenses up to your coverage level, 85% of lost wages up to $7,455 a month for crashes on or after October 1, 2026, $20 a day in replacement services, attendant care, and mileage. Written notice to the responsible insurer within one year is required (MCL 500.3145)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "when-you-can-sue-and-whom",
+   "heading": "When you can sue, and whom",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "For pain and suffering and economic losses beyond no-fault, you sue the at-fault driver, and you may if your injury is a serious impairment of body function (MCL 500.3135): objectively manifested, affecting an important body function, affecting your general ability to lead your normal life. The defendants:"
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The rideshare driver"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", covered by whichever policy applied in that period."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Uber or Lyft directly"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", in limited circumstances. Because drivers are independent contractors under Michigan law, the companies are not automatically liable for a driver’s negligence. They can be liable for their own negligence: approving a driver who failed, or should have failed, the background check the Act requires (MCL 257.2127), or keeping a driver on the platform after complaints. These claims are contested and fact-specific."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Another driver"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " who caused the crash, covered by their own policy. In a crash between a rideshare vehicle and another car, both drivers’ fault is apportioned, and a passenger can claim against both."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Your own UM/UIM coverage"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", if the at-fault driver’s policy is the $50,000 minimum or nothing."
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Comparative fault applies: more than 50% at fault bars non-economic damages, and below that the award is reduced by your share. Passengers are rarely assigned fault, which is one reason passenger cases resolve more cleanly than driver cases."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-michigans-rideshare-law-requires-of-drivers-and-companies",
+   "heading": "What Michigan’s rideshare law requires of drivers and companies",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The Act is also a source of evidence. Uber and Lyft must run criminal background and driving-record checks before approving a driver and annually after (MCL 257.2127); a driver may not have more than three moving violations in three years, or a serious violation (DUI, reckless driving, fleeing) in seven. Drivers must be at least 19, hold a valid license and insurance, and the vehicle must pass an annual inspection (MCL 257.2129). The Act imposes a "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "zero-tolerance"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " drug and alcohol policy while a driver is logged on (MCL 257.2133), and the company must suspend a driver on receiving a passenger complaint of impairment pending investigation. A company that kept a driver with a disqualifying record on the road has violated the Act, and that violation is evidence of negligence."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rideshare-crashes-in-metro-detroit",
+   "heading": "Rideshare crashes in metro Detroit",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Detroit is one of the larger rideshare markets in the Midwest, and the crash patterns follow the demand: airport trips on I-94 and Merriman Road to Detroit Metropolitan Airport, game and concert nights around Ford Field, Comerica Park, and Little Caesars Arena, late-night trips from downtown and Midtown to Dearborn, Southfield, and the suburbs, and campus traffic in Ann Arbor. The 2024 State Police figures for the four counties ATLAW serves: 118,110 crashes, 34,424 people injured, 350 killed. Rideshare vehicles are not separately counted, but a rideshare driver works the busiest roads at the busiest hours, with a phone mounted on the dash."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-to-do-after-an-uber-or-lyft-accident-in-michigan",
+   "heading": "What to do after an Uber or Lyft accident in Michigan",
+   "blocks": [
+    {
+     "t": "ol",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Screenshot the app immediately"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": the trip screen, the driver’s name and photo, the license plate, the route, the time. If you are the driver, screenshot your status and the trip log. This is the evidence of which period applied, and it is the one piece the companies will not preserve for you."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Report the crash to the police"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " and get the report number (UD-10). Make sure the report identifies the vehicle as a rideshare if it was."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Report it in the app."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Uber and Lyft both have an in-app crash report; filing it creates a company record with a timestamp. Report facts only; do not describe your injuries or accept fault."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Get medical care the same day."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Rideshare injuries are no different from any crash injury; the record dated that day is the case."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Notify your own auto insurer in writing"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " (no-fault notice), and do not give a recorded statement to Uber’s or Lyft’s insurer, or the other driver’s, without a lawyer. The companies use third-party administrators who will call within days."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Call a lawyer within the week."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " The preservation letter for app and GPS data should go out before the companies’ retention windows close."
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-a-michigan-rideshare-accident-case-is-worth",
+   "heading": "What a Michigan rideshare accident case is worth",
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The period"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", because it sets the policy limit: $50,000 or $1 million."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The injury"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " and whether it clears the serious-impairment threshold."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Economic losses beyond no-fault"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": bills above your PIP level, wages above the cap or beyond three years."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "How many defendants"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": a passenger injured in a two-car crash may have claims against both drivers’ policies plus the rideshare policy."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Your own UM/UIM coverage"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", which matters most in gap-period and hit-and-run cases."
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "ATLAW’s results: more than 10,000 cases and more than $100 million recovered for clients in 13 years, across all injury practice areas. Every case is different and past results do not predict yours."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "deadlines",
+   "heading": "Deadlines",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Deadline"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Applies to"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Source"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "Days"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Preservation letter for app, GPS, and trip data"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Practice"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "1 year from the crash"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Written notice for no-fault PIP benefits"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 500.3145"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "3 years from the crash"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Lawsuit against the driver, the company, or another motorist"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5805"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Per policy, often short"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "UM/UIM claim notice to your own insurer"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Your policy"
+        }
+       ]
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "why-people-in-metro-detroit-call-atlaw-after-a-rideshare-crash",
+   "heading": "Why people in metro Detroit call ATLAW after a rideshare crash",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "A Dearborn firm that reads the policies first."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " The first step in a rideshare case is identifying the period and the policy, and requesting the app data before it is gone. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "CONFIRM",
+         "v": "that the firm sends the preservation request to the rideshare company in the first days"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " The office is at "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "CONFIRM",
+         "v": "street address"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ". "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "CONFIRM",
+         "v": "attorney names"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "More than 10,000 cases, more than $100 million recovered"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " in 13 years, across all injury practice areas. Every case is different; the figures show the firm has done this work against these insurers."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "No fee unless we win."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " A contingency fee set in writing before we start. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "CONFIRM",
+         "v": "percentage and cost handling"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "English, Arabic, and Spanish."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Many rideshare drivers in Dearborn and Hamtramck are Arabic-speaking; consultations and intake are available in Arabic. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "CONFIRM",
+         "v": "who provides Arabic and Spanish"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "I was a passenger in an Uber that crashed. Who pays my medical bills?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Your own auto insurer first, through no-fault PIP, then a relative’s policy if you have none, then the rideshare vehicle’s insurer, then the Assigned Claims Plan. Being a paying passenger does not put Uber’s insurer first in line for your medical bills; it does make the $1 million policy available for your injury claim."
+    }
+   ]
+  },
+  {
+   "question": "Does Uber or Lyft have insurance for crashes in Michigan?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Yes, by law. $1 million while a ride is accepted or a passenger is on board; $50,000/$100,000/$25,000 while the app is on with no ride; nothing while the app is off (the driver’s personal policy applies)."
+    }
+   ]
+  },
+  {
+   "question": "What if the Uber driver was at fault?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "You claim against the policy that applied in that period. If a passenger was on board, that is the $1 million policy. The driver is an independent contractor, so Uber itself is liable only for its own negligence, such as approving a driver who should have failed the background check."
+    }
+   ]
+  },
+  {
+   "question": "What if another driver hit the Uber I was in?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "You claim against that driver’s policy for your injury, and your no-fault benefits are paid as above. If that driver was uninsured or underinsured, the rideshare policy’s UM/UIM coverage (if any) and your own UM/UIM coverage apply."
+    }
+   ]
+  },
+  {
+   "question": "I drive for Uber and was hit. Do I get workers’ compensation?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "No; drivers are independent contractors. You get no-fault PIP (from your own policy, or the company’s if yours excludes rideshare use) and a claim against the at-fault driver."
+    }
+   ]
+  },
+  {
+   "question": "My personal insurer denied my claim because I was driving for Lyft. What now?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "If the app was on, the rideshare company’s policy covers the period under Michigan’s Act. If it was off, your personal policy applies and the denial can be challenged."
+    }
+   ]
+  },
+  {
+   "question": "How do I prove whether the app was on?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Uber and Lyft keep trip and GPS logs. A preservation letter, and if needed a subpoena, obtains them. Screenshot everything at the scene."
+    }
+   ]
+  },
+  {
+   "question": "Can I sue Uber or Lyft directly?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Only for the company’s own negligence, such as failing to run the required background check or keeping a driver with a disqualifying record. The driver’s negligence is covered by the policy, not by a claim against the company."
+    }
+   ]
+  },
+  {
+   "question": "How long do I have?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "One year to notify the no-fault insurer, three years to sue. App data should be requested within days."
+    }
+   ]
+  },
+  {
+   "question": "How much does a rideshare accident lawyer cost?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Nothing up front. ATLAW works on a contingency fee set in writing before we begin; you owe no fee unless we recover money for you. Michigan caps the fee at one-third of the net recovery."
+    }
+   ]
+  }
+ ],
+ "cta": {
+  "id": "talk-to-a-michigan-uber-and-lyft-accident-lawyer",
+  "heading": "Talk to a Michigan Uber and Lyft accident lawyer",
+  "blocks": [
+   {
+    "t": "p",
+    "c": [
+     {
+      "t": "text",
+      "v": "Call "
+     },
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "text",
+        "v": "(313) 406-7606"
+       }
+      ]
+     },
+     {
+      "t": "text",
+      "v": " or send the form below. We respond within one business day. The consultation is free, in English, Arabic, or Spanish, and there is no fee unless we recover money for you. "
+     },
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "placeholder",
+        "kind": "CONFIRM",
+        "v": "home and hospital visits"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "wordCount": 2208,
+ "openItems": 7,
+ "source": {
+  "file": "B1-10_Michigan-Uber-Lyft-Accident-Lawyer.docx",
+  "delivered": "2026-10-12"
+ }
+}

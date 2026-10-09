@@ -1,0 +1,994 @@
+{
+ "slug": "motorcycle-accidents",
+ "section": "personal-injury",
+ "status": "draft",
+ "seoTitle": "Michigan Motorcycle Accident Lawyer – No-Fault Rules for Riders",
+ "seoDescription": "Hurt on a motorcycle in Michigan? Riders are treated differently under no-fault. ATLAW explains who pays your bills, the helmet law, and when you can sue. Free review.",
+ "h1": "Michigan Motorcycle Accident Lawyer",
+ "tagline": "Michigan’s no-fault law treats riders differently from drivers. Here is who pays, what the helmet law changes, and when you can sue.",
+ "primaryKeyword": "michigan motorcycle accident lawyer",
+ "secondaryKeywords": [
+  "michigan motorcycle accident attorney",
+  "motorcycle crash lawyer michigan",
+  "motorcycle no fault michigan",
+  "michigan helmet law accident",
+  "detroit motorcycle accident lawyer"
+ ],
+ "intro": [
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "If you were hurt on a motorcycle in Michigan, the first thing an insurance adjuster will count on is that you do not know how no-fault works for riders. Most riders do not, because it works differently than it does for drivers, and the difference decides who pays your medical bills, how much they pay, and whether the fact that you were not wearing a helmet can be used against you. This page explains the rules as they actually are."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across Wayne, Oakland, Macomb, and Washtenaw counties. Motorcycle cases are handled on contingency: no fee unless we recover money for you, and the first conversation is free."
+    }
+   ]
+  }
+ ],
+ "sections": [
+  {
+   "id": "how-michigan-no-fault-works-for-motorcyclists",
+   "heading": "How Michigan no-fault works for motorcyclists",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Michigan’s no-fault law defines a “motor vehicle” as having more than two wheels. A motorcycle is not one. That single definition produces every rule below."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "If a car or truck was involved in your crash, you get no-fault benefits, but not from your own motorcycle insurer."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Under MCL 500.3114(5), your Personal Injury Protection (PIP) benefits come, in order, from: the insurer of the owner of the motor vehicle involved; then the insurer of that vehicle’s driver; then your own auto insurer if you have a car policy; then the insurer of your motorcycle. “Involved” does not require contact. A car that cut you off and caused you to lay the bike down is involved even if it never touched you, which is why identifying that vehicle matters."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Those PIP benefits are the same ones a driver would get: medical expenses, 85% of lost wages up to $7,455 a month for crashes on or after October 1, 2026, $20 a day in replacement services, attendant care, and mileage. You must give written notice to the responsible insurer within one year (MCL 500.3145)."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "The amount of medical coverage depends on a policy you did not choose."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Since the 2019 reform, the PIP medical limit that applies to a rider is tied to the coverage level on the car policy that is first in priority. If the driver who hit you chose a $250,000 medical level, that is what you have, even if you would have chosen unlimited. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "ATTORNEY CHECK",
+         "v": "confirm the current rule on the PIP medical limit that applies to a motorcyclist under MCL 500.3107c and 500.3114(5), including what applies when the priority insurer’s policy is a Medicare opt-out"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " This is the strongest argument for buying optional first-party medical coverage on your motorcycle policy, and we tell every rider who calls us to check whether they have it."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "If no car or truck was involved, no-fault does not apply at all."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " A single-vehicle crash, a collision with a deer, a fall caused by a pothole or gravel: there is no PIP claim. Your medical bills go to your health insurance and to whatever optional medical coverage you bought on the motorcycle policy. Your injury claim, if there is one, is against whoever caused the hazard: a road agency for a defect (written notice within 120 days, MCL 691.1404), a property owner, or a manufacturer for a defective part."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Your motorcycle itself is covered only by your own collision coverage"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ", or by Michigan’s mini-tort claim against the at-fault driver for up to $3,000 (MCL 500.3135(3)(e)). Motorcycle damage regularly exceeds $3,000, which is another reason the optional coverages on a motorcycle policy matter more than the ones on a car policy."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "when-you-can-sue-the-driver-who-hit-you",
+   "heading": "When you can sue the driver who hit you",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "No-fault pays bills. For pain, suffering, and a changed life, you sue the at-fault driver, and you can if your injury is a "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "serious impairment of body function"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " under MCL 500.3135: objectively manifested, affecting an important body function, affecting your general ability to lead your normal life. Motorcycle injuries clear that threshold more often than any other crash type, because there is nothing between the rider and the pavement. Road rash requiring grafts, fractures, a torn rotator cuff, a traumatic brain injury: all qualify. There is no cap on these damages in Michigan."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "You can also recover "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "excess economic damages"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ": medical bills above the PIP limit that applied to you, wage loss above the monthly cap or after three years, and future care. For a rider stuck with a $250,000 medical limit and a serious injury, this is where the case is."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Comparative fault"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " is the fight in most motorcycle cases. If you were more than 50% at fault, you recover no non-economic damages; below that, your award is reduced by your share. Insurers argue that riders were speeding, lane-splitting (illegal in Michigan), or “came out of nowhere.” The answer is evidence: the crash report, witnesses, the other driver’s phone records, and increasingly, the rider’s own helmet or bike camera."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "michigans-helmet-law-and-what-it-means-for-your-case",
+   "heading": "Michigan’s helmet law, and what it means for your case",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Since April 2012, Michigan has let riders 21 and older ride without a helmet if they carry at least $20,000 in first-party medical benefits coverage and have either held a motorcycle endorsement for two years or passed an approved safety course (MCL 257.658). A passenger may ride helmetless only if 21 or older and covered by the same $20,000."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Two things follow for an injury claim."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "First, "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "not wearing a helmet is not negligence"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " if you met the legal conditions. The insurer will still raise it. Michigan law does not bar your claim for riding helmetless legally, but a jury can consider whether a helmet would have prevented a head injury when deciding how much of that injury is attributable to the crash. In a case with a head injury, this is argued; in a case with a leg injury, it is irrelevant and we say so."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Second, "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "if you rode helmetless without meeting the conditions"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ", that is a civil infraction, and the insurer will use it to argue comparative fault. It does not end the claim."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The data is worth knowing: in 2024, 168 motorcyclists died on Michigan roads and 2,460 were injured, in 3,187 crashes. Thirty-one percent of the deaths involved drinking. (Michigan State Police, 2024 Motorcycle Crash Facts.)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "why-motorcycle-crashes-happen-in-metro-detroit",
+   "heading": "Why motorcycle crashes happen in metro Detroit",
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Left-turning drivers."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " The most common fatal motorcycle crash in Michigan is a car turning left across the rider’s path. The driver “didn’t see” the motorcycle. Under Michigan law, the turning driver must yield; failing to see a bike that was there to be seen is negligence."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Lane changes and blind spots"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " on I-94, I-75, I-96, and the Lodge."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Distracted drivers."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Michigan’s 2023 hands-free law makes a driver’s phone use a traffic violation and their phone records evidence."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Road hazards"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": potholes, gravel at intersections, uneven lanes in construction zones. These are claims against road agencies, with a 120-day notice rule, and they are harder than claims against drivers; we will tell you honestly whether yours is worth pursuing."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Impaired drivers."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " A bar that overserved the driver may be liable under Michigan’s dram shop law."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Dooring"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": a parked driver opening a door into a rider’s path, common on Woodward, Michigan Avenue, and in downtown Detroit and Royal Oak."
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-to-do-after-a-motorcycle-accident-in-michigan",
+   "heading": "What to do after a motorcycle accident in Michigan",
+   "blocks": [
+    {
+     "t": "ol",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Get medical care, and tell the doctor everything."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Riders walk away from crashes with injuries that show up days later. The record dated close to the crash is the case."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Identify every vehicle involved"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", including ones that did not hit you. The driver who cut you off and kept going is the “involved motor vehicle” whose insurer may owe your PIP benefits. Get plates, witness names, and any camera footage."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Get the police report"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " (UD-10). If the report blames you, do not panic; officers who did not see the crash assign fault from statements, and it is challenged regularly."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Photograph the bike, the scene, your gear, and your injuries."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Keep the helmet and the gear; do not repair or sell the bike until a lawyer says so."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Notify the responsible no-fault insurer in writing"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", and your own insurers. One year is the deadline; days is the right timing."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Do not give a recorded statement"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " to the other driver’s insurer, and do not post about the crash."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Talk to a lawyer before accepting anything"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", including an offer to “take care of the bike.”"
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-a-michigan-motorcycle-accident-case-is-worth",
+   "heading": "What a Michigan motorcycle accident case is worth",
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The injury."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Motorcycle crashes produce fractures, road rash with grafting, shoulder and knee reconstructions, brain injuries, and amputations at rates no other vehicle does. Permanence drives the number."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The medical limit that applied to you"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", and how far your bills exceed it. The excess is recoverable from the at-fault driver."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Fault, and how well it is documented."
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The at-fault driver’s policy limits"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " (Michigan minimum: $50,000 per person, $100,000 per crash) and your own uninsured/underinsured motorist coverage, if you bought it on the motorcycle policy. Many riders learn after the crash that they did not."
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "ATLAW’s results: more than 10,000 cases and more than $100 million recovered for clients in 13 years, across all injury practice areas. Every case is different and past results do not predict yours."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "deadlines",
+   "heading": "Deadlines",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Deadline"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Applies to"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Source"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "1 year from the crash"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Written notice for no-fault PIP benefits to the responsible insurer"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 500.3145"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "120 days"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Notice to a road agency for a pothole, gravel, or road-defect claim"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 691.1404"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "3 years from the crash"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Lawsuit against the at-fault driver"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5805"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "3 years from the crash"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Mini-tort claim for damage to the motorcycle"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5805"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Per policy, often short"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "UM/UIM claim notice to your own insurer"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Your policy"
+        }
+       ]
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "why-riders-in-metro-detroit-call-atlaw",
+   "heading": "Why riders in metro Detroit call ATLAW",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "A Dearborn firm that knows the rider rules."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " The office is at "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "CONFIRM",
+         "v": "street address"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": "; the attorney who meets you handles your case. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "CONFIRM",
+         "v": "attorney names"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "More than 10,000 cases, more than $100 million recovered"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " in 13 years, across all injury practice areas. Every case is different; the figures show the firm has done this work against these insurers."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "We check your coverage before we talk about your case."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " The first thing we do is read your motorcycle policy, your auto policy, and the other driver’s declarations page, because in a motorcycle case the coverage decides the strategy."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "No fee unless we win."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " A contingency fee set in writing before we start. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "CONFIRM",
+         "v": "percentage and cost handling"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "English, Arabic, and Spanish."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": "  "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "CONFIRM",
+         "v": "who provides Arabic and Spanish"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Does Michigan no-fault cover motorcycle accidents?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Only if a car, truck, or other motor vehicle was involved. Then your PIP benefits come from that vehicle’s insurer first, not your motorcycle insurer. If no motor vehicle was involved, no-fault does not apply."
+    }
+   ]
+  },
+  {
+   "question": "Who pays my medical bills if I was hit by a car while riding?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "The insurer of the car’s owner, then the car’s driver, then your own auto insurer, then your motorcycle insurer, in that order (MCL 500.3114(5)). The medical limit on the car owner’s policy generally sets how much is available."
+    }
+   ]
+  },
+  {
+   "question": "Can I still recover if I was not wearing a helmet?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Yes. If you were 21 or older with the required $20,000 medical coverage and either two years of endorsement or a safety course, riding helmetless was legal. The insurer can still argue a helmet would have reduced a head injury, which is a damages argument, not a bar."
+    }
+   ]
+  },
+  {
+   "question": "What if I crashed because of a pothole or gravel, with no car involved?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "There is no no-fault claim. Your health insurance and any optional motorcycle medical coverage pay the bills. A claim against the road agency is possible but requires written notice within 120 days and has to overcome governmental immunity. Call quickly if this is your situation."
+    }
+   ]
+  },
+  {
+   "question": "Who pays for the damage to my motorcycle?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Your own collision coverage if you bought it, and up to $3,000 from the at-fault driver under Michigan’s mini-tort law. Beyond that, the at-fault driver’s liability coverage does not pay for property damage in Michigan."
+    }
+   ]
+  },
+  {
+   "question": "Can I sue the driver who hit me?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "If your injury is a serious impairment of body function (MCL 500.3135), yes, for pain and suffering and for economic losses no-fault did not cover. Most motorcycle injuries meet the threshold."
+    }
+   ]
+  },
+  {
+   "question": "What if the driver says I came out of nowhere?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "That is the standard defense, and it is a comparative-fault argument. The crash report, witnesses, vehicle damage patterns, phone records, and camera footage decide it. If you were less than 50% at fault you recover, reduced by your share."
+    }
+   ]
+  },
+  {
+   "question": "How long do I have?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "One year to notify the no-fault insurer, three years to sue the driver, 120 days to notify a road agency. Call sooner; evidence and witnesses do not keep."
+    }
+   ]
+  },
+  {
+   "question": "How much does a motorcycle accident lawyer cost?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Nothing up front. ATLAW works on a contingency fee set in writing before we begin, and you owe no fee unless we recover money for you. Michigan caps the fee at one-third of the net recovery."
+    }
+   ]
+  },
+  {
+   "question": "Should I buy more coverage on my motorcycle policy?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "If you ride in Michigan, yes: first-party medical coverage (at least the $20,000 required to ride helmetless, and more if you can), uninsured/underinsured motorist coverage, and collision. These are the coverages that decide what a rider recovers when the other driver carries the state minimum."
+    }
+   ]
+  }
+ ],
+ "cta": {
+  "id": "talk-to-a-michigan-motorcycle-accident-lawyer",
+  "heading": "Talk to a Michigan motorcycle accident lawyer",
+  "blocks": [
+   {
+    "t": "p",
+    "c": [
+     {
+      "t": "text",
+      "v": "Call "
+     },
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "text",
+        "v": "(313) 406-7606"
+       }
+      ]
+     },
+     {
+      "t": "text",
+      "v": " or send the form below. We respond within one business day. The consultation is free, in English, Arabic, or Spanish, and there is no fee unless we recover money for you. If you cannot travel, we will come to you. "
+     },
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "placeholder",
+        "kind": "CONFIRM",
+        "v": "home and hospital visits"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "wordCount": 2186,
+ "openItems": 6,
+ "source": {
+  "file": "B1-04_Michigan-Motorcycle-Accident-Lawyer.docx",
+  "delivered": "2026-10-12"
+ }
+}
