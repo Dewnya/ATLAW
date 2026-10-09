@@ -406,6 +406,11 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - Verified in Chrome (desktop + mobile): no console errors or hydration warnings; card navigation and Back work; non-prerendered pages unchanged; dev server unchanged
   - Still to check on a Vercel preview: the clean URL serves the file (needs the build command `npm run build:prerender`)
   - Found: on non-prerendered pages the template's default description stays next to the page's own one (2 descriptions). Goes away when every page is prerendered (Week 2)
+- [x] Confirmed firm figures shown (Oct 10, 2026) — build plan (updated Oct 9): the firm confirmed "more than 10,000 cases" and "more than $100 million recovered"
+  - `src/data/firm.ts`: `VERIFIED_TOTALS` = `10,000+` cases handled, `$100M+` recovered (one place; `null` hides them everywhere). Field renamed `casesClosed` → `casesHandled` to match the firm's wording
+  - Homepage stat bar: 10,000+ Cases Handled · $100M+ Recovered for Clients · 13 Years Serving Clients, with the case-results disclaimer (the Avvo and Rising Star stand-ins are no longer needed there; both remain elsewhere on the site)
+  - About page "by the numbers": the two totals added beside years, team, home base and Rising Star
+  - Verified: both sections on desktop + mobile, no horizontal overflow
 
 ### Open Questions
 

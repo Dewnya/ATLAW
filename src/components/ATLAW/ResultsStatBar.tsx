@@ -18,7 +18,7 @@ const Stat = ({ label, value }: { label: string; value: string }) => (
 
 /**
  * ResultsStatBar — firm-wide credibility metrics.
- * Lifetime totals (cases closed, total recovered) show only once VERIFIED_TOTALS
+ * Lifetime totals (cases handled, total recovered) show only once VERIFIED_TOTALS
  * is set in data/firm.ts, and then carry the standard case-results disclaimer.
  * Until then the bar shows years of service plus approved recognitions.
  */
@@ -43,7 +43,7 @@ export const ResultsStatBar = (): JSX.Element => {
           <div className="grid grid-cols-1 gap-y-10 sm:grid-cols-3 sm:gap-y-0 sm:divide-x sm:divide-white/10">
             {VERIFIED_TOTALS && (
               <>
-                <Stat label="Cases Closed" value={VERIFIED_TOTALS.casesClosed} />
+                <Stat label="Cases Handled" value={VERIFIED_TOTALS.casesHandled} />
                 <Stat label="Recovered for Clients" value={VERIFIED_TOTALS.recovered} />
               </>
             )}

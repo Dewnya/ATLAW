@@ -80,7 +80,7 @@ export const byTheNumbers = [
   // Lifetime totals appear only once verified (data/firm.ts).
   ...(VERIFIED_TOTALS
     ? [
-        { label: "Cases Closed", value: VERIFIED_TOTALS.casesClosed },
+        { label: "Cases Handled", value: VERIFIED_TOTALS.casesHandled },
         { label: "Recovered for Clients", value: VERIFIED_TOTALS.recovered },
       ]
     : []),
