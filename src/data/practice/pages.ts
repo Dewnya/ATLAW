@@ -1,4 +1,5 @@
 import { practiceEntry, practiceRegistry, type PracticeEntry } from "./pi/registry";
+import { hasPracticeContent } from "../../content";
 
 /**
  * Which planned practices have a page today. Menus, links and the prerender
@@ -6,7 +7,7 @@ import { practiceEntry, practiceRegistry, type PracticeEntry } from "./pi/regist
  */
 export const practiceHasPage = (slug: string): boolean => {
   const entry = practiceEntry(slug);
-  return Boolean(entry && "legacy" in entry);
+  return Boolean(entry && ("legacy" in entry || hasPracticeContent(slug)));
 };
 
 /** Registry entries that currently have a page, in registry order. */

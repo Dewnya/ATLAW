@@ -72,3 +72,9 @@ export const practiceHref = (slug: PracticeSlug): string => {
   if (slug === "personal-injury") return "/personal-injury";
   return `/${bySlug.get(slug)!.section}/${slug}`;
 };
+
+/** URL for any practice slug (unknown slugs fall back to /personal-injury/<slug>). */
+export const practicePath = (slug: string): string => {
+  const entry = bySlug.get(slug);
+  return entry ? practiceHref(entry.slug) : `/personal-injury/${slug}`;
+};

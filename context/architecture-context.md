@@ -70,6 +70,8 @@ atlaw_start/
 - Writers' copy → `content-source/practice/<slug>.md` (front matter + Markdown; `scripts/docx_to_markdown.py` converts Word deliveries) → `npm run import-content` → `src/content/practice/*.json` (approved) or `src/content/practice-drafts/*.json` (drafts). JSON is committed, so builds never need the source or the network.
 - Copy is stored as typed blocks (`src/content/types.ts`), never HTML; the site renders it with its own components.
 - The import is the gate: approved pages with any [CONFIRM]/[VERIFY]/[ATTORNEY CHECK] are refused.
+- `src/content/index.ts` maps slugs to lazy JSON loaders; drafts are included only in dev or with `VITE_SHOW_DRAFTS=true` (Vercel previews). `PracticePage` renders `PracticeLongFormPage` when a slug has content, else the original hand-written page.
+- Drafts render with a review banner, highlighted open items and `noindex`.
 
 ## Prerender (build-time HTML)
 

@@ -424,6 +424,14 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - Refuses (exit 1, writes nothing) any approved page that still contains [CONFIRM], [VERIFY] or [ATTORNEY CHECK], a missing field, an unknown slug or section, H1 = title, unsupported Markdown, or (approved pages) a link to an unknown page. Warns on title/meta length outside 50–60 / 140–155
   - Batch 1 imported: 14 drafts, 2,034–3,293 words, 10 FAQs each, 6–8 open items each. Warnings match the Batch 1 SEO review (14 long metas, 5 long titles, B1-15's `/car-accidents` link)
   - Verified: flipping a page to approved with open items fails the import; re-running gives byte-identical output
+- [x] Long practice page layout (Oct 10, 2026) — build plan 4h
+  - `PracticePage` renders imported content when a page has it (it takes precedence over the original data), else the original page, else the 404. Each imported page's JSON and the layout load only when that page opens (one lazy component per slug)
+  - `src/components/ATLAW/practice/PracticeLongFormPage.tsx`: hero (reused), intro, table of contents on pages over 2,000 words, the writers' sections in their order beside the sticky "3 Ways to Start Your Case" box, shared Google reviews, FAQ accordion + FAQPage JSON-LD, the page's closing CTA, related practices (same menu group first), intake form, city links (original practices), final CTA band
+  - `RichText.tsx` renders the typed blocks: paragraphs with bold lead-ins, numbered and bulleted lists, H3s, tables that scroll inside their box on phones, internal and external links
+  - Drafts: a banner ("Draft for attorney review, not published", open-item count, source doc), highlighted [CONFIRM]/[VERIFY]/[ATTORNEY CHECK] items, `noindex`. `src/content/index.ts` includes drafts only in dev or with `VITE_SHOW_DRAFTS=true` (set it on Vercel previews); a production build contains no draft text (checked: no "CONFIRM" in `dist/`)
+  - Menus now list every practice with a page: 15 in dev/preview (14 drafts + workers' comp); production still shows the original 7 until pages are approved
+  - Template pieces reused from `PracticeAreaDetailTemplate` (now exported): Hero (breadcrumb parent optional, hidden on /disability and the hub), SidebarCTA, AccordionItem (answers can be rich), RelatedPagesSection (takes a list), CityLinksSection, FinalCTABand
+  - Verified (dev, desktop + mobile): truck, car, Social Security and hub pages: banner, noindex, TOC, all H2s, tables, highlighted items, 10 FAQs, LegalService + FAQPage JSON-LD, no console errors, no horizontal overflow; workers' comp (no import yet) still shows the original page
 
 ### Open Questions
 

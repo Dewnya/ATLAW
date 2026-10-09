@@ -1,4 +1,4 @@
-import { useState, useEffect, useRef } from "react";
+import { useState, useEffect, useRef, type ReactNode } from "react";
 import { Link } from "react-router-dom";
 import type { PracticeAreaPI } from "../../data/practice/pi/types";
 import { openIntakeModal } from "./IntakeModal";
@@ -6,6 +6,7 @@ import { TestimonialsSection } from "./TestimonialsSection";
 import { IntakeFormSection } from "./IntakeFormSection";
 import { ProcessSection } from "./ProcessSection";
 import { practiceAreaBySlug } from "../../data/practice/pi";
+import { practicePath } from "../../data/practice/pi/registry";
 
 const GOLD = "#C9A24B";
 const GOLD_ACCENT = "#B88A2D";
@@ -150,7 +151,12 @@ const StickySubNav = () => {
 
 /* ─────────────────── 2. Hero ─────────────────── */
 
-const Hero = ({ data }: { data: PracticeAreaPI }) => (
+type HeroData = Pick<PracticeAreaPI, "title" | "heroTitle" | "tagline" | "heroImage" | "heroImageAlt">;
+
+/** Breadcrumb parent; null hides it (e.g. /disability pages, which have no section index). */
+type Crumb = { label: string; to: string } | null;
+
+export const Hero = ({ data, parent = { label: "Personal Injury", to: "/personal-injury" } }: { data: HeroData; parent?: Crumb }) => (
   <section
     aria-labelledby="pa-hero-title"
     className="relative w-full overflow-hidden bg-white"
@@ -168,8 +174,12 @@ const Hero = ({ data }: { data: PracticeAreaPI }) => (
         <ol className="flex flex-wrap items-center gap-x-3 gap-y-1" style={{ color: STONE }}>
           <li><Link className="transition-colors hover:text-[#0B1F3A]" to="/">ATLAW</Link></li>
           <li aria-hidden="true" className="text-[#0B1F3A]/30">/</li>
-          <li><Link className="transition-colors hover:text-[#0B1F3A]" to="/personal-injury">Personal Injury</Link></li>
-          <li aria-hidden="true" className="text-[#0B1F3A]/30">/</li>
+          {parent && (
+            <>
+              <li><Link className="transition-colors hover:text-[#0B1F3A]" to={parent.to}>{parent.label}</Link></li>
+              <li aria-hidden="true" className="text-[#0B1F3A]/30">/</li>
+            </>
+          )}
           <li><span aria-current="page" style={{ color: INK }}>{data.title}</span></li>
         </ol>
       </nav>
@@ -241,7 +251,7 @@ const Hero = ({ data }: { data: PracticeAreaPI }) => (
 
 /* ─────────────────── 3. Overview (Two-Column) ─────────────────── */
 
-const SidebarCTA = () => (
+export const SidebarCTA = () => (
   <div
     className="rounded-[16px] px-7 py-8 text-white shadow-[0_12px_40px_rgba(14,27,51,0.3)] lg:px-8 lg:py-10"
     style={{ background: NAVY_CANVAS }}
@@ -527,7 +537,7 @@ const LongFormContent = ({ data }: { data: PracticeAreaPI }) => (
 
 /* ─────────────────── 8. FAQ Accordion ─────────────────── */
 
-const AccordionItem = ({ faq }: { faq: { question: string; answer: string } }) => {
+export const AccordionItem = ({ faq }: { faq: { question: string; answer: ReactNode } }) => {
   const [open, setOpen] = useState(false);
 
   return (
@@ -545,9 +555,9 @@ const AccordionItem = ({ faq }: { faq: { question: string; answer: string } }) =
       </button>
       <div className={`grid transition-all duration-300 ease-[cubic-bezier(0.22,1,0.36,1)] ${open ? "grid-rows-[1fr] opacity-100" : "grid-rows-[0fr] opacity-0"}`}>
         <div className="overflow-hidden">
-          <p className="pb-5 pr-10 font-sans text-[15px] leading-[1.7] lg:text-[16px]" style={{ color: STONE }}>
+          <div className="pb-5 pr-10 font-sans text-[15px] leading-[1.7] lg:text-[16px]" style={{ color: STONE }}>
             {faq.answer}
-          </p>
+          </div>
         </div>
       </div>
     </div>
@@ -669,7 +679,7 @@ const RelatedCasesStrip = ({ data }: { data: PracticeAreaPI }) => {
 
 /* ─────────────────── 10. Related Pages Carousel ─────────────────── */
 
-const RelatedPagesSection = ({ data }: { data: PracticeAreaPI }) => (
+export const RelatedPagesSection = ({ areas }: { areas: { slug: string; title: string }[] }) => (
   <section
     aria-labelledby="pa-related-heading"
     className="relative w-full overflow-hidden bg-[#F7F7F5]"
@@ -688,14 +698,14 @@ const RelatedPagesSection = ({ data }: { data: PracticeAreaPI }) => (
       </h2>
 
       <div className="mt-10 grid grid-cols-1 gap-5 md:mt-12 md:grid-cols-2 lg:grid-cols-3 lg:gap-6">
-        {data.relatedAreas.map((area) => {
+        {areas.map((area) => {
           const img = practiceAreaBySlug[area.slug]?.heroImage;
           return (
             <Link
               className="group relative flex min-h-[200px] flex-col justify-end overflow-hidden rounded-[16px] px-7 pb-7 pt-16 shadow-[0_6px_24px_rgba(5,15,28,0.12)] transition-all duration-[250ms] hover:-translate-y-[3px] hover:shadow-[0_14px_36px_rgba(5,15,28,0.2)] lg:min-h-[220px]"
               key={area.slug}
               style={{ background: NAVY_CANVAS }}
-              to={`/personal-injury/${area.slug}`}
+              to={practicePath(area.slug)}
             >
               {img ? (
                 <>
@@ -775,7 +785,7 @@ const AdditionalResources = ({ data }: { data: PracticeAreaPI }) => {
 
 /* ─────────────────── 13. City Links ─────────────────── */
 
-const CityLinksSection = ({ data }: { data: PracticeAreaPI }) => (
+export const CityLinksSection = ({ data }: { data: Pick<PracticeAreaPI, "slug" | "cities"> }) => (
   <section aria-labelledby="pa-cities-heading" className="relative w-full overflow-hidden bg-[#F7F7F5]">
     <Grain opacity="0.03" />
 
@@ -806,7 +816,7 @@ const CityLinksSection = ({ data }: { data: PracticeAreaPI }) => (
 
 /* ─────────────────── Final CTA Band ─────────────────── */
 
-const FinalCTABand = () => (
+export const FinalCTABand = () => (
   <section aria-labelledby="pa-final-cta" className="w-full">
     <div className="relative isolate overflow-hidden text-white" style={{ background: NAVY_CANVAS }}>
       <Grain opacity="0.06" />
@@ -868,7 +878,7 @@ export const PracticeAreaDetailTemplate = ({ data }: { data: PracticeAreaPI }): 
     </div>
     <FAQSection data={data} />
     <RelatedCasesStrip data={data} />
-    <RelatedPagesSection data={data} />
+    <RelatedPagesSection areas={data.relatedAreas} />
     <IntakeFormSection />
     <AdditionalResources data={data} />
     <CityLinksSection data={data} />
