@@ -396,6 +396,9 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - Homepage title (tab + `index.html` fallback): "ATLAW" → "Dearborn Personal Injury Lawyers | ATLAW — Free Case Review"
   - Legal name "AT Law Group, PLLC": footer copyright, schema.org `legalName` (homepage, about, contact), Terms of Use (×4, was "ATLAW Group, PLLC") and Privacy Policy contact line
   - Verified: title and `legalName` render on desktop + mobile; footer shows the legal name; the map loads and pins the office
+- [x] Practice-area cards link to their own pages (Oct 9, 2026) — revision brief G; checked, no code change needed
+  - Homepage Practice Areas section (6 cards), the /personal-injury overview, the related-area cards on all 6 practice pages, the "Also Serving" cards on city pages and the /areas-served city cards
+  - Verified in the browser: 36 "Learn More" cards on 10 pages (18 unique links) each open the matching page, none hit the 404
 
 ### Open Questions
 
