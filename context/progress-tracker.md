@@ -318,7 +318,7 @@ All Phase 1 specs (01–09) complete. Open questions resolved (see below).
 
 ### Phase 2 — Launch build (Oct 7–30, 2026 · branch `mo-dev`)
 
-Plan: `context/project-plan.md` and `context/ATLAW-Build-Plan-Developer-SEO-Scope.pdf`.
+Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Revision Brief.
 
 - [x] Day-1 setup (Oct 7, 2026)
   - `package-lock.json`: 79 URLs moved from `registry.npmmirror.com` to `registry.npmjs.org` (versions and integrity unchanged; clean `npm ci` verified)
