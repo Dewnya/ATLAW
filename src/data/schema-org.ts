@@ -2,7 +2,7 @@ const FIRM = {
   name: "ATLAW — AT Law Group",
   url: "https://atlawgroup.com",
   telephone: "+1-313-406-7606",
-  email: "db@atlawgroup.com",
+  email: "info@atlawgroup.com",
   address: {
     "@type": "PostalAddress" as const,
     streetAddress: "3 Park Lane Blvd., Suite 400W",

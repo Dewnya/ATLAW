@@ -7,7 +7,7 @@
    publication. All sections now contain substantive Michigan-specific language.
    ──────────────────────────────────────────────────────────────────────────── */
 
-export const EMAIL = "db@atlawgroup.com";
+export const EMAIL = "info@atlawgroup.com";
 export const LAST_UPDATED = "June 26, 2026";
 
 export type Section = {

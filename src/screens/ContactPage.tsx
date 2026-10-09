@@ -234,9 +234,9 @@ const contactMethods: ContactMethod[] = [
   {
     icon: <MailIcon className="h-8 w-8 text-[#C6A04A]" />,
     title: "Email",
-    primary: "db@atlawgroup.com",
+    primary: "info@atlawgroup.com",
     secondary: "We respond within 24 hours.",
-    href: "mailto:db@atlawgroup.com",
+    href: "mailto:info@atlawgroup.com",
   },
   {
     icon: <PinIcon className="h-8 w-8 text-[#C6A04A]" />,
@@ -369,9 +369,9 @@ const OfficeLocation = () => (
               <MailIcon className="h-5 w-5 shrink-0 text-[#B88A2D]" />
               <a
                 className="font-sans text-[16px] font-medium text-[#0B1F3A] transition-colors duration-200 hover:text-[#B88A2D]"
-                href="mailto:db@atlawgroup.com"
+                href="mailto:info@atlawgroup.com"
               >
-                db@atlawgroup.com
+                info@atlawgroup.com
               </a>
             </div>
 

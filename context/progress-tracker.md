@@ -386,13 +386,18 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - Shared reviews section (`TestimonialsSection`): "Backed by Five-Star Reviews." → "Trusted by Clients. Rated 5 Stars."; sub-line → "Every testimonial represents a life changed."
   - Team page staff heading: "The People Behind Your Case." → "Your Client Advocates."; the hero line "The people behind your case." is unchanged (not in the brief)
   - Verified: new heading on /, /about, /contact and a practice page (desktop + mobile); old wording gone from the built bundle
+- [x] One public email: info@atlawgroup.com (Oct 9, 2026) — revision brief (email decision)
+  - `db@atlawgroup.com` → `info@atlawgroup.com` on the Contact page, Privacy Policy, Terms and the schema.org business data
+  - Final CTA "Email" button pointed at the wrong domain (`info@atlawfirm.com`) → `info@atlawgroup.com`
+  - `careers@atlawgroup.com` in the footer kept for job applications
+  - Verified: the built bundle holds only info@ and careers@; /, /contact, /privacy, /terms and a practice page show only those (desktop + mobile)
 
 ### Open Questions
 
 - [ ] **PRE-LAUNCH — Text Us number.** Confirm with the firm whether (313) 406-7606 can receive SMS, or get a dedicated SMS number. Then set `SMS_NUMBER` in `src/data/contact.ts` (the Text buttons in the header and mobile bar appear automatically).
 
 - [ ] **Testimonials copy** — still pending from client; homepage + practice-area testimonials remain [CONFIRM] template (client working on copy).
-- [ ] **Email inconsistency** (pre-existing, needs client decision) — site mixes `info@atlawgroup.com` (Footer, templates, NoFeeBanner) and `db@atlawgroup.com` (Contact, legal, schema). Not changed — confirm which is the public contact address, then standardize.
+- [x] ~~**Email inconsistency**~~ — resolved Oct 9, 2026: the revision brief chose `info@atlawgroup.com`; now used everywhere.
 - [ ] **News content** — 3 press releases are DRAFTS built from confirmed facts. Replace with client-approved announcements as issued.
 
 ### Architecture Decisions

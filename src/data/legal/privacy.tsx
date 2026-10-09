@@ -6,7 +6,7 @@ import { Link } from "react-router-dom";
    Michigan-compliant privacy policy for a PI-only law firm operating from
    Dearborn, MI. Covers: data collection (forms, analytics), cookies,
    third-party services (CXP Legal Tech intake forms, Google Analytics), and contact for privacy
-   inquiries (db@atlawgroup.com).
+   inquiries (info@atlawgroup.com).
 
    The screen owns all layout JSX, hooks, motion, icons, and SectionBlock.
    ──────────────────────────────────────────────────────────────────────────── */
@@ -16,7 +16,7 @@ const INK = "#0E1B2C";
 const INK_SOFT = "#3A4A63";
 const STONE = "#7A7466";
 
-export const EMAIL = "db@atlawgroup.com";
+export const EMAIL = "info@atlawgroup.com";
 export const LAST_UPDATED = "June 26, 2026";
 
 export type Section = {
@@ -251,7 +251,7 @@ export const sections: Section[] = [
     paragraphs: [
       "We implement reasonable administrative, technical, and physical safeguards designed to protect personal information from unauthorized access, disclosure, alteration, or destruction.",
       "These measures include: encryption of data in transit (HTTPS/TLS), access controls limiting who within the firm can view personal information, secure hosting infrastructure, and regular review of our data practices.",
-      "No method of transmission over the Internet or electronic storage is 100% secure. While we strive to protect your information, we cannot guarantee its absolute security. If you have reason to believe your interaction with us is no longer secure, please contact us immediately at db@atlawgroup.com.",
+      "No method of transmission over the Internet or electronic storage is 100% secure. While we strive to protect your information, we cannot guarantee its absolute security. If you have reason to believe your interaction with us is no longer secure, please contact us immediately at info@atlawgroup.com.",
     ],
   },
   {
@@ -268,7 +268,7 @@ export const sections: Section[] = [
       "Deletion: You may request that we delete personal information we hold about you, subject to our legal and professional retention obligations.",
       "Newsletter opt-out: You may unsubscribe from our newsletter at any time by using the unsubscribe link in any email or by contacting us directly.",
       "Cookie controls: You may control cookies through your browser settings, as described in the Cookies & Analytics section above.",
-      "To exercise any of these rights, email us at db@atlawgroup.com. We will respond to your request within 30 days. We may need to verify your identity before processing your request. Note that certain information may be exempt from deletion where we are required to retain it by law or professional obligation.",
+      "To exercise any of these rights, email us at info@atlawgroup.com. We will respond to your request within 30 days. We may need to verify your identity before processing your request. Note that certain information may be exempt from deletion where we are required to retain it by law or professional obligation.",
     ],
   },
   {
@@ -293,7 +293,7 @@ export const sections: Section[] = [
     paragraphs: [
       "This website is not directed at children under the age of 13, and we do not knowingly collect personal information from children under 13. If we learn that we have collected personal information from a child under 13, we will promptly delete it.",
       "Personal injury matters involving minors are handled through their parents or legal guardians. In such cases, we collect information from and communicate with the parent or guardian, not the minor.",
-      "If you believe a child under 13 has provided us with personal information, please contact us at db@atlawgroup.com so we can take appropriate action.",
+      "If you believe a child under 13 has provided us with personal information, please contact us at info@atlawgroup.com so we can take appropriate action.",
     ],
   },
   {
