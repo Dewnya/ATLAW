@@ -259,15 +259,14 @@ export const TestimonialsSection = (): JSX.Element => {
             className="mt-5 font-serifDisplay font-normal leading-[1.04] tracking-[-0.02em] text-[#0B1F3A] text-[clamp(36px,5.5vw,72px)]"
             id="testimonials-heading"
           >
-            Backed by <span className="text-[#C6A04A]">Five-Star</span> Reviews<span className="text-[#B88A2D]">.</span>
+            Trusted by Clients. Rated <span className="text-[#C6A04A]">5 Stars</span><span className="text-[#B88A2D]">.</span>
           </RevealText>
 
           <RevealBlock
             as="p"
             className="mt-6 max-w-[680px] font-sans text-[18px] leading-[1.6] text-[#3A4A63] lg:text-[19px]"
           >
-            Real stories from real clients. Every testimonial represents a life
-            changed and a fight won.
+            Every testimonial represents a life changed.
           </RevealBlock>
         </header>
 

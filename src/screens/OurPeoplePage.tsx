@@ -191,7 +191,7 @@ export const OurPeoplePage = (): JSX.Element => {
                 className="mx-auto mt-6 font-serifDisplay text-[32px] font-normal leading-[1.08] tracking-[-0.02em] sm:text-[40px] md:text-[48px]"
                 style={{ color: INK }}
               >
-                The People Behind Your Case<span aria-hidden="true" style={{ color: GOLD }}>.</span>
+                Your Client Advocates<span aria-hidden="true" style={{ color: GOLD }}>.</span>
               </h2>
             </div>
 

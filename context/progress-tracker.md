@@ -382,6 +382,10 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - Deleted the draft posts "ATLAW Surpasses $7 Million Recovered…" (unverified 538 / $7.16M) and "ATLAW Expands Personal Injury Team…" (no source); their URLs now show the 404 page and are out of `public/sitemap.xml`
   - Still to confirm with the firm: the post's date (June 15, 2026 was set by the previous developer)
   - Verified: /news shows 1 post (desktop + mobile, no overflow); post page renders without the quote; both removed URLs show the 404 page
+- [x] Approved review and team headings (Oct 9, 2026) — revision brief I, M
+  - Shared reviews section (`TestimonialsSection`): "Backed by Five-Star Reviews." → "Trusted by Clients. Rated 5 Stars."; sub-line → "Every testimonial represents a life changed."
+  - Team page staff heading: "The People Behind Your Case." → "Your Client Advocates."; the hero line "The people behind your case." is unchanged (not in the brief)
+  - Verified: new heading on /, /about, /contact and a practice page (desktop + mobile); old wording gone from the built bundle
 
 ### Open Questions
 
