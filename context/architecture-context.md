@@ -23,7 +23,9 @@ atlaw_start/
 ├── vite.config.ts                # Vite config with React plugin
 ├── tsconfig.json                 # TypeScript config
 ├── src/
-│   ├── index.tsx                 # React root, BrowserRouter, all routes
+│   ├── index.tsx                 # Browser entry: BrowserRouter; hydrates prerendered HTML, else renders
+│   ├── App.tsx                   # All routes + site-wide overlays (shared by browser and prerender)
+│   ├── entry-server.tsx          # Build-time render of one URL (StaticRouter), not shipped to browsers
 │   ├── screens/                  # Page-level components (one per route)
 │   ├── components/ATLAW/         # Shared UI components (Header, Footer, sections)
 │   │   ├── header/               # Header sub-components (mega menu, mobile drawer)
@@ -38,7 +40,8 @@ atlaw_start/
 │   │   └── hero/                 # Homepage hero images
 │   ├── fonts/                    # Self-hosted font files (woff2)
 │   └── team imgs/                # Legacy team photos (to be replaced)
-├── scripts/                      # Image conversion utilities (sharp)
+├── scripts/                      # Image conversion utilities (sharp); prerender.mjs (build-time HTML)
+├── vercel.json                   # SPA rewrite + cleanUrls (serves prerendered /a/b.html at /a/b)
 └── context/                      # Project context files (this directory)
 ```
 
@@ -53,13 +56,23 @@ atlaw_start/
 
 ## Routing Model
 
-- All routes defined in `src/index.tsx`.
+- All routes defined in `src/App.tsx`; `src/index.tsx` wraps it in `BrowserRouter`, `src/entry-server.tsx` in `StaticRouter`.
 - Homepage is eagerly loaded (LCP route).
 - All other pages are lazy-loaded with `React.lazy()` + `<Suspense>`.
 - Fallback during lazy load: thin `RouteProgressBar` at the top of the viewport.
 - `BrowserRouter` runs with `v7_startTransition`, so the current page stays on screen while the next chunk loads; there is no forced loading screen between pages.
 - `ScrollToTop` resets scroll position on route change.
 - Unknown URLs hit the `<Route path="*">` catch-all and render `NotFoundPage` (noindex). Dynamic routes with unmatched params (city, practice, news slug) render it too instead of redirecting. A real 404 HTTP status needs `dist/404.html` from the prerender step.
+
+## Prerender (build-time HTML)
+
+- `npm run build:prerender` = client build, SSR build of `src/entry-server.tsx` into `dist-ssr/` (gitignored), then `scripts/prerender.mjs`.
+- For each route in `ROUTES`, the script renders the page with React's web-stream renderer (waits for lazy routes), writes `dist/<route>.html` with the page's own `<title>`, meta, canonical and JSON-LD (template defaults removed, so no tag appears twice), and the markup inside `#app`.
+- The browser entry hydrates that HTML (`hydrateRoot`) when `#app` already has content; other URLs keep the client-only render through the SPA rewrite.
+- Vercel serves `/a/b` from `a/b.html` through `cleanUrls`; existing files win over the rewrite.
+- Any render error fails the build (errors inside Suspense boundaries are collected and rethrown).
+- Status (Oct 9, 2026): proven on `/personal-injury/auto-accidents` only; the plain `npm run build` does not prerender yet. Week 2 extends `ROUTES` to every page type and switches the build.
+- Components must not touch `window`/`document` during render (effects only); otherwise the prerender fails.
 
 ## Image Strategy
 

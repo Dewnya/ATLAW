@@ -399,6 +399,13 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
 - [x] Practice-area cards link to their own pages (Oct 9, 2026) — revision brief G; checked, no code change needed
   - Homepage Practice Areas section (6 cards), the /personal-injury overview, the related-area cards on all 6 practice pages, the "Also Serving" cards on city pages and the /areas-served city cards
   - Verified in the browser: 36 "Learn More" cards on 10 pages (18 unique links) each open the matching page, none hit the 404
+- [x] Prerender test: one page as real HTML (Oct 9, 2026) — build plan
+  - Routes moved to `src/App.tsx`; `src/entry-server.tsx` renders a URL at build time; `scripts/prerender.mjs` writes `dist/personal-injury/auto-accidents.html`; `npm run build:prerender` runs all three steps
+  - The browser hydrates the prerendered HTML; `vercel.json` gains `cleanUrls` so the file is served at the clean URL
+  - Verified without JavaScript (`curl` against `vite preview`): the page's own title, description, canonical, Open Graph/Twitter tags (each once), H1, 14 H2s, 1,884 words, FAQ, phone and LegalService JSON-LD (before: an empty `#app`)
+  - Verified in Chrome (desktop + mobile): no console errors or hydration warnings; card navigation and Back work; non-prerendered pages unchanged; dev server unchanged
+  - Still to check on a Vercel preview: the clean URL serves the file (needs the build command `npm run build:prerender`)
+  - Found: on non-prerendered pages the template's default description stays next to the page's own one (2 descriptions). Goes away when every page is prerendered (Week 2)
 
 ### Open Questions
 
