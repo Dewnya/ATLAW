@@ -3,6 +3,8 @@ import { renderToReadableStream } from "react-dom/server.browser";
 import { StaticRouter } from "react-router-dom/server";
 import { HelmetProvider, type HelmetServerState } from "react-helmet-async";
 import { App } from "./App";
+import { practicesWithPages } from "./data/practice/pages";
+import { practiceHref } from "./data/practice/pi/registry";
 import { SmoothScroll } from "./motion/SmoothScroll";
 
 export interface RenderResult {
@@ -50,4 +52,12 @@ export async function render(url: string): Promise<RenderResult> {
     : "";
 
   return { html, head };
+}
+
+/**
+ * URLs written as static HTML at build time. Practice pages come from the
+ * registry, so every practice with content (and only those) is prerendered.
+ */
+export function prerenderRoutes(): string[] {
+  return practicesWithPages().map((p) => practiceHref(p.slug));
 }

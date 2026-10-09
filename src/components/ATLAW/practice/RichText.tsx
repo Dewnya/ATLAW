@@ -40,7 +40,7 @@ export const RichInline = ({ nodes }: { nodes: Inline[] }): JSX.Element => (
         case "placeholder":
           return (
             <mark className="rounded-[3px] bg-[#FFE89A] px-1 font-sans text-[0.92em] font-semibold text-[#5A4300]" key={i} title="Open item: needs the firm or attorney before publishing">
-              [{n.kind}{n.v ? `: ${n.v}` : ""}]
+              {`[${n.kind}${n.v ? `: ${n.v}` : ""}]`}
             </mark>
           );
       }

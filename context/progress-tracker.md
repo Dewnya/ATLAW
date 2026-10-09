@@ -432,6 +432,13 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - Menus now list every practice with a page: 15 in dev/preview (14 drafts + workers' comp); production still shows the original 7 until pages are approved
   - Template pieces reused from `PracticeAreaDetailTemplate` (now exported): Hero (breadcrumb parent optional, hidden on /disability and the hub), SidebarCTA, AccordionItem (answers can be rich), RelatedPagesSection (takes a list), CityLinksSection, FinalCTABand
   - Verified (dev, desktop + mobile): truck, car, Social Security and hub pages: banner, noindex, TOC, all H2s, tables, highlighted items, 10 FAQs, LegalService + FAQPage JSON-LD, no console errors, no horizontal overflow; workers' comp (no import yet) still shows the original page
+- [x] Every practice page prerendered; `npm run build` now prerenders (Oct 10, 2026) — build plan 3
+  - `prerenderRoutes()` (entry-server) lists every practice with a page from the registry; `scripts/prerender.mjs` writes each as `dist/<path>.html`. Production: 7 pages; preview with drafts: 16
+  - `npm run build` = client build + SSR build + prerender (Vercel runs it as is); `npm run build:spa` keeps the plain client build
+  - Guard: a production build (no `VITE_SHOW_DRAFTS`) fails if any prerendered page contains [CONFIRM], [VERIFY] or [ATTORNEY CHECK] (launch gate: no CONFIRM in `dist/`). Placeholders render as one text node so the scan can't miss them
+  - Verified: production build has no "CONFIRM" anywhere in `dist/`; the guard stops a build fed draft content; without JavaScript, draft pages return 2,800–3,600 words, noindex, LegalService + FAQPage JSON-LD and one description; hydration on prerendered drafts shows no console errors (desktop + mobile), card navigation and Back work
+  - **Vercel previews:** set `VITE_SHOW_DRAFTS=true` for the Preview environment only, so previews show drafts and production never does
+  - Still open (week 2): the other page types (home, about, team, contact, news, city pages), a real 404 status (needs the SPA rewrite to point at a separate shell file instead of the prerendered pages)
 
 ### Open Questions
 

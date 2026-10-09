@@ -75,12 +75,12 @@ atlaw_start/
 
 ## Prerender (build-time HTML)
 
-- `npm run build:prerender` = client build, SSR build of `src/entry-server.tsx` into `dist-ssr/` (gitignored), then `scripts/prerender.mjs`.
-- For each route in `ROUTES`, the script renders the page with React's web-stream renderer (waits for lazy routes), writes `dist/<route>.html` with the page's own `<title>`, meta, canonical and JSON-LD (template defaults removed, so no tag appears twice), and the markup inside `#app`.
+- `npm run build` = client build, SSR build of `src/entry-server.tsx` into `dist-ssr/` (gitignored), then `scripts/prerender.mjs` (`npm run build:spa` = client build only).
+- Routes come from `prerenderRoutes()` in `src/entry-server.tsx` (every practice with a page). For each, the script renders the page with React's web-stream renderer (waits for lazy routes), writes `dist/<route>.html` with the page's own `<title>`, meta, canonical and JSON-LD (template defaults removed, so no tag appears twice), and the markup inside `#app`.
 - The browser entry hydrates that HTML (`hydrateRoot`) when `#app` already has content; other URLs keep the client-only render through the SPA rewrite.
 - Vercel serves `/a/b` from `a/b.html` through `cleanUrls`; existing files win over the rewrite.
 - Any render error fails the build (errors inside Suspense boundaries are collected and rethrown).
-- Status (Oct 9, 2026): proven on `/personal-injury/auto-accidents` only; the plain `npm run build` does not prerender yet. Week 2 extends `ROUTES` to every page type and switches the build.
+- Status (Oct 10, 2026): every practice page is prerendered and `npm run build` prerenders. Other page types follow in week 2. A production build fails if a page contains [CONFIRM]/[VERIFY]/[ATTORNEY CHECK].
 - Components must not touch `window`/`document` during render (effects only); otherwise the prerender fails.
 
 ## Image Strategy
