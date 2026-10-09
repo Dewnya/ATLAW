@@ -325,7 +325,7 @@ const OfficeLocation = () => (
         <div className="aspect-[4/3] w-full overflow-hidden rounded-[16px] shadow-[0_8px_24px_rgba(0,0,0,0.08)] lg:aspect-auto lg:min-h-[420px]">
           <iframe
             title="ATLAW Group office location"
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2953.8!2d-83.2454!3d42.3222!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x883b34e3f5c3d2f1%3A0x1234567890abcdef!2s3%20Park%20Ln%20Blvd%20Suite%20400W%2C%20Dearborn%2C%20MI%2048126!5e0!3m2!1sen!2sus!4v1"
+            src="https://maps.google.com/maps?q=3+Park+Lane+Blvd+Suite+400W,+Dearborn,+MI+48126&z=15&output=embed"
             className="h-full w-full border-0"
             allowFullScreen
             loading="lazy"

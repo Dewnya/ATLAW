@@ -391,6 +391,11 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - Final CTA "Email" button pointed at the wrong domain (`info@atlawfirm.com`) → `info@atlawgroup.com`
   - `careers@atlawgroup.com` in the footer kept for job applications
   - Verified: the built bundle holds only info@ and careers@; /, /contact, /privacy, /terms and a practice page show only those (desktop + mobile)
+- [x] Quick fixes: map, homepage title, legal name (Oct 9, 2026)
+  - Contact map: the embed used a made-up place ID (`0x1234567890abcdef`); now a keyless address embed (`maps.google.com/maps?q=…&output=embed`) that pins 3 Park Lane Blvd, Suite 400W
+  - Homepage title (tab + `index.html` fallback): "ATLAW" → "Dearborn Personal Injury Lawyers | ATLAW — Free Case Review"
+  - Legal name "AT Law Group, PLLC": footer copyright, schema.org `legalName` (homepage, about, contact), Terms of Use (×4, was "ATLAW Group, PLLC") and Privacy Policy contact line
+  - Verified: title and `legalName` render on desktop + mobile; footer shows the legal name; the map loads and pins the office
 
 ### Open Questions
 

@@ -215,7 +215,7 @@ export const Footer = (): JSX.Element => {
         <div className="mt-12 border-t border-[#B88A2D]/20 pt-7">
           <div className="flex flex-col items-center gap-5 text-center lg:flex-row lg:justify-between lg:gap-8 lg:text-left">
             <p className="order-3 font-sans text-[13px] text-white/55 lg:order-1">
-              &copy; {year} ATLAW Group. All rights reserved.
+              &copy; {year} AT Law Group, PLLC. All rights reserved.
             </p>
 
             <ul className="order-1 flex flex-wrap items-center justify-center gap-y-2 lg:order-2">

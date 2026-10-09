@@ -1,5 +1,6 @@
 const FIRM = {
   name: "ATLAW — AT Law Group",
+  legalName: "AT Law Group, PLLC",
   url: "https://atlawgroup.com",
   telephone: "+1-313-406-7606",
   email: "info@atlawgroup.com",
@@ -31,6 +32,7 @@ export function homepageSchema() {
     "@context": "https://schema.org",
     "@type": "LegalService",
     name: FIRM.name,
+    legalName: FIRM.legalName,
     description:
       "Dearborn personal injury law firm representing injured clients across Southeast Michigan. Auto accidents, medical malpractice, wrongful death, and more.",
     url: FIRM.url,
@@ -91,6 +93,7 @@ export function aboutPageSchema() {
     "@context": "https://schema.org",
     "@type": "Organization",
     name: FIRM.name,
+    legalName: FIRM.legalName,
     url: FIRM.url,
     telephone: FIRM.telephone,
     email: FIRM.email,
@@ -131,6 +134,7 @@ export function contactPageSchema() {
     "@context": "https://schema.org",
     "@type": "LegalService",
     name: FIRM.name,
+    legalName: FIRM.legalName,
     url: FIRM.url,
     telephone: FIRM.telephone,
     email: FIRM.email,

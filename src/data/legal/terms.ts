@@ -84,8 +84,8 @@ export const sections: Section[] = [
     summary:
       "The content, design, and ATLAW name are ours. Read and share links freely; don’t copy or reuse the material commercially.",
     paragraphs: [
-      "All content on this Site — including text, graphics, logos, images, page layouts, and the selection and arrangement thereof — is the property of ATLAW Group, PLLC or its content suppliers and is protected by United States and international copyright, trademark, and other intellectual property laws.",
-      "The ATLAW name, ATLAW logo, and all related names, logos, product and service names, designs, and slogans are trademarks of ATLAW Group, PLLC. You may not use such marks without our prior written permission.",
+      "All content on this Site — including text, graphics, logos, images, page layouts, and the selection and arrangement thereof — is the property of AT Law Group, PLLC or its content suppliers and is protected by United States and international copyright, trademark, and other intellectual property laws.",
+      "The ATLAW name, ATLAW logo, and all related names, logos, product and service names, designs, and slogans are trademarks of AT Law Group, PLLC. You may not use such marks without our prior written permission.",
       "You are granted a limited, revocable, non-exclusive license to access and view the Site for personal, non-commercial use. You may not reproduce, distribute, modify, create derivative works of, publicly display, publicly perform, republish, download, store, or transmit any material on the Site without our prior written consent, except that you may print or download one copy of a reasonable number of pages for your own personal, non-commercial use and not for further reproduction, publication, or distribution.",
     ],
   },
@@ -133,7 +133,7 @@ export const sections: Section[] = [
     summary:
       "To the extent the law allows, we’re not liable for damages arising from your use of the website itself.",
     paragraphs: [
-      "TO THE FULLEST EXTENT PERMITTED BY MICHIGAN AND APPLICABLE FEDERAL LAW, IN NO EVENT SHALL ATLAW GROUP, PLLC, ITS ATTORNEYS, EMPLOYEES, AGENTS, OR AFFILIATES BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING WITHOUT LIMITATION LOSS OF PROFITS, DATA, USE, GOODWILL, OR OTHER INTANGIBLE LOSSES, ARISING OUT OF OR RELATING TO YOUR ACCESS TO OR USE OF, OR INABILITY TO ACCESS OR USE, THE SITE OR ANY CONTENT ON THE SITE.",
+      "TO THE FULLEST EXTENT PERMITTED BY MICHIGAN AND APPLICABLE FEDERAL LAW, IN NO EVENT SHALL AT LAW GROUP, PLLC, ITS ATTORNEYS, EMPLOYEES, AGENTS, OR AFFILIATES BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING WITHOUT LIMITATION LOSS OF PROFITS, DATA, USE, GOODWILL, OR OTHER INTANGIBLE LOSSES, ARISING OUT OF OR RELATING TO YOUR ACCESS TO OR USE OF, OR INABILITY TO ACCESS OR USE, THE SITE OR ANY CONTENT ON THE SITE.",
       "This limitation applies whether the alleged liability is based on contract, tort, negligence, strict liability, or any other basis, and whether or not ATLAW has been advised of the possibility of such damage. This limitation of liability does not apply to any liability that cannot be excluded or limited under applicable law, and nothing herein limits ATLAW’s professional responsibilities under the Michigan Rules of Professional Conduct.",
     ],
   },
@@ -167,7 +167,7 @@ export const sections: Section[] = [
     title: "Contact",
     summary: "Questions about these terms? Email us.",
     paragraphs: [
-      `Questions regarding these Terms of Use may be directed to ${EMAIL} or ATLAW Group, PLLC, 3 Park Lane Blvd Suite 400W, Dearborn, MI 48126.`,
+      `Questions regarding these Terms of Use may be directed to ${EMAIL} or AT Law Group, PLLC, 3 Park Lane Blvd Suite 400W, Dearborn, MI 48126.`,
     ],
   },
 ];

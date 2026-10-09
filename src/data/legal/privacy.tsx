@@ -316,7 +316,7 @@ export const sections: Section[] = [
     title: "Contact",
     summary: "Privacy questions or requests: email us.",
     paragraphs: [
-      `For privacy questions, data requests, or concerns about this policy, contact us at ${EMAIL} or write to: ATLAW Group, 3 Park Lane Blvd Suite 400W, Dearborn, MI 48126.`,
+      `For privacy questions, data requests, or concerns about this policy, contact us at ${EMAIL} or write to: AT Law Group, PLLC, 3 Park Lane Blvd Suite 400W, Dearborn, MI 48126.`,
       "We take every privacy inquiry seriously and will respond within 30 days.",
     ],
   },
