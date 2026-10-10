@@ -41,7 +41,7 @@ atlaw_start/
 │   ├── fonts/                    # Self-hosted font files (woff2)
 │   └── team imgs/                # Legacy team photos (to be replaced)
 ├── scripts/                      # Image conversion utilities (sharp); prerender.mjs (build-time HTML)
-├── vercel.json                   # SPA rewrite + cleanUrls (serves prerendered /a/b.html at /a/b)
+├── vercel.json                   # SPA rewrite, cleanUrls, 301 redirects for old URLs, noindex on *.vercel.app
 └── context/                      # Project context files (this directory)
 ```
 

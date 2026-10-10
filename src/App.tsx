@@ -58,7 +58,7 @@ export const App = (): JSX.Element => (
       {/* Catch removed routes */}
       <Route path="/practice-areas/*" element={<Navigate to="/" replace />} />
       <Route path="/global-reach" element={<Navigate to="/" replace />} />
-      <Route path="/news-insights" element={<Navigate to="/" replace />} />
+      <Route path="/news-insights" element={<Navigate to="/news" replace />} />
 
       {/* Anything else */}
       <Route path="*" element={<NotFoundPage />} />

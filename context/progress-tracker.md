@@ -460,6 +460,13 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - `src/components/ATLAW/Breadcrumbs.tsx`: `Breadcrumbs` (slim "ATLAW / Page" trail at the top-left of the dark heroes, plus its JSON-LD) and `BreadcrumbSchema` (JSON-LD only)
   - Practice heroes (original and imported pages) and city pages keep their own breadcrumb and now also emit BreadcrumbList JSON-LD from the same component; the Personal Injury hub no longer shows "Personal Injury / Personal Injury"
   - Verified on 10 pages (5 new + hub, workers' comp, truck draft, Social Security, Detroit car accident), desktop + mobile: trail and JSON-LD match, no overflow, no errors
+- [x] Redirects and staging noindex in `vercel.json` (Oct 10, 2026) — build plan technical SEO (the SEO scope's ~10 redirect rules)
+  - www.atlawgroup.com/* → atlawgroup.com/* (308)
+  - Old Webflow paths (301): /our-people/* → /team; /litigation/injury-litigation → /personal-injury; /litigation/*, /advisory/*, /transactions/*, /healthcare/*, /capabilities, /global-reach → /; /news/* (except our own post slugs), /insight/*, /news-category/*, /news-insights → /news; /connect → /contact; /careers → /about; /legal-disclaimers → /terms
+  - The in-app /practice-areas/* redirects are now also server 301s (in-app ones stay as a fallback for local dev); /news-insights now goes to /news in both
+  - `X-Robots-Tag: noindex` on every *.vercel.app host, so previews and staging never compete with the real domain
+  - **When adding a news post, add its slug to the /news/:slug exception in vercel.json**
+  - Verified: every rule tested against path-to-regexp 6 (the matcher Vercel uses): 22 old URLs go where intended; our news post, /news and all current pages are not redirected. Still to check on the Vercel preview with real requests
 
 ### Open Questions
 
