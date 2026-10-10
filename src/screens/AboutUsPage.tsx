@@ -1,4 +1,5 @@
 import { Header } from "../components/ATLAW/Header";
+import { Breadcrumbs } from "../components/ATLAW/Breadcrumbs";
 import { Footer } from "../components/ATLAW/Footer";
 import { PageMeta } from "../components/ATLAW/PageMeta";
 import { Reveal, Eyebrow, Period, grain, SECTION, NAVY } from "./about/primitives";
@@ -47,6 +48,7 @@ export const AboutUsPage = (): JSX.Element => {
             style={{ backgroundImage: grain }}
           />
 
+          <Breadcrumbs items={[{ label: "ATLAW", to: "/" }, { label: "About" }]} />
           <div className={`relative ${SECTION} flex min-h-[420px] flex-col items-center justify-center py-24 text-center md:min-h-[480px] md:py-32 lg:min-h-[540px] lg:py-40`}>
             <Reveal>
               <Eyebrow num="01" label="About Us" onDark />

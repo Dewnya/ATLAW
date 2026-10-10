@@ -456,6 +456,10 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - Cause: each menu closes itself 150 ms after the pointer leaves, and that delayed close set the header's open menu to "none", wiping out the menu the pointer had just moved into (Practice Areas → Areas We Serve → back: both stayed shut)
   - Fix (`Header.tsx`): a menu's close only clears the open menu when it is that menu
   - Verified in Chrome with real mouse movement: hover/leave/hover again, slide between the two menus and back, click a link then hover again, click open/close then hover, fast zig-zag (100 ms per menu): every step shows the right menu
+- [x] Breadcrumbs on About, Team, Contact, Areas Served and News + BreadcrumbList JSON-LD (Oct 10, 2026) — build plan workstream 2
+  - `src/components/ATLAW/Breadcrumbs.tsx`: `Breadcrumbs` (slim "ATLAW / Page" trail at the top-left of the dark heroes, plus its JSON-LD) and `BreadcrumbSchema` (JSON-LD only)
+  - Practice heroes (original and imported pages) and city pages keep their own breadcrumb and now also emit BreadcrumbList JSON-LD from the same component; the Personal Injury hub no longer shows "Personal Injury / Personal Injury"
+  - Verified on 10 pages (5 new + hub, workers' comp, truck draft, Social Security, Detroit car accident), desktop + mobile: trail and JSON-LD match, no overflow, no errors
 
 ### Open Questions
 

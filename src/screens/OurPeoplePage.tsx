@@ -1,4 +1,5 @@
 import { Header } from "../components/ATLAW/Header";
+import { Breadcrumbs } from "../components/ATLAW/Breadcrumbs";
 import { Footer } from "../components/ATLAW/Footer";
 import { PageMeta } from "../components/ATLAW/PageMeta";
 import { founder, attorneys, staff, type TeamMember } from "../data/team";
@@ -82,6 +83,7 @@ export const OurPeoplePage = (): JSX.Element => {
             style={{ backgroundImage: grain }}
           />
 
+          <Breadcrumbs items={[{ label: "ATLAW", to: "/" }, { label: "Our Team" }]} />
           <div className={`relative ${SECTION} flex min-h-[380px] flex-col items-center justify-center py-24 text-center md:min-h-[440px] md:py-32 lg:min-h-[500px] lg:py-36`}>
             <p className="flex items-center gap-4">
               <span aria-hidden="true" className="h-px w-[52px] shrink-0" style={{ backgroundColor: GOLD }} />

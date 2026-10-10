@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { Breadcrumbs } from "../components/ATLAW/Breadcrumbs";
 import { Header } from "../components/ATLAW/Header";
 import { Footer } from "../components/ATLAW/Footer";
 import { PageMeta } from "../components/ATLAW/PageMeta";
@@ -120,6 +121,7 @@ const ContactHero = () => (
       style={{ backgroundImage: grain }}
     />
 
+    <Breadcrumbs items={[{ label: "ATLAW", to: "/" }, { label: "Contact" }]} containerClassName="relative z-10 mx-auto w-full max-w-[1440px] px-6 pt-6 sm:px-10 lg:px-20 lg:pt-8" />
     <div className="relative mx-auto flex w-full max-w-[1440px] flex-col gap-10 px-6 py-16 sm:px-10 md:py-20 lg:flex-row lg:items-center lg:gap-16 lg:px-20 lg:py-[100px]">
       {/* Left: text */}
       <div className="lg:basis-[55%]">

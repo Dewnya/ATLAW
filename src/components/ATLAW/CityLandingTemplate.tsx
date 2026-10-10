@@ -7,6 +7,7 @@ import { practiceAreaBySlug } from "../../data/practice/pi";
 import { openIntakeModal } from "./IntakeModal";
 import { YEARS_SERVING } from "../../data/firm";
 import { IntakeFormSection } from "./IntakeFormSection";
+import { BreadcrumbSchema } from "./Breadcrumbs";
 
 const GOLD = "#C9A24B";
 const GOLD_ACCENT = "#B88A2D";
@@ -90,6 +91,14 @@ const Hero = ({ practice, city }: { practice: PracticeAreaPI; city: CityData }) 
   >
     <Grain opacity="0.03" />
     <div className="relative mx-auto w-full max-w-[1180px] px-6 pb-12 pt-16 sm:px-10 md:pb-16 md:pt-20 lg:px-16 lg:pb-20 lg:pt-24">
+      <BreadcrumbSchema
+        items={[
+          { label: "ATLAW", to: "/" },
+          { label: "Personal Injury", to: "/personal-injury" },
+          { label: practice.title, to: `/personal-injury/${practice.slug}` },
+          { label: city.name },
+        ]}
+      />
       <nav
         aria-label="Breadcrumb"
         className="pi-reveal mb-6 font-sans text-[11.5px] font-semibold uppercase leading-none tracking-[0.2em]"

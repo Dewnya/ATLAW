@@ -7,6 +7,7 @@ import { IntakeFormSection } from "./IntakeFormSection";
 import { ProcessSection } from "./ProcessSection";
 import { practiceAreaBySlug } from "../../data/practice/pi";
 import { practicePath } from "../../data/practice/pi/registry";
+import { BreadcrumbSchema } from "./Breadcrumbs";
 
 const GOLD = "#C9A24B";
 const GOLD_ACCENT = "#B88A2D";
@@ -167,6 +168,7 @@ export const Hero = ({ data, parent = { label: "Personal Injury", to: "/personal
 
     <div className="relative mx-auto flex w-full max-w-[1180px] flex-col gap-10 px-6 pb-12 pt-16 sm:px-10 md:pb-16 md:pt-20 lg:flex-row lg:items-center lg:gap-14 lg:px-16 lg:pb-20 lg:pt-24">
       <div className={data.heroImage ? "lg:basis-[56%]" : "w-full"}>
+      <BreadcrumbSchema items={[{ label: "ATLAW", to: "/" }, ...(parent ? [parent] : []), { label: data.title }]} />
       <nav
         aria-label="Breadcrumb"
         className="pi-reveal mb-6 font-sans text-[11.5px] font-semibold uppercase leading-none tracking-[0.2em]"
@@ -868,7 +870,7 @@ export const FinalCTABand = () => (
 export const PracticeAreaDetailTemplate = ({ data }: { data: PracticeAreaPI }): JSX.Element => (
   <>
     <StickySubNav />
-    <Hero data={data} />
+    <Hero data={data} parent={data.slug === "personal-injury" ? null : undefined} />
     <OverviewSection data={data} />
     <CaseResultsComparison data={data} />
     <WhatToDoSection />

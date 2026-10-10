@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import { Breadcrumbs } from "../components/ATLAW/Breadcrumbs";
 import { Link } from "react-router-dom";
 import { Header } from "../components/ATLAW/Header";
 import { Footer } from "../components/ATLAW/Footer";
@@ -75,6 +76,7 @@ export const AreasServedPage = (): JSX.Element => {
             }}
           />
           <Grain opacity="0.05" />
+          <Breadcrumbs items={[{ label: "ATLAW", to: "/" }, { label: "Areas We Serve" }]} />
           <div className="relative mx-auto w-full max-w-[1180px] px-6 pb-14 pt-20 text-center sm:px-10 md:pb-20 md:pt-28 lg:px-16">
             <h1
               className="pi-reveal mx-auto max-w-[800px] font-serifDisplay font-normal tracking-[-0.02em] text-white"
