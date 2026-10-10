@@ -452,6 +452,10 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - Prints: status per batch; (1) approved in the sheet but not live → import; (2) live but not marked Imported → rows for Mo to set; (3) marked Imported but not live; (4) what the site can serve per page type and what is still to build in the next open batch; (5) sheet vs copy mismatches (H1, keyword, missing Drive file, status without a received copy)
   - Oct 10 run: 25 drafts imported, Workers' Comp old page only, nothing left to build for batch 1; 8 sheet/copy mismatches (4 H1s, 2 keywords, B1-08 missing)
   - Verified with a modified CSV (approved and imported rows) and a temporary approved page: sections 1–3 list the right rows
+- [x] Fix: dropdown menus stopped opening after moving between them (Oct 10, 2026) — reported by Mo
+  - Cause: each menu closes itself 150 ms after the pointer leaves, and that delayed close set the header's open menu to "none", wiping out the menu the pointer had just moved into (Practice Areas → Areas We Serve → back: both stayed shut)
+  - Fix (`Header.tsx`): a menu's close only clears the open menu when it is that menu
+  - Verified in Chrome with real mouse movement: hover/leave/hover again, slide between the two menus and back, click a link then hover again, click open/close then hover, fast zig-zag (100 ms per menu): every step shows the right menu
 
 ### Open Questions
 

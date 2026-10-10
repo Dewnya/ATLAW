@@ -83,7 +83,9 @@ export const Header = (): JSX.Element => {
               <DesktopNavMenu
                 key={item.id}
                 menu={item}
-                onOpenChange={(open) => setOpenMenu(open ? item.id : null)}
+                // A menu may only close itself: its delayed hover-close must not
+                // shut the other menu the pointer has already moved into.
+                onOpenChange={(open) => setOpenMenu((current) => (open ? item.id : current === item.id ? null : current))}
                 open={openMenu === item.id}
                 triggerClassName={`${desktopCellClass} ${openMenu === item.id ? "bg-white/[0.06] text-[#FFFFFF]" : ""}`}
               />
