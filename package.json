@@ -8,7 +8,8 @@
     "dev": "vite",
     "build": "vite build && vite build --ssr src/entry-server.tsx --outDir dist-ssr && node scripts/prerender.mjs",
     "import-content": "node scripts/import-content.mjs",
-    "build:spa": "vite build"
+    "build:spa": "vite build",
+    "tracker": "node scripts/tracker.mjs"
   },
   "dependencies": {
     "@gsap/react": "^2.1.2",

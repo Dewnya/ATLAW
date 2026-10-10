@@ -72,6 +72,7 @@ atlaw_start/
 - The import is the gate: approved pages with any [CONFIRM]/[VERIFY]/[ATTORNEY CHECK] are refused.
 - `src/content/index.ts` maps slugs to lazy JSON loaders; drafts are included only in dev or with `VITE_SHOW_DRAFTS=true` (Vercel previews). `PracticePage` renders `PracticeLongFormPage` when a slug has content, else the original hand-written page.
 - Drafts render with a review banner, highlighted open items and `noindex`.
+- `npm run tracker` compares the firm's Content Tracker sheet (277 pages, read-only via its view link) with the registry and imported content: what to import, which sheet rows to mark Imported, and what the site can't serve yet.
 
 ## Prerender (build-time HTML)
 

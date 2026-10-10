@@ -447,6 +447,11 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - New pages: 2,387–3,069 words, 10 FAQs each, 9–16 open items each. Across all 25 drafts: 182 [CONFIRM], 53 [ATTORNEY CHECK], 3 [VERIFY] for the firm
   - Import warnings for the new pages: all 11 meta descriptions over 155 characters, 10 titles over 60; no broken links. The 14 earlier pages re-converted with no change
   - Verified: dev, desktop + mobile, 5 new pages + workers' comp: banner, noindex, TOC, tables, highlighted items, 10 FAQs, LegalService + FAQPage JSON-LD, no overflow; menu lists 25 practices. Production build: 7 pages, no "CONFIRM" in `dist/`. Preview build: 26 pages prerendered
+- [x] Content Tracker check: `npm run tracker` (Oct 10, 2026)
+  - `scripts/tracker.mjs` reads the shared sheet's `pages` tab as CSV (view link; `--file x.csv` reads a saved export) and compares it with the registry, the city registry and `content-source/practice/`. Read-only
+  - Prints: status per batch; (1) approved in the sheet but not live → import; (2) live but not marked Imported → rows for Mo to set; (3) marked Imported but not live; (4) what the site can serve per page type and what is still to build in the next open batch; (5) sheet vs copy mismatches (H1, keyword, missing Drive file, status without a received copy)
+  - Oct 10 run: 25 drafts imported, Workers' Comp old page only, nothing left to build for batch 1; 8 sheet/copy mismatches (4 H1s, 2 keywords, B1-08 missing)
+  - Verified with a modified CSV (approved and imported rows) and a temporary approved page: sections 1–3 list the right rows
 
 ### Open Questions
 
