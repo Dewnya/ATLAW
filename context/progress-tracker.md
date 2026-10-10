@@ -439,6 +439,9 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - Verified: production build has no "CONFIRM" anywhere in `dist/`; the guard stops a build fed draft content; without JavaScript, draft pages return 2,800–3,600 words, noindex, LegalService + FAQPage JSON-LD and one description; hydration on prerendered drafts shows no console errors (desktop + mobile), card navigation and Back work
   - **Vercel previews:** set `VITE_SHOW_DRAFTS=true` for the Preview environment only, so previews show drafts and production never does
   - Still open (week 2): the other page types (home, about, team, contact, news, city pages), a real 404 status (needs the SPA rewrite to point at a separate shell file instead of the prerendered pages)
+- [x] The 8 remaining Batch 1 practice areas (Oct 10, 2026) — Content Tracker
+  - Registry: passenger-injury, bicycle-accidents, bus-accidents (Auto & No-Fault); sidewalk-injuries, tenant-injuries, product-liability, brain-injury, spinal-cord-injury (Injury). Labels follow the tracker's "Practice area" column
+  - All 26 Batch 1 statewide URLs in the Content Tracker now resolve to a registry entry; menus show them once their content is imported
 
 ### Open Questions
 

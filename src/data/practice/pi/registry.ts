@@ -45,10 +45,18 @@ export const practiceRegistry = [
   { slug: "drunk-driving-accidents", section: "personal-injury", navLabel: "Drunk Driving Accidents", navGroup: "auto", serviceType: "Drunk Driving Accident Legal Representation" },
   { slug: "uninsured-motorist-claims", section: "personal-injury", navLabel: "Uninsured Motorist Claims", navGroup: "auto", serviceType: "Uninsured Motorist Claim Legal Representation" },
   { slug: "car-accident-insurance", section: "personal-injury", navLabel: "No-Fault Insurance Claims", navGroup: "auto", serviceType: "No-Fault Insurance Claim Legal Representation" },
+  { slug: "passenger-injury", section: "personal-injury", navLabel: "Passenger Injuries", navGroup: "auto", serviceType: "Passenger Injury Legal Representation" },
+  { slug: "bicycle-accidents", section: "personal-injury", navLabel: "Bicycle Accidents", navGroup: "auto", serviceType: "Bicycle Accident Legal Representation" },
+  { slug: "bus-accidents", section: "personal-injury", navLabel: "Bus Accidents", navGroup: "auto", serviceType: "Bus Accident Legal Representation" },
   // Injury
   { slug: "slip-and-fall", section: "personal-injury", navLabel: "Slip and Fall", navGroup: "injury", serviceType: "Slip and Fall Legal Representation" },
   { slug: "premises-liability", section: "personal-injury", navLabel: "Premises Liability", navGroup: "injury", serviceType: "Premises Liability Legal Representation", legacy: true },
   { slug: "dog-bites", section: "personal-injury", navLabel: "Dog Bite Injuries", navGroup: "injury", serviceType: "Dog Bite Legal Representation", legacy: true },
+  { slug: "sidewalk-injuries", section: "personal-injury", navLabel: "Sidewalk Injuries", navGroup: "injury", serviceType: "Sidewalk Injury Legal Representation" },
+  { slug: "tenant-injuries", section: "personal-injury", navLabel: "Tenant Injuries", navGroup: "injury", serviceType: "Tenant Injury Legal Representation" },
+  { slug: "product-liability", section: "personal-injury", navLabel: "Product Liability", navGroup: "injury", serviceType: "Product Liability Legal Representation" },
+  { slug: "brain-injury", section: "personal-injury", navLabel: "Brain Injuries", navGroup: "injury", serviceType: "Brain Injury Legal Representation" },
+  { slug: "spinal-cord-injury", section: "personal-injury", navLabel: "Spinal Cord Injuries", navGroup: "injury", serviceType: "Spinal Cord Injury Legal Representation" },
   { slug: "wrongful-death", section: "personal-injury", navLabel: "Wrongful Death", navGroup: "injury", serviceType: "Wrongful Death Legal Representation", legacy: true },
   // Medical
   { slug: "medical-malpractice", section: "personal-injury", navLabel: "Medical Malpractice", navGroup: "medical", serviceType: "Medical Malpractice Legal Representation", legacy: true },
