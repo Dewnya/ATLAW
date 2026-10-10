@@ -1,0 +1,1705 @@
+{
+ "slug": "premises-liability",
+ "section": "personal-injury",
+ "status": "draft",
+ "seoTitle": "Michigan Premises Liability Lawyer – Injured on Someone’s Property",
+ "seoDescription": "Hurt on unsafe property in Michigan? The 2023 Supreme Court change ended “open and obvious” as a defense that dismisses cases. ATLAW explains owner duties, notice, and deadlines. Free review.",
+ "h1": "Michigan Premises Liability Lawyer",
+ "tagline": "A property owner’s duty depends on why you were there. Since 2023, “you should have seen it” is an argument for a jury, not a reason to dismiss your case.",
+ "primaryKeyword": "michigan premises liability lawyer",
+ "secondaryKeywords": [
+  "michigan premises liability attorney",
+  "michigan premises liability law",
+  "detroit premises liability lawyer",
+  "open and obvious michigan",
+  "negligent security lawyer michigan",
+  "injured on someone’s property michigan"
+ ],
+ "intro": [
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "In 2024, falls killed 1,701 Michigan residents, sent 26,611 to the hospital, and brought 236,773 to emergency rooms. Not every one of those happened on someone else’s property, and not every one was the property owner’s fault. But many were: a stairway without a handrail, a parking lot left unsalted, a store aisle with a spill nobody cleaned, an apartment entry with a broken lock. Michigan premises liability law decides when the person who controls the property is responsible for what happened on it."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "That law changed on July 28, 2023, when the Michigan Supreme Court ended twenty years of “open and obvious” dismissals. If you were injured on someone else’s property before then and were told you had no case, or if you were injured since and an insurer has told you the hazard was “obvious,” this page explains the current rules: what the owner owed you, how notice is proved, how your own fault is counted, the special rules for government property, negligent security, landlords, and trespassers, and the deadlines."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across Wayne, Oakland, Macomb, and Washtenaw counties. Premises cases are handled on contingency: no fee unless we recover money for you, and the first conversation is free."
+    }
+   ]
+  }
+ ],
+ "sections": [
+  {
+   "id": "injuries-on-property-in-michigan-2024",
+   "heading": "Injuries on property in Michigan, 2024",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Measure"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Figure"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "Fall deaths, Michigan residents"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "1,701"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Fall deaths among adults 65 and older"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "1,544 (90.7% of fall deaths); 77.7 per 100,000"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Hospitalizations for falls"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "26,611, of which 77.6% were age 65 and older"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Emergency department visits for fall injuries"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "236,773"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Share of Michigan residents age 65 or older"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "19.6%"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Adults 65+ who fall each year"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "About one in four"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Source: Michigan Falls Prevention Week proclamation, September 2026, citing 2024 state data. Falls are the most common premises claim but not the only one; assaults in unsecured buildings, dog bites, pool and elevator injuries, and falling merchandise are premises claims too."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-a-premises-liability-claim-is",
+   "heading": "What a premises liability claim is",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "A premises liability claim is a negligence claim about the condition of land or a building: a defect, a hazard, or a missing safeguard that the person in control of the property should have fixed or warned about. It is different from a claim about an activity on the property. If a store employee pushes a cart into you, that is ordinary negligence; if you slip on water the employee left on the floor, that is premises liability (Buhalis v Trinity Continuing Care Services, 2012). The distinction matters because the duties and defenses discussed below apply to conditions, and the possessor of the property, which may be a tenant or a manager rather than the owner, is the defendant."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-the-owner-owed-you-depends-on-why-you-were-there",
+   "heading": "What the owner owed you depends on why you were there",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Michigan divides visitors into three categories, and the duty rises with the owner’s benefit from your presence (Stitt v Holland Abundant Life Fellowship, 2000)."
+      }
+     ]
+    },
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Visitor"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Who"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Duty owed"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Invitee"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "A person on the property for a commercial purpose connected to the owner’s business: a customer, a client, a patient, a hotel guest, a tenant’s guest in common areas"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "The highest duty: inspect the premises, discover dangers the owner could reasonably discover, and repair them or warn of them"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Licensee"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "A social guest, or anyone present with permission but without a business purpose; the Supreme Court held that church visitors are licensees, not invitees"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Warn of hidden dangers the owner knows about; no duty to inspect or discover"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Trespasser"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "A person present without permission"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Refrain from willful and wanton misconduct, with limited exceptions (MCL 554.583)"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Two things about this table. A store customer is an invitee whether or not they buy anything. And the question is the property owner’s purpose in opening the premises, not yours: the Supreme Court in Stitt rejected the “public invitee” category, so a person on property held open to the public for a non-commercial reason is a licensee."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-2023-change-open-and-obvious-is-no-longer-a-complete-defense",
+   "heading": "The 2023 change: open and obvious is no longer a complete defense",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "For two decades, Michigan courts dismissed premises cases on summary disposition whenever the hazard was “open and obvious,” meaning an average person would have discovered it on casual inspection, unless the plaintiff could show “special aspects” such as an unavoidable hazard or an unreasonably high risk of severe harm. Ice in a parking lot, a pothole in a walkway, a raised threshold: all routinely dismissed."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "In Kandil-Elsayed v F & E Oil and Pinsky v Kroger (July 28, 2023), the Michigan Supreme Court overruled that framework. The rules now:"
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "text",
+        "v": "A possessor of land owes an invitee a duty of reasonable care to protect against dangerous conditions, including conditions that are open and obvious."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Whether the hazard was obvious is relevant to whether the owner breached that duty and to the plaintiff’s comparative fault. Both are jury questions."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "An owner “should anticipate the harm” from an obvious hazard where the invitee has a reason to confront it, such as the only route into a business, a parking lot the customer must cross, or a condition the customer’s attention is drawn away from."
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The practical result: cases that were worthless in 2022 are viable in 2026, and insurers that still write “the condition was open and obvious, claim denied” are citing a rule the Supreme Court discarded. The plaintiff’s own carelessness is still counted, under the comparative fault rules below, but it is counted by a jury, not used to dismiss the case."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "proving-the-owner-knew-notice",
+   "heading": "Proving the owner knew: notice",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "An owner is liable for a dangerous condition only if the owner created it, knew of it (actual notice), or should have known of it because it existed long enough that a reasonable owner would have discovered it (constructive notice). The burden is on the injured person to prove notice; the owner does not have to prove it lacked notice (Lowrey v LMPS & LMPJ, 2016). The Supreme Court’s example of constructive notice is grapes on a store floor long enough to have been walked through and dried (Clark v Kmart, 2001)."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Notice is proved with evidence the owner controls: inspection and sweep logs, maintenance records, prior incident reports, prior complaints, work orders, weather data for snow and ice, and surveillance video showing how long the condition existed. Most of it is discarded in the ordinary course within weeks, and the first letter in a premises case is a demand to preserve it."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "your-own-fault-the-50-rule",
+   "heading": "Your own fault: the 50% rule",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Michigan’s comparative fault statute (MCL 600.2959) reduces your pain-and-suffering recovery by your percentage of fault and bars it if you were more than 50% at fault. After Kandil-Elsayed, the obviousness of the hazard is where your fault is argued: were you looking at your phone, were you wearing appropriate footwear, was there a safer route. Economic damages, such as medical bills and lost wages, are reduced by your percentage but not barred."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kinds-of-premises-liability-cases",
+   "heading": "Kinds of premises liability cases",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Case type"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "The rule that decides it"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Slip, trip, and fall"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "v": " on spills, debris, worn flooring, and changes in elevation"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Invitee duty, notice, and comparative fault. See our "
+        },
+        {
+         "t": "link",
+         "href": "/personal-injury/slip-and-fall",
+         "c": [
+          {
+           "t": "text",
+           "v": "slip and fall"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "v": " page"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Snow and ice"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "v": " on walkways, steps, and parking lots"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "The same duty applies to natural accumulations; the owner must take reasonable steps within a reasonable time after the storm. A landlord’s statutory duty to keep common areas fit for their intended use requires more than a lot that is merely passable (MCL 554.139; Allison v AEW Capital Management, 2008)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Stairs, handrails, lighting, and building code violations"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Violation of a building code or ordinance is evidence of negligence; violation of a statute creates a rebuttable presumption of negligence (Candelaria v BC General Contractors, 1999). Code inspection reports and permits are discoverable"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Negligent security"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "v": ": assaults, shootings, and robberies in parking lots, apartment buildings, bars, and stores"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "A merchant has no duty to anticipate the criminal acts of third parties, but must respond reasonably to a situation occurring on the premises, which ordinarily means calling the police (MacDonald v PKT, 2001). A landlord’s duty is the same with respect to common areas (Bailey v Schaaf, 2013). Prior crimes on the property, broken locks and gates, non-functioning cameras, and unanswered complaints are the evidence. "
+        },
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "placeholder",
+           "kind": "ATTORNEY CHECK",
+           "v": "current scope of the merchant and landlord duty"
+          }
+         ]
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Apartment and rental injuries"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Landlord duties under the lease and MCL 554.139; see our "
+        },
+        {
+         "t": "link",
+         "href": "/personal-injury/tenant-injuries",
+         "c": [
+          {
+           "t": "text",
+           "v": "tenant injury"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "v": " page"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Dog bites and animal attacks"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "v": " on the owner’s or a landlord’s property"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Strict liability under MCL 287.351 for the owner; a landlord is liable only with knowledge and control. See our "
+        },
+        {
+         "t": "link",
+         "href": "/personal-injury/dog-bites",
+         "c": [
+          {
+           "t": "text",
+           "v": "dog bite"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "v": " page"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Elevators and escalators"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "State inspection and licensing rules (MCL 408.801 and following); maintenance contractor records; the building owner and the elevator company are both defendants"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Swimming pools"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Public pool construction and operation rules under the Public Health Code (MCL 333.12521 and following); residential pools under local fencing ordinances"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Falling merchandise and displays"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Retail stacking and display practices; store policies and training records"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Fires, carbon monoxide, and electrical injuries"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Building and fire code compliance; smoke and CO detector requirements"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Construction sites"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Workers’ compensation for employees; premises and ordinary negligence claims against the owner, general contractor, and other subcontractors. See our "
+        },
+        {
+         "t": "link",
+         "href": "/personal-injury/workers-compensation",
+         "c": [
+          {
+           "t": "text",
+           "v": "workers’ compensation"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "v": " page"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Nursing homes and care facilities"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Federal and state resident-care rules; see our "
+        },
+        {
+         "t": "link",
+         "href": "/personal-injury/nursing-home-abuse",
+         "c": [
+          {
+           "t": "text",
+           "v": "nursing home abuse"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "v": " page"
+        }
+       ]
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "government-property-buildings-sidewalks-and-parks",
+   "heading": "Government property: buildings, sidewalks, and parks",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Government agencies are immune from most negligence claims, with exceptions that matter for premises cases:"
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Public buildings."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " A government is liable for injury from a dangerous or defective condition of a public building it owns if it knew or should have known of the defect and failed to remedy it in a reasonable time (MCL 691.1406). The exception covers the building itself, not its design or the activities inside it (Renny v Michigan Department of Transportation, 2007), and requires written notice to the agency within 120 days of the injury."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Sidewalks."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " A city is liable for a sidewalk defect only with notice, and only for a vertical discontinuity of two inches or more or another unreasonably dangerous condition (MCL 691.1402a), with 120-day notice (MCL 691.1404). See our "
+       },
+       {
+        "t": "link",
+        "href": "/personal-injury/sidewalk-injuries",
+        "c": [
+         {
+          "t": "text",
+          "v": "sidewalk injury"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " page."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Parks, pools, and recreation."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Most injuries in public parks fall outside the exceptions unless a building or a highway is involved. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "ATTORNEY CHECK",
+          "v": ""
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "State property."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Claims against the state and state universities go to the Court of Claims with a notice of intention within six months (MCL 600.6431). "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "ATTORNEY CHECK",
+          "v": "current notice period"
+         }
+        ]
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The 120-day notice is the deadline that ends more government premises claims than any other rule. It runs from the injury, not from when you learn the owner was a government."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "trespassers-and-recreational-land",
+   "heading": "Trespassers and recreational land",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Michigan’s trespass liability statute (MCL 554.581–554.585) limits an owner’s duty to a trespasser to refraining from willful and wanton misconduct, with exceptions, including for children attracted to a dangerous artificial condition and for a trespasser the owner knows is in a position of peril. Separately, the Recreational Land Use Act (MCL 324.73301) limits an owner’s liability to people using private land without charge for outdoor recreation to gross negligence or willful and wanton misconduct. Both are defenses raised early, and both turn on facts: whether you had permission, whether a fee was paid, whether the owner knew of the danger."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "evidence-in-a-premises-case-and-how-long-it-lasts",
+   "heading": "Evidence in a premises case, and how long it lasts",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Evidence"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Where it is"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Typical retention"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "Surveillance video"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "The store, building, or a security vendor"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "7 to 30 days before it is overwritten"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Incident report"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Manager’s office or the insurer"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Kept, but written by the defendant"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Sweep, inspection, and maintenance logs"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "The property manager"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Varies; often discarded monthly"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Prior complaints and incident history"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Property manager, police calls for service (negligent security)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Police records are public; owner records are not"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Weather data"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "National Weather Service and private records"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Permanent"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Photographs of the condition"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Your phone, the same day"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Taken or not"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Your footwear and clothing"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Your home"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Keep them unwashed and unrepaired"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "A written preservation demand to the property owner and its insurer within days is the single most important step in a premises case. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "CONFIRM",
+         "v": "the firm sends preservation letters within days of retention"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "who-pays-insurance-in-premises-cases",
+   "heading": "Who pays: insurance in premises cases",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Premises claims are paid by the property’s liability insurance: a commercial general liability policy for a business, a landlord’s policy for a rental, a homeowner’s policy for a residence. Many policies include medical payments coverage that pays a few thousand dollars of medical bills regardless of fault, and it is claimed early. No-fault auto insurance does not apply to a premises injury unless a motor vehicle was involved. Where the possessor is a tenant and the owner is a separate company, both policies are identified, along with any maintenance, security, or snow-removal contractor’s policy, since contractors are frequently the responsible party."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-to-do-after-an-injury-on-someones-property",
+   "heading": "What to do after an injury on someone’s property",
+   "blocks": [
+    {
+     "t": "ol",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Report it to the person in charge"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " before leaving and ask for a copy of the incident report. Do not sign a statement of fault."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Photograph the hazard, the surroundings, and the lighting"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " the same day, with something for scale. Conditions are repaired within hours of a report."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Get witness names"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", including employees."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Get medical care"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " and describe the mechanism of the fall accurately."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Keep the shoes and clothing"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " you were wearing."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Do not give the insurer a recorded statement"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " before speaking to a lawyer; “I wasn’t looking where I was going” is the comparative fault case."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Call a premises liability lawyer"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " promptly; the preservation letter and, for government property, the 120-day notice are time-critical."
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-a-michigan-premises-liability-case-is-worth",
+   "heading": "What a Michigan premises liability case is worth",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Medical expenses, lost wages and earning capacity, pain and suffering, loss of enjoyment of life, scarring and disfigurement, and in a death the losses recoverable under the wrongful death act (MCL 600.2922), reduced by any fault assigned to you. There is no serious-impairment threshold in a premises case; that rule belongs to motor vehicle claims. Value depends on the injury, the clarity of notice and breach, the comparative fault facts, and the available policy limits. Many commercial policies are $1 million or more, which is why a well-documented premises case with a serious injury is fully compensable where a minimum-limits car case is not."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "deadlines-for-michigan-premises-liability-claims",
+   "heading": "Deadlines for Michigan premises liability claims",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Deadline"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Time"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Statute"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "Lawsuit for injury on private property"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "3 years from the injury"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5805(2)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Wrongful death"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "3 years, with saving provisions for the estate"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5805, 600.5852"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Written notice of a public building or sidewalk claim against a city, county, or the state"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "120 days from the injury"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 691.1404, 691.1406"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Notice of intention to file against the state (Court of Claims)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "6 months from the injury "
+        },
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "placeholder",
+           "kind": "ATTORNEY CHECK",
+           "v": ""
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.6431"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Child’s claim"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Until the child’s 19th birthday"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5851"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Preservation of video"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Days; a written demand should go out in the first week"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Practice"
+        }
+       ]
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "why-metro-detroit-property-injury-clients-call-atlaw",
+   "heading": "Why metro Detroit property-injury clients call ATLAW",
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Thirteen years, more than 10,000 cases, more than $100 million recovered."
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Preservation letters in the first week"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", to the owner, the manager, the insurer, and any contractor. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": ""
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Post-2023 law applied."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Every “open and obvious” denial is answered with Kandil-Elsayed."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Government notices calendared on intake."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " The 120-day and six-month notices are identified and sent. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": ""
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Dearborn, and the whole metro area."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Our office is at "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": "street address"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ". Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": "home and hospital visits"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Languages."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": "  "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": "languages spoken by staff, including Arabic"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "No fee unless we recover."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Contingency fee "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": "percentage"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": "; no cost for the first conversation."
+       }
+      ]
+     ]
+    }
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What is premises liability in Michigan?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "A negligence claim against the person in possession of property for injuries caused by a dangerous condition of the property that they created, knew about, or should have known about, with the duty depending on whether you were an invitee, licensee, or trespasser (Stitt v Holland Abundant Life, 2000)."
+    }
+   ]
+  },
+  {
+   "question": "The insurer says the hazard was “open and obvious.” Is my case over?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "No. Since Kandil-Elsayed v F & E Oil (2023), the obviousness of a hazard goes to the owner’s breach and your comparative fault, both decided by a jury. It is no longer a basis for dismissing the case."
+    }
+   ]
+  },
+  {
+   "question": "Do I have to prove the owner knew about the hazard?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Yes. You must show the owner created it, knew of it, or that it existed long enough that a reasonable owner would have found it (Lowrey v LMPS & LMPJ, 2016). Video, logs, and prior complaints are the proof."
+    }
+   ]
+  },
+  {
+   "question": "I was partly at fault. Can I still recover?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Yes, if you were 50% or less at fault; your recovery is reduced by your percentage (MCL 600.2959). Above 50%, pain-and-suffering damages are barred."
+    }
+   ]
+  },
+  {
+   "question": "I was assaulted in a parking lot or apartment building. Is the owner liable?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Possibly. An owner is not an insurer against crime, but must respond reasonably to a situation occurring on the premises, and a landlord’s duty extends to common areas (MacDonald v PKT, 2001; Bailey v Schaaf, 2013). Broken locks, prior crimes, and ignored complaints are the evidence."
+    }
+   ]
+  },
+  {
+   "question": "I fell in a city building or on a city sidewalk. Is the city immune?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Not entirely. The public building exception (MCL 691.1406) and the sidewalk rules (MCL 691.1402a) allow claims, but written notice to the government within 120 days is required, and the exceptions are narrow."
+    }
+   ]
+  },
+  {
+   "question": "I was a guest at someone’s home. Can I sue?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "A social guest is a licensee, owed a warning of hidden dangers the host knows about. The claim is against the homeowner’s insurance, not the host personally."
+    }
+   ]
+  },
+  {
+   "question": "Does the serious impairment threshold apply?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "No. That threshold applies to motor vehicle claims under the no-fault act. Premises claims require proof of negligence and injury, not a threshold."
+    }
+   ]
+  },
+  {
+   "question": "How long do I have?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Three years from the injury for a lawsuit (MCL 600.5805(2)); 120 days to notify a government for a building or sidewalk claim; and video is typically gone in days to weeks, so the preservation demand is immediate."
+    }
+   ]
+  },
+  {
+   "question": "What if the property is owned by one company and run by another?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "The possessor in control of the premises is the primary defendant, and the owner, manager, and any maintenance, security, or snow-removal contractor may share liability. All of their policies are identified."
+    }
+   ]
+  }
+ ],
+ "cta": {
+  "id": "talk-to-a-michigan-premises-liability-lawyer",
+  "heading": "Talk to a Michigan premises liability lawyer",
+  "blocks": [
+   {
+    "t": "p",
+    "c": [
+     {
+      "t": "text",
+      "v": "If you were injured on someone else’s property anywhere in Michigan, call "
+     },
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "text",
+        "v": "(313) 406-7606"
+       }
+      ]
+     },
+     {
+      "t": "text",
+      "v": " or send the form on this page. We send the preservation demand, identify every responsible party and policy, calendar the government notices, and tell you what your claim is worth under the current law. We respond "
+     },
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "placeholder",
+        "kind": "CONFIRM",
+        "v": "same day / within one business day"
+       }
+      ]
+     },
+     {
+      "t": "text",
+      "v": ", and there is no fee unless we recover money for you."
+     }
+    ]
+   }
+  ]
+ },
+ "wordCount": 2957,
+ "openItems": 12,
+ "source": {
+  "file": "B1-21_Michigan-Premises-Liability-Lawyer.docx",
+  "delivered": "2026-10-12"
+ }
+}

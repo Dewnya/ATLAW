@@ -1,0 +1,1602 @@
+{
+ "slug": "spinal-cord-injury",
+ "section": "personal-injury",
+ "status": "draft",
+ "seoTitle": "Michigan Spinal Cord Injury Lawyer – Paralysis & Spine Injury Claims",
+ "seoDescription": "A spinal cord injury costs $2 million to $6 million over a lifetime. Michigan no-fault can pay for it, within limits set in 2019. ATLAW explains benefits, the threshold, and disc-injury defenses. Free review.",
+ "h1": "Michigan Spinal Cord Injury Lawyer",
+ "tagline": "The first year of a high spinal cord injury costs more than most insurance policies hold. The case is about where the rest comes from.",
+ "primaryKeyword": "michigan spinal cord injury lawyer",
+ "secondaryKeywords": [
+  "michigan spine injury lawyer",
+  "detroit spinal cord injury lawyer",
+  "spinal cord injury attorney michigan",
+  "paralysis lawyer michigan",
+  "herniated disc injury lawyer michigan",
+  "back injury lawyer michigan"
+ ],
+ "intro": [
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "A spinal cord injury is the injury Michigan’s no-fault system was built for. The first year after a high cervical injury costs about $1.37 million in care and equipment; every year after costs about $238,000; over the life of a 25-year-old, about $6 million. Those figures, from the National Spinal Cord Injury Statistical Center, are why Michigan drivers were required to carry unlimited lifetime medical coverage for 46 years, and why the 2019 decision to let drivers buy less has consequences that arrive in a hospital room."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "Spinal injury cases in Michigan range from complete paralysis after a rollover to a herniated cervical disc after a rear-end crash that ends a tradesman’s career. Both are spine cases; both meet Michigan’s injury threshold when properly documented; and both are defended the same way, by calling the injury pre-existing, degenerative, or exaggerated. This page explains what no-fault pays for a spinal cord injury and where the limits are, how the threshold applies to paralysis and to disc injuries, how the degenerative-condition defense is answered, what the lifetime numbers mean for the claim against the at-fault party, and the deadlines."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across Wayne, Oakland, Macomb, and Washtenaw counties. Spinal injury cases are handled on contingency: no fee unless we recover money for you, and the first conversation is free."
+    }
+   ]
+  }
+ ],
+ "sections": [
+  {
+   "id": "spinal-cord-injury-the-numbers",
+   "heading": "Spinal cord injury: the numbers",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Measure"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Figure"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Source"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "New spinal cord injuries in the U.S. each year"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "About 18,000"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "NSCISC 2024"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Causes since 2015"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Vehicle crashes 37.5%; falls 31.7%; violence 15.4%; sports 8.0%; medical and surgical 3.7%"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "NSCISC 2024"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Average age at injury"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "43"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "NSCISC 2024"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Neurological outcome at discharge"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Incomplete tetraplegia 47.4%; incomplete paraplegia 20.0%; complete paraplegia 19.7%; complete tetraplegia 12.3%"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "NSCISC 2024"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "People injured in crashes in Wayne, Oakland, Macomb and Washtenaw counties, 2024"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "34,424, including 1,965 suspected serious injuries"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Michigan State Police"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Motorcyclists injured in Michigan, 2024"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "2,460, in the crash type with the highest rate of spinal injury"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Michigan State Police"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "t": "h3",
+     "c": [
+      {
+       "t": "text",
+       "v": "What a spinal cord injury costs"
+      }
+     ]
+    },
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Severity (ASIA A–C)"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "First year"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Each later year"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Lifetime, injured at 25"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Lifetime, injured at 50"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "High tetraplegia (C1–C4)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$1,369,755"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$237,862"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$6,077,646"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$3,340,171"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Low tetraplegia (C5–C8)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$989,768"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$145,918"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$4,440,708"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$2,731,432"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Paraplegia"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$667,569"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$88,433"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$2,971,942"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$1,950,396"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Motor function at any level (ASIA D)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$447,037"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$54,298"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$2,030,446"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$1,433,145"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Source: NSCISC, Facts and Figures at a Glance 2024; yearly expenses in 2023 dollars; lifetime figures exclude lost wages and benefits. Michigan’s minimum auto liability coverage is $50,000 per person (MCL 500.3009). The gap between those two numbers is the subject of every Michigan spinal cord injury case."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kinds-of-spinal-injury-and-why-the-classification-matters",
+   "heading": "Kinds of spinal injury, and why the classification matters",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Physicians classify a spinal cord injury by level (cervical C1–C8, thoracic T1–T12, lumbar L1–L5, sacral) and by completeness on the ASIA Impairment Scale: A (complete, no motor or sensory function below the level), B through D (incomplete, with increasing preserved function), and E (normal). Tetraplegia (quadriplegia) involves the arms and legs; paraplegia the legs and trunk. The level and grade determine the care plan, the equipment, and the lifetime cost, and they are the foundation of the life care plan that converts a medical prognosis into a damages number."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Spine injuries without cord damage are far more common and no less real: herniated and ruptured discs with nerve root compression (radiculopathy), vertebral fractures, spondylolisthesis, and injuries requiring fusion or disc replacement surgery. They are proved with MRI, EMG and nerve conduction studies, surgical findings, and the treating surgeon’s causation opinion, and they are the spine cases most often contested on the ground discussed below."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-injury-threshold-paralysis-and-herniated-discs",
+   "heading": "The injury threshold: paralysis, and herniated discs",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "To recover pain and suffering from the at-fault driver in a crash, your injury must be a serious impairment of body function, permanent serious disfigurement, or death (MCL 500.3135(1)). The test, from McCormick v Carrier (2010) and now in the statute (500.3135(5)): an objectively manifested impairment of an important body function that affects the person’s general ability to lead his or her normal life, with no requirement of permanence. Paralysis satisfies every element on the medical record alone. A disc herniation satisfies the first element through imaging and clinical findings, the second because the spine’s function is important, and the third through the documented change in work, activity, and daily life; it is the third element insurers contest, with surveillance and with the argument that the claimant “can still do most things.” Fault above 50% bars pain and suffering (500.3135(2)(b)); fault below reduces it. Spinal injuries from falls, assaults, products, and medical errors carry no threshold."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-degenerative-disc-defense",
+   "heading": "The degenerative-disc defense",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Nearly every adult over 30 has some disc degeneration on MRI, and insurers in spine cases argue that the herniation was pre-existing and the crash did nothing. Michigan law answers it two ways. A defendant takes the plaintiff as found: aggravation of a pre-existing condition is compensable, and a crash that turns an asymptomatic degenerated disc into a symptomatic herniation requiring surgery caused that injury. And the comparison is made with evidence: prior medical records showing no treatment or complaints, pre- and post-crash imaging read side by side by a radiologist, the treating surgeon’s opinion on acute versus chronic findings (such as edema, annular tears, and fracture lines), and the timeline of symptoms from the emergency room forward. The cases that lose this argument are the ones where the record was not built: a gap in treatment, no imaging for months, and an emergency room note that says “back pain, no acute findings.”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-no-fault-pays-for-a-spinal-cord-injury",
+   "heading": "What no-fault pays for a spinal cord injury",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Michigan PIP benefits are paid by your own insurer, a household insurer, or the Assigned Claims Plan regardless of fault (MCL 500.3107, 500.3114), with written notice within one year (500.3145). For a spinal cord injury the categories that matter:"
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Medical and rehabilitation care"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": acute hospitalization, inpatient rehabilitation, outpatient therapy, medications, and the lifelong management of secondary conditions (pressure injuries, urinary and respiratory complications, spasticity, pain), all “reasonably necessary” allowable expenses (500.3107(1)(a)), up to the PIP medical limit on the policy: $50,000 (Medicaid), $250,000, $500,000, or unlimited (500.3107c). A $250,000 limit is exhausted in the first months of a tetraplegia case."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Attendant care"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": personal care and supervision, often many hours a day for life. Family-provided care is capped at 56 hours a week for crashes on or after June 11, 2019 (500.3157(10)); agency care beyond that is paid under the fee schedule."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Home modifications"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": ramps, widened doors, accessible bathrooms, lifts, and in some cases a different residence, where reasonably necessary for the injured person’s care and recovery. Michigan courts have addressed how far this extends. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "ATTORNEY CHECK",
+          "v": "current case law on housing as an allowable expense"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Vehicle modifications and accessible transportation"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": hand controls, lifts, and wheelchair-accessible van conversions; the base vehicle itself has been treated differently. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "ATTORNEY CHECK",
+          "v": ""
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Durable medical equipment"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": wheelchairs, standing frames, hospital beds, pressure-relief surfaces, and their replacement."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Case management"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", and the costs of coordinating care."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Wage loss"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": 85% of income up to $7,455 a month for crashes on or after October 1, 2026, for three years (500.3107(1)(b)); "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "replacement services"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " at $20 a day for three years; "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "survivor’s loss"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " and funeral expenses in a death (500.3108)."
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The 2019 fee schedule pays providers without a Medicare code, which includes agency attendant care and many rehabilitation services, 52.5% of their 2019 charges (500.3157(7)). In Andary v USAA (2023), the Michigan Supreme Court held that neither the fee schedule nor the 56-hour cap applies to people injured before June 11, 2019. For unlimited policies, the Michigan Catastrophic Claims Association reimburses the insurer above a per-claim retention, which is what makes lifetime coverage of a $6 million injury possible. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "ATTORNEY CHECK",
+         "v": "current MCCA retention"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/car-accident-insurance",
+       "c": [
+        {
+         "t": "text",
+         "v": "no-fault insurance claim"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " page covers the insurer’s 30-day payment duty, the 12% interest, and attorney fees for unreasonable denial."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "where-the-rest-comes-from-the-claim-against-the-at-fault-party",
+   "heading": "Where the rest comes from: the claim against the at-fault party",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "When the PIP limit is $250,000 and the lifetime need is $3 million, the difference is claimed from whoever caused the injury, along with pain and suffering, lost earning capacity over a working life, and a spouse’s loss of consortium. The practical question is coverage:"
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The at-fault driver’s liability policy"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", often the $50,000 minimum or the $250,000 default (MCL 500.3009)."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The vehicle owner’s policy"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " (MCL 257.401), "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "an employer’s policy"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " if the driver was working, "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "a rideshare company’s $1 million policy"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " during a ride (MCL 257.2123), and "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "a commercial carrier’s $750,000 to $5 million"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " federal minimums for trucks and buses."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Your own underinsured motorist coverage"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", and household UIM policies; see our "
+       },
+       {
+        "t": "link",
+        "href": "/personal-injury/uninsured-motorist-claims",
+        "c": [
+         {
+          "t": "text",
+          "v": "uninsured motorist"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " page."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "A product manufacturer"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", where a seat back collapsed, a roof crushed in a rollover, an airbag failed, or a restraint released; see our "
+       },
+       {
+        "t": "link",
+        "href": "/personal-injury/product-liability",
+        "c": [
+         {
+          "t": "text",
+          "v": "product liability"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " page."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "A property owner"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", for a fall from a height, a collapsed railing or deck, or a shallow-water diving injury at a pool or beach without warnings; see our "
+       },
+       {
+        "t": "link",
+        "href": "/personal-injury/premises-liability",
+        "c": [
+         {
+          "t": "text",
+          "v": "premises liability"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " page."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "A hospital or surgeon"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", for a surgical injury, a missed cauda equina syndrome or epidural abscess, or a delayed decompression; see our "
+       },
+       {
+        "t": "link",
+        "href": "/personal-injury/medical-malpractice",
+        "c": [
+         {
+          "t": "text",
+          "v": "medical malpractice"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " page, where the two-year period, the notice of intent, and the damages cap ($1,065,000 in 2026 for the higher tier) apply."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "An employer’s workers’ compensation insurer"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", for a workplace injury, with third-party claims against equipment makers and other contractors; see our "
+       },
+       {
+        "t": "link",
+        "href": "/personal-injury/workers-compensation",
+        "c": [
+         {
+          "t": "text",
+          "v": "workers’ compensation"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " page."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The Michigan Crime Victim Services Commission"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", for injuries from violence where the assailant has no assets."
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "A spinal cord injury case is, more than any other, a search for every policy. The life care plan sets the number; the policies decide how much of it is collected."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "proving-the-lifetime-loss",
+   "heading": "Proving the lifetime loss",
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Life care plan"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": a certified life care planner projects care, equipment, medications, therapies, home and vehicle needs, and replacement cycles over the person’s life expectancy, from the treating physicians’ prognoses."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Vocational and economic analysis"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": lost earning capacity, including for a young person whose career had not begun, and the present value of future losses."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Treating physicians"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": physiatry (rehabilitation medicine), neurosurgery or orthopedic spine surgery, urology, and wound care, whose records establish the prognosis the plan relies on."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Day-in-the-life documentation"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": the routine of care, by video and testimony, which conveys what the numbers mean."
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Settlements in catastrophic cases are often structured, with annuities funding future care and a special needs trust preserving Medicaid and SSI eligibility, and a settlement for a legally incapacitated adult or a child requires court approval (MCR 2.420). "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "CONFIRM",
+         "v": "the firm coordinates structured settlements and special needs trusts"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "spinal-injuries-from-falls-diving-violence-and-medical-care",
+   "heading": "Spinal injuries from falls, diving, violence, and medical care",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Crashes cause 37.5% of spinal cord injuries; falls cause 31.7%, and the share rises with age. A fall from a ladder, a scaffold, a deck, or down a stairway is a premises or construction case with no threshold requirement and, since 2023, no “open and obvious” dismissal (Kandil-Elsayed v F & E Oil). Diving injuries at pools, lakes, and quarries, a summer pattern in Michigan, turn on depth markings, warnings, and supervision. Violence accounts for 15.4%, raising negligent security claims against the property where it occurred. Medical and surgical causes account for 3.7% but are among the most serious, and they are governed by the medical malpractice rules on our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/medical-malpractice",
+       "c": [
+        {
+         "t": "text",
+         "v": "medical malpractice"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " page."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "deadlines-for-michigan-spinal-cord-injury-claims",
+   "heading": "Deadlines for Michigan spinal cord injury claims",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Deadline"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Time"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Statute"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "Written notice to the no-fault insurer"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "1 year from the crash, not extended for incapacity"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 500.3145(1); Joseph v ACIA (2012)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Lawsuit for unpaid PIP benefits"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "1 year from each unpaid benefit"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 500.3145(2)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Lawsuit against the at-fault driver, owner, or property owner"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "3 years from the injury"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5805(2)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Product liability"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "3 years"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5805"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Medical malpractice"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "2 years, with a 182-day notice of intent"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5805(8), 600.2912b"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Workers’ compensation claim"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Notice to the employer within 90 days; claim within 2 years"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 418.381"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Government notice (bus, city vehicle, road or sidewalk defect)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "60 to 120 days depending on the defendant"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 124.419, 691.1404"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Child’s claim"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Until the child’s 19th birthday (no-fault deadlines not extended)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5851"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Wrongful death"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "3 years, with saving provisions for the estate"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5805, 600.5852"
+        }
+       ]
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "why-metro-detroit-spinal-injury-clients-call-atlaw",
+   "heading": "Why metro Detroit spinal injury clients call ATLAW",
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Thirteen years, more than 10,000 cases, more than $100 million recovered."
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The lifetime number first."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Life care planning and economic projection begin as soon as the prognosis allows, so that no policy is settled for less than the need. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": "use of life care planners and economists"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Every policy identified"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", from the at-fault driver’s to the manufacturer’s to your own UIM. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": ""
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "No-fault disputes handled alongside the injury case"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": attendant care hours, home modifications, equipment denials, and fee-schedule disputes. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": ""
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Structured settlements and benefits protection"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " coordinated with the recovery. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": ""
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Dearborn, and the whole metro area."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Our office is at "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": "street address"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ". Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": "home, hospital, and rehabilitation facility visits"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Languages."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": "  "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": "languages spoken by staff, including Arabic"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "No fee unless we recover."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Contingency fee "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": "percentage"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": "; no cost for the first conversation."
+       }
+      ]
+     ]
+    }
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How much does a spinal cord injury cost over a lifetime?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "According to the National Spinal Cord Injury Statistical Center, from about $1.4 million (ASIA D, injured at 50) to about $6.1 million (high tetraplegia, injured at 25), excluding lost wages. The first year alone runs from $447,000 to $1.37 million."
+    }
+   ]
+  },
+  {
+   "question": "Will Michigan no-fault pay for lifetime care?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Up to your PIP medical limit. Unlimited coverage pays for life; $500,000 or $250,000 does not come close in a tetraplegia case. Care beyond the limit is claimed from the at-fault party and from health insurance and Medicaid."
+    }
+   ]
+  },
+  {
+   "question": "Does a herniated disc meet the serious impairment threshold?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "It can. A herniation documented by MRI and clinical findings is objectively manifested; the spine is an important body function; and the question is whether it affected your general ability to lead your normal life (McCormick v Carrier, 2010). Surgery, work restrictions, and documented changes in activity carry the point."
+    }
+   ]
+  },
+  {
+   "question": "The insurer says my disc problems are “degenerative.” What now?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Aggravation of a pre-existing condition is compensable in Michigan. The answer is prior records showing no symptoms, side-by-side imaging, and the treating surgeon’s opinion on acute findings. Build the record early."
+    }
+   ]
+  },
+  {
+   "question": "How many hours of attendant care will no-fault pay?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Family-provided care is capped at 56 hours a week for crashes on or after June 11, 2019 (MCL 500.3157(10)); agency care covers the rest at the fee-schedule rate. People injured before that date have no cap (Andary v USAA, 2023)."
+    }
+   ]
+  },
+  {
+   "question": "Will no-fault pay for a wheelchair-accessible van and home modifications?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Modifications reasonably necessary for your care and recovery are allowable expenses; the extent, especially for the vehicle itself and for a new residence, is governed by case law your lawyer will apply to your facts."
+    }
+   ]
+  },
+  {
+   "question": "Can I recover lost wages for life?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Three years of wage loss from no-fault (85%, capped monthly); lost earning capacity beyond that from the at-fault party as excess economic damages, projected by a vocational economist."
+    }
+   ]
+  },
+  {
+   "question": "I was paralyzed in a fall at work. Who pays?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Workers’ compensation pays medical care and wage benefits regardless of fault (MCL 418.301). A lawsuit against anyone other than your employer, such as a scaffold or ladder manufacturer, a property owner, or another contractor, recovers the rest."
+    }
+   ]
+  },
+  {
+   "question": "Is there a cap on damages?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Not in crash, premises, or workplace third-party cases. Medical malpractice and product liability cases are capped for non-economic damages at $1,065,000 in 2026 where the injury caused permanent loss of a vital bodily function."
+    }
+   ]
+  },
+  {
+   "question": "How long do I have?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "One year for the no-fault notice; three years for the lawsuit against the at-fault party or a product maker; two years for medical malpractice; 90 days to notify an employer of a work injury; and 60 to 120 days to notify a government defendant."
+    }
+   ]
+  }
+ ],
+ "cta": {
+  "id": "talk-to-a-michigan-spinal-cord-injury-lawyer",
+  "heading": "Talk to a Michigan spinal cord injury lawyer",
+  "blocks": [
+   {
+    "t": "p",
+    "c": [
+     {
+      "t": "text",
+      "v": "If you or a family member suffered a spinal cord or spine injury in a crash, fall, or other incident anywhere in Michigan, call "
+     },
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "text",
+        "v": "(313) 406-7606"
+       }
+      ]
+     },
+     {
+      "t": "text",
+      "v": " or send the form on this page. We secure the no-fault benefits that pay for care now, identify every policy that can pay for care later, and tell you what the case is worth. We respond "
+     },
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "placeholder",
+        "kind": "CONFIRM",
+        "v": "same day / within one business day"
+       }
+      ]
+     },
+     {
+      "t": "text",
+      "v": ", we come to the hospital or rehabilitation facility "
+     },
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "placeholder",
+        "kind": "CONFIRM",
+        "v": ""
+       }
+      ]
+     },
+     {
+      "t": "text",
+      "v": ", and there is no fee unless we recover money for you."
+     }
+    ]
+   }
+  ]
+ },
+ "wordCount": 2603,
+ "openItems": 14,
+ "source": {
+  "file": "B1-26_Michigan-Spinal-Cord-Injury-Lawyer.docx",
+  "delivered": "2026-10-12"
+ }
+}

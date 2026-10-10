@@ -442,6 +442,11 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
 - [x] The 8 remaining Batch 1 practice areas (Oct 10, 2026) — Content Tracker
   - Registry: passenger-injury, bicycle-accidents, bus-accidents (Auto & No-Fault); sidewalk-injuries, tenant-injuries, product-liability, brain-injury, spinal-cord-injury (Injury). Labels follow the tracker's "Practice area" column
   - All 26 Batch 1 statewide URLs in the Content Tracker now resolve to a registry entry; menus show them once their content is imported
+- [x] Batch 1 pages B1-16 to B1-26 imported as drafts (Oct 10, 2026) — Content Tracker batch 1
+  - 11 Word docs from the Batch 1 Drive folder → `content-source/practice/*.md` (bridge script) → `npm run import-content`: 25 of 26 Batch 1 pages are now drafts (B1-08 Workers' Compensation not delivered yet; that page keeps its original version)
+  - New pages: 2,387–3,069 words, 10 FAQs each, 9–16 open items each. Across all 25 drafts: 182 [CONFIRM], 53 [ATTORNEY CHECK], 3 [VERIFY] for the firm
+  - Import warnings for the new pages: all 11 meta descriptions over 155 characters, 10 titles over 60; no broken links. The 14 earlier pages re-converted with no change
+  - Verified: dev, desktop + mobile, 5 new pages + workers' comp: banner, noindex, TOC, tables, highlighted items, 10 FAQs, LegalService + FAQPage JSON-LD, no overflow; menu lists 25 practices. Production build: 7 pages, no "CONFIRM" in `dist/`. Preview build: 26 pages prerendered
 
 ### Open Questions
 

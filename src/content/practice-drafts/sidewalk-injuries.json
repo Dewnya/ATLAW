@@ -1,0 +1,1376 @@
+{
+ "slug": "sidewalk-injuries",
+ "section": "personal-injury",
+ "status": "draft",
+ "seoTitle": "Michigan Sidewalk Injury Lawyer – Trip and Fall on a Sidewalk",
+ "seoDescription": "Tripped on a broken sidewalk in Michigan? Claims against a city need written notice in 120 days, a two-inch defect, and proof the city knew 30 days before. ATLAW explains each rule. Free review.",
+ "h1": "Sidewalk Injury Lawyer Michigan",
+ "tagline": "Two inches, thirty days, one hundred twenty days, two years. A sidewalk case against a city is four numbers, and missing any one of them ends it.",
+ "primaryKeyword": "sidewalk injury lawyer michigan",
+ "secondaryKeywords": [
+  "sidewalk accident lawyer",
+  "uneven sidewalk injury",
+  "michigan sidewalk law",
+  "michigan two inch rule",
+  "who is responsible for sidewalk repair in michigan",
+  "trip and fall on sidewalk michigan"
+ ],
+ "intro": [
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "A raised sidewalk slab is one of the most common ways a healthy person breaks a wrist, a hip, or a face in Michigan. In 2024, falls sent 236,773 Michigan residents to emergency rooms and 26,611 to hospital beds. When the sidewalk belongs to a city, which most sidewalks along public streets do, Michigan law makes the claim possible but wraps it in rules that do not exist in any other injury case: a two-inch measurement, a 30-day knowledge requirement, a 120-day written notice, and a two-year deadline instead of three. When the sidewalk is private, a store’s walkway or an apartment’s path, the ordinary premises liability rules apply, including the 2023 change that ended “open and obvious” dismissals."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "This page explains who is responsible for the sidewalk you fell on, what you must prove against a city, what the notice must say and who must receive it, how snow and ice are treated, what happens on private walkways, and the deadlines."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across Wayne, Oakland, Macomb, and Washtenaw counties. Sidewalk cases are handled on contingency: no fee unless we recover money for you, and the first conversation is free."
+    }
+   ]
+  }
+ ],
+ "sections": [
+  {
+   "id": "falls-in-michigan-2024",
+   "heading": "Falls in Michigan, 2024",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Measure"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Figure"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "Emergency department visits for fall injuries"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "236,773"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Hospitalizations for falls"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "26,611 (77.6% age 65 and older)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Fall deaths"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "1,701 (1,544 among adults 65 and older)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Michigan residents 65 or older"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "19.6% of the population"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Older adults who fall each year"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "About one in four"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Source: Michigan Falls Prevention Week proclamation, September 2026, citing 2024 state data. Older adults are the people most likely to fall on an uneven sidewalk and the most likely to be seriously hurt when they do."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "who-is-responsible-for-the-sidewalk-you-fell-on",
+   "heading": "Who is responsible for the sidewalk you fell on",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Three possibilities, each with different rules:"
+      }
+     ]
+    },
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Sidewalk"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Who is responsible"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Rules that apply"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Public sidewalk along a street"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "v": " (city, county, or state road)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "The city, village, or township in which it is installed, even along a county road or a state highway such as Michigan Avenue or Telegraph (MCL 691.1402a(1))"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Governmental immunity with the sidewalk exception: two-inch rule, 30-day knowledge, 120-day notice, two-year deadline"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Private walkway"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "v": " on commercial or residential property: a store entrance, a parking lot path, an apartment complex walk, a driveway apron"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "The owner or possessor of the property"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Ordinary premises liability (Kandil-Elsayed v F & E Oil, 2023); three-year deadline. See our "
+        },
+        {
+         "t": "link",
+         "href": "/personal-injury/premises-liability",
+         "c": [
+          {
+           "t": "text",
+           "v": "premises liability"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "v": " page"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Public sidewalk the abutting owner damaged or altered"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Possibly the abutting owner, in addition to the city"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "An abutting owner has no general duty to pedestrians for a public sidewalk, and a city ordinance requiring owners to repair or shovel does not by itself create one (Levendoski v Geisenhaver, 1965). The owner can be liable for a defect it created, such as a driveway cut, a tree-root heave it caused, or a hazard it placed. "
+        },
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "placeholder",
+           "kind": "ATTORNEY CHECK",
+           "v": ""
+          }
+         ]
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Ownership is not always obvious. A walkway from a parking lot to a store door is private; the sidewalk along the street in front of the store is the city’s; the apron where the two meet may be either. City GIS maps, the recorded plat, and the right-of-way width settle it, and the answer decides which deadline applies."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "suing-a-city-for-a-sidewalk-defect-what-michigan-law-requires",
+   "heading": "Suing a city for a sidewalk defect: what Michigan law requires",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Michigan cities are immune from most negligence claims. The sidewalk exception (MCL 691.1402a) allows a claim, on four conditions."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "1. The city’s duty is reasonable repair, with a presumption in its favor."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " A city must maintain its sidewalks in reasonable repair, and in a lawsuit it is presumed to have done so. The presumption can be rebutted only by proof that a proximate cause of the injury was a "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "vertical discontinuity of two inches or more"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ", or a dangerous condition in the sidewalk itself of a particular character other than a height difference (MCL 691.1402a(3)). Whether the presumption is rebutted is decided by the judge, not the jury (691.1402a(4)). A 1¾-inch lip, measured at the point of the fall, loses the presumption; a 2-inch lip does not. The measurement, photographed with a ruler at the exact spot before the city grinds or replaces the slab, is the case."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "2. The city must have known of the defect at least 30 days before your fall."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " You must prove that at least 30 days before the injury the city knew, or in the exercise of reasonable diligence should have known, of the defect (691.1402a(2)). Photographs taken after the fall, by themselves, do not prove how long the defect existed (Bernardoni v City of Saginaw, 2021). "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "ATTORNEY CHECK",
+         "v": ""
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " What does: prior complaints to the city’s 311 line or Improve Detroit app, prior work orders, prior falls at the same spot, Google Street View images dated months or years earlier, and expert testimony on how long a heave of that size takes to form. Those records are obtained by Freedom of Information Act request, and the request goes out in the first week."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "3. Written notice within 120 days."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Within 120 days of the injury, written notice must be served on the city, stating the exact location and nature of the defect, the injury sustained, and the names of witnesses known at the time (MCL 691.1404(1)). It must be served on an individual who may lawfully be served with process on behalf of the city, which usually means the clerk, the mayor, or the city attorney, by personal service or certified mail (691.1404(2)). The Michigan Supreme Court enforces the rule as written, without regard to whether the city was prejudiced (Rowland v Washtenaw County Road Commission, 2007). A telephone call to the city, a 311 complaint, or an insurance claim does not satisfy it. A notice that omits the location, the injury, or the witnesses can be held defective. An incapacitated claimant has 180 days."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "4. Suit within two years."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " The limitations period for claims under the highway and sidewalk exceptions is two years, not the three years that applies to other injury claims (MCL 691.1411(2))."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The city may also raise ordinary premises defenses, and the statute specifically preserves the open and obvious defense for sidewalk claims (691.1402a(5)). How that provision operates after the Supreme Court’s 2023 decision converting open and obvious into a comparative fault question is a live issue. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "ATTORNEY CHECK",
+         "v": "current treatment of 691.1402a(5) after Kandil-Elsayed"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "snow-and-ice-on-sidewalks",
+   "heading": "Snow and ice on sidewalks",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "A fall on an icy public sidewalk is usually not a claim against the city. The sidewalk exception covers defects in the sidewalk itself, and Michigan courts have held that a natural accumulation of ice or snow is not such a defect (Haliw v City of Sterling Heights, 2001). "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "ATTORNEY CHECK",
+         "v": ""
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " The exception is a defect in the sidewalk that caused the ice, such as a depression that holds and freezes water, which is argued as a condition “in the sidewalk itself.”"
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Private walkways are different. A business or landlord must take reasonable steps to clear snow and ice from its walkways within a reasonable time, and since 2023 the obviousness of ice is a comparative fault question rather than a bar (Kandil-Elsayed). A landlord’s statutory duty to keep common areas fit for their intended use applies to apartment walkways (MCL 554.139). See our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/slip-and-fall",
+       "c": [
+        {
+         "t": "text",
+         "v": "slip and fall"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " and "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/tenant-injuries",
+       "c": [
+        {
+         "t": "text",
+         "v": "tenant injury"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " pages."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "An abutting homeowner or business that fails to shovel a public sidewalk in violation of a city ordinance may be ticketed by the city, but Michigan courts have held that the ordinance does not create a duty to the pedestrian who falls. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "ATTORNEY CHECK",
+         "v": ""
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "private-walkways-ordinary-premises-liability",
+   "heading": "Private walkways: ordinary premises liability",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "If you fell on a walkway on private property, the claim is a premises liability claim against the possessor of the property. You must show a dangerous condition, that the possessor created it or had actual or constructive notice of it (Lowrey v LMPS & LMPJ, 2016), and that it caused your injury. There is no two-inch rule, no 30-day knowledge requirement, no notice letter, and a three-year deadline. The defenses are comparative fault (MCL 600.2959), with a bar above 50% fault, and the now-limited open and obvious argument. Building code requirements for walkway surfaces, changes in elevation, lighting, and handrails are evidence of the standard of care."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "your-own-fault",
+   "heading": "Your own fault",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "In both public and private cases, your pain-and-suffering recovery is reduced by your percentage of fault and barred above 50% (MCL 600.2959). The arguments are the same: you were looking at your phone, you had walked this route before, it was daylight. The answers are the same: a pedestrian is entitled to assume a sidewalk is reasonably safe, a two-inch heave is not visible at walking pace in the shade or at dusk, and the city or owner had the duty to fix it. Footwear, lighting, weather, and the direction of travel are documented on day one."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "evidence-in-a-sidewalk-case",
+   "heading": "Evidence in a sidewalk case",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Evidence"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Why it matters"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Where it comes from"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "Measurement of the vertical discontinuity, with a ruler, at the point of the fall"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "The two-inch rule"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Your phone, the same day, before repair"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Wide and close photographs, including the adjacent slabs and any landmarks"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Exact location for the 120-day notice"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Same day"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Google Street View history and dated photos"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "30-day knowledge"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Public"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "311 / Improve Detroit complaints, work orders, inspection logs, prior claims"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "30-day knowledge; prior notice"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "FOIA request to the city"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Weather records"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Snow, ice, and lighting"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "National Weather Service"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Witness names and contact information"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Required in the notice"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Scene"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Medical records describing a trip (toe catch) rather than a slip"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Mechanism matches a heave"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Treating providers"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "The city’s repair of the slab after your fall"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Shows the defect; also removes it, which is why photos come first"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "FOIA, follow-up photographs"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "CONFIRM",
+         "v": "the firm sends a FOIA request and the 120-day notice in the first week of retention"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-to-do-after-a-sidewalk-fall",
+   "heading": "What to do after a sidewalk fall",
+   "blocks": [
+    {
+     "t": "ol",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Photograph the defect immediately"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", with a ruler or a coin for scale, from several angles, and the surroundings so the location can be identified to the foot. Cities repair slabs within days of a reported fall."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Get the names and numbers of anyone who saw it"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", or who lives or works at the address. The notice must list known witnesses."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Get medical care"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " and describe what happened accurately: “toe caught on a raised slab.”"
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Keep your shoes."
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Do not report the fall only by phone or app"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", and do not rely on a claim to the city’s insurer. Neither is the written notice the statute requires."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Call a sidewalk injury lawyer within days."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " The 120-day notice and the FOIA request for the city’s records are the first two documents in the file, and the two-year clock is running."
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-a-michigan-sidewalk-injury-case-is-worth",
+   "heading": "What a Michigan sidewalk injury case is worth",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Medical expenses, lost wages and earning capacity, pain and suffering, loss of enjoyment of life, scarring, and in a death the wrongful death damages (MCL 600.2922), reduced by any fault assigned to you. There is no cap on damages against a city under the sidewalk exception and no serious impairment threshold. Cities and their insurers defend these cases on the four statutory conditions, so the value of a sidewalk case is decided more by the measurement, the knowledge evidence, and the notice than by the injury, and a well-documented case against a city is as collectible as any; cities are insured or self-insured and judgments are paid."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "deadlines-for-michigan-sidewalk-injury-claims",
+   "heading": "Deadlines for Michigan sidewalk injury claims",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Deadline"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Time"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Statute"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "Written notice to the city, village, or township (public sidewalk)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "120 days from the injury; 180 days if physically or mentally incapacitated"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 691.1404"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Lawsuit against a city under the sidewalk exception"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "2 years from the injury"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 691.1411(2)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Lawsuit against a private owner (private walkway)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "3 years from the injury"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5805(2)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Wrongful death"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "3 years, with saving provisions; 2 years for the claim against a city "
+        },
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "placeholder",
+           "kind": "ATTORNEY CHECK",
+           "v": ""
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5852, 691.1411"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Child’s claim"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Tolled until the child’s 19th birthday, but the 120-day notice is not extended "
+        },
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "placeholder",
+           "kind": "ATTORNEY CHECK",
+           "v": ""
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5851"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "FOIA request for the city’s complaint and repair records"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Immediately; the city must respond within 5 business days, extendable by 10"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 15.235"
+        }
+       ]
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "why-metro-detroit-sidewalk-fall-clients-call-atlaw",
+   "heading": "Why metro Detroit sidewalk-fall clients call ATLAW",
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Thirteen years, more than 10,000 cases, more than $100 million recovered."
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The 120-day notice drafted and served in the first week"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", with the location, defect, injury, and witnesses the statute requires, on the official the statute requires. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": ""
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "FOIA requests on day one"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " for complaints, work orders, and prior claims at the location. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": ""
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Measurement and documentation"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " of the defect before the city repairs it. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": "site inspection practice"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Dearborn, and the whole metro area."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Our office is at "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": "street address"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ". Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": "home and hospital visits"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Languages."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": "  "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": "languages spoken by staff, including Arabic"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "No fee unless we recover."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Contingency fee "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": "percentage"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": "; no cost for the first conversation."
+       }
+      ]
+     ]
+    }
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Can I sue the city if I tripped on a sidewalk in Michigan?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Yes, under the sidewalk exception to governmental immunity (MCL 691.1402a), if the defect was a vertical discontinuity of two inches or more or another dangerous condition in the sidewalk itself, the city knew or should have known of it at least 30 days before your fall, and you serve written notice within 120 days."
+    }
+   ]
+  },
+  {
+   "question": "What is Michigan’s two-inch rule?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "A city is presumed to have kept its sidewalk in reasonable repair, and the presumption is rebutted by proof that a vertical discontinuity of two inches or more, or another dangerous condition in the sidewalk itself, caused the injury (MCL 691.1402a(3)). The judge decides whether the presumption is rebutted."
+    }
+   ]
+  },
+  {
+   "question": "The lip was less than two inches. Do I have a case?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Against a city, only if the sidewalk had a dangerous condition “of a particular character” other than the height difference, which is a narrow category. Against a private owner, the two-inch rule does not apply."
+    }
+   ]
+  },
+  {
+   "question": "How do I give notice to the city?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "In writing, within 120 days, stating the exact location and nature of the defect, your injury, and known witnesses, served personally or by certified mail on the clerk or another official who can accept service (MCL 691.1404). A phone call or an app report is not notice."
+    }
+   ]
+  },
+  {
+   "question": "Who is responsible for the sidewalk in front of my house?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "For a defect, the city, under MCL 691.1402a. Many cities require homeowners to shovel and may bill owners for repairs, but those ordinances generally do not make the homeowner liable to a pedestrian who falls."
+    }
+   ]
+  },
+  {
+   "question": "I fell on ice on a public sidewalk. Can I sue?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Usually not the city; a natural accumulation of ice is not a defect in the sidewalk itself. A business or landlord whose private walkway was icy can be liable under ordinary premises rules."
+    }
+   ]
+  },
+  {
+   "question": "How long do I have to sue?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Two years against a city under the sidewalk exception (MCL 691.1411(2)), after the 120-day notice. Three years against a private owner."
+    }
+   ]
+  },
+  {
+   "question": "Does the open and obvious rule apply?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Against a city, the statute preserves the defense (691.1402a(5)), and courts are working out how it operates after the 2023 Supreme Court decision. Against a private owner, obviousness is a comparative fault question, not a bar."
+    }
+   ]
+  },
+  {
+   "question": "The city fixed the sidewalk after I fell. Does that help or hurt?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "It confirms the defect but removes the evidence, which is why photographs and measurements on the day of the fall matter. The repair record itself is obtained by FOIA."
+    }
+   ]
+  },
+  {
+   "question": "I was in a wheelchair or using a walker. Does that change anything?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "No. The same rules apply, and the city’s duty of reasonable repair accounts for all pedestrians. Documentation of the device and the defect’s effect on it is part of the case."
+    }
+   ]
+  }
+ ],
+ "cta": {
+  "id": "talk-to-a-michigan-sidewalk-injury-lawyer",
+  "heading": "Talk to a Michigan sidewalk injury lawyer",
+  "blocks": [
+   {
+    "t": "p",
+    "c": [
+     {
+      "t": "text",
+      "v": "If you tripped on a broken or uneven sidewalk anywhere in Michigan, call "
+     },
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "text",
+        "v": "(313) 406-7606"
+       }
+      ]
+     },
+     {
+      "t": "text",
+      "v": " or send the form on this page. We identify who owns the sidewalk, document the defect, serve the notice the statute requires, obtain the city’s records, and tell you what your claim is worth. We respond "
+     },
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "placeholder",
+        "kind": "CONFIRM",
+        "v": "same day / within one business day"
+       }
+      ]
+     },
+     {
+      "t": "text",
+      "v": ", and there is no fee unless we recover money for you."
+     }
+    ]
+   }
+  ]
+ },
+ "wordCount": 2602,
+ "openItems": 16,
+ "source": {
+  "file": "B1-22_Michigan-Sidewalk-Injury-Lawyer.docx",
+  "delivered": "2026-10-12"
+ }
+}
