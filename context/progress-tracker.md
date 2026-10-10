@@ -467,6 +467,11 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - `X-Robots-Tag: noindex` on every *.vercel.app host, so previews and staging never compete with the real domain
   - **When adding a news post, add its slug to the /news/:slug exception in vercel.json**
   - Verified: every rule tested against path-to-regexp 6 (the matcher Vercel uses): 22 old URLs go where intended; our news post, /news and all current pages are not redirected. Still to check on the Vercel preview with real requests
+- [x] Batch 1 page B1-08 Workers' Compensation imported as a draft (Oct 10, 2026): all 26 Batch 1 pages are now drafts
+  - The writers' Word file arrived in the Batch 1 Drive folder on Oct 10; converted with `scripts/docx_to_markdown.py` to `content-source/practice/workers-compensation.md`, then `npm run import-content`
+  - 2,431 words, 10 FAQs, 7 open items for the firm (2026 maximum weekly rate; whether the firm handles comp hearings itself; comp fee structure; Arabic/Spanish; address; attorney names; home and hospital visits)
+  - The long-form draft replaces the original Workers' Compensation page in previews; production keeps the original page until the firm approves
+  - Verified in Chrome (desktop + mobile): draft banner, noindex, 15 sections, FAQ JSON-LD, 7 highlighted open items, no overflow, no errors; production build unchanged (7 pages, draft not published)
 
 ### Open Questions
 
