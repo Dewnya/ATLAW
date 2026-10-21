@@ -20,21 +20,21 @@ ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled mo
 
 ## What to do in the first seven days after a Michigan car accident
 
-1. **Get the crash report started.** Michigan requires a police report (form UD-10) for any crash with injury or more than $1,000 in damage. If police came to the scene, the report will be available in a few days through the Michigan State Police Traffic Crash Purchasing System for $10. If they did not, file a report at the local police department within 24 hours. The report is the foundation of every claim you will make.
-2. **See a doctor within 72 hours, even if you feel fine.** Whiplash, concussion, and soft-tissue injuries commonly appear two to three days after a crash. An emergency room, urgent care, or your own physician all work. What matters is a medical record dated close to the crash. Insurers treat a gap in treatment as proof you were not hurt.
-3. **Tell your own auto insurer about the crash within days, and give written notice within one year.** Under Michigan’s no-fault law (MCL 500.3145) you must notify your insurer in writing within one year of the accident or you lose your benefits permanently. Do it now, in writing, and keep a copy. Report the facts; do not guess about injuries or fault.
+1. **Report the crash.** Michigan requires a crash involving injury or more than $1,000 in damage to be reported immediately to local law enforcement or a Michigan State Police post; the responding officer completes the UD-10 crash report. The report is usually available in a few days through the Michigan State Police Traffic Crash Purchasing System for $15. It is the foundation of every claim you will make.
+2. **Seek prompt medical attention, even if you feel fine.** Whiplash, concussion, and soft-tissue injuries commonly appear two to three days after a crash. An emergency room, urgent care, or your own physician all work. What matters is a medical record dated close to the crash. Prompt evaluation and consistent follow-up help document your injuries and recovery.
+3. **Notify your insurer promptly, and give written notice within one year.** Tell your auto insurer about the crash right away, obtain a claim number, and share it with your treating providers. Under Michigan’s no-fault law (MCL 500.3145) written notice within one year of the accident is required to preserve your benefits. Do it now, in writing, and keep a copy. Report the facts; do not guess about injuries or fault.
 4. **Do not give a recorded statement to the other driver’s insurance company.** You have no obligation to talk to them. Their adjuster’s job is to find a reason to pay less. Refer them to your lawyer or simply decline.
 5. **Photograph everything.** The cars, the scene, skid marks, the other driver’s license and insurance card, your injuries as they develop. Save the clothes you were wearing if they were damaged. Write down what happened while you remember it.
 6. **Keep every receipt and every missed day of work.** Michigan no-fault pays for wage loss, mileage to appointments, prescriptions, and household help, but only what you can document.
 7. **Talk to a lawyer before you sign anything.** Insurance companies sometimes offer a quick check in the first two weeks. Signing a release ends your claim. A free consultation costs you nothing and tells you whether the offer is fair.
 
-## What your own insurer owes you: Michigan no-fault benefits
+## What no-fault owes you: Michigan PIP benefits
 
-Michigan is a no-fault state. After a crash, your own auto insurance pays your medical bills and lost wages regardless of who was at fault, through what the law calls Personal Injury Protection (PIP). This is the part of the system most people misunderstand, and the part insurers most often underpay.
+Michigan is a no-fault state. After a crash, Personal Injury Protection (PIP) benefits pay your medical bills and lost wages regardless of who was at fault. PIP benefits generally come through applicable coverage under your policy or a spouse’s or resident relative’s policy; different priority rules apply to certain employer vehicles, passenger vehicles, and motorcycle accidents. This is the part of the system most people misunderstand, and the part insurers most often underpay.
 
 Your PIP benefits include:
 
-- **Medical expenses**, up to the coverage level you chose when you bought your policy. Since the 2019 reform, Michigan drivers pick one of six levels: unlimited; $500,000; $250,000; $250,000 with exclusions for people who have other health insurance; $50,000 for Medicaid enrollees; or opting out entirely for Medicare enrollees. If you do not know your level, it is on your declarations page. If you have a level below unlimited and your bills exceed it, you can sue the at-fault driver for the excess, which is one reason that lawsuit matters more than it used to.
+- **Medical expenses**, up to the coverage level you chose when you bought your policy. Since the 2019 reform, Michigan drivers pick one of six levels: unlimited; $500,000; $250,000; $250,000 with exclusions for people who have qualified health coverage; $50,000 for Medicaid enrollees, available only if the applicant has Medicaid and their spouse and resident relatives have Medicaid, qualified health coverage, or PIP medical coverage under another policy; or opting out of PIP medical coverage for Medicare enrollees, which requires Medicare Parts A and B and a spouse and resident relatives with qualified health coverage or another policy’s PIP medical coverage. Other PIP benefits remain available under every option. If you do not know your level, it is on your declarations page. If you have a level below unlimited and your bills exceed it, you can sue the at-fault driver for the excess, which is one reason that lawsuit matters more than it used to.
 - **Wage loss**: 85% of the income you would have earned, tax-free, for up to three years after the crash. The benefit is capped at a monthly maximum that the state adjusts every October. For crashes on or after October 1, 2026, the cap is $7,455 a month (DIFS Bulletin 2026-20-INS). For crashes in the year before, it was $7,201. If you were self-employed or had just started a job, the insurer will dispute your wage figure; documentation wins that argument.
 - **Replacement services**: up to $20 a day for up to three years for household tasks you can no longer do, such as cleaning, cooking, yard work, and driving children. Family members can be paid for providing them.
 - **Attendant care**: payment for someone to help you with daily activities if your injuries require it. Care provided by family members at home is capped at 56 hours a week under the 2019 reform; care from an agency is not.
@@ -43,7 +43,7 @@ Your PIP benefits include:
 
 Two rules trip up people who try to handle this alone. First, the **one-year notice rule**: written notice to your insurer within one year of the crash, or the claim is barred. Second, the **one-year-back rule**: when you sue your insurer for unpaid benefits, you can only recover expenses from the twelve months before the lawsuit was filed. A bill the insurer wrongly denied two years ago is gone unless you sued within a year of the denial. These two deadlines cost Michigan families more money than any other part of the no-fault law.
 
-If you do not have your own policy, do not live with a relative who has one, and were not in a car with one, you file through the Michigan Assigned Claims Plan, which assigns an insurer to pay your benefits at the $250,000 level. The deadline is the same one year.
+If you have no applicable PIP coverage of your own and none through a relative you live with, you may apply through the Michigan Assigned Claims Plan, which assigns an insurer to pay your benefits, generally subject to a $250,000 medical limit. An owner or registrant of an involved vehicle that lacked the required insurance is generally excluded from PIP. Notice to the Michigan Automobile Insurance Placement Facility, which runs the plan, is due within one year of the accident.
 
 ## When you can sue the driver who hit you
 
@@ -57,7 +57,7 @@ A fractured bone, a herniated disc with nerve involvement, a concussion with doc
 
 Two more rules apply to the lawsuit. **Comparative fault**: if you were more than 50% at fault for the crash, you cannot recover non-economic damages at all. Below 50%, your award is reduced by your share of fault. Insurers argue fault aggressively for exactly this reason, which is why the crash report and witness statements matter. **Uninsured and underinsured drivers**: if the at-fault driver has no insurance or too little, your own policy’s UM/UIM coverage (if you bought it) stands in for theirs. Those claims have their own notice deadlines, often shorter than a year, written into your policy.
 
-**What about the damage to your car?** No-fault does not pay for your vehicle unless you carry collision coverage. Michigan’s **mini-tort** law lets you recover up to $3,000 from the at-fault driver (or their insurer) for vehicle damage your own policy did not cover. The limit was raised from $1,000 to $3,000 in July 2020; several law firm websites still quote the old figure. Mini-tort claims are filed in small claims court and you do not need a lawyer for one. If you hire us for your injury claim, we handle the mini-tort claim at no additional charge. **[CONFIRM: that this is the firm’s practice]**
+**What about the damage to your car?** No-fault does not pay for your vehicle unless you carry collision coverage. Michigan’s **mini-tort** law lets you recover up to $3,000 from the at-fault driver (or their insurer) for vehicle damage your own policy did not cover. The limit was raised from $1,000 to $3,000 in July 2020; several law firm websites still quote the old figure. Mini-tort claims are filed in small claims court and you do not need a lawyer for one. If you hire us for your injury claim, we handle the mini-tort claim at no additional charge.
 
 ## What a Michigan car accident claim is worth
 
@@ -67,7 +67,7 @@ No honest lawyer can give you a number before reviewing the medical records, and
 - **Economic losses no-fault did not cover**: wages above the cap, wages after three years, medical bills above your PIP level, future care.
 - **How clear fault is.** A rear-end collision with a police report assigning fault settles differently from a disputed intersection crash.
 - **The at-fault driver’s policy limits.** Michigan’s minimum bodily injury coverage is $50,000 per person and $100,000 per crash (raised from $20,000 / $40,000 in 2020). Many drivers carry only the minimum. Your own UIM coverage matters when they do.
-- **Whether the insurer believes you will go to trial.** Firms that settle everything get lower offers. **[CONFIRM: number of car accident cases the firm has taken to trial or arbitration, or delete this bullet]**
+- **Whether the insurer believes you will go to trial.** Firms that settle everything get lower offers. ATLAW takes cases to trial when that is what the case requires.
 
 ATLAW’s results: more than 10,000 cases and more than $100 million recovered for clients in 13 years. Every case is different and past results do not predict the outcome of yours. What they show is that the firm has done this work, in these counties, against these insurers, for 13 years.
 
@@ -117,15 +117,15 @@ Every crash below is a car accident claim under Michigan law, but each has a wri
 
 ## Why people in metro Detroit call ATLAW
 
-**A Dearborn firm, not a billboard.** ATLAW was founded in Dearborn by Dewnya Bazzi and has served clients for 13 years. The office is at **[CONFIRM: street address]**, and the attorneys who meet you at the consultation are the attorneys who handle the case. **[CONFIRM: name of each attorney who handles car accident cases]**
+**A Dearborn firm, not a billboard.** ATLAW was founded in Dearborn by Dewnya Bazzi and has served clients for 13 years. The office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126, and the attorneys who meet you at the consultation are the attorneys who handle the case.
 
 **More than 10,000 cases, more than $100 million recovered.** Across all injury practice areas. Every case is different and these figures do not predict yours; they show the firm has done this work in Wayne, Oakland, Macomb, and Washtenaw county courts against the insurers you are dealing with.
 
-**No fee unless we win.** Car accident cases are handled on a contingency fee: you pay nothing up front and nothing at all unless we recover money for you. The fee is a percentage of the recovery, agreed in writing before we start. **[CONFIRM: percentage, and whether case costs are advanced by the firm and deducted only from a recovery]**
+**No fee unless we win.** Car accident cases are handled on a contingency fee: you pay nothing up front and nothing at all unless we recover money for you. The fee is a percentage of the recovery, agreed in writing before we start. ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs.
 
 **We will tell you if you do not need us.** If your injuries are minor and your own insurer is paying, you may be able to handle the claim yourself, and we will say so. A lawyer earns a fee when the case has a problem to solve: a denied benefit, a disputed threshold, a low offer, an uninsured driver.
 
-**Arabic and Spanish.** Consultations and intake are available in English, Arabic, and Spanish. **[CONFIRM: which attorneys or staff speak Arabic and Spanish]**
+**English, Arabic, French, Mandarin, Urdu, and Spanish.** Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish.
 
 ## Do you need a lawyer for your Michigan car accident?
 
@@ -143,7 +143,7 @@ The consultation is free and takes about thirty minutes. Bring the crash report 
 
 **What counts as a “serious impairment of body function”?** An injury that is objectively manifested (observable by a doctor), affects an important body function, and affects your general ability to lead your normal life. The effect does not have to be permanent. Fractures, herniated discs, surgical injuries, and concussions with documented effects usually qualify; a sprain that heals in a few weeks usually does not.
 
-**How much does a Michigan car accident lawyer cost?** ATLAW handles car accident cases on a contingency fee: nothing up front, and no fee unless we recover money for you. The fee is a percentage of the recovery set in a written agreement before work begins. **[CONFIRM: percentage]** Michigan court rules cap contingency fees in personal injury cases at one-third of the net recovery.
+**How much does a Michigan car accident lawyer cost?** ATLAW handles car accident cases on a contingency fee: nothing up front, and no fee unless we recover money for you. The fee is a percentage of the recovery set in a written agreement before work begins. ATLAW’s fee is 33.3% of the recovery after case costs are deducted, and the firm advances those costs. Michigan court rules cap contingency fees in personal injury cases at one-third of the net recovery.
 
 **What if the driver who hit me has no insurance?** Your own policy’s uninsured motorist (UM) coverage pays what the other driver’s insurer would have, up to your UM limit, if you bought that coverage. Your no-fault PIP benefits are paid regardless. If you have no policy and no household member does, the Michigan Assigned Claims Plan assigns an insurer to pay PIP benefits. Hit-and-run crashes are handled the same way.
 
@@ -159,6 +159,6 @@ The consultation is free and takes about thirty minutes. Bring the crash report 
 
 ## Talk to a Michigan car accident lawyer today
 
-Call **(313) 406-7606**, or send the form below and we will call you within one business day. Consultations are free, available in English, Arabic, and Spanish, and there is no fee unless we recover money for you. If you cannot come to Dearborn, we will meet you at home or at the hospital. **[CONFIRM: home and hospital visits]**
+Call **(313) 406-7606**, or send the form below and we will call you within one business day. Consultations are free, available in English, Arabic, French, Mandarin, Urdu, and Spanish, and there is no fee unless we recover money for you. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 
 *Attorney advertising. Past results do not guarantee or predict a similar outcome. The information on this page is general and is not legal advice about your situation. Figures cited are current as of October 2026; the wage-loss maximum is adjusted each October by the Michigan Department of Insurance and Financial Services.*

@@ -686,7 +686,7 @@
       [
        {
         "t": "text",
-        "v": "Killed"
+        "v": "Fatalities"
        }
       ]
      ],
@@ -834,7 +834,7 @@
        },
        {
         "t": "text",
-        "v": " The Michigan UD-10 report will identify the carrier, the USDOT number on the truck, and the insurer. Buy it from the State Police Traffic Crash Purchasing System for $10."
+        "v": " The Michigan UD-10 report will identify the carrier, the USDOT number on the truck, and the insurer. Buy it from the State Police Traffic Crash Purchasing System for $15."
        }
       ],
       [
@@ -849,7 +849,7 @@
        },
        {
         "t": "text",
-        "v": ", especially the USDOT and MC numbers on the cab door, the license plates on the tractor and trailer, the cargo, and any company name. Carriers change insurers and trucks change hands; the numbers are permanent."
+        "v": ", especially the USDOT and MC numbers on the cab door, the license plates on the tractor and trailer, the cargo, and any company name. Carriers change insurers and trucks change hands; the USDOT number identifies the carrier (the legal entity that operates the truck), not the truck itself, so record it together with the plates."
        }
       ],
       [
@@ -1139,31 +1139,7 @@
       },
       {
        "t": "text",
-       "v": " The office is at "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "street address"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": ", minutes from I-94, the Rouge complex, and the Ambassador Bridge approach. The attorneys who meet you handle the case. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "attorney names"
-        }
-       ]
+       "v": " The office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126, minutes from I-94, the Rouge complex, and the Ambassador Bridge approach. The attorneys who meet you handle the case."
       }
      ]
     },
@@ -1227,17 +1203,7 @@
       },
       {
        "t": "text",
-       "v": " Truck cases are expensive to investigate (accident reconstruction, ELD downloads, expert review). "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "that the firm advances those costs and deducts them only from a recovery"
-        }
-       ]
+       "v": " Truck cases are expensive to investigate (accident reconstruction, ELD downloads, expert review). ATLAW advances those costs, and they are deducted only from a recovery; the 33.3% attorney fee is calculated on what remains."
       }
      ]
     },
@@ -1249,23 +1215,13 @@
        "c": [
         {
          "t": "text",
-         "v": "English, Arabic, and Spanish."
+         "v": "English, Arabic, French, Mandarin, Urdu, and Spanish."
         }
        ]
       },
       {
        "t": "text",
-       "v": " Consultations and case updates in your language. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "who provides Arabic and Spanish"
-        }
-       ]
+       "v": " Consultations and case updates in your language."
       }
      ]
     }
@@ -1386,24 +1342,14 @@
      },
      {
       "t": "text",
-      "v": " or send the form below. We respond the same business day on truck cases because the evidence clock is already running. Consultations are free, in English, Arabic, or Spanish, and there is no fee unless we recover money for you. If you are in the hospital, we will come to you. "
-     },
-     {
-      "t": "strong",
-      "c": [
-       {
-        "t": "placeholder",
-        "kind": "CONFIRM",
-        "v": "hospital visits"
-       }
-      ]
+      "v": " or send the form below. We respond the same business day on truck cases because the evidence clock is already running. Consultations are free, in English, Arabic, French, Mandarin, Urdu, or Spanish, and there is no fee unless we recover money for you. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed."
      }
     ]
    }
   ]
  },
- "wordCount": 2845,
- "openItems": 6,
+ "wordCount": 2885,
+ "openItems": 1,
  "source": {
   "file": "B1-03_Michigan-Truck-Accident-Lawyer.docx",
   "delivered": "2026-10-12"

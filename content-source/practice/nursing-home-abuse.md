@@ -26,7 +26,7 @@ Two sets of rules apply to every nursing home in Michigan that accepts Medicare 
 
 **Federal regulations** (42 CFR Part 483, the Nursing Home Reform Act requirements) set the standard of care in detail. A resident has the right to be free from abuse, neglect, exploitation, and physical or chemical restraints used for discipline or convenience (483.12). The facility must ensure that a resident who enters without pressure sores does not develop them unless clinically unavoidable, and that a resident who has them receives treatment to heal them (483.25(b)). It must keep the environment free of accident hazards and provide the supervision and assistive devices needed to prevent falls (483.25(d)). It must maintain each resident’s nutrition and hydration (483.25(g)), manage medications without significant error (483.45), and have sufficient nursing staff to meet residents’ needs (483.35). The facility’s own care plan for each resident, which it is required to write and follow (483.21), is the measure of whether it did.
 
-**Michigan’s Public Health Code** gives every nursing home resident a bill of rights (MCL 333.20201), including the right to adequate and appropriate care, to be free from mental and physical abuse and from restraints except as ordered by a physician, and to have a family member or representative informed of changes in condition. Michigan licenses and inspects nursing homes through the Department of Licensing and Regulatory Affairs (LARA), which investigates complaints and can cite, fine, and in serious cases close a facility.
+**Michigan’s Public Health Code** gives every nursing home resident a bill of rights (MCL 333.20201), including the right to adequate and appropriate care, to be free from mental and physical abuse, and to be free from restraints except as authorized in writing by a physician, a qualifying physician assistant, or an advanced practice registered nurse, with a limited emergency exception (an order never overrides the federal prohibition on restraints used for discipline or staff convenience). Federal rule 42 CFR 483.10(g)(14) separately requires the facility to notify a family member or representative of specified significant changes in the resident’s condition. Michigan licenses and inspects nursing homes through the Department of Licensing and Regulatory Affairs (LARA), which investigates complaints and can cite, fine, and in serious cases close a facility.
 
 A violation of these rules is not automatically a lawsuit, but it is evidence of negligence, and LARA’s inspection reports and citations are public records a lawyer obtains early.
 
@@ -34,7 +34,7 @@ A violation of these rules is not automatically a lawsuit, but it is evidence of
 
 **Neglect** is the most common harm, and it looks like this:
 
-- **Pressure sores (bedsores)**, especially on the tailbone, hips, and heels. A sore that reaches stage 3 or 4 in a facility is, under the federal rule, presumptively the facility’s failure unless the chart shows it was unavoidable.
+- **Pressure sores (bedsores)**, especially on the tailbone, hips, and heels. A sore that reaches stage 3 or 4 in a facility is a serious warning sign that warrants review of the resident’s condition and the prevention and treatment provided.
 - **Falls**, particularly repeated falls or a fall by a resident whose care plan called for assistance or an alarm.
 - **Dehydration and unexplained weight loss**, which the facility must monitor and record.
 - **Infections and sepsis**, including urinary tract infections from poor catheter care and infected sores.
@@ -50,8 +50,8 @@ The family’s observations matter, but the proof is in the facility’s records
 ## What to do today if you suspect abuse or neglect
 
 1. **If the resident is in immediate danger, call 911** and have them taken to a hospital, where an independent medical record will be created.
-2. **Report to Michigan Adult Protective Services** at 855-444-3911 (24 hours). APS investigates abuse and neglect of vulnerable adults in any setting.
-3. **File a complaint with LARA**, which licenses nursing homes, at 800-882-6006 or online. LARA must investigate and will issue a report.
+2. **Report to Michigan Adult Protective Services** at 855-444-3911 (24 hours). APS may investigate matters within its jurisdiction, including suspected abuse by someone who is not a facility employee; it does not independently investigate every nursing-home allegation.
+3. **File a complaint with LARA**, which licenses nursing homes and investigates nursing-home care and facility complaints, at 800-882-6006 or online.
 4. **Contact the Michigan Long-Term Care Ombudsman** at 866-485-9393. The Ombudsman is an independent advocate for residents, free, and can intervene with the facility.
 5. **Photograph injuries, sores, and conditions**, with dates. Keep a written log of what you observe on each visit and what staff tell you.
 6. **Request the medical records in writing.** A resident, or a representative with authority, has the right to the chart. The facility must produce it.
@@ -114,15 +114,15 @@ ATLAW’s results: more than 10,000 cases and more than $100 million recovered f
 
 ## Why families in metro Detroit call ATLAW
 
-**A Dearborn firm that files both claims.** Every nursing home case is reviewed for ordinary negligence and malpractice, so the three-year claims are preserved and the two-year claims are filed correctly. The office is at **[CONFIRM: street address]**. **[CONFIRM: attorney names]**
+**A Dearborn firm that evaluates every claim.** ATLAW evaluates whether the facts support ordinary-negligence claims, malpractice claims, or both, so the three-year claims are preserved and the two-year claims are filed correctly. The office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126.
 
 **More than 10,000 cases, more than $100 million recovered** in 13 years, across all injury practice areas. Every case is different; the figures show the firm has done this work in these counties.
 
 **Records first.** The facility’s chart, incident reports, staffing records, and LARA file are requested before the facility knows a claim is coming. **[CONFIRM: that this is the firm’s practice]**
 
-**No fee unless we win.** A contingency fee set in writing before we start; expert costs for malpractice claims are advanced. **[CONFIRM: percentage and cost handling]**
+**No fee unless we win.** A contingency fee set in writing before we start; expert costs for malpractice claims are advanced. ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs.
 
-**English, Arabic, and Spanish**, for families who need to discuss a parent’s care in their own language. **[CONFIRM: who provides Arabic and Spanish]**
+**English, Arabic, French, Mandarin, Urdu, and Spanish**, for families who need to discuss a parent’s care in their own language.
 
 ## Frequently asked questions about Michigan nursing home abuse claims
 
@@ -148,6 +148,6 @@ ATLAW’s results: more than 10,000 cases and more than $100 million recovered f
 
 ## Talk to a Michigan nursing home abuse lawyer
 
-Call **(313) 406-7606** or send the form below. We respond within one business day. The consultation is free, in English, Arabic, or Spanish, and there is no fee unless we recover money for your family. We will meet you at the facility, the hospital, or your home. **[CONFIRM: visits]**
+Call **(313) 406-7606** or send the form below. We respond within one business day. The consultation is free, in English, Arabic, French, Mandarin, Urdu, or Spanish, and there is no fee unless we recover money for your family. We welcome families to our Dearborn office for a consultation. If you are unable to visit, meetings at the facility, the hospital, or your home can be arranged as needed.
 
 *Attorney advertising. Past results do not guarantee or predict a similar outcome. This page is general information about Michigan and federal law, not legal advice about your situation. Figures are current as of October 2026.*

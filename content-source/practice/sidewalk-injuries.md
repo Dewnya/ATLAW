@@ -87,8 +87,6 @@ In both public and private cases, your pain-and-suffering recovery is reduced by
 | Medical records describing a trip (toe catch) rather than a slip | Mechanism matches a heave | Treating providers |
 | The city’s repair of the slab after your fall | Shows the defect; also removes it, which is why photos come first | FOIA, follow-up photographs |
 
-**[CONFIRM: the firm sends a FOIA request and the 120-day notice in the first week of retention]**
-
 ## What to do after a sidewalk fall
 
 1. **Photograph the defect immediately**, with a ruler or a coin for scale, from several angles, and the surroundings so the location can be identified to the foot. Cities repair slabs within days of a reported fall.
@@ -116,12 +114,12 @@ Medical expenses, lost wages and earning capacity, pain and suffering, loss of e
 ## Why metro Detroit sidewalk-fall clients call ATLAW
 
 - **Thirteen years, more than 10,000 cases, more than $100 million recovered.**
-- **The 120-day notice drafted and served in the first week**, with the location, defect, injury, and witnesses the statute requires, on the official the statute requires. **[CONFIRM]**
-- **FOIA requests on day one** for complaints, work orders, and prior claims at the location. **[CONFIRM]**
+- **The 120-day notice drafted and served in the first week**, with the location, defect, injury, and witnesses the statute requires, on the official the statute requires.
+- **FOIA requests on day one** for complaints, work orders, and prior claims at the location.
 - **Measurement and documentation** of the defect before the city repairs it. **[CONFIRM: site inspection practice]**
-- **Dearborn, and the whole metro area.** Our office is at **[CONFIRM: street address]**. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. **[CONFIRM: home and hospital visits]**
-- **Languages.**  **[CONFIRM: languages spoken by staff, including Arabic]**
-- **No fee unless we recover.** Contingency fee **[CONFIRM: percentage]**; no cost for the first conversation.
+- **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
+- **Languages.** Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish.
+- **No fee unless we recover.** ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs. No cost for the first conversation.
 
 ## Frequently asked questions about Michigan sidewalk injuries
 
@@ -147,6 +145,6 @@ Medical expenses, lost wages and earning capacity, pain and suffering, loss of e
 
 ## Talk to a Michigan sidewalk injury lawyer
 
-If you tripped on a broken or uneven sidewalk anywhere in Michigan, call **(313) 406-7606** or send the form on this page. We identify who owns the sidewalk, document the defect, serve the notice the statute requires, obtain the city’s records, and tell you what your claim is worth. We respond **[CONFIRM: same day / within one business day]**, and there is no fee unless we recover money for you.
+If you tripped on a broken or uneven sidewalk anywhere in Michigan, call **(313) 406-7606** or send the form on this page. We identify who owns the sidewalk, document the defect, serve the notice the statute requires, obtain the city’s records, and tell you what your claim is worth. We respond within one business day, and there is no fee unless we recover money for you.
 
 *Results depend on the facts of each case, and past results do not guarantee a future outcome. This page is general information about Michigan law, not legal advice for your situation.*

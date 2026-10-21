@@ -396,17 +396,7 @@
        },
        {
         "t": "text",
-        "v": " A driver facing a green signal must yield to a pedestrian lawfully in the crosswalk, and a driver turning on red must yield to pedestrians (MCL 257.612). Where there is no signal, the Michigan Uniform Traffic Code, adopted by most metro Detroit cities, requires a driver to slow or stop to yield to a pedestrian in a crosswalk (R 28.1702). Ann Arbor’s crosswalk ordinance goes further and requires drivers to stop for a pedestrian approaching or within a crosswalk. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "ATTORNEY CHECK",
-          "v": "rule and ordinance citations"
-         }
-        ]
+        "v": " A driver facing a green signal must yield to a pedestrian lawfully in the crosswalk, and a driver turning on red must yield to pedestrians (MCL 257.612). Where there is no signal, the Michigan Uniform Traffic Code, adopted by most metro Detroit cities, requires a driver to slow or stop to yield to a pedestrian in a crosswalk (R 28.1702). Ann Arbor’s crosswalk ordinance goes further and requires drivers to stop for a pedestrian approaching or within a crosswalk."
        }
       ],
       [
@@ -1210,17 +1200,7 @@
        },
        {
         "t": "text",
-        "v": " We identify the responsible no-fault insurer under MCL 500.3114 and 500.3115 and give notice in the first week. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": ""
-         }
-        ]
+        "v": " We identify the responsible no-fault insurer under MCL 500.3114 and 500.3115 and give notice in the first week."
        }
       ],
       [
@@ -1275,31 +1255,7 @@
        },
        {
         "t": "text",
-        "v": " Our office is at "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "street address"
-         }
-        ]
-       },
-       {
-        "t": "text",
-        "v": ". Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "home and hospital visits"
-         }
-        ]
+        "v": " Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed."
        }
       ],
       [
@@ -1314,17 +1270,7 @@
        },
        {
         "t": "text",
-        "v": "  "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "languages spoken by staff, including Arabic"
-         }
-        ]
+        "v": " Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish."
        }
       ],
       [
@@ -1339,21 +1285,7 @@
        },
        {
         "t": "text",
-        "v": " Contingency fee "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "percentage"
-         }
-        ]
-       },
-       {
-        "t": "text",
-        "v": "; no cost for the first conversation."
+        "v": " ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs. No cost for the first conversation."
        }
       ]
      ]
@@ -1475,28 +1407,14 @@
      },
      {
       "t": "text",
-      "v": " or send the form on this page. We identify the insurer that owes your benefits, start the investigation into the driver, and tell you what your claims are worth. We respond "
-     },
-     {
-      "t": "strong",
-      "c": [
-       {
-        "t": "placeholder",
-        "kind": "CONFIRM",
-        "v": "same day / within one business day"
-       }
-      ]
-     },
-     {
-      "t": "text",
-      "v": ", and there is no fee unless we recover money for you."
+      "v": " or send the form on this page. We identify the insurer that owes your benefits, start the investigation into the driver, and tell you what your claims are worth. We respond within one business day, and there is no fee unless we recover money for you."
      }
     ]
    }
   ]
  },
- "wordCount": 2995,
- "openItems": 9,
+ "wordCount": 3047,
+ "openItems": 2,
  "source": {
   "file": "B1-17_Michigan-Pedestrian-Accident-Lawyer.docx",
   "delivered": "2026-10-12"

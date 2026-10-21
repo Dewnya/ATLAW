@@ -48,13 +48,13 @@
         "c": [
          {
           "t": "text",
-          "v": "Get the crash report started."
+          "v": "Report the crash."
          }
         ]
        },
        {
         "t": "text",
-        "v": " Michigan requires a police report (form UD-10) for any crash with injury or more than $1,000 in damage. If police came to the scene, the report will be available in a few days through the Michigan State Police Traffic Crash Purchasing System for $10. If they did not, file a report at the local police department within 24 hours. The report is the foundation of every claim you will make."
+        "v": " Michigan requires a crash involving injury or more than $1,000 in damage to be reported immediately to local law enforcement or a Michigan State Police post; the responding officer completes the UD-10 crash report. The report is usually available in a few days through the Michigan State Police Traffic Crash Purchasing System for $15. It is the foundation of every claim you will make."
        }
       ],
       [
@@ -63,13 +63,13 @@
         "c": [
          {
           "t": "text",
-          "v": "See a doctor within 72 hours, even if you feel fine."
+          "v": "Seek prompt medical attention, even if you feel fine."
          }
         ]
        },
        {
         "t": "text",
-        "v": " Whiplash, concussion, and soft-tissue injuries commonly appear two to three days after a crash. An emergency room, urgent care, or your own physician all work. What matters is a medical record dated close to the crash. Insurers treat a gap in treatment as proof you were not hurt."
+        "v": " Whiplash, concussion, and soft-tissue injuries commonly appear two to three days after a crash. An emergency room, urgent care, or your own physician all work. What matters is a medical record dated close to the crash. Prompt evaluation and consistent follow-up help document your injuries and recovery."
        }
       ],
       [
@@ -78,13 +78,13 @@
         "c": [
          {
           "t": "text",
-          "v": "Tell your own auto insurer about the crash within days, and give written notice within one year."
+          "v": "Notify your insurer promptly, and give written notice within one year."
          }
         ]
        },
        {
         "t": "text",
-        "v": " Under Michigan’s no-fault law (MCL 500.3145) you must notify your insurer in writing within one year of the accident or you lose your benefits permanently. Do it now, in writing, and keep a copy. Report the facts; do not guess about injuries or fault."
+        "v": " Tell your auto insurer about the crash right away, obtain a claim number, and share it with your treating providers. Under Michigan’s no-fault law (MCL 500.3145) written notice within one year of the accident is required to preserve your benefits. Do it now, in writing, and keep a copy. Report the facts; do not guess about injuries or fault."
        }
       ],
       [
@@ -152,15 +152,15 @@
    ]
   },
   {
-   "id": "what-your-own-insurer-owes-you-michigan-no-fault-benefits",
-   "heading": "What your own insurer owes you: Michigan no-fault benefits",
+   "id": "what-no-fault-owes-you-michigan-pip-benefits",
+   "heading": "What no-fault owes you: Michigan PIP benefits",
    "blocks": [
     {
      "t": "p",
      "c": [
       {
        "t": "text",
-       "v": "Michigan is a no-fault state. After a crash, your own auto insurance pays your medical bills and lost wages regardless of who was at fault, through what the law calls Personal Injury Protection (PIP). This is the part of the system most people misunderstand, and the part insurers most often underpay."
+       "v": "Michigan is a no-fault state. After a crash, Personal Injury Protection (PIP) benefits pay your medical bills and lost wages regardless of who was at fault. PIP benefits generally come through applicable coverage under your policy or a spouse’s or resident relative’s policy; different priority rules apply to certain employer vehicles, passenger vehicles, and motorcycle accidents. This is the part of the system most people misunderstand, and the part insurers most often underpay."
       }
      ]
     },
@@ -188,7 +188,7 @@
        },
        {
         "t": "text",
-        "v": ", up to the coverage level you chose when you bought your policy. Since the 2019 reform, Michigan drivers pick one of six levels: unlimited; $500,000; $250,000; $250,000 with exclusions for people who have other health insurance; $50,000 for Medicaid enrollees; or opting out entirely for Medicare enrollees. If you do not know your level, it is on your declarations page. If you have a level below unlimited and your bills exceed it, you can sue the at-fault driver for the excess, which is one reason that lawsuit matters more than it used to."
+        "v": ", up to the coverage level you chose when you bought your policy. Since the 2019 reform, Michigan drivers pick one of six levels: unlimited; $500,000; $250,000; $250,000 with exclusions for people who have qualified health coverage; $50,000 for Medicaid enrollees, available only if the applicant has Medicaid and their spouse and resident relatives have Medicaid, qualified health coverage, or PIP medical coverage under another policy; or opting out of PIP medical coverage for Medicare enrollees, which requires Medicare Parts A and B and a spouse and resident relatives with qualified health coverage or another policy’s PIP medical coverage. Other PIP benefits remain available under every option. If you do not know your level, it is on your declarations page. If you have a level below unlimited and your bills exceed it, you can sue the at-fault driver for the excess, which is one reason that lawsuit matters more than it used to."
        }
       ],
       [
@@ -308,7 +308,7 @@
      "c": [
       {
        "t": "text",
-       "v": "If you do not have your own policy, do not live with a relative who has one, and were not in a car with one, you file through the Michigan Assigned Claims Plan, which assigns an insurer to pay your benefits at the $250,000 level. The deadline is the same one year."
+       "v": "If you have no applicable PIP coverage of your own and none through a relative you live with, you may apply through the Michigan Assigned Claims Plan, which assigns an insurer to pay your benefits, generally subject to a $250,000 medical limit. An owner or registrant of an involved vehicle that lacked the required insurance is generally excluded from PIP. Notice to the Michigan Automobile Insurance Placement Facility, which runs the plan, is due within one year of the accident."
       }
      ]
     }
@@ -473,17 +473,7 @@
       },
       {
        "t": "text",
-       "v": " law lets you recover up to $3,000 from the at-fault driver (or their insurer) for vehicle damage your own policy did not cover. The limit was raised from $1,000 to $3,000 in July 2020; several law firm websites still quote the old figure. Mini-tort claims are filed in small claims court and you do not need a lawyer for one. If you hire us for your injury claim, we handle the mini-tort claim at no additional charge. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "that this is the firm’s practice"
-        }
-       ]
+       "v": " law lets you recover up to $3,000 from the at-fault driver (or their insurer) for vehicle damage your own policy did not cover. The limit was raised from $1,000 to $3,000 in July 2020; several law firm websites still quote the old figure. Mini-tort claims are filed in small claims court and you do not need a lawyer for one. If you hire us for your injury claim, we handle the mini-tort claim at no additional charge."
       }
      ]
     }
@@ -577,17 +567,7 @@
        },
        {
         "t": "text",
-        "v": " Firms that settle everything get lower offers. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "number of car accident cases the firm has taken to trial or arbitration, or delete this bullet"
-         }
-        ]
+        "v": " Firms that settle everything get lower offers. ATLAW takes cases to trial when that is what the case requires."
        }
       ]
      ]
@@ -1173,31 +1153,7 @@
       },
       {
        "t": "text",
-       "v": " ATLAW was founded in Dearborn by Dewnya Bazzi and has served clients for 13 years. The office is at "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "street address"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": ", and the attorneys who meet you at the consultation are the attorneys who handle the case. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "name of each attorney who handles car accident cases"
-        }
-       ]
+       "v": " ATLAW was founded in Dearborn by Dewnya Bazzi and has served clients for 13 years. The office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126, and the attorneys who meet you at the consultation are the attorneys who handle the case."
       }
      ]
     },
@@ -1233,17 +1189,7 @@
       },
       {
        "t": "text",
-       "v": " Car accident cases are handled on a contingency fee: you pay nothing up front and nothing at all unless we recover money for you. The fee is a percentage of the recovery, agreed in writing before we start. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "percentage, and whether case costs are advanced by the firm and deducted only from a recovery"
-        }
-       ]
+       "v": " Car accident cases are handled on a contingency fee: you pay nothing up front and nothing at all unless we recover money for you. The fee is a percentage of the recovery, agreed in writing before we start. ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs."
       }
      ]
     },
@@ -1273,23 +1219,13 @@
        "c": [
         {
          "t": "text",
-         "v": "Arabic and Spanish."
+         "v": "English, Arabic, French, Mandarin, Urdu, and Spanish."
         }
        ]
       },
       {
        "t": "text",
-       "v": " Consultations and intake are available in English, Arabic, and Spanish. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "which attorneys or staff speak Arabic and Spanish"
-        }
-       ]
+       "v": " Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish."
       }
      ]
     }
@@ -1362,21 +1298,7 @@
    "answer": [
     {
      "t": "text",
-     "v": "ATLAW handles car accident cases on a contingency fee: nothing up front, and no fee unless we recover money for you. The fee is a percentage of the recovery set in a written agreement before work begins. "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "CONFIRM",
-       "v": "percentage"
-      }
-     ]
-    },
-    {
-     "t": "text",
-     "v": " Michigan court rules cap contingency fees in personal injury cases at one-third of the net recovery."
+     "v": "ATLAW handles car accident cases on a contingency fee: nothing up front, and no fee unless we recover money for you. The fee is a percentage of the recovery set in a written agreement before work begins. ATLAW’s fee is 33.3% of the recovery after case costs are deducted, and the firm advances those costs. Michigan court rules cap contingency fees in personal injury cases at one-third of the net recovery."
     }
    ]
   },
@@ -1457,24 +1379,14 @@
      },
      {
       "t": "text",
-      "v": ", or send the form below and we will call you within one business day. Consultations are free, available in English, Arabic, and Spanish, and there is no fee unless we recover money for you. If you cannot come to Dearborn, we will meet you at home or at the hospital. "
-     },
-     {
-      "t": "strong",
-      "c": [
-       {
-        "t": "placeholder",
-        "kind": "CONFIRM",
-        "v": "home and hospital visits"
-       }
-      ]
+      "v": ", or send the form below and we will call you within one business day. Consultations are free, available in English, Arabic, French, Mandarin, Urdu, and Spanish, and there is no fee unless we recover money for you. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed."
      }
     ]
    }
   ]
  },
- "wordCount": 3293,
- "openItems": 8,
+ "wordCount": 3421,
+ "openItems": 0,
  "source": {
   "file": "B1-01_Michigan-Car-Accident-Lawyer.docx",
   "delivered": "2026-10-12"

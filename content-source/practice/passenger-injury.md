@@ -138,13 +138,13 @@ What moves the number: the severity and permanence of the injury, the medical ev
 ## Why injured passengers in metro Detroit call ATLAW
 
 - **Thirteen years, more than 10,000 cases, more than $100 million recovered.**
-- **Every policy, found early.** The driver’s, the other driver’s, the owner’s, the household policy, UM/UIM, and where it applies the employer’s or the rideshare company’s. **[CONFIRM: policy search and all notices sent within the first week of retention]**
-- **Assigned Claims Plan applications** for passengers without household coverage. **[CONFIRM]**
-- **Out-of-state and Canadian passengers.**  **[CONFIRM: the firm handles claims for non-resident passengers injured in Michigan]**
+- **Every policy, found early.** The driver’s, the other driver’s, the owner’s, the household policy, UM/UIM, and where it applies the employer’s or the rideshare company’s.
+- **Assigned Claims Plan applications** for passengers without household coverage.
+- **Out-of-state and Canadian passengers.** We handle claims for non-resident passengers injured in Michigan.
 - **Family situations handled with care.** You decide; we explain the claims and the consequences.
-- **Dearborn, and the whole metro area.** Our office is at **[CONFIRM: street address]**. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. **[CONFIRM: home and hospital visits]**
-- **Languages.**  **[CONFIRM: languages spoken by staff, including Arabic]**
-- **No fee unless we recover.** Contingency fee **[CONFIRM: percentage]**; no cost for the first conversation.
+- **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
+- **Languages.** Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish.
+- **No fee unless we recover.** ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs. No cost for the first conversation.
 
 ## Frequently asked questions about Michigan passenger injury claims
 
@@ -170,6 +170,6 @@ What moves the number: the severity and permanence of the injury, the medical ev
 
 ## Talk to a Michigan passenger injury lawyer
 
-If you were hurt as a passenger anywhere in Michigan, call **(313) 406-7606** or send the form on this page. We identify every insurance policy that applies, give every notice inside the deadlines, and tell you what your claims are worth. We respond **[CONFIRM: same day / within one business day]**, and there is no fee unless we recover money for you.
+If you were hurt as a passenger anywhere in Michigan, call **(313) 406-7606** or send the form on this page. We identify every insurance policy that applies, give every notice inside the deadlines, and tell you what your claims are worth. We respond within one business day, and there is no fee unless we recover money for you.
 
 *Results depend on the facts of each case, and past results do not guarantee a future outcome. This page is general information about Michigan law, not legal advice for your situation.*

@@ -128,9 +128,9 @@ The constraint, as in every Michigan case, is coverage: the at-fault driver’s 
 - **Life care planning and economic projection** for the losses no-fault does not cover. **[CONFIRM: use of life care planners and vocational economists]**
 - **Guardianship, settlement approval, and benefits protection** coordinated with the injury case. **[CONFIRM]**
 - **Both claims, one firm.** The no-fault claim, including attendant care and residential rehabilitation disputes, and the claim against the at-fault party, run together.
-- **Dearborn, and the whole metro area.** Our office is at **[CONFIRM: street address]**. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. **[CONFIRM: home and hospital visits, including rehabilitation facilities]**
-- **Languages.**  **[CONFIRM: languages spoken by staff, including Arabic]**
-- **No fee unless we recover.** Contingency fee **[CONFIRM: percentage]**; no cost for the first conversation.
+- **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home, hospital, or rehabilitation facility visits can be arranged as needed.
+- **Languages.** Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish.
+- **No fee unless we recover.** ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs. No cost for the first conversation.
 
 ## Frequently asked questions about Michigan brain injury claims
 
@@ -156,6 +156,6 @@ The constraint, as in every Michigan case, is coverage: the at-fault driver’s 
 
 ## Talk to a Michigan brain injury lawyer
 
-If you or a family member suffered a brain injury in a crash, fall, assault, or other incident anywhere in Michigan, call **(313) 406-7606** or send the form on this page. We arrange the evaluation that proves the injury, secure the no-fault benefits that pay for care, identify every policy, and tell you what the case is worth. We respond **[CONFIRM: same day / within one business day]**, we come to the hospital or rehabilitation facility **[CONFIRM]**, and there is no fee unless we recover money for you.
+If you or a family member suffered a brain injury in a crash, fall, assault, or other incident anywhere in Michigan, call **(313) 406-7606** or send the form on this page. We arrange the evaluation that proves the injury, secure the no-fault benefits that pay for care, identify every policy, and tell you what the case is worth. We respond within one business day, we can come to the hospital or rehabilitation facility if you are unable to visit our office, and there is no fee unless we recover money for you.
 
 *Results depend on the facts of each case, and past results do not guarantee a future outcome. This page is general information about Michigan law, not legal advice for your situation.*

@@ -611,7 +611,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Because expert review costs money and the firm advances it, ATLAW does not take every malpractice call. We take the ones where the records support a claim. If yours is not one of them, we will say so, and explain why."
+       "v": "Not every medical malpractice situation results in a viable legal claim. ATLAW evaluates the circumstances and available medical records to determine whether there are grounds to pursue a case. If your situation does not support a viable claim, we will explain why."
       }
      ]
     }
@@ -891,31 +891,7 @@
       },
       {
        "t": "text",
-       "v": " Expert review before the Notice of Intent, and a straight answer if the records do not support a claim. The office is at "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "street address"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": "; the attorney who meets you handles your case. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "attorney names; which attorney leads malpractice"
-        }
-       ]
+       "v": " Expert review before the Notice of Intent, and a straight answer if the records do not support a claim. The office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126; the attorney who meets you handles your case."
       }
      ]
     },
@@ -951,17 +927,7 @@
       },
       {
        "t": "text",
-       "v": " Malpractice cases require paid physician experts before a case can be filed. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "that the firm advances expert and record costs and deducts them only from a recovery"
-        }
-       ]
+       "v": " Malpractice cases require paid physician experts before a case can be filed. ATLAW advances those costs, and they are deducted only from a recovery."
       }
      ]
     },
@@ -979,17 +945,7 @@
       },
       {
        "t": "text",
-       "v": " A contingency fee set in writing before we start, within Michigan’s one-third cap. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "percentage"
-        }
-       ]
+       "v": " A contingency fee set in writing before we start, within Michigan’s one-third cap. ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs."
       }
      ]
     },
@@ -1001,23 +957,13 @@
        "c": [
         {
          "t": "text",
-         "v": "English, Arabic, and Spanish."
+         "v": "English, Arabic, French, Mandarin, Urdu, and Spanish."
         }
        ]
       },
       {
        "t": "text",
-       "v": "  "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "who provides Arabic and Spanish"
-        }
-       ]
+       "v": " Consultations, intake, and case updates in the language you are most comfortable in."
       }
      ]
     }
@@ -1138,24 +1084,14 @@
      },
      {
       "t": "text",
-      "v": " or send the form below. We respond within one business day. The consultation is free, in English, Arabic, or Spanish, and there is no fee unless we recover money for you. Bring whatever records you have; we will get the rest. "
-     },
-     {
-      "t": "strong",
-      "c": [
-       {
-        "t": "placeholder",
-        "kind": "CONFIRM",
-        "v": "home and hospital visits"
-       }
-      ]
+      "v": " or send the form below. We respond within one business day. The consultation is free, in English, Arabic, French, Mandarin, Urdu, or Spanish, and there is no fee unless we recover money for you. Bring whatever records you have; we will get the rest. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed."
      }
     ]
    }
   ]
  },
- "wordCount": 2346,
- "openItems": 7,
+ "wordCount": 2409,
+ "openItems": 1,
  "source": {
   "file": "B1-06_Michigan-Medical-Malpractice-Lawyer.docx",
   "delivered": "2026-10-12"

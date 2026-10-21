@@ -130,7 +130,7 @@
       },
       {
        "t": "text",
-       "v": " If you return to work at lower pay because of the injury, you receive 80% of the after-tax difference between your old and new wages (MCL 418.361(1))."
+       "v": " If you return to work at lower pay because of the injury, you receive 80% of the after-tax difference between your old and new wages (MCL 418.301(9)(c))."
       }
      ]
     },
@@ -820,17 +820,7 @@
       },
       {
        "t": "text",
-       "v": " Attorney fees in Michigan workers’ comp cases are capped by agency rule and must be approved by the magistrate. You pay nothing up front, and the fee comes only from benefits we recover for you. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "the firm’s standard fee structure for comp claims and for redemptions"
-        }
-       ]
+       "v": " Attorney fees in Michigan workers’ comp cases are capped by agency rule and must be approved by the magistrate. You pay nothing up front, and the fee comes only from benefits we recover for you."
       }
      ]
     },
@@ -842,23 +832,13 @@
        "c": [
         {
          "t": "text",
-         "v": "English, Arabic, and Spanish"
+         "v": "English, Arabic, French, Mandarin, Urdu, and Spanish"
         }
        ]
       },
       {
        "t": "text",
-       "v": ", including at the hearing. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "who provides Arabic and Spanish"
-        }
-       ]
+       "v": ", including at the hearing."
       }
      ]
     },
@@ -867,31 +847,7 @@
      "c": [
       {
        "t": "text",
-       "v": "The office is at "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "street address"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": ". "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "attorney names"
-        }
-       ]
+       "v": "The office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126."
       }
      ]
     }
@@ -1012,24 +968,14 @@
      },
      {
       "t": "text",
-      "v": " or send the form below. We respond within one business day. The consultation is free, in English, Arabic, or Spanish, and you pay nothing unless we recover benefits for you. "
-     },
-     {
-      "t": "strong",
-      "c": [
-       {
-        "t": "placeholder",
-        "kind": "CONFIRM",
-        "v": "home and hospital visits"
-       }
-      ]
+      "v": " or send the form below. We respond within one business day. The consultation is free, in English, Arabic, French, Mandarin, Urdu, or Spanish, and you pay nothing unless we recover benefits for you. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed."
      }
     ]
    }
   ]
  },
- "wordCount": 2431,
- "openItems": 7,
+ "wordCount": 2441,
+ "openItems": 2,
  "source": {
   "file": "B1-08_Michigan-Workers-Compensation-Lawyer.docx",
   "delivered": "2026-10-12"

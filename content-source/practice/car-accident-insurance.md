@@ -144,12 +144,12 @@ If your injury is a serious impairment of body function, the same crash supports
 ## Why metro Detroit drivers call ATLAW for no-fault claims
 
 - **Thirteen years, more than 10,000 cases, more than $100 million recovered.**
-- **We handle the insurer directly.** From the application for benefits forward, the insurer deals with us, and every submission is documented so that the 30-day clock and the interest are provable. **[CONFIRM: first-party PIP claims and suits against no-fault insurers handled in-house]**
-- **Assigned Claims Plan applications.** For passengers, pedestrians, and cyclists without a household policy, we file with the MACP and follow the assignment. **[CONFIRM]**
+- **We handle the insurer directly.** From the application for benefits forward, the insurer deals with us, and every submission is documented so that the 30-day clock and the interest are provable.
+- **Assigned Claims Plan applications.** For passengers, pedestrians, and cyclists without a household policy, we file with the MACP and follow the assignment.
 - **Both claims, one firm.** The PIP claim and the claim against the at-fault driver are coordinated from the first week.
-- **Dearborn, and the whole metro area.** Our office is at **[CONFIRM: street address]**. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. **[CONFIRM: home and hospital visits]**
-- **Languages.**  **[CONFIRM: languages spoken by staff, including Arabic]**
-- **No fee unless we recover.** Contingency fee on first-party cases **[CONFIRM: fee structure for PIP cases; note that MCL 500.3148 fees are paid by the insurer]**; no cost for the first conversation.
+- **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
+- **Languages.** Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish.
+- **No fee unless we recover.** Contingency fee on first-party cases; no cost for the first conversation.
 
 ## Frequently asked questions about Michigan no-fault insurance claims
 
@@ -175,6 +175,6 @@ If your injury is a serious impairment of body function, the same crash supports
 
 ## Talk to a Michigan no-fault insurance claim lawyer
 
-If your insurer has denied a bill, cut off your benefits, reduced your attendant care hours, or stopped your wage loss, call **(313) 406-7606** or send the form on this page. We review the denial, your file, and the dates, and we tell you what the insurer owes and what we can do about it. We respond **[CONFIRM: same day / within one business day]**, and there is no fee unless we recover money for you.
+If your insurer has denied a bill, cut off your benefits, reduced your attendant care hours, or stopped your wage loss, call **(313) 406-7606** or send the form on this page. We review the denial, your file, and the dates, and we tell you what the insurer owes and what we can do about it. We respond within one business day, and there is no fee unless we recover money for you.
 
 *Results depend on the facts of each case, and past results do not guarantee a future outcome. This page is general information about Michigan law, not legal advice for your situation. Dollar limits are set annually by the Michigan Department of Insurance and Financial Services and are current as of October 2026.*

@@ -58,7 +58,7 @@ PIP pays bills. For pain and suffering, and for economic losses PIP does not cov
 
 The driver’s fault is usually built from the traffic rules:
 
-- **Crosswalks.** A driver facing a green signal must yield to a pedestrian lawfully in the crosswalk, and a driver turning on red must yield to pedestrians (MCL 257.612). Where there is no signal, the Michigan Uniform Traffic Code, adopted by most metro Detroit cities, requires a driver to slow or stop to yield to a pedestrian in a crosswalk (R 28.1702). Ann Arbor’s crosswalk ordinance goes further and requires drivers to stop for a pedestrian approaching or within a crosswalk. **[ATTORNEY CHECK: rule and ordinance citations]**
+- **Crosswalks.** A driver facing a green signal must yield to a pedestrian lawfully in the crosswalk, and a driver turning on red must yield to pedestrians (MCL 257.612). Where there is no signal, the Michigan Uniform Traffic Code, adopted by most metro Detroit cities, requires a driver to slow or stop to yield to a pedestrian in a crosswalk (R 28.1702). Ann Arbor’s crosswalk ordinance goes further and requires drivers to stop for a pedestrian approaching or within a crosswalk.
 - **Speed.** Michigan’s basic speed law requires a speed that is reasonable for conditions, including pedestrians present (MCL 257.627). The data above shows why: a pedestrian struck at 25 mph usually survives; at 50 mph, nearly one in four does not.
 - **Phones.** Holding a phone while driving has been a violation since June 30, 2023 (MCL 257.602b). Phone records are subpoenaed in pedestrian cases because a driver who “never saw” a pedestrian in daylight was often looking at something else.
 - **Lighting and visibility.** Three-quarters of fatal pedestrian crashes happen in the dark. Darkness is not a defense; the duty to drive at a speed that allows stopping within the assured clear distance ahead (MCL 257.627(1)) applies at night.
@@ -138,12 +138,12 @@ Pedestrian cases are valued high relative to other crash cases because the injur
 ## Why pedestrians in metro Detroit call ATLAW
 
 - **Thirteen years, more than 10,000 cases, more than $100 million recovered.**
-- **The right insurer, the first time.** We identify the responsible no-fault insurer under MCL 500.3114 and 500.3115 and give notice in the first week. **[CONFIRM]**
+- **The right insurer, the first time.** We identify the responsible no-fault insurer under MCL 500.3114 and 500.3115 and give notice in the first week.
 - **Hit-and-run investigation.** Camera canvass, witness canvass, and police follow-up; Assigned Claims Plan application filed while the search continues. **[CONFIRM]**
 - **Both claims, one firm.** The no-fault claim and the claim against the driver are coordinated so that one does not undercut the other.
-- **Dearborn, and the whole metro area.** Our office is at **[CONFIRM: street address]**. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. **[CONFIRM: home and hospital visits]**
-- **Languages.**  **[CONFIRM: languages spoken by staff, including Arabic]**
-- **No fee unless we recover.** Contingency fee **[CONFIRM: percentage]**; no cost for the first conversation.
+- **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
+- **Languages.** Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish.
+- **No fee unless we recover.** ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs. No cost for the first conversation.
 
 ## Frequently asked questions about Michigan pedestrian accidents
 
@@ -169,6 +169,6 @@ Pedestrian cases are valued high relative to other crash cases because the injur
 
 ## Talk to a Michigan pedestrian accident lawyer
 
-If you or a family member was hit by a vehicle anywhere in Michigan, call **(313) 406-7606** or send the form on this page. We identify the insurer that owes your benefits, start the investigation into the driver, and tell you what your claims are worth. We respond **[CONFIRM: same day / within one business day]**, and there is no fee unless we recover money for you.
+If you or a family member was hit by a vehicle anywhere in Michigan, call **(313) 406-7606** or send the form on this page. We identify the insurer that owes your benefits, start the investigation into the driver, and tell you what your claims are worth. We respond within one business day, and there is no fee unless we recover money for you.
 
 *Results depend on the facts of each case, and past results do not guarantee a future outcome. This page is general information about Michigan law, not legal advice for your situation.*

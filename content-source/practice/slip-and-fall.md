@@ -82,7 +82,7 @@ Falls are the leading cause of injury-related emergency room visits for adults o
 4. **Get medical care the same day.** Fall injuries (fractures, torn ligaments, concussions, back injuries) are often worse than they feel in the first hour, and a record dated that day is what connects the injury to the fall.
 5. **Write down what happened** while it is fresh: what the surface looked like, whether there were warning signs or cones, what employees said. “We’ve been meaning to fix that” is evidence.
 6. **Do not give a recorded statement** to the property owner’s insurer and do not post about the fall. “I wasn’t looking where I was going” in a text to a friend has ended cases.
-7. **Call a lawyer quickly.** Surveillance footage is typically overwritten in 7 to 30 days. A preservation letter stops that. For public property, the 120-day notice clock is already running.
+7. **Call a lawyer quickly.** Surveillance footage is typically overwritten in 7 to 30 days. A preservation letter puts the recipient on notice to retain relevant evidence. For public property, the 120-day notice clock is already running.
 
 ## What a Michigan slip and fall case is worth
 
@@ -107,18 +107,17 @@ If the injured person is a minor, the clock generally runs until at least a year
 
 ## Why people in metro Detroit call ATLAW after a fall
 
-**A Dearborn firm that takes fall cases seriously.** Many firms turned fall cases away for twenty years because the open-and-obvious rule made them losers. ATLAW evaluates every fall under the law as it stands now. The office is at **[CONFIRM: street address]**; the attorney who meets you handles your case. **[CONFIRM: attorney names]**
+**A Dearborn firm that takes fall cases seriously.** ATLAW evaluates every fall under the law as it stands now. The office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126; the attorney who meets you handles your case.
 
 **More than 10,000 cases, more than $100 million recovered** in 13 years, across all injury practice areas. Every case is different; the figures show the firm has done this work against these insurers.
 
-**Preservation letter in the first days.** Footage and logs are requested in writing before they can be lost. **[CONFIRM: that this is the firm’s practice]**
+**Preservation letter in the first days.** Footage and logs are requested in writing before they can be lost.
 
 **Honest evaluation.** Some falls are not cases: no notice, a minor injury, or more than half the fault on the person who fell. We will tell you which yours is, for free, in the first conversation.
 
-**No fee unless we win.** A contingency fee set in writing before we start. **[CONFIRM: percentage and cost handling]**
+**No fee unless we win.** A contingency fee set in writing before we start. ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs.
 
-**English, Arabic, and Spanish.**  **[CONFIRM: who provides Arabic and Spanish]**
-
+**English, Arabic, French, Mandarin, Urdu, and Spanish.** Consultations, intake, and case updates in the language you are most comfortable in.
 ## Frequently asked questions about Michigan slip and fall claims
 
 **I fell on something obvious, like ice or a wet floor. Do I still have a case?** Possibly, yes. Since the Michigan Supreme Court’s 2023 decision in *Kandil-Elsayed*, an obvious hazard no longer ends the case. The question is whether the owner should have fixed it and how much of the fault is yours. If you are found less than 50% at fault, you recover, reduced by your share.
@@ -143,6 +142,6 @@ If the injured person is a minor, the clock generally runs until at least a year
 
 ## Talk to a Michigan slip and fall lawyer
 
-Call **(313) 406-7606** or send the form below. We respond within one business day. The consultation is free, in English, Arabic, or Spanish, and there is no fee unless we recover money for you. If you cannot travel, we will come to you. **[CONFIRM: home and hospital visits]**
+Call **(313) 406-7606** or send the form below. We respond within one business day. The consultation is free, in English, Arabic, French, Mandarin, Urdu, or Spanish, and there is no fee unless we recover money for you. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 
 *Attorney advertising. Past results do not guarantee or predict a similar outcome. This page is general information about Michigan law, not legal advice about your situation. Figures are current as of October 2026.*

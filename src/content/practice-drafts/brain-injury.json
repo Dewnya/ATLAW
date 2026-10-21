@@ -1289,31 +1289,7 @@
        },
        {
         "t": "text",
-        "v": " Our office is at "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "street address"
-         }
-        ]
-       },
-       {
-        "t": "text",
-        "v": ". Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "home and hospital visits, including rehabilitation facilities"
-         }
-        ]
+        "v": " Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home, hospital, or rehabilitation facility visits can be arranged as needed."
        }
       ],
       [
@@ -1328,17 +1304,7 @@
        },
        {
         "t": "text",
-        "v": "  "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "languages spoken by staff, including Arabic"
-         }
-        ]
+        "v": " Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish."
        }
       ],
       [
@@ -1353,21 +1319,7 @@
        },
        {
         "t": "text",
-        "v": " Contingency fee "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "percentage"
-         }
-        ]
-       },
-       {
-        "t": "text",
-        "v": "; no cost for the first conversation."
+        "v": " ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs. No cost for the first conversation."
        }
       ]
      ]
@@ -1489,42 +1441,14 @@
      },
      {
       "t": "text",
-      "v": " or send the form on this page. We arrange the evaluation that proves the injury, secure the no-fault benefits that pay for care, identify every policy, and tell you what the case is worth. We respond "
-     },
-     {
-      "t": "strong",
-      "c": [
-       {
-        "t": "placeholder",
-        "kind": "CONFIRM",
-        "v": "same day / within one business day"
-       }
-      ]
-     },
-     {
-      "t": "text",
-      "v": ", we come to the hospital or rehabilitation facility "
-     },
-     {
-      "t": "strong",
-      "c": [
-       {
-        "t": "placeholder",
-        "kind": "CONFIRM",
-        "v": ""
-       }
-      ]
-     },
-     {
-      "t": "text",
-      "v": ", and there is no fee unless we recover money for you."
+      "v": " or send the form on this page. We arrange the evaluation that proves the injury, secure the no-fault benefits that pay for care, identify every policy, and tell you what the case is worth. We respond within one business day, we can come to the hospital or rehabilitation facility if you are unable to visit our office, and there is no fee unless we recover money for you."
      }
     ]
    }
   ]
  },
- "wordCount": 2711,
- "openItems": 14,
+ "wordCount": 2777,
+ "openItems": 8,
  "source": {
   "file": "B1-25_Michigan-Brain-Injury-Lawyer.docx",
   "delivered": "2026-10-12"

@@ -86,7 +86,7 @@ You probably do not if:
 - More than two years have passed and the injury was discoverable earlier.
 - The only harm is that you are unhappy with how you were treated, with no physical injury.
 
-Because expert review costs money and the firm advances it, ATLAW does not take every malpractice call. We take the ones where the records support a claim. If yours is not one of them, we will say so, and explain why.
+Not every medical malpractice situation results in a viable legal claim. ATLAW evaluates the circumstances and available medical records to determine whether there are grounds to pursue a case. If your situation does not support a viable claim, we will explain why.
 
 ## What a Michigan malpractice case is worth
 
@@ -113,16 +113,15 @@ ATLAW’s results: more than 10,000 cases and more than $100 million recovered f
 
 ## Why people in metro Detroit call ATLAW for malpractice
 
-**A Dearborn firm that tells you the truth about the case.** Expert review before the Notice of Intent, and a straight answer if the records do not support a claim. The office is at **[CONFIRM: street address]**; the attorney who meets you handles your case. **[CONFIRM: attorney names; which attorney leads malpractice]**
+**A Dearborn firm that tells you the truth about the case.** Expert review before the Notice of Intent, and a straight answer if the records do not support a claim. The office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126; the attorney who meets you handles your case.
 
 **More than 10,000 cases, more than $100 million recovered** in 13 years, across all injury practice areas. Every case is different; the figures show the firm has done this work in these counties.
 
-**The firm advances the expert costs.** Malpractice cases require paid physician experts before a case can be filed. **[CONFIRM: that the firm advances expert and record costs and deducts them only from a recovery]**
+**The firm advances the expert costs.** Malpractice cases require paid physician experts before a case can be filed. ATLAW advances those costs, and they are deducted only from a recovery.
 
-**No fee unless we win.** A contingency fee set in writing before we start, within Michigan’s one-third cap. **[CONFIRM: percentage]**
+**No fee unless we win.** A contingency fee set in writing before we start, within Michigan’s one-third cap. ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs.
 
-**English, Arabic, and Spanish.**  **[CONFIRM: who provides Arabic and Spanish]**
-
+**English, Arabic, French, Mandarin, Urdu, and Spanish.** Consultations, intake, and case updates in the language you are most comfortable in.
 ## Frequently asked questions about Michigan medical malpractice
 
 **How long do I have to sue for medical malpractice in Michigan?** Two years from the malpractice (MCL 600.5805(8)), or six months from when you discovered it if it could not have been discovered sooner, with a six-year outer limit. Because the Notice of Intent must be served 182 days before filing and requires expert review first, the practical deadline for contacting a lawyer is much earlier than two years.
@@ -147,6 +146,6 @@ ATLAW’s results: more than 10,000 cases and more than $100 million recovered f
 
 ## Talk to a Michigan medical malpractice lawyer
 
-Call **(313) 406-7606** or send the form below. We respond within one business day. The consultation is free, in English, Arabic, or Spanish, and there is no fee unless we recover money for you. Bring whatever records you have; we will get the rest. **[CONFIRM: home and hospital visits]**
+Call **(313) 406-7606** or send the form below. We respond within one business day. The consultation is free, in English, Arabic, French, Mandarin, Urdu, or Spanish, and there is no fee unless we recover money for you. Bring whatever records you have; we will get the rest. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 
 *Attorney advertising. Past results do not guarantee or predict a similar outcome. This page is general information about Michigan law, not legal advice about your situation. Cap figures are adjusted each January by the Michigan Department of Treasury; figures are current as of October 2026.*

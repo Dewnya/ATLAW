@@ -20,7 +20,7 @@
    "c": [
     {
      "t": "text",
-     "v": "When a family member dies because someone else was careless, Michigan law gives the family a claim. It does not give it in the way most people expect. The claim belongs to the estate, not to the grieving spouse or child directly; it must be brought by a court-appointed personal representative; the recovery is divided among family members by a probate judge; and the deadline depends on what caused the death. Families who do not know these rules lose time they do not have."
+     "v": "When a family member dies because someone else was careless, Michigan law gives the family a path to seek compensation. But the process is not always what families expect. The claim belongs to the estate, not to the grieving spouse or child directly; the recovery is distributed with court approval based on the losses suffered by eligible beneficiaries; and the deadline depends on what caused the death. Families who do not know these rules lose time they do not have."
     }
    ]
   },
@@ -71,17 +71,7 @@
       },
       {
        "t": "text",
-       "v": " Not the spouse, not the children, not the parents, unless one of them is appointed personal representative. If the person left a will naming an executor, that person petitions the probate court for appointment. If there was no will, a family member (usually the spouse or an adult child) petitions. The probate court in the county where the person lived issues “letters of authority,” and the personal representative then has the standing to bring the claim and to hire a lawyer for the estate. ATLAW handles the probate filing as part of the case. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "that the firm opens the estate itself rather than referring to probate counsel"
-        }
-       ]
+       "v": " Not the spouse, not the children, not the parents, unless one of them is appointed personal representative. If the person left a will naming an executor, that person petitions the probate court for appointment. If there was no will, a family member (usually the spouse or an adult child) petitions. The probate court in the county where the person lived issues “letters of authority,” and the personal representative then has the standing to bring the claim and to hire a lawyer for the estate. ATLAW works closely with a probate team to help families navigate the estate-opening process and the appointment of a personal representative as smoothly and efficiently as possible. A fee applies for probate-related services, which we explain before moving forward."
       }
      ]
     },
@@ -285,7 +275,7 @@
      "c": [
       {
        "t": "text",
-       "v": "In 2024, 350 people were killed in traffic crashes in Wayne, Oakland, Macomb, and Washtenaw counties, and 1,099 statewide (Michigan State Police, 2024 Traffic Crash Facts). When a death is caused by a motor vehicle crash, the family has two separate claims under Michigan law."
+       "v": "In 2024, 350 people were killed in traffic crashes in Wayne, Oakland, Macomb, and Washtenaw counties, and 1,099 statewide (Michigan State Police, 2024 Traffic Crash Facts). When a death is caused by a motor vehicle crash, the family may have both no-fault benefit claims and a wrongful death claim, depending on eligibility and liability."
       }
      ]
     },
@@ -303,7 +293,7 @@
       },
       {
        "t": "text",
-       "v": " (MCL 500.3108) are paid by the deceased person’s own auto insurer, or by the insurer that would have paid their PIP benefits, regardless of fault. For three years after the death, dependents receive the economic support the person would have provided, up to the same monthly maximum that applies to wage loss ($7,455 a month for policies renewing on or after October 1, 2026), plus $20 a day in replacement services. The insurer also pays funeral and burial expenses up to the policy’s limit, which Michigan requires to be at least $1,750 and allows up to $5,000 (MCL 500.3107(1)(a)). Written notice to the insurer within one year is required (MCL 500.3145); the family should not wait for the wrongful death case to resolve before claiming these."
+       "v": " (MCL 500.3108) are paid by the deceased person’s own auto insurer, or by the insurer that would have paid their PIP benefits, regardless of fault. For three years after the death, dependents receive the economic support the person would have provided, up to the same monthly maximum that applies to wage loss ($7,455 per 30-day period for accidents occurring October 1, 2026 through September 30, 2027), plus $20 a day in replacement services. The insurer also pays funeral and burial expenses up to the policy’s limit, which Michigan requires to be at least $1,750 and allows up to $5,000 (MCL 500.3107(1)(a)). Written notice to the insurer within one year is required (MCL 500.3145); the family should not wait for the wrongful death case to resolve before claiming these."
       }
      ]
     },
@@ -659,7 +649,7 @@
        },
        {
         "t": "text",
-        "v": " if a vehicle was involved; survivor’s loss benefits start then, not after the lawsuit."
+        "v": " if a vehicle was involved, and claim eligible survivor’s-loss benefits promptly; you do not need to wait for the wrongful death lawsuit."
        }
       ],
       [
@@ -848,31 +838,7 @@
       },
       {
        "t": "text",
-       "v": " The probate filing, the no-fault survivor’s loss claim, the wrongful death lawsuit, and the distribution hearing, with one attorney and one point of contact for the family. The office is at "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "street address"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": ". "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "attorney names"
-        }
-       ]
+       "v": " The probate filing, the no-fault survivor’s loss claim, the wrongful death lawsuit, and the distribution hearing, with one attorney and one point of contact for the family. The office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126."
       }
      ]
     },
@@ -908,17 +874,7 @@
       },
       {
        "t": "text",
-       "v": " A contingency fee set in writing before we start and approved by the court at distribution. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "percentage and cost handling"
-        }
-       ]
+       "v": " A contingency fee set in writing before we start and approved by the court at distribution. ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs."
       }
      ]
     },
@@ -930,23 +886,13 @@
        "c": [
         {
          "t": "text",
-         "v": "English, Arabic, and Spanish"
+         "v": "English, Arabic, French, Mandarin, Urdu, and Spanish"
         }
        ]
       },
       {
        "t": "text",
-       "v": ", including for the probate step, which many families handle for the first time in a language that is not their first. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "who provides Arabic and Spanish"
-        }
-       ]
+       "v": ", including for the probate step, which many families handle for the first time in a language that is not their first."
       }
      ]
     },
@@ -1085,24 +1031,14 @@
      },
      {
       "t": "text",
-      "v": " or send the form below. We respond within one business day, and we will come to you. The consultation is free, in English, Arabic, or Spanish, and there is no fee unless we recover money for the family. "
-     },
-     {
-      "t": "strong",
-      "c": [
-       {
-        "t": "placeholder",
-        "kind": "CONFIRM",
-        "v": "home visits"
-       }
-      ]
+      "v": " or send the form below. We respond within one business day. The consultation is free, in English, Arabic, French, Mandarin, Urdu, or Spanish, and there is no fee unless we recover money for the family. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed."
      }
     ]
    }
   ]
  },
- "wordCount": 2374,
- "openItems": 7,
+ "wordCount": 2454,
+ "openItems": 1,
  "source": {
   "file": "B1-07_Michigan-Wrongful-Death-Lawyer.docx",
   "delivered": "2026-10-12"

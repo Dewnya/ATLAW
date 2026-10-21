@@ -29,7 +29,7 @@
    "c": [
     {
      "t": "text",
-     "v": "ATLAW is a personal injury law firm in Dearborn, founded by Dewnya Bazzi. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients in Wayne, Oakland, Macomb, and Washtenaw counties. Consultations are free and available in English, Arabic, and Spanish, and we take injury cases on contingency: no fee unless we recover money for you."
+     "v": "ATLAW is a personal injury law firm in Dearborn, founded by Dewnya Bazzi. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients in Wayne, Oakland, Macomb, and Washtenaw counties. Consultations are free and available in English, Arabic, French, Mandarin, Urdu, and Spanish, and we take injury cases on contingency: no fee unless we recover money for you."
     }
    ]
   }
@@ -44,7 +44,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Every personal injury claim in Michigan, whether it is a car crash, a fall, a dog bite, or a surgical error, has to prove the same four elements. If you can answer yes to all four, you likely have a case."
+       "v": "Every negligence claim in Michigan, whether it is a car crash, a fall, or a surgical error, has to prove the same four elements. (Michigan’s statutory dog-bite claim is different: it does not require proof that the owner was careless.) If you can answer yes to all four, you likely have a case."
       }
      ]
     },
@@ -118,7 +118,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Michigan adds one more hurdle in car accident cases. Because the state has no-fault insurance, your own insurer pays your medical bills and lost wages regardless of fault, and you can only sue the at-fault driver for pain and suffering if your injury is a “serious impairment of body function” under MCL 500.3135. The car accident page explains that threshold in detail. It does not apply to falls, dog bites, medical malpractice, or any case that did not involve a motor vehicle."
+       "v": "Michigan adds one more hurdle in car accident cases. Because the state has no-fault insurance, eligible people receive medical and wage-loss benefits through the applicable no-fault coverage regardless of fault, and you can only sue the at-fault driver for pain and suffering if your injury is death, permanent serious disfigurement, or a “serious impairment of body function” under MCL 500.3135. The car accident page explains that threshold in detail. It does not apply to falls, dog bites, medical malpractice, or any case that did not involve a motor vehicle."
       }
      ]
     }
@@ -204,7 +204,7 @@
       },
       {
        "t": "text",
-       "v": ", where Michigan caps non-economic damages (MCL 600.1483). The cap has two tiers, adjusted every January: in 2024 it was $569,000 for most cases and $1,016,000 for the most severe injuries (permanent brain or spinal cord damage, loss of reproductive ability). Economic damages in malpractice cases are not capped."
+       "v": ", where Michigan caps non-economic damages (MCL 600.1483). The cap has two tiers, adjusted every January: for 2026 it is $596,400 for most cases and $1,065,000 for the most severe injuries (permanent brain or spinal cord damage, loss of reproductive ability). Economic damages in malpractice cases are not capped."
       }
      ]
     },
@@ -272,7 +272,7 @@
       },
       {
        "t": "text",
-       "v": " (MCL 600.2959). Your recovery is reduced by your percentage of fault. If you are found 20% responsible for a fall because you were looking at your phone, you recover 80% of your damages. If you are found "
+       "v": " (MCL 600.2959) in negligence claims; it does not apply to Michigan’s statutory dog-bite claims. Your recovery is reduced by your percentage of fault. If you are found 20% responsible for a fall because you were looking at your phone, you recover 80% of your damages. If you are found "
       },
       {
        "t": "strong",
@@ -495,17 +495,7 @@
       },
       {
        "t": "text",
-       "v": ". You pay nothing to start, nothing while the case is pending, and nothing at all unless we recover money for you. The fee is a percentage of the recovery, agreed in a written contract before any work begins. Michigan court rules (MCR 8.121) cap contingency fees in personal injury cases at one-third of the net amount recovered. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "the firm’s percentage, and whether case costs such as filing fees, records, and expert fees are advanced by the firm and deducted only from a recovery"
-        }
-       ]
+       "v": ". You pay nothing to start, nothing while the case is pending, and nothing at all unless we recover money for you. The fee is a percentage of the recovery, agreed in a written contract before any work begins. Michigan court rules (MCR 8.121) cap contingency fees in personal injury cases at one-third of the net amount recovered. ATLAW’s fee is 33.3% of the recovery after case costs are deducted. The firm advances case costs such as filing fees, records, and expert fees, so you pay nothing up front."
       }
      ]
     },
@@ -514,17 +504,7 @@
      "c": [
       {
        "t": "text",
-       "v": "If there is no recovery, you owe no fee. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "and no costs"
-        }
-       ]
+       "v": "If there is no recovery, you owe no fee and no costs; ATLAW absorbs the case costs it advanced."
       }
      ]
     },
@@ -661,7 +641,7 @@
        },
        {
         "t": "text",
-        "v": " An early settlement offer ends the claim. A free consultation tells you whether it is fair."
+        "v": " Signing a settlement release can waive the claims it covers. A free consultation tells you whether an offer is fair."
        }
       ]
      ]
@@ -719,7 +699,7 @@
        },
        {
         "t": "text",
-        "v": ": the no-fault benefits your own insurer owes you, and when you can sue the other driver."
+        "v": ": the applicable no-fault benefits, and when you can sue the other driver."
        }
       ],
       [
@@ -779,7 +759,7 @@
        },
        {
         "t": "text",
-        "v": ": three different insurance policies, depending on whether the app was on."
+        "v": ": different insurance coverage depending on app status and the trip stage."
        }
       ],
       [
@@ -1272,31 +1252,7 @@
       },
       {
        "t": "text",
-       "v": " Founded by Dewnya Bazzi, with an office at "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "street address"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": ". The attorney who meets you at the consultation handles your case. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "attorney names to list"
-        }
-       ]
+       "v": " Founded by Dewnya Bazzi, with an office at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. The attorney who meets you at the consultation handles your case."
       }
      ]
     },
@@ -1362,23 +1318,13 @@
        "c": [
         {
          "t": "text",
-         "v": "English, Arabic, and Spanish."
+         "v": "English, Arabic, French, Mandarin, Urdu, and Spanish."
         }
        ]
       },
       {
        "t": "text",
-       "v": " Consultations, intake, and case updates in the language you are most comfortable in. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "who provides Arabic and Spanish"
-        }
-       ]
+       "v": " Consultations, intake, and case updates in the language you are most comfortable in."
       }
      ]
     }
@@ -1499,24 +1445,14 @@
      },
      {
       "t": "text",
-      "v": " or send the form below. We respond within one business day, the consultation is free, and there is no fee unless we recover money for you. English, Arabic, and Spanish. If you cannot travel, we will come to you. "
-     },
-     {
-      "t": "strong",
-      "c": [
-       {
-        "t": "placeholder",
-        "kind": "CONFIRM",
-        "v": "home visits"
-       }
-      ]
+      "v": " or send the form below. We respond within one business day, the consultation is free, and there is no fee unless we recover money for you. English, Arabic, French, Mandarin, Urdu, and Spanish. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed."
      }
     ]
    }
   ]
  },
- "wordCount": 2581,
- "openItems": 6,
+ "wordCount": 2638,
+ "openItems": 0,
  "source": {
   "file": "B1-02_Michigan-Personal-Injury-Lawyer.docx",
   "delivered": "2026-10-12"

@@ -109,8 +109,6 @@ Michigan’s comparative fault statute reduces your pain-and-suffering recovery 
 | Maintenance contracts and the contractor’s identity | Additional defendants (Bowerman) |
 | Your medical records and photographs of injuries | Damages |
 
-**[CONFIRM: the firm sends preservation letters and FOIA requests in the first week of retention]**
-
 ## What to do after you are hurt at your rental
 
 1. **Report the condition to the landlord in writing** the same day, with photographs, even if you reported it before. Keep a copy.
@@ -142,9 +140,9 @@ Medical expenses, lost wages and earning capacity, pain and suffering, loss of e
 - **Current law.** Every tenant case is evaluated under Bowerman (2026) and Kandil-Elsayed (2023), not under the dismissal rules landlords’ insurers still cite.
 - **Every responsible party.** Owner, management company, and contractors identified from the lease, the county register of deeds, and the city’s rental registration. **[CONFIRM]**
 - **Protection from retaliation.** We advise on your rights as a tenant while the injury case proceeds. **[CONFIRM: the firm advises on retaliation issues or refers to housing counsel]**
-- **Dearborn, and the whole metro area.** Our office is at **[CONFIRM: street address]**. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. **[CONFIRM: home and hospital visits]**
-- **Languages.**  **[CONFIRM: languages spoken by staff, including Arabic]**
-- **No fee unless we recover.** Contingency fee **[CONFIRM: percentage]**; no cost for the first conversation.
+- **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
+- **Languages.** Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish.
+- **No fee unless we recover.** ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs. No cost for the first conversation.
 
 ## Frequently asked questions about Michigan tenant injuries
 
@@ -170,6 +168,6 @@ Medical expenses, lost wages and earning capacity, pain and suffering, loss of e
 
 ## Talk to a Michigan tenant injury lawyer
 
-If you or a family member was injured by an unsafe condition at your apartment, house, or senior housing anywhere in Michigan, call **(313) 406-7606** or send the form on this page. We identify the owner, the manager, and the contractors, obtain the city’s inspection file, and tell you what your claim is worth under the law as it stands after Bowerman. We respond **[CONFIRM: same day / within one business day]**, and there is no fee unless we recover money for you.
+If you or a family member was injured by an unsafe condition at your apartment, house, or senior housing anywhere in Michigan, call **(313) 406-7606** or send the form on this page. We identify the owner, the manager, and the contractors, obtain the city’s inspection file, and tell you what your claim is worth under the law as it stands after Bowerman. We respond within one business day, and there is no fee unless we recover money for you.
 
 *Results depend on the facts of each case, and past results do not guarantee a future outcome. This page is general information about Michigan law, not legal advice for your situation.*

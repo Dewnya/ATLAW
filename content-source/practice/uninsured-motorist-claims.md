@@ -138,12 +138,12 @@ The recovery is the same category of damages you would have recovered from an in
 ## Why metro Detroit drivers call ATLAW for UM/UIM claims
 
 - **Thirteen years, more than 10,000 cases, more than $100 million recovered.**
-- **Your policy is read before anything is signed.** Declarations page, UM/UIM endorsement, notice and limitation clauses, consent-to-settle; all identified at intake. **[CONFIRM]**
+- **Your policy is read before anything is signed.** Declarations page, UM/UIM endorsement, notice and limitation clauses, consent-to-settle; all identified at intake.
 - **Consent and exhaustion handled in sequence**, so the settlement with the at-fault driver does not end the UIM claim.
-- **Arbitration and litigation.** UM/UIM disputes are arbitrated or tried as the policy requires. **[CONFIRM: the firm handles UM/UIM arbitrations in-house]**
-- **Dearborn, and the whole metro area.** Our office is at **[CONFIRM: street address]**. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. **[CONFIRM: home and hospital visits]**
-- **Languages.**  **[CONFIRM: languages spoken by staff, including Arabic]**
-- **No fee unless we recover.** Contingency fee **[CONFIRM: percentage]**; no cost for the first conversation.
+- **Arbitration and litigation.** UM/UIM disputes are arbitrated or tried as the policy requires.
+- **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
+- **Languages.** Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish.
+- **No fee unless we recover.** ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs. No cost for the first conversation.
 
 ## Frequently asked questions about Michigan uninsured and underinsured motorist claims
 
@@ -169,6 +169,6 @@ The recovery is the same category of damages you would have recovered from an in
 
 ## Talk to a Michigan uninsured motorist claim lawyer
 
-If you were hit by a driver with no insurance or not enough, call **(313) 406-7606** or send the form on this page. We read your policy, identify every coverage that applies, give the notices the policy requires, and sequence the claims so none is lost. We respond **[CONFIRM: same day / within one business day]**, and there is no fee unless we recover money for you.
+If you were hit by a driver with no insurance or not enough, call **(313) 406-7606** or send the form on this page. We read your policy, identify every coverage that applies, give the notices the policy requires, and sequence the claims so none is lost. We respond within one business day, and there is no fee unless we recover money for you.
 
 *Results depend on the facts of each case, and past results do not guarantee a future outcome. This page is general information about Michigan law, not legal advice for your situation. UM/UIM claims are governed by the terms of the individual policy.*

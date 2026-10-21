@@ -231,21 +231,7 @@
       },
       {
        "t": "text",
-       "v": " Rideshare vehicles are treated differently from taxis and buses under the no-fault priority rules. In general, your own auto policy pays first; if you have none, a policy held by a relative you live with; if there is none, the insurer of the rideshare vehicle, which during a trip is the company’s policy, since the Act requires it to include PIP; and only after that the Michigan Assigned Claims Plan. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "confirm the PIP priority order for a transportation network company passenger under MCL 500.3114 as amended by 2016 PA 345, including whether the TNC policy or the driver’s personal policy is the “insurer of the owner or registrant” in the third position"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " The practical point for passengers: the fact that you were a paying customer does not mean Uber’s insurer pays your medical bills first. Your own policy usually does."
+       "v": " Which insurer pays a rideshare passenger’s PIP benefits is governed by the priority rules in MCL 500.3114(1) and (2)(g), as amended for transportation network companies by 2016 PA 347, and depends on your own and your household’s coverage and on the vehicle’s insurance. The practical point for passengers: the fact that you were a paying customer does not mean Uber’s insurer pays your medical bills first."
       }
      ]
     },
@@ -263,7 +249,7 @@
       },
       {
        "t": "text",
-       "v": " Your own policy pays PIP if it does not exclude rideshare use; if it does, the rideshare company’s policy covers PIP while the app is on. Drivers are independent contractors, not employees, so there is no workers’ compensation claim, which makes the PIP and the third-party claim everything."
+       "v": " Which insurer pays your PIP benefits depends on the vehicle’s use and your business: when the vehicle qualifies as one operated in the business of transporting passengers, its insurer pays PIP first under MCL 500.3114(2). Otherwise your own policy applies if it does not exclude rideshare use, and the rideshare company’s policy covers PIP while the app is on. Drivers qualify as independent contractors, not employees, when the conditions in MCL 257.2137 are met, so there is usually no workers’ compensation claim, which makes the PIP and the third-party claim everything."
       }
      ]
     },
@@ -290,7 +276,7 @@
      "c": [
       {
        "t": "text",
-       "v": "PIP benefits are the same in every case: medical expenses up to your coverage level, 85% of lost wages up to $7,455 a month for crashes on or after October 1, 2026, $20 a day in replacement services, attendant care, and mileage. Written notice to the responsible insurer within one year is required (MCL 500.3145)."
+       "v": "Available PIP benefits depend on eligibility and applicable coverage: medical expenses up to your coverage level, 85% of lost wages up to $7,455 a month for crashes on or after October 1, 2026, $20 a day in replacement services, attendant care, and mileage. Written notice to the responsible insurer within one year is required (MCL 500.3145)."
       }
      ]
     }
@@ -305,7 +291,7 @@
      "c": [
       {
        "t": "text",
-       "v": "For pain and suffering and economic losses beyond no-fault, you sue the at-fault driver, and you may if your injury is a serious impairment of body function (MCL 500.3135): objectively manifested, affecting an important body function, affecting your general ability to lead your normal life. The defendants:"
+       "v": "For pain and suffering, you may sue the at-fault driver if your injury meets the threshold in MCL 500.3135: death, permanent serious disfigurement, or a serious impairment of body function (objectively manifested, affecting an important body function, affecting your general ability to lead your normal life). Qualifying claims by Michigan residents for economic losses beyond no-fault do not require that injury threshold. The defendants:"
       }
      ]
     },
@@ -339,7 +325,7 @@
        },
        {
         "t": "text",
-        "v": ", in limited circumstances. Because drivers are independent contractors under Michigan law, the companies are not automatically liable for a driver’s negligence. They can be liable for their own negligence: approving a driver who failed, or should have failed, the background check the Act requires (MCL 257.2127), or keeping a driver on the platform after complaints. These claims are contested and fact-specific."
+        "v": ", in limited circumstances. Because drivers qualify as independent contractors when the conditions in MCL 257.2137 are met, the companies are not automatically liable for a driver’s negligence. They can be liable for their own negligence: approving a driver who failed, or should have failed, the background check the Act requires (MCL 257.2107), or keeping a driver on the platform after complaints. These claims are contested and fact-specific."
        }
       ],
       [
@@ -394,7 +380,7 @@
      "c": [
       {
        "t": "text",
-       "v": "The Act is also a source of evidence. Uber and Lyft must run criminal background and driving-record checks before approving a driver and annually after (MCL 257.2127); a driver may not have more than three moving violations in three years, or a serious violation (DUI, reckless driving, fleeing) in seven. Drivers must be at least 19, hold a valid license and insurance, and the vehicle must pass an annual inspection (MCL 257.2129). The Act imposes a "
+       "v": "The Act is also a source of evidence. Uber and Lyft must run criminal background and driving-record checks before approving a driver and annually after (MCL 257.2107); a driver may not have more than three moving violations in three years, or a serious violation (DUI, reckless driving, fleeing) in seven. Drivers must be at least 19, hold a valid license and insurance, and the vehicle must pass an annual inspection (MCL 257.2129). The Act imposes a "
       },
       {
        "t": "strong",
@@ -407,7 +393,7 @@
       },
       {
        "t": "text",
-       "v": " drug and alcohol policy while a driver is logged on (MCL 257.2133), and the company must suspend a driver on receiving a passenger complaint of impairment pending investigation. A company that kept a driver with a disqualifying record on the road has violated the Act, and that violation is evidence of negligence."
+       "v": " drug and alcohol policy while a driver is logged on (MCL 257.2139), and the company must suspend a driver on receiving a passenger complaint of impairment pending investigation. A company that kept a driver with a disqualifying record on the road has violated the Act, and that violation is evidence of negligence."
       }
      ]
     }
@@ -477,7 +463,7 @@
        },
        {
         "t": "text",
-        "v": " Uber and Lyft both have an in-app crash report; filing it creates a company record with a timestamp. Report facts only; do not describe your injuries or accept fault."
+        "v": " Uber and Lyft both have an in-app crash report; filing it creates a company record with a timestamp. Report known facts and injuries accurately; do not speculate or accept fault."
        }
       ],
       [
@@ -593,7 +579,7 @@
        },
        {
         "t": "text",
-        "v": ": a passenger injured in a two-car crash may have claims against both drivers’ policies plus the rideshare policy."
+        "v": ": a passenger injured in a two-car crash may have claims against the applicable policies covering each at-fault driver."
        }
       ],
       [
@@ -753,45 +739,7 @@
       },
       {
        "t": "text",
-       "v": " The first step in a rideshare case is identifying the period and the policy, and requesting the app data before it is gone. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "that the firm sends the preservation request to the rideshare company in the first days"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " The office is at "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "street address"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": ". "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "attorney names"
-        }
-       ]
+       "v": " The first step in a rideshare case is identifying the period and the policy, and requesting the app data before it is gone. The office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126."
       }
      ]
     },
@@ -827,17 +775,7 @@
       },
       {
        "t": "text",
-       "v": " A contingency fee set in writing before we start. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "percentage and cost handling"
-        }
-       ]
+       "v": " A contingency fee set in writing before we start. ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs."
       }
      ]
     },
@@ -849,23 +787,13 @@
        "c": [
         {
          "t": "text",
-         "v": "English, Arabic, and Spanish."
+         "v": "English, Arabic, French, Mandarin, Urdu, and Spanish."
         }
        ]
       },
       {
        "t": "text",
-       "v": " Many rideshare drivers in Dearborn and Hamtramck are Arabic-speaking; consultations and intake are available in Arabic. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "who provides Arabic and Spanish"
-        }
-       ]
+       "v": " Many rideshare drivers in Dearborn and Hamtramck are Arabic-speaking; consultations and intake are available in Arabic."
       }
      ]
     }
@@ -986,24 +914,14 @@
      },
      {
       "t": "text",
-      "v": " or send the form below. We respond within one business day. The consultation is free, in English, Arabic, or Spanish, and there is no fee unless we recover money for you. "
-     },
-     {
-      "t": "strong",
-      "c": [
-       {
-        "t": "placeholder",
-        "kind": "CONFIRM",
-        "v": "home and hospital visits"
-       }
-      ]
+      "v": " or send the form below. We respond within one business day. The consultation is free, in English, Arabic, French, Mandarin, Urdu, or Spanish, and there is no fee unless we recover money for you. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed."
      }
     ]
    }
   ]
  },
- "wordCount": 2208,
- "openItems": 7,
+ "wordCount": 2238,
+ "openItems": 0,
  "source": {
   "file": "B1-10_Michigan-Uber-Lyft-Accident-Lawyer.docx",
   "delivered": "2026-10-12"

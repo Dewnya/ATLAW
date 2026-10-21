@@ -1169,17 +1169,7 @@
        },
        {
         "t": "text",
-        "v": " Declarations page, UM/UIM endorsement, notice and limitation clauses, consent-to-settle; all identified at intake. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": ""
-         }
-        ]
+        "v": " Declarations page, UM/UIM endorsement, notice and limitation clauses, consent-to-settle; all identified at intake."
        }
       ],
       [
@@ -1209,17 +1199,7 @@
        },
        {
         "t": "text",
-        "v": " UM/UIM disputes are arbitrated or tried as the policy requires. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "the firm handles UM/UIM arbitrations in-house"
-         }
-        ]
+        "v": " UM/UIM disputes are arbitrated or tried as the policy requires."
        }
       ],
       [
@@ -1234,31 +1214,7 @@
        },
        {
         "t": "text",
-        "v": " Our office is at "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "street address"
-         }
-        ]
-       },
-       {
-        "t": "text",
-        "v": ". Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "home and hospital visits"
-         }
-        ]
+        "v": " Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed."
        }
       ],
       [
@@ -1273,17 +1229,7 @@
        },
        {
         "t": "text",
-        "v": "  "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "languages spoken by staff, including Arabic"
-         }
-        ]
+        "v": " Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish."
        }
       ],
       [
@@ -1298,21 +1244,7 @@
        },
        {
         "t": "text",
-        "v": " Contingency fee "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "percentage"
-         }
-        ]
-       },
-       {
-        "t": "text",
-        "v": "; no cost for the first conversation."
+        "v": " ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs. No cost for the first conversation."
        }
       ]
      ]
@@ -1444,28 +1376,14 @@
      },
      {
       "t": "text",
-      "v": " or send the form on this page. We read your policy, identify every coverage that applies, give the notices the policy requires, and sequence the claims so none is lost. We respond "
-     },
-     {
-      "t": "strong",
-      "c": [
-       {
-        "t": "placeholder",
-        "kind": "CONFIRM",
-        "v": "same day / within one business day"
-       }
-      ]
-     },
-     {
-      "t": "text",
-      "v": ", and there is no fee unless we recover money for you."
+      "v": " or send the form on this page. We read your policy, identify every coverage that applies, give the notices the policy requires, and sequence the claims so none is lost. We respond within one business day, and there is no fee unless we recover money for you."
      }
     ]
    }
   ]
  },
- "wordCount": 2900,
- "openItems": 12,
+ "wordCount": 2951,
+ "openItems": 5,
  "source": {
   "file": "B1-18_Michigan-Uninsured-Underinsured-Motorist-Lawyer.docx",
   "delivered": "2026-10-12"

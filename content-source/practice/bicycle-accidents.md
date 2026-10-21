@@ -129,12 +129,12 @@ Cyclists’ injuries are serious relative to the speeds involved because the rid
 ## Why cyclists in metro Detroit call ATLAW
 
 - **Thirteen years, more than 10,000 cases, more than $100 million recovered.**
-- **The right insurer, the first time.** The responsible no-fault insurer under MCL 500.3114 and 500.3115 is identified and notified in the first week. **[CONFIRM]**
+- **The right insurer, the first time.** The responsible no-fault insurer under MCL 500.3114 and 500.3115 is identified and notified in the first week.
 - **Fault built from the statute.** Three-foot passing, ride-right exceptions, turning rules, and phone records, with the bicycle preserved as evidence. **[CONFIRM: bicycle preservation practice]**
 - **Both claims, one firm.** The no-fault claim and the claim against the driver are coordinated from the start.
-- **Dearborn, and the whole metro area.** Our office is at **[CONFIRM: street address]**. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. **[CONFIRM: home and hospital visits]**
-- **Languages.**  **[CONFIRM: languages spoken by staff, including Arabic]**
-- **No fee unless we recover.** Contingency fee **[CONFIRM: percentage]**; no cost for the first conversation.
+- **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
+- **Languages.** Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish.
+- **No fee unless we recover.** ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs. No cost for the first conversation.
 
 ## Frequently asked questions about Michigan bicycle accidents
 
@@ -160,6 +160,6 @@ Cyclists’ injuries are serious relative to the speeds involved because the rid
 
 ## Talk to a Michigan bicycle accident lawyer
 
-If you were hit while riding anywhere in Michigan, call **(313) 406-7606** or send the form on this page. We identify the insurer that owes your benefits, build the fault case from the Vehicle Code and the evidence, and tell you what your claims are worth. We respond **[CONFIRM: same day / within one business day]**, and there is no fee unless we recover money for you.
+If you were hit while riding anywhere in Michigan, call **(313) 406-7606** or send the form on this page. We identify the insurer that owes your benefits, build the fault case from the Vehicle Code and the evidence, and tell you what your claims are worth. We respond within one business day, and there is no fee unless we recover money for you.
 
 *Results depend on the facts of each case, and past results do not guarantee a future outcome. This page is general information about Michigan law, not legal advice for your situation.*

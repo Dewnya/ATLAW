@@ -20,7 +20,7 @@
    "c": [
     {
      "t": "text",
-     "v": "If you were hit by a drunk driver in Michigan, you have the claim everyone expects, against the driver, and often a second claim most people never hear about, against the bar, restaurant, or store that served the driver while visibly intoxicated. Michigan’s dram shop law makes that seller liable. It also imposes a written-notice deadline of 120 days from the day you hire a lawyer, which is the shortest deadline in Michigan injury law, and a rule that the drunk driver must be kept in the case as a defendant. A victim who waits six months to call a lawyer has usually lost the second claim without knowing it existed."
+     "v": "If you were hit by a drunk driver in Michigan, you have the claim everyone expects, against the driver, and often a second claim most people never hear about, against the bar, restaurant, or store that served the driver while visibly intoxicated. Michigan’s dram shop law makes that seller liable. It also imposes a written-notice deadline of 120 days from the day you hire a lawyer, and a rule that the drunk driver must be kept in the case as a defendant. A victim who waits six months to call a lawyer has usually lost the second claim without knowing it existed."
     }
    ]
   },
@@ -53,7 +53,7 @@
      "c": [
       {
        "t": "text",
-       "v": "A drunk driver is a negligent driver with the fault question already answered. Michigan’s drunk driving law (MCL 257.625) makes it a crime to operate with a blood alcohol content of 0.08 or more, with enhanced penalties at 0.17 (“high BAC”), and a zero-tolerance 0.02 limit for drivers under 21. Operating while intoxicated and causing a serious injury is a felony punishable by up to five years; causing a death, up to fifteen (MCL 257.625(4), (5))."
+       "v": "A drunk driver is a negligent driver with the fault question already answered. Michigan’s drunk driving law (MCL 257.625) makes it a crime to operate with a blood alcohol content of 0.08 or more, with enhanced penalties at 0.17 (“high BAC”), and a zero-tolerance rule for drivers under 21 that can apply even below 0.02. Operating while intoxicated and causing a serious injury is a felony punishable by up to five years; causing a death, up to fifteen (MCL 257.625(4), (5))."
       }
      ]
     },
@@ -223,7 +223,7 @@
        },
        {
         "t": "text",
-        "v": " A dram shop claim must be filed within two years of the injury (MCL 436.1801(4)), not the three years that applies to the claim against the driver."
+        "v": " A dram shop claim must be filed within two years of the injury (MCL 436.1801(3)), not the three years that applies to the claim against the driver."
        }
       ],
       [
@@ -238,7 +238,7 @@
        },
        {
         "t": "text",
-        "v": " The intoxicated driver must be named as a defendant and kept in the lawsuit through judgment or settlement (MCL 436.1801(5)). A victim who settles with the driver and releases them first has, in most cases, lost the dram shop claim."
+        "v": " The intoxicated driver must be named as a defendant and kept in the lawsuit through judgment or settlement (MCL 436.1801(4)). A victim who settles with the driver and releases them first has, in most cases, lost the dram shop claim."
        }
       ],
       [
@@ -253,7 +253,7 @@
        },
        {
         "t": "text",
-        "v": " When the driver drank at more than one place, the law presumes that only the retailer that made the last sale is responsible, and the others must be shown to have served the driver while visibly intoxicated (MCL 436.1801(8))."
+        "v": " When the driver drank at more than one place, the law presumes that only the retailer that made the last sale is responsible, and the others must be shown to have served the driver while visibly intoxicated (MCL 436.1801(7))."
        }
       ],
       [
@@ -268,7 +268,7 @@
        },
        {
         "t": "text",
-        "v": " for their own injuries (MCL 436.1801(9)). The claim belongs to the people they hurt."
+        "v": " for their own injuries (MCL 436.1801(8)). The claim belongs to the people they hurt."
        }
       ]
      ]
@@ -870,51 +870,13 @@
        "c": [
         {
          "t": "text",
-         "v": "A Dearborn firm that looks for the second claim."
+         "v": "A Dearborn firm that looks at the full picture."
         }
        ]
       },
       {
        "t": "text",
-       "v": " Every drunk driving case is investigated for a dram shop defendant in the first week, before the 120-day notice period and the bar’s video retention run out. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "that the firm handles dram shop claims and sends the notice itself"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " The office is at "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "street address"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": ". "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "attorney names"
-        }
-       ]
+       "v": " Drunk driving accidents can involve more than just the impaired driver. Depending on the circumstances, other parties may also bear legal responsibility, including establishments that unlawfully served alcohol. ATLAW evaluates the facts of each case to identify potential avenues for compensation and determine whether additional claims warrant further consideration. The office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126."
       }
      ]
     },
@@ -944,51 +906,13 @@
        "c": [
         {
          "t": "text",
-         "v": "The criminal case, coordinated."
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " We register you as a victim, attend sentencing, and pursue restitution alongside the civil claim. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "that the firm assists with restitution requests"
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "text",
          "v": "No fee unless we win."
         }
        ]
       },
       {
        "t": "text",
-       "v": " A contingency fee set in writing before we start. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "percentage and cost handling"
-        }
-       ]
+       "v": " A contingency fee set in writing before we start. ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs."
       }
      ]
     },
@@ -1000,23 +924,13 @@
        "c": [
         {
          "t": "text",
-         "v": "English, Arabic, and Spanish."
+         "v": "English, Arabic, French, Mandarin, Urdu, and Spanish."
         }
        ]
       },
       {
        "t": "text",
-       "v": "  "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "who provides Arabic and Spanish"
-        }
-       ]
+       "v": " Consultations, intake, and case updates in the language you are most comfortable in."
       }
      ]
     }
@@ -1137,24 +1051,14 @@
      },
      {
       "t": "text",
-      "v": " or send the form below. On drunk driving cases we respond the same business day, because the bar’s video and the 120-day notice do not wait. The consultation is free, in English, Arabic, or Spanish, and there is no fee unless we recover money for you. "
-     },
-     {
-      "t": "strong",
-      "c": [
-       {
-        "t": "placeholder",
-        "kind": "CONFIRM",
-        "v": "same-day response and home/hospital visits"
-       }
-      ]
+      "v": " or send the form below. On drunk driving cases we respond the same business day, because the bar’s video and the 120-day notice do not wait. The consultation is free, in English, Arabic, French, Mandarin, Urdu, or Spanish, and there is no fee unless we recover money for you."
      }
     ]
    }
   ]
  },
- "wordCount": 2212,
- "openItems": 7,
+ "wordCount": 2232,
+ "openItems": 0,
  "source": {
   "file": "B1-14_Michigan-Drunk-Driving-Accident-Lawyer.docx",
   "delivered": "2026-10-12"

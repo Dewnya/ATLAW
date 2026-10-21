@@ -29,7 +29,7 @@
    "c": [
     {
      "t": "text",
-     "v": "What makes dog bite cases hard is not the law. It is that the owner is usually a neighbor, a relative, or a friend, and the injured person does not want to sue them. The answer to that is also simple: in nearly every case, the claim is paid by the owner’s homeowner’s or renter’s insurance, not by the owner, and the owner is not out of pocket. This page explains the statute, who pays, the deadlines (which differ for children), and what to do in the first days, when the evidence that proves the case is still available."
+     "v": "What makes dog bite cases hard is not the law. It is that the owner is usually a neighbor, a relative, or a friend, and the injured person does not want to sue them. The answer is often insurance: available homeowner’s or renter’s insurance may cover the claim, subject to exclusions and policy limits. The owner may be personally responsible for uncovered damages. This page explains the statute, who pays, the deadlines (which differ for children), and what to do in the first days, when the evidence that proves the case is still available."
     }
    ]
   },
@@ -143,17 +143,7 @@
       },
       {
        "t": "text",
-       "v": ", Michigan Court of Appeals, 2003). "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "confirm the firm’s reading of Hill v Sacka on comparative fault under MCL 287.351"
-        }
-       ]
+       "v": ", Michigan Court of Appeals, 2003)."
       }
      ]
     }
@@ -225,7 +215,7 @@
      "c": [
       {
        "t": "text",
-       "v": "In these cases comparative fault does apply, and the injured person’s recovery is reduced by their share."
+       "v": "Comparative negligence applies to these negligence claims, and the injured person’s recovery is reduced by their share."
       }
      ]
     }
@@ -307,7 +297,7 @@
       },
       {
        "t": "text",
-       "v": " The claim is against the insurance policy. Owners are rarely out of pocket, and Michigan insurers cannot require the dog to be surrendered as a condition of paying. Most families who hesitate to make a claim do so because they do not know this."
+       "v": " Where homeowner’s or renter’s insurance applies, the claim is made against the policy, subject to its exclusions and limits; the owner may be personally responsible for uncovered damages. Most families who hesitate to make a claim do so because they do not know this."
       }
      ]
     }
@@ -413,7 +403,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Dog bite claims come from every community ATLAW serves, but the patterns differ. Detroit regularly ranks among the ten U.S. cities with the most dog attacks on postal carriers (USPS annual rankings), and attacks on delivery drivers for Amazon, FedEx, UPS, and food-delivery services have risen with the volume of home delivery; these workers are covered by the statute as lawful visitors and often have a workers’ compensation claim as well. In Dearborn, Dearborn Heights, Livonia, Canton, and the Oakland County suburbs, the typical case is a neighbor’s or relative’s dog in a yard or a home, with a child as the victim. Wayne County Animal Control, Dearborn Animal Control, and the Oakland and Macomb County animal control divisions keep bite reports, which are obtainable by Freedom of Information Act request and often establish whether the dog had a history."
+       "v": "Dog bite claims come from every community ATLAW serves, but the patterns differ. USPS reported 24 dog attacks on postal employees in Detroit in 2025, ranking the city 14th nationally, and attacks on delivery drivers for Amazon, FedEx, UPS, and food-delivery services have risen with the volume of home delivery; these workers are covered by the statute as lawful visitors and often have a workers’ compensation claim as well. In Dearborn, Dearborn Heights, Livonia, Canton, and the Oakland County suburbs, the typical case is a neighbor’s or relative’s dog in a yard or a home, with a child as the victim. Wayne County Animal Control, Dearborn Animal Control, and the Oakland and Macomb County animal control divisions keep bite reports, which are obtainable by Freedom of Information Act request and often establish whether the dog had a history."
       }
      ]
     }
@@ -462,13 +452,13 @@
         "c": [
          {
           "t": "text",
-          "v": "Report the bite to animal control"
+          "v": "Report the bite to animal control and the local health department"
          }
         ]
        },
        {
         "t": "text",
-        "v": " in the city or county where it happened. The report triggers the rabies quarantine, creates an official record, and reveals prior bites. In many Michigan communities the treating physician is required to report it as well."
+        "v": " in the city or county where it happened. Michigan’s rabies rules require a suspected-rabies bite to be reported within 24 hours to the appropriate health departments, including the one where the bite occurred. The report triggers the rabies quarantine, creates an official record, and reveals prior bites. In many Michigan communities the treating physician is required to report it as well."
        }
       ],
       [
@@ -759,31 +749,7 @@
       },
       {
        "t": "text",
-       "v": " The claim is against the insurance policy, not the neighbor, and we handle the conversation so the relationship survives the case. The office is at "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "street address"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": "; the attorney who meets you handles your case. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "attorney names"
-        }
-       ]
+       "v": " The claim is against the insurance policy, not the neighbor, and we handle the conversation so the relationship survives the case. The office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126; the attorney who meets you handles your case."
       }
      ]
     },
@@ -837,17 +803,7 @@
       },
       {
        "t": "text",
-       "v": " A contingency fee set in writing before we start. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "percentage and cost handling"
-        }
-       ]
+       "v": " A contingency fee set in writing before we start. ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs."
       }
      ]
     },
@@ -859,23 +815,13 @@
        "c": [
         {
          "t": "text",
-         "v": "English, Arabic, and Spanish."
+         "v": "English, Arabic, French, Mandarin, Urdu, and Spanish."
         }
        ]
       },
       {
        "t": "text",
-       "v": "  "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "who provides Arabic and Spanish"
-        }
-       ]
+       "v": " Consultations, intake, and case updates in the language you are most comfortable in."
       }
      ]
     }
@@ -996,24 +942,14 @@
      },
      {
       "t": "text",
-      "v": " or send the form below. We respond within one business day. The consultation is free, in English, Arabic, or Spanish, and there is no fee unless we recover money for you. "
-     },
-     {
-      "t": "strong",
-      "c": [
-       {
-        "t": "placeholder",
-        "kind": "CONFIRM",
-        "v": "home and hospital visits"
-       }
-      ]
+      "v": " or send the form below. We respond within one business day. The consultation is free, in English, Arabic, French, Mandarin, Urdu, or Spanish, and there is no fee unless we recover money for you. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed."
      }
     ]
    }
   ]
  },
- "wordCount": 2389,
- "openItems": 6,
+ "wordCount": 2463,
+ "openItems": 0,
  "source": {
   "file": "B1-09_Michigan-Dog-Bite-Lawyer.docx",
   "delivered": "2026-10-12"

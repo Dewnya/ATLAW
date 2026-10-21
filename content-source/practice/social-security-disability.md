@@ -33,10 +33,10 @@ Social Security uses a five-step sequential evaluation (20 CFR 404.1520). The cl
 1. **Are you working at the substantial gainful activity level?** In 2026 that means earning more than $1,690 a month ($2,830 if blind). If you are, the claim is denied without looking at your medical condition. If you are earning less, go to step two.
 2. **Is your condition severe?** It must significantly limit your ability to do basic work activities, and it must have lasted or be expected to last at least 12 months or to result in death. Short-term conditions do not qualify, however serious.
 3. **Does your condition meet or equal a Listing?** Social Security’s “Blue Book” lists impairments by body system with specific medical criteria. If your records show you meet one, you are disabled at this step. Most claims do not meet a listing and move on.
-4. **Can you do your past work?** Social Security assesses your residual functional capacity (what you can still do: sit, stand, lift, concentrate) and compares it to the jobs you held in the last five years. If you can still do one of them, the claim is denied.
-5. **Can you do any other work?** This is where most claims are won or lost. Social Security considers your capacity, age, education, and skills against the “grid rules” (20 CFR Part 404, Subpart P, Appendix 2). The grids favor older claimants: at 50, and again at 55, a person limited to sedentary or light work with no transferable skills is found disabled even though a younger person with the same limits is not. Knowing which grid rule applies to you is central to the case.
+4. **Can you do your past relevant work?** Social Security assesses your residual functional capacity (what you can still do: sit, stand, lift, concentrate) and compares it to your past relevant work: jobs held in the last five years that met Social Security’s earnings and duration requirements, which exclude work that started and stopped in fewer than 30 calendar days. If you can still do one of them, the claim is denied.
+5. **Can you do any other work?** This is where most claims are won or lost. Social Security considers your capacity, age, education, and skills against the “grid rules” (20 CFR Part 404, Subpart P, Appendix 2). The grids weigh age heavily, with different rules applying at 50 and again at 55, but the result depends on the grid rule that applies to you, including your education and work history. Knowing which grid rule applies to you is central to the case.
 
-The evidence that decides steps two through five is medical: treating doctors’ records, imaging, test results, and, most important, a treating physician’s opinion about your specific functional limits (how long you can sit, how much you can lift, how often you would miss work). An application without that opinion is an application that will be denied.
+The evidence that decides steps two through five is medical: treating doctors’ records, imaging, test results, and, most important, a treating physician’s opinion about your specific functional limits (how long you can sit, how much you can lift, how often you would miss work). A treating physician’s opinion can help, but it is not required for approval and does not automatically receive the greatest weight; Social Security considers all the relevant medical and other evidence.
 
 ## The stages of a Michigan disability claim, and the deadlines
 
@@ -71,7 +71,7 @@ The evidence that decides steps two through five is medical: treating doctors’
 
 ## What a Michigan disability lawyer costs
 
-Federal law sets the fee. Under Social Security’s fee agreement process, the attorney receives 25% of the back benefits awarded, capped at $9,200 (the cap in effect since November 30, 2024), and nothing if the claim is not approved. Social Security pays the fee directly from the back pay; you never write a check. Ongoing monthly benefits are not subject to the fee. Costs for medical records are usually modest and **[CONFIRM: whether the firm advances record costs and how they are handled]**. There is no fee for the consultation.
+Federal law sets the fee. Under Social Security’s fee agreement process, the attorney receives 25% of the back benefits awarded, capped at $9,200 (the cap in effect since November 30, 2024), and nothing if the claim is not approved. Social Security pays the fee directly from the back pay; you never write a check. Ongoing monthly benefits are not subject to the fee. Costs for medical records are usually modest, and the firm advances them. There is no fee for the consultation.
 
 ## Social Security Disability in metro Detroit
 
@@ -88,15 +88,15 @@ The Detroit metropolitan area has the largest concentration of disability claima
 
 ## Why people in metro Detroit call ATLAW for disability claims
 
-**A Dearborn firm that takes initial applications, not just appeals.** Many disability firms accept clients only after a denial. ATLAW handles applications from the start, which shortens the path for claims that should be approved on paper. **[CONFIRM: that the firm takes claims at the initial application stage]**
+**A Dearborn firm that takes initial applications, not just appeals.** Many disability firms accept clients only after a denial. ATLAW handles applications from the start, which shortens the path for claims that should be approved on paper.
 
-**Fifteen minutes from every Detroit-area hearing office**, and present at the hearing in person. **[CONFIRM: attorney who handles disability hearings]**
+**Fifteen minutes from every Detroit-area hearing office.** ATLAW directly handles disability hearings and provides in-person representation when applicable.
 
 **A fee set by federal law.** 25% of back pay, capped, paid by Social Security, and nothing if you do not win.
 
-**English, Arabic, and Spanish**, for the application, the forms, and the hearing. Social Security provides interpreters at hearings, but the preparation happens in your language with us. **[CONFIRM: who provides Arabic and Spanish]**
+**English, Arabic, French, Mandarin, Urdu, and Spanish**, for the application, the forms, and the hearing. Social Security provides interpreters at hearings, but the preparation happens in your language with us.
 
-The office is at **[CONFIRM: street address]**.
+The office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126.
 
 ## Frequently asked questions about Social Security Disability in Michigan
 
@@ -122,6 +122,6 @@ The office is at **[CONFIRM: street address]**.
 
 ## Talk to a Michigan Social Security Disability lawyer
 
-Call **(313) 406-7606** or send the form below. We respond within one business day. The consultation is free, in English, Arabic, or Spanish, and the fee is set by federal law: nothing unless you win. **[CONFIRM: home visits for claimants who cannot travel]**
+Call **(313) 406-7606** or send the form below. We respond within one business day. The consultation is free, in English, Arabic, French, Mandarin, Urdu, or Spanish, and the fee is set by federal law: nothing unless you win. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 
 *Attorney advertising. ATLAW is a private law firm and is not affiliated with the Social Security Administration. Past results do not guarantee or predict a similar outcome. This page is general information, not legal advice about your situation. Dollar figures are SSA’s published 2026 amounts and change each January.*

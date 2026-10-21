@@ -96,7 +96,7 @@ Michigan’s no-fault law applies to truck crashes the same way it applies to ca
 
 Metro Detroit is the busiest commercial trucking region in the state. I-94, I-75, I-275, I-96, and I-69 carry freight to and from the Ambassador Bridge and the Gordie Howe International Bridge, the two busiest commercial crossings on the U.S.–Canada border, and to the auto plants in Dearborn, Warren, Sterling Heights, and Detroit.
 
-| County | Trucks and buses involved in crashes, 2024 | All crashes | Killed |
+| County | Trucks and buses involved in crashes, 2024 | All crashes | Fatalities |
 | --- | --- | --- | --- |
 | Wayne | 3,916 | 50,355 | 177 |
 | Oakland | 2,081 | 35,951 | 68 |
@@ -109,8 +109,8 @@ County and city pages with the specific corridors and intersections: Wayne Count
 ## What to do after a truck accident in Michigan
 
 1. **Get medical care, and keep going.** Truck crash injuries are often internal or neurological and show up over days. A gap in treatment is the insurer’s first argument.
-2. **Get the police report.** The Michigan UD-10 report will identify the carrier, the USDOT number on the truck, and the insurer. Buy it from the State Police Traffic Crash Purchasing System for $10.
-3. **Photograph the truck**, especially the USDOT and MC numbers on the cab door, the license plates on the tractor and trailer, the cargo, and any company name. Carriers change insurers and trucks change hands; the numbers are permanent.
+2. **Get the police report.** The Michigan UD-10 report will identify the carrier, the USDOT number on the truck, and the insurer. Buy it from the State Police Traffic Crash Purchasing System for $15.
+3. **Photograph the truck**, especially the USDOT and MC numbers on the cab door, the license plates on the tractor and trailer, the cargo, and any company name. Carriers change insurers and trucks change hands; the USDOT number identifies the carrier (the legal entity that operates the truck), not the truck itself, so record it together with the plates.
 4. **Do not talk to the trucking company’s insurer**, and do not sign anything. They may offer to “cover your medical bills” in exchange for a release. The release ends your claim.
 5. **Notify your own auto insurer** in writing within days. Michigan no-fault benefits depend on it.
 6. **Call a lawyer within the first week.** The preservation letter has to go out before the six-month and three-month record windows start closing, and before camera footage is overwritten.
@@ -138,15 +138,15 @@ ATLAW’s results: more than 10,000 cases and more than $100 million recovered f
 
 ## Why people in metro Detroit call ATLAW after a truck crash
 
-**A Dearborn firm on the freight corridor.** The office is at **[CONFIRM: street address]**, minutes from I-94, the Rouge complex, and the Ambassador Bridge approach. The attorneys who meet you handle the case. **[CONFIRM: attorney names]**
+**A Dearborn firm on the freight corridor.** The office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126, minutes from I-94, the Rouge complex, and the Ambassador Bridge approach. The attorneys who meet you handle the case.
 
 **More than 10,000 cases, more than $100 million recovered** in 13 years, across all injury practice areas. Every case is different; the figures show the firm has done this work against these insurers.
 
 **Preservation letter in the first 48 hours.**  **[CONFIRM: that the firm commits to this; if the firm’s practice differs, say what it is]**
 
-**No fee unless we win.** Truck cases are expensive to investigate (accident reconstruction, ELD downloads, expert review). **[CONFIRM: that the firm advances those costs and deducts them only from a recovery]**
+**No fee unless we win.** Truck cases are expensive to investigate (accident reconstruction, ELD downloads, expert review). ATLAW advances those costs, and they are deducted only from a recovery; the 33.3% attorney fee is calculated on what remains.
 
-**English, Arabic, and Spanish.** Consultations and case updates in your language. **[CONFIRM: who provides Arabic and Spanish]**
+**English, Arabic, French, Mandarin, Urdu, and Spanish.** Consultations and case updates in your language.
 
 ## Frequently asked questions about Michigan truck accident claims
 
@@ -172,6 +172,6 @@ ATLAW’s results: more than 10,000 cases and more than $100 million recovered f
 
 ## Talk to a Michigan truck accident lawyer now
 
-Call **(313) 406-7606** or send the form below. We respond the same business day on truck cases because the evidence clock is already running. Consultations are free, in English, Arabic, or Spanish, and there is no fee unless we recover money for you. If you are in the hospital, we will come to you. **[CONFIRM: hospital visits]**
+Call **(313) 406-7606** or send the form below. We respond the same business day on truck cases because the evidence clock is already running. Consultations are free, in English, Arabic, French, Mandarin, Urdu, or Spanish, and there is no fee unless we recover money for you. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 
 *Attorney advertising. Past results do not guarantee or predict a similar outcome. This page is general information about Michigan and federal law, not legal advice about your situation. Figures are current as of October 2026.*

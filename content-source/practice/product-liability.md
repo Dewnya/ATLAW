@@ -114,9 +114,9 @@ Michigan families see the same product injuries the national recall data shows: 
 - **The product is secured first.** Storage, chain of custody, preservation letters, and a joint inspection protocol before any defendant touches it. **[CONFIRM]**
 - **Engineering experts for the alternative-design proof** Michigan requires. **[CONFIRM: the firm retains engineering and human-factors experts in product cases]**
 - **Vehicle defect cases alongside crash cases**, so the product claim is not lost when the insurer salvages the car. **[CONFIRM]**
-- **Dearborn, and the whole metro area.** Our office is at **[CONFIRM: street address]**. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. **[CONFIRM: home and hospital visits]**
-- **Languages.**  **[CONFIRM: languages spoken by staff, including Arabic]**
-- **No fee unless we recover.** Contingency fee **[CONFIRM: percentage]**; no cost for the first conversation.
+- **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
+- **Languages.** Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish.
+- **No fee unless we recover.** ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs. No cost for the first conversation.
 
 ## Frequently asked questions about Michigan product liability
 
@@ -142,6 +142,6 @@ Michigan families see the same product injuries the national recall data shows: 
 
 ## Talk to a Michigan product liability lawyer
 
-If you or a family member was injured by a defective vehicle, machine, appliance, children’s product, drug, or device anywhere in Michigan, call **(313) 406-7606** or send the form on this page. Do not return or repair the product. We secure it, identify the manufacturer and the recall history, and tell you what your claim is worth under Michigan’s statute. We respond **[CONFIRM: same day / within one business day]**, and there is no fee unless we recover money for you.
+If you or a family member was injured by a defective vehicle, machine, appliance, children’s product, drug, or device anywhere in Michigan, call **(313) 406-7606** or send the form on this page. Do not return or repair the product. We secure it, identify the manufacturer and the recall history, and tell you what your claim is worth under Michigan’s statute. We respond within one business day, and there is no fee unless we recover money for you.
 
 *Results depend on the facts of each case, and past results do not guarantee a future outcome. This page is general information about Michigan law, not legal advice for your situation. Damage caps are adjusted annually by the State Treasurer; figures are for 2026.*

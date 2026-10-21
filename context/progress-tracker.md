@@ -473,6 +473,16 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - The long-form draft replaces the original Workers' Compensation page in previews; production keeps the original page until the firm approves
   - Verified in Chrome (desktop + mobile): draft banner, noindex, 15 sections, FAQ JSON-LD, 7 highlighted open items, no overflow, no errors; production build unchanged (7 pages, draft not published)
 
+- [x] Batch 1 reviewer edits applied (Oct 21, 2026) — Arlyn Dungao's 276 Word comments on the 26 Batch 1 docs in the "ATLAW Website Pages / Batch 1" Drive folder
+  - Comments were never resolved in Drive or marked in the Content Tracker; extracted from each .docx (`word/comments.xml`, anchored to the commented text) and applied to `content-source/practice/*.md`, then `npm run import-content`
+  - Body text of the Word files had not changed since the Oct 10 import (only broken `about:blank` hyperlinks, already fixed in the sources), so the comments were the whole delta
+  - 71 prose corrections (statute subsections, MSP crash-report fee $15, PIP priority and MACP wording, hands-free law, rideshare citations, SSD five-step wording, nursing-home restraint/notification rules, dog-bite insurance language, 2026 malpractice cap, etc.) and the firm's standard answers from the tracker's firm-confirmations tab applied to every page: address (3 Parklane Blvd., Suite 400W), attorney-name placeholders removed, six languages (English, Arabic, French, Mandarin, Urdu, Spanish), 33.3% fee after advanced costs, office-first visit wording, one-business-day response
+  - Removed on the firm's instruction: distracted-driving phone-record subpoena claim; drunk-driving restitution bullet; dog-surrender and "owner not out of pocket" guarantees; slip-and-fall competitor comparison
+  - Car accident section heading "What your own insurer owes you" renamed to "What no-fault owes you: Michigan PIP benefits" to match the reviewer's PIP-priority correction (not itself commented)
+  - Left open, as highlighted items: 79 placeholders the reviewer marked "Confirm w DB" (30 [CONFIRM] + 49 [ATTORNEY CHECK]), concentrated in pages B1-18 to B1-26; 13 pages now have 0 open items
+  - Not done: the Word files and the Content Tracker still show the comments unresolved and status "Returned"/"Ready for attorney"; the wrongful-death "handles the whole process" bullet still says the firm does the probate filing, although the firm says a probate team handles it for a fee (not commented, left for the writers)
+  - Verified: import clean (26 drafts), production build unchanged (7 pages, no CONFIRM in dist), car accident draft renders in the preview with 0 open items
+
 ### Open Questions
 
 - [ ] **PRE-LAUNCH — Text Us number.** Confirm with the firm whether (313) 406-7606 can receive SMS, or get a dedicated SMS number. Then set `SMS_NUMBER` in `src/data/contact.ts` (the Text buttons in the header and mobile bar appear automatically).

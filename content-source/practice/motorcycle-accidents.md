@@ -92,16 +92,15 @@ ATLAW’s results: more than 10,000 cases and more than $100 million recovered f
 
 ## Why riders in metro Detroit call ATLAW
 
-**A Dearborn firm that knows the rider rules.** The office is at **[CONFIRM: street address]**; the attorney who meets you handles your case. **[CONFIRM: attorney names]**
+**A Dearborn firm that knows the rider rules.** The office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126; the attorney who meets you handles your case.
 
 **More than 10,000 cases, more than $100 million recovered** in 13 years, across all injury practice areas. Every case is different; the figures show the firm has done this work against these insurers.
 
 **We check your coverage before we talk about your case.** The first thing we do is read your motorcycle policy, your auto policy, and the other driver’s declarations page, because in a motorcycle case the coverage decides the strategy.
 
-**No fee unless we win.** A contingency fee set in writing before we start. **[CONFIRM: percentage and cost handling]**
+**No fee unless we win.** A contingency fee set in writing before we start. ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs.
 
-**English, Arabic, and Spanish.**  **[CONFIRM: who provides Arabic and Spanish]**
-
+**English, Arabic, French, Mandarin, Urdu, and Spanish.** Consultations, intake, and case updates in the language you are most comfortable in.
 ## Frequently asked questions about Michigan motorcycle accident claims
 
 **Does Michigan no-fault cover motorcycle accidents?** Only if a car, truck, or other motor vehicle was involved. Then your PIP benefits come from that vehicle’s insurer first, not your motorcycle insurer. If no motor vehicle was involved, no-fault does not apply.
@@ -126,6 +125,6 @@ ATLAW’s results: more than 10,000 cases and more than $100 million recovered f
 
 ## Talk to a Michigan motorcycle accident lawyer
 
-Call **(313) 406-7606** or send the form below. We respond within one business day. The consultation is free, in English, Arabic, or Spanish, and there is no fee unless we recover money for you. If you cannot travel, we will come to you. **[CONFIRM: home and hospital visits]**
+Call **(313) 406-7606** or send the form below. We respond within one business day. The consultation is free, in English, Arabic, French, Mandarin, Urdu, or Spanish, and there is no fee unless we recover money for you. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 
 *Attorney advertising. Past results do not guarantee or predict a similar outcome. This page is general information about Michigan law, not legal advice about your situation. Figures are current as of October 2026.*

@@ -116,12 +116,12 @@ Crashes cause 37.5% of spinal cord injuries; falls cause 31.7%, and the share ri
 
 - **Thirteen years, more than 10,000 cases, more than $100 million recovered.**
 - **The lifetime number first.** Life care planning and economic projection begin as soon as the prognosis allows, so that no policy is settled for less than the need. **[CONFIRM: use of life care planners and economists]**
-- **Every policy identified**, from the at-fault driver’s to the manufacturer’s to your own UIM. **[CONFIRM]**
+- **Every policy identified**, from the at-fault driver’s to the manufacturer’s to your own UIM.
 - **No-fault disputes handled alongside the injury case**: attendant care hours, home modifications, equipment denials, and fee-schedule disputes. **[CONFIRM]**
 - **Structured settlements and benefits protection** coordinated with the recovery. **[CONFIRM]**
-- **Dearborn, and the whole metro area.** Our office is at **[CONFIRM: street address]**. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. **[CONFIRM: home, hospital, and rehabilitation facility visits]**
-- **Languages.**  **[CONFIRM: languages spoken by staff, including Arabic]**
-- **No fee unless we recover.** Contingency fee **[CONFIRM: percentage]**; no cost for the first conversation.
+- **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home, hospital, or rehabilitation facility visits can be arranged as needed.
+- **Languages.** Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish.
+- **No fee unless we recover.** ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs. No cost for the first conversation.
 
 ## Frequently asked questions about Michigan spinal cord injury claims
 
@@ -147,6 +147,6 @@ Crashes cause 37.5% of spinal cord injuries; falls cause 31.7%, and the share ri
 
 ## Talk to a Michigan spinal cord injury lawyer
 
-If you or a family member suffered a spinal cord or spine injury in a crash, fall, or other incident anywhere in Michigan, call **(313) 406-7606** or send the form on this page. We secure the no-fault benefits that pay for care now, identify every policy that can pay for care later, and tell you what the case is worth. We respond **[CONFIRM: same day / within one business day]**, we come to the hospital or rehabilitation facility **[CONFIRM]**, and there is no fee unless we recover money for you.
+If you or a family member suffered a spinal cord or spine injury in a crash, fall, or other incident anywhere in Michigan, call **(313) 406-7606** or send the form on this page. We secure the no-fault benefits that pay for care now, identify every policy that can pay for care later, and tell you what the case is worth. We respond within one business day, we can come to the hospital or rehabilitation facility if you are unable to visit our office, and there is no fee unless we recover money for you.
 
 *Results depend on the facts of each case, and past results do not guarantee a future outcome. This page is general information about Michigan law, not legal advice for your situation. Cost figures are national averages from the National Spinal Cord Injury Statistical Center and will differ from any individual’s needs.*

@@ -40,20 +40,20 @@ Most personal auto policies exclude driving for hire. A driver who crashed with 
 
 Michigan no-fault pays your medical bills and lost wages regardless of fault, through Personal Injury Protection (PIP). Which insurer pays depends on who you were.
 
-**If you were a passenger.** Rideshare vehicles are treated differently from taxis and buses under the no-fault priority rules. In general, your own auto policy pays first; if you have none, a policy held by a relative you live with; if there is none, the insurer of the rideshare vehicle, which during a trip is the company’s policy, since the Act requires it to include PIP; and only after that the Michigan Assigned Claims Plan. **[ATTORNEY CHECK: confirm the PIP priority order for a transportation network company passenger under MCL 500.3114 as amended by 2016 PA 345, including whether the TNC policy or the driver’s personal policy is the “insurer of the owner or registrant” in the third position]** The practical point for passengers: the fact that you were a paying customer does not mean Uber’s insurer pays your medical bills first. Your own policy usually does.
+**If you were a passenger.** Which insurer pays a rideshare passenger’s PIP benefits is governed by the priority rules in MCL 500.3114(1) and (2)(g), as amended for transportation network companies by 2016 PA 347, and depends on your own and your household’s coverage and on the vehicle’s insurance. The practical point for passengers: the fact that you were a paying customer does not mean Uber’s insurer pays your medical bills first.
 
-**If you were the rideshare driver.** Your own policy pays PIP if it does not exclude rideshare use; if it does, the rideshare company’s policy covers PIP while the app is on. Drivers are independent contractors, not employees, so there is no workers’ compensation claim, which makes the PIP and the third-party claim everything.
+**If you were the rideshare driver.** Which insurer pays your PIP benefits depends on the vehicle’s use and your business: when the vehicle qualifies as one operated in the business of transporting passengers, its insurer pays PIP first under MCL 500.3114(2). Otherwise your own policy applies if it does not exclude rideshare use, and the rideshare company’s policy covers PIP while the app is on. Drivers qualify as independent contractors, not employees, when the conditions in MCL 257.2137 are met, so there is usually no workers’ compensation claim, which makes the PIP and the third-party claim everything.
 
 **If you were in another car, on a bike, or on foot, hit by a rideshare vehicle.** Your own policy pays your PIP, as in any crash. The rideshare period decides which liability policy you claim against for pain and suffering.
 
-PIP benefits are the same in every case: medical expenses up to your coverage level, 85% of lost wages up to $7,455 a month for crashes on or after October 1, 2026, $20 a day in replacement services, attendant care, and mileage. Written notice to the responsible insurer within one year is required (MCL 500.3145).
+Available PIP benefits depend on eligibility and applicable coverage: medical expenses up to your coverage level, 85% of lost wages up to $7,455 a month for crashes on or after October 1, 2026, $20 a day in replacement services, attendant care, and mileage. Written notice to the responsible insurer within one year is required (MCL 500.3145).
 
 ## When you can sue, and whom
 
-For pain and suffering and economic losses beyond no-fault, you sue the at-fault driver, and you may if your injury is a serious impairment of body function (MCL 500.3135): objectively manifested, affecting an important body function, affecting your general ability to lead your normal life. The defendants:
+For pain and suffering, you may sue the at-fault driver if your injury meets the threshold in MCL 500.3135: death, permanent serious disfigurement, or a serious impairment of body function (objectively manifested, affecting an important body function, affecting your general ability to lead your normal life). Qualifying claims by Michigan residents for economic losses beyond no-fault do not require that injury threshold. The defendants:
 
 - **The rideshare driver**, covered by whichever policy applied in that period.
-- **Uber or Lyft directly**, in limited circumstances. Because drivers are independent contractors under Michigan law, the companies are not automatically liable for a driver’s negligence. They can be liable for their own negligence: approving a driver who failed, or should have failed, the background check the Act requires (MCL 257.2127), or keeping a driver on the platform after complaints. These claims are contested and fact-specific.
+- **Uber or Lyft directly**, in limited circumstances. Because drivers qualify as independent contractors when the conditions in MCL 257.2137 are met, the companies are not automatically liable for a driver’s negligence. They can be liable for their own negligence: approving a driver who failed, or should have failed, the background check the Act requires (MCL 257.2107), or keeping a driver on the platform after complaints. These claims are contested and fact-specific.
 - **Another driver** who caused the crash, covered by their own policy. In a crash between a rideshare vehicle and another car, both drivers’ fault is apportioned, and a passenger can claim against both.
 - **Your own UM/UIM coverage**, if the at-fault driver’s policy is the $50,000 minimum or nothing.
 
@@ -61,7 +61,7 @@ Comparative fault applies: more than 50% at fault bars non-economic damages, and
 
 ## What Michigan’s rideshare law requires of drivers and companies
 
-The Act is also a source of evidence. Uber and Lyft must run criminal background and driving-record checks before approving a driver and annually after (MCL 257.2127); a driver may not have more than three moving violations in three years, or a serious violation (DUI, reckless driving, fleeing) in seven. Drivers must be at least 19, hold a valid license and insurance, and the vehicle must pass an annual inspection (MCL 257.2129). The Act imposes a **zero-tolerance** drug and alcohol policy while a driver is logged on (MCL 257.2133), and the company must suspend a driver on receiving a passenger complaint of impairment pending investigation. A company that kept a driver with a disqualifying record on the road has violated the Act, and that violation is evidence of negligence.
+The Act is also a source of evidence. Uber and Lyft must run criminal background and driving-record checks before approving a driver and annually after (MCL 257.2107); a driver may not have more than three moving violations in three years, or a serious violation (DUI, reckless driving, fleeing) in seven. Drivers must be at least 19, hold a valid license and insurance, and the vehicle must pass an annual inspection (MCL 257.2129). The Act imposes a **zero-tolerance** drug and alcohol policy while a driver is logged on (MCL 257.2139), and the company must suspend a driver on receiving a passenger complaint of impairment pending investigation. A company that kept a driver with a disqualifying record on the road has violated the Act, and that violation is evidence of negligence.
 
 ## Rideshare crashes in metro Detroit
 
@@ -71,7 +71,7 @@ Detroit is one of the larger rideshare markets in the Midwest, and the crash pat
 
 1. **Screenshot the app immediately**: the trip screen, the driver’s name and photo, the license plate, the route, the time. If you are the driver, screenshot your status and the trip log. This is the evidence of which period applied, and it is the one piece the companies will not preserve for you.
 2. **Report the crash to the police** and get the report number (UD-10). Make sure the report identifies the vehicle as a rideshare if it was.
-3. **Report it in the app.** Uber and Lyft both have an in-app crash report; filing it creates a company record with a timestamp. Report facts only; do not describe your injuries or accept fault.
+3. **Report it in the app.** Uber and Lyft both have an in-app crash report; filing it creates a company record with a timestamp. Report known facts and injuries accurately; do not speculate or accept fault.
 4. **Get medical care the same day.** Rideshare injuries are no different from any crash injury; the record dated that day is the case.
 5. **Notify your own auto insurer in writing** (no-fault notice), and do not give a recorded statement to Uber’s or Lyft’s insurer, or the other driver’s, without a lawyer. The companies use third-party administrators who will call within days.
 6. **Call a lawyer within the week.** The preservation letter for app and GPS data should go out before the companies’ retention windows close.
@@ -81,7 +81,7 @@ Detroit is one of the larger rideshare markets in the Midwest, and the crash pat
 - **The period**, because it sets the policy limit: $50,000 or $1 million.
 - **The injury** and whether it clears the serious-impairment threshold.
 - **Economic losses beyond no-fault**: bills above your PIP level, wages above the cap or beyond three years.
-- **How many defendants**: a passenger injured in a two-car crash may have claims against both drivers’ policies plus the rideshare policy.
+- **How many defendants**: a passenger injured in a two-car crash may have claims against the applicable policies covering each at-fault driver.
 - **Your own UM/UIM coverage**, which matters most in gap-period and hit-and-run cases.
 
 ATLAW’s results: more than 10,000 cases and more than $100 million recovered for clients in 13 years, across all injury practice areas. Every case is different and past results do not predict yours.
@@ -97,13 +97,13 @@ ATLAW’s results: more than 10,000 cases and more than $100 million recovered f
 
 ## Why people in metro Detroit call ATLAW after a rideshare crash
 
-**A Dearborn firm that reads the policies first.** The first step in a rideshare case is identifying the period and the policy, and requesting the app data before it is gone. **[CONFIRM: that the firm sends the preservation request to the rideshare company in the first days]** The office is at **[CONFIRM: street address]**. **[CONFIRM: attorney names]**
+**A Dearborn firm that reads the policies first.** The first step in a rideshare case is identifying the period and the policy, and requesting the app data before it is gone. The office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126.
 
 **More than 10,000 cases, more than $100 million recovered** in 13 years, across all injury practice areas. Every case is different; the figures show the firm has done this work against these insurers.
 
-**No fee unless we win.** A contingency fee set in writing before we start. **[CONFIRM: percentage and cost handling]**
+**No fee unless we win.** A contingency fee set in writing before we start. ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs.
 
-**English, Arabic, and Spanish.** Many rideshare drivers in Dearborn and Hamtramck are Arabic-speaking; consultations and intake are available in Arabic. **[CONFIRM: who provides Arabic and Spanish]**
+**English, Arabic, French, Mandarin, Urdu, and Spanish.** Many rideshare drivers in Dearborn and Hamtramck are Arabic-speaking; consultations and intake are available in Arabic.
 
 ## Frequently asked questions about Michigan Uber and Lyft accidents
 
@@ -129,6 +129,6 @@ ATLAW’s results: more than 10,000 cases and more than $100 million recovered f
 
 ## Talk to a Michigan Uber and Lyft accident lawyer
 
-Call **(313) 406-7606** or send the form below. We respond within one business day. The consultation is free, in English, Arabic, or Spanish, and there is no fee unless we recover money for you. **[CONFIRM: home and hospital visits]**
+Call **(313) 406-7606** or send the form below. We respond within one business day. The consultation is free, in English, Arabic, French, Mandarin, Urdu, or Spanish, and there is no fee unless we recover money for you. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 
 *Attorney advertising. Past results do not guarantee or predict a similar outcome. This page is general information about Michigan law, not legal advice about your situation. Figures are current as of October 2026.*

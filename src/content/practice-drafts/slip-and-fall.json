@@ -689,7 +689,7 @@
        },
        {
         "t": "text",
-        "v": " Surveillance footage is typically overwritten in 7 to 30 days. A preservation letter stops that. For public property, the 120-day notice clock is already running."
+        "v": " Surveillance footage is typically overwritten in 7 to 30 days. A preservation letter puts the recipient on notice to retain relevant evidence. For public property, the 120-day notice clock is already running."
        }
       ]
      ]
@@ -929,31 +929,7 @@
       },
       {
        "t": "text",
-       "v": " Many firms turned fall cases away for twenty years because the open-and-obvious rule made them losers. ATLAW evaluates every fall under the law as it stands now. The office is at "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "street address"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": "; the attorney who meets you handles your case. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "attorney names"
-        }
-       ]
+       "v": " ATLAW evaluates every fall under the law as it stands now. The office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126; the attorney who meets you handles your case."
       }
      ]
     },
@@ -989,17 +965,7 @@
       },
       {
        "t": "text",
-       "v": " Footage and logs are requested in writing before they can be lost. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "that this is the firm’s practice"
-        }
-       ]
+       "v": " Footage and logs are requested in writing before they can be lost."
       }
      ]
     },
@@ -1035,17 +1001,7 @@
       },
       {
        "t": "text",
-       "v": " A contingency fee set in writing before we start. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "percentage and cost handling"
-        }
-       ]
+       "v": " A contingency fee set in writing before we start. ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs."
       }
      ]
     },
@@ -1057,23 +1013,13 @@
        "c": [
         {
          "t": "text",
-         "v": "English, Arabic, and Spanish."
+         "v": "English, Arabic, French, Mandarin, Urdu, and Spanish."
         }
        ]
       },
       {
        "t": "text",
-       "v": "  "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "who provides Arabic and Spanish"
-        }
-       ]
+       "v": " Consultations, intake, and case updates in the language you are most comfortable in."
       }
      ]
     }
@@ -1207,24 +1153,14 @@
      },
      {
       "t": "text",
-      "v": " or send the form below. We respond within one business day. The consultation is free, in English, Arabic, or Spanish, and there is no fee unless we recover money for you. If you cannot travel, we will come to you. "
-     },
-     {
-      "t": "strong",
-      "c": [
-       {
-        "t": "placeholder",
-        "kind": "CONFIRM",
-        "v": "home and hospital visits"
-       }
-      ]
+      "v": " or send the form below. We respond within one business day. The consultation is free, in English, Arabic, French, Mandarin, Urdu, or Spanish, and there is no fee unless we recover money for you. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed."
      }
     ]
    }
   ]
  },
- "wordCount": 2473,
- "openItems": 6,
+ "wordCount": 2515,
+ "openItems": 0,
  "source": {
   "file": "B1-05_Michigan-Slip-and-Fall-Lawyer.docx",
   "delivered": "2026-10-12"

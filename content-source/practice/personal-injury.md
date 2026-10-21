@@ -16,18 +16,18 @@ delivered: 2026-10-12
 
 A personal injury case is a claim that someone else’s carelessness hurt you and that the law requires them, usually through their insurer, to pay for it. Most people searching this phrase are not sure yet whether what happened to them is a case. This page is written to answer that first, then to tell you what you can recover, how long you have, what a lawyer costs, and where to go on this site for the specific kind of injury you have.
 
-ATLAW is a personal injury law firm in Dearborn, founded by Dewnya Bazzi. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients in Wayne, Oakland, Macomb, and Washtenaw counties. Consultations are free and available in English, Arabic, and Spanish, and we take injury cases on contingency: no fee unless we recover money for you.
+ATLAW is a personal injury law firm in Dearborn, founded by Dewnya Bazzi. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients in Wayne, Oakland, Macomb, and Washtenaw counties. Consultations are free and available in English, Arabic, French, Mandarin, Urdu, and Spanish, and we take injury cases on contingency: no fee unless we recover money for you.
 
 ## Do you have a personal injury case? The four things Michigan law requires
 
-Every personal injury claim in Michigan, whether it is a car crash, a fall, a dog bite, or a surgical error, has to prove the same four elements. If you can answer yes to all four, you likely have a case.
+Every negligence claim in Michigan, whether it is a car crash, a fall, or a surgical error, has to prove the same four elements. (Michigan’s statutory dog-bite claim is different: it does not require proof that the owner was careless.) If you can answer yes to all four, you likely have a case.
 
 1. **Duty.** The other party owed you a legal duty of care. Every driver owes it to every other road user. A store owes it to customers. A doctor owes it to patients. A landlord owes it to tenants. This element is rarely disputed.
 2. **Breach.** They failed to meet that duty. A driver ran a red light. A store left a spill on the floor for an hour. A surgeon operated on the wrong site. In Michigan, the standard is what a reasonably careful person (or a reasonably competent professional) would have done in the same situation.
 3. **Causation.** The breach caused your injury. This is where insurers fight hardest. They will argue your back pain came from a pre-existing condition, or that you would have been hurt anyway. Medical records dated close to the incident are the answer.
 4. **Damages.** You suffered a real loss: medical bills, lost wages, pain, a changed life. An incident with no injury is not a case, however careless the other party was.
 
-Michigan adds one more hurdle in car accident cases. Because the state has no-fault insurance, your own insurer pays your medical bills and lost wages regardless of fault, and you can only sue the at-fault driver for pain and suffering if your injury is a “serious impairment of body function” under MCL 500.3135. The car accident page explains that threshold in detail. It does not apply to falls, dog bites, medical malpractice, or any case that did not involve a motor vehicle.
+Michigan adds one more hurdle in car accident cases. Because the state has no-fault insurance, eligible people receive medical and wage-loss benefits through the applicable no-fault coverage regardless of fault, and you can only sue the at-fault driver for pain and suffering if your injury is death, permanent serious disfigurement, or a “serious impairment of body function” under MCL 500.3135. The car accident page explains that threshold in detail. It does not apply to falls, dog bites, medical malpractice, or any case that did not involve a motor vehicle.
 
 ## What you can recover in a Michigan personal injury case
 
@@ -37,7 +37,7 @@ Michigan law divides compensation into two categories.
 
 **Non-economic damages** compensate for what has no receipt: pain, suffering, mental anguish, loss of enjoyment of life, disfigurement, and the effect on your marriage or family. In most Michigan injury cases there is **no cap** on non-economic damages. A jury decides.
 
-The exception is **medical malpractice**, where Michigan caps non-economic damages (MCL 600.1483). The cap has two tiers, adjusted every January: in 2024 it was $569,000 for most cases and $1,016,000 for the most severe injuries (permanent brain or spinal cord damage, loss of reproductive ability). Economic damages in malpractice cases are not capped.
+The exception is **medical malpractice**, where Michigan caps non-economic damages (MCL 600.1483). The cap has two tiers, adjusted every January: for 2026 it is $596,400 for most cases and $1,065,000 for the most severe injuries (permanent brain or spinal cord damage, loss of reproductive ability). Economic damages in malpractice cases are not capped.
 
 In a **wrongful death** case, the estate recovers the deceased person’s medical and funeral expenses, the income they would have provided, and the family’s loss of their companionship and guidance. Michigan has no cap on wrongful death damages outside the malpractice context.
 
@@ -45,7 +45,7 @@ In a **wrongful death** case, the estate recovers the deceased person’s medica
 
 ## What if you were partly at fault?
 
-Michigan uses **modified comparative negligence** (MCL 600.2959). Your recovery is reduced by your percentage of fault. If you are found 20% responsible for a fall because you were looking at your phone, you recover 80% of your damages. If you are found **more than 50%** at fault, you cannot recover non-economic damages at all, though you can still recover economic damages reduced by your share. Insurers assign fault to injured people as a negotiating tactic; a lawyer’s first job is often to push that percentage down with evidence.
+Michigan uses **modified comparative negligence** (MCL 600.2959) in negligence claims; it does not apply to Michigan’s statutory dog-bite claims. Your recovery is reduced by your percentage of fault. If you are found 20% responsible for a fall because you were looking at your phone, you recover 80% of your damages. If you are found **more than 50%** at fault, you cannot recover non-economic damages at all, though you can still recover economic damages reduced by your share. Insurers assign fault to injured people as a negotiating tactic; a lawyer’s first job is often to push that percentage down with evidence.
 
 ## How long you have: Michigan personal injury deadlines
 
@@ -64,9 +64,9 @@ Two practical points. First, the deadline is for *filing a lawsuit*, not for cal
 
 ## What a Michigan personal injury lawyer costs
 
-ATLAW handles injury cases on a **contingency fee**. You pay nothing to start, nothing while the case is pending, and nothing at all unless we recover money for you. The fee is a percentage of the recovery, agreed in a written contract before any work begins. Michigan court rules (MCR 8.121) cap contingency fees in personal injury cases at one-third of the net amount recovered. **[CONFIRM: the firm’s percentage, and whether case costs such as filing fees, records, and expert fees are advanced by the firm and deducted only from a recovery]**
+ATLAW handles injury cases on a **contingency fee**. You pay nothing to start, nothing while the case is pending, and nothing at all unless we recover money for you. The fee is a percentage of the recovery, agreed in a written contract before any work begins. Michigan court rules (MCR 8.121) cap contingency fees in personal injury cases at one-third of the net amount recovered. ATLAW’s fee is 33.3% of the recovery after case costs are deducted. The firm advances case costs such as filing fees, records, and expert fees, so you pay nothing up front.
 
-If there is no recovery, you owe no fee. **[CONFIRM: and no costs]**
+If there is no recovery, you owe no fee and no costs; ATLAW absorbs the case costs it advanced.
 
 One more cost most firms do not explain: **liens**. If your health insurer, Medicare, Medicaid, or a hospital paid for treatment related to the injury, they are entitled to reimbursement from your settlement. Part of a lawyer’s work is negotiating those liens down, which often adds more to what you take home than the fee costs. Ask any lawyer you interview how they handle liens.
 
@@ -78,7 +78,7 @@ One more cost most firms do not explain: **liens**. If your health insurer, Medi
 4. **Write down what happened** while you remember it, including what the other party said. “I’m so sorry, I didn’t see you” is evidence.
 5. **Do not give a recorded statement** to the other side’s insurer, and do not post about the incident or your recovery on social media. Both will be used against you.
 6. **Keep everything**: bills, receipts, pay stubs showing missed work, a daily note of pain and what you could not do.
-7. **Talk to a lawyer before you sign anything.** An early settlement offer ends the claim. A free consultation tells you whether it is fair.
+7. **Talk to a lawyer before you sign anything.** Signing a settlement release can waive the claims it covers. A free consultation tells you whether an offer is fair.
 
 ## The personal injury cases ATLAW handles
 
@@ -86,11 +86,11 @@ Each case type below has its own page with the Michigan law, deadlines, and evid
 
 **Motor vehicle accidents**
 
-- **Car accidents**: the no-fault benefits your own insurer owes you, and when you can sue the other driver.
+- **Car accidents**: the applicable no-fault benefits, and when you can sue the other driver.
 - **Truck accidents**: federal safety rules, multiple liable parties, and evidence that disappears within weeks.
 - **Motorcycle accidents**: Michigan’s helmet law affects your no-fault medical benefits.
 - **Pedestrian accidents**: who pays no-fault benefits when the injured person was not in a car.
-- **Uber and Lyft accidents**: three different insurance policies, depending on whether the app was on.
+- **Uber and Lyft accidents**: different insurance coverage depending on app status and the trip stage.
 - **Bicycle** and **bus accidents**, **distracted** and **drunk driving** crashes, **passenger injuries**, **uninsured and underinsured motorist claims**, and **insurance claim disputes**.
 
 **Injuries on someone else’s property**
@@ -125,7 +125,7 @@ In 2024, Wayne, Oakland, Macomb, and Washtenaw counties recorded 118,110 traffic
 
 ## Why people in metro Detroit call ATLAW
 
-**A Dearborn firm for 13 years.** Founded by Dewnya Bazzi, with an office at **[CONFIRM: street address]**. The attorney who meets you at the consultation handles your case. **[CONFIRM: attorney names to list]**
+**A Dearborn firm for 13 years.** Founded by Dewnya Bazzi, with an office at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. The attorney who meets you at the consultation handles your case.
 
 **More than 10,000 cases, more than $100 million recovered.** Across all injury practice areas. Every case is different and these figures do not predict the outcome of yours. They show the firm has done this work in these counties, against these insurers, for 13 years.
 
@@ -133,7 +133,7 @@ In 2024, Wayne, Oakland, Macomb, and Washtenaw counties recorded 118,110 traffic
 
 **Honest about whether you need us.** Some injuries resolve, some claims are small enough to handle yourself, and some cases cannot clear Michigan’s legal thresholds. We will tell you which one yours is in the first conversation, for free.
 
-**English, Arabic, and Spanish.** Consultations, intake, and case updates in the language you are most comfortable in. **[CONFIRM: who provides Arabic and Spanish]**
+**English, Arabic, French, Mandarin, Urdu, and Spanish.** Consultations, intake, and case updates in the language you are most comfortable in.
 
 ## Frequently asked questions about Michigan personal injury cases
 
@@ -159,6 +159,6 @@ In 2024, Wayne, Oakland, Macomb, and Washtenaw counties recorded 118,110 traffic
 
 ## Talk to a Michigan personal injury lawyer
 
-Call **(313) 406-7606** or send the form below. We respond within one business day, the consultation is free, and there is no fee unless we recover money for you. English, Arabic, and Spanish. If you cannot travel, we will come to you. **[CONFIRM: home visits]**
+Call **(313) 406-7606** or send the form below. We respond within one business day, the consultation is free, and there is no fee unless we recover money for you. English, Arabic, French, Mandarin, Urdu, and Spanish. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 
 *Attorney advertising. Past results do not guarantee or predict a similar outcome. This page is general information about Michigan law, not legal advice about your situation. Figures are current as of October 2026.*

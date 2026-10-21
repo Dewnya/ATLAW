@@ -153,13 +153,13 @@
         "c": [
          {
           "t": "text",
-          "v": "Can you do your past work?"
+          "v": "Can you do your past relevant work?"
          }
         ]
        },
        {
         "t": "text",
-        "v": " Social Security assesses your residual functional capacity (what you can still do: sit, stand, lift, concentrate) and compares it to the jobs you held in the last five years. If you can still do one of them, the claim is denied."
+        "v": " Social Security assesses your residual functional capacity (what you can still do: sit, stand, lift, concentrate) and compares it to your past relevant work: jobs held in the last five years that met Social Security’s earnings and duration requirements, which exclude work that started and stopped in fewer than 30 calendar days. If you can still do one of them, the claim is denied."
        }
       ],
       [
@@ -174,7 +174,7 @@
        },
        {
         "t": "text",
-        "v": " This is where most claims are won or lost. Social Security considers your capacity, age, education, and skills against the “grid rules” (20 CFR Part 404, Subpart P, Appendix 2). The grids favor older claimants: at 50, and again at 55, a person limited to sedentary or light work with no transferable skills is found disabled even though a younger person with the same limits is not. Knowing which grid rule applies to you is central to the case."
+        "v": " This is where most claims are won or lost. Social Security considers your capacity, age, education, and skills against the “grid rules” (20 CFR Part 404, Subpart P, Appendix 2). The grids weigh age heavily, with different rules applying at 50 and again at 55, but the result depends on the grid rule that applies to you, including your education and work history. Knowing which grid rule applies to you is central to the case."
        }
       ]
      ]
@@ -184,7 +184,7 @@
      "c": [
       {
        "t": "text",
-       "v": "The evidence that decides steps two through five is medical: treating doctors’ records, imaging, test results, and, most important, a treating physician’s opinion about your specific functional limits (how long you can sit, how much you can lift, how often you would miss work). An application without that opinion is an application that will be denied."
+       "v": "The evidence that decides steps two through five is medical: treating doctors’ records, imaging, test results, and, most important, a treating physician’s opinion about your specific functional limits (how long you can sit, how much you can lift, how often you would miss work). A treating physician’s opinion can help, but it is not required for approval and does not automatically receive the greatest weight; Social Security considers all the relevant medical and other evidence."
       }
      ]
     }
@@ -577,21 +577,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Federal law sets the fee. Under Social Security’s fee agreement process, the attorney receives 25% of the back benefits awarded, capped at $9,200 (the cap in effect since November 30, 2024), and nothing if the claim is not approved. Social Security pays the fee directly from the back pay; you never write a check. Ongoing monthly benefits are not subject to the fee. Costs for medical records are usually modest and "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "whether the firm advances record costs and how they are handled"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": ". There is no fee for the consultation."
+       "v": "Federal law sets the fee. Under Social Security’s fee agreement process, the attorney receives 25% of the back benefits awarded, capped at $9,200 (the cap in effect since November 30, 2024), and nothing if the claim is not approved. Social Security pays the fee directly from the back pay; you never write a check. Ongoing monthly benefits are not subject to the fee. Costs for medical records are usually modest, and the firm advances them. There is no fee for the consultation."
       }
      ]
     }
@@ -731,17 +717,7 @@
       },
       {
        "t": "text",
-       "v": " Many disability firms accept clients only after a denial. ATLAW handles applications from the start, which shortens the path for claims that should be approved on paper. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "that the firm takes claims at the initial application stage"
-        }
-       ]
+       "v": " Many disability firms accept clients only after a denial. ATLAW handles applications from the start, which shortens the path for claims that should be approved on paper."
       }
      ]
     },
@@ -753,23 +729,13 @@
        "c": [
         {
          "t": "text",
-         "v": "Fifteen minutes from every Detroit-area hearing office"
+         "v": "Fifteen minutes from every Detroit-area hearing office."
         }
        ]
       },
       {
        "t": "text",
-       "v": ", and present at the hearing in person. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "attorney who handles disability hearings"
-        }
-       ]
+       "v": " ATLAW directly handles disability hearings and provides in-person representation when applicable."
       }
      ]
     },
@@ -799,23 +765,13 @@
        "c": [
         {
          "t": "text",
-         "v": "English, Arabic, and Spanish"
+         "v": "English, Arabic, French, Mandarin, Urdu, and Spanish"
         }
        ]
       },
       {
        "t": "text",
-       "v": ", for the application, the forms, and the hearing. Social Security provides interpreters at hearings, but the preparation happens in your language with us. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "who provides Arabic and Spanish"
-        }
-       ]
+       "v": ", for the application, the forms, and the hearing. Social Security provides interpreters at hearings, but the preparation happens in your language with us."
       }
      ]
     },
@@ -824,21 +780,7 @@
      "c": [
       {
        "t": "text",
-       "v": "The office is at "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "street address"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": "."
+       "v": "The office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126."
       }
      ]
     }
@@ -959,24 +901,14 @@
      },
      {
       "t": "text",
-      "v": " or send the form below. We respond within one business day. The consultation is free, in English, Arabic, or Spanish, and the fee is set by federal law: nothing unless you win. "
-     },
-     {
-      "t": "strong",
-      "c": [
-       {
-        "t": "placeholder",
-        "kind": "CONFIRM",
-        "v": "home visits for claimants who cannot travel"
-       }
-      ]
+      "v": " or send the form below. We respond within one business day. The consultation is free, in English, Arabic, French, Mandarin, Urdu, or Spanish, and the fee is set by federal law: nothing unless you win. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed."
      }
     ]
    }
   ]
  },
- "wordCount": 2119,
- "openItems": 7,
+ "wordCount": 2159,
+ "openItems": 1,
  "source": {
   "file": "B1-11_Michigan-Social-Security-Disability-Lawyer.docx",
   "delivered": "2026-10-12"

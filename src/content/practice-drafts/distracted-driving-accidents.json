@@ -20,7 +20,7 @@
    "c": [
     {
      "t": "text",
-     "v": "In 2024, 14,439 crashes in Michigan involved a distracted driver. They killed 65 people and injured more than 5,400. Those are the crashes where the officer recorded distraction; the real number is higher, because a driver who was texting rarely admits it at the scene. What has changed since June 30, 2023, is that holding a phone while driving is itself a violation of Michigan law, and the phone company keeps the record that shows whether the driver was using it. A distracted driving case is a car accident case with a piece of evidence that settles the fault question, if someone goes and gets it."
+     "v": "In 2024, 14,439 crashes in Michigan involved a distracted driver. They killed 65 people and injured more than 5,400. Those are the crashes where the officer recorded distraction; the real number is higher, because a driver who was texting rarely admits it at the scene. What has changed since June 30, 2023, is that holding a phone while driving is itself a violation of Michigan law, and the phone company keeps the record that shows whether the driver was using it. A distracted driving case is a car accident case with evidence that can help establish how the crash happened and who was responsible, if someone goes and gets it."
     }
    ]
   },
@@ -62,7 +62,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Penalties (MCL 257.602b(6)): a first violation is a $100 fine and/or 16 hours of community service; a second or later violation is $250 and/or 24 hours. The fines double if the driver was in a crash at the time. Three violations in three years require a driver improvement course. For commercial drivers the fines are $200 and $500."
+       "v": "Penalties (MCL 257.602b(6)): a first violation is a $100 fine and/or 16 hours of community service; a second or later violation is $250 and/or 24 hours. The fines double if the driver was at fault in a crash while violating the law. Three violations in three years require a driver improvement course. For commercial drivers the fines are $200 and $500."
       }
      ]
     },
@@ -80,7 +80,7 @@
       },
       {
        "t": "text",
-       "v": " (MCL 257.602c) goes further for teen drivers: a driver on a Level 1 or Level 2 graduated license may not use a phone at all while driving, hands-free or not."
+       "v": " (MCL 257.602c) goes further for teen drivers: a driver on a Level 1 or Level 2 graduated license may not make, answer, or participate in phone calls while driving, including hands-free calls, subject to statutory emergency exceptions. Other device use remains governed by the hands-free law."
       }
      ]
     },
@@ -232,7 +232,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Distracted driving changes who is at fault; it does not change how no-fault works. Your own auto insurer pays your medical bills and 85% of your lost wages (up to $7,455 a month for crashes on or after October 1, 2026) regardless of fault, with written notice required within one year (MCL 500.3145). To recover for pain and suffering and for economic losses beyond no-fault, you sue the distracted driver, and you may if your injury is a serious impairment of body function (MCL 500.3135). The driver’s violation makes the fault element of that lawsuit close to certain, which in practice means a higher settlement than the same injury with disputed fault."
+       "v": "Distracted driving changes who is at fault; it does not change how no-fault works. The responsible PIP insurer pays eligible medical expenses under Michigan’s priority rules and the applicable coverage, and 85% of your lost wages (up to $7,455 a month for crashes on or after October 1, 2026), regardless of fault. A PIP lawsuit generally must begin within one year unless timely written injury notice or a previous PIP payment permits later filing, subject to additional filing and recovery limits (MCL 500.3145). To recover for pain and suffering and for economic losses beyond no-fault, you sue the distracted driver, and you may if your injury is a serious impairment of body function (MCL 500.3135). The driver’s violation makes the fault element of that lawsuit close to certain, which in practice means a higher settlement than the same injury with disputed fault."
       }
      ]
     },
@@ -250,7 +250,7 @@
      "c": [
       {
        "t": "text",
-       "v": "If the distracted driver was working (a delivery driver, a rideshare driver, a company vehicle), the employer may be liable as well, and commercial drivers are subject to the stricter federal and Michigan rules. If the driver was a teen on a graduated license, Kelsey’s Law applies and the parents’ policy is the source of recovery."
+       "v": "If the distracted driver was working (a delivery driver, a rideshare driver, a company vehicle), the employer may be liable as well, and commercial drivers are subject to the stricter federal and Michigan rules. If the driver was a teen on a graduated license, Kelsey’s Law applies, and the parents’ policy may provide coverage, depending on its terms and whether it covers the teen and the vehicle."
       }
      ]
     }
@@ -359,7 +359,7 @@
        },
        {
         "t": "text",
-        "v": " and notify your own insurer in writing."
+        "v": " and notify the responsible PIP insurer in writing."
        }
       ],
       [
@@ -632,51 +632,13 @@
        "c": [
         {
          "t": "text",
-         "v": "A Dearborn firm that goes after the phone records."
+         "v": "A Dearborn firm."
         }
        ]
       },
       {
        "t": "text",
-       "v": " The preservation letter goes out in the first days and the carrier subpoena follows the complaint. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "that the firm routinely subpoenas carrier records in distracted driving cases"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " The office is at "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "street address"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": ". "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "attorney names"
-        }
-       ]
+       "v": " The office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126."
       }
      ]
     },
@@ -712,17 +674,7 @@
       },
       {
        "t": "text",
-       "v": " A contingency fee set in writing before we start. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "percentage and cost handling"
-        }
-       ]
+       "v": " A contingency fee set in writing before we start. ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs."
       }
      ]
     },
@@ -734,23 +686,13 @@
        "c": [
         {
          "t": "text",
-         "v": "English, Arabic, and Spanish."
+         "v": "English, Arabic, French, Mandarin, Urdu, and Spanish."
         }
        ]
       },
       {
        "t": "text",
-       "v": "  "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "who provides Arabic and Spanish"
-        }
-       ]
+       "v": " Consultations, intake, and case updates in the language you are most comfortable in."
       }
      ]
     }
@@ -871,24 +813,14 @@
      },
      {
       "t": "text",
-      "v": " or send the form below. We respond within one business day. The consultation is free, in English, Arabic, or Spanish, and there is no fee unless we recover money for you. "
-     },
-     {
-      "t": "strong",
-      "c": [
-       {
-        "t": "placeholder",
-        "kind": "CONFIRM",
-        "v": "home and hospital visits"
-       }
-      ]
+      "v": " or send the form below. We respond within one business day. The consultation is free, in English, Arabic, French, Mandarin, Urdu, or Spanish, and there is no fee unless we recover money for you. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed."
      }
     ]
    }
   ]
  },
- "wordCount": 2034,
- "openItems": 6,
+ "wordCount": 2132,
+ "openItems": 0,
  "source": {
   "file": "B1-13_Michigan-Distracted-Driving-Accident-Lawyer.docx",
   "delivered": "2026-10-12"

@@ -14,7 +14,7 @@ delivered: 2026-10-12
 
 ## Michigan Distracted Driving Accident Lawyer
 
-In 2024, 14,439 crashes in Michigan involved a distracted driver. They killed 65 people and injured more than 5,400. Those are the crashes where the officer recorded distraction; the real number is higher, because a driver who was texting rarely admits it at the scene. What has changed since June 30, 2023, is that holding a phone while driving is itself a violation of Michigan law, and the phone company keeps the record that shows whether the driver was using it. A distracted driving case is a car accident case with a piece of evidence that settles the fault question, if someone goes and gets it.
+In 2024, 14,439 crashes in Michigan involved a distracted driver. They killed 65 people and injured more than 5,400. Those are the crashes where the officer recorded distraction; the real number is higher, because a driver who was texting rarely admits it at the scene. What has changed since June 30, 2023, is that holding a phone while driving is itself a violation of Michigan law, and the phone company keeps the record that shows whether the driver was using it. A distracted driving case is a car accident case with evidence that can help establish how the crash happened and who was responsible, if someone goes and gets it.
 
 ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across Wayne, Oakland, Macomb, and Washtenaw counties. Distracted driving cases are handled on contingency: no fee unless we recover money for you, and the first conversation is free.
 
@@ -24,9 +24,9 @@ Michigan’s hands-free driving law (MCL 257.602b, effective June 30, 2023) proh
 
 What is allowed: hands-free use through voice commands or a single touch to start or end a call, a device mounted on the dash or windshield, and use to call 911 or report an emergency. Commercial vehicle and school bus drivers are held to a stricter standard.
 
-Penalties (MCL 257.602b(6)): a first violation is a $100 fine and/or 16 hours of community service; a second or later violation is $250 and/or 24 hours. The fines double if the driver was in a crash at the time. Three violations in three years require a driver improvement course. For commercial drivers the fines are $200 and $500.
+Penalties (MCL 257.602b(6)): a first violation is a $100 fine and/or 16 hours of community service; a second or later violation is $250 and/or 24 hours. The fines double if the driver was at fault in a crash while violating the law. Three violations in three years require a driver improvement course. For commercial drivers the fines are $200 and $500.
 
-**Kelsey’s Law** (MCL 257.602c) goes further for teen drivers: a driver on a Level 1 or Level 2 graduated license may not use a phone at all while driving, hands-free or not.
+**Kelsey’s Law** (MCL 257.602c) goes further for teen drivers: a driver on a Level 1 or Level 2 graduated license may not make, answer, or participate in phone calls while driving, including hands-free calls, subject to statutory emergency exceptions. Other device use remains governed by the hands-free law.
 
 The law changed Michigan from a state that banned only texting (the 2010 law) to a state that bans holding the phone. That matters for an injury case: before 2023, a lawyer had to prove the driver was texting as opposed to dialing. Now, holding the phone is enough.
 
@@ -47,11 +47,11 @@ A driver who denies using the phone and is then confronted with carrier records 
 
 ## How Michigan no-fault applies to a distracted driving crash
 
-Distracted driving changes who is at fault; it does not change how no-fault works. Your own auto insurer pays your medical bills and 85% of your lost wages (up to $7,455 a month for crashes on or after October 1, 2026) regardless of fault, with written notice required within one year (MCL 500.3145). To recover for pain and suffering and for economic losses beyond no-fault, you sue the distracted driver, and you may if your injury is a serious impairment of body function (MCL 500.3135). The driver’s violation makes the fault element of that lawsuit close to certain, which in practice means a higher settlement than the same injury with disputed fault.
+Distracted driving changes who is at fault; it does not change how no-fault works. The responsible PIP insurer pays eligible medical expenses under Michigan’s priority rules and the applicable coverage, and 85% of your lost wages (up to $7,455 a month for crashes on or after October 1, 2026), regardless of fault. A PIP lawsuit generally must begin within one year unless timely written injury notice or a previous PIP payment permits later filing, subject to additional filing and recovery limits (MCL 500.3145). To recover for pain and suffering and for economic losses beyond no-fault, you sue the distracted driver, and you may if your injury is a serious impairment of body function (MCL 500.3135). The driver’s violation makes the fault element of that lawsuit close to certain, which in practice means a higher settlement than the same injury with disputed fault.
 
 Comparative fault still applies: if you were more than 50% at fault you cannot recover non-economic damages. A distracted driver’s insurer will look for distraction on your side too, which is a reason not to volunteer your own phone use to an adjuster.
 
-If the distracted driver was working (a delivery driver, a rideshare driver, a company vehicle), the employer may be liable as well, and commercial drivers are subject to the stricter federal and Michigan rules. If the driver was a teen on a graduated license, Kelsey’s Law applies and the parents’ policy is the source of recovery.
+If the distracted driver was working (a delivery driver, a rideshare driver, a company vehicle), the employer may be liable as well, and commercial drivers are subject to the stricter federal and Michigan rules. If the driver was a teen on a graduated license, Kelsey’s Law applies, and the parents’ policy may provide coverage, depending on its terms and whether it covers the teen and the vehicle.
 
 ## Distracted driving in metro Detroit, 2024
 
@@ -65,7 +65,7 @@ The four counties ATLAW serves recorded 118,110 crashes in 2024, with 34,424 peo
 2. **Get witness names.** A passenger in another car who saw the driver looking down is the best evidence there is before the phone records arrive.
 3. **Note the exact time** of the crash, from your own phone or the 911 call. The records are matched to the minute.
 4. **Photograph the other driver’s phone** if it is visible (in a hand, in a lap, on the seat, with a screen lit).
-5. **Get medical care the same day** and notify your own insurer in writing.
+5. **Get medical care the same day** and notify the responsible PIP insurer in writing.
 6. **Do not give a recorded statement** to the other driver’s insurer, and do not discuss your own phone use with anyone but your lawyer.
 7. **Call a lawyer within days.** The preservation letter has to reach the driver before the phone is replaced or reset, and camera footage is overwritten within weeks.
 
@@ -94,14 +94,13 @@ ATLAW’s results: more than 10,000 cases and more than $100 million recovered f
 
 ## Why people in metro Detroit call ATLAW after a distracted driving crash
 
-**A Dearborn firm that goes after the phone records.** The preservation letter goes out in the first days and the carrier subpoena follows the complaint. **[CONFIRM: that the firm routinely subpoenas carrier records in distracted driving cases]** The office is at **[CONFIRM: street address]**. **[CONFIRM: attorney names]**
+**A Dearborn firm.** The office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126.
 
 **More than 10,000 cases, more than $100 million recovered** in 13 years, across all injury practice areas. Every case is different; the figures show the firm has done this work against these insurers.
 
-**No fee unless we win.** A contingency fee set in writing before we start. **[CONFIRM: percentage and cost handling]**
+**No fee unless we win.** A contingency fee set in writing before we start. ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs.
 
-**English, Arabic, and Spanish.**  **[CONFIRM: who provides Arabic and Spanish]**
-
+**English, Arabic, French, Mandarin, Urdu, and Spanish.** Consultations, intake, and case updates in the language you are most comfortable in.
 ## Frequently asked questions about Michigan distracted driving accidents
 
 **Is it illegal to hold a phone while driving in Michigan?** Yes, since June 30, 2023 (MCL 257.602b). Holding or using a phone for calls, texts, video, social media, or manual navigation entry is a civil infraction: $100 and/or 16 hours of community service for a first offense, $250 and/or 24 hours after that, doubled if the driver was in a crash.
@@ -126,6 +125,6 @@ ATLAW’s results: more than 10,000 cases and more than $100 million recovered f
 
 ## Talk to a Michigan distracted driving accident lawyer
 
-Call **(313) 406-7606** or send the form below. We respond within one business day. The consultation is free, in English, Arabic, or Spanish, and there is no fee unless we recover money for you. **[CONFIRM: home and hospital visits]**
+Call **(313) 406-7606** or send the form below. We respond within one business day. The consultation is free, in English, Arabic, French, Mandarin, Urdu, or Spanish, and there is no fee unless we recover money for you. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 
 *Attorney advertising. Past results do not guarantee or predict a similar outcome. This page is general information about Michigan law, not legal advice about your situation. Figures are current as of October 2026.*

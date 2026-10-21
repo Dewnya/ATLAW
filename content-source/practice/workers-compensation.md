@@ -28,7 +28,7 @@ ATLAW is a personal injury firm in Dearborn, in a region where the largest emplo
 
 **Wage loss.** If the injury keeps you from working, you receive 80% of your after-tax average weekly wage, calculated from your highest 39 of the 52 weeks before the injury and adjusted for your tax filing status and dependents (MCL 418.351, 418.371). The benefit is capped at 90% of the state average weekly wage, which the state resets each year: $1,164 a week for injuries in 2025. **[VERIFY: 2026 maximum weekly rate, published by the Workers’ Disability Compensation Agency each January]** Benefits begin after a seven-day waiting period and are paid back to day one if the disability lasts two weeks or more (MCL 418.311).
 
-**Partial wage loss.** If you return to work at lower pay because of the injury, you receive 80% of the after-tax difference between your old and new wages (MCL 418.361(1)).
+**Partial wage loss.** If you return to work at lower pay because of the injury, you receive 80% of the after-tax difference between your old and new wages (MCL 418.301(9)(c)).
 
 **Specific loss.** For the loss of a body part (a finger, a hand, an eye, a leg) or its use, Michigan pays a scheduled number of weeks regardless of wage loss: for example, 215 weeks for a hand, 162 for a foot, 162 for an eye (MCL 418.361(2)). Total and permanent disability (loss of both hands, both legs, sight in both eyes, or incurable insanity) pays for at least 800 weeks and often for life.
 
@@ -106,11 +106,11 @@ The injuries ATLAW sees most: back and shoulder injuries from lifting and repeti
 
 **More than 10,000 cases, more than $100 million recovered** in 13 years, across all injury practice areas. Every case is different; the figures show the firm has done this work against these employers and insurers.
 
-**Fees set by state rule.** Attorney fees in Michigan workers’ comp cases are capped by agency rule and must be approved by the magistrate. You pay nothing up front, and the fee comes only from benefits we recover for you. **[CONFIRM: the firm’s standard fee structure for comp claims and for redemptions]**
+**Fees set by state rule.** Attorney fees in Michigan workers’ comp cases are capped by agency rule and must be approved by the magistrate. You pay nothing up front, and the fee comes only from benefits we recover for you.
 
-**English, Arabic, and Spanish**, including at the hearing. **[CONFIRM: who provides Arabic and Spanish]**
+**English, Arabic, French, Mandarin, Urdu, and Spanish**, including at the hearing.
 
-The office is at **[CONFIRM: street address]**. **[CONFIRM: attorney names]**
+The office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126.
 
 ## Frequently asked questions about Michigan workers’ compensation
 
@@ -136,6 +136,6 @@ The office is at **[CONFIRM: street address]**. **[CONFIRM: attorney names]**
 
 ## Talk to a Michigan workers’ compensation lawyer
 
-Call **(313) 406-7606** or send the form below. We respond within one business day. The consultation is free, in English, Arabic, or Spanish, and you pay nothing unless we recover benefits for you. **[CONFIRM: home and hospital visits]**
+Call **(313) 406-7606** or send the form below. We respond within one business day. The consultation is free, in English, Arabic, French, Mandarin, Urdu, or Spanish, and you pay nothing unless we recover benefits for you. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 
 *Attorney advertising. Past results do not guarantee or predict a similar outcome. This page is general information about Michigan law, not legal advice about your situation. Benefit maximums are set annually by the Michigan Workers’ Disability Compensation Agency; figures are current as of October 2026.*

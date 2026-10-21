@@ -152,9 +152,9 @@ Medical expenses, lost wages and earning capacity, pain and suffering, loss of e
 - **Preservation letters in the first week**, to the owner, the manager, the insurer, and any contractor. **[CONFIRM]**
 - **Post-2023 law applied.** Every “open and obvious” denial is answered with Kandil-Elsayed.
 - **Government notices calendared on intake.** The 120-day and six-month notices are identified and sent. **[CONFIRM]**
-- **Dearborn, and the whole metro area.** Our office is at **[CONFIRM: street address]**. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. **[CONFIRM: home and hospital visits]**
-- **Languages.**  **[CONFIRM: languages spoken by staff, including Arabic]**
-- **No fee unless we recover.** Contingency fee **[CONFIRM: percentage]**; no cost for the first conversation.
+- **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
+- **Languages.** Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish.
+- **No fee unless we recover.** ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs. No cost for the first conversation.
 
 ## Frequently asked questions about Michigan premises liability
 
@@ -180,6 +180,6 @@ Medical expenses, lost wages and earning capacity, pain and suffering, loss of e
 
 ## Talk to a Michigan premises liability lawyer
 
-If you were injured on someone else’s property anywhere in Michigan, call **(313) 406-7606** or send the form on this page. We send the preservation demand, identify every responsible party and policy, calendar the government notices, and tell you what your claim is worth under the current law. We respond **[CONFIRM: same day / within one business day]**, and there is no fee unless we recover money for you.
+If you were injured on someone else’s property anywhere in Michigan, call **(313) 406-7606** or send the form on this page. We send the preservation demand, identify every responsible party and policy, calendar the government notices, and tell you what your claim is worth under the current law. We respond within one business day, and there is no fee unless we recover money for you.
 
 *Results depend on the facts of each case, and past results do not guarantee a future outcome. This page is general information about Michigan law, not legal advice for your situation.*

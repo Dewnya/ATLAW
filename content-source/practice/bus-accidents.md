@@ -119,9 +119,9 @@ Bus cases differ from car cases in the size and nature of the defendant. A trans
 - **The bus type is identified on the first call**, and the 60-day or six-month notice goes out before anything else. **[CONFIRM]**
 - **Preservation letters within days** for video, vehicle data, and driver records. **[CONFIRM]**
 - **Government and federal-carrier cases handled in-house**: DDOT, SMART, school districts, and charter companies. **[CONFIRM: governmental-immunity cases handled in-house]**
-- **Dearborn, and the whole metro area.** Our office is at **[CONFIRM: street address]**. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. **[CONFIRM: home and hospital visits]**
-- **Languages.**  **[CONFIRM: languages spoken by staff, including Arabic]**
-- **No fee unless we recover.** Contingency fee **[CONFIRM: percentage]**; no cost for the first conversation.
+- **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
+- **Languages.** Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish.
+- **No fee unless we recover.** ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs. No cost for the first conversation.
 
 ## Frequently asked questions about Michigan bus accidents
 
@@ -147,6 +147,6 @@ Bus cases differ from car cases in the size and nature of the defendant. A trans
 
 ## Talk to a Michigan bus accident lawyer
 
-If you were injured on or by a bus anywhere in Michigan, call **(313) 406-7606** or send the form on this page. We identify who ran the bus, give the notices the law requires, preserve the video and vehicle data, and tell you what your claims are worth. We respond **[CONFIRM: same day / within one business day]**, and there is no fee unless we recover money for you.
+If you were injured on or by a bus anywhere in Michigan, call **(313) 406-7606** or send the form on this page. We identify who ran the bus, give the notices the law requires, preserve the video and vehicle data, and tell you what your claims are worth. We respond within one business day, and there is no fee unless we recover money for you.
 
 *Results depend on the facts of each case, and past results do not guarantee a future outcome. This page is general information about Michigan law, not legal advice for your situation.*

@@ -89,7 +89,7 @@
       },
       {
        "t": "text",
-       "v": " gives every nursing home resident a bill of rights (MCL 333.20201), including the right to adequate and appropriate care, to be free from mental and physical abuse and from restraints except as ordered by a physician, and to have a family member or representative informed of changes in condition. Michigan licenses and inspects nursing homes through the Department of Licensing and Regulatory Affairs (LARA), which investigates complaints and can cite, fine, and in serious cases close a facility."
+       "v": " gives every nursing home resident a bill of rights (MCL 333.20201), including the right to adequate and appropriate care, to be free from mental and physical abuse, and to be free from restraints except as authorized in writing by a physician, a qualifying physician assistant, or an advanced practice registered nurse, with a limited emergency exception (an order never overrides the federal prohibition on restraints used for discipline or staff convenience). Federal rule 42 CFR 483.10(g)(14) separately requires the facility to notify a family member or representative of specified significant changes in the resident’s condition. Michigan licenses and inspects nursing homes through the Department of Licensing and Regulatory Affairs (LARA), which investigates complaints and can cite, fine, and in serious cases close a facility."
       }
      ]
     },
@@ -141,7 +141,7 @@
        },
        {
         "t": "text",
-        "v": ", especially on the tailbone, hips, and heels. A sore that reaches stage 3 or 4 in a facility is, under the federal rule, presumptively the facility’s failure unless the chart shows it was unavoidable."
+        "v": ", especially on the tailbone, hips, and heels. A sore that reaches stage 3 or 4 in a facility is a serious warning sign that warrants review of the resident’s condition and the prevention and treatment provided."
        }
       ],
       [
@@ -327,7 +327,7 @@
        },
        {
         "t": "text",
-        "v": " at 855-444-3911 (24 hours). APS investigates abuse and neglect of vulnerable adults in any setting."
+        "v": " at 855-444-3911 (24 hours). APS may investigate matters within its jurisdiction, including suspected abuse by someone who is not a facility employee; it does not independently investigate every nursing-home allegation."
        }
       ],
       [
@@ -342,7 +342,7 @@
        },
        {
         "t": "text",
-        "v": ", which licenses nursing homes, at 800-882-6006 or online. LARA must investigate and will issue a report."
+        "v": ", which licenses nursing homes and investigates nursing-home care and facility complaints, at 800-882-6006 or online."
        }
       ],
       [
@@ -930,37 +930,13 @@
        "c": [
         {
          "t": "text",
-         "v": "A Dearborn firm that files both claims."
+         "v": "A Dearborn firm that evaluates every claim."
         }
        ]
       },
       {
        "t": "text",
-       "v": " Every nursing home case is reviewed for ordinary negligence and malpractice, so the three-year claims are preserved and the two-year claims are filed correctly. The office is at "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "street address"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": ". "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "attorney names"
-        }
-       ]
+       "v": " ATLAW evaluates whether the facts support ordinary-negligence claims, malpractice claims, or both, so the three-year claims are preserved and the two-year claims are filed correctly. The office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126."
       }
      ]
     },
@@ -1024,17 +1000,7 @@
       },
       {
        "t": "text",
-       "v": " A contingency fee set in writing before we start; expert costs for malpractice claims are advanced. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "percentage and cost handling"
-        }
-       ]
+       "v": " A contingency fee set in writing before we start; expert costs for malpractice claims are advanced. ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs."
       }
      ]
     },
@@ -1046,23 +1012,13 @@
        "c": [
         {
          "t": "text",
-         "v": "English, Arabic, and Spanish"
+         "v": "English, Arabic, French, Mandarin, Urdu, and Spanish"
         }
        ]
       },
       {
        "t": "text",
-       "v": ", for families who need to discuss a parent’s care in their own language. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "who provides Arabic and Spanish"
-        }
-       ]
+       "v": ", for families who need to discuss a parent’s care in their own language."
       }
      ]
     }
@@ -1183,24 +1139,14 @@
      },
      {
       "t": "text",
-      "v": " or send the form below. We respond within one business day. The consultation is free, in English, Arabic, or Spanish, and there is no fee unless we recover money for your family. We will meet you at the facility, the hospital, or your home. "
-     },
-     {
-      "t": "strong",
-      "c": [
-       {
-        "t": "placeholder",
-        "kind": "CONFIRM",
-        "v": "visits"
-       }
-      ]
+      "v": " or send the form below. We respond within one business day. The consultation is free, in English, Arabic, French, Mandarin, Urdu, or Spanish, and there is no fee unless we recover money for your family. We welcome families to our Dearborn office for a consultation. If you are unable to visit, meetings at the facility, the hospital, or your home can be arranged as needed."
      }
     ]
    }
   ]
  },
- "wordCount": 2196,
- "openItems": 6,
+ "wordCount": 2309,
+ "openItems": 1,
  "source": {
   "file": "B1-12_Michigan-Nursing-Home-Abuse-Lawyer.docx",
   "delivered": "2026-10-12"

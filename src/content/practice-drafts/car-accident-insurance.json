@@ -1415,17 +1415,7 @@
        },
        {
         "t": "text",
-        "v": " From the application for benefits forward, the insurer deals with us, and every submission is documented so that the 30-day clock and the interest are provable. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "first-party PIP claims and suits against no-fault insurers handled in-house"
-         }
-        ]
+        "v": " From the application for benefits forward, the insurer deals with us, and every submission is documented so that the 30-day clock and the interest are provable."
        }
       ],
       [
@@ -1440,17 +1430,7 @@
        },
        {
         "t": "text",
-        "v": " For passengers, pedestrians, and cyclists without a household policy, we file with the MACP and follow the assignment. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": ""
-         }
-        ]
+        "v": " For passengers, pedestrians, and cyclists without a household policy, we file with the MACP and follow the assignment."
        }
       ],
       [
@@ -1480,31 +1460,7 @@
        },
        {
         "t": "text",
-        "v": " Our office is at "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "street address"
-         }
-        ]
-       },
-       {
-        "t": "text",
-        "v": ". Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "home and hospital visits"
-         }
-        ]
+        "v": " Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed."
        }
       ],
       [
@@ -1519,17 +1475,7 @@
        },
        {
         "t": "text",
-        "v": "  "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "languages spoken by staff, including Arabic"
-         }
-        ]
+        "v": " Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish."
        }
       ],
       [
@@ -1544,21 +1490,7 @@
        },
        {
         "t": "text",
-        "v": " Contingency fee on first-party cases "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "fee structure for PIP cases; note that MCL 500.3148 fees are paid by the insurer"
-         }
-        ]
-       },
-       {
-        "t": "text",
-        "v": "; no cost for the first conversation."
+        "v": " Contingency fee on first-party cases; no cost for the first conversation."
        }
       ]
      ]
@@ -1680,28 +1612,14 @@
      },
      {
       "t": "text",
-      "v": " or send the form on this page. We review the denial, your file, and the dates, and we tell you what the insurer owes and what we can do about it. We respond "
-     },
-     {
-      "t": "strong",
-      "c": [
-       {
-        "t": "placeholder",
-        "kind": "CONFIRM",
-        "v": "same day / within one business day"
-       }
-      ]
-     },
-     {
-      "t": "text",
-      "v": ", and there is no fee unless we recover money for you."
+      "v": " or send the form on this page. We review the denial, your file, and the dates, and we tell you what the insurer owes and what we can do about it. We respond within one business day, and there is no fee unless we recover money for you."
      }
     ]
    }
   ]
  },
- "wordCount": 2988,
- "openItems": 7,
+ "wordCount": 2986,
+ "openItems": 0,
  "source": {
   "file": "B1-15_Michigan-No-Fault-Insurance-Claim-Lawyer.docx",
   "delivered": "2026-10-12"
