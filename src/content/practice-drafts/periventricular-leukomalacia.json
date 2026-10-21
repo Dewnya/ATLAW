@@ -1,0 +1,1871 @@
+{
+ "slug": "periventricular-leukomalacia",
+ "section": "personal-injury",
+ "status": "draft",
+ "seoTitle": "Michigan Periventricular Leukomalacia (PVL) Lawyer – Preterm Brain Injury",
+ "seoDescription": "Your premature baby was diagnosed with PVL. What it is, cystic vs. diffuse, when the ultrasound should have been done, which steps before and after birth reduce it (steroids, magnesium, ventilation, blood pressure), and when a Michigan claim exists. Free review.",
+ "h1": "Periventricular Leukomalacia Lawyer Michigan",
+ "tagline": "PVL is the brain injury of prematurity. Some of it is the price of being born early. Some of it was preventable. The NICU chart tells which.",
+ "primaryKeyword": "periventricular leukomalacia lawyer michigan",
+ "secondaryKeywords": [
+  "periventricular leukomalacia",
+  "pvl birth injury",
+  "periventricular leukomalacia lawsuit",
+  "pvl lawyer",
+  "premature birth injury lawyer michigan",
+  "white matter injury preterm infant"
+ ],
+ "intro": [
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "Periventricular leukomalacia, PVL, is injury to the white matter of a baby’s brain in the area surrounding the fluid-filled ventricles. “Leuko” is white, “malacia” is softening: the nerve fibers that carry signals from the brain’s surface down to the body are damaged or die, and because the fibers controlling the legs run closest to the ventricles, the signature result is spastic diplegia, the stiff-legged form of cerebral palsy. PVL is the most common serious brain injury of premature infants and the leading cause of cerebral palsy in babies born early."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "Michigan’s preterm birth rate was 10.7 percent in 2024, worse than the year before and worse than the national rate of 10.4 percent; in Detroit it was 16.6 percent. Of Michigan’s 99,420 births that year, more than 10,000 babies were born before 37 weeks, and the ones born before 32 weeks, the babies at real risk of PVL, spent weeks or months in a neonatal intensive care unit where every hour of their care was charted."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "Not every case of PVL is anyone’s fault. A baby born at 25 weeks has a brain that is vulnerable to injury from the ordinary stresses of being outside the womb too soon, and some white matter injury occurs despite careful care. But medicine knows a great deal about what causes PVL and what reduces it. Steroids given to the mother before a preterm delivery, magnesium sulfate given to protect the baby’s brain, antibiotics and prompt delivery for an infected uterus, a ventilator that does not blow off too much carbon dioxide, blood pressure that is kept in range, and a cranial ultrasound done on schedule so the injury is found and the child is treated early: each of these is a standard of care, each is documented, and each is sometimes missed. This page explains what PVL is, how it is diagnosed, the steps before and after birth that reduce it, when a Michigan malpractice claim exists, and the deadline that runs to the child’s tenth birthday."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across Wayne, Oakland, Macomb, and Washtenaw counties. Birth injury cases are handled on contingency: no fee unless we recover money for your family, and the first conversation is free. "
+    },
+    {
+     "t": "strong",
+     "c": [
+      {
+       "t": "placeholder",
+       "kind": "CONFIRM",
+       "v": "the firm handles birth injury cases in-house, and the attorney who leads them"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "sections": [
+  {
+   "id": "prematurity-and-pvl-in-michigan-the-numbers",
+   "heading": "Prematurity and PVL in Michigan: the numbers",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Measure"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Figure"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Source"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "Live births, Michigan, 2024"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "99,420"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MDHHS"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Preterm birth rate, Michigan, 2024"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "10.7% (U.S.: 10.4%)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "March of Dimes, from CDC natality data"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Preterm birth rate, Detroit, 2024"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "16.6%"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Same"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Infant mortality, babies of Black mothers, Michigan"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "2.1 times the state rate"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Same"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Gestational ages at highest risk of PVL"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Below 32 weeks; especially below 30 weeks"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "NINDS; AAP"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Infants routinely screened by cranial ultrasound"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Born at or before 30 weeks; older infants with risk factors"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "AAP 2020 clinical report"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Recommended screening schedule"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "First scan at 7 to 10 days; repeat at 4 to 6 weeks; repeat at 36 to 40 weeks corrected age or before discharge"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Same"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Cerebral palsy prevalence, U.S. children"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "About 2.4 per 1,000"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "CDC ADDM, 2026"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Michigan malpractice cap, 2026, higher tier"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$1,065,000 non-economic; economic damages uncapped"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.1483"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Child’s deadline for a Michigan malpractice claim (injury before age 8)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "The child’s 10th birthday"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5851(7)"
+        }
+       ]
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-pvl-is-and-the-two-forms-it-takes",
+   "heading": "What PVL is, and the two forms it takes",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Between about 23 and 32 weeks of gestation, the cells that will become the brain’s white matter, the pre-oligodendrocytes that insulate nerve fibers, are at their most vulnerable. They sit in a region with a poor blood supply, and they are damaged by two things above all: a shortage of oxygen and blood flow, and inflammation. When either happens, the white matter beside the ventricles is injured."
+      }
+     ]
+    },
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Form"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "What it is"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "How it is seen"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Outcome"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Cystic PVL"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Areas of white matter die and liquefy, leaving fluid-filled cysts"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Cysts appear on cranial ultrasound two to six weeks after the injury; an early scan can be normal"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Strongly associated with spastic diplegia or quadriplegia and with visual impairment; now less common than it once was"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Diffuse white matter injury"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "v": " (non-cystic PVL)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Widespread injury to the developing white matter without cysts; the ventricles enlarge as the surrounding tissue fails to grow"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Often missed on ultrasound; seen on MRI at term-equivalent age as abnormal signal and reduced white matter volume"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "The common form today; associated with cerebral palsy, cognitive and learning disability, attention problems, and visual-processing impairment"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "PVL is often confused with "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "intraventricular hemorrhage"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " (IVH), bleeding into the ventricles, which is also an injury of prematurity and is graded I through IV. The two frequently occur together, and a grade IV hemorrhage (bleeding into the brain tissue itself) causes white matter injury of its own. The cranial ultrasound report will say which the baby has."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-causes-pvl-and-what-prevents-it",
+   "heading": "What causes PVL, and what prevents it",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The causes of PVL are known, and so are the measures that reduce them. The table is organized the way a case is: by what the standard of care required and where the record shows it."
+      }
+     ]
+    },
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Cause"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Preventive standard"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Where the record shows it"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Delivery before 34 weeks"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Antenatal corticosteroids (betamethasone) given to the mother when preterm delivery is anticipated between 24 and 34 weeks; they mature the lungs and reduce brain hemorrhage and death"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Prenatal and labor records: was the mother admitted in time, and were steroids ordered and given"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Delivery before 32 weeks"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Magnesium sulfate given to the mother before delivery for fetal neuroprotection; it reduces the rate of cerebral palsy in survivors"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Labor medication record"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Infection and inflammation"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "v": " (chorioamnionitis, preterm premature rupture of membranes, maternal fever, neonatal sepsis, necrotizing enterocolitis)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Antibiotics for PPROM; treatment of chorioamnionitis and timely delivery; group B strep prophylaxis; prompt evaluation and treatment of the newborn for sepsis"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Maternal temperatures and white counts; antibiotic timing; cultures; NICU sepsis workups"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Low carbon dioxide from over-ventilation"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "v": " (hypocarbia)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "A ventilated preterm infant’s carbon dioxide is kept within a target range; low carbon dioxide constricts the brain’s blood vessels, and prolonged hypocarbia is a well-documented risk factor for PVL"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "NICU blood gas results and ventilator settings, hour by hour"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Low blood pressure and poor perfusion"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "v": " (hypotension, patent ductus arteriosus, apnea and bradycardia)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Blood pressure monitored and treated; a significant PDA evaluated and managed; apnea treated"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "NICU flowsheets; echocardiogram; medication record"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Low blood sugar"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Glucose monitored and treated"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Glucose checks and timing"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Birth asphyxia in a preterm infant"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "The same monitoring and delivery standards as any labor; see our "
+        },
+        {
+         "t": "link",
+         "href": "about:blank",
+         "c": [
+          {
+           "t": "text",
+           "v": "fetal distress"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "v": " and "
+        },
+        {
+         "t": "link",
+         "href": "about:blank",
+         "c": [
+          {
+           "t": "text",
+           "v": "birth asphyxia"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "v": " pages"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Fetal monitoring archive; cord gases"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Delivery at the wrong hospital"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "A mother in preterm labor before about 32 weeks should be transferred, when safe, to a hospital with a Level III or IV NICU before delivery rather than the baby transferred after"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Transfer decisions and timing; the delivering hospital’s NICU level"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Failure to screen and diagnose"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Cranial ultrasound at 7 to 10 days, 4 to 6 weeks, and term-equivalent age for infants at or below 30 weeks; MRI where indicated; referral to early intervention and follow-up clinics"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "NICU imaging orders and reports; discharge summary; follow-up referrals"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "ATTORNEY CHECK",
+         "v": "ACOG Committee Opinion 713 (antenatal corticosteroids), 455 (magnesium sulfate neuroprotection), Practice Bulletin 217 (PPROM); AAP 2020 neuroimaging report, for medical consultant review"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The two interventions in the first rows matter most in litigation, because they are simple, cheap, and specifically recommended. A mother who arrived at a Michigan hospital at 28 weeks with contractions, was observed for a day, and delivered without ever receiving betamethasone or magnesium has a chart in which the omission is visible on a single page."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "how-pvl-is-diagnosed",
+   "heading": "How PVL is diagnosed",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "PVL does not announce itself. A premature infant with PVL may look no different in the NICU from one without it. The diagnosis comes from imaging, and the timing of the imaging is part of the standard of care."
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Cranial ultrasound"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " through the soft spot is the screening test. The AAP recommends it for every infant born at or before 30 weeks: a first scan at 7 to 10 days, a repeat at 4 to 6 weeks because that is when cysts become visible, and a final scan at 36 to 40 weeks corrected age or before discharge. Infants born between 30 and 34 weeks are scanned if they had a complicated course."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "MRI at term-equivalent age"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " is more sensitive than ultrasound for diffuse white matter injury and is increasingly used for the smallest and sickest infants. An MRI report that describes “periventricular white matter signal abnormality,” “ventriculomegaly,” or “reduced white matter volume” is describing PVL even if it does not use the word."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Clinical signs"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " come later: stiff legs, scissoring, toe-walking, delayed sitting and walking, eye movement abnormalities, and developmental delay, usually recognized between six and eighteen months."
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The diagnosis matters legally in two ways. A baby who was never scanned, or scanned once at a week of age and declared normal, may have had PVL that went undiagnosed until cerebral palsy was obvious, delaying the early intervention that improves outcomes. And the imaging dates the injury: cysts seen at four weeks reflect an insult two to six weeks earlier, which places it in a specific window of the NICU course, or in labor, and lets the experts match it to what the chart shows was happening then."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-pvl-does-to-a-child",
+   "heading": "What PVL does to a child",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The outcomes depend on how much white matter was injured and where:"
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Spastic diplegia"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", the stiff-legged cerebral palsy that is PVL’s signature, is the most common. Severe cystic PVL can produce spastic quadriplegia. Our "
+       },
+       {
+        "t": "link",
+        "href": "about:blank",
+        "c": [
+         {
+          "t": "text",
+          "v": "cerebral palsy page"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " covers the diagnosis, GMFCS levels, and what a child will need."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Cortical visual impairment and strabismus"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", because the visual pathways run through the injured region."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Cognitive and learning disability, attention problems, and language delay"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", particularly with diffuse injury."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Epilepsy"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", in a minority."
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The CDC’s surveillance finds cerebral palsy in about 2.4 of every 1,000 American eight-year-olds; children born very preterm account for a large share of them, and PVL is the usual mechanism."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "when-pvl-is-a-michigan-malpractice-case",
+   "heading": "When PVL is a Michigan malpractice case",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Michigan requires proof of the standard of care, a breach, causation more probable than not, and damages, MCL 600.2912a, through experts who practice the same specialty as the defendant, MCL 600.2169. In a PVL case the defendants are often in two places, and the experts must match both:"
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The obstetric side"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": whether preterm labor, PPROM, or infection was recognized and managed; whether steroids and magnesium were given; whether the mother was transferred to a hospital with the right NICU; how the delivery was managed. The experts are a board-certified obstetrician or maternal-fetal medicine specialist and a labor nurse."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The NICU side"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": ventilation and blood gas management, blood pressure, infection, the PDA, nutrition, and whether the cranial ultrasounds were done on schedule and read correctly. The experts are a neonatologist, a NICU nurse, and a pediatric neuroradiologist."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Causation"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": a pediatric neurologist and neuroradiologist who tie the imaging, its timing, and the pattern of injury to the events in the chart. The defense’s theme in every PVL case is that prematurity itself caused the injury and nothing could have changed it. The answer is specific: the omitted steroid or magnesium dose, the blood gas log showing hours of hypocarbia, the blood pressures that were charted and not treated, the fever that was not treated for twelve hours."
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Michigan’s lost-opportunity rule, MCL 600.2912a(2), applies to claims alleging that negligence reduced the patient's opportunity to survive or achieve a better result, subject to the statute's greater-than-50% requirement. A claim involving delayed treatment may instead proceed under traditional malpractice causation principles when the evidence supports that theory."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "who-is-liable",
+   "heading": "Who is liable",
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The hospital"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", for its NICU nurses, respiratory therapists, and resident physicians, and for its own systems: whether its NICU was staffed and equipped for the babies it chose to keep rather than transfer."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The neonatologist"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " and the neonatology group, which at many Michigan hospitals is a contracted practice rather than hospital employees."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The obstetrician, maternal-fetal medicine specialist, or midwife"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " and their practice, for the prenatal and labor decisions."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The hospital, for non-employee physicians"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", under "
+       },
+       {
+        "t": "em",
+        "c": [
+         {
+          "t": "text",
+          "v": "Grewe v Mt Clemens General Hospital"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " (1978) and "
+       },
+       {
+        "t": "em",
+        "c": [
+         {
+          "t": "text",
+          "v": "Markel v William Beaumont Hospital"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " (2022), when the family reasonably looked to the hospital, which is the usual case for a NICU team the parents never chose."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "State university hospitals"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", in the Court of Claims, where the claim or a qualifying notice of intention generally must be filed within six months, MCL 600.6431. Several of Michigan’s highest-level NICUs are university hospitals, and the six-month clock runs from the event, not from the diagnosis of cerebral palsy a year later."
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Michigan retains joint and several liability in medical malpractice where the plaintiff was without fault, MCL 600.6304(6)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-the-child-can-recover",
+   "heading": "What the child can recover",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Economic damages are uncapped"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ": physical, occupational, speech, and vision therapy; orthopedic surgery and bracing; adaptive equipment; attendant care; educational support; lost earning capacity; and the parents’ lost wages for care. For a child with spastic diplegia who will walk with assistance, the life care plan is substantial; for a child with quadriplegia, it is the largest component of the case."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Non-economic damages"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " are capped under MCL 600.1483, at $596,400 or $1,065,000 for 2026. The higher cap applies where a brain or spinal cord injury causes qualifying hemiplegia, paraplegia, or quadriplegia resulting in total permanent functional loss of one or more limbs, or where permanent cognitive impairment prevents independent responsible life decisions and normal daily activities. A child with severe PVL may qualify if these statutory requirements are met; a child with mild diplegia who retains functional use of the affected limbs may be limited to the lower cap. Settlements for a minor require court approval under MCR 2.420 and are structured through a special needs trust to preserve Medicaid and SSI."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "michigans-procedure-and-deadlines",
+   "heading": "Michigan’s procedure and deadlines",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Step"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Rule"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Where it comes from"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "Child’s deadline (injury before 8th birthday)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Any time before the child’s 10th birthday"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5851(7)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Parents' independently recoverable malpractice claims Generally two years from the malpractice, subject to the six-month discovery provision and other applicable rules."
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Two years from the malpractice, six-month discovery rule"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5805(8), 600.5838a "
+        },
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "placeholder",
+           "kind": "ATTORNEY CHECK",
+           "v": ""
+          }
+         ]
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Notice of intent"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Served on every defendant 182 days before suit"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.2912b"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Affidavit of merit"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Filed with the complaint"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.2912d"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Expert qualifications"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Same specialty and board certification"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.2169"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Lost-opportunity claims"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Opportunity must have exceeded 50 percent"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.2912a(2)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "State university hospitals"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Court of Claims; six-month notice"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.6431"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Non-economic caps, 2026"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$596,400 / $1,065,000"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.1483"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Settlement for a minor"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Court approval"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCR 2.420"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Medical records"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Complete record; retention seven years"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 333.20175"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "A NICU stay generates thousands of pages, and the records that decide a PVL case, the hourly blood gases and ventilator settings, are the ones most likely to exist only in the electronic system. Request them by name, and request them before the child’s seventh birthday."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-to-do-if-your-premature-baby-has-pvl",
+   "heading": "What to do if your premature baby has PVL",
+   "blocks": [
+    {
+     "t": "ol",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Get the imaging reports and the images"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": every cranial ultrasound and any MRI, with dates. The dates are evidence."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Request the complete records for both patients"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": the mother’s prenatal and labor record, including the medication record showing whether betamethasone and magnesium were given, and the baby’s full NICU record, including blood gases, ventilator flowsheets, vital signs, cultures, and medication records, in electronic form."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Ask the NICU, in writing, for the discharge summary and the developmental follow-up plan."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Every very preterm infant should be referred to a NICU follow-up clinic and to Early On."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Enroll in Early On"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " (1-800-327-5966), Michigan’s free early intervention program, as soon as the baby is home. Early therapy improves outcomes and does not depend on any lawsuit."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Keep a simple record of milestones"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " with dates and short videos."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Call a lawyer when PVL is diagnosed, not when cerebral palsy is."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " The child’s deadline is the tenth birthday, but a university hospital’s six-month notice and the parents’ two-year clock run from the NICU stay, and the records are easiest to obtain now."
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "why-metro-detroit-families-call-atlaw-for-pvl-cases",
+   "heading": "Why metro Detroit families call ATLAW for PVL cases",
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Thirteen years, more than 10,000 cases, more than $100 million recovered."
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "An honest first answer."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " We have the imaging and the NICU record read before we tell a family whether the injury was preventable. Prematurity injures some babies despite good care, and when the record shows that, we say so. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": ""
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The experts a PVL case requires"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": obstetrics and maternal-fetal medicine, neonatology, NICU nursing, pediatric neurology, pediatric neuroradiology, life care planning, and economics. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": "expert network"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The records requested by name"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", including the electronic blood gas and ventilator data, with a preservation letter on retention. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": ""
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Both the obstetric and the NICU claims, and both deadlines"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", calendared."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Settlements structured to protect the child’s benefits."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": "  "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": "special needs planning coordination"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Dearborn, and the whole metro area."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Families come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": "home, hospital, and NICU visits"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Languages."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "No fee unless we recover."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Contingency fee ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs. No cost for the first conversation."
+       }
+      ]
+     ]
+    }
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "My baby was born at 26 weeks and has PVL. Isn’t that just what happens to very premature babies?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Sometimes. White matter injury is a risk of extreme prematurity even with careful care. But the risk is reduced by specific, documented steps before and after birth: antenatal steroids, magnesium sulfate, infection control, ventilation that avoids low carbon dioxide, and blood pressure management. Whether those steps were taken is in the chart, and that is the question we answer."
+    }
+   ]
+  },
+  {
+   "question": "What are “steroids” and “magnesium,” and why does it matter whether my doctor gave them?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Betamethasone given to a mother expected to deliver between 24 and 34 weeks matures the baby’s lungs and reduces brain hemorrhage and death. Magnesium sulfate given before delivery under 32 weeks reduces the rate of cerebral palsy. Both are recommended by ACOG and both are routine. A mother who was in the hospital long enough to receive them and did not is entitled to ask why."
+    }
+   ]
+  },
+  {
+   "question": "The NICU said the ultrasound at one week was normal. How does my baby have PVL?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Because the cysts of PVL take two to six weeks to appear. That is why the AAP recommends a repeat scan at four to six weeks and another at term-equivalent age. If your baby was scanned only once, ask whether the later scans were done."
+    }
+   ]
+  },
+  {
+   "question": "What is the difference between PVL and a brain bleed?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "A brain bleed (intraventricular hemorrhage) is bleeding into the ventricles, graded I through IV. PVL is injury to the white matter around the ventricles from poor blood flow or inflammation. They often occur together, and the ultrasound report will describe both."
+    }
+   ]
+  },
+  {
+   "question": "Will my child have cerebral palsy?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "PVL is the most common cause of cerebral palsy in premature infants, and cystic PVL in particular is strongly associated with spastic diplegia. Diffuse injury has a wider range of outcomes, including learning and attention problems without motor disability. Your child’s neurologist and the term-equivalent MRI are the best guide."
+    }
+   ]
+  },
+  {
+   "question": "How long do we have?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "The child’s claim is open until the tenth birthday for an injury before age eight. The parents’ own claims run two years. A university hospital requires notice within six months of the event. The 182-day notice of intent precedes every suit, and records must be requested before the hospital’s seven-year retention period ends."
+    }
+   ]
+  },
+  {
+   "question": "We were at a small hospital and the baby was transferred after birth. Does that matter?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "It can. The standard of care favors transferring the mother before delivery to a hospital with a Level III or IV NICU when preterm delivery is expected and transfer is safe. A baby born at 28 weeks at a hospital without a NICU and transported afterward has spent his most vulnerable hours without the care he needed."
+    }
+   ]
+  },
+  {
+   "question": "What is a PVL case worth?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "It depends on the extent of the injury and what the child will need. Economic damages are uncapped; the life care plan for a child with cerebral palsy from PVL is commonly in the millions. Non-economic damages are capped at $596,400 or $1,065,000 for 2026. We do not quote figures before the records and a life care plan are in hand."
+    }
+   ]
+  },
+  {
+   "question": "Is the neonatologist employed by the hospital?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Often not; neonatology at many Michigan hospitals is a contracted group. That affects who is named, and it is why "
+    },
+    {
+     "t": "em",
+     "c": [
+      {
+       "t": "text",
+       "v": "Grewe"
+      }
+     ]
+    },
+    {
+     "t": "text",
+     "v": " and "
+    },
+    {
+     "t": "em",
+     "c": [
+      {
+       "t": "text",
+       "v": "Markel"
+      }
+     ]
+    },
+    {
+     "t": "text",
+     "v": " matter: the hospital may still be liable for a physician the family reasonably looked to it to provide."
+    }
+   ]
+  },
+  {
+   "question": "What does it cost?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Nothing up front. The firm advances the cost of experts and recovers it only from a settlement or verdict."
+    }
+   ]
+  }
+ ],
+ "cta": {
+  "id": "talk-to-a-michigan-periventricular-leukomalacia-lawyer",
+  "heading": "Talk to a Michigan periventricular leukomalacia lawyer",
+  "blocks": [
+   {
+    "t": "p",
+    "c": [
+     {
+      "t": "text",
+      "v": "If your premature baby was diagnosed with PVL anywhere in Michigan, call "
+     },
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "text",
+        "v": "(313) 406-7606"
+       }
+      ]
+     },
+     {
+      "t": "text",
+      "v": " or send the form on this page. We obtain and preserve the complete maternal and NICU records including the imaging and the electronic blood gas and ventilator data, have them reviewed by the specialists the case requires, and tell you whether the injury was preventable and what your child’s claim is worth. We respond within one business day, and there is no fee unless we recover money for your family."
+     }
+    ]
+   }
+  ]
+ },
+ "wordCount": 3417,
+ "openItems": 8,
+ "source": {
+  "file": "B2-11_Michigan-Periventricular-Leukomalacia-Lawyer.docx",
+  "delivered": "2026-10-16"
+ }
+}

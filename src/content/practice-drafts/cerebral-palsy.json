@@ -1,0 +1,2059 @@
+{
+ "slug": "cerebral-palsy",
+ "section": "personal-injury",
+ "status": "draft",
+ "seoTitle": "Michigan Cerebral Palsy Lawyer – Was Your Child’s CP Preventable?",
+ "seoDescription": "Most cerebral palsy is not malpractice. Some is. How Michigan cases tell the difference: CP types, the MRI, the birth records, the 10th-birthday deadline, the 2026 caps, and protecting your child’s Medicaid. Free review.",
+ "h1": "Cerebral Palsy Lawyer Michigan",
+ "tagline": "Cerebral palsy is a lifelong diagnosis. Whether it was preventable is a question the birth records can usually answer.",
+ "primaryKeyword": "cerebral palsy lawyer michigan",
+ "secondaryKeywords": [
+  "michigan cerebral palsy lawyer",
+  "cerebral palsy attorney michigan",
+  "detroit cerebral palsy lawyer",
+  "cerebral palsy lawsuit",
+  "cerebral palsy malpractice",
+  "cerebral palsy settlement michigan"
+ ],
+ "intro": [
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "Cerebral palsy is a group of permanent disorders of movement and posture caused by damage to the developing brain, before, during, or shortly after birth. It is the most common motor disability of childhood. The CDC’s newest surveillance, published in June 2026 from 2022 data, found about 2.4 of every 1,000 eight-year-olds and 2.2 of every 1,000 four-year-olds living with cerebral palsy. Applied to Michigan’s 99,420 births in 2024, that is roughly 220 to 240 children in every Michigan birth year who will grow up with CP."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "Most of them were not injured by a doctor. Cerebral palsy has many causes, and in a large share of cases the cause is prenatal, genetic, or never identified. The medical profession’s own guidance, the ACOG and AAP report on neonatal encephalopathy, is clear that oxygen deprivation during labor accounts for a minority of cerebral palsy. A law firm that tells every family their child’s CP was malpractice is not being honest with them."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "But a minority of 220 is still dozens of Michigan children a year, and for those children the cause is in the chart: a fetal heart tracing that showed distress for an hour before anyone acted, a cesarean that was ordered and then delayed, a bilirubin level that was never treated, a group B strep culture that was never followed up, a premature infant whose blood pressure and oxygen were not managed. For those families, cerebral palsy is the result of a preventable birth injury, and Michigan law allows the child to recover the cost of a lifetime of care. This page explains the types of CP and what each tends to say about its cause, how a Michigan case proves preventability, who is liable, what the child can recover under the 2026 caps, the deadline that runs to the child’s tenth birthday, and how a settlement is structured so it does not cost your child Medicaid."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across Wayne, Oakland, Macomb, and Washtenaw counties. Cerebral palsy cases are handled on contingency: no fee unless we recover money for your family, and the first conversation is free. "
+    },
+    {
+     "t": "strong",
+     "c": [
+      {
+       "t": "placeholder",
+       "kind": "CONFIRM",
+       "v": "the firm handles birth injury cases in-house, and the attorney who leads them"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "sections": [
+  {
+   "id": "cerebral-palsy-the-numbers",
+   "heading": "Cerebral palsy: the numbers",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Measure"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Figure"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Source"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "Live births, Michigan, 2024"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "99,420"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MDHHS"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "CP prevalence, U.S. 8-year-olds, 2022"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "About 2.4 per 1,000"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "CDC ADDM Network, "
+        },
+        {
+         "t": "em",
+         "c": [
+          {
+           "t": "text",
+           "v": "Pediatrics Open Science"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "v": ", June 2026"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "CP prevalence, U.S. 4-year-olds, 2022"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "About 2.2 per 1,000"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Same"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Share of children with CP who have the spastic type"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "More than 72% (2022); 82.9% (2010)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "CDC"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Children with CP who walk independently"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "About 58%"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "CDC"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Children with CP who also have epilepsy"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "About 42%"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "CDC, 2010 ADDM"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Children with CP who also have autism spectrum disorder"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "About 7.5%"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "CDC, 2010 ADDM"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Lifetime cost of care, one person with CP"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Nearly $1 million in 2003 dollars, before inflation; medical care is a small share, lost productivity and non-medical costs the majority"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "CDC"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Michigan malpractice cap, 2026, higher tier"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$1,065,000 non-economic; economic damages uncapped"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.1483"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Child’s deadline for a Michigan malpractice claim (injury before age 8)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "The child’s 10th birthday"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5851(7)"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The CDC’s own cost figure is more than twenty years old; in today’s dollars it is well above $1.5 million, and for a child with spastic quadriplegia who will need attendant care for life, a life care plan commonly runs into eight figures. The cost table is why cerebral palsy cases are among the largest in Michigan malpractice law, and why the hospital’s insurer defends them hardest."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-types-of-cerebral-palsy-and-what-each-tends-to-say-about-cause",
+   "heading": "The types of cerebral palsy, and what each tends to say about cause",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Cerebral palsy is classified two ways: by the kind of movement problem, and by which limbs are affected. Both matter in a lawsuit, because different patterns of brain injury have different causes, and the type of CP a child has is often the first clue to whether the injury was preventable."
+      }
+     ]
+    },
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Type"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "What it looks like"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Where the brain injury usually is"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Causes often associated with it"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Spastic"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "v": " (more than 72% of cases)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Stiff, tight muscles; exaggerated reflexes; scissoring gait"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Motor cortex and white matter"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Oxygen deprivation at term (HIE); periventricular leukomalacia in premature infants; stroke"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Dyskinetic"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "v": " (athetoid, dystonic)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Involuntary, writhing or jerky movements; trouble controlling posture"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Basal ganglia and thalamus"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Severe acute oxygen deprivation at term; "
+        },
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "kernicterus from untreated jaundice"
+          }
+         ]
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Ataxic"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Poor balance and coordination; shaky, imprecise movements"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Cerebellum"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "More often prenatal or genetic"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Mixed"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Features of more than one type"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Multiple areas"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Varies"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "By limbs involved: "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "hemiplegia"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " (one side of the body, often from a perinatal stroke), "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "diplegia"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " (mainly the legs, the classic pattern after premature birth and periventricular leukomalacia), and "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "quadriplegia"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " (all four limbs, usually with the most severe brain injury and the highest care needs)."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Severity is graded on the "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Gross Motor Function Classification System (GMFCS)"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ", levels I through V. A child at level I walks without limitation; at level III walks with a hand-held device; at level V is transported in a wheelchair and has limited control of head and trunk. GMFCS level is what a life care planner builds the plan around, and it is what the defense tries to argue down."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "when-cerebral-palsy-is-a-birth-injury",
+   "heading": "When cerebral palsy is a birth injury",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The question in every case is whether something a doctor, nurse, or hospital did or failed to do caused the brain injury that caused the CP. The patterns below are the ones that recur in Michigan birth injury litigation."
+      }
+     ]
+    },
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Preventable event"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "How it causes CP"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "What in the records shows it"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "Fetal distress not recognized or not acted on"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Prolonged oxygen deprivation during labor (HIE)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Fetal heart tracing (Category II or III patterns, late decelerations, loss of variability); nursing notes; time between concerning tracing and delivery"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Delayed cesarean"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Same; the “decision to incision” interval"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Order time vs. incision time; operating room log; anesthesia record"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Uterine rupture, placental abruption, cord prolapse, or shoulder dystocia with delayed response"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Acute, severe oxygen deprivation"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Delivery note; cord blood gases (pH below 7.0, base deficit 12 or more); Apgar scores; need for resuscitation"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Misused Pitocin or Cytotec"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Uterine hyperstimulation reduces oxygen between contractions"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Medication administration record; contraction frequency on the tracing"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Untreated newborn jaundice"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Bilirubin crosses into the brain (kernicterus), causing dyskinetic CP and hearing loss"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Bilirubin levels and nomogram; discharge timing; whether phototherapy or exchange transfusion was given"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Untreated maternal infection (group B strep, chorioamnionitis)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Neonatal sepsis or meningitis injures the brain"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "GBS culture result; antibiotic timing; maternal fever in labor"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Premature infant mismanaged"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Periventricular leukomalacia or intraventricular hemorrhage"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "NICU flowsheets: blood pressure, oxygen, ventilation, head ultrasounds"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Neonatal hypoglycemia not treated"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Low blood sugar injures the occipital and parietal brain"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Glucose checks and timing, especially in infants of diabetic mothers"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Delayed or no therapeutic hypothermia after HIE"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Loss of the one treatment that reduces CP after birth asphyxia"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Time of birth vs. time cooling began; eligibility criteria charted"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Several of these are the subject of their own pages: "
+      },
+      {
+       "t": "link",
+       "href": "about:blank",
+       "c": [
+        {
+         "t": "text",
+         "v": "birth asphyxia and HIE"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ", "
+      },
+      {
+       "t": "link",
+       "href": "about:blank",
+       "c": [
+        {
+         "t": "text",
+         "v": "fetal distress and hypoxia"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ", and "
+      },
+      {
+       "t": "link",
+       "href": "about:blank",
+       "c": [
+        {
+         "t": "text",
+         "v": "birth injuries generally"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ". Cerebral palsy is often the diagnosis that arrives two years after the event those pages describe."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "how-cerebral-palsy-is-diagnosed-and-why-the-timeline-matters",
+   "heading": "How cerebral palsy is diagnosed, and why the timeline matters",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Cerebral palsy used to be diagnosed at 18 to 24 months, when the child missed motor milestones. That has changed. Under the international guideline published in "
+      },
+      {
+       "t": "em",
+       "c": [
+        {
+         "t": "text",
+         "v": "JAMA Pediatrics"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " in 2017, CP can be accurately diagnosed before six months of corrected age using a neonatal MRI, the General Movements Assessment, and the Hammersmith Infant Neurological Examination together, and early diagnosis is now the standard of care because early intervention improves outcomes. Many Michigan children are still not diagnosed until their second or third year."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The timeline matters legally for two reasons. First, the clock. Michigan gives a child injured before age eight until the tenth birthday to sue (below), so a late diagnosis does not usually cost the child the claim; the parents’ own claims are on a shorter clock. Second, the records. Michigan hospitals are generally required to keep medical records for at least seven years from the date of service, MCL 333.20175(2)(a), and fetal monitoring strips in particular have been lost when families waited. A family whose child has CP should request the complete maternal and newborn records, including the electronic fetal monitoring data, well before the child turns seven, whether or not they have decided to pursue a claim."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "MRI"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " is the center of the case. The pattern of injury dates it and often identifies its cause: a watershed or deep gray matter injury at term points to oxygen deprivation around birth; periventricular leukomalacia points to prematurity; a focal infarct points to stroke; a malformation points to a prenatal cause. A pediatric neuroradiologist’s reading of the MRI is usually the first expert opinion we obtain, because it tells us whether the case is worth the family’s time before anyone spends a year on it."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "proving-the-case",
+   "heading": "Proving the case",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Michigan medical malpractice law requires the family to prove four things: the standard of care that applied to the provider, a breach of it, that the breach more probably than not caused the injury, and damages. In a cerebral palsy case each element has a specialist."
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Standard of care and breach"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": a board-certified obstetrician or maternal-fetal medicine specialist for the physician’s decisions; a labor and delivery nurse for the nursing care; a neonatologist for the NICU. Michigan requires that an expert who testifies about a specialist’s standard of care practice the same specialty, MCL 600.2169, so the experts must match the defendants."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Causation"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": a pediatric neurologist and a pediatric neuroradiologist who tie the MRI pattern and the clinical course to the event in the delivery room. The defense will have its own, and the central dispute in most cases is timing: the hospital argues the injury predates labor; the child’s experts use the ACOG and AAP criteria, the cord gases, the Apgar scores, the onset of seizures, and the MRI to place it during labor and delivery."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Damages"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": a life care planner who prices every item of care for the child’s expected life, an economist who reduces the plan to present value and adds lost earning capacity, and often a vocational expert."
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Michigan’s lost-opportunity rule, MCL 600.2912a(2), applies to claims alleging that negligence reduced the chance of survival or a better result, subject to its greater-than-50% requirement. Where therapeutic hypothermia was delayed or never given after HIE, the claim may instead proceed under traditional malpractice causation principles if the evidence establishes that the negligence more probably than not caused the injury."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "who-is-liable",
+   "heading": "Who is liable",
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The attending physician and practice group."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Obstetricians, family physicians who deliver, and midwives are liable for their own negligence."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The hospital, for its nurses and staff."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Labor and delivery nurses, nurse-midwives, and neonatal staff employed by the hospital make the hospital directly liable for their negligence."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The hospital, for the physician under ostensible agency."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Under "
+       },
+       {
+        "t": "em",
+        "c": [
+         {
+          "t": "text",
+          "v": "Grewe v Mt Clemens General Hospital"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " (1978), as applied by the Michigan Supreme Court in "
+       },
+       {
+        "t": "em",
+        "c": [
+         {
+          "t": "text",
+          "v": "Markel v William Beaumont Hospital"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " (2022) and the Court’s July 2025 order, a hospital can be liable for a physician who is not its employee when the patient reasonably looked to the hospital, not a particular doctor, for care. This is common for a family whose baby was delivered by whichever physician was on call."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "State university hospitals."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " A claim against the University of Michigan or Michigan State University health systems proceeds in the Court of Claims, and MCL 600.6431 requires a notice or claim filed within six months of the event. A delayed CP diagnosis does not extend this period, which is one more reason to act early when a difficult delivery raises concern."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Multiple defendants."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Michigan abolished joint and several liability in most tort cases but retained it in medical malpractice where the plaintiff was without fault, MCL 600.6304(6), so a child injured at birth may collect the full judgment from any liable defendant."
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-the-child-will-need-and-what-michigan-law-pays-for",
+   "heading": "What the child will need, and what Michigan law pays for",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Economic damages are uncapped"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " in Michigan malpractice cases. For a child with cerebral palsy they typically include:"
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "text",
+        "v": "Attendant care, which for a child at GMFCS IV or V means around-the-clock care for life and is the largest item in most plans."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Physical, occupational, and speech therapy, often for decades."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Orthopedic surgery (tendon lengthening, selective dorsal rhizotomy, hip and spine surgery), botulinum toxin injections, baclofen pumps, and the seizure care that 42 percent of children with CP will need."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Wheelchairs, standers, orthotics, communication devices, and the vehicle and home modifications to use them."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Lost earning capacity for the child, and the parents’ lost wages for care."
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Non-economic damages (the child’s pain, loss of function, and loss of the ordinary pleasures of life) are capped under MCL 600.1483.. For 2026 the lower cap is $596,400 and the higher cap $1,065,000. The higher cap applies where the injury resulted in hemiplegia, paraplegia, or quadriplegia causing total permanent functional loss of one or more limbs from brain or spinal cord injury, or permanent cognitive impairment preventing independent responsible life decisions and normal daily activities. A child with severe CP may qualify for the higher cap if these statutory requirements are met; a child with mild hemiplegia who retains functional use of the affected limbs may be limited to the lower cap. The caps are indexed and change each year."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "michigans-procedure-and-deadlines",
+   "heading": "Michigan’s procedure and deadlines",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Step"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Rule"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Where it comes from"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "Child’s deadline (injury before 8th birthday)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Suit may be filed any time before the child’s 10th birthday"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5851(7)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Parents' own claims (qualifying expenses, economic losses, or independent injuries) The existing general two-year limitations statement may remain, subject to the particular claim involved."
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Two years from the malpractice, with a six-month discovery rule; the child’s longer period does not extend the parents’"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5805(8), 600.5838a "
+        },
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "placeholder",
+           "kind": "ATTORNEY CHECK",
+           "v": ""
+          }
+         ]
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Notice of intent"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Written notice to every defendant at least 182 days before suit; tolls the limitation period"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.2912b"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Affidavit of merit"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Filed with the complaint, signed by a qualified expert"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.2912d"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Expert qualifications"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Same specialty and board certification as the defendant"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.2169"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Lost-opportunity claims"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Opportunity for a better result must have exceeded 50 percent"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.2912a(2)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "State university hospitals"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Court of Claims; six-month notice"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.6431"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Non-economic caps, 2026"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$596,400 / $1,065,000; economic damages uncapped"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.1483"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Settlement for a minor"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Court approval required; funds protected by conservatorship, structured settlement, or trust"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCR 2.420"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Medical records"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Patient entitled to the complete record; hospital must retain for seven years"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 333.20175"
+        }
+       ]
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-to-do-if-your-child-has-cerebral-palsy-and-you-believe-the-birth-was-mishandled",
+   "heading": "What to do if your child has cerebral palsy and you believe the birth was mishandled",
+   "blocks": [
+    {
+     "t": "ol",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Request the complete records now"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": the mother’s prenatal and labor records, the electronic fetal monitoring strips, the delivery note, the cord gases, the newborn and NICU records, and all imaging on disc. Ask in writing and keep the request. Records are the one thing that disappears."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Get the child’s current diagnosis in writing"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": the type of CP, GMFCS level, and the most recent MRI report. If the child has never had an MRI, ask the neurologist whether one is indicated."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Write down what you remember"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " of the labor and the first days: who was in the room, what you were told, how long you waited, when the baby first went to the NICU. Memories fade faster than records."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Enroll in the services your child is entitled to regardless of any claim"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", listed below. Nothing about using them affects a lawsuit."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Call a lawyer before the child turns seven"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", not ten. The deadline is the tenth birthday; the records are only required to be kept for seven years."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Do not accept an insurer’s or hospital’s explanation as final."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " “These things happen” and “it was probably genetic” are hypotheses, not findings. The MRI and the strip decide."
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "michigan-services-for-a-child-with-cerebral-palsy",
+   "heading": "Michigan services for a child with cerebral palsy",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "These are available to every Michigan child who qualifies, with or without a lawsuit, and we help families get connected to them while a case is pending."
+      }
+     ]
+    },
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Program"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "What it provides"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Who to contact"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Early On Michigan"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Free early intervention for children birth to three with developmental delays or disabilities; evaluation and a service plan"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "1-800-327-5966 (1-800-EARLY-ON); 1800earlyon.org"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Children’s Special Health Care Services (CSHCS)"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MDHHS program covering specialty care for children with qualifying diagnoses, including cerebral palsy, regardless of family income for most services"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Local county health department; MDHHS"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Special education, birth to 26"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Michigan is a birth-mandate state: eligible children receive special education services from birth through age 25 under state law, longer than federal IDEA requires. Some students who turn 26 during the school year remain eligible through its end."
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Local school district or intermediate school district"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Medicaid and the Children’s Waiver Program"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Home and community-based services for children with severe disabilities who would otherwise need institutional care"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Community mental health agency; MDHHS"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Supplemental Security Income"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Monthly federal benefit for a disabled child in a household meeting income limits"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Social Security Administration"
+        }
+       ]
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "protecting-the-childs-benefits-when-the-case-resolves",
+   "heading": "Protecting the child’s benefits when the case resolves",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "A cerebral palsy settlement in Michigan is approved by the court under MCR 2.420, and how it is structured decides whether the child keeps Medicaid, SSI, and the Children’s Waiver. A lump sum paid to the child or a conservatorship can affect the child’s eligibility for means-tested benefits. Medicaid may also have reimbursement rights against an applicable settlement under MCL 400.106 for medical expenses it paid. The usual solution is a "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "first-party special needs trust"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " under 42 USC 1396p(d)(4)(A), often funded in part by a "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "structured settlement"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " that pays fixed, tax-free amounts for the child’s lifetime. The trust pays for what Medicaid does not: therapies beyond the covered limits, a vehicle, a home, respite care, and quality of life. Where Medicaid has paid qualifying medical expenses, Michigan’s Medicaid agency may assert reimbursement rights against the settlement under MCL 400.106. Any valid claim must be evaluated under applicable state and federal rules. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "CONFIRM",
+         "v": "the firm coordinates special needs trust and structured settlement planning; names of planners used"
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "placeholder",
+         "kind": "ATTORNEY CHECK",
+         "v": "lien and trust statements"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "why-metro-detroit-families-call-atlaw-for-cerebral-palsy-cases",
+   "heading": "Why metro Detroit families call ATLAW for cerebral palsy cases",
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Thirteen years, more than 10,000 cases, more than $100 million recovered."
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "An honest first answer."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " We obtain the MRI and the birth records and have them read before we tell a family whether their child’s CP was preventable. When it was not, we say so. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": ""
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The experts a CP case requires"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": obstetrics and maternal-fetal medicine, labor nursing, neonatology, pediatric neurology, pediatric neuroradiology, life care planning, and economics. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": "expert network"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The records preserved first"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", including the electronic fetal monitoring data, before the seven-year retention period runs. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": ""
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Both the child’s claim and the parents’ claims, with both deadlines calendared."
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Settlements structured to protect Medicaid, SSI, and waiver services."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": "  "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": "special needs planning coordination"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Dearborn, and the whole metro area."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Families come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Languages."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "No fee unless we recover."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Contingency fee ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs. No cost for the first conversation."
+       }
+      ]
+     ]
+    }
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is cerebral palsy always caused by malpractice?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "No. Most cerebral palsy is not. Prenatal causes, genetic conditions, infections, and complications of prematurity that no one could have prevented account for the majority. The question is whether your child’s CP falls in the minority where the birth records show a preventable injury, and that is what the MRI, the fetal monitoring strip, and the cord gases answer."
+    }
+   ]
+  },
+  {
+   "question": "My child was just diagnosed at age two. Is it too late?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "No. For an injury before the child’s eighth birthday, Michigan allows suit until the tenth birthday, MCL 600.5851(7). But request the records now; hospitals are required to keep them for only seven years."
+    }
+   ]
+  },
+  {
+   "question": "My child is nine. Can we still sue?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Possibly. Michigan generally allows a child whose malpractice claim accrued before age eight to file by the tenth birthday, and a properly served notice of intent may toll that period under MCL 600.5856(c). Because the 182-day notice and necessary expert review take time, call immediately. The lawyer will determine what current medical evidence is needed."
+    }
+   ]
+  },
+  {
+   "question": "What is a cerebral palsy case worth in Michigan?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "It depends on the child’s GMFCS level and life expectancy, which drive the life care plan, and on the strength of the causation evidence. Economic damages are uncapped; non-economic damages are capped at $596,400 or $1,065,000 for 2026. Severe CP cases in Michigan commonly resolve in the millions because the cost of lifetime attendant care alone is that large. We do not quote a number before the records and the life care plan are in hand, and no honest lawyer should."
+    }
+   ]
+  },
+  {
+   "question": "Will a settlement cost my child Medicaid or SSI?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Not if it is structured correctly. A first-party special needs trust and a structured settlement preserve means-tested benefits. Court approval under MCR 2.420 is required for any minor’s settlement."
+    }
+   ]
+  },
+  {
+   "question": "The hospital said the injury happened before labor. How do you answer that?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "With the records. The ACOG and AAP criteria for an intrapartum cause include severe acidosis on cord gases, low Apgar scores past five minutes, early seizures or encephalopathy, an MRI pattern consistent with an acute event, and a fetal heart tracing that was normal on admission and deteriorated. If those are present, the timing argument fails. If they are absent, we tell you that too."
+    }
+   ]
+  },
+  {
+   "question": "My baby was born premature and has spastic diplegia. Is that a case?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Sometimes. Prematurity itself is usually not anyone’s fault, but how a premature infant is managed in the NICU, and whether preterm labor or a maternal infection was recognized and treated, can be. Periventricular leukomalacia on the MRI with a NICU course showing unstable blood pressure or oxygen is worth a careful review."
+    }
+   ]
+  },
+  {
+   "question": "My child has dyskinetic CP and hearing loss. What should I look at?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "That combination is the signature of kernicterus, brain injury from untreated newborn jaundice. Ask for the bilirubin results and the discharge timing from the newborn record. Kernicterus is considered a never event in modern neonatal care."
+    }
+   ]
+  },
+  {
+   "question": "Who are the defendants in a CP case?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Typically the delivering physician and practice, and the hospital for its nurses and, under "
+    },
+    {
+     "t": "em",
+     "c": [
+      {
+       "t": "text",
+       "v": "Grewe"
+      }
+     ]
+    },
+    {
+     "t": "text",
+     "v": " and "
+    },
+    {
+     "t": "em",
+     "c": [
+      {
+       "t": "text",
+       "v": "Markel"
+      }
+     ]
+    },
+    {
+     "t": "text",
+     "v": ", often for the physician as well. Michigan retains joint and several liability in malpractice where the plaintiff was without fault, MCL 600.6304(6). State university hospitals are sued in the Court of Claims on a six-month notice."
+    }
+   ]
+  },
+  {
+   "question": "What does it cost?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Nothing up front. Cerebral palsy cases require six or more experts and significant cost; the firm advances those costs and recovers them only from a settlement or verdict."
+    }
+   ]
+  }
+ ],
+ "cta": {
+  "id": "talk-to-a-michigan-cerebral-palsy-lawyer",
+  "heading": "Talk to a Michigan cerebral palsy lawyer",
+  "blocks": [
+   {
+    "t": "p",
+    "c": [
+     {
+      "t": "text",
+      "v": "If your child has cerebral palsy and you have questions about the birth, call "
+     },
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "text",
+        "v": "(313) 406-7606"
+       }
+      ]
+     },
+     {
+      "t": "text",
+      "v": " or send the form on this page. We obtain and preserve the complete maternal and newborn records including the fetal monitoring strip and the MRI, have them reviewed by the specialists the case requires, and tell you whether the injury was preventable and what your child’s claim is worth. We respond within one business day, and there is no fee unless we recover money for your family."
+     }
+    ]
+   }
+  ]
+ },
+ "wordCount": 3740,
+ "openItems": 8,
+ "source": {
+  "file": "B2-07_Michigan-Cerebral-Palsy-Lawyer.docx",
+  "delivered": "2026-10-16"
+ }
+}

@@ -1,0 +1,1425 @@
+{
+ "slug": "ssd-application-process",
+ "section": "disability",
+ "status": "draft",
+ "seoTitle": "How to Apply for Social Security Disability in Michigan – Step by Step (2026)",
+ "seoDescription": "How to apply for SSDI or SSI in Michigan: who qualifies, the 2026 earnings limits, the documents to gather, the three ways to file, what Michigan’s Disability Determination Service does with your claim, how long it takes, and the mistakes that cause denials.",
+ "h1": "How to Apply for Social Security Disability in Michigan",
+ "tagline": "The application you file today sets your filing date, your back pay, and the record the judge will read two years from now. File it like it matters.",
+ "primaryKeyword": "how to apply for social security disability michigan",
+ "secondaryKeywords": [
+  "how to apply for disability in michigan",
+  "how to file for disability in michigan",
+  "michigan disability application",
+  "apply for disability michigan",
+  "social security disability application",
+  "how to apply for ssdi"
+ ],
+ "intro": [
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "About 36 percent of initial Social Security disability applications were approved nationally in fiscal year 2025. The other 64 percent were denied, and most of those denials were not about whether the applicant was disabled. They were about the application: a work history that left out the physical demands of the job, a medical record with a two-year gap no one explained, a condition described in a diagnosis rather than in what it prevents the applicant from doing, a form left half blank. The appeal process exists to fix those applications, and about half of the claimants who reach a hearing win. But a hearing in Michigan is a year or more away, and the application you file now sets your protective filing date, which fixes how far back your benefits reach."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "This page walks through the Michigan application from beginning to end: who qualifies for SSDI and SSI and the 2026 dollar limits, the documents to gather before you start, the three ways to file, what happens to your claim at Michigan’s Disability Determination Service, how long an initial decision takes, the fast-track programs for the most serious conditions, the five-month waiting period and back pay, and the mistakes that produce denials. It also explains what Michigan’s own interim assistance program pays while you wait."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "ATLAW is a Dearborn law firm serving clients for 13 years, with more than 10,000 cases handled. The firm represents Michigan claimants from the initial application forward, not only after a denial. "
+    },
+    {
+     "t": "strong",
+     "c": [
+      {
+       "t": "placeholder",
+       "kind": "CONFIRM",
+       "v": "the firm handles Social Security disability claims in-house from the application stage, and the attorney who leads the practice"
+      }
+     ]
+    },
+    {
+     "t": "text",
+     "v": " There is no fee unless you win, and the fee is set by federal law."
+    }
+   ]
+  }
+ ],
+ "sections": [
+  {
+   "id": "social-security-disability-in-2026-the-numbers",
+   "heading": "Social Security disability in 2026: the numbers",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Measure"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "2026 figure"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Source"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "Substantial gainful activity (the monthly earnings limit), non-blind"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$1,690"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "SSA 2026 COLA fact sheet"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Substantial gainful activity, statutorily blind"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$2,830"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Same"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Trial work period month (after approval)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$1,210"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Same"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Earnings for one work credit"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$1,890"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Same"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "SSI federal payment standard, individual / couple"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$994 / $1,491 per month"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Same"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "SSI resource limit, individual / couple"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$2,000 / $3,000"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Same"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Average SSDI benefit, all disabled workers, January 2026"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$1,630 per month"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Same"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Cost-of-living adjustment for 2026"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "2.8%"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Same"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Initial applications approved, FY 2025"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "About 36%"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "SSA FY 2025 workload data"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "SSDI waiting period"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Five full months after the onset of disability (waived for ALS)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "42 USC 423(c)(2); 20 CFR 404.315"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "SSDI retroactive benefits"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Up to 12 months before the application date"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "20 CFR 404.621"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Medicare eligibility"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "24 months after SSDI entitlement begins"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "42 USC 426(b)"
+        }
+       ]
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "two-programs-one-definition-of-disability",
+   "heading": "Two programs, one definition of disability",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Social Security runs two disability programs, and many Michigan applicants qualify for one, some for both."
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Social Security Disability Insurance (SSDI)"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " is earned through work. You must be “insured”: in general, 40 work credits with 20 earned in the ten years before you became disabled, with fewer credits required for workers under 31. In 2026 one credit is earned for every $1,890 in wages or self-employment income, up to four a year. Your benefit is based on your earnings record; the average in January 2026 is $1,630 a month. Your spouse and children may receive benefits on your record. See our "
+       },
+       {
+        "t": "link",
+        "href": "about:blank",
+        "c": [
+         {
+          "t": "text",
+          "v": "SSDI page"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": "."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Supplemental Security Income (SSI)"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " is based on need, not work history. In 2026 the federal payment is $994 a month for an individual and $1,491 for a couple, reduced by other income, and you must have countable resources under $2,000 ($3,000 for a couple). SSI comes with Medicaid in Michigan. See our "
+       },
+       {
+        "t": "link",
+        "href": "about:blank",
+        "c": [
+         {
+          "t": "text",
+          "v": "SSI page"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": "."
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Both programs use the same definition of disability, set out in 42 USC 423(d): the inability to engage in any substantial gainful activity because of a medically determinable physical or mental impairment that has lasted or is expected to last at least 12 months or to result in death. “Substantial gainful activity” is defined by earnings: in 2026, if you earn more than $1,690 a month from work, you are generally not disabled under the law regardless of your diagnosis. There is no partial disability and no short-term disability in the Social Security system; our "
+      },
+      {
+       "t": "link",
+       "href": "about:blank",
+       "c": [
+        {
+         "t": "text",
+         "v": "long-term disability page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " covers private insurance that fills that gap."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "before-you-apply-what-to-gather",
+   "heading": "Before you apply: what to gather",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Social Security’s own Disability Starter Kit lists what the application asks for. Gathering it first produces a complete application, and a complete application is approved faster and denied less often."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "About you"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " - Social Security number and proof of age (birth certificate) - Proof of citizenship or lawful alien status if you were not born in the United States - Names, dates of birth, and Social Security numbers of your spouse and minor children; dates of marriage and divorce - Bank account routing and account numbers for direct deposit - Military discharge papers (DD-214) for service before 1968"
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "About your work"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " - Last year’s W-2 or, if self-employed, your federal tax return - A list of every job you held in the "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "past five years"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ": employer, dates, hours, pay, and, most important, what the job required you to do physically and mentally. Since June 2024, Social Security looks back only five years for past relevant work and disregards jobs that lasted under 30 days, which makes the description of those five years decisive. - Any workers’ compensation, state disability, or other public disability benefits you receive or have claimed, with claim numbers and award letters"
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "About your medical conditions"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " - The name, address, phone number, and dates of treatment for every doctor, hospital, clinic, and therapist who has treated you - Your medications, dosages, and who prescribed them - Test results you have: imaging, lab work, pulmonary function tests, cardiac studies, neuropsychological testing - A list of your conditions and, for each, what it prevents you from doing in a workday: how long you can sit, stand, and walk; what you can lift; whether you can concentrate, remember instructions, deal with the public, or keep a schedule"
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "You do not need to obtain your medical records yourself; Social Security requests them from the providers you list, using the medical release you sign (Form SSA-827). But every provider you leave off the list is a record Social Security never sees."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "how-to-file-in-michigan",
+   "heading": "How to file in Michigan",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "There are three ways to apply, and all three produce the same application."
+      }
+     ]
+    },
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Method"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "How"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Notes"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Online"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "ssa.gov/apply, any time"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Available for SSDI to adults 18 to 64 who are not currently receiving benefits on their own record and have not been denied in the last 60 days; SSI can be started online and completed by phone. You can save and return. The online application includes the Adult Disability Report (SSA-3368)."
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "By phone"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "1-800-772-1213 (TTY 1-800-325-0778), weekdays"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "A representative takes the application or schedules an appointment; the forms are mailed for signature"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "In person"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "At a Social Security field office, by appointment"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Michigan field offices serve metro Detroit from Detroit, Dearborn, Southfield, Pontiac, Warren, Sterling Heights, Livonia, Ann Arbor, and other locations; call ahead to check office hours and appointment options. Some walk-in service may also be available."
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "A lawyer or appointed representative can file the application for you once you have signed Form SSA-1696 appointing them. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "CONFIRM",
+         "v": "the firm files initial applications for clients"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "The protective filing date."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " A qualifying written statement, online submission, or documented SSI inquiry expressing your intent to apply can establish a protective filing date if you complete the application within SSA’s required period, generally six months for SSDI or 60 days for SSI after the applicable notice. That date, not the date you finish the forms, is the one that determines how far back your benefits reach. Make the contact as soon as you stop working, even if you need weeks to gather the documents. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "ATTORNEY CHECK",
+         "v": "20 CFR 404.630, 416.340"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "The alleged onset date."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " The application asks when your disability began. Choose it carefully: it should be the date you stopped working at the substantial gainful level or the date the medical records show you could no longer do so, whichever is later and supportable. An onset date the records cannot support invites a partially favorable decision with a later onset and less back pay; one that is later than necessary gives up months you were entitled to."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-happens-to-your-claim-michigans-disability-determination-service",
+   "heading": "What happens to your claim: Michigan’s Disability Determination Service",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The field office checks the non-medical requirements, your work credits for SSDI or your income and resources for SSI, and then sends the claim to the "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Disability Determination Service"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ", the Michigan state agency within the Department of Health and Human Services that makes medical decisions for Social Security under federal rules. A disability examiner and a state-agency physician or psychologist review your file. They request your records from every provider you listed, may send you forms about your daily activities (the Function Report, SSA-3373) and ask a friend or relative to complete one, may call you, and, if the records are insufficient, may schedule a "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "consultative examination"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " with a doctor Social Security pays, under 20 CFR 404.1519a. Go to it; a missed consultative exam is grounds for denial."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The examiner then applies the same five-step test every decision-maker uses, 20 CFR 404.1520: whether you are working above the earnings limit, whether your impairment is severe and will last 12 months, whether it meets or equals a Listing, whether you can do your past work, and whether you can do any other work given your age, education, and experience. Our "
+      },
+      {
+       "t": "link",
+       "href": "about:blank",
+       "c": [
+        {
+         "t": "text",
+         "v": "conditions that qualify"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " page explains the Listings; our "
+      },
+      {
+       "t": "link",
+       "href": "about:blank",
+       "c": [
+        {
+         "t": "text",
+         "v": "how to win your disability claim"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " page explains the evidence each step requires."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "How long it takes."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Initial disability decisions often take several months, and SSA’s published guidance describes a typical range of roughly six to eight months. Actual processing times vary by case, state workload, and how quickly medical evidence becomes available. A complete application with every provider listed is decided faster, because the examiner is not waiting on records you forgot to mention."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-fast-tracks",
+   "heading": "The fast tracks",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Three programs move the most serious claims to the front:"
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Compassionate Allowances."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Social Security maintains a list of more than 280 conditions, including many cancers, ALS, early-onset Alzheimer’s, and rare pediatric diseases, that by their nature meet the disability standard. A claim that identifies one of these conditions with a confirming diagnosis is flagged and typically decided in weeks. Our "
+       },
+       {
+        "t": "link",
+        "href": "about:blank",
+        "c": [
+         {
+          "t": "text",
+          "v": "Compassionate Allowances page"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " has the list and what the records must show."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Quick Disability Determination (QDD)."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " A predictive model screens every electronic application for a high probability of allowance and routes those claims for expedited handling."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Terminal illness (TERI)."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Claims involving a terminal condition are expedited at every level."
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Applicants cannot request QDD, but they can make sure the application contains the diagnosis, the specialist, and the test results that trigger it."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-waiting-period-back-pay-and-medicare",
+   "heading": "The waiting period, back pay, and Medicare",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "SSDI benefits do not begin until you have been disabled for "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "five full calendar months"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": "; the first payment is for the sixth month. The waiting period is waived for ALS. SSDI can pay "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "retroactive benefits for up to 12 months before your application date"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " (less the waiting period), which is why a protective filing date matters and why delaying the application costs money that cannot be recovered. SSI has no waiting period but pays nothing for months before the application."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "If your claim is approved after a long process, the accumulated benefits are paid as a lump sum (SSDI) or, for larger SSI amounts, in up to three installments. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Medicare"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " begins 24 months after your SSDI entitlement date, and the months of back pay count toward the 24; a claimant approved after two years of appeals is often eligible for Medicare immediately. SSI recipients in Michigan receive Medicaid."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "michigans-own-program-while-you-wait-state-disability-assistance",
+   "heading": "Michigan’s own program while you wait: State Disability Assistance",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Michigan’s Department of Health and Human Services runs State Disability Assistance (SDA), a cash assistance program for eligible adults who are disabled, age 65 or older, or caring for a disabled person, subject to income, asset, and other program requirements. SDA pays a modest monthly amount, with eligibility determined by MDHHS under its own financial and disability criteria, including qualifying disability benefits or certification of inability to work for at least 90 days. When SSI is later approved, Michigan may receive reimbursement for qualifying SDA payments from past-due SSI under an applicable interim assistance reimbursement authorization, which can reduce the amount paid directly to you. Apply through MI Bridges or a local MDHHS office."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-mistakes-that-cause-denials",
+   "heading": "The mistakes that cause denials",
+   "blocks": [
+    {
+     "t": "ol",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Working above the limit while applying."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Earnings above $1,690 a month in 2026 end the inquiry at step one. Part-time work below the limit is permitted but will be examined."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Leaving out providers."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Every clinic, urgent care, specialist, and therapist you omit is a record the examiner never requests. List them all with dates."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Describing the diagnosis instead of the limitation."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " “Degenerative disc disease” is a diagnosis. “I cannot sit for more than 20 minutes, cannot lift a gallon of milk without pain, and lie down for two hours every afternoon” is a limitation. The application and the Function Report should describe the second."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Gaps in treatment."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " If you stopped seeing doctors because you lost insurance or could not pay, say so in the Remarks section and in the Function Report. An unexplained gap is read as improvement."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "A thin work history."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Describing a job as “warehouse” without the lifting, standing, and pace it required lets the examiner conclude you can still do it."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Inconsistency."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " What you tell the examiner, what you tell your doctors, and what you later tell the judge are compared. Describe your worst days and your average days accurately, and do not minimize to your doctors."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Missing the consultative exam"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " or failing to return the Function Report."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Reapplying instead of appealing."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " If you are denied, you have 60 days to appeal, and appealing preserves your filing date. A new application does not. Our "
+       },
+       {
+        "t": "link",
+        "href": "about:blank",
+        "c": [
+         {
+          "t": "text",
+          "v": "appeals page"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " explains each level."
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "when-to-involve-a-lawyer",
+   "heading": "When to involve a lawyer",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Most people apply on their own, and some are approved. The value of a lawyer at the application stage is in the record: identifying the Listing your condition may meet and obtaining the physician statement that addresses each criterion, describing your past work in the terms the regulations use, setting an onset date the records support, flagging a Compassionate Allowance condition, and making sure nothing is left blank or inconsistent. A lawyer also calendars the deadlines from day one, so that a denial becomes an appeal rather than a lost filing date."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Fees are set by federal law and approved by Social Security: the lesser of 25 percent of your past-due benefits or $9,200, paid from the back pay, and nothing if you do not win. There is no fee on your ongoing benefits and no charge for the first conversation. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "CONFIRM",
+         "v": "fee agreement terms; who pays record-retrieval costs"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "why-michigan-claimants-call-atlaw-to-apply",
+   "heading": "Why Michigan claimants call ATLAW to apply",
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Thirteen years serving clients, more than 10,000 cases."
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Representation from the application, not after the denial."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " The record that wins at a hearing is built in the application. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": ""
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The Listing identified and the physician statement obtained"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " before the claim reaches the examiner. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": "practice"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Every deadline calendared"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " from the protective filing date forward."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Dearborn, and the whole metro area."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": "phone and video consultations"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Languages."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "No fee unless you win"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", federally capped at 25 percent of back pay or $9,200, whichever is less."
+       }
+      ]
+     ]
+    }
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How much can I earn and still apply?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "In 2026, less than $1,690 a month from work ($2,830 if you are blind). Above that, Social Security considers you engaged in substantial gainful activity and will deny the claim at step one regardless of your condition."
+    }
+   ]
+  },
+  {
+   "question": "How many work credits do I need for SSDI?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Generally 40, with 20 earned in the ten years before your disability began. Workers under 31 need fewer. If you have not worked recently enough to be insured, SSI may be available instead."
+    }
+   ]
+  },
+  {
+   "question": "Should I apply for SSDI or SSI?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Apply for both if your work record is uncertain or your SSDI benefit would be low; Social Security will determine eligibility for each. Many Michigan claimants receive a small SSDI benefit supplemented by SSI."
+    }
+   ]
+  },
+  {
+   "question": "How long does an initial decision take in Michigan?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Several months; SSA’s national averages have run roughly six to eight months. Complete applications with every provider listed are decided faster. Compassionate Allowance and terminal-illness claims are decided in weeks."
+    }
+   ]
+  },
+  {
+   "question": "When should I apply?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "As soon as you stop working because of your condition, or as soon as it is clear the condition will last 12 months. Waiting costs back pay, because SSDI reaches back only 12 months before the application and SSI not at all."
+    }
+   ]
+  },
+  {
+   "question": "What if I am still working part-time?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "You may apply if your earnings are below the substantial gainful activity limit. Social Security will examine the work closely, including whether it is subsidized or an unsuccessful work attempt."
+    }
+   ]
+  },
+  {
+   "question": "Do I need my medical records before I apply?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "No. List every provider with dates and sign the release; Social Security requests the records. But having your own copies lets you check that nothing was missed and gives your lawyer the file to work from."
+    }
+   ]
+  },
+  {
+   "question": "I receive workers’ compensation. Can I still apply?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Yes. SSDI may be reduced so that combined benefits do not exceed 80 percent of your pre-disability earnings, under 20 CFR 404.408, and the application asks for your workers’ compensation information. "
+    },
+    {
+     "t": "strong",
+     "c": [
+      {
+       "t": "placeholder",
+       "kind": "ATTORNEY CHECK",
+       "v": "Michigan offset rules"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "question": "What is State Disability Assistance?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Michigan’s cash assistance program for disabled adults who are not yet receiving SSI. It is paid while the Social Security claim is pending and reimbursed to the state from the first SSI payment."
+    }
+   ]
+  },
+  {
+   "question": "What does a lawyer cost at the application stage?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "The same as at any stage: nothing unless you win, and then the lesser of 25 percent of your back pay or $9,200, approved and paid by Social Security."
+    }
+   ]
+  }
+ ],
+ "cta": {
+  "id": "talk-to-a-michigan-disability-lawyer-before-you-apply",
+  "heading": "Talk to a Michigan disability lawyer before you apply",
+  "blocks": [
+   {
+    "t": "p",
+    "c": [
+     {
+      "t": "text",
+      "v": "If you are preparing to apply for Social Security disability anywhere in Michigan, call "
+     },
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "text",
+        "v": "(313) 406-7606"
+       }
+      ]
+     },
+     {
+      "t": "text",
+      "v": " or send the form on this page. We identify the program and the Listing that fit your condition, build the medical record before the examiner sees it, file the application with your protective filing date secured, and calendar every deadline from that day forward. We respond within one business day, and there is no fee unless you win."
+     }
+    ]
+   }
+  ]
+ },
+ "wordCount": 2992,
+ "openItems": 8,
+ "source": {
+  "file": "B2-14_How-to-Apply-Social-Security-Disability-Michigan.docx",
+  "delivered": "2026-10-16"
+ }
+}

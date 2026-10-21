@@ -1,0 +1,1939 @@
+{
+ "slug": "erbs-palsy",
+ "section": "personal-injury",
+ "status": "draft",
+ "seoTitle": "Michigan Erb’s Palsy Lawyer – Brachial Plexus Birth Injury Claims",
+ "seoDescription": "Erb’s palsy after a difficult delivery in Michigan: the four grades of nerve injury, why Horner’s syndrome matters, the 3-month surgical referral window, how the “maternal forces” defense is answered, and the child’s deadline. Free review.",
+ "h1": "Erb’s Palsy Lawyer Michigan",
+ "tagline": "Most brachial plexus injuries heal. The ones that do not are the ones the delivery record has to explain.",
+ "primaryKeyword": "erbs palsy lawyer michigan",
+ "secondaryKeywords": [
+  "erb’s palsy lawyer",
+  "erbs palsy attorney",
+  "brachial plexus injury lawyer",
+  "brachial plexus birth injury lawyer",
+  "erbs palsy lawsuit",
+  "shoulder dystocia lawyer michigan"
+ ],
+ "intro": [
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "Erb’s palsy is weakness or paralysis of a newborn’s arm caused by injury to the brachial plexus, the bundle of nerves that runs from the spinal cord in the neck, under the collarbone, and into the arm. It happens when those nerves are stretched, torn, or pulled out of the spinal cord during delivery, most often when the baby’s shoulder catches behind the mother’s pubic bone after the head is out, the emergency known as shoulder dystocia. The affected arm hangs limp and turned inward, the “waiter’s tip” posture that is often the first sign."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "Neonatal brachial plexus palsy occurs in about 1.5 of every 1,000 births, according to the American College of Obstetricians and Gynecologists’ 2014 task force report, the most thorough review of the subject the profession has produced. Against Michigan’s 99,420 births in 2024, that is roughly 150 Michigan newborns a year. Most recover fully within months. About 15 percent do not: the deficit persists past a year, and the child grows up with a weak, short, or paralyzed arm, a hand that does not open, and a shoulder that dislocates, with surgeries through childhood."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "Whether a permanent brachial plexus injury was preventable is one of the most contested questions in birth injury law, because ACOG’s own report concludes that the forces of labor alone can, in some cases, stretch the nerves enough to injure them. Hospitals rely on that conclusion in every case. It is not the end of the inquiry. The same report says the injury results from excess force, and the delivery record shows how the shoulder dystocia was managed: which maneuvers were used and in what order, how long the head-to-body interval ran, whether anyone pushed on the fundus, whether the known risk factors were acted on before labor, and whether the injury pattern, an avulsion with Horner’s syndrome in a large baby after a documented dystocia, is one that maternal forces alone produce. This page explains the injury, the grades, the timeline for treatment that decides a child’s outcome, how a Michigan case is proved and defended, and the deadline that runs to the child’s tenth birthday."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across Wayne, Oakland, Macomb, and Washtenaw counties. Birth injury cases are handled on contingency: no fee unless we recover money for your family, and the first conversation is free. "
+    },
+    {
+     "t": "strong",
+     "c": [
+      {
+       "t": "placeholder",
+       "kind": "CONFIRM",
+       "v": "the firm handles birth injury cases in-house, and the attorney who leads them"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "sections": [
+  {
+   "id": "brachial-plexus-birth-injury-the-numbers",
+   "heading": "Brachial plexus birth injury: the numbers",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Measure"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Figure"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Source"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "Live births, Michigan, 2024"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "99,420"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MDHHS"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Incidence of neonatal brachial plexus palsy, all births"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "About 1.5 per 1,000"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "ACOG Task Force on NBPP, 2014"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Incidence, vaginal deliveries / cesarean deliveries"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "1.7 per 1,000 / 0.3 per 1,000"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Same"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Erb’s palsy (upper plexus) / Klumpke’s palsy (lower plexus)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "1.2 per 1,000 / 0.05 per 1,000"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Same"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Cases that persist beyond 12 months"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "About 15%"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Same"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Cases that follow a recognized shoulder dystocia"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "At least half; 46% occur without one"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Same"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Estimated fetal weight at which ACOG says cesarean should be offered"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "5,000 g without diabetes; 4,500 g with diabetes"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "ACOG Practice Bulletin 178"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Michigan malpractice cap, 2026"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$596,400 lower tier; $1,065,000 higher tier; economic damages uncapped"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.1483"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Child’s deadline for a Michigan malpractice claim (injury before age 8)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "The child’s 10th birthday"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5851(7)"
+        }
+       ]
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-anatomy-erbs-klumpkes-and-total-plexus-palsy",
+   "heading": "The anatomy: Erb’s, Klumpke’s, and total plexus palsy",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The brachial plexus is formed by five nerve roots, C5 through T1. Which roots are injured determines what the child loses and, often, how severe the injury was."
+      }
+     ]
+    },
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Injury"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Roots"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "What the child cannot do"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Share of cases"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Erb’s palsy"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "v": " (upper)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "C5–C6"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Lift the arm at the shoulder, bend the elbow, turn the palm up; hand usually works"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Most common; best prognosis"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Extended Erb’s"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "C5–C7"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "The above, plus wrist and finger extension (wrist drop)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Common"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Klumpke’s palsy"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "v": " (lower)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "C8–T1"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Open and close the hand, move the fingers; “claw hand”"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Rare in isolation"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Total (global) plexus palsy"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "C5–T1"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "The whole arm is flaccid, including the hand"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Least common; worst prognosis"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Horner’s syndrome"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ", a drooping eyelid, constricted pupil, and absence of sweating on the same side of the face, means the T1 root was injured close to the spinal cord. It is a marker of a severe, usually avulsion-type injury and a poor sign for spontaneous recovery. A pediatrician who sees Horner’s in a newborn with a limp arm should be referring that child to a brachial plexus center, not waiting."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-four-grades-of-nerve-injury-and-why-they-decide-the-case",
+   "heading": "The four grades of nerve injury, and why they decide the case",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Not all brachial plexus injuries are the same injury. Surgeons classify them by what happened to the nerve, and the grade predicts both recovery and, in a lawsuit, how much force was involved."
+      }
+     ]
+    },
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Grade"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "What happened to the nerve"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Recovery"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Treatment"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Neuropraxia"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "v": " (stretch)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Nerve stretched but intact; conduction blocked temporarily"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Usually complete within weeks to three months"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Range-of-motion therapy"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Neuroma"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Nerve torn internally and healed with scar that blocks signals"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Partial; depends on how much signal passes the scar"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Therapy; neuroma excision and grafting if recovery stalls"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Rupture"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Nerve torn apart outside the spinal cord"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Does not recover without surgery"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Nerve grafting, usually between 3 and 9 months of age"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Avulsion"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Nerve root pulled out of the spinal cord itself"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Cannot regenerate; permanent without surgery"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Nerve transfers from other nerves; the most complex reconstructions"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Neuropraxia is the injury most babies have, and it heals. Rupture and avulsion are the injuries that produce the permanent cases, and they are the injuries that require the most force. When a child has an avulsion of multiple roots with Horner’s syndrome, the defense argument that maternal forces alone did it is at its weakest, and the delivery record is where the case is decided. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "ATTORNEY CHECK",
+         "v": "clinical statements for medical consultant review"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "how-brachial-plexus-injuries-happen-in-delivery",
+   "heading": "How brachial plexus injuries happen in delivery",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Shoulder dystocia"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " is the only reliable, consistent risk factor ACOG identifies for brachial plexus palsy. When the head delivers and the anterior shoulder lodges behind the pubic bone, the cord is compressed and the clock starts; the physician has minutes to free the shoulder. The recognized maneuvers, in the sequence most hospitals train, are:"
+      }
+     ]
+    },
+    {
+     "t": "ol",
+     "items": [
+      [
+       {
+        "t": "text",
+        "v": "Call for help, and note the time."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "McRoberts maneuver"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": the mother’s legs are flexed sharply toward her abdomen to rotate the pelvis."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Suprapubic pressure"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": an assistant presses above the pubic bone to push the shoulder under it. This is not fundal pressure."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Delivery of the posterior arm"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": the physician reaches in and sweeps the back arm across the chest and out, reducing the shoulder width."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Rotational maneuvers"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " (Rubin, Woods screw): the shoulders are rotated to an oblique angle."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Gaskin maneuver"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": the mother moves to all fours."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Last-resort measures: deliberate clavicle fracture, Zavanelli maneuver (replacing the head and performing a cesarean), symphysiotomy."
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "What the standard of care prohibits is as important as what it requires: "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "fundal pressure"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " (pushing on the top of the uterus), which drives the shoulder harder into the bone, and "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "excessive lateral traction"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " on the baby’s head, which stretches the plexus directly. ACOG’s shoulder dystocia bulletin says both."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The management of shoulder dystocia is the subject of its own page, "
+      },
+      {
+       "t": "link",
+       "href": "about:blank",
+       "c": [
+        {
+         "t": "text",
+         "v": "shoulder dystocia lawyer Michigan"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ". The points that matter for an Erb’s palsy case are these:"
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The risk factors were known before labor."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Macrosomia (a large baby), maternal diabetes, a prior shoulder dystocia, excessive weight gain, a prolonged second stage, and operative vaginal delivery with vacuum or forceps all raise the risk. ACOG says cesarean should be offered at an estimated fetal weight of 5,000 grams in a mother without diabetes and 4,500 grams with diabetes, and to a mother whose prior baby had a brachial plexus injury. A family whose baby weighed ten pounds and whose mother was diabetic is entitled to ask whether that conversation happened."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The maneuvers were, or were not, performed and documented."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Shoulder dystocia is a drilled emergency. The delivery note should record the time the head delivered, each maneuver attempted, the time the body delivered, who was present, and the infant’s condition. A note that says only “shoulder dystocia, delivered with McRoberts” after a permanent avulsion injury tells an expert as much as a detailed one."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Nobody pushed on the fundus."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Nursing notes and the mother’s own account often establish this when the physician’s note does not."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The injury pattern."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Injuries to the posterior arm, injuries after a very rapid second stage, and injuries in smaller babies without recognized dystocia are the cases where maternal forces are the more likely explanation; ACOG’s report says so, and we will say so to a family when the records show it. A severe anterior-arm injury in a macrosomic infant after a prolonged, documented dystocia is a different case."
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Brachial plexus injury can also occur in breech delivery, when traction is applied to the body while the head is still inside, and during cesarean, though at one-sixth the rate of vaginal delivery. A difficult delivery can injure more than the arm; oxygen deprivation during a prolonged shoulder dystocia is covered on our "
+      },
+      {
+       "t": "link",
+       "href": "about:blank",
+       "c": [
+        {
+         "t": "text",
+         "v": "birth injuries"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " and "
+      },
+      {
+       "t": "link",
+       "href": "about:blank",
+       "c": [
+        {
+         "t": "text",
+         "v": "labor and delivery negligence"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " pages."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "diagnosis-treatment-and-the-three-month-window",
+   "heading": "Diagnosis, treatment, and the three-month window",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The injury is usually obvious at birth: the arm does not move, the Moro reflex is absent on that side, and the arm hangs in the waiter’s tip position. The newborn workup should include an X-ray to rule out a fractured clavicle or humerus, which can mimic or accompany the nerve injury, and an assessment of the diaphragm, because the phrenic nerve runs with the upper plexus and a paralyzed diaphragm is a breathing problem."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "What happens next decides the child’s arm:"
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Weeks 1–3"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": gentle range-of-motion therapy begins to prevent the joints from stiffening. The arm should not be immobilized against the chest for weeks, an outdated practice that causes contractures."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Months 1–3"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": the child is watched for return of biceps function, the key marker. Most children with neuropraxia show it by two to three months."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "One to three months: a child whose arm has not fully recovered by one month should be referred to a pediatric brachial plexus center. If biceps function has not returned by three months, the specialist team evaluates the need for nerve reconstruction, using examination and additional testing when indicated. The international consensus is that nerve reconstruction, when needed, is best done between three and nine months; results may decline with delay, as prolonged denervation reduces the potential for muscle recovery."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Later childhood"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": children with permanent injury typically need secondary surgeries, including tendon transfers to restore shoulder rotation, humeral osteotomy, and procedures to address the shoulder dislocation that develops when the muscles are unbalanced. Botulinum toxin injections are used to manage muscle co-contraction."
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Michigan has pediatric brachial plexus programs at C.S. Mott Children’s Hospital in Ann Arbor and Children’s Hospital of Michigan in Detroit. A child who was never referred, or referred at a year old, may have a second claim against the pediatrician or hospital if the delayed referral fell below the standard of care and caused additional injury. Michigan law distinguishes traditional malpractice claims from lost-opportunity claims, which are subject to MCL 600.2912a(2)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "proving-a-michigan-erbs-palsy-case",
+   "heading": "Proving a Michigan Erb’s palsy case",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Michigan requires proof of the standard of care, a breach, causation more probable than not, and damages, MCL 600.2912a. In a brachial plexus case:"
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The obstetric standard of care"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " comes from a board-certified obstetrician, and under MCL 600.2169 the expert must practice the same specialty as the defendant. If a family physician or midwife delivered the baby, the expert must match."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Nursing care"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", including whether fundal pressure was applied and whether the risk factors were communicated, comes from a labor and delivery nurse."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Causation and the injury grade"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " come from a pediatric neurologist or the brachial plexus surgeon who operated. Operative findings are the strongest evidence of grade: a surgeon who found two avulsed roots in the operating room is describing the force involved."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The maternal forces defense"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " is answered with the records, not denied. ACOG’s report is the defense’s authority; it is also the authority for the proposition that the injury results from excess force, that lateral traction stretches the plexus, and that the risk factors warrant altered management. An expert who knows the report better than the defense does is the one who wins the case."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Damages"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " come from a life care planner, a hand therapist, and an economist. A child with a permanent brachial plexus injury faces multiple surgeries, years of therapy, adaptive equipment, and a limited range of occupations."
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "who-is-liable",
+   "heading": "Who is liable",
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The delivering physician or midwife and their practice"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", for the management of the delivery and for prenatal decisions about delivery mode."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The hospital"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", vicariously for its nurses acting within the scope of employment and, under "
+       },
+       {
+        "t": "em",
+        "c": [
+         {
+          "t": "text",
+          "v": "Grewe v Mt Clemens General Hospital"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " (1978) and "
+       },
+       {
+        "t": "em",
+        "c": [
+         {
+          "t": "text",
+          "v": "Markel v William Beaumont Hospital"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " (2022), potentially for a non-employee physician the family reasonably looked to the hospital to provide."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The pediatrician or hospital that delayed referral"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " for surgical evaluation."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "State university hospitals are sued in the Court of Claims, where the claim or a qualifying notice of intention generally must be filed within six months, MCL 600.6431."
+         }
+        ]
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-the-child-can-recover-and-an-honest-word-about-the-caps",
+   "heading": "What the child can recover, and an honest word about the caps",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Economic damages are uncapped"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ": surgeries, therapy, equipment, future medical care over the child’s lifetime, and lost earning capacity, which for a child whose dominant arm is permanently impaired is real and provable."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Non-economic damages"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " are capped under MCL 600.1483. Michigan’s higher cap, $1,065,000 for 2026, applies where the injury is to the brain or spinal cord and results in paralysis with permanent loss of function of a limb, or in a permanent inability to live independently, or in loss of reproductive capacity. A brachial plexus injury is an injury to peripheral nerves, and most Erb’s palsy cases fall under the "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "lower cap, $596,400 for 2026"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ". Whether a root avulsion, which tears the nerve from the spinal cord itself, qualifies as a spinal cord injury under the statute is a question that has been litigated, and the answer may depend on the operative findings in your child’s case. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "ATTORNEY CHECK",
+         "v": "current state of the law on cap tier for avulsion injuries"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " We tell families this at the start because other websites do not, and because it means the economic damages, the life care plan, are where most of the value of an Erb’s palsy case lies."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "michigans-procedure-and-deadlines",
+   "heading": "Michigan’s procedure and deadlines",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Step"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Rule"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Where it comes from"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "Child’s deadline (injury before 8th birthday)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Suit may be filed any time before the child’s 10th birthday"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5851(7)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Parents’ own claims"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Two years from the malpractice, six-month discovery rule"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5805(8), 600.5838a"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Notice of intent"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Served on every defendant at least 182 days before suit"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.2912b"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Affidavit of merit"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Filed with the complaint"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.2912d"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Expert qualifications"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Same specialty and board certification as the defendant"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.2169"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Lost-opportunity claims (delayed referral)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Opportunity must have exceeded 50 percent"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.2912a(2)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "State university hospitals"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Court of Claims; six-month notice"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.6431"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Non-economic caps, 2026"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$596,400 / $1,065,000"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.1483"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Settlement for a minor"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Court approval; conservatorship, structured settlement, or trust"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCR 2.420"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Medical records"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Patient entitled to the complete record; hospital retention seven years"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 333.20175"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The seven-year retention rule matters here as it does in every birth injury case: a family whose child has a persistent palsy should request the complete labor and delivery record, including the nursing flowsheets and the delivery note, before the child’s seventh birthday, whether or not they intend to sue."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-to-do-if-your-babys-arm-is-not-moving",
+   "heading": "What to do if your baby’s arm is not moving",
+   "blocks": [
+    {
+     "t": "ol",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Ask the hospital, in writing, for the complete maternal and newborn records"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", including the delivery note, the nursing notes for the second stage, the newborn exam, and any X-rays."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Insist on a referral"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " to a pediatric brachial plexus program if there is no clear improvement by two months; do not wait for the three-month mark to begin asking."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Keep a simple log"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " of what the arm can and cannot do, with dates and short videos. It documents recovery or its absence better than memory."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Write down your own account of the delivery"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " now: how long the pushing lasted, whether anyone pushed on your abdomen, what you were told about the baby’s size, what was said in the room when the shoulder stuck."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Enroll in Early On"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " (1-800-327-5966), Michigan’s free early intervention program for children under three; therapy through Early On does not depend on any lawsuit."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Call a lawyer when the palsy persists past three months."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " The claim does not expire until the child’s tenth birthday, but the records are only required to be kept for seven years, and the question of whether the delivery was handled properly is answered from documents that are easiest to obtain now."
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "why-metro-detroit-families-call-atlaw-for-brachial-plexus-injury-cases",
+   "heading": "Why metro Detroit families call ATLAW for brachial plexus injury cases",
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Thirteen years, more than 10,000 cases, more than $100 million recovered."
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "An honest first answer."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " We obtain the delivery record and the operative findings and have them read before we tell a family whether the injury was preventable. Some brachial plexus injuries are not anyone’s fault, and when the records show that, we say so. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": ""
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The experts a brachial plexus case requires"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": obstetrics, labor and delivery nursing, pediatric neurology, brachial plexus surgery, hand therapy, life care planning, and economics. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": "expert network"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The records preserved first"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", before the seven-year retention period runs. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": ""
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Both the delivery claim and any delayed-referral claim"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", with both deadlines calendared."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Settlements structured to protect the child’s benefits."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": "  "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": "special needs planning coordination"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Dearborn, and the whole metro area."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Families come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Languages."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "No fee unless we recover."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Contingency fee ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs. No cost for the first conversation."
+       }
+      ]
+     ]
+    }
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is Erb’s palsy always caused by the doctor pulling too hard?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "No. ACOG’s 2014 report concludes that the forces of labor itself can, in some deliveries, stretch the brachial plexus enough to injure it, and about 46 percent of cases occur without a recognized shoulder dystocia. Whether a particular child’s injury was preventable depends on the risk factors before labor, how the shoulder dystocia was managed, and the grade and pattern of the injury. Permanent avulsion injuries after a prolonged, documented dystocia in a large baby are the cases where the records most often show excess force."
+    }
+   ]
+  },
+  {
+   "question": "My baby’s arm is improving. Do I still have a case?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Probably not one worth bringing, and we will tell you that. Most brachial plexus injuries are neuropraxias that resolve within three months. A case exists when the injury is permanent and the delivery record shows a departure from the standard of care."
+    }
+   ]
+  },
+  {
+   "question": "What is Horner’s syndrome and why does the lawyer keep asking about it?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "A drooping eyelid and small pupil on the same side as the weak arm. It means the lowest root, T1, was injured near the spinal cord, which indicates a severe avulsion-type injury and poor odds of spontaneous recovery. It also tells an expert something about the force involved."
+    }
+   ]
+  },
+  {
+   "question": "The doctor says my baby was big and that shoulder dystocia cannot be predicted. Is that true?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Partly. Shoulder dystocia cannot be predicted reliably in any individual delivery, and ACOG says so. But its risk factors are known, and ACOG also says cesarean should be offered at an estimated fetal weight of 5,000 grams, or 4,500 grams with diabetes, and after a prior affected baby. Whether those risks were recognized and discussed with you is a question the prenatal record answers."
+    }
+   ]
+  },
+  {
+   "question": "How long do we have?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "For the child’s claim, until the tenth birthday for an injury before age eight, MCL 600.5851(7). Parents’ own claims run two years. The 182-day notice of intent must be served before suit. Request the records before the child turns seven."
+    }
+   ]
+  },
+  {
+   "question": "What is an Erb’s palsy case worth in Michigan?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "It depends on whether the injury is permanent, the grade, the surgeries required, and the effect on the child’s earning capacity. Economic damages are uncapped. Non-economic damages are capped, and for most brachial plexus injuries the lower cap, $596,400 in 2026, applies. We do not quote figures before the records and a life care plan are in hand."
+    }
+   ]
+  },
+  {
+   "question": "Can we sue the pediatrician for not referring us sooner?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "If your child’s palsy persisted past three months and no one sent you for surgical evaluation until the window for nerve reconstruction had closed, that delay may be a separate claim under Michigan’s lost-opportunity rule, MCL 600.2912a(2)."
+    }
+   ]
+  },
+  {
+   "question": "My baby also has a broken collarbone. Does that matter?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "A clavicle fracture is common in shoulder dystocia and usually heals without consequence. In a lawsuit it is one more piece of evidence about the forces at delivery, and it should be in the newborn record."
+    }
+   ]
+  },
+  {
+   "question": "We delivered at the University of Michigan. Is anything different?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Yes. Claims against state university hospitals go to the Court of Claims, and MCL 600.6431 requires notice within six months of the event. That is a much shorter period than the child’s tenth birthday, so call promptly."
+    }
+   ]
+  },
+  {
+   "question": "What does it cost?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Nothing up front. The firm advances the cost of experts and recovers it only from a settlement or verdict."
+    }
+   ]
+  }
+ ],
+ "cta": {
+  "id": "talk-to-a-michigan-erbs-palsy-lawyer",
+  "heading": "Talk to a Michigan Erb’s palsy lawyer",
+  "blocks": [
+   {
+    "t": "p",
+    "c": [
+     {
+      "t": "text",
+      "v": "If your child’s arm was injured at birth anywhere in Michigan, call "
+     },
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "text",
+        "v": "(313) 406-7606"
+       }
+      ]
+     },
+     {
+      "t": "text",
+      "v": " or send the form on this page. We obtain and preserve the complete delivery record, have it reviewed by the specialists the case requires, and tell you whether the injury was preventable and what your child’s claim is worth. We respond within one business day, and there is no fee unless we recover money for your family."
+     }
+    ]
+   }
+  ]
+ },
+ "wordCount": 3514,
+ "openItems": 7,
+ "source": {
+  "file": "B2-08_Michigan-Erbs-Palsy-Lawyer.docx",
+  "delivered": "2026-10-16"
+ }
+}

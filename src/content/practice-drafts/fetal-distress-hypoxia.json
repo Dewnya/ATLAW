@@ -1,0 +1,1774 @@
+{
+ "slug": "fetal-distress-hypoxia",
+ "section": "personal-injury",
+ "status": "draft",
+ "seoTitle": "Michigan Fetal Distress Lawsuit – Failure to Monitor or Act in Labor",
+ "seoDescription": "Fetal distress during labor in Michigan: how to read the three monitoring categories, what the nurses and doctor were required to do and when, the 30-minute cesarean standard, how the strip is preserved, and the child’s deadline. Free review.",
+ "h1": "Fetal Distress Lawsuit Michigan",
+ "tagline": "The monitor was recording the whole time. The question is who was watching it, and what they did.",
+ "primaryKeyword": "fetal distress lawsuit michigan",
+ "secondaryKeywords": [
+  "fetal distress lawyer",
+  "fetal distress attorney",
+  "fetal hypoxia lawsuit",
+  "failure to monitor fetal heart rate",
+  "fetal monitoring malpractice michigan",
+  "nonreassuring fetal status lawsuit"
+ ],
+ "intro": [
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "Fetal distress is the term most families hear for a baby who is not getting enough oxygen during labor. Obstetricians have formally preferred “nonreassuring fetal status” since 2005, because the fetal heart monitor does not diagnose distress; it shows patterns that are reassuring, indeterminate, or abnormal, and it is the response to those patterns, by the nurse watching the strip and the physician she calls, that decides whether the baby is born healthy, born with a brain injury, or not born alive."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "Nearly every Michigan hospital birth is continuously monitored. That is what makes these cases provable. The electronic fetal monitor records the baby’s heart rate and the mother’s contractions, second by second, for the entire labor. When a child is born with hypoxic-ischemic encephalopathy, develops cerebral palsy, or dies, the strip shows what the baby’s heart was doing in the hours before delivery, the nursing notes show when each pattern was recognized and who was told, and the operative record shows how long it took to deliver once the decision was made. The three together answer the question every parent asks: could this have been prevented?"
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "This page explains what the monitor shows and how the profession classifies it, what the standard of care required of the nurses and the physician at each step, the 30-minute standard for an emergency cesarean, the complications fetal distress produces, who is liable, the procedure Michigan requires, and how a family makes sure the strip is preserved before anyone has a reason to lose it."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across Wayne, Oakland, Macomb, and Washtenaw counties. Birth injury cases are handled on contingency: no fee unless we recover money for your family, and the first conversation is free. "
+    },
+    {
+     "t": "strong",
+     "c": [
+      {
+       "t": "placeholder",
+       "kind": "CONFIRM",
+       "v": "the firm handles birth injury cases in-house, and the attorney who leads them"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "sections": [
+  {
+   "id": "fetal-distress-in-michigan-the-numbers",
+   "heading": "Fetal distress in Michigan: the numbers",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Measure"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Figure"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Source"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "Live births, Michigan, 2024"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "99,420"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MDHHS"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Infant deaths, Michigan, 2024"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "629"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MDHHS"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Incidence of hypoxic-ischemic encephalopathy, developed countries"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "About 1 to 3 per 1,000 live births"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Published neonatal literature"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Cerebral palsy prevalence, U.S. 8-year-olds, 2022"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "About 2.4 per 1,000"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "CDC ADDM, 2026"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "How often the tracing must be reviewed, low-risk labor"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Every 30 minutes in the first stage; every 15 minutes in the second stage"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "ACOG Practice Bulletin 106"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "How often the tracing must be reviewed, high-risk labor (oxytocin, hypertension, growth restriction, prior cesarean)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Every 15 minutes in the first stage; every 5 minutes in the second stage"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Same"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Time within which a hospital offering obstetric care should be able to begin an emergency cesarean"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "30 minutes from the decision"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "ACOG and AAP, "
+        },
+        {
+         "t": "em",
+         "c": [
+          {
+           "t": "text",
+           "v": "Guidelines for Perinatal Care"
+          }
+         ]
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Window to begin therapeutic hypothermia for HIE after birth"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "6 hours"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Neonatal cooling protocols"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Michigan malpractice cap, 2026, brain-injury tier"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$1,065,000 non-economic; economic damages uncapped"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.1483"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Child’s deadline for a Michigan malpractice claim (injury before age 8)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "The child’s 10th birthday"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5851(7)"
+        }
+       ]
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-the-fetal-heart-monitor-shows",
+   "heading": "What the fetal heart monitor shows",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The electronic fetal monitor produces two tracings: the fetal heart rate on top and the mother’s contractions underneath. Reading one is a skill every labor nurse and obstetrician is trained in, and the vocabulary is standardized by the National Institute of Child Health and Human Development."
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Baseline rate"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": the average heart rate between contractions. Normal is 110 to 160 beats per minute. Above 160 for ten minutes is "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "tachycardia"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": "; below 110 is "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "bradycardia"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": "."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Variability"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": the small, constant fluctuations in the rate. Moderate variability, 6 to 25 beats, is the single most reassuring sign on a strip; it means the baby’s brain is oxygenated and controlling the heart. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Minimal"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " variability (5 beats or less) and "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "absent"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " variability are the signs that matter most in a lawsuit."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Accelerations"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": brief increases, which are reassuring."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Decelerations"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": drops in the rate. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Early"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " decelerations mirror contractions and are benign. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Variable"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " decelerations are abrupt and usually mean cord compression. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Late"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " decelerations begin after the contraction peaks and mean the placenta is not delivering enough oxygen during contractions. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Prolonged"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " decelerations last two to ten minutes. “Recurrent” means the deceleration occurs with at least half of contractions over twenty minutes."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Tachysystole"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": more than five contractions in ten minutes, averaged over thirty minutes. It is the classic sign of too much oxytocin (Pitocin), and it starves the baby of the recovery time between contractions."
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-three-categories-and-what-each-required",
+   "heading": "The three categories, and what each required",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Since 2008, every tracing is classified into one of three categories, and the standard of care attaches a required response to each."
+      }
+     ]
+    },
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Category"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "What the strip shows"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "What the standard of care required"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Category I (normal)"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Baseline 110–160, moderate variability, no late or variable decelerations"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Routine review at the intervals above; document"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Category II (indeterminate)"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Everything that is not I or III: minimal variability, tachycardia, recurrent variables with moderate variability, prolonged decelerations, recurrent lates with moderate variability"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Evaluate, continue surveillance at closer intervals, begin intrauterine resuscitation, and notify the physician; a Category II tracing that does not improve is the pattern most often found on the strips in these lawsuits"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Category III (abnormal)"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Absent variability with recurrent late decelerations, recurrent variable decelerations, or bradycardia; or a sinusoidal pattern"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Prompt evaluation and intrauterine resuscitation; if the pattern does not resolve, expedited delivery, which usually means an emergency cesarean"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Intrauterine resuscitation"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " is the set of measures a nurse can and must begin without waiting for a physician: turning the mother on her side, giving intravenous fluids, giving oxygen, stopping the oxytocin, treating low maternal blood pressure, and, for recurrent variable decelerations, infusing fluid into the uterus (amnioinfusion). If the pattern persists, the physician may give terbutaline to relax the uterus, and may test the baby by scalp stimulation, which should produce an acceleration if the baby is not acidotic."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The most common failures we see in Michigan records are not exotic. They are a Category II tracing with minimal variability and recurrent late decelerations that was documented every thirty minutes for three hours while the oxytocin kept running, a physician who was called and did not come to the bedside, a nurse who was uneasy and did not go over the physician’s head, and a cesarean that was called at 2:10 and started at 3:05. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "ATTORNEY CHECK",
+         "v": "clinical statements for medical consultant review"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-nurses-duty-and-the-chain-of-command",
+   "heading": "The nurse’s duty, and the chain of command",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "In most labors the nurse is the only clinician watching the strip for hours at a time. Her duty is to recognize the pattern, intervene within her scope, notify the physician accurately and promptly, and, if the physician does not respond appropriately, go up the chain of command: the charge nurse, the nursing supervisor, the department chief. The Association of Women’s Health, Obstetric and Neonatal Nurses publishes the standards, and every Michigan hospital has a chain-of-command policy in its labor and delivery manual. In a lawsuit we obtain that policy, and we compare it to what the nurse did."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "This matters legally because the nurse is the hospital’s employee. Where a nurse failed to recognize or escalate a nonreassuring tracing, the hospital is directly liable for her negligence regardless of what the physician did or did not do. Nursing failures are at the center of a large share of Michigan fetal distress cases."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-physicians-duty-and-the-30-minute-standard",
+   "heading": "The physician’s duty, and the 30-minute standard",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The physician’s duty is to be available, to come when called, to read the strip correctly, to recognize when intrauterine resuscitation has failed, and to deliver the baby by the fastest safe route when it has. For a Category III tracing that does not resolve, that is an emergency cesarean, and the professional standard, published jointly by ACOG and the American Academy of Pediatrics, is that a hospital offering obstetric services should have the capability to begin a cesarean within 30 minutes of the decision to operate. ACOG itself says 30 minutes is not an absolute rule in every clinical situation; some emergencies require delivery faster, and the standard is what a reasonably prudent obstetrician would have done with this strip. But the decision-to-incision interval is documented in every operating room log, and when it is 55 minutes on a Category III strip, the hospital has a great deal to explain."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The physician’s prenatal decisions are also in issue. A mother with gestational diabetes, preeclampsia, a growth-restricted baby, a post-term pregnancy, or decreased fetal movement is a high-risk labor requiring closer monitoring, and some of those conditions should have led to a scheduled delivery before labor began."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-fetal-distress-does-to-a-baby",
+   "heading": "What fetal distress does to a baby",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Oxygen deprivation during labor injures the brain in proportion to how severe and how long it is. The outcomes that bring families to us:"
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Hypoxic-ischemic encephalopathy (HIE)"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", the brain injury itself, diagnosed in the first hours by cord blood gases (a pH below 7.0 and a base deficit of 12 or more), low Apgar scores, seizures, and MRI. HIE is covered in detail on our "
+       },
+       {
+        "t": "link",
+        "href": "about:blank",
+        "c": [
+         {
+          "t": "text",
+          "v": "birth asphyxia and HIE page"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", including the six-hour cooling window that gives the NICU one chance to limit the damage."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Cerebral palsy"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", the lifelong motor disability that often follows HIE, usually diagnosed between six months and two years. See our "
+       },
+       {
+        "t": "link",
+        "href": "about:blank",
+        "c": [
+         {
+          "t": "text",
+          "v": "cerebral palsy page"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": "."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Seizure disorders, cognitive disability, vision and hearing loss"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", which accompany the motor injury in many children."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Stillbirth and neonatal death."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " A baby who dies in labor or in the first days from unrecognized fetal distress is a wrongful death case, discussed below."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Meconium aspiration"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", when a distressed baby passes stool into the amniotic fluid and inhales it, causing severe lung injury."
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The brain injury does not always announce itself at birth. A baby with low Apgar scores who “pinked up” and went home may be the toddler who is not walking at eighteen months. Michigan’s deadline rules, below, account for that."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "proving-a-michigan-fetal-distress-case",
+   "heading": "Proving a Michigan fetal distress case",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The case is built from four sets of records, and the first job is to get all of them before any are lost."
+      }
+     ]
+    },
+    {
+     "t": "ol",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The complete fetal monitoring strip"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", from admission to delivery. Most Michigan hospitals now store strips electronically in a perinatal archiving system rather than on paper, and a records request for “the chart” often does not include them. We request the electronic monitoring archive specifically, in its native format with its time stamps, and we send a preservation letter the day we are retained. A hospital that cannot produce the strip after notice may face an adverse inference instruction at trial under Michigan’s spoliation rules if the evidence was material, was within its control, and was unavailable without a reasonable explanation."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The nursing flowsheets and notes"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", which record the nurse’s assessment of the strip at each interval, each intervention, each call to the physician and what was said, and whether the chain of command was used."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The physician’s orders and notes"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", the operating room log, and the anesthesia record, which fix the decision-to-incision interval."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The newborn record"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": cord gases, Apgar scores, resuscitation record, the NICU course, time cooling began, and the MRI."
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The experts: a board-certified obstetrician on the physician’s standard of care (who must practice the same specialty, MCL 600.2169); a labor and delivery nurse on the nursing standard; a maternal-fetal medicine specialist on strip interpretation; a neonatologist and pediatric neurologist on causation; a pediatric neuroradiologist on MRI timing; and a life care planner and economist on damages. The defense’s central theme in every one of these cases is that the injury predates labor. The answer is the ACOG and AAP criteria for an intrapartum event, the cord gases, the Apgar scores, the onset of seizures, and an MRI pattern consistent with an acute event, matched to a strip that was reassuring on admission and deteriorated."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "who-is-liable",
+   "heading": "Who is liable",
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The hospital"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", directly, for its labor and delivery nurses, nurse-midwives, and resident physicians, and for its own systems: staffing ratios, monitoring equipment, the chain-of-command policy, and whether an operating room and anesthesia were available."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The attending obstetrician, family physician, or midwife"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " and their practice group, for the response to the strip, the decision to deliver, and the prenatal management."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The hospital, for the physician under ostensible agency"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", under "
+       },
+       {
+        "t": "em",
+        "c": [
+         {
+          "t": "text",
+          "v": "Grewe v Mt Clemens General Hospital"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " (1978) and "
+       },
+       {
+        "t": "em",
+        "c": [
+         {
+          "t": "text",
+          "v": "Markel v William Beaumont Hospital"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " (2022), when the family looked to the hospital rather than a particular physician for care, as with an on-call physician they had never met."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "State university hospitals are sued in the Court of Claims, where the claim or a qualifying notice of intention generally must be filed within six months, MCL 600.6431."
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Michigan retains joint and several liability in medical malpractice where the plaintiff was without fault, MCL 600.6304(6)."
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "when-the-baby-dies",
+   "heading": "When the baby dies",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "A stillbirth or neonatal death from unrecognized fetal distress is brought under Michigan’s wrongful death act, MCL 600.2922, by the personal representative of the estate, through the malpractice procedure. For a baby who died before birth, MCL 600.2922a and the 2005 amendment to the wrongful death act address the death of a fetus; the application of those provisions to medical negligence is a point of law the attorney will address with the family directly. The limitation period for wrongful death is two years from the malpractice, with the saving provision of MCL 600.5852 for the personal representative. The mother’s own claims for her injuries and the parents’ loss of society are separate."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-the-child-can-recover",
+   "heading": "What the child can recover",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Economic damages are uncapped"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ": attendant care, therapy, surgeries, equipment, home and vehicle modifications, the cost of special education beyond what the public system provides, and lost earning capacity. For a child with severe HIE, the life care plan is commonly the largest component of a Michigan malpractice recovery."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Non-economic damages"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " are capped under MCL 600.1483. For 2026 the caps are $596,400 and $1,065,000. The higher cap applies where a brain or spinal cord injury causes qualifying hemiplegia, paraplegia, or quadriplegia with total permanent functional loss of one or more limbs, or where permanent cognitive impairment prevents independent responsible life decisions and normal daily activities. A child with severe HIE may qualify if these statutory requirements are met. Settlements for a minor require court approval under MCR 2.420 and are typically structured through a special needs trust so the child keeps Medicaid and SSI."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "michigans-procedure-and-deadlines",
+   "heading": "Michigan’s procedure and deadlines",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Step"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Rule"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Where it comes from"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "Child’s deadline (injury before 8th birthday)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Any time before the child’s 10th birthday"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5851(7)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Parents’ own claims; mother’s injuries"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Two years from the malpractice, six-month discovery rule"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5805(8), 600.5838a "
+        },
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "placeholder",
+           "kind": "ATTORNEY CHECK",
+           "v": ""
+          }
+         ]
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Wrongful death of the baby"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Two years; saving provision for the personal representative"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.2922, 600.5852 "
+        },
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "placeholder",
+           "kind": "ATTORNEY CHECK",
+           "v": ""
+          }
+         ]
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Notice of intent"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Served on every defendant 182 days before suit"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.2912b"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Affidavit of merit"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Filed with the complaint"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.2912d"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Expert qualifications"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Same specialty and board certification"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.2169"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Lost-opportunity claims"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Opportunity must have exceeded 50 percent"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.2912a(2)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "State university hospitals"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Court of Claims; six-month notice"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.6431"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Non-economic caps, 2026"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$596,400 / $1,065,000"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.1483"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Settlement for a minor"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Court approval"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCR 2.420"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Medical records, including the monitoring strip"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Patient entitled to the complete record; retention seven years"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 333.20175"
+        }
+       ]
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-to-do-if-you-were-told-your-baby-was-in-distress",
+   "heading": "What to do if you were told your baby was in distress",
+   "blocks": [
+    {
+     "t": "ol",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Request the complete records in writing, now"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": the mother’s prenatal and labor records, the electronic fetal monitoring archive by name, the nursing flowsheets, the delivery and operative notes, the anesthesia record, and the newborn and NICU records including cord gases and all imaging. Do not accept a summary."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Write down what you remember"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " while it is fresh: when you were admitted, when the monitor alarms sounded, what the nurses said, when the doctor came, how long you waited for the operating room, what you were told afterward."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Keep every discharge paper"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " and the NICU daily summaries."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "If the baby is in the NICU, ask whether therapeutic hypothermia was started and when."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " The answer goes in your notes."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Enroll in Early On"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " (1-800-327-5966) when the baby comes home if there is any concern about development; it is free and does not depend on a lawsuit."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Call a lawyer early."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " The child’s deadline is the tenth birthday, but the strip is only required to be kept seven years, the Court of Claims notice for a university hospital is six months, and the parents’ claims run two years."
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "why-metro-detroit-families-call-atlaw-for-fetal-distress-cases",
+   "heading": "Why metro Detroit families call ATLAW for fetal distress cases",
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Thirteen years, more than 10,000 cases, more than $100 million recovered."
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The strip first."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " We request the electronic monitoring archive by name and send a preservation letter the day we are retained. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": ""
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "An honest first answer."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " We have the strip, the gases, and the MRI read before we tell a family whether the injury was preventable, and when it was not, we say so. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": ""
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The experts the case requires"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": obstetrics and maternal-fetal medicine, labor and delivery nursing, neonatology, pediatric neurology, pediatric neuroradiology, life care planning, and economics. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": "expert network"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Every claim, every clock"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": the child’s, the mother’s, the parents’, and the estate’s if the baby died, each calendared."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Settlements structured to protect the child’s benefits."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": "  "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": "special needs planning coordination"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Dearborn, and the whole metro area."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Families come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": "home, hospital, and NICU visits"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Languages."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "No fee unless we recover."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Contingency fee ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs. No cost for the first conversation."
+       }
+      ]
+     ]
+    }
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "The doctor said the heart rate “dropped” and they had to do an emergency C-section. My baby seems fine. Is there a case?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Probably not, and a healthy baby is the outcome everyone wanted. A case exists when a baby was injured and the records show the distress was recognized late or acted on slowly. If your child later shows developmental delays, the records from that delivery are where to start, and you should request them now while they are easy to get."
+    }
+   ]
+  },
+  {
+   "question": "What is a “nonreassuring” tracing?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "The term the profession now uses instead of fetal distress. It means the strip is Category II or III: the pattern does not confirm the baby is well oxygenated and requires evaluation, intervention, and sometimes delivery."
+    }
+   ]
+  },
+  {
+   "question": "Is a 30-minute wait for a C-section malpractice?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Not by itself. Thirty minutes is the capability a hospital is expected to have, and ACOG says the right interval depends on the situation; some emergencies, such as a prolonged bradycardia, require faster delivery. The question is whether the decision was made when a reasonable obstetrician would have made it and whether the hospital then moved as fast as the situation required."
+    }
+   ]
+  },
+  {
+   "question": "The nurse told me she was worried but the doctor would not come in. Who is responsible?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Potentially both. The physician is responsible for failing to respond; the nurse and hospital are responsible if she did not escalate through the chain of command when the physician did not respond appropriately. Hospital policy requires that escalation."
+    }
+   ]
+  },
+  {
+   "question": "How do you prove the brain injury happened during labor and not before?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "With the ACOG and AAP criteria for an intrapartum event: a strip that was reassuring on admission and deteriorated, cord gases showing severe acidosis, low Apgar scores past five minutes, early seizures or encephalopathy, and an MRI pattern consistent with an acute injury. If the records show a prenatal cause instead, we tell you."
+    }
+   ]
+  },
+  {
+   "question": "The hospital says the strip is “unavailable.” What happens?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Hospitals are required to keep the record for seven years, and most strips now live in an electronic archive that is rarely truly lost. If a hospital cannot produce a strip after a preservation demand, Michigan law may allow the jury to infer that the missing evidence would have been unfavorable to the hospital if the legal requirements for an adverse inference are established."
+    }
+   ]
+  },
+  {
+   "question": "Our baby was stillborn. Can we sue?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "A stillbirth caused by negligent failure to act on fetal distress may give rise to a legal claim, including a potential wrongful death action depending on the circumstances and applicable Michigan law. The law in this area has specific requirements, and the attorney will discuss them with you directly. The mother’s own claims for her injuries and the parents’ loss are separate."
+    }
+   ]
+  },
+  {
+   "question": "How long do we have?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "The child’s claim: until the tenth birthday for an injury before age eight. The parents’ and the mother’s claims: two years. A wrongful death claim: two years with a saving provision. A university hospital: six months’ notice. The notice of intent must be served 182 days before suit in every case."
+    }
+   ]
+  },
+  {
+   "question": "Will we have to go to trial?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Most Michigan birth injury cases resolve before trial, often after the experts have exchanged reports and the strip has been reviewed by both sides. We prepare every case to be tried, which is what produces settlements."
+    }
+   ]
+  },
+  {
+   "question": "What does it cost?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Nothing up front. The firm advances the cost of experts and recovers it only from a settlement or verdict."
+    }
+   ]
+  }
+ ],
+ "cta": {
+  "id": "talk-to-a-michigan-fetal-distress-lawyer",
+  "heading": "Talk to a Michigan fetal distress lawyer",
+  "blocks": [
+   {
+    "t": "p",
+    "c": [
+     {
+      "t": "text",
+      "v": "If your baby was injured or died after signs of distress during labor anywhere in Michigan, call "
+     },
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "text",
+        "v": "(313) 406-7606"
+       }
+      ]
+     },
+     {
+      "t": "text",
+      "v": " or send the form on this page. We obtain and preserve the complete monitoring strip and records, have them reviewed by the specialists the case requires, and tell you whether the injury was preventable and what your family’s claims are worth. We respond within one business day, and there is no fee unless we recover money for your family."
+     }
+    ]
+   }
+  ]
+ },
+ "wordCount": 3464,
+ "openItems": 9,
+ "source": {
+  "file": "B2-09_Michigan-Fetal-Distress-Lawsuit.docx",
+  "delivered": "2026-10-16"
+ }
+}

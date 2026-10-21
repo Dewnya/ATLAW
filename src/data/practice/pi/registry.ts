@@ -58,12 +58,28 @@ export const practiceRegistry = [
   { slug: "brain-injury", section: "personal-injury", navLabel: "Brain Injuries", navGroup: "injury", serviceType: "Brain Injury Legal Representation" },
   { slug: "spinal-cord-injury", section: "personal-injury", navLabel: "Spinal Cord Injuries", navGroup: "injury", serviceType: "Spinal Cord Injury Legal Representation" },
   { slug: "wrongful-death", section: "personal-injury", navLabel: "Wrongful Death", navGroup: "injury", serviceType: "Wrongful Death Legal Representation", legacy: true },
+  // Batch 2 (content tracker row 28)
+  { slug: "cranbrook-sexual-abuse-claims", section: "personal-injury", navLabel: "Cranbrook Sexual Abuse Claims", navGroup: "injury", serviceType: "Sexual Abuse Claim Legal Representation" },
   // Medical
   { slug: "medical-malpractice", section: "personal-injury", navLabel: "Medical Malpractice", navGroup: "medical", serviceType: "Medical Malpractice Legal Representation", legacy: true },
   { slug: "nursing-home-abuse", section: "personal-injury", navLabel: "Nursing Home Abuse", navGroup: "medical", serviceType: "Nursing Home Abuse Legal Representation" },
+  // Batch 2 — medical malpractice and birth injury (content tracker rows 29–38)
+  { slug: "anesthesia-errors", section: "personal-injury", navLabel: "Anesthesia Errors", navGroup: "medical", serviceType: "Anesthesia Error Legal Representation" },
+  { slug: "hospital-mistakes", section: "personal-injury", navLabel: "Hospital Mistakes", navGroup: "medical", serviceType: "Hospital Negligence Legal Representation" },
+  { slug: "birth-injuries", section: "personal-injury", navLabel: "Birth Injuries", navGroup: "medical", serviceType: "Birth Injury Legal Representation" },
+  { slug: "birth-asphyxia", section: "personal-injury", navLabel: "Birth Asphyxia", navGroup: "medical", serviceType: "Birth Asphyxia and HIE Legal Representation" },
+  { slug: "cerebral-palsy", section: "personal-injury", navLabel: "Cerebral Palsy", navGroup: "medical", serviceType: "Cerebral Palsy Legal Representation" },
+  { slug: "erbs-palsy", section: "personal-injury", navLabel: "Erb’s Palsy", navGroup: "medical", serviceType: "Erb’s Palsy Legal Representation" },
+  { slug: "fetal-distress-hypoxia", section: "personal-injury", navLabel: "Fetal Distress & Hypoxia", navGroup: "medical", serviceType: "Fetal Distress Legal Representation" },
+  { slug: "labor-delivery-complications", section: "personal-injury", navLabel: "Labor & Delivery Complications", navGroup: "medical", serviceType: "Labor and Delivery Negligence Legal Representation" },
+  { slug: "periventricular-leukomalacia", section: "personal-injury", navLabel: "Periventricular Leukomalacia", navGroup: "medical", serviceType: "Periventricular Leukomalacia Legal Representation" },
+  { slug: "shoulder-dystocia", section: "personal-injury", navLabel: "Shoulder Dystocia", navGroup: "medical", serviceType: "Shoulder Dystocia Legal Representation" },
   // Work & Disability
   { slug: "workers-compensation", section: "personal-injury", navLabel: "Workers' Compensation", navGroup: "disability", serviceType: "Workers Compensation Legal Representation", legacy: true },
   { slug: "social-security-disability", section: "disability", navLabel: "Social Security Disability", navGroup: "disability", serviceType: "Social Security Disability Legal Representation" },
+  // Batch 2 — Social Security sub-pages (content tracker rows 39–40)
+  { slug: "ssd-appeals-process", section: "disability", navLabel: "SSD Appeals Process", navGroup: "disability", serviceType: "Social Security Disability Appeal Legal Representation" },
+  { slug: "ssd-application-process", section: "disability", navLabel: "SSD Application Process", navGroup: "disability", serviceType: "Social Security Disability Application Legal Representation" },
 ] as const satisfies readonly PracticeRegistryEntry[];
 
 export type PracticeEntry = (typeof practiceRegistry)[number];

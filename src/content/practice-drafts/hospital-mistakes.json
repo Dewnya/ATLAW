@@ -1,0 +1,1740 @@
+{
+ "slug": "hospital-mistakes",
+ "section": "personal-injury",
+ "status": "draft",
+ "seoTitle": "Michigan Hospital Negligence Lawyer – Suing a Hospital for Malpractice",
+ "seoDescription": "Harmed by a hospital mistake in Michigan? When the hospital itself is liable, when it answers for its doctors, the 2-year deadline, and the special rules for U-M, Hurley, and VA hospitals. Free review.",
+ "h1": "Hospital Negligence Lawyer Michigan",
+ "tagline": "The hospital will say the doctor was not its employee. Michigan law has had an answer to that since 1978.",
+ "primaryKeyword": "hospital negligence lawyer michigan",
+ "secondaryKeywords": [
+  "hospital negligence lawyer",
+  "hospital malpractice lawyer",
+  "hospital negligence attorney",
+  "hospital negligence",
+  "sue a hospital michigan",
+  "hospital mistakes lawyer michigan"
+ ],
+ "intro": [
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "In November 2025, the Leapfrog Group’s twice-yearly safety grades placed Michigan 35th among the states, its lowest rank on record, with 21.5% of the state’s 79 graded hospitals earning an A and three metro Detroit hospitals receiving an F. On any given day, about one in 38 hospital patients in the United States has an infection acquired in the hospital. Medication errors, falls, pressure injuries, retained surgical items, missed diagnoses in the emergency department, and premature discharges are measured, tracked, and largely preventable, which is why a hospital injury is so often a negligence claim rather than a bad outcome."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "Suing a hospital in Michigan raises questions a claim against a single doctor does not. When is the hospital itself negligent, as opposed to answering for someone else’s mistake? When does it answer for a physician it calls an independent contractor? Is the injury “malpractice,” with its two-year deadline and pre-suit requirements, or “ordinary negligence,” with three years and none? And what changes when the hospital is run by the University of Michigan, the City of Flint, or the federal government? This page answers each, with the statutes and the cases."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across Wayne, Oakland, Macomb, and Washtenaw counties. Hospital negligence cases are handled on contingency: no fee unless we recover money for you, and the first conversation is free."
+    }
+   ]
+  }
+ ],
+ "sections": [
+  {
+   "id": "hospital-safety-in-michigan-the-numbers",
+   "heading": "Hospital safety in Michigan: the numbers",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Measure"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Figure"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Source"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "Michigan hospitals graded A for safety, fall 2025"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "21.5% of 79 graded hospitals (down from 29.6% in spring 2025)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Leapfrog Hospital Safety Grade, Nov. 2025"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Michigan’s rank among states"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "35th, down 11 places, the lowest recorded"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Leapfrog, Nov. 2025"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Michigan hospitals graded F, fall 2025"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "3, all in metro Detroit"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Leapfrog, Nov. 2025"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "U.S. hospital patients with a healthcare-associated infection on a given day"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "About 1 in 38"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "CDC, July 2026"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Michigan medical malpractice non-economic damages cap, 2026"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$596,400 standard; $1,065,000 for the most severe injuries"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.1483; State Treasurer"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Leapfrog’s grades rest on measures that are also the categories of hospital negligence claims: infections, surgical errors, falls, pressure injuries, medication safety practices, and staffing."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "two-ways-a-hospital-is-liable",
+   "heading": "Two ways a hospital is liable",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "1. For its own negligence (direct liability)."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " A hospital owes patients duties that belong to the institution, not to any one clinician:"
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Credentialing and privileging"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": granting or renewing privileges to a physician the hospital knew or should have known was incompetent or impaired. Michigan courts have considered negligent credentialing allegations against hospitals, although the availability of an independent negligent credentialing claim has not been definitively resolved. Credentialing records collected for a protected peer-review function are generally privileged."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Staffing"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": nurse-to-patient ratios and skill mix that make monitoring, medication administration, and fall prevention impossible to perform to standard."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Policies and systems"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": medication reconciliation, surgical counts, time-outs, infection control, sepsis screening, handoff procedures, and the equipment and alarms that implement them."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Supervision of residents and students"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " in teaching hospitals."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Premises and equipment"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": a wet floor, a broken bed rail, a malfunctioning lift."
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "2. For the negligence of others (vicarious liability)."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Employees"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": nurses, technicians, pharmacists, residents, and employed physicians. The hospital answers for their negligence within the scope of employment."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Physicians the hospital calls independent contractors"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": emergency physicians, radiologists, anesthesiologists, hospitalists, and specialists supplied by staffing companies. The hospital’s standard defense is that it is not responsible for them. Michigan’s ostensible agency doctrine answers that defense: a patient who looked to the hospital for care, rather than to a particular physician, and who was assigned a physician by the hospital, may hold the hospital liable unless the patient was told and understood that the physician was not the hospital’s agent (Grewe v Mt Clemens General Hospital, 1978). The Michigan Supreme Court reaffirmed the rule in Markel v William Beaumont Hospital (2022) and, by order of July 9, 2025, held that an emergency department patient assigned a treating physician without a prior relationship need not show an additional act of reliance to establish a factual question of ostensible agency. The admission paperwork, with its fine-print statement that physicians are independent contractors, is where this issue is fought."
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Identifying which theory applies to which defendant is the first task, because Michigan’s expert-witness requirements and the applicability of malpractice damages caps depend on the nature of the claims."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "malpractice-or-ordinary-negligence-the-question-that-decides-the-rules",
+   "heading": "Malpractice or ordinary negligence: the question that decides the rules",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Not every injury in a hospital is medical malpractice. Michigan’s Supreme Court set the test in Bryant v Oakpointe Villa Nursing Centre (2004): a claim is malpractice if it arose within a professional relationship and raises questions of medical judgment beyond the common knowledge of lay people; otherwise it is ordinary negligence. The difference is procedural and decisive:"
+      }
+     ]
+    },
+    {
+     "t": "table",
+     "head": [
+      [],
+      [
+       {
+        "t": "text",
+        "v": "Medical malpractice"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Ordinary negligence"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "Deadline"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "2 years, 6-month discovery rule, 6-year repose (MCL 600.5805(8), 600.5838a)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "3 years (MCL 600.5805(2))"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Pre-suit notice"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "182-day notice of intent (MCL 600.2912b)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "None"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Affidavit of merit"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Required, from a same-specialty expert (MCL 600.2912d, 600.2169)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "None"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Non-economic damages"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Capped (MCL 600.1483)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Uncapped"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Examples"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "A fall involving negligent medical assessment of a patient's fall risk or clinically necessary precautions; a pressure injury from failure to reposition; a medication dose error; a missed diagnosis"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "A fall on a wet hallway floor; a bed that collapsed; a visitor’s injury"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "A hospital will argue that a fall or a pressure injury is malpractice, to invoke the shorter deadline and the cap; the injured patient’s lawyer analyzes the facts under Bryant before the two-year mark passes, because a claim filed as ordinary negligence after two years will be dismissed if a court decides it was malpractice. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "ATTORNEY CHECK",
+         "v": "current application of Bryant to nursing care claims"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "common-hospital-negligence-claims-in-michigan",
+   "heading": "Common hospital negligence claims in Michigan",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Error"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "What the standard requires"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Typical evidence"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "Emergency department misdiagnosis or delay (stroke, heart attack, sepsis, aortic dissection, appendicitis, meningitis)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Triage within standard times, appropriate workup, specialist consultation, admission or transfer"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Triage notes, vital-sign trends, order and result timestamps, EMTALA transfer records"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Medication errors"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Five rights (patient, drug, dose, route, time), allergy checks, reconciliation at admission and discharge, pharmacy verification"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Medication administration record, pharmacy logs, pump data"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Hospital-acquired infections (central line, catheter, surgical site, C. difficile, MRSA)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "CDC and hospital infection-control protocols; hand hygiene; line and catheter care and removal"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Infection-control surveillance data, line-day records, culture results"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Falls"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Fall-risk assessment and a care plan matched to it: alarms, assistance, low beds, rounding"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Risk scores, care plan, nursing rounding logs, incident report (often privileged)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Pressure injuries"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Skin assessment on admission, repositioning schedule, support surfaces, nutrition"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Braden scores, turning records, wound photographs, dietitian notes"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Retained surgical items and wrong-site surgery"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Counts, time-outs, imaging when counts are off; the Universal Protocol"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Count sheets, operative report, imaging; res ipsa loquitur may apply"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Failure to monitor and rescue"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Response to deteriorating vital signs; rapid-response activation; telemetry monitoring"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Monitor data, nursing notes, rapid-response and code records"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Premature or unsafe discharge"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Discharge criteria met, instructions given, follow-up arranged, transport appropriate"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Discharge summary, instructions, vital signs at discharge"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Birth injuries"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Fetal monitoring interpretation, timely cesarean, neonatal resuscitation"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Fetal monitor strips, labor records, Apgar and cord gas results"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Surgical errors and anesthesia errors"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Surgical and anesthesia standards"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "See our "
+        },
+        {
+         "t": "link",
+         "href": "about:blank",
+         "c": [
+          {
+           "t": "text",
+           "v": "medical malpractice"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "v": " and "
+        },
+        {
+         "t": "link",
+         "href": "about:blank",
+         "c": [
+          {
+           "t": "text",
+           "v": "anesthesia error"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "v": " pages"
+        }
+       ]
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "michigans-medical-malpractice-procedure",
+   "heading": "Michigan’s medical malpractice procedure",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Step"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Requirement"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Statute"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "Records"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Request the complete chart under the Medical Records Access Act; the hospital generally must respond within 30 days, or within 60 days for records not maintained or accessible on-site, subject to statutory extensions and permitted fees."
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 333.26261 et seq."
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Expert review"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Expert review is generally necessary to support the allegations and prepare the affidavit of merit required with the malpractice complaint."
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.2169"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Notice of intent"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Served on every defendant at least 182 days before suit; states the factual basis, standard of care, breach, what should have been done, and causation; tolls the deadline during the notice period; the hospital must respond within 154 days"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.2912b, 600.5856(c)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Complaint and affidavit of merit"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Filed together; the affidavit from a qualified expert for each defendant’s specialty"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.2912d"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Expert qualifications"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Same specialty; if the defendant is board-certified, the expert must be; for a hospital’s nursing negligence, a nursing expert"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.2169"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Lost opportunity"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "A reduced chance of a better outcome is compensable only if the lost opportunity exceeds 50%"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.2912a(2)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Damages cap"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Non-economic damages capped at $596,400 (2026), or $1,065,000 for qualifying total permanent functional limb loss from brain or spinal cord injury, permanent cognitive impairment preventing independent responsible decisions and normal daily activities, or permanent reproductive-organ damage causing inability to procreate; economic damages uncapped."
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.1483"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Peer review privilege"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Incident reports, peer review, and quality-assurance records are generally protected from discovery; the primary chart, monitor data, and policies are not"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 333.20175(8), 333.21515"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Apology statute"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Expressions of sympathy are inadmissible; admissions of fault are not protected"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.2155"
+        }
+       ]
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "government-and-federal-hospitals-different-courts-different-clocks",
+   "heading": "Government and federal hospitals: different courts, different clocks",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Michigan’s governmental immunity act does not shield a public hospital from liability for medical care (MCL 691.1407(4)), but suing one changes the procedure:"
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "University of Michigan Health (Michigan Medicine, Ann Arbor) and other state-university hospitals."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Claims against the state and its universities are heard in the Michigan Court of Claims, without a jury, and require the claim itself or a qualifying notice of intention to be filed with the Court of Claims within six months after the event giving rise to the claim, in addition to compliance with the medical malpractice notice-of-intent requirements (MCL 600.6431, 600.2912b)."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "City- and county-owned hospitals"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " (Hurley Medical Center in Flint, for example) are sued in circuit court under the malpractice rules; governmental immunity does not apply to the medical care itself."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Veterans Affairs hospitals"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " (John D. Dingell VA Medical Center in Detroit, the Ann Arbor VA). Claims against the United States proceed under the Federal Tort Claims Act: an administrative claim, commonly submitted on Standard Form 95 or another qualifying written claim stating a sum certain, must be presented to the VA within two years after the federal claim accrues. Suit may be filed in federal court after a final denial or six months of agency inaction, with six months to sue after a final written denial (28 USC 2401(b), 2675). Michigan substantive law, including the damages cap, applies; there is no jury. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "ATTORNEY CHECK",
+          "v": "application of Michigan’s NOI and affidavit requirements in FTCA cases"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Federally funded community health centers"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " are also covered by the FTCA under the Federally Supported Health Centers Assistance Act, a trap for the unwary: a claim against what looks like a private clinic may have a two-year federal presentment deadline."
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-hospitals-of-metro-detroit",
+   "heading": "The hospitals of metro Detroit",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The firm’s clients are treated in the systems that dominate southeast Michigan: Corewell Health (formerly Beaumont, with hospitals in Royal Oak, Troy, Dearborn, Farmington Hills, Taylor, Trenton, Wayne, and Grosse Pointe), Henry Ford Health (Detroit, West Bloomfield, Wyandotte, Macomb, Jackson, and the former Ascension southeast Michigan hospitals brought into its 2024 joint venture, Detroit Medical Center (Detroit Receiving, Harper, Hutzel, Sinai-Grace, Children’s), Trinity Health (Ann Arbor, Livonia, Oakland, Pontiac), McLaren (Oakland, Macomb, Flint), University of Michigan Health, and the VA. Each has its own employment structure for physicians, its own admission forms, and, for U-M and the VA, its own court. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "ATTORNEY CHECK",
+         "v": "accuracy and currency of the system list"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-to-do-if-you-suspect-hospital-negligence",
+   "heading": "What to do if you suspect hospital negligence",
+   "blocks": [
+    {
+     "t": "ol",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Request the complete medical record in writing"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", under the Medical Records Access Act, including nursing notes, medication administration records, monitor strips, imaging, and the admission paperwork you signed."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Write down the timeline"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " as you remember it, including names, times, what you were told, and by whom."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Photograph visible injuries"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " (pressure wounds, surgical sites, bruises from falls) with dates."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Do not sign a release, accept a bill write-off as a settlement, or give a recorded statement"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " to the hospital’s risk management or insurer before speaking to a lawyer. You may receive a letter expressing sympathy; under Michigan’s apology statute, an expression of sympathy is not, by itself, an admission of fault or a resolution."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Keep treating"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", and have the injury documented by independent physicians."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Call a malpractice lawyer within months."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " The two-year deadline, the 182-day notice, and the expert review needed to evaluate the claim leave less time than the calendar suggests, and the six-month Court of Claims notice for U-M is shorter still."
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-a-michigan-hospital-negligence-case-is-worth",
+   "heading": "What a Michigan hospital negligence case is worth",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Economic damages, uncapped: past and future medical care, including care made necessary by the error, lost wages and earning capacity, and attendant care. Non-economic damages, capped under MCL 600.1483 at $596,400 or $1,065,000 in 2026. In a death, the losses recoverable under the wrongful death act (MCL 600.2922), including the family’s loss of society and companionship, within the cap. Hospital cases may differ from single-physician cases in collectibility: a hospital system may be self-insured or carry substantial insurance, and a case with direct and vicarious theories against the institution may provide additional sources of recovery when liability and available coverage support them."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "deadlines-for-michigan-hospital-negligence-claims",
+   "heading": "Deadlines for Michigan hospital negligence claims",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Deadline"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Time"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Statute"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "Medical malpractice lawsuit"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "2 years from the act or omission"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5805(8)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Discovery rule"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "6 months from when the claim was or should have been discovered"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5838a(2)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Statute of repose"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "6 years, with exceptions"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5838a(2)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Notice of intent"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Served at least 182 days before suit; tolls the deadline"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.2912b, 600.5856(c)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Ordinary negligence against a hospital (non-medical)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "3 years"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5805(2)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Court of Claims notice (U-M and state hospitals)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "6 months from the injury"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.6431"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Federal Tort Claims Act (VA, federally funded clinics)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Administrative claim within 2 years; suit within 6 months of denial"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "28 USC 2401(b), 2675"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Wrongful death"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "2 years, with the estate’s saving provision"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5805, 600.5852"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Child’s malpractice claim"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "For a claim arising before age 8: until the child's 10th birthday or within the applicable period under MCL 600.5838a, whichever is later. A separate rule applies to qualifying reproductive-system injuries under MCL 600.5851(8)."
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5851(7) "
+        },
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "placeholder",
+           "kind": "ATTORNEY CHECK",
+           "v": ""
+          }
+         ]
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Medical records request"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Generally within 30 days; up to 60 days for off-site records, subject to statutory extensions."
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 333.26265"
+        }
+       ]
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "why-metro-detroit-patients-call-atlaw-for-hospital-cases",
+   "heading": "Why metro Detroit patients call ATLAW for hospital cases",
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Thirteen years, more than 10,000 cases, more than $100 million recovered."
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Both liability theories built"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": the hospital’s own negligence and its responsibility for employed and contracted physicians under Grewe and Markel. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": ""
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The Bryant analysis done early"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", so a fall or pressure-injury case is filed under the right rules before the two-year mark. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": ""
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Same-specialty experts"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", including nursing experts for nursing-care claims. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": "expert network"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Court of Claims and FTCA cases handled"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", for U-M and VA patients. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": ""
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Dearborn, and the whole metro area."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Languages."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "No fee unless we recover."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs. No cost for the first conversation."
+       }
+      ]
+     ]
+    }
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Can I sue the hospital, or only the doctor?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Often both. The hospital is liable for its own negligence (credentialing, staffing, policies) and for its employees, and under Michigan’s ostensible agency rule it can be liable for an independent-contractor physician it assigned to you unless you were told and understood otherwise (Grewe, 1978; Markel v Beaumont, 2022, 2025)."
+    }
+   ]
+  },
+  {
+   "question": "The admission form said the doctors were independent contractors. Does that end it?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Not by itself. Whether you were actually advised and understood that the physician was not the hospital’s agent, in the circumstances of an emergency admission, is a fact question for a jury under Markel."
+    }
+   ]
+  },
+  {
+   "question": "How long do I have to sue a hospital in Michigan?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Two years for malpractice (with a six-month discovery rule and a six-year outer limit), three years for ordinary negligence, and a 182-day notice of intent must precede a malpractice suit. Six months to notify the Court of Claims for U-M; two years to present an FTCA claim for a VA hospital."
+    }
+   ]
+  },
+  {
+   "question": "Is a fall in the hospital malpractice or negligence?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "It depends on whether the claim involves medical judgment (such as a negligent clinical fall-risk assessment) or common knowledge (such as a wet floor or failure to address an obvious hazard), under Bryant v Oakpointe (2004). The answer decides the deadline and the cap."
+    }
+   ]
+  },
+  {
+   "question": "Is there a cap on damages against a hospital?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Non-economic damages in a malpractice claim are capped ($596,400 or $1,065,000 in 2026). Economic damages are not. Ordinary negligence claims are not capped."
+    }
+   ]
+  },
+  {
+   "question": "Can I get the hospital’s incident report?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Usually not; incident reports prepared for qualifying peer-review functions and other peer-review materials are generally privileged in Michigan. The patient's chart, monitor data, and independently maintained hospital records may be available through discovery."
+    }
+   ]
+  },
+  {
+   "question": "I was treated at the University of Michigan hospital. Is the process different?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Yes. Claims against U-M are filed in the Court of Claims, require the claim itself or a qualifying notice of intention to be filed within six months, and must comply with the separate malpractice notice-of-intent requirements. They are decided without a jury."
+    }
+   ]
+  },
+  {
+   "question": "My family member was harmed at the VA hospital in Detroit. Can we sue?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Yes, under the Federal Tort Claims Act: an administrative claim within two years, then suit in federal court. Michigan law governs the substance."
+    }
+   ]
+  },
+  {
+   "question": "What is a hospital-acquired infection claim?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "A claim that the hospital failed to follow infection-control standards for lines, catheters, surgical sites, or isolation, proved with infection-control records and expert testimony. Not every infection is negligence; the records show which ones are."
+    }
+   ]
+  },
+  {
+   "question": "How much does it cost to sue a hospital?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Nothing up front. Cases are taken on contingency, and the firm advances expert and record costs for accepted cases, which in a hospital case can be substantial."
+    }
+   ]
+  }
+ ],
+ "cta": {
+  "id": "talk-to-a-michigan-hospital-negligence-lawyer",
+  "heading": "Talk to a Michigan hospital negligence lawyer",
+  "blocks": [
+   {
+    "t": "p",
+    "c": [
+     {
+      "t": "text",
+      "v": "If you or a family member was harmed by a hospital mistake anywhere in Michigan, call "
+     },
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "text",
+        "v": "(313) 406-7606"
+       }
+      ]
+     },
+     {
+      "t": "text",
+      "v": " or send the form on this page. We obtain the complete record, have it reviewed by the right specialists, identify every responsible party including the hospital, and tell you which rules and deadlines apply to your case. We respond within one business day, and there is no fee unless we recover money for you."
+     }
+    ]
+   }
+  ]
+ },
+ "wordCount": 2908,
+ "openItems": 8,
+ "source": {
+  "file": "B2-04_Michigan-Hospital-Negligence-Lawyer.docx",
+  "delivered": "2026-10-16"
+ }
+}
