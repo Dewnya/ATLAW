@@ -17,7 +17,7 @@ delivered: October 23, 2026 [CONFIRM: Batch 3 delivery date]
 
 A car crash in Sterling Heights is a Michigan no-fault claim shaped by a few very busy roads. Van Dyke runs north through the city past the Stellantis plants and becomes the M-53 freeway at 18½ Mile. Hall Road (M-59) carries the retail traffic across the north. Mound carries the plant freight. Dequindre, Ryan, Schoenherr, Hayes, and the mile roads from Fourteen to Nineteen fill in the grid. In 2025, according to Michigan State Police crash data, 18½ Mile at Van Dyke recorded 210 crashes, more than any other intersection in Michigan; 11 Mile at Van Dyke in Warren was second. A Sterling Heights crash claim usually turns on two things: who had the right of way, and how much insurance is on the other side.
 
-ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Boulevard in Dearborn, has handled more than 10,000 cases, and has recovered more than $100 million for clients. Our [Michigan car accident lawyer page](/personal-injury/auto-accidents) covers the law in full, our [Macomb County car accident page](/personal-injury/auto-accidents/macomb-county) covers the county, and our [Sterling Heights page](/personal-injury/personal-injury) covers every kind of injury claim in the city. The first conversation is free, in English, Arabic, French, Mandarin, Urdu, or Spanish: (313) 406-7606.
+ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Boulevard in Dearborn, has handled more than 10,000 cases, and has recovered more than $100 million for clients. Our [Michigan car accident lawyer page](/personal-injury/auto-accidents) covers the law in full, our [Macomb County car accident page](/personal-injury/auto-accidents/macomb-county) covers the county, and our [Sterling Heights page](/personal-injury/personal-injury/sterling-heights) covers every kind of injury claim in the city. The first conversation is free, in English, Arabic, French, Mandarin, Urdu, or Spanish: (313) 406-7606.
 
 ## Sterling Heights and Macomb County crashes, 2024
 
@@ -41,7 +41,7 @@ Macomb County recorded two more deaths than Oakland County in 2024 on about 14,0
 
 **Hall Road (M-59).** The retail corridor across the north of the city, from Dequindre to Hayes: big-box strips, restaurants, medical offices, and the former Lakeside Mall site, whose redevelopment will change traffic for years. Signal crashes at Van Dyke, Schoenherr, Hayes, and Mound; low-speed crashes and pedestrian strikes in the parking lots (see our [pedestrian accident page](/personal-injury/pedestrian-accidents)); and the drivers leaving Hall Road’s restaurants and bars at night.
 
-**Mound Road.** The plant corridor, rebuilt from I-696 to M-59 in the Innovate Mound project, carrying tractor-trailers to and from Ford’s Sterling Axle Plant and the supplier plants at shift changes. Turning-truck crashes at the gates and rear-end crashes into slowing trucks are Mound’s cases; see our [Sterling Heights truck accident page](/personal-injury/truck-accidents).
+**Mound Road.** The plant corridor, rebuilt from I-696 to M-59 in the Innovate Mound project, carrying tractor-trailers to and from Ford’s Sterling Axle Plant and the supplier plants at shift changes. Turning-truck crashes at the gates and rear-end crashes into slowing trucks are Mound’s cases; see our [Sterling Heights truck accident page](/personal-injury/truck-accidents/sterling-heights).
 
 **Dequindre and the Troy line.** Dequindre is the boundary with Oakland County, so a crash there can involve Troy drivers, Oakland County roads, and a choice of courts.
 
@@ -87,7 +87,7 @@ Our [full checklist](about:blank) covers the first day, week, month, and year.
 
 ## The courts
 
-Claims up to $25,000, including mini tort claims, are filed in the 41A District Court, Sterling Heights division, at 40111 Dodge Park Road. Injury suits over $25,000 go to the Sixteenth Judicial Circuit Court at 40 N. Main Street in Mount Clemens. A crash on Dequindre, or with an Oakland County defendant, may allow filing in the Oakland County Circuit Court instead (MCL 600.1629). Defect claims against MDOT go to the Court of Claims. A fatal crash is brought by the estate through the Macomb County Probate Court; see our [Sterling Heights wrongful death page](/personal-injury/wrongful-death).
+Claims up to $25,000, including mini tort claims, are filed in the 41A District Court, Sterling Heights division, at 40111 Dodge Park Road. Injury suits over $25,000 go to the Sixteenth Judicial Circuit Court at 40 N. Main Street in Mount Clemens. A crash on Dequindre, or with an Oakland County defendant, may allow filing in the Oakland County Circuit Court instead (MCL 600.1629). Defect claims against MDOT go to the Court of Claims. A fatal crash is brought by the estate through the Macomb County Probate Court; see our [Sterling Heights wrongful death page](/personal-injury/wrongful-death/sterling-heights).
 
 ## Deadlines for Sterling Heights crash claims
 

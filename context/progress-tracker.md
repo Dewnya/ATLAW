@@ -568,6 +568,11 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - New scratchpad tool `fix_links.py`: resolves city-prefixed link text to the city page when that page exists and to the statewide page otherwise, so pages can link ahead to cities still in progress without 404s. The three batch-9 Warren fallbacks now point at the new Warren comp and nursing home pages
   - Verified: import 101 drafts, typecheck and production build clean (7 pages), all five pages render
 
+- [x] City practice pages, batch 11 of 15: Sterling Heights personal injury, truck, motorcycle, wrongful death, slip and fall (Oct 28, 2026) — B3-22 to B3-26
+  - 120 reviewer comments applied; all five pages have 0 open items: the 2024 Sterling Heights crash totals and deaths, the five certified nursing homes, the Macomb motorcycle figures, the 24.2 percent renter share, the 2025 intersection data, the Mount Clemens probate court address, the Henry Ford Medical Center – Sterling Heights correction, the 120-day Court of Claims notice on every road-agency passage, the invitee duty rewrite, and her approvals on 46 attorney-check and confirm passages; her delete instructions removed the city-level truck and motorcycle crash rows
+  - `fix_links.py` extended: hub-list links (Car accidents, Slip and fall, …) and bare practice-page links resolve against the page's own city when that page exists, otherwise the statewide page
+  - Verified: import 106 drafts, typecheck and production build clean (7 pages), the Sterling Heights hub, wrongful death and motorcycle pages render
+
 ### Open Questions
 
 - [ ] **PRE-LAUNCH — Text Us number.** Confirm with the firm whether (313) 406-7606 can receive SMS, or get a dedicated SMS number. Then set `SMS_NUMBER` in `src/data/contact.ts` (the Text buttons in the header and mobile bar appear automatically).
