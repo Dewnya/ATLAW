@@ -145,7 +145,7 @@ Fees are set by federal law and approved by Social Security: the lesser of 25 pe
 
 **Do I need my medical records before I apply?** No. List every provider with dates and sign the release; Social Security requests the records. But having your own copies lets you check that nothing was missed and gives your lawyer the file to work from.
 
-**I receive workers’ compensation. Can I still apply?** Yes. SSDI may be reduced so that combined benefits do not exceed 80 percent of your pre-disability earnings, under 20 CFR 404.408, and the application asks for your workers’ compensation information. **[ATTORNEY CHECK: Michigan offset rules]**
+**I receive workers’ compensation. Can I still apply?** Yes. SSDI may be reduced when combined workers’ compensation and Social Security disability benefits exceed the applicable federal limit, generally based on 80 percent of average pre-disability earnings or the total family benefit, whichever is higher, under 20 CFR 404.408. The application asks for your workers’ compensation information.
 
 **What is State Disability Assistance?** Michigan’s cash assistance program for disabled adults who are not yet receiving SSI. It is paid while the Social Security claim is pending and reimbursed to the state from the first SSI payment.
 

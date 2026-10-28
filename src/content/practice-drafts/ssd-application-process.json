@@ -1355,17 +1355,7 @@
    "answer": [
     {
      "t": "text",
-     "v": "Yes. SSDI may be reduced so that combined benefits do not exceed 80 percent of your pre-disability earnings, under 20 CFR 404.408, and the application asks for your workers’ compensation information. "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "ATTORNEY CHECK",
-       "v": "Michigan offset rules"
-      }
-     ]
+     "v": "Yes. SSDI may be reduced when combined workers’ compensation and Social Security disability benefits exceed the applicable federal limit, generally based on 80 percent of average pre-disability earnings or the total family benefit, whichever is higher, under 20 CFR 404.408. The application asks for your workers’ compensation information."
     }
    ]
   },
@@ -1416,8 +1406,8 @@
    }
   ]
  },
- "wordCount": 2992,
- "openItems": 8,
+ "wordCount": 3004,
+ "openItems": 7,
  "source": {
   "file": "B2-14_How-to-Apply-Social-Security-Disability-Michigan.docx",
   "delivered": "2026-10-16"
