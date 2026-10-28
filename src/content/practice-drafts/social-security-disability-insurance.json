@@ -1,0 +1,1928 @@
+{
+ "slug": "social-security-disability-insurance",
+ "section": "disability",
+ "status": "draft",
+ "seoTitle": "Michigan SSDI Lawyer – Work Credits, Date Last Insured, Benefit Amount (2026)",
+ "seoDescription": "SSDI in Michigan: whether you are insured, the date-last-insured trap, how the benefit is calculated, the 2026 figures, the five-month wait, back pay, Medicare, family benefits, and how 280,000 Michigan workers qualified. Free review.",
+ "h1": "SSDI Lawyer Michigan",
+ "tagline": "SSDI is insurance you already paid for. The claim is about proving the loss occurred while the policy was in force.",
+ "primaryKeyword": "ssdi lawyer michigan",
+ "secondaryKeywords": [
+  "michigan ssdi lawyer",
+  "ssdi michigan",
+  "ssdi attorney",
+  "ssdi eligibility",
+  "ssdi work credits",
+  "how much is ssdi in michigan",
+  "what is ssdi"
+ ],
+ "intro": [
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "Social Security Disability Insurance is exactly what its name says: insurance. Every paycheck that had Social Security tax withheld paid a premium, and the policy pays a monthly benefit if you become unable to work before retirement age. In December 2025, 280,455 disabled Michigan workers were collecting on it, 54,205 of them in Wayne County, 23,615 in Macomb, 22,235 in Oakland, and 6,120 in Washtenaw, at an average of roughly $1,650 a month."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "Because SSDI is insurance, the claim has two parts that other disability pages tend to blur. The first is "
+    },
+    {
+     "t": "strong",
+     "c": [
+      {
+       "t": "text",
+       "v": "coverage"
+      }
+     ]
+    },
+    {
+     "t": "text",
+     "v": ": were you insured when you became disabled? That depends on how recently you worked and, for many Michigan claimants who stopped working years before they applied, it is the question that decides the case. The second is "
+    },
+    {
+     "t": "strong",
+     "c": [
+      {
+       "t": "text",
+       "v": "the loss"
+      }
+     ]
+    },
+    {
+     "t": "text",
+     "v": ": are you disabled under the federal definition, and since when? The onset date determines not only whether you were covered but how much back pay you receive and when Medicare begins."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "This page explains both. It covers the work-credit rules and the date last insured, how the benefit is calculated and what it pays in 2026, the five-month waiting period and retroactive benefits, Medicare, the benefits your family can draw on your record, how SSDI differs from SSI and from private disability insurance, what happens after approval, and what a Michigan SSDI lawyer does at each stage."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "ATLAW is a Dearborn law firm serving clients for 13 years, with more than 10,000 cases handled. The firm represents Michigan SSDI claimants from the application through the hearing and beyond. "
+    },
+    {
+     "t": "strong",
+     "c": [
+      {
+       "t": "placeholder",
+       "kind": "CONFIRM",
+       "v": "the firm handles Social Security disability claims in-house and the attorney who leads the practice"
+      }
+     ]
+    },
+    {
+     "t": "text",
+     "v": " There is no fee unless you win, and the fee is set by federal law."
+    }
+   ]
+  }
+ ],
+ "sections": [
+  {
+   "id": "ssdi-in-michigan-the-numbers",
+   "heading": "SSDI in Michigan: the numbers",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Measure"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Figure"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Source"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "Disabled workers receiving SSDI in Michigan, December 2025"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "280,455"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "SSA, OASDI Beneficiaries by State and County, 2025"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Wayne / Macomb / Oakland / Washtenaw counties"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "54,205 / 23,615 / 22,235 / 6,120"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Same"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Total monthly SSDI paid to Michigan disabled workers"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "About $463.8 million"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Same"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Average monthly benefit, Michigan disabled workers"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "About $1,650 (derived from the two figures above)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Same"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Average SSDI benefit nationally, January 2026"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$1,630"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "SSA 2026 COLA fact sheet"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Earnings for one work credit, 2026"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$1,890 (four credits maximum per year)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "SSA 2026 COLA fact sheet"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Substantial gainful activity, 2026"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$1,690 a month ($2,830 blind)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Same"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Trial work period month, 2026"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$1,210"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Same"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Waiting period"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Five full months (waived for ALS)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "42 USC 423(c)(2)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Retroactive benefits"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Up to 12 months before the application date"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "20 CFR 404.621"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Medicare"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "24 months after SSDI entitlement"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "42 USC 426(b)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Cost-of-living adjustment, 2026"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "2.8%"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "SSA 2026 COLA fact sheet"
+        }
+       ]
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "are-you-insured-work-credits-and-the-date-last-insured",
+   "heading": "Are you insured? Work credits and the date last insured",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "You earn Social Security credits by working in jobs covered by Social Security tax. In 2026, one credit is earned for each $1,890 in wages or self-employment income, up to four credits a year. To receive SSDI you must be both "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "fully insured"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " and "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "disability insured"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ", under 20 CFR 404.130–404.132:"
+      }
+     ]
+    },
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Age when disability began"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Credits required"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "31 or older"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "20 credits earned in the 10 years before disability began (the “20/40 rule”), and fully insured (generally one credit for each year after age 21, up to 40)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "24 to 30"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Credits for half the quarters between age 21 and the onset of disability"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Under 24"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "6 credits earned in the 3 years before disability began"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The 20/40 rule produces the "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "date last insured"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ": the last date on which you still had 20 credits in the preceding 40 quarters. For a worker who stops working, that date is typically about five years after the last substantial year of work. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "To receive SSDI, you must prove your disability began on or before your date last insured."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " A Michigan worker who left the line in 2019 because of her back and applies in 2026 might have had a date last insured around December 2024, depending on her earnings record; her claim may depend on establishing that her disability began before that date, however disabled she is today. This is one important reason an otherwise strong SSDI claim can fail, and it is why the medical records from the years "
+      },
+      {
+       "t": "em",
+       "c": [
+        {
+         "t": "text",
+         "v": "before"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " the application matter as much as the current ones. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "ATTORNEY CHECK",
+         "v": ""
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Two consequences follow. First, a worker whose date last insured has passed may still qualify for SSI if income and resources are low, and should apply for both. Second, a worker who is still insured but stopped working years ago should apply "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "now"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ", before the window closes, even if the records are incomplete; the protective filing date can be secured while the evidence is gathered."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The exception is "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "statutory blindness"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ", for which the 20/40 recency requirement does not apply; a blind worker need only be fully insured."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "how-the-benefit-is-calculated",
+   "heading": "How the benefit is calculated",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "SSDI is not a flat amount and does not depend on how disabled you are. It is your "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "primary insurance amount"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ", the same figure Social Security would pay you at full retirement age, calculated from your earnings record:"
+      }
+     ]
+    },
+    {
+     "t": "ol",
+     "items": [
+      [
+       {
+        "t": "text",
+        "v": "Your lifetime covered earnings are indexed to current wage levels."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "The highest-earning years are averaged into "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "average indexed monthly earnings"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " (AIME); for a disability claim, the number of years used is reduced according to your age, so that a worker disabled at 40 is not penalized for the years she did not get to work."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "A progressive formula converts AIME to the primary insurance amount: 90 percent of the first portion, 32 percent of the next, and 15 percent above that, with the “bend points” between them adjusted each year. For workers first eligible in 2026, those bend points are $1,286 and $7,749. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "ATTORNEY CHECK",
+          "v": "2026 bend points"
+         }
+        ]
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The result is why the average Michigan benefit is about $1,650 while the maximum is $4,152: the formula replaces a larger share of earnings for lower-paid workers. Your own estimate is on your Social Security Statement at ssa.gov/myaccount, labeled as the disability benefit you would receive if you became disabled now. Benefits increase each January by the cost-of-living adjustment (2.8 percent for 2026)."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The years you spend on SSDI are a "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "disability freeze"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ": they are excluded from the retirement calculation so that zero-earning years do not reduce your eventual retirement benefit. At full retirement age, SSDI converts to a retirement benefit in the same amount."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-onset-date-the-waiting-period-and-back-pay",
+   "heading": "The onset date, the waiting period, and back pay",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "The alleged onset date"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " is the date you claim your disability began. Social Security’s decision sets an "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "established onset date"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ", which may be the same or later. The established onset date must be on or before the date last insured, and it drives everything that follows:"
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The waiting period."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " SSDI pays nothing for the first five full calendar months after onset; the first payment is for the sixth month. If your onset was years ago, the waiting period has long since run. The waiting period is waived for ALS."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Retroactive benefits."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " SSDI can pay for up to "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "12 months before the month you applied"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", less the waiting period, if you were disabled that early. A claimant disabled in 2023 who applies in October 2026 is paid from October 2025 at the earliest, no matter how long she was disabled before. This is why delaying an application costs money that cannot be recovered."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Back pay."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Benefits accrue from the first month of entitlement to the month of approval and are paid in a lump sum. A claim approved at a hearing two years after filing often produces a back-pay award of 30 months or more."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Medicare."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " The 24-month Medicare waiting period runs from the first month of entitlement, so the back-pay months count. A claimant approved after two years of appeals is usually eligible for Medicare immediately."
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Establishing the onset date requires evaluating the medical and work records to determine when the claimant met Social Security’s disability and insured-status requirements. An onset the evidence cannot support invites a "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "partially favorable"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " decision that moves the date later and can, in a date-last-insured case, defeat the claim entirely. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "ATTORNEY CHECK",
+         "v": ""
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-else-ssdi-brings",
+   "heading": "What else SSDI brings",
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Medicare Parts A and B generally after 24 months of SSDI entitlement, without that waiting period for qualifying ALS cases; end-stage renal disease has separate Medicare eligibility rules"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": "), with Part D drug coverage available. Part B’s premium is deducted from the benefit. Michigan’s Medicare Savings Programs can pay the premium for lower-income beneficiaries. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "ATTORNEY CHECK",
+          "v": ""
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Family benefits"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " on your record: children under 18 (or 19 in high school), a spouse caring for your child under 16, or a spouse age 62 or older, each up to 50 percent of your benefit within a family maximum of roughly 150 to 180 percent. Our "
+       },
+       {
+        "t": "link",
+        "href": "/disability/social-security-benefits",
+        "c": [
+         {
+          "t": "text",
+          "v": "Social Security benefits page"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " covers family, survivor, and disabled-adult-child benefits in detail."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Protection of your retirement benefit"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " through the disability freeze."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Work incentives"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": a nine-month trial work period, a 36-month extended period of eligibility, expedited reinstatement, and the Ticket to Work program, explained below."
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ssdi-ssi-and-private-disability-insurance",
+   "heading": "SSDI, SSI, and private disability insurance",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      [],
+      [
+       {
+        "t": "text",
+        "v": "SSDI"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "SSI"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Long-term disability insurance"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "Who pays"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Social Security trust fund, from payroll taxes you paid"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "General federal revenue"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Your employer’s or your own insurer"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Who qualifies"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Insured workers who meet the federal disability definition"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Disabled, blind, or aged people with limited income and resources"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Depends on the policy; often “own occupation” for two years, then “any occupation”"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Amount, 2026"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Your primary insurance amount; average about $1,650 in Michigan; maximum $4,152"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$994 individual, $1,491 couple, reduced by other income"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Typically 50–70% of salary, often reduced by SSDI"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Waiting period"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Five months"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "None"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Elimination period in the policy, often 90–180 days"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Health coverage"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Medicare after 24 months"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Medicaid"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "None"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Retroactive pay"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Up to 12 months before application"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "None"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Per policy"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Governing law"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Social Security Act Title II; 20 CFR 404"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Title XVI; 20 CFR 416"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "ERISA for employer plans; Michigan insurance law for individual policies"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Many Michigan claimants receive SSDI and SSI together when the SSDI benefit is below the SSI level; our "
+      },
+      {
+       "t": "link",
+       "href": "/disability/supplemental-security-income",
+       "c": [
+        {
+         "t": "text",
+         "v": "SSI page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " explains how the two combine. Many also have an employer long-term disability policy that requires them to apply for SSDI and offsets the LTD payment by the SSDI award; our "
+      },
+      {
+       "t": "link",
+       "href": "/disability/short-long-term-disability",
+       "c": [
+        {
+         "t": "text",
+         "v": "long-term disability page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " covers those claims and the offset."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "qualifying-the-medical-standard",
+   "heading": "Qualifying: the medical standard",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Insured status gets you in the door. The claim is then decided under the same five-step test as every Social Security disability claim, 20 CFR 404.1520: whether you are earning above $1,690 a month, whether your impairment is severe and will last 12 months, whether it meets or equals a Listing, whether you can do your past work (jobs in the last five years), and whether you can do any other work given your age, education, and experience. Our "
+      },
+      {
+       "t": "link",
+       "href": "/disability/qualifying-impairments",
+       "c": [
+        {
+         "t": "text",
+         "v": "conditions that qualify"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " page covers the Listings and the grid rules, and our "
+      },
+      {
+       "t": "link",
+       "href": "/disability/winning-your-disability-claim",
+       "c": [
+        {
+         "t": "text",
+         "v": "how to win your claim"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " page covers the evidence."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "One SSDI-specific point: because the question is whether you were disabled "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "as of the date last insured"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ", the evidence must speak to that period. A claimant with a 2024 date last insured and no medical records from 2022 to 2024 has an evidentiary gap that a current MRI alone may not resolve. Retrospective opinions from treating physicians, pharmacy records, employer attendance records, and lay statements from family and former coworkers are the tools for proving a disability that began before the records caught up with it. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "ATTORNEY CHECK",
+         "v": "SSR 18-1p on establishing onset"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-process-and-the-deadlines",
+   "heading": "The process and the deadlines",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Stage"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "What happens"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Deadline"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "Application"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Online, by phone (1-800-772-1213), or at a field office; the field office verifies insured status, then Michigan’s Disability Determination Service decides the medical question"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "None, but retroactive pay is limited to 12 months before filing"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Initial decision"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "About 36% approved nationally in FY 2025; several months"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "60 days to request reconsideration"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Reconsideration"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Paper review; about 16% approved"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "60 days to request a hearing"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Hearing"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "One of Michigan’s seven hearing offices; about 59% of decisions favorable in the year to July 2026; about 7 to 8 months’ wait"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "60 days to the Appeals Council"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Appeals Council, federal court"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Review for legal error"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "60 days each"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Our "
+      },
+      {
+       "t": "link",
+       "href": "/disability/ssd-application-process",
+       "c": [
+        {
+         "t": "text",
+         "v": "how to apply"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " and "
+      },
+      {
+       "t": "link",
+       "href": "/disability/ssd-appeals-process",
+       "c": [
+        {
+         "t": "text",
+         "v": "appeals"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " pages cover each stage in detail. The deadline at every level is 60 days from receipt of the notice, presumed five days after its date."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "after-approval",
+   "heading": "After approval",
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Working."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " You may test your ability to work for nine trial work months (any month over $1,210 in 2026) within a rolling 60-month period without losing benefits. For the following 36 months, benefits are paid for any month under the $1,690 substantial gainful activity level and suspended for months over it. If benefits end because of work and you become unable to work again within five years, expedited reinstatement restores them without a new application. Report earnings every month; unreported earnings are the leading cause of overpayments."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Continuing disability reviews"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " every six to eighteen months, three years, or five to seven years, depending on the expectation of improvement at approval. Benefits continue unless Social Security shows medical improvement related to the ability to work."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Overpayments."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " For applicable new Title II overpayment notices issued beginning April 25, 2025, Social Security generally uses a default withholding rate of 50 percent of the monthly benefit, subject to exceptions and requests for reconsideration, waiver, or a lower repayment rate. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "ATTORNEY CHECK",
+          "v": ""
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Offsets."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Workers’ compensation and certain public disability benefits reduce SSDI so that the combined total does not exceed 80 percent of pre-disability earnings; a Michigan workers’ compensation redemption should be drafted with the offset in mind. The Windfall Elimination Provision and Government Pension Offset were repealed effective January 2025."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Taxes."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Up to 85 percent of SSDI may be federally taxable above $25,000 (individual) or $32,000 (couple) in combined income; a lump-sum back payment can be allocated to prior years. Michigan does not tax Social Security benefits."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Conversion."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " At full retirement age, SSDI becomes a retirement benefit in the same amount."
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-an-ssdi-lawyer-does",
+   "heading": "What an SSDI lawyer does",
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Confirms insured status and the date last insured before anything else"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", from your earnings record, so that the claim is filed as SSDI, SSI, or both, with no technical denial in between. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": "practice"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Sets the onset date"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " the records can support, clearing the date last insured and maximizing back pay."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Builds the evidence for the insured period"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", including retrospective treating-source opinions and lay evidence, when the application comes years after the work stopped."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Calendars every 60-day deadline"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " and represents you at the hearing, including cross-examination of the vocational expert."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Reviews the award"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " for the correct onset date, back-pay calculation, and Medicare start, and claims family benefits on your record."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Plans the aftermath"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": work incentives, reviews, overpayments, and workers’ compensation or LTD offsets."
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Fees are set by federal law: the lesser of 25 percent of past-due benefits or $9,200, approved by Social Security and paid from the back pay, and nothing if the claim is not won. There is no fee on your ongoing monthly benefit. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "CONFIRM",
+         "v": "fee agreement terms; who pays record-retrieval costs"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "why-michigan-workers-call-atlaw-for-ssdi-claims",
+   "heading": "Why Michigan workers call ATLAW for SSDI claims",
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Thirteen years serving clients, more than 10,000 cases."
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Insured status and the date last insured checked first"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", so the claim is filed for the right program with the right onset date. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": ""
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The evidence built for the insured period"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", not only for today. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": ""
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Michigan’s hearing offices."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " We appear at "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": "Detroit, Oak Park, Livonia, and the other offices the firm covers"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": "."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Dearborn, and the whole metro area."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We meet clients at our Dearborn office, by phone, or by video. Home and hospital visits can also be accommodated when needed."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Languages."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "No fee unless you win"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", federally capped at 25 percent of back pay or $9,200, whichever is less."
+       }
+      ]
+     ]
+    }
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How much is SSDI in Michigan?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "It depends on your earnings record, not on your condition or your state. The average Michigan disabled worker received about $1,650 a month in December 2025; the national average in January 2026 is $1,630; the 2026 maximum is $4,152. Your own estimate is on your Social Security Statement."
+    }
+   ]
+  },
+  {
+   "question": "How many work credits do I need?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Generally 20 credits in the ten years before you became disabled, plus enough total credits to be fully insured. Workers under 31 need fewer. In 2026 you earn one credit for each $1,890 in covered earnings, up to four a year."
+    }
+   ]
+  },
+  {
+   "question": "I stopped working five years ago. Can I still get SSDI?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Possibly, if you can prove your disability began before your date last insured, which for most workers falls about five years after the last full year of work. The medical records from that period are what matter. If the date has passed, SSI may be available instead."
+    }
+   ]
+  },
+  {
+   "question": "What is the five-month waiting period?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "SSDI pays nothing for the first five full months after your established onset date. If your onset was more than five months before you applied, the wait has already run and payments begin on approval, with retroactive pay for up to 12 months before the application."
+    }
+   ]
+  },
+  {
+   "question": "When does Medicare start?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Twenty-four months after your first month of SSDI entitlement, and the back-pay months count. ALS and end-stage renal disease qualify immediately."
+    }
+   ]
+  },
+  {
+   "question": "Can my family get benefits on my record?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Yes: children under 18 (19 if in high school), a spouse caring for your child under 16, or a spouse 62 or older, each up to 50 percent of your benefit within the family maximum. They must be claimed."
+    }
+   ]
+  },
+  {
+   "question": "Can I get SSDI and SSI at the same time?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Yes, if your SSDI benefit is below the SSI payment standard ($994 in 2026) and your resources are under $2,000. SSI makes up the difference, less a $20 exclusion, and brings Medicaid."
+    }
+   ]
+  },
+  {
+   "question": "Can I work while on SSDI?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Yes, within the trial work period and extended period of eligibility rules. Nine months of unlimited earnings, then 36 months in which benefits are paid for months under $1,690. Report every month’s earnings."
+    }
+   ]
+  },
+  {
+   "question": "Will SSDI reduce my long-term disability insurance?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Usually. Most employer LTD policies require you to apply for SSDI and offset the LTD payment by the SSDI award, including back pay. Our long-term disability page explains the offset and the repayment demand that often follows an SSDI award."
+    }
+   ]
+  },
+  {
+   "question": "What does a lawyer cost?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Nothing unless you win, and then the lesser of 25 percent of your back pay or $9,200, approved and paid by Social Security. There is no fee on your ongoing benefits."
+    }
+   ]
+  }
+ ],
+ "cta": {
+  "id": "talk-to-a-michigan-ssdi-lawyer",
+  "heading": "Talk to a Michigan SSDI lawyer",
+  "blocks": [
+   {
+    "t": "p",
+    "c": [
+     {
+      "t": "text",
+      "v": "If you can no longer work and want to know whether you are insured for SSDI, what it would pay, and how to prove your claim, call "
+     },
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "text",
+        "v": "(313) 406-7606"
+       }
+      ]
+     },
+     {
+      "t": "text",
+      "v": " or send the form on this page. We check your insured status and date last insured, set the onset date the records support, file or appeal the claim, and represent you at the hearing. We respond within one business day, and there is no fee unless you win."
+     }
+    ]
+   }
+  ]
+ },
+ "wordCount": 3032,
+ "openItems": 12,
+ "source": {
+  "file": "disability__social-security-disability-insurance.docx",
+  "delivered": "2026-10-16"
+ }
+}

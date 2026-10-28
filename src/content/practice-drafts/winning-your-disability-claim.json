@@ -1,0 +1,1783 @@
+{
+ "slug": "winning-your-disability-claim",
+ "section": "disability",
+ "status": "draft",
+ "seoTitle": "How to Win a Social Security Disability Claim in Michigan – Evidence, Hearing, Mistakes",
+ "seoDescription": "What wins Social Security disability claims in Michigan: the records the examiner and judge need, the treating-source opinion that counts under the 2017 rules, how to answer the judge, how the vocational expert is cross-examined, and the mistakes that lose cases.",
+ "h1": "How to Win Your Social Security Disability Claim",
+ "tagline": "Disability claims are not won by being disabled. They are won by proving it in the form the regulations require.",
+ "primaryKeyword": "how to win social security disability claim",
+ "secondaryKeywords": [
+  "how to get approved for disability the first time",
+  "how to win a social security disability hearing",
+  "disability hearing questions",
+  "what not to say at disability hearing",
+  "how to get approved for disability",
+  "how to win disability claim michigan"
+ ],
+ "intro": [
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "About 36 percent of Social Security disability applications were approved at the first step in fiscal year 2025. At the hearing level, Michigan’s seven hearing offices approved about 59 percent of the claims that reached them. The claimants in the second group were not more disabled than the ones denied in the first. In most cases they had better evidence, presented in the form the regulations require, to a decision-maker who could see them and hear them."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "This page is about that difference. It is written for the Michigan claimant at any stage, from the first application to the morning of the hearing, and it covers what the evidence has to show and why, how the 2017 rules changed what a doctor’s opinion is worth, what the examiner reads in your own forms, what happens in the hearing room and how to answer the judge, what the vocational expert is there to do and how a representative tests it, and the mistakes that lose claims that should have been won. It is specific because the rules are specific: a claim is decided under 20 CFR 404.1520, the evidence is weighed under 404.1520c and 404.1529, the hearing is run under HALLEX, and the vocational testimony is governed by Social Security Rulings that changed in 2025."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "ATLAW is a Dearborn law firm serving clients for 13 years, with more than 10,000 cases handled. The firm represents Michigan claimants from the application through the hearing and beyond. "
+    },
+    {
+     "t": "strong",
+     "c": [
+      {
+       "t": "placeholder",
+       "kind": "CONFIRM",
+       "v": "the firm handles Social Security disability claims in-house and the attorney who leads the practice"
+      }
+     ]
+    },
+    {
+     "t": "text",
+     "v": " There is no fee unless you win, and the fee is set by federal law."
+    }
+   ]
+  }
+ ],
+ "sections": [
+  {
+   "id": "what-the-decision-turns-on-the-numbers",
+   "heading": "What the decision turns on: the numbers",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Measure"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Figure"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Source"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "Initial applications approved, FY 2025"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "About 36%"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "SSA FY 2025 workload data"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Reconsiderations approved, FY 2025"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "About 16%"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Same"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Hearing decisions approved, nationally, FY 2025"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "About 50%"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Same"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Average wait from hearing request to decision, Michigan"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "About 7.4 months"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Same"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Notice of hearing"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "At least 75 days before the hearing"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "20 CFR 404.938"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Deadline to submit or identify evidence"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "5 business days before the hearing"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "20 CFR 404.935"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Past relevant work considered"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Jobs in the last 5 years, lasting 30 days or more"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "20 CFR 404.1560, 404.1565 (2024)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Substantial gainful activity, 2026"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$1,690 a month"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "SSA 2026 COLA fact sheet"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Deadline to appeal at every level"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "60 days from receipt of the notice"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "20 CFR 404.909, 404.933, 404.968"
+        }
+       ]
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "understand-what-you-are-proving",
+   "heading": "Understand what you are proving",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Every disability decision answers the same five questions in order, 20 CFR 404.1520: Are you working above $1,690 a month? Do you have a severe impairment that has lasted or will last twelve months? Does it meet or equal a Listing? Can you do your past work? Can you do any other work, given your residual functional capacity, age, education, and experience?"
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Most claims are decided at the last two steps, and the question at those steps is not your diagnosis. It is your "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "residual functional capacity"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ": what you can still do in a work setting, eight hours a day, five days a week, on a sustained basis. Winning means putting into the record the evidence that establishes an RFC that rules out your past jobs and, for a claimant under 50, every other job the vocational expert can name. Our "
+      },
+      {
+       "t": "link",
+       "href": "/disability/qualifying-impairments",
+       "c": [
+        {
+         "t": "text",
+         "v": "conditions that qualify"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " page explains the Listings and the grid rules that favor claimants over 50; this page is about the evidence."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-medical-evidence",
+   "heading": "The medical evidence",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Social Security’s rules on evidence, 20 CFR 404.1512 and 404.1513, require you to submit or identify "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "all"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " evidence known to you that relates to whether you are disabled, favorable or not, and they define what counts. The record that wins has these parts."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "A longitudinal treatment history."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Records from the alleged onset date forward, from every provider, showing regular treatment. Gaps are read as improvement. If a gap was caused by lost insurance, cost, or lack of transportation, SSR 16-3p requires the decision-maker to consider the reason, but only if the reason is in the record: say so in your forms, tell your doctors, and have your representative document it."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Objective findings that match the symptoms."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Imaging, laboratory results, pulmonary and cardiac testing, nerve conduction studies, neuropsychological testing, mental status examinations. Under 404.1529, your statements about pain and other symptoms cannot establish disability alone; there must be a medically determinable impairment that could reasonably produce them, and the intensity and persistence are then evaluated against the whole record. The objective findings do not have to prove the pain; they have to show an impairment that could cause it."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Treatment that matches the severity."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " A claimant who describes disabling pain but takes no medication, declined the referral to pain management, and has not seen a specialist in two years will be asked why. Under 404.1530, failure to follow prescribed treatment without good reason can itself defeat a claim. Follow the treatment plan, or document the reason you cannot."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "The treating-source opinion that counts."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " For claims filed after March 27, 2017, Social Security does not give controlling weight to a treating physician’s opinion. Under 404.1520c, every medical opinion is evaluated for "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "supportability"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " (how well the source explains it with objective evidence) and "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "consistency"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " (how well it fits the rest of the record), and those two factors matter most. A letter stating that a patient “is totally disabled and cannot work” is not a medical opinion at all under the rule; it is a statement on an issue reserved to the Commissioner and is given no weight. What counts is a "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "function-by-function statement"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ":"
+      }
+     ]
+    },
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "For a physical impairment"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "For a mental impairment"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "How long you can sit, stand, and walk, at one time and in total, in an eight-hour day"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Capacity to understand, remember, and carry out simple and detailed instructions"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "How much you can lift and carry, occasionally and frequently"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Capacity to sustain concentration and pace for a full workday"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Postural limits: bending, stooping, crouching, climbing"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Capacity to interact with the public, coworkers, and supervisors"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Reaching, handling, fingering"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Capacity to respond to changes and ordinary workplace stress"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Environmental limits: heat, cold, dust, fumes, heights"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Expected absences per month and time off task per day"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Need to change position, elevate legs, or lie down during the day"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Need for unscheduled breaks or a supportive setting"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Expected absences per month and time off task per day"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Whether decompensation is expected under work stress"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Each limitation should be tied to the clinical findings that support it. The forms exist; a representative provides them to the treating sources with instructions and follows up. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Documented limitations involving time off task, unscheduled breaks, and repeated absences can be especially important, because a vocational expert may testify that they prevent sustained competitive employment. The relevant limits must be supported by the medical evidence and evaluated in the circumstances of the individual claim."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ". "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "ATTORNEY CHECK",
+         "v": ""
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "The consultative examination."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " If the state agency sends you to a doctor it pays under 404.1519a, go, be accurate, and do not minimize. The examination is brief, the examiner has never seen you before, and the report will be in the file whether it helps or not. Bring your medication list and a short written summary of your conditions and limits."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Other evidence."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Statements from a spouse, adult child, former employer, or coworker about what they observe, under 404.1513(a)(4); pharmacy printouts; employer attendance records; VA or workers’ compensation disability ratings, which Social Security does not adopt but must consider the underlying evidence for; and, for a child, school records and teacher questionnaires."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "your-own-forms-are-evidence",
+   "heading": "Your own forms are evidence",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Two forms you complete yourself are read closely by the examiner and later by the judge."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "The Function Report (SSA-3373)"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " asks how your conditions limit your daily activities: personal care, meals, chores, shopping, driving, hobbies, social activity, and how long you can walk, pay attention, and follow instructions. Describe an "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "average"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " day and a "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "bad"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " day, with frequency. Say how long each activity takes and what happens afterward. “I cook” means something different from “I make a sandwich standing for five minutes and then sit for twenty.” Do not say you can do something you cannot, and do not say you cannot do something your records show you doing. Every answer will be compared to your medical records and your testimony."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "The Work History Report (SSA-3369) asks about your relevant work history, including recent jobs, hours, pay, and physical and mental demands. Under the current rules, SSA generally evaluates qualifying work within a five-year period, although the period may be measured differently in some claims."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ". This form decides step four. “Warehouse worker” tells the examiner nothing; “lifted 50-pound boxes 200 times a shift, stood ten hours, operated a pallet jack” tells her the job was medium to heavy work and that a claimant limited to light work cannot return to it. Since 2024, past relevant work generally must fall within the applicable five-year lookback, involve substantial gainful activity, and have lasted long enough for the claimant to learn the work. Jobs started and stopped in fewer than 30 calendar days do not qualify. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "ATTORNEY CHECK",
+         "v": "SSR 24-2p"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-hearing",
+   "heading": "The hearing",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "If the claim is denied at the initial and reconsideration levels, the hearing before an administrative law judge is the first time a decision-maker sees and hears you. In Michigan it is held at one of seven hearing offices (Detroit, Oak Park, Livonia, Flint, Lansing, Grand Rapids, Mount Pleasant), by video, by telephone, or by online video; you receive a Notice of Ways to Attend and may object to the formats you do not want. The notice of hearing arrives at least 75 days before the date. The hearing is informal, recorded, under oath, and usually lasts 45 minutes to an hour. Present are the judge, a hearing reporter, you, your representative, and, usually by phone, a vocational expert and sometimes a medical expert."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Before the hearing"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ", a representative does four things: obtains and reviews the exhibit file, identifies and fills the gaps in the medical record, submits the treating-source opinions and updated records at least five business days before the hearing (evidence submitted later may be excluded under 404.935 unless an exception applies), and files a "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "pre-hearing brief"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " that tells the judge which Listing or grid rule applies, what RFC the evidence supports, and why the claimant cannot work. A strong brief occasionally produces a favorable decision "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "on the record"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " without a hearing at all, which a representative can request."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "The judge’s questions"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " follow a pattern, and the pattern has a purpose:"
+      }
+     ]
+    },
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "The judge asks about"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "What the judge is deciding"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "Your age, education, and whether you can read, write, and do simple math"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Which grid rule applies; literacy and education level"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Each job in the last five years: what you did, how much you lifted, how long you stood"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Step four: the exertional and skill level of past work, and whether skills transfer"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "When you stopped working and why; any work since"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Step one and the onset date; whether any work was an unsuccessful work attempt"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Your conditions, treatment, medications, and side effects"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Severity; consistency with the records; compliance with treatment"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "How long you can sit, stand, walk; how much you can lift"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Your RFC, in the terms the vocational expert will use"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "A typical day, from waking to sleeping"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Whether your activities are consistent with the limitations claimed"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Bad days: how often, how long, what you do"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Off-task time and absences"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Why you believe you cannot work"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Whether you understand your own limitations and describe them consistently"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "How to answer."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Tell the truth, specifically. Answer the question asked, with a number where a number is possible (“about twenty minutes,” “two or three days a week,” “maybe ten pounds”). Describe your worst days and say how often they come; judges know that a claimant who can walk thirty minutes on a good day may not get out of bed on two days a week, but only if told. Do not minimize out of pride, and do not exaggerate: a claimant who says she cannot lift a gallon of milk and whose records show her carrying groceries has lost credibility on every other answer. Do not say “I could work if someone would hire me,” “I’m looking for work,” or “I’d be fine with a desk job”; each is an admission on the question the judge is deciding. Do not volunteer about alcohol or drug use unless asked, and if asked, answer accurately; under 404.1535, a claim is denied only if substance use is "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "material"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " to the disability, and the question is complex enough that it should be prepared with your representative. Do not argue with the judge or the vocational expert; that is your representative’s job."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Your representative’s questions"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " fill in what the judge’s did not: the limitations the records support that have not yet been described, the side effects, the bad-day frequency, the need to lie down, the reasons for a treatment gap."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-vocational-expert-and-why-the-cross-examination-decides-cases",
+   "heading": "The vocational expert, and why the cross-examination decides cases",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "After your testimony, the judge poses "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "hypothetical questions"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " to the vocational expert: assume a person of the claimant’s age, education, and work history who can do light work, stand and walk four hours, never climb ladders, and perform simple, routine tasks; can that person do the claimant’s past work? If not, are there other jobs in the national economy that person can do, and how many? The expert answers from the Dictionary of Occupational Titles and job-numbers data, naming occupations such as “inspector,” “sorter,” or “office helper.”"
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The claim is won or lost in the next ten minutes. A representative who knows the record and the vocational rules can:"
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Add the omitted limitation."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " If the judge’s hypothetical left out a documented limitation, the need to lie down for an hour, absences of two days a month, off-task time of 15 percent, the representative adds it and asks whether any work remains. The expert nearly always answers no to those three."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Test the job numbers."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " The expert’s figures come from aggregated data that often lumps the named occupation with others. Under SSR 24-3p, effective January 6, 2025, vocational experts must identify their data sources and explain their general approach to estimating job numbers. A representative can question the sources, assumptions, and reliability of those estimates. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "ATTORNEY CHECK",
+          "v": "SSR 24-3p and its application"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Identify conflicts with the Dictionary."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " When the expert’s testimony differs from the Dictionary of Occupational Titles or another occupational data source, a representative can question whether the evidence adequately supports the proposed job’s requirements. Under SSR 24-3p, the judge evaluates the sufficiency of the vocational evidence, including explanations of relevant differences between occupational sources and SSA’s rules."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Challenge obsolete jobs."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Some occupations in the Dictionary may be outdated or exist in limited numbers. In 2024, Social Security stopped relying on 114 occupations to support step-five denials and imposed additional evidentiary requirements for 13 others, including document preparer, addresser, and surveillance system monitor. A representative can question whether the cited work remains sufficiently supported by current vocational evidence. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "ATTORNEY CHECK",
+          "v": ""
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Apply the grid rules."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " For a claimant 50 or older limited to sedentary work, or 55 or older limited to light work, the representative establishes on the record that past work was unskilled or that skills do not transfer, so that the grid rule directs a finding of disabled regardless of the jobs the expert names."
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "A "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "medical expert"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ", when one testifies, addresses whether a Listing is met or equaled and what the records show the RFC to be; the representative’s cross-examination tests the expert’s familiarity with the full record and the treating-source opinions."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "after-the-hearing",
+   "heading": "After the hearing",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The decision arrives by mail, usually within one to three months. A "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "fully favorable"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " decision adopts your onset date; a "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "partially favorable"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " decision finds disability from a later date and should be reviewed, because the difference can be a year of back pay or, in a date-last-insured case, the claim itself. An "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "unfavorable"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " decision starts the 60-day clock to the Appeals Council, where the question becomes legal error: evidence ignored, a conflict with the Dictionary unresolved, a treating opinion dismissed without the analysis 404.1520c requires. Our "
+      },
+      {
+       "t": "link",
+       "href": "/disability/ssd-appeals-process",
+       "c": [
+        {
+         "t": "text",
+         "v": "appeals page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " covers the Appeals Council and federal court."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-mistakes-that-lose-claims",
+   "heading": "The mistakes that lose claims",
+   "blocks": [
+    {
+     "t": "ol",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Working above the earnings limit while the claim is pending."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Earnings over $1,690 a month in 2026 end the claim at step one."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Stopping treatment."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Unexplained gaps are read as improvement; non-compliance without good reason is a ground for denial."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Leaving providers off the application."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Records Social Security does not know about are never requested."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "A conclusory doctor’s letter instead of a function-by-function opinion."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " “My patient is disabled” is given no weight."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Describing diagnoses instead of limitations"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", in the forms and at the hearing."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Inconsistency"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " between the Function Report, the medical records, the activities described to doctors, and the testimony. Social media is part of the record if the hearing office finds it."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Minimizing to doctors."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " “I’m doing okay” in a treatment note becomes “patient reports doing well” in the decision."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Missing the consultative examination"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " or failing to return the Function Report."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Submitting evidence late."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Evidence not submitted or identified five business days before the hearing may be excluded."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Missing a 60-day deadline"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", or reapplying instead of appealing and losing the protective filing date."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Going to the hearing without the record prepared."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " The hearing is the last chance to put evidence in front of a decision-maker who sees you; it should not be the first time anyone has read the file."
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-a-representative-does-to-win",
+   "heading": "What a representative does to win",
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "text",
+        "v": "Obtains the complete exhibit file and audits it for gaps."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Requests the records the agency did not get, and the treating-source opinions in the form 404.1520c rewards."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Prepares the claimant for the Function Report, the consultative examination, and the hearing."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Submits everything before the five-day deadline and files a pre-hearing brief; requests an on-the-record decision when the record supports it."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Questions the claimant to establish the limitations the judge’s questions did not reach."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Cross-examines the vocational expert and, where applicable, the medical expert."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Reviews the decision for the correct onset date and back-pay calculation, and appeals legal error within 60 days."
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Fees are set by federal law: the lesser of 25 percent of past-due benefits or $9,200, approved and paid by Social Security from the back pay, and nothing if the claim is not won. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "CONFIRM",
+         "v": "fee agreement terms; who pays record-retrieval costs"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "why-michigan-claimants-call-atlaw-to-win-their-claim",
+   "heading": "Why Michigan claimants call ATLAW to win their claim",
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Thirteen years serving clients, more than 10,000 cases."
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The record built before the hearing"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": function-by-function opinions from your treating sources, submitted before the five-day deadline, with a pre-hearing brief. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": "practice"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The vocational expert cross-examined"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " on the omitted limitations, the job numbers, and the Dictionary. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": ""
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Hearing preparation with you"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", so the judge’s questions are not a surprise."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Michigan’s hearing offices."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " We appear at "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": "Detroit, Oak Park, Livonia, and the other offices the firm covers"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": "."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Dearborn, and the whole metro area."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We meet clients at our Dearborn office, by phone, or by video. Home and hospital visits can also be accommodated when needed."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Languages."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "No fee unless you win"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", federally capped at 25 percent of back pay or $9,200, whichever is less."
+       }
+      ]
+     ]
+    }
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How do I get approved the first time?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "File a complete application with every provider listed, a work history that describes the physical and mental demands of each job in the last five years, a Function Report that describes limitations rather than diagnoses, and, where possible, a function-by-function opinion from your treating physician. Keep treating. If your condition is on the "
+    },
+    {
+     "t": "link",
+     "href": "/disability/compassionate-allowances",
+     "c": [
+      {
+       "t": "text",
+       "v": "Compassionate Allowances list"
+      }
+     ]
+    },
+    {
+     "t": "text",
+     "v": ", name it exactly. Our "
+    },
+    {
+     "t": "link",
+     "href": "/disability/ssd-application-process",
+     "c": [
+      {
+       "t": "text",
+       "v": "how to apply"
+      }
+     ]
+    },
+    {
+     "t": "text",
+     "v": " page walks through the application. About 36 percent of first applications were approved in FY 2025; complete ones do better."
+    }
+   ]
+  },
+  {
+   "question": "What are my chances at a hearing in Michigan?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Michigan’s seven hearing offices approved about 59 percent of decisions in the twelve months to July 2026, ranging from the low fifties to the mid-sixties by office. Your own chances depend on the evidence and the preparation."
+    }
+   ]
+  },
+  {
+   "question": "What questions will the judge ask?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Your age and education; each job in the last five years and what it required; why you stopped working; your conditions, treatment, and medications; how long you can sit, stand, walk, and lift; a typical day and a bad day; and why you cannot work. The table above explains what each question is for."
+    }
+   ]
+  },
+  {
+   "question": "What should I not say at the hearing?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Anything untrue in either direction. Beyond that: do not say you could work if hired, that you are looking for work, or that you would be fine in a desk job; do not describe a good day as a typical day; do not argue with the judge or the expert."
+    }
+   ]
+  },
+  {
+   "question": "What is the vocational expert?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "A witness who testifies, in response to the judge’s hypothetical questions, whether jobs exist for a person with your limitations. Cross-examining that witness, adding omitted limitations, testing the job numbers, and identifying conflicts with the Dictionary of Occupational Titles, is often where the case is decided."
+    }
+   ]
+  },
+  {
+   "question": "Does a letter from my doctor help?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Only if it states specific functional limitations tied to the clinical findings. A letter saying you are disabled is given no weight under the 2017 rules. The right form, completed by a treating specialist, is among the most valuable pieces of evidence in the file."
+    }
+   ]
+  },
+  {
+   "question": "Should I dress up or look as sick as I am?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Be yourself. Dress neatly, use whatever assistive device you use, and do not perform. Judges see hundreds of claimants and notice performance in both directions."
+    }
+   ]
+  },
+  {
+   "question": "Can I bring a witness?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Yes, with notice to the hearing office. A spouse or adult child who can describe your bad days and what they do for you is useful when the testimony adds something the records do not show."
+    }
+   ]
+  },
+  {
+   "question": "What if I missed the five-day evidence deadline?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "The judge may still accept the evidence if Social Security’s action misled you, you had a physical, mental, educational, or linguistic limitation that prevented submission, or an unusual circumstance beyond your control occurred, under 404.935(b). Otherwise it may be excluded, and the Appeals Council will not consider it unless it is new, material, and relates to the period before the decision."
+    }
+   ]
+  },
+  {
+   "question": "What does a lawyer cost?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Nothing unless you win, and then the lesser of 25 percent of your back pay or $9,200, approved and paid by Social Security."
+    }
+   ]
+  }
+ ],
+ "cta": {
+  "id": "talk-to-a-michigan-disability-lawyer-about-winning-your-claim",
+  "heading": "Talk to a Michigan disability lawyer about winning your claim",
+  "blocks": [
+   {
+    "t": "p",
+    "c": [
+     {
+      "t": "text",
+      "v": "If your Social Security disability claim is pending, denied, or headed to a hearing anywhere in Michigan, call "
+     },
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "text",
+        "v": "(313) 406-7606"
+       }
+      ]
+     },
+     {
+      "t": "text",
+      "v": " or send the form on this page. We audit the file, build the evidence the regulations reward, prepare you for the hearing, and cross-examine the experts. We respond within one business day, and there is no fee unless you win."
+     }
+    ]
+   }
+  ]
+ },
+ "wordCount": 3701,
+ "openItems": 9,
+ "source": {
+  "file": "disability__winning-your-disability-claim.docx",
+  "delivered": "2026-10-16"
+ }
+}

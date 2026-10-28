@@ -1,0 +1,1519 @@
+{
+ "slug": "cigna-disability-claims",
+ "section": "disability",
+ "status": "draft",
+ "seoTitle": "Cigna / New York Life Long-Term Disability Denial Lawyer – Michigan Appeals",
+ "seoDescription": "Cigna’s group disability business is now New York Life Group Benefit Solutions, and the policies are still issued by Life Insurance Company of North America. What the 2013 regulatory settlement required, how these claims are denied, and how a Michigan claimant builds the 180-day appeal.",
+ "h1": "Cigna Long Term Disability Denial Lawyer",
+ "tagline": "The letterhead changed in 2020. The claim file, the reviewers, and the 180-day clock did not.",
+ "primaryKeyword": "cigna disability attorney",
+ "secondaryKeywords": [
+  "cigna long term disability denial lawyer",
+  "cigna disability lawyer",
+  "new york life long term disability denial",
+  "new york life disability lawyer",
+  "cigna disability appeal",
+  "cigna long term disability",
+  "lina disability denial"
+ ],
+ "intro": [
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "If your long-term disability policy says Cigna on the cover and your denial letter says New York Life, you are not confused. Cigna sold its group disability and life insurance business to New York Life for $6.3 billion in a transaction announced in December 2019 and closed on December 31, 2020. The business now operates as New York Life Group Benefit Solutions. Life Insurance Company of North America (LINA), which issued many Cigna group disability policies, became a New York Life subsidiary. Another insurer acquired in the transaction, Cigna Life Insurance Company of New York, was renamed New York Life Group Insurance Company of NY in March 2021. Your policy and claim correspondence identify the insurer responsible for your benefits. "
+    },
+    {
+     "t": "strong",
+     "c": [
+      {
+       "t": "placeholder",
+       "kind": "ATTORNEY CHECK",
+       "v": "current legal entity names and the status of LINA and Cigna Life Insurance Company of New York after the acquisition"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "That history matters because LINA’s claims handling has been the subject of regulatory action. In 2013, after multistate market conduct examinations, LINA and two Cigna affiliates entered a Regulatory Settlement Agreement with insurance regulators in California, Connecticut, Maine, Massachusetts, and Pennsylvania. The agreement required enhanced claims-handling procedures, reassessment of certain previously denied or terminated disability claims, and two years of regulatory monitoring. The reforms addressed concerns involving Social Security disability awards, treating physicians' opinions, co-morbid conditions, medical reviews, and vocational assessments. Cigna reported a $77 million pretax charge related to the settlement, including costs and reserves for reassessed claims, regulatory payments, claims-handling expenses, and additional costs for open claims. Those historical findings identify issues worth examining in a disability claim file, but they do not establish how any particular claim is handled today."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "This page explains who your insurer is, how these claims are denied, the ERISA rules that govern the appeal, how the appeal is built against this insurer specifically, and what a Michigan disability insurance lawyer does. The general law of long-term disability claims, ERISA, the administrative record, standard of review, and the Michigan law that applies to non-ERISA policies, is covered on our "
+    },
+    {
+     "t": "link",
+     "href": "/disability/short-long-term-disability",
+     "c": [
+      {
+       "t": "text",
+       "v": "long-term disability page"
+      }
+     ]
+    },
+    {
+     "t": "text",
+     "v": "; this page assumes it and goes to what is particular to Cigna and New York Life."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "ATLAW is a Dearborn law firm serving clients for 13 years, with more than 10,000 cases handled. The firm represents Michigan claimants in long-term disability appeals and litigation against group disability insurers. "
+    },
+    {
+     "t": "strong",
+     "c": [
+      {
+       "t": "placeholder",
+       "kind": "CONFIRM",
+       "v": "the firm handles LTD/ERISA claims in-house, the attorney who leads the practice, whether the firm has handled claims against Cigna/LINA/New York Life Group Benefit Solutions, and the fee model"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "sections": [
+  {
+   "id": "cigna-lina-and-new-york-life-the-facts",
+   "heading": "Cigna, LINA, and New York Life: the facts",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Fact"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Detail"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Source"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "Sale announced"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "December 18, 2019"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Cigna press release, April 30, 2020 (Form 8-K exhibit)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Price"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$6.3 billion"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Same"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Closing"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "December 31, 2020"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Cigna Form 10-K for 2020"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Business sold"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Group long-term and short-term disability, group life, accident, voluntary, and specialty insurance"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Cigna press release"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Business now operates as"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "New York Life Group Benefit Solutions"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "New York Life"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Fact: Issuing entities before and after acquisition Detail: Life Insurance Company of North America (LINA) and Cigna Life Insurance Company of New York were acquired by New York Life. The latter was renamed New York Life Group Insurance Company of NY effective March 10, 2021. The insurer responsible for a particular claim depends on the policy. Source: New York Life; New York Department of Financial Services."
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Life Insurance Company of North America (LINA), Philadelphia"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Policy forms "
+        },
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "placeholder",
+           "kind": "ATTORNEY CHECK",
+           "v": ""
+          }
+         ]
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Fact: 2013 Regulatory Settlement Agreement Detail: Five original monitoring states; reassessment of eligible historical disability claims; enhanced claims procedures; two-year monitoring. Cigna recorded a $77 million pretax charge covering multiple settlement-related costs. Source: Cigna 2013 Form 10-Q; Regulatory Settlement Agreement."
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "California, Connecticut, Maine, Massachusetts, Pennsylvania; fines paid; approximately $77 million reserved to reassess previously denied LTD claims; claims-handling reforms; two-year monitoring"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Cigna 2013 SEC filings; state insurance department announcements "
+        },
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "placeholder",
+           "kind": "ATTORNEY CHECK",
+           "v": ""
+          }
+         ]
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Governing law for employer plans"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "ERISA; 29 CFR 2560.503-1"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Federal law"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Claimant’s appeal deadline"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "At least 180 days from receipt of the denial"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "29 CFR 2560.503-1(h)(3)(i)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Insurer’s appeal decision deadline"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "45 days, one 45-day extension"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "29 CFR 2560.503-1(i)(3)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Standard of review in most cases"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Arbitrary and capricious, if the plan grants discretion"
+        }
+       ],
+       [
+        {
+         "t": "em",
+         "c": [
+          {
+           "t": "text",
+           "v": "Firestone v. Bruch"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "v": " (1989); "
+        },
+        {
+         "t": "em",
+         "c": [
+          {
+           "t": "text",
+           "v": "Metropolitan Life v. Glenn"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "v": " (2008)"
+        }
+       ]
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "how-cigna-and-new-york-life-group-disability-claims-are-denied",
+   "heading": "How Cigna and New York Life group disability claims are denied",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The denial letters follow patterns. Each pattern below is one that appeared in the 2013 regulatory findings, in reported federal decisions involving LINA, or in both, and each has an answer in the appeal."
+      }
+     ]
+    },
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "The denial says"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "What is usually behind it"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "What the appeal does"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "“The medical information does not support restrictions and limitations that would preclude you from performing your occupation”"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "A "
+        },
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "file review"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "v": " by a nurse case manager or a physician who never examined you, often in a different specialty from your treating doctors, concluding that the records lack “objective” findings"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Treating-specialist opinions that respond to the reviewer point by point; objective testing where the condition produces it; medical authority on why it does not where it does not; the point, under Sixth Circuit law, that rejecting treating physicians on a file review without explanation, when the insurer had the right to examine you, supports arbitrariness"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "“Your condition is subject to the 24-month limitation for mental and nervous conditions”"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "The policy caps psychiatric disabilities at 24 months, and the insurer has characterized a physical condition with a psychological component, or chronic pain with depression, as mental"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Evidence that the physical impairment is independently disabling; the policy’s exact “caused or contributed to” language read against the record"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "“You are able to perform the duties of other gainful occupations,” at the 24-month mark"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "The "
+        },
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "own-occupation to any-occupation transition"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "v": ", with a "
+        },
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "transferable skills analysis"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "v": " identifying occupations (often sedentary, often clerical) and a labor-market survey asserting they exist at the policy’s earnings threshold"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "A vocational assessment testing each identified occupation against the actual restrictions and the earnings threshold; the point that an occupation a claimant cannot sustain full time is not a gainful occupation"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "“Surveillance shows activity inconsistent with your reported limitations”"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Video or social-media investigation, often a few hours over a few days"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Context: the activity’s duration, what followed it, consistency with the restrictions actually claimed; the physician’s statement that the observed activity is within the restrictions"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "“Your Social Security award is not binding on us”"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "The insurer required you to apply for SSDI, offset its payments by the award, and then disregarded the award’s finding of disability"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "The 2018 ERISA rule requiring the insurer to explain its disagreement with the Social Security decision; the inconsistency of requiring the application, taking the offset, and rejecting the result, which courts weigh under "
+        },
+        {
+         "t": "em",
+         "c": [
+          {
+           "t": "text",
+           "v": "Glenn"
+          }
+         ]
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "“Your disability is excluded as a pre-existing condition”"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "A look-back review of pharmacy and medical records for the months before coverage began"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "A record-by-record analysis of the look-back period against the clause’s exact terms; evidence that the disabling condition is distinct from the one treated earlier"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "“Benefits are terminated because you did not provide requested information”"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Serial requests for records, forms, or examinations, with short deadlines, during which the insurer treats the file as incomplete"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "A complete and documented response to every request, with proof of delivery; an objection to the record for any request not actually made"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "“The independent medical examination found no impairment”"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "An examination arranged and paid for by the insurer, often brief"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "A detailed account of the examination; the examiner’s history; treating-physician response; comparison of the examiner’s findings with the objective record"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "ATTORNEY CHECK",
+         "v": "the patterns above are drawn from the 2013 regulatory findings and from reported ERISA decisions involving LINA; the attorney may wish to add one or two Sixth Circuit or Eastern District of Michigan decisions involving LINA as examples"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-erisa-rules-this-insurer-must-follow",
+   "heading": "The ERISA rules this insurer must follow",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Because most Cigna and New York Life group policies are employer-sponsored, ERISA and the Department of Labor’s claims regulation, 29 CFR 2560.503-1, govern. The rules that matter most in a denied claim:"
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The denial letter"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " must state the specific reasons, cite the specific plan provisions, describe what additional information would perfect the claim, explain the appeal procedure and the right to sue, and, under the 2018 amendments, explain why the insurer disagrees with your treating physicians and with any Social Security award."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "You have at least 180 days"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " to appeal. The appeal is mandatory before suit, and the record closes when the insurer decides it."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "You are entitled to the complete claim file"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", free of charge, including the file reviewers’ reports, the transferable skills analysis, the labor-market survey, the surveillance, and the internal guidelines relied on. Request it in writing the day the denial arrives."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "New evidence developed during the appeal"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " must be given to you, with time to respond, before the appeal is decided. If the insurer obtains another file review or vocational report on appeal, you must see it first."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The appeal must be decided by someone new"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", consulting a health professional who was not involved in the initial denial."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The insurer has 45 days"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " to decide the appeal, with one 45-day extension on written notice."
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "An insurer that violates these rules in more than a minor way loses the deference a court would otherwise give it: the claimant is deemed to have exhausted the appeal and the court reviews the claim de novo, under 29 CFR 2560.503-1(l)(2). Documenting the violations in the appeal is part of building the record."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "building-the-appeal-against-cigna-and-new-york-life",
+   "heading": "Building the appeal against Cigna and New York Life",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The administrative appeal is the trial. The federal judge who eventually reviews the claim will read the file as the insurer closed it and, in most cases, ask only whether the denial was arbitrary and capricious. The appeal therefore has to do two things at once: prove the disability, and prove that the insurer’s process was unreasonable."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Proving the disability"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "ol",
+     "items": [
+      [
+       {
+        "t": "text",
+        "v": "Obtain and read the claim file. Identify every reviewer, every report, and every record the insurer did not have."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Update the medical record through the appeal date from every treating source."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Obtain treating-specialist opinions that respond directly to the insurer’s reviewers and state function-by-function restrictions against the policy’s definition of disability (own occupation, or any gainful occupation at the earnings threshold)."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Add objective testing where the condition allows: imaging, a functional capacity evaluation, neuropsychological testing, cardiopulmonary testing."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Obtain a vocational assessment addressing the occupation as the policy defines it and each occupation the insurer’s transferable skills analysis identified."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Include the Social Security decision and the evidence it relied on."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Add statements from family, former supervisors, and coworkers about the work and the limitations."
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Proving the process was unreasonable"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "ol",
+     "items": [
+      [
+       {
+        "t": "text",
+        "v": "Identify the reviewer’s specialty and whether it matches the treating physicians’; whether the reviewer addressed the treating opinions or ignored them; whether the insurer had the right to examine you and declined."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Compare the denial letter to the record: findings it omitted, records it did not have, Social Security evidence it did not address."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Document every procedural failure: late decisions, missing explanations, new evidence not disclosed, requests not made."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Set out the structural conflict of interest, the insurer both deciding and paying, and the history that makes it relevant."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Write the argument that ties the evidence to the policy language and the law."
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Preserving the litigation deadline. Some group disability policies contain contractual limitation periods for filing suit, which may begin running before the final appeal decision. Under Heimeshoff v. Hartford, a reasonable contractual limitation period may be enforceable unless a controlling statute provides otherwise. For ERISA disability claims governed by the enhanced claims regulation, a final adverse benefit determination must also state any applicable contractual limitation period and its expiration date. The deadline should be calculated from the policy and relevant notices as soon as the denial arrives, not after the appeal is completed."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ". "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "ATTORNEY CHECK",
+         "v": ""
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "if-the-appeal-is-denied",
+   "heading": "If the appeal is denied",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Suit is filed under 29 USC 1132(a)(1)(B) in federal court, in Michigan the Eastern District (Detroit, Ann Arbor, Flint, Bay City) or Western District (Grand Rapids, Kalamazoo, Lansing, Marquette), on the administrative record. If the plan grants LINA discretion, the standard is arbitrary and capricious with the conflict of interest weighed under "
+      },
+      {
+       "t": "em",
+       "c": [
+        {
+         "t": "text",
+         "v": "Glenn"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": "; if the insurer forfeited deference through procedural violations, de novo. Remedies are the benefits owed with interest and, in the court’s discretion, attorney fees to a claimant who achieves some success on the merits. Remand to the insurer for a new decision is a common outcome and must be planned for."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "For the minority of Cigna and New York Life policies that are "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "not"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " governed by ERISA, individual policies and policies issued to governmental and church employers, Michigan law applies: a jury, discovery, contract damages, and 12 percent penalty interest under MCL 500.2006 on benefits not timely paid when the claim was not reasonably in dispute. Our "
+      },
+      {
+       "t": "link",
+       "href": "/disability/short-long-term-disability",
+       "c": [
+        {
+         "t": "text",
+         "v": "long-term disability page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " explains the distinction."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-social-security-connection",
+   "heading": "The Social Security connection",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Cigna and New York Life group policies require claimants to apply for Social Security disability and offset the LTD benefit by the SSDI award, including benefits for dependents in many policies. Two consequences follow. When SSDI is awarded with back pay, the insurer demands repayment of the overlap, often tens of thousands of dollars, within weeks of the award; the demand should be checked against the policy’s offset language and met with a plan rather than ignored. And the SSDI award itself becomes evidence: an insurer that required the application, took the offset, and then disregarded the award’s finding of disability has created the inconsistency that courts treat as a factor in finding arbitrariness. Our "
+      },
+      {
+       "t": "link",
+       "href": "/disability/social-security-disability-insurance",
+       "c": [
+        {
+         "t": "text",
+         "v": "SSDI page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " covers the Social Security claim; the two should be handled together."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-to-do-when-new-york-life-group-benefit-solutions-denies-or-terminates-your-claim",
+   "heading": "What to do when New York Life Group Benefit Solutions denies or terminates your claim",
+   "blocks": [
+    {
+     "t": "ol",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Note the date you received the letter."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " You have at least 180 days. Do not file a short appeal early; the record closes when the insurer decides."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Request the complete claim file in writing"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", citing 29 CFR 2560.503-1(h)(2)(iii), and wait for it before appealing."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Keep treating"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", and keep every appointment the insurer schedules, with notes."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Respond to every information request"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " completely, with proof of delivery, so that “failure to provide information” is not available as a ground."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Do not sign a reimbursement agreement, a release, or a lump-sum buyout"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " without advice."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Describe your limitations accurately and consistently"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", everywhere, and assume surveillance."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Calculate the contractual limitation period for suit"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " from the policy now."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Call a lawyer before the appeal is filed."
+         }
+        ]
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-a-disability-insurance-lawyer-does-against-this-insurer",
+   "heading": "What a disability insurance lawyer does against this insurer",
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "text",
+        "v": "Reads the policy to determine whether ERISA or Michigan law governs and whether the plan grants discretion."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Obtains the claim file and identifies the reviewers, the vocational analysis, and the procedural failures."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Builds the twelve-part appeal above and submits it with proof of delivery before the deadline."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Coordinates the Social Security claim and manages the offset and any repayment demand."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Calendars the insurer’s decision deadlines and the contractual limitation period for suit."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Litigates in federal court on the record, or in Michigan court with a jury for non-ERISA policies, and seeks fees and penalty interest where available."
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "CONFIRM",
+         "v": "the firm’s fee structure for LTD appeals and litigation; whether the initial review is free"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "why-michigan-claimants-call-atlaw-for-cigna-and-new-york-life-denials",
+   "heading": "Why Michigan claimants call ATLAW for Cigna and New York Life denials",
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Thirteen years serving clients, more than 10,000 cases."
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The claim file first"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", and the appeal built as the record the federal court will read. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": "practice"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The insurer’s own history in the record"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": the practices the 2013 settlement identified, documented where they recur. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": ""
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Social Security and LTD coordinated"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", so the award does not become a repayment surprise. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": ""
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Dearborn, and the whole metro area."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We meet clients at our Dearborn office, by phone, or by video. Home and hospital visits can also be accommodated when needed."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Languages."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Fees."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": "fee structure; free initial review"
+         }
+        ]
+       }
+      ]
+     ]
+    }
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "My policy says Cigna but the letter says New York Life. Who is my insurer?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "The same company. Cigna sold its group disability business to New York Life effective December 31, 2020; it now operates as New York Life Group Benefit Solutions, and the policies continue to be issued by Life Insurance Company of North America. Your appeal goes to the address on the denial letter."
+    }
+   ]
+  },
+  {
+   "question": "How long do I have to appeal a Cigna or New York Life denial?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "At least 180 days from receipt of the denial under ERISA. The letter must state the deadline. Missing it almost always ends the case."
+    }
+   ]
+  },
+  {
+   "question": "What was the 2013 settlement about?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "After a multistate market conduct examination, Life Insurance Company of North America and two Cigna affiliates agreed with regulators in California, Connecticut, Maine, Massachusetts, and Pennsylvania to pay fines, reassess previously denied long-term disability claims from a fund of approximately $77 million, and change claims practices, including how they treated Social Security awards and treating physicians’ opinions. The agreement did not include Michigan, but the practices it identified are the same ones Michigan claimants encounter."
+    }
+   ]
+  },
+  {
+   "question": "Does the settlement help my claim?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Not directly; it is not binding in your case and the reassessment period has closed. Indirectly, yes: it documents patterns that, when they recur in your file, support the argument that the denial was arbitrary, and it informs what to look for in the claim file."
+    }
+   ]
+  },
+  {
+   "question": "The denial was based on a doctor who never saw me. Is that allowed?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Yes, an insurer may rely on a file review. But courts in Michigan’s federal circuit have found arbitrariness where an insurer with the right to examine the claimant relied on a file review to reject the treating physicians’ opinions without explanation. The appeal makes that point with the record to support it."
+    }
+   ]
+  },
+  {
+   "question": "My benefits were cut off at 24 months. Why?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Either the own-occupation period ended and the insurer found you able to perform “any gainful occupation,” usually on a transferable skills analysis, or the mental and nervous limitation was applied. The letter will say which; the appeal answers the specific finding."
+    }
+   ]
+  },
+  {
+   "question": "New York Life wants my Social Security back pay. Do I have to pay?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Usually, under the policy’s offset clause. Check the calculation against the policy, including whether dependents’ benefits are offset and whether the offset was estimated before the award. Do not ignore the demand; most policies allow the insurer to withhold future benefits until repaid."
+    }
+   ]
+  },
+  {
+   "question": "Can I sue for how badly the claim was handled?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Under ERISA, you can recover the benefits, interest, and in the court’s discretion attorney fees, but not damages for the consequences of the denial. Under a non-ERISA policy governed by Michigan law, contract damages and 12 percent penalty interest are available."
+    }
+   ]
+  },
+  {
+   "question": "Will my case be decided by a jury?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Not if ERISA governs. A federal judge decides on the insurer’s file. A jury is available only for individual, governmental, and church-plan policies under Michigan law."
+    }
+   ]
+  },
+  {
+   "question": "What does a lawyer cost?",
+   "answer": [
+    {
+     "t": "text",
+     "v": ""
+    },
+    {
+     "t": "strong",
+     "c": [
+      {
+       "t": "placeholder",
+       "kind": "CONFIRM",
+       "v": "fee structure for LTD appeals and litigation"
+      }
+     ]
+    },
+    {
+     "t": "text",
+     "v": " The initial review is "
+    },
+    {
+     "t": "strong",
+     "c": [
+      {
+       "t": "placeholder",
+       "kind": "CONFIRM",
+       "v": "free"
+      }
+     ]
+    },
+    {
+     "t": "text",
+     "v": "."
+    }
+   ]
+  }
+ ],
+ "cta": {
+  "id": "talk-to-a-michigan-lawyer-about-your-cigna-or-new-york-life-disability-denial",
+  "heading": "Talk to a Michigan lawyer about your Cigna or New York Life disability denial",
+  "blocks": [
+   {
+    "t": "p",
+    "c": [
+     {
+      "t": "text",
+      "v": "If Cigna, Life Insurance Company of North America, or New York Life Group Benefit Solutions denied or terminated your long-term disability claim anywhere in Michigan, call "
+     },
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "text",
+        "v": "(313) 406-7606"
+       }
+      ]
+     },
+     {
+      "t": "text",
+      "v": " or send the form on this page before your appeal deadline runs. We obtain the claim file, build the appeal as the record the court will read, coordinate your Social Security claim, and litigate when the insurer does not relent. We respond within one business day. "
+     },
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "placeholder",
+        "kind": "CONFIRM",
+        "v": "fee terms for the CTA"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "wordCount": 3134,
+ "openItems": 14,
+ "source": {
+  "file": "disability__cigna-disability-claims.docx",
+  "delivered": "2026-10-16"
+ }
+}

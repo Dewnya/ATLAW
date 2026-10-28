@@ -1,0 +1,2109 @@
+{
+ "slug": "short-long-term-disability",
+ "section": "disability",
+ "status": "draft",
+ "seoTitle": "Michigan Long-Term Disability Lawyer – ERISA Denials, the 180-Day Appeal, SSDI Offsets",
+ "seoDescription": "Long-term and short-term disability claims in Michigan: the ERISA rules insurers must follow, the 180-day appeal that decides your case, own-occupation vs. any-occupation, the SSDI offset, the 24-month mental health limit, and when Michigan law applies instead. Free review.",
+ "h1": "Long Term Disability Lawyer Michigan",
+ "tagline": "In an ERISA case the appeal is the trial. Whatever is not in the file when the insurer closes it, the judge will never see.",
+ "primaryKeyword": "long term disability lawyer michigan",
+ "secondaryKeywords": [
+  "long term disability attorney michigan",
+  "long term disability lawyer",
+  "erisa disability lawyer",
+  "short term disability michigan",
+  "short term disability lawyer",
+  "long term disability denied",
+  "ltd claim denied"
+ ],
+ "intro": [
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "Long-term disability insurance is the policy most Michigan workers have through their employer and never read: it promises to replace 50 to 70 percent of your salary if illness or injury keeps you from working, after a waiting period, until retirement age. For the worker who cannot return, it is the difference between keeping a house and losing it. And it is denied, reduced, and terminated at rates that surprise everyone who has not dealt with it, under rules that are nothing like the personal injury or Social Security cases most people have heard of."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "The reason is a federal statute. Most employer-sponsored disability plans are governed by the Employee Retirement Income Security Act, ERISA, and ERISA replaces the ordinary rules of insurance law with a set of its own. There is no jury. There are no damages for the harm a wrongful denial causes, only the benefits themselves. The insurer’s decision is reviewed by a federal judge on the "
+    },
+    {
+     "t": "strong",
+     "c": [
+      {
+       "t": "text",
+       "v": "administrative record"
+      }
+     ]
+    },
+    {
+     "t": "text",
+     "v": ", the file the insurer compiled, and in most cases the judge asks only whether the insurer’s decision was "
+    },
+    {
+     "t": "strong",
+     "c": [
+      {
+       "t": "text",
+       "v": "arbitrary and capricious"
+      }
+     ]
+    },
+    {
+     "t": "text",
+     "v": ", not whether it was right. And the claimant has one mandatory "
+    },
+    {
+     "t": "strong",
+     "c": [
+      {
+       "t": "text",
+       "v": "administrative appeal"
+      }
+     ]
+    },
+    {
+     "t": "text",
+     "v": ", usually 180 days, in which to put every piece of evidence into that file. A claimant who sends the insurer a two-paragraph letter and a note from her doctor has, in most cases, lost the case before a lawyer ever sees it."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "This page explains the system: short-term and long-term benefits and how they connect, the policy terms that decide claims (own occupation, any occupation, pre-existing conditions, the mental health limit, the SSDI offset), the ERISA claims rules and deadlines that bind the insurer and the claimant, how the administrative appeal is built, what happens in federal court, the Michigan law that applies when ERISA does not, and what a Michigan disability insurance lawyer does at each stage."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "ATLAW is a Dearborn law firm serving clients for 13 years, with more than 10,000 cases handled. The firm represents Michigan claimants in long-term and short-term disability insurance claims, administrative appeals, and litigation under ERISA and Michigan law. "
+    },
+    {
+     "t": "strong",
+     "c": [
+      {
+       "t": "placeholder",
+       "kind": "CONFIRM",
+       "v": "the firm handles LTD/ERISA claims in-house, the attorney who leads the practice, and the fee basis (contingency on past-due benefits, hourly, or hybrid)"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "sections": [
+  {
+   "id": "disability-insurance-claims-the-numbers",
+   "heading": "Disability insurance claims: the numbers",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Measure"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Figure"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Source"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "Typical long-term disability benefit"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "50% to 70% of pre-disability earnings, subject to a monthly maximum"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Group policy terms"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Typical elimination (waiting) period before LTD begins"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "90 or 180 days, usually matching the length of short-term benefits"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Group policy terms"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Typical own-occupation period before the definition changes to any occupation"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "24 months"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Group policy terms"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Typical mental and nervous condition limit"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "24 months of benefits"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Group policy terms"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Insurer’s deadline to decide an initial claim"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "45 days, extendable twice by 30 days each with written notice"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "29 CFR 2560.503-1(f)(3)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Claimant’s deadline to appeal a denial"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "At least 180 days from receipt of the denial"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "29 CFR 2560.503-1(h)(3)(i)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Insurer’s deadline to decide the appeal"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "45 days, extendable once by 45 days"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "29 CFR 2560.503-1(i)(3)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Claimant’s right to the claim file"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Free of charge, on request, including internal rules and medical reviews"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "29 CFR 2560.503-1(h)(2)(iii), (m)(8)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Standard of review in most federal cases"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Arbitrary and capricious, where the plan grants discretion"
+        }
+       ],
+       [
+        {
+         "t": "em",
+         "c": [
+          {
+           "t": "text",
+           "v": "Firestone Tire & Rubber Co. v. Bruch"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "v": ", 489 U.S. 101 (1989)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Penalty interest on overdue benefits under a Michigan (non-ERISA) policy"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "12% per year"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 500.2006"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Michigan Earned Sick Time Act paid leave"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Up to 72 hours a year for most employers"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 408.961 et seq, effective Feb. 21, 2025"
+        }
+       ]
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "short-term-and-long-term-disability-how-they-connect",
+   "heading": "Short-term and long-term disability: how they connect",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Short-term disability"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " replaces part of your wages, commonly 60 to 70 percent, for a limited period, usually 13 to 26 weeks, after a short waiting period of a week or two. It is typically funded by the employer, sometimes through an insurer and sometimes self-insured. Michigan has no state short-term disability program, unlike New York, New Jersey, or California; a Michigan worker’s short-term coverage is whatever the employer provides, plus the Earned Sick Time Act, which took effect February 21, 2025, and generally permits employers to limit annual use of paid sick time to 72 hours, or 40 hours for qualifying small businesses, and the federal Family and Medical Leave Act, which provides eligible employees of covered employers up to 12 workweeks of generally unpaid, job-protected leave. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "ATTORNEY CHECK",
+         "v": "ESTA as amended by 2025 PA 6"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Long-term disability"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " begins when short-term benefits end, after an "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "elimination period"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " that usually matches the short-term duration, 90 or 180 days, and continues as long as you remain disabled under the policy’s definition, to age 65 or Social Security retirement age for a disability that begins before about age 60, and for a shorter schedule for later-onset disabilities."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The two are connected in a way that matters legally: A short-term claim that is denied or cut off early may complicate the long-term claim, depending on the policy’s elimination period and eligibility requirements. A short-term denial deserves the same attention as a long-term one, but ERISA appeal rules apply only when the particular benefit arrangement is governed by ERISA. Some employer-paid short-term arrangements are excluded as payroll practices."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-policy-terms-that-decide-claims",
+   "heading": "The policy terms that decide claims",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Every claim is decided under the policy’s own language, and five provisions account for most denials and terminations."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Own occupation, then any occupation."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " For an initial period, typically "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "24 months"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ", you are disabled if you cannot perform the material duties of your "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "own occupation"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ", usually defined as the occupation as performed in the national economy rather than your specific job. After that period, the definition changes: you are disabled only if you cannot perform "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "any gainful occupation"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " for which you are reasonably fitted by education, training, and experience, often further defined as one paying 60 to 80 percent of your pre-disability earnings. The 24-month mark is when a large share of terminations happen, and the insurer prepares for it with a vocational review and often a new medical review. The claimant should prepare for it too."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "The pre-existing condition exclusion."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Most group policies exclude a disability that begins within the first 12 months of coverage if it is caused or contributed to by a condition for which you received treatment, took medication, or had symptoms in the 3 (sometimes 6 or 12) months before coverage began. A worker who changed jobs, enrolled in the new employer’s plan, and became disabled ten months later from a back condition for which she had a prescription the year before will have the claim denied under this clause. The look-back window and the “contributed to” language are read literally."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "The mental and nervous limit."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Most policies cap benefits for disabilities “caused or contributed to by” mental illness at "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "24 months"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ", with exceptions for a few diagnoses (often schizophrenia, bipolar disorder, dementia) and for periods of hospitalization. Insurers apply the limit aggressively to claims with any psychiatric component, including the depression that accompanies chronic pain, and the claimant’s task is to establish that the disabling condition is physical."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "The Social Security offset."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Nearly every group policy reduces the LTD benefit by the amount of Social Security disability you receive or are "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "estimated"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " to be eligible for, and most require you to apply for SSDI and appeal a denial. When SSDI is awarded with back pay, the insurer demands repayment of the overlapping months, which can be tens of thousands of dollars; the demand letter usually arrives within weeks of the award. The policy also typically offsets workers’ compensation, Michigan no-fault wage loss, and employer-paid pensions. Our "
+      },
+      {
+       "t": "link",
+       "href": "/disability/social-security-disability-insurance",
+       "c": [
+        {
+         "t": "text",
+         "v": "SSDI page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " covers the Social Security side; a claimant with both claims needs them coordinated from the start."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Other limits and exclusions"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ": self-reported symptom limitations (fibromyalgia, chronic fatigue, headache claims capped at 24 months in some policies), substance abuse limits, the requirement of “regular care” by a physician, and the policy’s own contractual limitation period for filing suit, which the Supreme Court has held may be enforceable even when it begins running before the administrative process ends, provided the period is reasonable and no controlling law prohibits it. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "ATTORNEY CHECK",
+         "v": "Heimeshoff v. Hartford Life & Accident Ins. Co., 571 U.S. 99 (2013)"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "erisa-the-rules-the-insurer-must-follow",
+   "heading": "ERISA: the rules the insurer must follow",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "ERISA’s claims regulation, 29 CFR 2560.503-1, sets procedural rules for every employer-sponsored disability plan, and the 2018 amendments to the disability rules strengthened them. The insurer must:"
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "text",
+        "v": "Decide an initial claim within "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "45 days"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", extendable twice by 30 days with written notice explaining why and what is needed."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Issue a denial that states the "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "specific reasons"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", cites the "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "specific plan provisions"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", describes any additional material needed, explains the appeal procedure and the right to sue, and, since 2018, discusses the basis for disagreeing with the treating physician, with a Social Security award, and with any internal rule or guideline relied on."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Give the claimant "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "at least 180 days"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " to appeal."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Provide the "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "complete claim file"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " free of charge on request, including the reports of the insurer’s medical and vocational reviewers."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Conduct a "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "full and fair review"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " on appeal by someone who did not make the initial decision and is not that person’s subordinate, consulting a health professional with appropriate training who was not involved in the initial denial."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Since 2018, give the claimant the "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "new evidence or rationale"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " the insurer develops during the appeal, and a reasonable opportunity to respond, "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "before"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " the appeal is decided."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Decide the appeal within "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "45 days"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", extendable once by 45 days."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Not pay or incentivize reviewers in a way that rewards denials."
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "When a disability plan fails to follow the required claims procedures, the claimant may be deemed to have exhausted administrative remedies and may pursue judicial review. The regulation generally treats such a denial as made without the exercise of fiduciary discretion, subject to a narrow exception for qualifying minor, nonprejudicial violations. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "ATTORNEY CHECK",
+         "v": "29 CFR 2560.503-1(l)(2)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The rules bind the claimant too. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "The appeal must be filed within the 180 days"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ", and a claimant who misses it has, in nearly every case, lost the right to sue, because ERISA requires exhaustion of the plan’s appeal procedure before court."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-administrative-appeal-the-trial-you-did-not-know-you-were-in",
+   "heading": "The administrative appeal: the trial you did not know you were in",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "In an ERISA case, the federal court decides the case on the "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "administrative record"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ": the claim file as it stood when the insurer made its final decision. With narrow exceptions, no new evidence is admitted in court, no witnesses testify, and there is no discovery into the merits. Everything the judge will ever read about your disability must be in the file before the insurer closes it."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "That makes the 180-day appeal the most important stage of the case. A properly built appeal includes:"
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The complete claim file"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", requested in writing the day the denial arrives, and read for what the insurer’s reviewers actually said, what records they did not have, and what the denial letter relied on."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Updated medical records"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " from every treating source, through the date of the appeal."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Treating-physician opinions"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " that respond directly to the insurer’s reviewers, address the policy’s definition of disability (own occupation or any occupation, as applicable), and state function-by-function restrictions: sitting, standing, lifting, concentration, pace, attendance."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Objective testing"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " where the condition allows it: imaging, functional capacity evaluation, neuropsychological testing, cardiopulmonary testing. Insurers deny claims for “lack of objective evidence” even for conditions that do not produce it; the appeal supplies what exists and explains, with medical authority, why more is not available."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "A vocational assessment"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " addressing the duties of the occupation as the policy defines it and, at the any-occupation stage, the occupations the insurer’s vocational reviewer identified."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The Social Security decision"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", if there is one, and an explanation of why the insurer’s contrary conclusion is unreasonable, which the 2018 rules require the insurer to address."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Statements"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " from the claimant, family, former supervisors, and coworkers about the work and the limitations."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Responses to surveillance and independent medical examinations"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", which are discussed below."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "A written argument"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " applying the policy language and the law to the evidence, and identifying every procedural failure in the insurer’s handling."
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The appeal is also where the claimant "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "builds the record of the insurer’s conduct"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ": the reviewer who never examined the claimant, the vocational report that assumed capacities no physician found, the denial letter that ignored the treating specialist. Under "
+      },
+      {
+       "t": "em",
+       "c": [
+        {
+         "t": "text",
+         "v": "Metropolitan Life Insurance Co. v. Glenn"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ", 554 U.S. 105 (2008), an insurer that both decides claims and pays them has a structural conflict of interest, and the court weighs that conflict, together with the insurer’s procedural conduct, in deciding whether the decision was arbitrary and capricious. The evidence of conduct has to be in the record too."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "surveillance-independent-medical-examinations-and-the-insurers-reviewers",
+   "heading": "Surveillance, independent medical examinations, and the insurer’s reviewers",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Insurers investigate long-term claims. The tools, and how to meet them:"
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Surveillance."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Video of a claimant carrying groceries or driving is used to argue inconsistency with claimed limitations. The answer is accuracy from the start: describe your limitations as they are, including good days, so that ordinary activity on film is consistent with the claim."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Independent medical examinations."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " The policy allows the insurer to require an examination by a physician it selects and pays. Attend, bring a companion if permitted, keep notes of the duration and what was examined, and provide the examiner your records. A twenty-minute examination that produces a ten-page report is a record the appeal can confront."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Paper reviews."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Some denials rely on a physician who reviewed the file without examining the claimant. The Sixth Circuit has recognized that file reviews are not inherently improper, but their thoroughness and treatment of contrary medical evidence can matter, particularly when the insurer chose not to examine the claimant despite having the right to do so. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "ATTORNEY CHECK",
+          "v": "Sixth Circuit authority, e.g, Calvert v. Firstar Finance, 409 F.3d 286 (6th Cir. 2005); Shaw v. AT&T Umbrella Benefit Plan No. 1, 795 F.3d 538 (6th Cir. 2015)"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Vocational reviews"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " and "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "transferable skills analyses"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " that identify occupations the claimant can supposedly perform; these are tested against the policy’s earnings threshold and the claimant’s actual restrictions."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Social media."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Public posts are collected and used. Assume the insurer reads them."
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "federal-court",
+   "heading": "Federal court",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "If the appeal is denied, the claimant sues under "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "29 USC 1132(a)(1)(B)"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " to recover benefits due under the plan, in federal court, usually the Eastern or Western District of Michigan. The case is decided on the administrative record, typically on cross-motions for judgment, without a jury."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "The standard of review"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " is the central question. Under "
+      },
+      {
+       "t": "em",
+       "c": [
+        {
+         "t": "text",
+         "v": "Firestone"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ", if the plan document grants the administrator discretion to interpret the plan and decide eligibility, the court reviews for "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "arbitrary and capricious"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " decision-making, asking whether the decision was the result of a deliberate, principled reasoning process supported by substantial evidence, with the insurer’s conflict of interest as a factor under "
+      },
+      {
+       "t": "em",
+       "c": [
+        {
+         "t": "text",
+         "v": "Glenn"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ". If the plan does not grant discretion, or if the insurer forfeited deference through procedural violations, the court reviews "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "de novo"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " and decides for itself whether the claimant is disabled. Michigan prohibits discretionary clauses in covered insurance policies under Mich. Admin. Code R 500.2201–500.2202, a prohibition upheld by the Sixth Circuit in American Council of Life Insurers v. Ross. This can require de novo review even when the policy contains language granting discretion. Whether the prohibition applies depends on the policy and funding arrangement. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "ATTORNEY CHECK",
+         "v": "current status of Michigan discretionary-clause regulation"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Remedies"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " are the benefits owed, with interest, and, in the court’s discretion under "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "29 USC 1132(g)(1)"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ", attorney fees to a claimant who achieves some degree of success on the merits ("
+      },
+      {
+       "t": "em",
+       "c": [
+        {
+         "t": "text",
+         "v": "Hardt v. Reliance Standard"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ", 560 U.S. 242 (2010)). There are no compensatory or punitive damages under ERISA, however badly the claim was handled. A common outcome is a "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "remand"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " to the insurer for a new decision on a corrected record, which the claimant may then have to appeal and litigate again."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "The deadline to sue may be governed by an enforceable contractual limitation period in the plan. If no enforceable period applies, courts look to the most analogous state limitations statute; Michigan generally allows six years for ordinary contract claims under MCL 600.5807. A plan’s contractual period may begin running before the final administrative denial, so the applicable deadline must be identified early."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ". "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "ATTORNEY CHECK",
+         "v": ""
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "when-michigan-law-applies-instead-of-erisa",
+   "heading": "When Michigan law applies instead of ERISA",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "ERISA does not govern every disability policy. It does not apply to:"
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Individual disability policies"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " you bought yourself, including the policies physicians, dentists, and other professionals carry."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Government plans"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", including disability plans for State of Michigan, county, municipal, and public school employees."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Church plans"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", including many religiously affiliated hospitals and schools."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Certain "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "voluntary plans"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " with minimal employer involvement, under the Department of Labor’s safe harbor."
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "For many policies outside ERISA, Michigan insurance and contract law applies, although some governmental and other arrangements are subject to separate rules, and it is a different world: a jury, discovery, witnesses, the ordinary rules of contract and insurance law, and, under MCL 500.2006, 12 percent annual interest may apply to qualifying late-paid insurance benefits, generally calculated beginning 60 days after the insurer receives satisfactory proof of loss, subject to the statute’s requirements. Michigan does not recognize a freestanding tort of bad faith against a first-party insurer, but the Uniform Trade Practices Act’s interest penalty and contract damages are substantial, and the claimant is not confined to the insurer’s file. Determining which law governs is the first step in every disability insurance case, and the answer is not always obvious from the policy’s cover. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "ATTORNEY CHECK",
+         "v": ""
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-to-do-when-your-claim-is-denied-or-terminated",
+   "heading": "What to do when your claim is denied or terminated",
+   "blocks": [
+    {
+     "t": "ol",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Note the date you received the denial"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " and count 180 days. The appeal deadline is the case."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Request the complete claim file in writing"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", citing 29 CFR 2560.503-1(h)(2)(iii). The insurer must provide it free of charge. Do not appeal until you have read it."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Do not send a short letter and a doctor’s note."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " The insurer may treat it as your appeal and close the record."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Keep treating"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", and tell your doctors about every limitation. Gaps in treatment are the insurer’s favorite evidence."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Do not sign a settlement, release, or reimbursement agreement"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " without advice. Lump-sum buyout offers are priced in the insurer’s favor and end the claim."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Apply for Social Security disability"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " if the policy requires it, and coordinate the two claims so that the SSDI award does not produce an unexpected repayment demand."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Assume you are being watched"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " and describe your limitations accurately, everywhere, from the first form."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Call a lawyer before the appeal, not after."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " The appeal is the trial; a lawyer retained after it is denied is working with a closed record."
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-a-disability-insurance-lawyer-does",
+   "heading": "What a disability insurance lawyer does",
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Identifies the governing law"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " (ERISA or Michigan) and the standard of review the plan language produces."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Requests and dissects the claim file"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", and calendars the 180-day appeal, the insurer’s decision deadlines, and the contractual limitation period for suit."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Builds the administrative record"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": treating-physician opinions that answer the reviewers, objective testing, a vocational assessment, lay statements, and a written argument."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Confronts surveillance and independent examinations"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " and documents procedural violations for the record."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Coordinates the Social Security claim"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " and manages the offset and any repayment demand."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Litigates in federal court"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " on the record, or in Michigan court with a jury, and seeks fees and penalty interest where available."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Protects ongoing benefits"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " through the any-occupation transition, continuing reviews, and buyout offers."
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Fees in disability insurance cases are not set by federal law as Social Security fees are. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "CONFIRM",
+         "v": "the firm’s fee structure for LTD administrative appeals and litigation; whether contingency on past-due benefits, hourly, or hybrid; whether the firm advances costs"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "why-michigan-workers-call-atlaw-for-disability-insurance-claims",
+   "heading": "Why Michigan workers call ATLAW for disability insurance claims",
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Thirteen years serving clients, more than 10,000 cases."
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The appeal built as the trial it is"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", with the claim file read first and the record completed before the insurer closes it. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": "practice"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "ERISA and Michigan law both"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", with the governing law identified at the first meeting. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": ""
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Social Security and LTD coordinated"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", so the award does not become a repayment surprise. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": ""
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Experience with the carriers"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": see our pages on "
+       },
+       {
+        "t": "link",
+        "href": "/disability/cigna-disability-claims",
+        "c": [
+         {
+          "t": "text",
+          "v": "Cigna"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", "
+       },
+       {
+        "t": "link",
+        "href": "/disability/hartford-disability-claims",
+        "c": [
+         {
+          "t": "text",
+          "v": "Hartford"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", and "
+       },
+       {
+        "t": "link",
+        "href": "/disability/lincoln-financial-disability-claims",
+        "c": [
+         {
+          "t": "text",
+          "v": "Lincoln Financial"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " claims. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": "carriers the firm has handled claims against"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Dearborn, and the whole metro area."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We meet clients at our Dearborn office, by phone, or by video. Home and hospital visits can also be accommodated when needed."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Languages."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Fees."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": "fee structure; free initial review"
+         }
+        ]
+       }
+      ]
+     ]
+    }
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "My long-term disability claim was denied. How long do I have to appeal?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Under ERISA, at least 180 days from the date you received the denial; the letter must state the deadline. Missing it almost always ends the case, because you cannot sue without first appealing. Request the claim file immediately and do not file a thin appeal early."
+    }
+   ]
+  },
+  {
+   "question": "Why does it matter whether my plan is governed by ERISA?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Because ERISA cases are decided by a judge on the insurer’s file, usually under a deferential standard, with no jury, no damages beyond the benefits, and no new evidence in court. Individual, government, and church plans are governed by Michigan law instead, with a jury, discovery, and 12 percent penalty interest."
+    }
+   ]
+  },
+  {
+   "question": "The insurer says I can do “any occupation.” What does that mean?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "After the own-occupation period, usually 24 months, most policies pay only if you cannot perform any gainful occupation suited to your education, training, and experience, often defined as one paying 60 to 80 percent of your prior earnings. The insurer’s vocational reviewer will name occupations; the appeal tests them against your actual restrictions and the earnings threshold."
+    }
+   ]
+  },
+  {
+   "question": "I was approved for SSDI and now the LTD insurer wants money back. Is that legal?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Usually, yes. Nearly every group policy offsets Social Security benefits and allows the insurer to recover the overlap from your back pay. The amount and the calculation should be checked, and the demand should be met with a repayment plan rather than ignored; many policies allow the insurer to withhold future benefits until repaid."
+    }
+   ]
+  },
+  {
+   "question": "My claim was denied for a “pre-existing condition.” I was never diagnosed.",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Most exclusions apply to conditions for which you received treatment, consultation, care, or medication, or had symptoms, in the look-back period, diagnosis or not. The records from the look-back months decide it, and the “caused or contributed to” language is read literally. Each word of the clause should be checked against the facts."
+    }
+   ]
+  },
+  {
+   "question": "My depression claim was cut off at 24 months.",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Most policies limit benefits for mental and nervous conditions to 24 months. If your disability has a physical component, the appeal should establish that the physical condition is independently disabling. Some policies exempt specific diagnoses; the policy language controls."
+    }
+   ]
+  },
+  {
+   "question": "The insurer never examined me. It just had a doctor read my file.",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Common, and a ground for the appeal. Courts in Michigan’s federal circuit have found arbitrariness where an insurer with the right to examine the claimant relied on a file review to reject treating physicians’ opinions without explanation. The point must be made, with the record to support it, in the appeal."
+    }
+   ]
+  },
+  {
+   "question": "Can I get damages for what the denial did to my family?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Not under ERISA, which allows recovery of the benefits, interest, and in the court’s discretion attorney fees. Under a Michigan (non-ERISA) policy, contract damages and 12 percent penalty interest are available, and the case is tried to a jury."
+    }
+   ]
+  },
+  {
+   "question": "The insurer offered a lump-sum buyout. Should I take it?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Not without analysis. Buyouts are priced below the present value of the benefits and end the claim and often the life insurance waiver and other riders. The offer should be evaluated against the policy’s remaining term, your prognosis, and the strength of the claim."
+    }
+   ]
+  },
+  {
+   "question": "Does Michigan have state short-term disability?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "No. Michigan workers have whatever their employer provides, the Earned Sick Time Act’s paid sick time (up to 72 hours a year for most employers since February 2025), FMLA job protection, and, for a work-related condition, workers’ compensation."
+    }
+   ]
+  }
+ ],
+ "cta": {
+  "id": "talk-to-a-michigan-long-term-disability-lawyer",
+  "heading": "Talk to a Michigan long-term disability lawyer",
+  "blocks": [
+   {
+    "t": "p",
+    "c": [
+     {
+      "t": "text",
+      "v": "If your short-term or long-term disability claim was denied, terminated, or reduced anywhere in Michigan, call "
+     },
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "text",
+        "v": "(313) 406-7606"
+       }
+      ]
+     },
+     {
+      "t": "text",
+      "v": " or send the form on this page before your appeal deadline runs. We identify the governing law, obtain the claim file, build the appeal as the record the court will read, coordinate your Social Security claim, and litigate when the insurer does not relent. We respond within one business day. "
+     },
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "placeholder",
+        "kind": "CONFIRM",
+        "v": "fee terms for the CTA"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "wordCount": 3967,
+ "openItems": 15,
+ "source": {
+  "file": "disability__short-long-term-disability.docx",
+  "delivered": "2026-10-16"
+ }
+}

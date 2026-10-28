@@ -80,6 +80,17 @@ export const practiceRegistry = [
   // Batch 2 — Social Security sub-pages (content tracker rows 39–40)
   { slug: "ssd-appeals-process", section: "disability", navLabel: "SSD Appeals Process", navGroup: "disability", serviceType: "Social Security Disability Appeal Legal Representation" },
   { slug: "ssd-application-process", section: "disability", navLabel: "SSD Application Process", navGroup: "disability", serviceType: "Social Security Disability Application Legal Representation" },
+  { slug: "social-security-disability-insurance", section: "disability", navLabel: "SSDI", navGroup: "disability", serviceType: "Social Security Disability Insurance Legal Representation" },
+  { slug: "supplemental-security-income", section: "disability", navLabel: "SSI", navGroup: "disability", serviceType: "Supplemental Security Income Legal Representation" },
+  { slug: "social-security-benefits", section: "disability", navLabel: "Social Security Benefits", navGroup: "disability", serviceType: "Social Security Benefits Legal Representation" },
+  { slug: "qualifying-impairments", section: "disability", navLabel: "Qualifying Impairments", navGroup: "disability", serviceType: "Social Security Disability Legal Representation" },
+  { slug: "compassionate-allowances", section: "disability", navLabel: "Compassionate Allowances", navGroup: "disability", serviceType: "Compassionate Allowance Claim Legal Representation" },
+  { slug: "winning-your-disability-claim", section: "disability", navLabel: "Winning Your Disability Claim", navGroup: "disability", serviceType: "Social Security Disability Legal Representation" },
+  { slug: "short-long-term-disability", section: "disability", navLabel: "Short & Long-Term Disability", navGroup: "disability", serviceType: "Long-Term Disability Claim Legal Representation" },
+  { slug: "cigna-disability-claims", section: "disability", navLabel: "Cigna Disability Claims", navGroup: "disability", serviceType: "Long-Term Disability Claim Legal Representation" },
+  { slug: "hartford-disability-claims", section: "disability", navLabel: "Hartford Disability Claims", navGroup: "disability", serviceType: "Long-Term Disability Claim Legal Representation" },
+  { slug: "lincoln-financial-disability-claims", section: "disability", navLabel: "Lincoln Financial Disability Claims", navGroup: "disability", serviceType: "Long-Term Disability Claim Legal Representation" },
+  { slug: "unum-disability-claims", section: "disability", navLabel: "Unum Disability Claims", navGroup: "disability", serviceType: "Long-Term Disability Claim Legal Representation" },
 ] as const satisfies readonly PracticeRegistryEntry[];
 
 export type PracticeEntry = (typeof practiceRegistry)[number];
