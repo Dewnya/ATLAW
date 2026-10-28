@@ -3,7 +3,8 @@
 //   npm run import-content
 //
 // Each source file is a front-matter header (slug, section, status, SEO fields)
-// followed by the page copy in Markdown. The import validates every page, turns
+// followed by the page copy in Markdown. A city or county page for a practice adds
+// `city: <city slug>` and is named <slug>--<city>.md (served at /personal-injury/<slug>/<city>). The import validates every page, turns
 // the copy into typed blocks (src/content/types.ts) and writes:
 //   - approved pages -> src/content/practice/<slug>.json (published)
 //   - drafts         -> src/content/practice-drafts/<slug>.json (dev and preview only)
@@ -30,6 +31,9 @@ const registrySrc = readFileSync(join(root, "src", "data", "practice", "pi", "re
 const practices = new Map(
   [...registrySrc.matchAll(/\{\s*slug:\s*"([^"]+)",\s*section:\s*"([^"]+)"/g)].map((m) => [m[1], m[2]]),
 );
+// City and county slugs, from the city registry (the header menu's list).
+const citiesSrc = readFileSync(join(root, "src", "data", "cities-registry.ts"), "utf-8");
+const citySlugs = new Set([...citiesSrc.matchAll(/\{\s*slug:\s*"([^"]+)"/g)].map((m) => m[1]));
 const STATIC_ROUTES = new Set(["/", "/about", "/team", "/contact", "/news", "/areas-served", "/privacy", "/terms", "/personal-injury"]);
 
 const slugify = (s) =>
@@ -157,7 +161,7 @@ function checkLink(href) {
   const path = href.split("#")[0].replace(/\/$/, "") || "/";
   if (STATIC_ROUTES.has(path)) return null;
   const [, section, slug, city] = path.split("/");
-  if ((section === "personal-injury" || section === "disability") && practices.get(slug) === section && (!city || section === "personal-injury")) return null;
+  if ((section === "personal-injury" || section === "disability") && practices.get(slug) === section && (!city || (section === "personal-injury" && citySlugs.has(city)))) return null;
   return `link to unknown page ${href}`;
 }
 
@@ -170,7 +174,10 @@ function importPage(file) {
   if (meta.slug && !practices.has(meta.slug)) errors.push(`slug "${meta.slug}" is not in the practice registry`);
   if (meta.slug && practices.get(meta.slug) && practices.get(meta.slug) !== meta.section)
     errors.push(`section "${meta.section}" does not match the registry ("${practices.get(meta.slug)}")`);
-  if (`${meta.slug}.md` !== file) errors.push(`file name must be ${meta.slug}.md`);
+  const key = meta.city ? `${meta.slug}--${meta.city}` : meta.slug;
+  if (meta.city && !citySlugs.has(meta.city)) errors.push(`city "${meta.city}" is not in the city registry`);
+  if (meta.city && meta.section !== "personal-injury") errors.push("city pages exist only under /personal-injury");
+  if (`${key}.md` !== file) errors.push(`file name must be ${key}.md`);
   if (!["draft", "approved"].includes(meta.status)) errors.push(`status must be draft or approved, not "${meta.status}"`);
   if (meta.h1 && meta.seoTitle && meta.h1.trim().toLowerCase() === meta.seoTitle.trim().toLowerCase())
     errors.push("H1 must differ from the title");
@@ -240,6 +247,7 @@ function importPage(file) {
   const content = {
     slug: meta.slug,
     section: meta.section,
+    ...(meta.city ? { city: meta.city } : {}),
     status: meta.status,
     seoTitle: meta.seoTitle,
     seoDescription: meta.seoDescription,
@@ -287,7 +295,7 @@ for (const dir of [OUT_APPROVED, OUT_DRAFTS]) {
 }
 for (const { content } of results) {
   const dir = content.status === "approved" ? OUT_APPROVED : OUT_DRAFTS;
-  writeFileSync(join(dir, `${content.slug}.json`), JSON.stringify(content, null, 1) + "\n");
+  writeFileSync(join(dir, `${content.city ? `${content.slug}--${content.city}` : content.slug}.json`), JSON.stringify(content, null, 1) + "\n");
 }
 const approved = results.filter((r) => r.content.status === "approved").length;
 console.log(`\nImported ${results.length} page(s): ${approved} approved, ${results.length - approved} draft(s).`);

@@ -27,18 +27,18 @@ const subHeadAxes = "'opsz' 96, 'wght' 400, 'SOFT' 0, 'WONK' 0";
 const headlineAxes = "'opsz' 144, 'wght' 360, 'SOFT' 0, 'WONK' 0";
 
 /** Pages longer than this get a table of contents (build plan 4h). */
-const TOC_MIN_WORDS = 2000;
+export const TOC_MIN_WORDS = 2000;
 
 const sectionHeading = "font-serifDisplay font-normal leading-[1.12] tracking-[-0.02em]";
 
-const DraftBanner = ({ content }: { content: PracticeContent }) => (
+export const DraftBanner = ({ content }: { content: PracticeContent }) => (
   <div className="w-full bg-[#FFF4CC] px-6 py-2.5 text-center font-sans text-[13px] leading-[1.5] text-[#5A4300]">
     <strong>Draft for attorney review, not published.</strong> {content.openItems} open item{content.openItems === 1 ? "" : "s"} highlighted
     on this page · source: {content.source.file}
   </div>
 );
 
-const TableOfContents = ({ content }: { content: PracticeContent }) => (
+export const TableOfContents = ({ content }: { content: PracticeContent }) => (
   <nav aria-label="On this page" className="rounded-[16px] border border-[#0B1F3A]/10 bg-[#F7F7F5] px-6 py-6 lg:px-8">
     <p className="flex items-center gap-3 font-sans text-[12px] font-semibold uppercase leading-none tracking-[0.22em]" style={{ color: INK }}>
       <span aria-hidden="true" className="h-px w-8" style={{ backgroundColor: GOLD_ACCENT }} />

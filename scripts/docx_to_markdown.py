@@ -155,14 +155,17 @@ def convert(path: str) -> tuple[str, str]:
                 list_counter = {}
 
     # Status: Draft for attorney review · URL: /personal-injury/auto-accidents · Delivered: October 12, 2026
+    # City pages: URL: /personal-injury/auto-accidents/detroit -> auto-accidents--detroit.md with "city: detroit"
     fields = dict(
         (k.strip().lower(), v.strip())
         for k, v in (part.split(":", 1) for part in status_line.split("·") if ":" in part)
     )
-    url = fields.get("url", "").rstrip("/")
+    url = re.sub(r"\s*\([^)]*\)\s*$", "", fields.get("url", "")).strip().rstrip("/")  # "… (new)" notes
     parts = [x for x in url.split("/") if x]
     section_name = parts[0] if parts else "personal-injury"
     slug = parts[1] if len(parts) > 1 else parts[0]
+    # /personal-injury/<practice>/<city>: a city or county page for that practice.
+    city = parts[2] if len(parts) > 2 else ""
     status = "approved" if fields.get("status", "").lower().startswith("approved") else "draft"
     delivered = fields.get("delivered", "")
     try:
@@ -174,6 +177,7 @@ def convert(path: str) -> tuple[str, str]:
         "---",
         f"slug: {slug}",
         f"section: {section_name}",
+        *([f"city: {city}"] if city else []),
         f"status: {status}",
         *(f"{key}: {meta.get(key, '')}" for key in FIELDS.values()),
         f"source: {os.path.basename(path)}",
@@ -188,7 +192,7 @@ def convert(path: str) -> tuple[str, str]:
         if lines and not (is_item and prev_item):
             lines.append("")
         lines.append(line)
-    return slug, "\n".join(front) + "\n\n" + "\n".join(lines) + "\n"
+    return (f"{slug}--{city}" if city else slug), "\n".join(front) + "\n\n" + "\n".join(lines) + "\n"
 
 
 def main():

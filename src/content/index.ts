@@ -27,3 +27,19 @@ const loaders = new Map<string, Loader>([
 export const hasPracticeContent = (slug: string): boolean => loaders.has(slug);
 
 export const practiceContentLoader = (slug: string): Loader | undefined => loaders.get(slug);
+
+// City and county pages are stored as <practice>--<city>.json (see import-content.mjs).
+const cityKey = (practice: string, city: string) => `${practice}--${city}`;
+
+export const hasCityContent = (practice: string, city: string): boolean => loaders.has(cityKey(practice, city));
+
+export const cityContentLoader = (practice: string, city: string): Loader | undefined => loaders.get(cityKey(practice, city));
+
+/** Every imported city or county page, for the prerender list. */
+export const cityContentPages = (): { practice: string; city: string }[] =>
+  [...loaders.keys()]
+    .filter((key) => key.includes("--"))
+    .map((key) => {
+      const [practice, city] = key.split("--");
+      return { practice, city };
+    });

@@ -84,7 +84,10 @@ const ChevronRight = () => (
 
 /* ─────────────────── 1. Hero ─────────────────── */
 
-const Hero = ({ practice, city }: { practice: PracticeAreaPI; city: CityData }) => (
+/** The practice fields the city sections need (the registry entry of an imported page is enough). */
+export type CityPractice = Pick<PracticeAreaPI, "slug" | "title" | "tagline">;
+
+export const CityHero = ({ practice, city, heroTitle }: { practice: CityPractice; city: CityData; heroTitle?: string }) => (
   <section
     aria-labelledby="city-hero-title"
     className="relative w-full overflow-hidden bg-white"
@@ -125,7 +128,7 @@ const Hero = ({ practice, city }: { practice: PracticeAreaPI; city: CityData }) 
           color: INK,
         }}
       >
-        {practice.title} Lawyer in {city.name}
+        {heroTitle ?? `${practice.title} Lawyer in ${city.name}`}
         <span aria-hidden="true" style={{ color: GOLD }}>.</span>
       </h1>
 
@@ -180,7 +183,7 @@ const Hero = ({ practice, city }: { practice: PracticeAreaPI; city: CityData }) 
 
 /* ─────────────────── 2. Stats Bar ─────────────────── */
 
-const StatsBar = ({ city }: { city: CityData }) => (
+export const CityStatsBar = ({ city }: { city: CityData }) => (
   <section aria-label="Firm credentials" className="w-full border-y border-[#0B1F3A]/8 bg-[#F7F7F5]">
     <div className="mx-auto flex w-full max-w-[1320px] flex-wrap items-center justify-center gap-x-8 gap-y-3 px-6 py-5 sm:px-10 lg:gap-x-12 lg:px-16">
       {[
@@ -547,7 +550,7 @@ const CityFAQSection = ({ city }: { city: CityData }) => (
 
 /* ─────────────────── 8. Other Practice Areas in [City] ─────────────────── */
 
-const OtherPracticeAreasSection = ({ practice, city }: { practice: PracticeAreaPI; city: CityData }) => {
+export const OtherPracticeAreasSection = ({ practice, city }: { practice: CityPractice; city: CityData }) => {
   const otherAreas = Object.entries(practiceAreaBySlug).filter(
     ([slug]) => slug !== practice.slug && slug !== "personal-injury"
   );
@@ -593,7 +596,7 @@ const OtherPracticeAreasSection = ({ practice, city }: { practice: PracticeAreaP
 
 /* ─────────────────── 9. Other Cities We Serve ─────────────────── */
 
-const OtherCitiesSection = ({ practice, city }: { practice: PracticeAreaPI; city: CityData }) => {
+export const OtherCitiesSection = ({ practice, city }: { practice: CityPractice; city: CityData }) => {
   const otherCities = cities.filter((c) => c.slug !== city.slug);
 
   return (
@@ -684,8 +687,8 @@ export const CityLandingTemplate = ({
   city: CityData;
 }): JSX.Element => (
   <>
-    <Hero practice={practice} city={city} />
-    <StatsBar city={city} />
+    <CityHero practice={practice} city={city} />
+    <CityStatsBar city={city} />
     <CityContextSection practice={practice} city={city} />
     <PracticeOverviewSection practice={practice} city={city} />
     <LocalExpertiseSection city={city} />

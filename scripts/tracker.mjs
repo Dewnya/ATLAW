@@ -60,9 +60,9 @@ for (const f of existsSync(srcDir) ? readdirSync(srcDir).filter((f) => f.endsWit
   const fm = read(join("content-source", "practice", f)).match(/^---\r?\n([\s\S]*?)\r?\n---/);
   if (!fm) continue;
   const meta = Object.fromEntries(fm[1].split(/\r?\n/).map((l) => [l.slice(0, l.indexOf(":")).trim(), l.slice(l.indexOf(":") + 1).trim()]));
-  const url = meta.slug === "personal-injury" ? "/personal-injury" : `/${meta.section}/${meta.slug}`;
+  const url = (meta.slug === "personal-injury" ? "/personal-injury" : `/${meta.section}/${meta.slug}`) + (meta.city ? `/${meta.city}` : "");
   // "Live" = an approved JSON exists (a production build publishes it).
-  const live = existsSync(join(root, "src", "content", "practice", `${meta.slug}.json`));
+  const live = existsSync(join(root, "src", "content", "practice", `${meta.city ? `${meta.slug}--${meta.city}` : meta.slug}.json`));
   content.set(url, { ...meta, live });
 }
 

@@ -68,6 +68,7 @@ atlaw_start/
 ## Content pipeline (imported pages)
 
 - Writers' copy → `content-source/practice/<slug>.md` (front matter + Markdown; `scripts/docx_to_markdown.py` converts Word deliveries) → `npm run import-content` → `src/content/practice/*.json` (approved) or `src/content/practice-drafts/*.json` (drafts). JSON is committed, so builds never need the source or the network.
+- City and county pages for a practice use the same pipeline: `content-source/practice/<slug>--<city>.md` with `city: <city slug>` in the front matter (the converter reads it from the doc's `/personal-injury/<practice>/<city>` URL), imported as `<slug>--<city>.json`, served at `/personal-injury/<practice>/<city>` by `CityLandingPage` through `CityLongFormPage` (city hero and stats bar + the long-form body). A practice/city pair without imported copy still renders the original `CityLandingTemplate` from `cities.ts`, for the original practices only.
 - Copy is stored as typed blocks (`src/content/types.ts`), never HTML; the site renders it with its own components.
 - The import is the gate: approved pages with any [CONFIRM]/[VERIFY]/[ATTORNEY CHECK] are refused.
 - `src/content/index.ts` maps slugs to lazy JSON loaders; drafts are included only in dev or with `VITE_SHOW_DRAFTS=true` (Vercel previews). `PracticePage` renders `PracticeLongFormPage` when a slug has content, else the original hand-written page.
