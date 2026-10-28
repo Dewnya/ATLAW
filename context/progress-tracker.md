@@ -511,6 +511,13 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - Not imported: B2-26 to B2-29 (no-fault guide, after-accident checklist, case results, FAQ): they are support pages with no page type on the site yet; their comments are extracted and waiting. 13 Batch 3 and 4 docs modified since Oct 23 are also still unchecked
   - Verified: typecheck clean; import 56 drafts; production build unchanged (7 pages); Unum, Compassionate Allowances and Wayne County car pages render with banner, FAQs and the new copy; the Work & Disability menu lists all 14 disability pages
 
+- [x] City practice pages, batch 1 of 9: the first five Detroit pages (Oct 28, 2026) — B2-60 to B2-64
+  - Detroit car accidents, personal injury, truck accidents, motorcycle accidents and wrongful death imported through the city pipeline (`<practice>--detroit.md`), replacing the hand-written Detroit template pages for those practices; 200 reviewer comments applied, the city hero no longer doubles the "Personal Injury" crumb on the hub-practice page
+  - `tools/apply_comments.py` (scratchpad) now swaps whole sentences when the reviewer supplies a full-sentence rewrite, keeps list markers, and treats `[DATA]` as a tracked placeholder; every file was then read through against the writers' original and the leftover fragments fixed by hand
+  - Left open: 50 highlighted items across the five pages (the Detroit and Wayne County motorcycle crash figures, firm-practice confirmations, and attorney checks on road jurisdiction, GTLA and no-fault details); `full checklist` and `Michigan no-fault guide` links still have no target page
+  - Source file names in the front matter corrected for the 14 pages imported earlier today from Drive copies that had been renamed by URL
+  - Verified: import 61 drafts, typecheck clean, production build unchanged (7 pages), both sample pages render with banner, photo, FAQs and the new copy
+
 ### Open Questions
 
 - [ ] **PRE-LAUNCH — Text Us number.** Confirm with the firm whether (313) 406-7606 can receive SMS, or get a dedicated SMS number. Then set `SMS_NUMBER` in `src/data/contact.ts` (the Text buttons in the header and mobile bar appear automatically).

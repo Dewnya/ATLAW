@@ -8,7 +8,7 @@ h1: Unum Disability Denial Lawyer
 tagline: Forty-eight states once made Unum reopen its denied claims. Your appeal is the only review of yours that anyone will require.
 primaryKeyword: unum disability denial lawyer
 secondaryKeywords: unum disability appeal, unum disability lawyer, unum disability attorney, unum disability denial, unum long term disability, unum lawsuit, unum disability lawyer michigan
-source: disability__unum-disability-claims.docx
+source: B2-25_Unum-Disability-Denial-Lawyer.docx
 delivered: 2026-10-16
 ---
 

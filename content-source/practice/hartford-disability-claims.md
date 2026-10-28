@@ -8,7 +8,7 @@ h1: Hartford Disability Denial Lawyer
 tagline: The case that lets an insurer enforce its own deadline for suing it is named Heimeshoff v. Hartford. Read your policy for the clause the day the denial arrives.
 primaryKeyword: hartford disability appeal
 secondaryKeywords: hartford long term disability denial, hartford disability denial lawyer, hartford disability lawyer, hartford disability attorney, hartford long term disability, hartford long term disability denied, hartford disability lawyer michigan
-source: disability__hartford-disability-claims.docx
+source: B2-23_Hartford-Disability-Denial-Lawyer.docx
 delivered: 2026-10-16
 ---
 

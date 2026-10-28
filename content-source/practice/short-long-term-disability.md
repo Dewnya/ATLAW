@@ -8,7 +8,7 @@ h1: Long Term Disability Lawyer Michigan
 tagline: In an ERISA case the appeal is the trial. Whatever is not in the file when the insurer closes it, the judge will never see.
 primaryKeyword: long term disability lawyer michigan
 secondaryKeywords: long term disability attorney michigan, long term disability lawyer, erisa disability lawyer, short term disability michigan, short term disability lawyer, long term disability denied, ltd claim denied
-source: disability__short-long-term-disability.docx
+source: B2-21_Michigan-Long-Term-Disability-Lawyer.docx
 delivered: 2026-10-16
 ---
 

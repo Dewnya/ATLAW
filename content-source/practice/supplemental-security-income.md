@@ -8,7 +8,7 @@ h1: SSI Lawyer Michigan
 tagline: SSI has two sets of rules. Disability is the one people prepare for. Income and resources are the one that ends claims.
 primaryKeyword: ssi lawyer michigan
 secondaryKeywords: michigan ssi lawyer, ssi michigan, ssi benefits michigan, how much is ssi in michigan, ssi lawyer, ssi eligibility, michigan ssi payment amount 2026
-source: disability__supplemental-security-income.docx
+source: B2-19_Michigan-SSI-Lawyer.docx
 delivered: 2026-10-16
 ---
 

@@ -8,7 +8,7 @@ h1: SSDI Lawyer Michigan
 tagline: SSDI is insurance you already paid for. The claim is about proving the loss occurred while the policy was in force.
 primaryKeyword: ssdi lawyer michigan
 secondaryKeywords: michigan ssdi lawyer, ssdi michigan, ssdi attorney, ssdi eligibility, ssdi work credits, how much is ssdi in michigan, what is ssdi
-source: disability__social-security-disability-insurance.docx
+source: B2-18_Michigan-SSDI-Lawyer.docx
 delivered: 2026-10-16
 ---
 

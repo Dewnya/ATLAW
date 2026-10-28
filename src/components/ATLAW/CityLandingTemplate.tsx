@@ -98,7 +98,7 @@ export const CityHero = ({ practice, city, heroTitle }: { practice: CityPractice
         items={[
           { label: "ATLAW", to: "/" },
           { label: "Personal Injury", to: "/personal-injury" },
-          { label: practice.title, to: `/personal-injury/${practice.slug}` },
+          ...(practice.slug === "personal-injury" ? [] : [{ label: practice.title, to: `/personal-injury/${practice.slug}` }]),
           { label: city.name },
         ]}
       />
@@ -111,8 +111,12 @@ export const CityHero = ({ practice, city, heroTitle }: { practice: CityPractice
           <li aria-hidden="true" className="text-[#0B1F3A]/30">/</li>
           <li><Link className="transition-colors hover:text-[#0B1F3A]" to="/personal-injury">Personal Injury</Link></li>
           <li aria-hidden="true" className="text-[#0B1F3A]/30">/</li>
-          <li><Link className="transition-colors hover:text-[#0B1F3A]" to={`/personal-injury/${practice.slug}`}>{practice.title}</Link></li>
-          <li aria-hidden="true" className="text-[#0B1F3A]/30">/</li>
+          {practice.slug !== "personal-injury" && (
+            <>
+              <li><Link className="transition-colors hover:text-[#0B1F3A]" to={`/personal-injury/${practice.slug}`}>{practice.title}</Link></li>
+              <li aria-hidden="true" className="text-[#0B1F3A]/30">/</li>
+            </>
+          )}
           <li><span aria-current="page" style={{ color: INK }}>{city.name}</span></li>
         </ol>
       </nav>

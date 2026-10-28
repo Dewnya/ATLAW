@@ -9,7 +9,7 @@ h1: Wayne County Truck Accident Lawyer
 tagline: Wayne County carries more commercial truck traffic than any other Michigan county, across one of the busiest truck crossings on the U.S.–Canada border. 3,916 trucks and buses were in crashes here in 2024.
 primaryKeyword: wayne county truck accident lawyer
 secondaryKeywords: detroit truck accident lawyer and truck accident lawyer detroit (served by /personal-injury/truck-accidents/detroit), semi truck accident lawyer wayne county, dearborn truck accident lawyer
-source: personal-injury__truck-accidents__wayne-county.docx
+source: B2-34_Wayne-County-Truck-Accident-Lawyer.docx
 delivered: 2026-10-16
 ---
 

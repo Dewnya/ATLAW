@@ -9,7 +9,7 @@ h1: Wayne County Car Accident Lawyer
 tagline: 50,355 crashes and 16,458 people injured in Wayne County in 2024. The county’s claims have their own problems: uninsured drivers, government vehicles, and a one-year notice rule that ends claims before they start.
 primaryKeyword: wayne county car accident lawyer
 secondaryKeywords: wayne county car accident attorney, car accident lawyer wayne county mi, detroit car accident lawyer (served by /personal-injury/auto-accidents/detroit)
-source: personal-injury__auto-accidents__wayne-county.docx
+source: B2-33_Wayne-County-Car-Accident-Lawyer.docx
 delivered: 2026-10-16
 ---
 

@@ -8,7 +8,7 @@ h1: Social Security Benefits Lawyer Michigan
 tagline: Disability is one benefit. Your work record may pay for several more, to you and to your family.
 primaryKeyword: social security benefits lawyer michigan
 secondaryKeywords: michigan social security lawyer, social security lawyer michigan, social security attorney near me, social security benefits lawyer, social security disability benefits michigan, detroit social security lawyer
-source: disability__social-security-benefits.docx
+source: B2-17_Michigan-Social-Security-Benefits-Lawyer.docx
 delivered: 2026-10-16
 ---
 

@@ -8,7 +8,7 @@ h1: Conditions That Qualify for Disability in Michigan
 tagline: There is no list of conditions that qualify. There is a list of criteria, and a second path for everyone who does not meet them.
 primaryKeyword: conditions that qualify for disability michigan
 secondaryKeywords: what conditions qualify for disability, what qualifies for disability, social security blue book, listing of impairments, what medical conditions qualify for social security disability, what qualifies for disability in michigan
-source: disability__qualifying-impairments.docx
+source: B2-16_Conditions-That-Qualify-for-Disability-Michigan.docx
 delivered: 2026-10-16
 ---
 

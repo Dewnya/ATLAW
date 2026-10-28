@@ -8,7 +8,7 @@ h1: Lincoln Financial Disability Denial Lawyer
 tagline: Lincoln’s denial letter may offer a second appeal. Whether you have to take it, and what it costs you in time, is written in the letter.
 primaryKeyword: lincoln financial disability appeal
 secondaryKeywords: lincoln financial disability denial, lincoln financial long term disability, lincoln financial disability attorney, lincoln financial disability lawyer, lincoln financial disability denial lawyer, liberty mutual disability denial, lincoln financial disability lawyer michigan
-source: disability__lincoln-financial-disability-claims.docx
+source: B2-24_Lincoln-Financial-Disability-Denial-Lawyer.docx
 delivered: 2026-10-16
 ---
 

@@ -8,7 +8,7 @@ h1: Compassionate Allowance List Lawyer
 tagline: The list decides who is flagged. The records decide who is approved.
 primaryKeyword: compassionate allowance list
 secondaryKeywords: compassionate allowances list, compassionate allowance, social security compassionate allowance, compassionate allowance conditions, ssa compassionate allowance list 2026, compassionate allowance lawyer michigan
-source: disability__compassionate-allowances.docx
+source: B2-15_Compassionate-Allowance-List-Lawyer.docx
 delivered: 2026-10-16
 ---
 

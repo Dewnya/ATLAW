@@ -8,7 +8,7 @@ h1: How to Win Your Social Security Disability Claim
 tagline: Disability claims are not won by being disabled. They are won by proving it in the form the regulations require.
 primaryKeyword: how to win social security disability claim
 secondaryKeywords: how to get approved for disability the first time, how to win a social security disability hearing, disability hearing questions, what not to say at disability hearing, how to get approved for disability, how to win disability claim michigan
-source: disability__winning-your-disability-claim.docx
+source: B2-20_How-to-Win-Social-Security-Disability-Claim.docx
 delivered: 2026-10-16
 ---
 

@@ -1,0 +1,1339 @@
+{
+ "slug": "wrongful-death",
+ "section": "personal-injury",
+ "city": "detroit",
+ "status": "draft",
+ "seoTitle": "Detroit Wrongful Death Lawyer: Who Can File, What the Family Recovers, and the Probate Step",
+ "seoDescription": "When a family member dies in Detroit because of someone’s negligence, Michigan law gives the estate a claim, not the family directly. ATLAW’s Dearborn wrongful death lawyers explain the personal representative, the Wayne County Probate Court, the damages, no-fault survivor’s loss benefits, and the deadlines. Free, confidential consultation. (313) 406-7606.",
+ "h1": "Detroit Wrongful Death Lawyer",
+ "tagline": "177 people were killed in Wayne County crashes in 2024, 40 of them pedestrians. Michigan’s Wrongful Death Act gives the family a claim through the estate, divided by the probate court, with deadlines that depend on how the death happened.",
+ "primaryKeyword": "detroit wrongful death attorney (170/mo) · detroit wrongful death lawyer (110/mo)",
+ "secondaryKeywords": [
+  "wrongful death lawyer detroit (90)",
+  "wrongful death attorney detroit (90)",
+  "wrongful death lawyer detroit mi (50)"
+ ],
+ "intro": [
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "When someone dies in Detroit because another person or company was careless, Michigan’s Wrongful Death Act (MCL 600.2922) gives the family a claim. It does not give it in the way most families expect. The claim belongs to the estate, not to the spouse or children directly. The lawsuit must be brought by the estate’s personal representative, who is generally appointed by the probate court in the county where the deceased lived. Any recovery is distributed under court-supervised procedures, with eligible family members having an opportunity to present their losses. And the deadline depends on what caused the death: a crash, a fall, a fire, a hospital error, a nursing home, a City vehicle. This page explains how the process works in Detroit and what the family should do in the first weeks."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "ATLAW is a personal injury firm with an office at 3 Parklane Boulevard in Dearborn, serving families throughout Detroit and southeast Michigan. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients. ATLAW works with its probate team to address estate appointments, applicable no-fault survivor’s benefits, the wrongful-death claim, and the court-supervised settlement or distribution process. "
+    },
+    {
+     "t": "strong",
+     "c": [
+      {
+       "t": "placeholder",
+       "kind": "CONFIRM",
+       "v": "that the firm opens the estate in-house"
+      }
+     ]
+    },
+    {
+     "t": "text",
+     "v": " Our "
+    },
+    {
+     "t": "link",
+     "href": "/personal-injury/wrongful-death",
+     "c": [
+      {
+       "t": "text",
+       "v": "Michigan wrongful death lawyer page"
+      }
+     ]
+    },
+    {
+     "t": "text",
+     "v": " covers the Act in full and our "
+    },
+    {
+     "t": "link",
+     "href": "/personal-injury/personal-injury/detroit",
+     "c": [
+      {
+       "t": "text",
+       "v": "Detroit page"
+      }
+     ]
+    },
+    {
+     "t": "text",
+     "v": " covers every kind of injury claim in the city. The first conversation is free and confidential: "
+    },
+    {
+     "t": "strong",
+     "c": [
+      {
+       "t": "text",
+       "v": "(313) 406-7606"
+      }
+     ]
+    },
+    {
+     "t": "text",
+     "v": "."
+    }
+   ]
+  }
+ ],
+ "sections": [
+  {
+   "id": "fatal-injuries-in-detroit-and-wayne-county",
+   "heading": "Fatal injuries in Detroit and Wayne County",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Measure"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Figure"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Source"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "People killed in Detroit crashes, 2024"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "104 (98 fatal crashes)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MSP Michigan Traffic Crash Facts, city profile"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "People killed in Wayne County crashes, 2024"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "177 (Oakland: 68; Macomb: 70)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MSP, Michigan Traffic Crash Facts 2024"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Pedestrians killed in Wayne County crashes, 2024"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "40 (of 637 pedestrian crashes; Detroit had 420 of those crashes)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MSP, Pedestrian Crash Report 2020–2024"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Deaths per 1,000 crashes, Wayne County"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "3.5 (Oakland: 1.9; statewide: 3.8)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Calculated from MSP 2024"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Michigan motorcyclists killed, 2024"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "168 (31 percent alcohol-involved)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MSP 2024 Motorcycle Crash Facts"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Wayne County alcohol-involved crashes, 2024"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "1,331"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MSP 2024"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "2026 medical malpractice noneconomic damages caps (apply to death cases)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$596,400 / $1,065,000"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.1483"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "County-wide figures for every crash type are on our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/personal-injury/wayne-county",
+       "c": [
+        {
+         "t": "text",
+         "v": "Wayne County page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ". Crashes are one source of Detroit wrongful death claims. The others are falls and fires in rental housing, hospital and nursing home negligence, workplace deaths, drunk driving, and deaths involving City vehicles or property, each described below with the rule that governs it."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "how-a-detroit-wrongful-death-claim-works",
+   "heading": "How a Detroit wrongful death claim works",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Step one: the estate."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Only the personal representative of the estate can bring the claim (MCL 600.2922(2)). If the deceased lived in Wayne County, the person named as personal representative in the will may seek appointment through Wayne County Probate Court at the Coleman A. Young Municipal Center, 2 Woodward Avenue. If the deceased lived elsewhere, the estate is generally opened in the probate court for the county of domicile, subject to Michigan’s venue rules. If there was no will, a family member, usually the spouse or an adult child, petitions under Michigan’s priority rules (MCL 700.3203). The court issues letters of authority, and the personal representative then has standing to hire a lawyer for the estate and file the claim. Michigan allows informal appointment procedures in qualifying estates, although the timing depends on the documents, family circumstances, and court requirements. The estate appointment is an important early step because the personal representative brings the wrongful-death lawsuit. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "ATTORNEY CHECK",
+         "v": "EPIC appointment description"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Step two: notice to the family."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Within 30 days after filing suit, the personal representative must give written notice to every person who may share in the recovery: the spouse, children, descendants, parents, grandparents, brothers and sisters, the children of the deceased’s spouse, and anyone named in the will (MCL 600.2922(3), (4)). Each has the right to participate and to be heard on the division."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Step three: the claim itself."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " The wrongful death suit is the injury claim the person would have had if they had lived, brought by the estate against whoever caused the death: the at-fault driver and their insurer, the trucking company, the property owner, the hospital, the nursing home, the bar, the City. The claim is filed in the Third Judicial Circuit Court for most defendants, in the Court of Claims for the State, and in the U.S. District Court for the Eastern District of Michigan for federal claims. It is proven the same way an injury case is proven, with the added evidence of the death: the Wayne County Medical Examiner’s report and autopsy, the death certificate, the EMS and hospital records, and the police or fire investigation."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Step four: the damages."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " The Act lists them (MCL 600.2922(6)):"
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Medical and hospital expenses"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " from the injury to the death."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Funeral and burial expenses."
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Conscious pain and suffering"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " the person experienced between the injury and death. Where the person was aware for minutes, hours, or days, this is a substantial element, established by the medical record and witnesses."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Loss of financial support"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " the person would have provided: wages, benefits, household services, over a working life, calculated by an economist."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Loss of society and companionship"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " for each family member: the spouse’s loss of a partner, a child’s loss of a parent’s guidance, a parent’s loss of a child. Michigan places no cap on these damages except in medical malpractice cases."
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Step five: the distribution hearing."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " After a settlement or verdict, the personal representative files a motion proposing how to divide the proceeds among the eligible family members, with notice to each. The personal representative seeks court approval of the proposed distribution. When all entitled recipients are competent adults and execute the required verified agreement, the court may enter an order consistent with that agreement. Otherwise, the court determines distribution under the procedures in MCL 600.2922, considering the damages established for each eligible recipient. Attorney fees and litigation expenses are addressed under the applicable contingency-fee rules and court approval procedures. Individual relatives should understand the personal representative’s authority and the effect of any proposed settlement or release before signing documents with an insurer. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "ATTORNEY CHECK",
+         "v": ""
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-causes-of-detroit-wrongful-death-claims-and-the-rule-for-each",
+   "heading": "The causes of Detroit wrongful death claims, and the rule for each",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Crashes."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Available liability coverage can affect practical recovery. Michigan’s default bodily-injury liability limits are $250,000 per person and $500,000 per accident, although drivers may select lower limits, including $50,000/$100,000. Other applicable policies and potentially responsible parties should also be investigated. The deceased’s own uninsured and underinsured motorist coverage, umbrella policies, and the employer’s policy if the driver was working are checked before the claim is valued. Eligible dependents may receive no-fault survivor’s loss benefits regardless of fault from the insurer responsible under Michigan’s no-fault priority rules. These benefits may include lost financial support and replacement household services and generally do not extend beyond three years after the accident. Written notice is due within one year (MCL 500.3145(1)); the family should not wait for the lawsuit. Fatal truck crashes bring the federal rules and $750,000-plus carrier policies described on our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/truck-accidents/detroit",
+       "c": [
+        {
+         "t": "text",
+         "v": "Detroit truck accident page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": "; fatal motorcycle crashes follow the rider priority rules on our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/motorcycle-accidents/detroit",
+       "c": [
+        {
+         "t": "text",
+         "v": "Detroit motorcycle accident page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": "; pedestrian deaths, 40 in the county in 2024, follow MCL 500.3115 and our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/pedestrian-accidents",
+       "c": [
+        {
+         "t": "text",
+         "v": "pedestrian accident page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": "."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Drunk driving."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " The driver, and under Michigan’s dram shop act (MCL 436.1801) the bar or store that sold alcohol to a visibly intoxicated person or a minor, with written notice to the retailer within 120 days. Detroit’s bar districts and the 1,331 alcohol-involved crashes in the county in 2024 make this a recurring Detroit claim. The criminal case against the driver proceeds separately; the family’s civil claim does not wait for it, and a conviction is evidence in it. See our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/drunk-driving-accidents",
+       "c": [
+        {
+         "t": "text",
+         "v": "drunk driving accident page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": "."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Fires, falls, and carbon monoxide in rental housing."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Detroit’s older housing stock produces deaths from fires in units without working smoke detectors, falls on deteriorated stairs and porches, and carbon monoxide from unvented or defective heating. A landlord’s duty to keep premises fit and in reasonable repair (MCL 554.139) and the City’s housing code set the standard. Where the landlord is the Detroit Housing Commission, the claim proceeds under the public building exception to governmental immunity (MCL 691.1406) with 120-day notice. See our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/tenant-injuries",
+       "c": [
+        {
+         "t": "text",
+         "v": "tenant injury page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " and "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/slip-and-fall/detroit",
+       "c": [
+        {
+         "t": "text",
+         "v": "Detroit slip and fall page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": "."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Hospital and medical negligence."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " A death caused by malpractice at a Detroit hospital or clinic is a wrongful death claim with the malpractice rules attached: a 182-day Notice of Intent before suit (MCL 600.2912b), an Affidavit of Merit (600.2912d), a two-year limitations period with a six-month discovery rule (600.5805(8), 600.5838a), and noneconomic damages limits of $596,400 for the standard tier or $1,065,000 for qualifying higher-tier injuries in 2026. In a wrongful-death case, the higher tier is not triggered by death alone; it depends on whether the statutory qualifying injury requirements were met before death (MCL 600.1483). "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "ATTORNEY CHECK",
+         "v": "application of the caps in death cases"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " See our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/medical-malpractice/detroit",
+       "c": [
+        {
+         "t": "text",
+         "v": "Detroit medical malpractice page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " and "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/hospital-mistakes",
+       "c": [
+        {
+         "t": "text",
+         "v": "hospital negligence page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": "."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Nursing homes."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Deaths potentially linked to falls, pressure injuries, dehydration, medication errors, or inadequate care in Detroit nursing homes. Whether the claim is ordinary negligence or malpractice, with the malpractice notice and caps, depends on whether the conduct required medical judgment; the distinction decides the deadline and the damages. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "ATTORNEY CHECK",
+         "v": ""
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " See our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/nursing-home-abuse/detroit",
+       "c": [
+        {
+         "t": "text",
+         "v": "Detroit nursing home abuse page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": "."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Workplace deaths."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Eligible dependents may qualify for workers' compensation death benefits when a work-related injury causes death under MCL 418.321. Workers' compensation is generally the exclusive remedy against the employer under MCL 418.131, subject to limited exceptions. See our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/workers-compensation/detroit",
+       "c": [
+        {
+         "t": "text",
+         "v": "Detroit workers’ compensation page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": "."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Deaths involving the City of Detroit."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " A death involving a DDOT bus or another government-owned vehicle may give rise to a claim under the motor vehicle exception to governmental immunity (MCL 691.1405), when its statutory requirements are satisfied. Individual government employees may have statutory immunity from state-law tort claims. The availability of an exception, including gross negligence under MCL 691.1407(2), depends on the particular claim and circumstances. Deaths involving alleged unconstitutional police conduct may raise federal civil rights claims under 42 USC 1983. Those claims are subject to distinct legal standards, potential immunities, and filing requirements. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "ATTORNEY CHECK",
+         "v": "GTLA summary; whether the firm handles 1983 claims or refers them"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Dangerous premises and negligent security."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " A shooting or assault on commercial or rental property may support a premises-related claim in limited circumstances. Under Michigan law, a merchant or landlord may have a duty to reasonably expedite police involvement when it has notice of an imminent and foreseeable threat to an identifiable person. Prior criminal incidents alone do not automatically establish liability. Michigan courts apply this duty narrowly. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "ATTORNEY CHECK",
+         "v": "premises-liability duty for third-party criminal acts"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " See our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/premises-liability",
+       "c": [
+        {
+         "t": "text",
+         "v": "premises liability page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": "."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "deadlines-for-detroit-wrongful-death-claims",
+   "heading": "Deadlines for Detroit wrongful death claims",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Claim"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Deadline"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Statute"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "Most wrongful death claims (crash, fall, fire, product, premises)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "3 years from the death"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5805(2), 600.2922"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Medical malpractice"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Notice of Intent, then 2 years from the act, with a 6-month discovery rule and 6-year repose"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.2912b, 600.5805(8), 600.5838a"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Savings provision for the estate"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "A qualifying personal representative may sue within 2 years after letters of authority issue, subject to the absolute limit of 3 years after the underlying limitations period expired and other statutory conditions"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5852"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "No-fault survivor’s loss benefits"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Written notice within 1 year of the death"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 500.3145(1)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Claim against the City of Detroit or Wayne County (road, sidewalk, building)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Written notice within 120 days"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 691.1404, 691.1406"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Claim against the State or MDNR (Belle Isle)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Court of Claims notice within 6 months"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.6431"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Dram shop claim against a bar or store"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Written notice within 120 days"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 436.1801"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The savings provision is the rule families most often misunderstand. It gives a personal representative time to be appointed and to sue, but it extends the ordinary deadline by a limited period and courts apply it strictly. Do not rely on it; open the estate and file inside the ordinary deadline."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-the-family-should-do-in-the-first-weeks",
+   "heading": "What the family should do in the first weeks",
+   "blocks": [
+    {
+     "t": "ol",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Get the death certificate and request the Medical Examiner’s report."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Obtain the death certificate and contact the Wayne County Medical Examiner’s Office at (313) 833-2504 about available autopsy, toxicology, or investigation reports. These records may take several months to become available."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Keep everything."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Clothing, the phone, the vehicle, the helmet, the device, the medication bottles, the smoke detector. Do not authorize repair or disposal of a vehicle until a lawyer has seen it."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Notify the no-fault insurer in writing"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " if a vehicle was involved; survivor’s loss benefits begin on the claim, not on the lawsuit."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Do not give a recorded statement"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " to any insurer and do not sign any document, however it is described. An insurer offering to “cover the funeral” in exchange for a signature is settling the claim for the price of a funeral."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Open the estate."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " The probate petition is the first legal step; nothing else can be filed until letters of authority issue."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Call a lawyer within days"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " if the death involved a City vehicle, a City road or building, a bar, or a government body; the notice periods are 120 days and six months, and they run from the death, not from the appointment."
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "why-detroit-families-call-atlaw",
+   "heading": "Why Detroit families call ATLAW",
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "text",
+        "v": "ATLAW works with its probate team to coordinate the estate-appointment process, applicable survivor’s loss benefits, the wrongful-death claim, and court-supervised distribution. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": ""
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "An office at 3 Parklane Boulevard in Dearborn, with free surface parking; 13 years, more than 10,000 cases, more than $100 million recovered."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Daily work in the Third Circuit and the Wayne County Probate Court."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Funeral and burial customs come first; the legal steps are worked around them. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": "the firm is comfortable with this line"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "No fee unless we recover money for the estate; fees are approved by the probate court. ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs. The first conversation is free."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Languages."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Consultations."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " We meet clients at our Dearborn office, by phone, or by video. Home and hospital visits can also be accommodated when needed."
+       }
+      ]
+     ]
+    }
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Who can file a wrongful death lawsuit in Detroit?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Only the personal representative of the estate, appointed by the Wayne County Probate Court. A spouse, child, or parent can be appointed, but must be, before the claim can be filed."
+    }
+   ]
+  },
+  {
+   "question": "Who receives the money?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "The spouse, children, descendants, parents, grandparents, siblings, stepchildren, and anyone named in the will may share. The probate court approves the division after notice to each of them, based on each person’s relationship and loss."
+    }
+   ]
+  },
+  {
+   "question": "How long do we have?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Three years from the death for most claims, two years with a 182-day notice for medical malpractice, one year to claim no-fault survivor’s loss benefits, and 120 days to notify the City or a bar. The savings provision can extend the deadline for an estate in limited circumstances, but should not be relied on."
+    }
+   ]
+  },
+  {
+   "question": "What if the person who caused the death is being prosecuted?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "The criminal case and the civil claim are separate. The civil claim does not wait for the prosecution, a conviction is evidence in it, and an acquittal does not end it, because the civil standard of proof is lower."
+    }
+   ]
+  },
+  {
+   "question": "The driver who killed my family member had minimum insurance. Is $50,000 all there is?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Not necessarily. The deceased’s own underinsured motorist coverage, umbrella policies in the household, the driver’s employer if the driver was working, a bar that over-served the driver, and any other negligent party are each checked before the claim is valued. The driver’s personal assets are rarely worth pursuing; the policies are."
+    }
+   ]
+  },
+  {
+   "question": "My family member died in a Detroit hospital. Is that a wrongful death case?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "If the death was caused by negligent care, yes, with the medical malpractice rules attached: a notice of intent before suit, a two-year deadline, expert affidavits, and a cap on noneconomic damages. The hospital record and an independent physician’s review decide whether the claim exists."
+    }
+   ]
+  },
+  {
+   "question": "Does the family pay anything up front?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "No. The case is handled on contingency, costs are advanced by the firm, and the fee and costs are approved by the probate court at the distribution hearing. "
+    },
+    {
+     "t": "strong",
+     "c": [
+      {
+       "t": "placeholder",
+       "kind": "CONFIRM",
+       "v": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "question": "My family member had no will. Does that matter?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "No. The probate court appoints a personal representative under Michigan’s priority rules, usually the spouse or an adult child, and the wrongful death claim proceeds the same way."
+    }
+   ]
+  }
+ ],
+ "cta": {
+  "id": "talk-to-a-detroit-wrongful-death-lawyer",
+  "heading": "Talk to a Detroit wrongful death lawyer",
+  "blocks": [
+   {
+    "t": "p",
+    "c": [
+     {
+      "t": "text",
+      "v": "If you have lost a family member in Detroit because of someone else’s negligence, call "
+     },
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "text",
+        "v": "(313) 406-7606"
+       }
+      ]
+     },
+     {
+      "t": "text",
+      "v": " or send the form on this page. We will explain the probate step, the deadlines that apply to your family’s claim, and the benefits available now. The conversation is free and confidential, and there is no fee unless we recover money for the estate."
+     }
+    ]
+   },
+   {
+    "t": "p",
+    "c": [
+     {
+      "t": "em",
+      "c": [
+       {
+        "t": "text",
+        "v": "This page is general information about Michigan law as of October 2026 and is not legal advice. Crash figures are from the Michigan State Police, Michigan Traffic Crash Facts 2024 and the Pedestrian Crash Report 2020–2024. Results depend on the facts of each case, and past results do not guarantee a future outcome."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "wordCount": 2792,
+ "openItems": 10,
+ "source": {
+  "file": "B2-64_Detroit-Wrongful-Death-Lawyer.docx",
+  "delivered": "2026-10-16"
+ }
+}

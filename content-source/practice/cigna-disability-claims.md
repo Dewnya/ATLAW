@@ -8,7 +8,7 @@ h1: Cigna Long Term Disability Denial Lawyer
 tagline: The letterhead changed in 2020. The claim file, the reviewers, and the 180-day clock did not.
 primaryKeyword: cigna disability attorney
 secondaryKeywords: cigna long term disability denial lawyer, cigna disability lawyer, new york life long term disability denial, new york life disability lawyer, cigna disability appeal, cigna long term disability, lina disability denial
-source: disability__cigna-disability-claims.docx
+source: B2-22_Cigna-Long-Term-Disability-Denial-Lawyer.docx
 delivered: 2026-10-16
 ---
 

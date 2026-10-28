@@ -9,7 +9,7 @@ h1: Oakland County Car Accident Lawyer
 tagline: 35,951 crashes and 9,139 people injured in Oakland County in 2024, the second-highest county total in Michigan. Here is how an Oakland County claim works, and where it usually goes wrong.
 primaryKeyword: oakland county car accident lawyer
 secondaryKeywords: car accident lawyer oakland county mi, oakland county car accident attorney; city terms (southfield car accident lawyer 390/mo, troy 70, pontiac 70) served by the city car pages
-source: personal-injury__auto-accidents__oakland-county.docx
+source: B2-35_Oakland-County-Car-Accident-Lawyer.docx
 delivered: 2026-10-16
 ---
 
