@@ -41,28 +41,28 @@ A bad outcome is not malpractice. Malpractice is a bad outcome caused by a provi
 
 ## Warren’s providers, and who answers for each
 
-**Henry Ford Warren Hospital.** The hospital on Twelve Mile Road was Ascension Macomb-Oakland Hospital’s Warren campus until October 1, 2024, when it became part of a joint venture operated by Henry Ford Health, which owns 80 percent, with Ascension holding the rest. Some firm pages still use the old name. For a claim, the change matters in two ways: records for care before and after that date may sit with different custodians, and the correct legal entity for the Notice of Intent must be identified from current corporate filings, not from the sign. Claims against the hospital and its employed providers are filed in the Sixteenth Judicial Circuit Court in Mount Clemens. **[ATTORNEY CHECK: proper defendant entity for pre- and post-October 2024 care]**
+**Henry Ford Warren Hospital.** The hospital on Twelve Mile Road was Ascension Macomb-Oakland Hospital’s Warren campus until October 1, 2024, when it became part of a joint venture operated by Henry Ford Health, which owns 80 percent, with Ascension holding the rest. Some firm pages still use the old name. For a claim, the change matters in two ways: records for care before and after that date may sit with different custodians, and the correct legal entity for the Notice of Intent must be identified from current corporate filings, not from the sign. Claims against the hospital and its employed providers are filed in the Sixteenth Judicial Circuit Court in Mount Clemens.
 
-**Emergency physicians and other contracted groups.** Many hospitals staff their emergency departments, anesthesia, and radiology through separate physician groups. The Notice of Intent must name the group as well as the hospital. Where a patient came to the hospital for care and reasonably believed the doctor worked for it, Michigan law can hold the hospital responsible under ostensible agency. The case that established the rule, *Grewe v Mt Clemens General Hospital* (1978), arose at a Macomb County hospital. **[ATTORNEY CHECK; verify the hospital’s current identity]**
+**Emergency physicians and other contracted groups.** Many hospitals staff their emergency departments, anesthesia, and radiology through separate physician groups. The Notice of Intent must name the group as well as the hospital. Where a patient came to the hospital for care and reasonably believed the doctor worked for it, Michigan law can hold the hospital responsible under ostensible agency. The case that established the rule, *Grewe v Mt Clemens General Hospital* (1978), arose at a Macomb County hospital.
 
-**Other hospitals Warren patients use.** Henry Ford Macomb in Clinton Township and McLaren Macomb in Mount Clemens (claims in the Sixteenth Circuit); Corewell Health William Beaumont University Hospital in Royal Oak (Sixth Circuit, Pontiac); and the Detroit hospitals across Eight Mile (Third Circuit). The venue follows where the malpractice occurred and where the defendants are (MCL 600.1629). **[ATTORNEY CHECK]**
+**Other hospitals Warren patients use.** Henry Ford Macomb in Clinton Township and McLaren Macomb in Mount Clemens (claims in the Sixteenth Circuit); Corewell Health William Beaumont University Hospital in Royal Oak (Sixth Circuit, Pontiac); and the Detroit hospitals across Eight Mile (Third Circuit). The venue follows where the malpractice occurred and where the defendants are (MCL 600.1629).
 
-**Surgery centers, imaging centers, and physician offices.** Warren has outpatient surgery centers, a surgical hospital, imaging centers, urgent care clinics, and many primary-care and specialty practices, some physician-owned, some independent, and some owned by a health system. **[CONFIRM: whether to name the surgical hospital]** A delayed diagnosis in an office practice and a surgical complication at an outpatient center are frequent claims, and the employer of each provider who touched the chart must be identified. Michigan rules apply.
+**Surgery centers, imaging centers, and physician offices.** Warren has outpatient surgery centers, a surgical hospital, imaging centers, urgent care clinics, and many primary-care and specialty practices, some physician-owned, some independent, and some owned by a health system. A delayed diagnosis in an office practice and a surgical complication at an outpatient center are frequent claims, and the employer of each provider who touched the chart must be identified. Michigan rules apply.
 
-**Federally funded community health centers.** Health centers that receive federal Health Center Program funding can have their providers deemed federal employees for malpractice purposes. A claim against one follows the Federal Tort Claims Act, not Michigan procedure: an administrative claim on Standard Form 95 to the Department of Health and Human Services within two years (28 USC 2401(b)), no Notice of Intent, and suit in the U.S. District Court for the Eastern District of Michigan, tried to a judge without a jury. Identifying a deemed clinic early is the difference between a timely claim and none. **[ATTORNEY CHECK: identify deemed centers serving Warren at intake; application of Michigan caps under the FTCA]**
+**Federally funded community health centers.** Health centers that receive federal Health Center Program funding can have their providers deemed federal employees for malpractice purposes. A claim against one follows the Federal Tort Claims Act, not Michigan procedure: an administrative claim on Standard Form 95 to the Department of Health and Human Services within two years (28 USC 2401(b)), no Notice of Intent, and suit in the U.S. District Court for the Eastern District of Michigan, tried to a judge without a jury. Identifying a deemed clinic early is the difference between a timely claim and none.
 
 **Veterans.** Warren veterans treated at the John D. Dingell VA Medical Center in Detroit have an FTCA claim on the same path, and may also qualify for disability compensation under 38 USC 1151 regardless of fault; see our [VA benefit claims page](about:blank).
 
-**Warren Fire Department EMS.** A City agency. Claims against EMS personnel are limited by the Emergency Medical Services Act to gross negligence or willful misconduct (MCL 333.20965), and by the governmental immunity act (MCL 691.1407). Private ambulance companies are held to the ordinary standard. **[ATTORNEY CHECK]**
+**Warren Fire Department EMS.** A City agency. Claims against EMS personnel are limited by the Emergency Medical Services Act to gross negligence or willful misconduct (MCL 333.20965), a limit that also covers the City as the life support agency. Private ambulance companies have the same gross-negligence protection.
 
-**Nursing homes.** Warren’s five licensed nursing homes produce claims that are sometimes malpractice and sometimes ordinary negligence; which one it is decides whether the Notice of Intent, the two-year period, and the cap apply. See our [Warren nursing home abuse page](/personal-injury/nursing-home-abuse). **[ATTORNEY CHECK]**
+**Nursing homes.** Warren’s six licensed nursing homes produce claims that are sometimes malpractice and sometimes ordinary negligence; which one it is decides whether the Notice of Intent, the two-year period, and the cap apply. See our [Warren nursing home abuse page](/personal-injury/nursing-home-abuse/warren).
 
-**Workplace clinics.** Plant medical departments and occupational clinics that treat injured workers are a separate case: a claim against a provider employed by your own employer may be barred by workers’ compensation exclusivity, while an outside clinic or physician can be sued for malpractice. **[ATTORNEY CHECK: dual-capacity and exclusivity]** See our [Warren workers’ compensation page](/personal-injury/workers-compensation).
+**Workplace clinics.** Plant medical departments and occupational clinics that treat injured workers are a separate case: a claim against a provider employed by your own employer may be barred by workers’ compensation exclusivity, while an outside clinic or physician can be sued for malpractice. See our [Warren workers’ compensation page](/personal-injury/workers-compensation/warren).
 
 ## The Warren malpractice cases we see
 
 - **Emergency department errors**: missed stroke, heart attack, sepsis, pulmonary embolism, and bleeds; discharge without a needed test; triage delays.
-- **Birth injuries**: delayed response to fetal distress, mismanaged shoulder dystocia, delayed cesarean, and the [cerebral palsy](/personal-injury/cerebral-palsy), [brachial plexus](/personal-injury/erbs-palsy), and [hypoxic](/personal-injury/birth-asphyxia) injuries that follow. A child injured before age eight has until the tenth birthday; the parents’ own claims do not get that extension. **[ATTORNEY CHECK]**
+- **Birth injuries**: delayed response to fetal distress, mismanaged shoulder dystocia, delayed cesarean, and the [cerebral palsy](/personal-injury/cerebral-palsy), [brachial plexus](/personal-injury/erbs-palsy), and [hypoxic](/personal-injury/birth-asphyxia) injuries that follow. A child injured before age eight has until the tenth birthday; the parents’ own claims do not get that extension.
 - **Surgical and anesthesia errors**, including at outpatient surgery centers: wrong site, retained objects (which extend the limitations period), perforations, and airway and dosing failures causing [brain injury](/personal-injury/brain-injury).
 - **Medication errors** in hospitals, pharmacies, and nursing homes.
 - **Cancer misdiagnosis and delayed diagnosis**, where the “better outcome” causation standard is argued hardest.
@@ -70,9 +70,9 @@ A bad outcome is not malpractice. Malpractice is a bad outcome caused by a provi
 
 ## How a Warren malpractice case proceeds
 
-1. **The records**, including the electronic audit trail, from every provider, requested in the first week. Where care spanned the October 2024 hospital transition, from both custodians.
+1. **The records**, including the electronic audit trail, from every provider, requested promptly. Where care spanned the October 2024 hospital transition, from both custodians.
 2. **Expert review** by a physician in the defendant’s specialty, in writing, before anything is filed.
-3. **Identify the defendants and the forum**: hospital entity, physician group, surgery center, or independent practice (usually the Sixteenth Circuit); deemed clinic or VA (SF-95 and the federal court); City EMS (governmental immunity). Serving a Notice of Intent on a federal provider while the federal two-year clock runs can lose the case.
+3. **Identify the defendants and the forum**: hospital entity, physician group, surgery center, or independent practice (usually the Sixteenth Circuit); deemed clinic or VA (SF-95 and the federal court); City EMS (EMS Act). Serving a Notice of Intent on a federal provider while the federal two-year clock runs can lose the case.
 4. **The Notice of Intent** (MCL 600.2912b), served at least 182 days before suit. A timely notice pauses the two-year period during the notice period (MCL 600.5856(c)). If the provider does not respond within 154 days, suit may be filed then.
 5. **The complaint and Affidavit of Merit** (MCL 600.2912d); the defense then files its own affidavit (MCL 600.2912e).
 6. **Discovery, case evaluation, facilitation**, and, for cases that do not settle, trial to a Macomb County jury in Mount Clemens. Two to four years is typical.
@@ -80,7 +80,7 @@ A bad outcome is not malpractice. Malpractice is a bad outcome caused by a provi
 
 ## What it costs
 
-Malpractice cases are expensive to bring; the same-specialty expert’s review, affidavit, and testimony alone can run to tens of thousands of dollars. ATLAW handles them on contingency, advances the costs, and recovers them only from a settlement or verdict. Contingent fees in Michigan injury cases are limited to one-third of the net recovery (MCR 8.121). **[CONFIRM: fee terms and cost advancing]** The first conversation and the initial records review are free. **[CONFIRM]**
+Malpractice cases are expensive to bring; the same-specialty expert’s review, affidavit, and testimony alone can run to tens of thousands of dollars. ATLAW handles them on contingency, advances the costs, and recovers them only from a settlement or verdict. Contingent fees in Michigan injury cases are limited to one-third of the net recovery (MCR 8.121). The first conversation and the initial records review are free.
 
 ## Deadlines for Warren medical malpractice claims
 
@@ -91,17 +91,17 @@ Malpractice cases are expensive to bring; the same-specialty expert’s review, 
 | Notice of Intent | At least 182 days before filing; pauses the period if timely | MCL 600.2912b, 600.5856(c) |
 | Affidavit of Merit | With the complaint | MCL 600.2912d |
 | Child injured before age 8 | 10th birthday | MCL 600.5851(7) |
-| Death from malpractice | 2 years, with the estate’s savings provision; 6-year outer limit | MCL 600.5805(8), 600.5852 |
+| Death from malpractice | 2 years, with the estate’s savings provision; no later than 3 years after the 2-year period ends | MCL 600.5805(8), 600.5852 |
 | Deemed health center or VA | SF-95 within 2 years; suit within 6 months of denial | 28 USC 2401(b), 2675 |
-| Warren Fire EMS | Governmental immunity rules; gross negligence standard | MCL 691.1407, 333.20965 |
+| Warren Fire EMS | Gross negligence standard | MCL 333.20965 |
 
 ## Why Warren patients call ATLAW
 
 - 13 years of Michigan injury practice; more than 10,000 cases; more than $100 million recovered.
 - The defendant and the forum identified before the Notice of Intent is written: hospital entity, physician group, surgery center, independent practice, federal clinic, or City.
-- Records requested in the first week; expert review before anything is filed; costs advanced. **[CONFIRM]**
+- Prompt attention to requesting the records; expert review before anything is filed; costs advanced.
 - Honest evaluation: many bad outcomes are not malpractice, and we say so at no charge.
-- No fee unless we recover money for you. **[CONFIRM: fee terms]**
+- No fee unless we recover money for you.
 
 ## Frequently asked questions
 

@@ -357,17 +357,7 @@
       },
       {
        "t": "text",
-       "v": " The hospital on Twelve Mile Road was Ascension Macomb-Oakland Hospital’s Warren campus until October 1, 2024, when it became part of a joint venture operated by Henry Ford Health, which owns 80 percent, with Ascension holding the rest. Some firm pages still use the old name. For a claim, the change matters in two ways: records for care before and after that date may sit with different custodians, and the correct legal entity for the Notice of Intent must be identified from current corporate filings, not from the sign. Claims against the hospital and its employed providers are filed in the Sixteenth Judicial Circuit Court in Mount Clemens. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "proper defendant entity for pre- and post-October 2024 care"
-        }
-       ]
+       "v": " The hospital on Twelve Mile Road was Ascension Macomb-Oakland Hospital’s Warren campus until October 1, 2024, when it became part of a joint venture operated by Henry Ford Health, which owns 80 percent, with Ascension holding the rest. Some firm pages still use the old name. For a claim, the change matters in two ways: records for care before and after that date may sit with different custodians, and the correct legal entity for the Notice of Intent must be identified from current corporate filings, not from the sign. Claims against the hospital and its employed providers are filed in the Sixteenth Judicial Circuit Court in Mount Clemens."
       }
      ]
     },
@@ -398,17 +388,7 @@
       },
       {
        "t": "text",
-       "v": " (1978), arose at a Macomb County hospital. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "; verify the hospital’s current identity"
-        }
-       ]
+       "v": " (1978), arose at a Macomb County hospital."
       }
      ]
     },
@@ -426,17 +406,7 @@
       },
       {
        "t": "text",
-       "v": " Henry Ford Macomb in Clinton Township and McLaren Macomb in Mount Clemens (claims in the Sixteenth Circuit); Corewell Health William Beaumont University Hospital in Royal Oak (Sixth Circuit, Pontiac); and the Detroit hospitals across Eight Mile (Third Circuit). The venue follows where the malpractice occurred and where the defendants are (MCL 600.1629). "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": ""
-        }
-       ]
+       "v": " Henry Ford Macomb in Clinton Township and McLaren Macomb in Mount Clemens (claims in the Sixteenth Circuit); Corewell Health William Beaumont University Hospital in Royal Oak (Sixth Circuit, Pontiac); and the Detroit hospitals across Eight Mile (Third Circuit). The venue follows where the malpractice occurred and where the defendants are (MCL 600.1629)."
       }
      ]
     },
@@ -454,21 +424,7 @@
       },
       {
        "t": "text",
-       "v": " Warren has outpatient surgery centers, a surgical hospital, imaging centers, urgent care clinics, and many primary-care and specialty practices, some physician-owned, some independent, and some owned by a health system. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "whether to name the surgical hospital"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " A delayed diagnosis in an office practice and a surgical complication at an outpatient center are frequent claims, and the employer of each provider who touched the chart must be identified. Michigan rules apply."
+       "v": " Warren has outpatient surgery centers, a surgical hospital, imaging centers, urgent care clinics, and many primary-care and specialty practices, some physician-owned, some independent, and some owned by a health system. A delayed diagnosis in an office practice and a surgical complication at an outpatient center are frequent claims, and the employer of each provider who touched the chart must be identified. Michigan rules apply."
       }
      ]
     },
@@ -486,17 +442,7 @@
       },
       {
        "t": "text",
-       "v": " Health centers that receive federal Health Center Program funding can have their providers deemed federal employees for malpractice purposes. A claim against one follows the Federal Tort Claims Act, not Michigan procedure: an administrative claim on Standard Form 95 to the Department of Health and Human Services within two years (28 USC 2401(b)), no Notice of Intent, and suit in the U.S. District Court for the Eastern District of Michigan, tried to a judge without a jury. Identifying a deemed clinic early is the difference between a timely claim and none. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "identify deemed centers serving Warren at intake; application of Michigan caps under the FTCA"
-        }
-       ]
+       "v": " Health centers that receive federal Health Center Program funding can have their providers deemed federal employees for malpractice purposes. A claim against one follows the Federal Tort Claims Act, not Michigan procedure: an administrative claim on Standard Form 95 to the Department of Health and Human Services within two years (28 USC 2401(b)), no Notice of Intent, and suit in the U.S. District Court for the Eastern District of Michigan, tried to a judge without a jury. Identifying a deemed clinic early is the difference between a timely claim and none."
       }
      ]
     },
@@ -546,17 +492,7 @@
       },
       {
        "t": "text",
-       "v": " A City agency. Claims against EMS personnel are limited by the Emergency Medical Services Act to gross negligence or willful misconduct (MCL 333.20965), and by the governmental immunity act (MCL 691.1407). Private ambulance companies are held to the ordinary standard. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": ""
-        }
-       ]
+       "v": " A City agency. Claims against EMS personnel are limited by the Emergency Medical Services Act to gross negligence or willful misconduct (MCL 333.20965), a limit that also covers the City as the life support agency. Private ambulance companies have the same gross-negligence protection."
       }
      ]
     },
@@ -574,11 +510,11 @@
       },
       {
        "t": "text",
-       "v": " Warren’s five licensed nursing homes produce claims that are sometimes malpractice and sometimes ordinary negligence; which one it is decides whether the Notice of Intent, the two-year period, and the cap apply. See our "
+       "v": " Warren’s six licensed nursing homes produce claims that are sometimes malpractice and sometimes ordinary negligence; which one it is decides whether the Notice of Intent, the two-year period, and the cap apply. See our "
       },
       {
        "t": "link",
-       "href": "/personal-injury/nursing-home-abuse",
+       "href": "/personal-injury/nursing-home-abuse/warren",
        "c": [
         {
          "t": "text",
@@ -588,17 +524,7 @@
       },
       {
        "t": "text",
-       "v": ". "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": ""
-        }
-       ]
+       "v": "."
       }
      ]
     },
@@ -616,25 +542,11 @@
       },
       {
        "t": "text",
-       "v": " Plant medical departments and occupational clinics that treat injured workers are a separate case: a claim against a provider employed by your own employer may be barred by workers’ compensation exclusivity, while an outside clinic or physician can be sued for malpractice. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "dual-capacity and exclusivity"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " See our "
+       "v": " Plant medical departments and occupational clinics that treat injured workers are a separate case: a claim against a provider employed by your own employer may be barred by workers’ compensation exclusivity, while an outside clinic or physician can be sued for malpractice. See our "
       },
       {
        "t": "link",
-       "href": "/personal-injury/workers-compensation",
+       "href": "/personal-injury/workers-compensation/warren",
        "c": [
         {
          "t": "text",
@@ -726,17 +638,7 @@
        },
        {
         "t": "text",
-        "v": " injuries that follow. A child injured before age eight has until the tenth birthday; the parents’ own claims do not get that extension. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "ATTORNEY CHECK",
-          "v": ""
-         }
-        ]
+        "v": " injuries that follow. A child injured before age eight has until the tenth birthday; the parents’ own claims do not get that extension."
        }
       ],
       [
@@ -850,7 +752,7 @@
        },
        {
         "t": "text",
-        "v": ", including the electronic audit trail, from every provider, requested in the first week. Where care spanned the October 2024 hospital transition, from both custodians."
+        "v": ", including the electronic audit trail, from every provider, requested promptly. Where care spanned the October 2024 hospital transition, from both custodians."
        }
       ],
       [
@@ -880,7 +782,7 @@
        },
        {
         "t": "text",
-        "v": ": hospital entity, physician group, surgery center, or independent practice (usually the Sixteenth Circuit); deemed clinic or VA (SF-95 and the federal court); City EMS (governmental immunity). Serving a Notice of Intent on a federal provider while the federal two-year clock runs can lose the case."
+        "v": ": hospital entity, physician group, surgery center, or independent practice (usually the Sixteenth Circuit); deemed clinic or VA (SF-95 and the federal court); City EMS (EMS Act). Serving a Notice of Intent on a federal provider while the federal two-year clock runs can lose the case."
        }
       ],
       [
@@ -956,31 +858,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Malpractice cases are expensive to bring; the same-specialty expert’s review, affidavit, and testimony alone can run to tens of thousands of dollars. ATLAW handles them on contingency, advances the costs, and recovers them only from a settlement or verdict. Contingent fees in Michigan injury cases are limited to one-third of the net recovery (MCR 8.121). "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "fee terms and cost advancing"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " The first conversation and the initial records review are free. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": ""
-        }
-       ]
+       "v": "Malpractice cases are expensive to bring; the same-specialty expert’s review, affidavit, and testimony alone can run to tens of thousands of dollars. ATLAW handles them on contingency, advances the costs, and recovers them only from a settlement or verdict. Contingent fees in Michigan injury cases are limited to one-third of the net recovery (MCR 8.121). The first conversation and the initial records review are free."
       }
      ]
     }
@@ -1123,7 +1001,7 @@
        [
         {
          "t": "text",
-         "v": "2 years, with the estate’s savings provision; 6-year outer limit"
+         "v": "2 years, with the estate’s savings provision; no later than 3 years after the 2-year period ends"
         }
        ],
        [
@@ -1163,13 +1041,13 @@
        [
         {
          "t": "text",
-         "v": "Governmental immunity rules; gross negligence standard"
+         "v": "Gross negligence standard"
         }
        ],
        [
         {
          "t": "text",
-         "v": "MCL 691.1407, 333.20965"
+         "v": "MCL 333.20965"
         }
        ]
       ]
@@ -1199,17 +1077,7 @@
       [
        {
         "t": "text",
-        "v": "Records requested in the first week; expert review before anything is filed; costs advanced. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": ""
-         }
-        ]
+        "v": "Prompt attention to requesting the records; expert review before anything is filed; costs advanced."
        }
       ],
       [
@@ -1221,17 +1089,7 @@
       [
        {
         "t": "text",
-        "v": "No fee unless we recover money for you. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "fee terms"
-         }
-        ]
+        "v": "No fee unless we recover money for you."
        }
       ]
      ]
@@ -1337,8 +1195,8 @@
    }
   ]
  },
- "wordCount": 2139,
- "openItems": 13,
+ "wordCount": 2070,
+ "openItems": 0,
  "source": {
   "file": "B3-17_Warren-Medical-Malpractice-Lawyer.docx",
   "delivered": "October 23, 2026 [CONFIRM: Batch 3 delivery date]"

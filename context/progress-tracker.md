@@ -563,6 +563,11 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - Left open: 13 highlighted items (fee terms, cost-advance note, hospital and clinic details, the VA benefits link that has no page)
   - Verified: import 97 drafts, typecheck and production build clean (7 pages), the Warren malpractice page renders
 
+- [x] Drive re-check and city pages batch 10 of 15 (Oct 28, 2026) — Arlyn Dungao commented 30 more Batch 3 docs today (B3-17 again, B3-18 to B3-46: Warren comp, dog bite, nursing home; all of Sterling Heights and Livonia; six Canton pages; 676 comments). Batch 10: Warren medical malpractice re-pass, Warren workers' compensation, dog bite, nursing home, Sterling Heights car (B3-17 to B3-21)
+  - Sterling Heights added to the city registry (Macomb County, Michigan fallback photo). 114 comments applied; every highlighted item on the five pages is now resolved (0 open): the six certified Warren nursing homes and their CMS ratings, the Detroit hearing site for Macomb comp claims, the 2024 Michigan fatal-work-injury count, the Warren animal-control contact and rabies rule cite, the Warren renter share, the Sterling Heights 2024 crash totals and the 2025 intersection data, the 18½ Mile roundabout rewrite, and her approvals on 44 attorney-check and confirm passages
+  - New scratchpad tool `fix_links.py`: resolves city-prefixed link text to the city page when that page exists and to the statewide page otherwise, so pages can link ahead to cities still in progress without 404s. The three batch-9 Warren fallbacks now point at the new Warren comp and nursing home pages
+  - Verified: import 101 drafts, typecheck and production build clean (7 pages), all five pages render
+
 ### Open Questions
 
 - [ ] **PRE-LAUNCH — Text Us number.** Confirm with the firm whether (313) 406-7606 can receive SMS, or get a dedicated SMS number. Then set `SMS_NUMBER` in `src/data/contact.ts` (the Text buttons in the header and mobile bar appear automatically).
