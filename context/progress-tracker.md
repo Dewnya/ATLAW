@@ -552,6 +552,11 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - Left open: 31 highlighted items (hearing-office and field-office checks, hospital lists, the comp/malpractice practice scope, the injured-child row on the Warren page)
   - Verified: import 91 drafts, typecheck and production build clean (7 pages), Warren and Southfield disability pages render
 
+- [x] City practice pages, batch 8 of 9: Warren car, truck, motorcycle, wrongful death, slip and fall (Oct 28, 2026) — B3-11, B3-13 to B3-16
+  - 106 reviewer comments applied: the 11 Mile/Van Dyke intersection relabelled to the 2025 Michigan State Police count (180 crashes, 1 killed) on all four road pages, the Macomb County motorcycle figures (216 involved, 14 in fatal crashes), the default $250,000/$500,000 liability minimum with the $50,000/$100,000 election, Warren's renter share (28.9 percent), the six CMS-certified nursing homes, the Bryant cite on the hospitals passage, the Ernest v Brown tolling note, the three-road-agency notice rules, and her approvals on 20 attorney-check passages; her delete instructions removed the Warren truck and motorcycle crash-count rows
+  - Left open: 35 highlighted items (hospital and plant lists, SMART and Arsenal checks, the injured-child and comp/malpractice scope rows)
+  - Verified: import 96 drafts, typecheck and production build clean (7 pages), Warren wrongful death and slip and fall pages render
+
 ### Open Questions
 
 - [ ] **PRE-LAUNCH — Text Us number.** Confirm with the firm whether (313) 406-7606 can receive SMS, or get a dedicated SMS number. Then set `SMS_NUMBER` in `src/data/contact.ts` (the Text buttons in the header and mobile bar appear automatically).
