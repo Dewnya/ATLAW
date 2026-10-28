@@ -541,6 +541,11 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - Left open: 45 highlighted items (hearing-office assignments and addresses, 2026 SSA figures, nursing-home wording checks, the Detroit field-office list); Southfield has no hero photo yet
   - Verified: typecheck clean, import 81 drafts, production build unchanged (7 pages); the Detroit disability page renders at its /disability URL with the right breadcrumb and canonical, the Southfield page renders with the fallback image
 
+- [x] City practice pages, batch 6 of 9: Southfield car, truck, motorcycle, wrongful death, slip and fall (Oct 28, 2026) — B3-01, B3-03 to B3-06
+  - 124 reviewer comments applied: the Telegraph/12 Mile figure moved to the 2025 MSP data (121 crashes, third in Michigan), the Oakland County motorcycle figures (310 involved, 17 in fatal crashes), the renter share, the trauma-center designations she confirmed, the Court of Claims 120-day notice and dram-shop rules, and her approvals on venue, damages, helmet and road-jurisdiction passages; the Southfield-only motorcycle and truck rows deleted because the county profile does not break them out by city
+  - Left open: 21 highlighted items, mostly the I-696 project status, UIM consent-to-settle and hospital-name checks
+  - Verified: import 86 drafts, production build unchanged (7 pages), car and slip-and-fall pages render
+
 ### Open Questions
 
 - [ ] **PRE-LAUNCH — Text Us number.** Confirm with the firm whether (313) 406-7606 can receive SMS, or get a dedicated SMS number. Then set `SMS_NUMBER` in `src/data/contact.ts` (the Text buttons in the header and mobile bar appear automatically).
