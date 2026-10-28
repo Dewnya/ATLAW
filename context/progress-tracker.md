@@ -524,6 +524,12 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - Left open: 39 highlighted items, mostly the firm's scope of the comp and malpractice practices, hospital ownership checks and statute checks; the after-accident checklist and VA benefits links still have no page
   - Verified: import 66 drafts, production build unchanged (7 pages), slip-and-fall and dog-bite pages render with the corrected tables
 
+- [x] City practice pages, batch 3 of 9: Dearborn car, personal injury, truck, motorcycle, wrongful death (Oct 28, 2026) — B2-72 to B2-76
+  - 117 reviewer comments applied: the Dearborn 2024 crash figures (3,326 crashes, 1,113 injuries, 4 deaths), the 120-day Court of Claims notice for MDOT road defects, the dram-shop 120-days-from-hiring rule, the office address with free parking and walk-ins, the six consultation languages in place of "English or Arabic", and the sentences she asked to delete (lane reconfiguration, premium ranking); the Dearborn truck figures she could not source are removed and the county sentence stands alone
+  - The applier now uses a plain answer as the replacement for the sentence that carries a placeholder, and when an anchor occurs more than once it picks the line sharing the most words with the comment (a "Written notice within 120 days" dram-shop rewrite had landed on the City/County row; fixed by hand)
+  - Left open: 33 highlighted items, mostly the Dearborn and Wayne County motorcycle figures, road-jurisdiction checks and the attorney-names question; the checklist and no-fault guide links still have no page
+  - Verified: import 71 drafts, production build unchanged (7 pages), car and truck pages render
+
 ### Open Questions
 
 - [ ] **PRE-LAUNCH — Text Us number.** Confirm with the firm whether (313) 406-7606 can receive SMS, or get a dedicated SMS number. Then set `SMS_NUMBER` in `src/data/contact.ts` (the Text buttons in the header and mobile bar appear automatically).
