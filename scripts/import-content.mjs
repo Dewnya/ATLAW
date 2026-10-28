@@ -161,7 +161,7 @@ function checkLink(href) {
   const path = href.split("#")[0].replace(/\/$/, "") || "/";
   if (STATIC_ROUTES.has(path)) return null;
   const [, section, slug, city] = path.split("/");
-  if ((section === "personal-injury" || section === "disability") && practices.get(slug) === section && (!city || (section === "personal-injury" && citySlugs.has(city)))) return null;
+  if ((section === "personal-injury" || section === "disability") && practices.get(slug) === section && (!city || citySlugs.has(city))) return null;
   return `link to unknown page ${href}`;
 }
 
@@ -176,7 +176,6 @@ function importPage(file) {
     errors.push(`section "${meta.section}" does not match the registry ("${practices.get(meta.slug)}")`);
   const key = meta.city ? `${meta.slug}--${meta.city}` : meta.slug;
   if (meta.city && !citySlugs.has(meta.city)) errors.push(`city "${meta.city}" is not in the city registry`);
-  if (meta.city && meta.section !== "personal-injury") errors.push("city pages exist only under /personal-injury");
   if (`${key}.md` !== file) errors.push(`file name must be ${key}.md`);
   if (!["draft", "approved"].includes(meta.status)) errors.push(`status must be draft or approved, not "${meta.status}"`);
   if (meta.h1 && meta.seoTitle && meta.h1.trim().toLowerCase() === meta.seoTitle.trim().toLowerCase())

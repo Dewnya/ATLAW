@@ -45,6 +45,7 @@ export const App = (): JSX.Element => (
       <Route path="/personal-injury/:practice" element={<PracticePage section="personal-injury" />} />
       <Route path="/disability/:practice" element={<PracticePage section="disability" />} />
       <Route path="/personal-injury/:practice/:city" element={<CityLandingPage />} />
+      <Route path="/disability/:practice/:city" element={<CityLandingPage />} />
       <Route path="/areas-served" element={<AreasServedPage />} />
 
       {/* Legacy redirects */}

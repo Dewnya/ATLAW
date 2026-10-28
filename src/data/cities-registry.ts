@@ -18,6 +18,7 @@ export const cityRegistry = [
   { slug: "detroit", name: "Detroit", county: "Wayne County" },
   { slug: "dearborn-heights", name: "Dearborn Heights", county: "Wayne County" },
   { slug: "wayne-county", name: "Wayne County", county: "Wayne County" },
+  { slug: "southfield", name: "Southfield", county: "Oakland County" },
   { slug: "oakland-county", name: "Oakland County", county: "Oakland County" },
   { slug: "macomb-county", name: "Macomb County", county: "Macomb County" },
   { slug: "ann-arbor", name: "Ann Arbor", county: "Washtenaw County" },

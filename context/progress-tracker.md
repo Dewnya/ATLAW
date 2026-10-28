@@ -535,6 +535,12 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - Left open: 38 highlighted items (the comp and malpractice practice scope, the DMC/Housing Commission immunity checks, and two bare attorney checks on the slip-and-fall page that could not be matched to her approvals)
   - Verified: import 76 drafts, production build unchanged (7 pages), slip-and-fall and malpractice pages render
 
+- [x] City practice pages, batch 5 of 9: Detroit and Dearborn Social Security Disability and nursing home pages, Southfield personal injury (Oct 28, 2026) — B2-70, B2-71, B2-82, B2-83, B3-02
+  - Pipeline: city pages now work under `/disability/:practice/:city` too (route, importer, prerender list, section-aware breadcrumb and canonical); a city needs only a registry entry to get imported pages (`cityInfo()` in `cities.ts`), the hand-written template is used only where `cities.ts` has data; cities without a photo fall back to the Michigan image; the "Also serving" cards link only to practices that actually have a page for that city. Southfield added to the city registry (Oakland County)
+  - 112 reviewer comments applied: Detroit nursing-home counts (23 certified facilities, 8 rated 1–2 stars, 6 below average on staffing), the two Dearborn facilities, the SSA field offices she could confirm, the $9,200 fee cap without the "indexed thereafter" claim, the ACS disability shares, the Attorney General hotline, the POMS citation; the stale 2017 ranking and the SFF row deleted as she asked
+  - Left open: 45 highlighted items (hearing-office assignments and addresses, 2026 SSA figures, nursing-home wording checks, the Detroit field-office list); Southfield has no hero photo yet
+  - Verified: typecheck clean, import 81 drafts, production build unchanged (7 pages); the Detroit disability page renders at its /disability URL with the right breadcrumb and canonical, the Southfield page renders with the fallback image
+
 ### Open Questions
 
 - [ ] **PRE-LAUNCH — Text Us number.** Confirm with the firm whether (313) 406-7606 can receive SMS, or get a dedicated SMS number. Then set `SMS_NUMBER` in `src/data/contact.ts` (the Text buttons in the header and mobile bar appear automatically).

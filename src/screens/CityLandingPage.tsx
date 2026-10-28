@@ -5,7 +5,7 @@ import { Footer } from "../components/ATLAW/Footer";
 import { PageMeta } from "../components/ATLAW/PageMeta";
 import { CityLandingTemplate } from "../components/ATLAW/CityLandingTemplate";
 import { practiceAreaBySlug } from "../data/practice/pi";
-import { cityBySlug } from "../data/cities";
+import { cityBySlug, cityInfo } from "../data/cities";
 import { cityContentLoader } from "../content";
 import { practiceEntry } from "../data/practice/pi/registry";
 import { cityPracticeSchema } from "../data/schema-org";
@@ -18,7 +18,7 @@ const longFormPages = new Map<string, LazyExoticComponent<ComponentType>>();
 
 const longFormPage = (practice: string, city: string): LazyExoticComponent<ComponentType> | undefined => {
   const load = cityContentLoader(practice, city);
-  const cityData = cityBySlug(city);
+  const cityData = cityInfo(city);
   if (!load || !cityData || !practiceEntry(practice)) return undefined;
   const key = `${practice}--${city}`;
   let page = longFormPages.get(key);
@@ -34,9 +34,10 @@ const longFormPage = (practice: string, city: string): LazyExoticComponent<Compo
 };
 
 /**
- * /personal-injury/:practice/:city. Imported city or county copy (src/content,
- * <practice>--<city>.json) renders the long-form city page; otherwise the
- * original template from the hand-written city data, for the original practices.
+ * /personal-injury/:practice/:city and /disability/:practice/:city. Imported city
+ * or county copy (src/content, <practice>--<city>.json) renders the long-form city
+ * page; otherwise the original template from the hand-written city data, for the
+ * original practices and the cities that have that data.
  */
 export const CityLandingPage = (): JSX.Element => {
   const { practice, city } = useParams<{ practice: string; city: string }>();

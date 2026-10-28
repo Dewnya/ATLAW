@@ -1,4 +1,4 @@
-import type { CitySlug } from "./cities-registry";
+import { cityRegistry, type CitySlug } from "./cities-registry";
 
 export interface CityData {
   slug: CitySlug;
@@ -220,6 +220,19 @@ export const cities: CityData[] = [
 
 export const cityBySlug = (slug: string): CityData | undefined =>
   cities.find((c) => c.slug === slug);
+
+/** The fields the imported (long-form) city pages need. */
+export type CityInfo = Pick<CityData, "slug" | "name" | "county">;
+
+/** Any city in the registry, whether or not it has hand-written template data. */
+export const cityInfo = (slug: string): CityInfo | undefined => {
+  const entry = cityRegistry.find((c) => c.slug === slug);
+  return entry ? { slug: entry.slug, name: entry.name, county: entry.county } : undefined;
+};
+
+/** Cities that have a hero photo in public/assets/cities; the others use the Michigan image. */
+const CITY_PHOTOS = new Set(["ann-arbor", "dearborn-heights", "dearborn", "detroit", "macomb-county", "oakland-county", "wayne-county"]);
+export const cityPhoto = (slug: string): string => `/assets/cities/${CITY_PHOTOS.has(slug) ? slug : "michigan"}.avif`;
 
 export const citySlug = (name: string): string =>
   name.toLowerCase().replace(/\s+/g, "-");

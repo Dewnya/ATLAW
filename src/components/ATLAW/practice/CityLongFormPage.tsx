@@ -1,6 +1,6 @@
 import { useEffect } from "react";
 import type { PracticeContent } from "../../../content/types";
-import type { CityData } from "../../../data/cities";
+import type { CityInfo } from "../../../data/cities";
 import { practiceAreaBySlug } from "../../../data/practice/pi";
 import { practiceEntry } from "../../../data/practice/pi/registry";
 import { cityPracticeSchema, faqPageSchema } from "../../../data/schema-org";
@@ -30,12 +30,12 @@ const sectionHeading = "font-serifDisplay font-normal leading-[1.12] tracking-[-
  * FAQPage schema, closing CTA), then the city template's related-page sections.
  * Drafts show a banner, highlight open items and are kept out of search (noindex).
  */
-export const CityLongFormPage = ({ content, city }: { content: PracticeContent; city: CityData }): JSX.Element => {
+export const CityLongFormPage = ({ content, city }: { content: PracticeContent; city: CityInfo }): JSX.Element => {
   const entry = practiceEntry(content.slug);
   const title = entry?.navLabel ?? content.h1;
   const practice = { slug: content.slug, title, tagline: content.tagline };
   const isDraft = content.status === "draft";
-  const path = `/personal-injury/${content.slug}/${city.slug}`;
+  const path = `/${content.section}/${content.slug}/${city.slug}`;
 
   useEffect(() => { window.scrollTo(0, 0); }, [content.slug, city.slug]);
 
@@ -55,7 +55,7 @@ export const CityLongFormPage = ({ content, city }: { content: PracticeContent; 
       <main id="main-content" className="flex-1">
         {isDraft && <DraftBanner content={content} />}
 
-        <CityHero practice={practice} city={city} heroTitle={content.h1} />
+        <CityHero practice={practice} city={city} heroTitle={content.h1} section={content.section} />
         <CityStatsBar city={city} />
 
         <section aria-label="Page content" className="relative w-full bg-white">
