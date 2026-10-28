@@ -26,8 +26,10 @@ A truck crash is governed by rules a car crash is not. The driver and carrier ar
 | Heavy trucks and buses involved in Oakland County crashes | 2,081 | 1,906 | +9% |
 | Wayne County, for comparison | 3,916 | 3,558 | +10% |
 | Macomb County, for comparison | 1,257 | 1,287 | −2% |
-| All Oakland County crashes | 35,951 | — | — |
-| People killed in Oakland County crashes, all types | 68 | — | — |
+| All Oakland County crashes | 35,951 | 35,386 | +2% |
+| Fatal crashes in Oakland County, all types | 61 | 53 | +15% |
+
+The 61 fatal crashes in 2024 killed 68 people.
 
 Source: Michigan State Police, Michigan Traffic Crash Facts, 2024 and 2023 Heavy Trucks and Buses reports and county profiles. The MSP count includes buses; SMART and school bus crashes are covered on our [bus accident page](/personal-injury/bus-accidents). Statewide, 288,880 crashes were reported in 2024 with 71,316 people injured and 1,099 killed.
 

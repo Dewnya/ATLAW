@@ -217,13 +217,13 @@
        [
         {
          "t": "text",
-         "v": "—"
+         "v": "35,386"
         }
        ],
        [
         {
          "t": "text",
-         "v": "—"
+         "v": "+2%"
         }
        ]
       ],
@@ -231,28 +231,37 @@
        [
         {
          "t": "text",
-         "v": "People killed in Oakland County crashes, all types"
+         "v": "Fatal crashes in Oakland County, all types"
         }
        ],
        [
         {
          "t": "text",
-         "v": "68"
+         "v": "61"
         }
        ],
        [
         {
          "t": "text",
-         "v": "—"
+         "v": "53"
         }
        ],
        [
         {
          "t": "text",
-         "v": "—"
+         "v": "+15%"
         }
        ]
       ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The 61 fatal crashes in 2024 killed 68 people."
+      }
      ]
     },
     {
@@ -1118,7 +1127,7 @@
    }
   ]
  },
- "wordCount": 2497,
+ "wordCount": 2504,
  "openItems": 2,
  "source": {
   "file": "B2-36_Oakland-County-Truck-Accident-Lawyer.docx",
