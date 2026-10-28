@@ -546,6 +546,12 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - Left open: 21 highlighted items, mostly the I-696 project status, UIM consent-to-settle and hospital-name checks
   - Verified: import 86 drafts, production build unchanged (7 pages), car and slip-and-fall pages render
 
+- [x] City practice pages, batch 7 of 9: Southfield medical malpractice, dog bites, Social Security Disability and nursing home, Warren personal injury (Oct 28, 2026) — B3-07 to B3-10, B3-12
+  - Warren added to the city registry (Macomb County, Michigan fallback photo). 99 reviewer comments applied: Southfield's five certified nursing homes and their ratings, the Oak Park hearing office figures and address, the Southfield disability share, the animal-control contact and the May 2026 insurer release, the Federal Employees' Compensation Act note for postal carriers, the 120-day State notice on the Warren page, and her approvals on 19 attorney-check passages (Bryant, Grewe, Szkodzinski, Rory, guardianship and ERISA points)
+  - The Warren 11 Mile/Van Dyke row is left as a highlighted item: she changed its label and source to the 2025 data but gave no 2025 count
+  - Left open: 31 highlighted items (hearing-office and field-office checks, hospital lists, the comp/malpractice practice scope, the injured-child row on the Warren page)
+  - Verified: import 91 drafts, typecheck and production build clean (7 pages), Warren and Southfield disability pages render
+
 ### Open Questions
 
 - [ ] **PRE-LAUNCH — Text Us number.** Confirm with the firm whether (313) 406-7606 can receive SMS, or get a dedicated SMS number. Then set `SMS_NUMBER` in `src/data/contact.ts` (the Text buttons in the header and mobile bar appear automatically).

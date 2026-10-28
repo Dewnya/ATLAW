@@ -20,6 +20,7 @@ export const cityRegistry = [
   { slug: "wayne-county", name: "Wayne County", county: "Wayne County" },
   { slug: "southfield", name: "Southfield", county: "Oakland County" },
   { slug: "oakland-county", name: "Oakland County", county: "Oakland County" },
+  { slug: "warren", name: "Warren", county: "Macomb County" },
   { slug: "macomb-county", name: "Macomb County", county: "Macomb County" },
   { slug: "ann-arbor", name: "Ann Arbor", county: "Washtenaw County" },
 ] as const satisfies readonly CityRegistryEntry[];
