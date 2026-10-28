@@ -518,6 +518,12 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - Source file names in the front matter corrected for the 14 pages imported earlier today from Drive copies that had been renamed by URL
   - Verified: import 61 drafts, typecheck clean, production build unchanged (7 pages), both sample pages render with banner, photo, FAQs and the new copy
 
+- [x] City practice pages, batch 2 of 9: Detroit slip and fall, medical malpractice, workers' compensation, dog bites, rideshare (Oct 28, 2026) — B2-65 to B2-69
+  - 98 reviewer comments applied, then every changed passage read against the writers' original; the reviewer's figures filled in (Michigan third for dog-bite claims with 1,432 in 2025, 152 Michigan fatal work injuries in 2024, 23 Medicare-certified nursing homes, Detroit snow-removal ordinance §8-15-103(c), rabies rule R 325.180, Bryant v Oakpointe Villa), two unsourced table rows deleted on her instruction, cross-links pointed at the real pages
+  - The matcher now requires word boundaries (a "3 years" table cell had matched inside "13 years" in the intro); fixed by hand here
+  - Left open: 39 highlighted items, mostly the firm's scope of the comp and malpractice practices, hospital ownership checks and statute checks; the after-accident checklist and VA benefits links still have no page
+  - Verified: import 66 drafts, production build unchanged (7 pages), slip-and-fall and dog-bite pages render with the corrected tables
+
 ### Open Questions
 
 - [ ] **PRE-LAUNCH — Text Us number.** Confirm with the firm whether (313) 406-7606 can receive SMS, or get a dedicated SMS number. Then set `SMS_NUMBER` in `src/data/contact.ts` (the Text buttons in the header and mobile bar appear automatically).
