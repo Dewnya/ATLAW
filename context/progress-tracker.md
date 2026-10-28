@@ -491,6 +491,11 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - Not imported: B2-01 and B2-15 to B2-26 (no reviewer comments yet); import them the same way once reviewed
   - Verified: import clean (39 drafts), production build unchanged (7 pages, no CONFIRM in dist), birth injuries, Erb's palsy and SSD appeals drafts render in the preview; not pushed
 
+- [x] Practice page frame widened to 1320px (Oct 28, 2026)
+  - `PracticeLongFormPage.tsx` and every section of `PracticeAreaDetailTemplate.tsx` (sub-nav, hero, overview, results, related, resources, city links, final CTA) now cap at 1320px instead of 1180px, so the article column grows from about 650px to about 745px on wide screens and the hero and body stay aligned
+  - City landing pages and the rest of the site keep the 1180px frame; widen `CityLandingTemplate.tsx` the same way if the firm wants city pages to match
+  - Verified: typecheck and production build clean (7 pages prerendered), hero and article left edges align at 1600px wide
+
 ### Open Questions
 
 - [ ] **PRE-LAUNCH — Text Us number.** Confirm with the firm whether (313) 406-7606 can receive SMS, or get a dedicated SMS number. Then set `SMS_NUMBER` in `src/data/contact.ts` (the Text buttons in the header and mobile bar appear automatically).

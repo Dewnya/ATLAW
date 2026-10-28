@@ -105,7 +105,7 @@ export const PracticeLongFormPage = ({ content }: { content: PracticeContent }):
         />
 
         <section aria-label="Page content" className="relative w-full bg-white">
-          <div className="relative mx-auto flex w-full max-w-[1180px] flex-col gap-12 px-6 pb-20 pt-4 sm:px-10 lg:flex-row lg:gap-16 lg:px-16 lg:pb-[100px]">
+          <div className="relative mx-auto flex w-full max-w-[1320px] flex-col gap-12 px-6 pb-20 pt-4 sm:px-10 lg:flex-row lg:gap-16 lg:px-16 lg:pb-[100px]">
             <article className="min-w-0 lg:basis-[64%]">
               <RichBlocks blocks={content.intro} />
 
