@@ -435,11 +435,11 @@
       },
       {
        "t": "link",
-       "href": "/personal-injury/workers-compensation/warren",
+       "href": "/personal-injury/workers-compensation",
        "c": [
         {
          "t": "text",
-         "v": "Warren workers’ compensation page"
+         "v": "Michigan workers’ compensation page"
         }
        ]
       },
@@ -545,11 +545,11 @@
       },
       {
        "t": "link",
-       "href": "/personal-injury/nursing-home-abuse/warren",
+       "href": "/personal-injury/nursing-home-abuse",
        "c": [
         {
          "t": "text",
-         "v": "Warren nursing home abuse page"
+         "v": "Michigan nursing home abuse page"
         }
        ]
       },

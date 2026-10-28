@@ -557,6 +557,12 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - Left open: 35 highlighted items (hospital and plant lists, SMART and Arsenal checks, the injured-child and comp/malpractice scope rows)
   - Verified: import 96 drafts, typecheck and production build clean (7 pages), Warren wrongful death and slip and fall pages render
 
+- [x] City practice pages, batch 9 of 9: Warren medical malpractice (Oct 28, 2026) — B3-17. All 41 commented city pages are now on the site (97 imported drafts)
+  - 4 reviewer comments applied: the Dearborn office address, the languages line, and her approvals on the in-house malpractice handling note and the 2026 caps row (she also confirmed the MCL 600.2912a(2) lost-opportunity rule the page states)
+  - Four links on the batch-8 Warren pages that pointed at Warren workers' compensation and nursing home pages (which do not exist) now point at the statewide pages
+  - Left open: 13 highlighted items (fee terms, cost-advance note, hospital and clinic details, the VA benefits link that has no page)
+  - Verified: import 97 drafts, typecheck and production build clean (7 pages), the Warren malpractice page renders
+
 ### Open Questions
 
 - [ ] **PRE-LAUNCH — Text Us number.** Confirm with the firm whether (313) 406-7606 can receive SMS, or get a dedicated SMS number. Then set `SMS_NUMBER` in `src/data/contact.ts` (the Text buttons in the header and mobile bar appear automatically).
