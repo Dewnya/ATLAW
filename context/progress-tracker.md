@@ -530,6 +530,11 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - Left open: 33 highlighted items, mostly the Dearborn and Wayne County motorcycle figures, road-jurisdiction checks and the attorney-names question; the checklist and no-fault guide links still have no page
   - Verified: import 71 drafts, production build unchanged (7 pages), car and truck pages render
 
+- [x] City practice pages, batch 4 of 9: Dearborn slip and fall, medical malpractice, workers' compensation, dog bites, rideshare (Oct 28, 2026) — B2-77 to B2-81
+  - 122 reviewer comments applied; her figures filled in (Dearborn renter share 31.6%, 2025 dog-bite claim statistics, 152 fatal work injuries, rabies rule, Dearborn sidewalk code sections, Bryant v Oakpointe Villa), the "Michigan Avenue office" wording replaced by the Dearborn office everywhere, the FOIA-dependent dog-bite row deleted as she asked. Detroit and Dearborn now have all 10 practice pages each
+  - Left open: 38 highlighted items (the comp and malpractice practice scope, the DMC/Housing Commission immunity checks, and two bare attorney checks on the slip-and-fall page that could not be matched to her approvals)
+  - Verified: import 76 drafts, production build unchanged (7 pages), slip-and-fall and malpractice pages render
+
 ### Open Questions
 
 - [ ] **PRE-LAUNCH — Text Us number.** Confirm with the firm whether (313) 406-7606 can receive SMS, or get a dedicated SMS number. Then set `SMS_NUMBER` in `src/data/contact.ts` (the Text buttons in the header and mobile bar appear automatically).
