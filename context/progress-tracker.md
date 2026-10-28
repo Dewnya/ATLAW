@@ -493,7 +493,7 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
 
 - [x] Practice page frame widened to 1320px (Oct 28, 2026)
   - `PracticeLongFormPage.tsx` and every section of `PracticeAreaDetailTemplate.tsx` (sub-nav, hero, overview, results, related, resources, city links, final CTA) now cap at 1320px instead of 1180px, so the article column grows from about 650px to about 745px on wide screens and the hero and body stay aligned
-  - City landing pages and the rest of the site keep the 1180px frame; widen `CityLandingTemplate.tsx` the same way if the firm wants city pages to match
+  - City landing pages followed the same day: all nine frames in `CityLandingTemplate.tsx` are 1320px too, so city hero, body and sidebar line up with the statewide pages; the rest of the site (about, team, news, areas served, legal pages) keeps the 1180px frame
   - Verified: typecheck and production build clean (7 pages prerendered), hero and article left edges align at 1600px wide
 
 ### Open Questions

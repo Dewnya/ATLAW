@@ -90,7 +90,7 @@ const Hero = ({ practice, city }: { practice: PracticeAreaPI; city: CityData }) 
     className="relative w-full overflow-hidden bg-white"
   >
     <Grain opacity="0.03" />
-    <div className="relative mx-auto w-full max-w-[1180px] px-6 pb-12 pt-16 sm:px-10 md:pb-16 md:pt-20 lg:px-16 lg:pb-20 lg:pt-24">
+    <div className="relative mx-auto w-full max-w-[1320px] px-6 pb-12 pt-16 sm:px-10 md:pb-16 md:pt-20 lg:px-16 lg:pb-20 lg:pt-24">
       <BreadcrumbSchema
         items={[
           { label: "ATLAW", to: "/" },
@@ -182,7 +182,7 @@ const Hero = ({ practice, city }: { practice: PracticeAreaPI; city: CityData }) 
 
 const StatsBar = ({ city }: { city: CityData }) => (
   <section aria-label="Firm credentials" className="w-full border-y border-[#0B1F3A]/8 bg-[#F7F7F5]">
-    <div className="mx-auto flex w-full max-w-[1180px] flex-wrap items-center justify-center gap-x-8 gap-y-3 px-6 py-5 sm:px-10 lg:gap-x-12 lg:px-16">
+    <div className="mx-auto flex w-full max-w-[1320px] flex-wrap items-center justify-center gap-x-8 gap-y-3 px-6 py-5 sm:px-10 lg:gap-x-12 lg:px-16">
       {[
         `Serving Clients for ${YEARS_SERVING} Years`,
         `${city.county}`,
@@ -253,7 +253,7 @@ const SidebarCTA = () => (
 
 const CityContextSection = ({ practice, city }: { practice: PracticeAreaPI; city: CityData }) => (
   <section aria-labelledby="city-context-heading" className="relative w-full overflow-hidden bg-white">
-    <div className="relative mx-auto flex w-full max-w-[1180px] flex-col gap-12 px-6 pb-20 pt-16 sm:px-10 lg:flex-row lg:gap-16 lg:px-16 lg:pb-[120px] lg:pt-20">
+    <div className="relative mx-auto flex w-full max-w-[1320px] flex-col gap-12 px-6 pb-20 pt-16 sm:px-10 lg:flex-row lg:gap-16 lg:px-16 lg:pb-[120px] lg:pt-20">
       <div className="lg:basis-[62%]">
         <p className="flex items-center gap-3 font-sans text-[12px] font-semibold uppercase leading-none tracking-[0.22em]" style={{ color: INK }}>
           <span aria-hidden="true" className="h-px w-8" style={{ backgroundColor: GOLD_ACCENT }} />
@@ -361,7 +361,7 @@ const PracticeOverviewSection = ({ practice, city }: { practice: PracticeAreaPI;
 const LocalExpertiseSection = ({ city }: { city: CityData }) => (
   <section aria-labelledby="city-expertise-heading" className="relative w-full overflow-hidden bg-white">
     <Grain opacity="0.03" />
-    <div className="relative mx-auto w-full max-w-[1180px] px-6 py-16 sm:px-10 md:py-20 lg:px-16 lg:py-24">
+    <div className="relative mx-auto w-full max-w-[1320px] px-6 py-16 sm:px-10 md:py-20 lg:px-16 lg:py-24">
       <h2
         className="text-center font-serifDisplay font-normal leading-[1.08] tracking-[-0.02em]"
         id="city-expertise-heading"
@@ -404,7 +404,7 @@ const CaseResultsSection = ({ practice }: { practice: PracticeAreaPI }) => {
       style={{ background: NAVY_CANVAS }}
     >
       <Grain opacity="0.05" />
-      <div className="relative mx-auto w-full max-w-[1180px] px-6 py-16 sm:px-10 md:py-20 lg:px-16 lg:py-24">
+      <div className="relative mx-auto w-full max-w-[1320px] px-6 py-16 sm:px-10 md:py-20 lg:px-16 lg:py-24">
         <h2
           className="text-center font-serifDisplay font-normal leading-[1.08] tracking-[-0.02em] text-white"
           id="city-results-heading"
@@ -555,7 +555,7 @@ const OtherPracticeAreasSection = ({ practice, city }: { practice: PracticeAreaP
   return (
     <section aria-labelledby="city-other-practices-heading" className="relative w-full overflow-hidden bg-[#F7F7F5]">
       <Grain opacity="0.03" />
-      <div className="relative mx-auto w-full max-w-[1180px] px-6 py-16 sm:px-10 md:py-20 lg:px-16 lg:py-24">
+      <div className="relative mx-auto w-full max-w-[1320px] px-6 py-16 sm:px-10 md:py-20 lg:px-16 lg:py-24">
         <h2
           className="text-center font-serifDisplay font-normal leading-[1.08] tracking-[-0.02em]"
           id="city-other-practices-heading"
@@ -599,7 +599,7 @@ const OtherCitiesSection = ({ practice, city }: { practice: PracticeAreaPI; city
   return (
     <section aria-labelledby="city-other-cities-heading" className="relative w-full overflow-hidden bg-white">
       <Grain opacity="0.03" />
-      <div className="relative mx-auto w-full max-w-[1180px] px-6 py-16 sm:px-10 md:py-20 lg:px-16 lg:py-24">
+      <div className="relative mx-auto w-full max-w-[1320px] px-6 py-16 sm:px-10 md:py-20 lg:px-16 lg:py-24">
         <h2
           className="text-center font-serifDisplay font-normal leading-[1.08] tracking-[-0.02em]"
           id="city-other-cities-heading"
@@ -631,7 +631,7 @@ const FinalCTABand = () => (
   <section aria-labelledby="city-final-cta" className="w-full">
     <div className="relative isolate overflow-hidden text-white" style={{ background: NAVY_CANVAS }}>
       <Grain opacity="0.06" />
-      <div className="relative mx-auto flex w-full max-w-[1180px] flex-col items-center px-6 py-12 text-center sm:px-10 md:py-16 lg:py-20">
+      <div className="relative mx-auto flex w-full max-w-[1320px] flex-col items-center px-6 py-12 text-center sm:px-10 md:py-16 lg:py-20">
         <h2
           className="font-serifDisplay font-normal leading-[1.06] tracking-[-0.02em] text-white"
           id="city-final-cta"
@@ -660,7 +660,7 @@ const FinalCTABand = () => (
       </div>
     </div>
     <div className="w-full bg-[#081120]">
-      <div className="mx-auto flex max-w-[1180px] flex-col items-center gap-1.5 px-6 py-7 text-center sm:px-10">
+      <div className="mx-auto flex max-w-[1320px] flex-col items-center gap-1.5 px-6 py-7 text-center sm:px-10">
         <a
           className="font-serifDisplay font-normal leading-none tracking-[-0.02em] text-white transition-colors duration-200 hover:text-[#C6A04A] text-[clamp(24px, 4vw, 42px)]"
           href="tel:+13134067606"
