@@ -599,6 +599,13 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - 101 reviewer comments applied on the five hubs: the 2024 city crash totals, the corrected intersection figures (11 Mile/I-696 at Van Dyke 185, 18½ Mile 162, Telegraph at 12 Mile 106), the Parklane Towers West office and hours, the governmental-immunity, venue, hospital and sidewalk rewrites, and the Court of Claims 120-day row. Her standard fee, languages and consultation answers were applied to the matching placeholders she had not separately answered on Detroit and Dearborn. Open items: 1 (the Dearborn venue attorney check)
   - Verified: import 131 drafts, typecheck, production build (7 pages) and preview build (131 pages) clean; Detroit and Warren hubs render with the practice grid; header menu targets checked
 
+- [x] City hubs, batch 2 of 5: Livonia, Canton, Dearborn Heights, Troy, Royal Oak (Oct 28, 2026)
+  - 121 reviewer comments applied: 2024 crash totals for all five, the corrected nursing-home counts (Livonia five), the 2024 population estimates (Canton about 100,000, Dearborn Heights 61,000, Troy 89,000), the Livonia hearing-office address and service area, the Ford Road Boulevard project dates, the Parklane Boulevard office on Dearborn Heights, and her rewrites of the road-jurisdiction, governmental-immunity, venue, hospital, coverage and sidewalk passages on every page; the MDOT deadline rows carry her MCL 691.1404 120-day notice and the dram shop rows her two-year suit and 120-day notice wording. Her standard fee, languages and consultation answers were applied to the placeholders she had not separately answered (Canton languages, Royal Oak visits)
+  - Flag: her Livonia figure row read "3,033 / 32 / 10" with a note to add the injured count once verified; the page uses the 869 injured she approved on the Livonia car accident page
+  - Open items: 1 (the Livonia trauma-designation check she did not answer). Troy's figures row now reads crashes / seriously injured / killed (2,480 / 35 / 7), as she supplied them
+  - The link resolver now also handles bare practice names and the remaining hub list texts; hub links to Troy, Royal Oak and Dearborn Heights practice pages resolve to the statewide pages until those cities have practice copy
+  - Verified: import 136 drafts, typecheck and production build clean (7 pages); the Livonia, Troy, Royal Oak and Dearborn Heights hubs render
+
 ### Open Questions
 
 - [ ] **PRE-LAUNCH — Text Us number.** Confirm with the firm whether (313) 406-7606 can receive SMS, or get a dedicated SMS number. Then set `SMS_NUMBER` in `src/data/contact.ts` (the Text buttons in the header and mobile bar appear automatically).
