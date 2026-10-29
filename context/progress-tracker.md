@@ -665,6 +665,12 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - The caseload confirms were cleared with her "Claims handled in…" rewrites
   - Open items: 8 she did not answer (Troy dog bite: Animal Control hours, license fees, Animal Control address; police report process on the car, truck, and motorcycle pages; the car page's injured-child attorney check and Clinton Township's highest-crash locations)
   - Verified: import 174 drafts, typecheck and production build clean (7 pages); the five pages render with no artifacts
+- [x] City practice pages, batch 21: Clinton Township wrongful death, slip and fall, medical malpractice, nursing home abuse; Waterford car (Oct 29, 2026) — B3-71 to B3-75
+  - 140 reviewer comments applied: Clinton Township's 8 crash deaths, the Probate Court at 40 N. Main in Mount Clemens, the right to object to an autopsy on religious grounds (MCL 52.205a), the three certified nursing homes (on Harper, 17 Mile, 15 Mile; 1 of 3 rated 1 star overall and 2 on staffing), the 65-and-older share (about 19 percent), the school districts, the arbitration rescission cite (42 CFR 483.70(m)), the pressure-sore rule (42 CFR 483.25(b)(1)), the Attorney General and AgeWays report lines, the EMS Act for public and private ambulances, the malpractice death-claim outer limit (MCL 600.5852(4)), Waterford's 2024 totals (1,546 / 497 / 3), the Pontiac Level II and Royal Oak Level I trauma centers, roadbed-only defects, the 120-day MDOT notice, the cost terms, and her approvals on 57 attorney-check and confirm passages
+  - Doubled closing lines and her pasted notes (CMS data tags, the school-district list, the SMART and autopsy remarks) were cleaned up; the two malpractice deadline rows the comment pass truncated were rebuilt
+  - Waterford car (B3-75) was finished after the last Drive pass and joined this batch
+  - Open items: 5 she did not answer (Selfridge base note on the malpractice page; the MCL 400.601 attorney check on the nursing home page; Waterford's other M-59 and highest-crash intersections and the police report process)
+  - Verified: import 179 drafts, typecheck and production build clean (7 pages); the five pages render with no artifacts
 
 ### Open Questions
 
