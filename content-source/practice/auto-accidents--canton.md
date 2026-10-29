@@ -66,7 +66,7 @@ We move promptly to request the camera footage, signal data, and vehicle data.
 
 **Coverage on the other side.** Many drivers carry the $50,000 opt-down minimum (MCL 500.3009(5)). Ford Road and I-275 bring drivers from everywhere, and minimum-limits and uninsured drivers are among them. Your own **uninsured and underinsured motorist coverage** often decides what the claim is worth; we read every policy in the household before valuing the claim. Settling with the at-fault driver without your UIM insurer’s consent can forfeit the UIM claim. See our [uninsured motorist page](/personal-injury/uninsured-motorist-claims).
 
-**Rideshare crashes.** An Uber or Lyft driver’s crash on Ford Road brings the company’s commercial policy into the claim, depending on whether the app was on and a trip was accepted; see our [Canton rideshare accident page](/personal-injury/rideshare-accidents).
+**Rideshare crashes.** An Uber or Lyft driver’s crash on Ford Road brings the company’s commercial policy into the claim, depending on whether the app was on and a trip was accepted; see our [Canton rideshare accident page](/personal-injury/rideshare-accidents/canton).
 
 **Drunk drivers and dram shop.** A crash caused by a drunk driver leaving a Ford Road restaurant or bar adds a claim against the business that served a visibly intoxicated person or a minor. Written notice must go to the retailer within 120 days after you hire a lawyer, the drunk driver must be named and kept in the suit, and the suit must be filed within two years, not three (MCL 436.1801(3), (4)). See our [drunk driving accident page](/personal-injury/drunk-driving-accidents).
 

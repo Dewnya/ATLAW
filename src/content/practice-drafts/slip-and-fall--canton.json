@@ -388,7 +388,7 @@
       },
       {
        "t": "link",
-       "href": "/personal-injury/workers-compensation",
+       "href": "/personal-injury/workers-compensation/canton",
        "c": [
         {
          "t": "text",
@@ -456,7 +456,7 @@
       },
       {
        "t": "link",
-       "href": "/personal-injury/nursing-home-abuse",
+       "href": "/personal-injury/nursing-home-abuse/canton",
        "c": [
         {
          "t": "text",
@@ -480,17 +480,7 @@
       },
       {
        "t": "text",
-       "v": ". "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": ""
-        }
-       ]
+       "v": "."
       }
      ]
     }
@@ -505,17 +495,7 @@
      "c": [
       {
        "t": "text",
-       "v": "If you fell while getting into or out of your own car, or while loading it, Michigan’s no-fault law may cover your medical bills and lost wages even though no crash occurred. An injury from a parked vehicle is covered when the person was “occupying, entering into, or alighting from” it, or loading or unloading it (MCL 500.3106(1)). That claim runs on the no-fault notice rules: written notice to the auto insurer within one year (MCL 500.3145(1)). It sits alongside any premises claim against the lot’s owner. A worker hurt on the job while loading, unloading, or getting into or out of a parked vehicle is generally limited to workers’ compensation for that injury, with narrow exceptions (MCL 500.3106(2)). "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": ""
-        }
-       ]
+       "v": "If you fell while getting into or out of your own car, or while loading it, Michigan’s no-fault law may cover your medical bills and lost wages even though no crash occurred. An injury from a parked vehicle is covered when the person was “occupying, entering into, or alighting from” it, or was injured by property being lifted onto or lowered from it during loading or unloading (MCL 500.3106(1)))). That claim runs on the no-fault notice rules: written notice to the auto insurer within one year (MCL 500.3145(1)). It sits alongside any premises claim against the lot’s owner. A worker hurt on the job while loading, unloading, or getting into or out of a parked vehicle is generally limited to workers’ compensation for that injury, with narrow exceptions (MCL 500.3106(2))."
       }
      ]
     }
@@ -580,7 +560,7 @@
      "c": [
       {
        "t": "text",
-       "v": "An owner must take reasonable steps, within a reasonable time after snow or ice accumulates, to make walkways, entrances, and lots safe. What is reasonable depends on the property: a grocery store opening at 7 a.m. after an overnight storm is expected to have treated its entrance. The law does not require an owner to keep every surface bare at every moment of a storm. Black ice from refreezing meltwater, a leaking gutter, or snow piled where it melts across the walk is a condition the owner created, and those cases are stronger than natural accumulation."
+       "v": "An owner must take reasonable steps, within a reasonable time after snow or ice accumulates, to make walkways, entrances, and lots safe. What is reasonable depends on the property: a grocery store opening at 7 a.m. after an overnight storm is expected to have treated its entrance. The law does not require an owner to keep every surface bare at every moment of a storm. Black ice from refreezing meltwater, a leaking gutter, or snow piled where it melts across the walk can be a condition the owner created, and those cases are stronger than natural accumulation."
       }
      ]
     },
@@ -589,21 +569,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Canton Township may require adjacent owners to clear snow and ice from public sidewalks by ordinance. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "whether Canton has a sidewalk snow-removal ordinance; cite section and time limit, or delete this sentence"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " Michigan courts have generally held that an ordinance like this does not by itself make the owner liable to a pedestrian, and a township’s duty to repair sidewalks does not extend to natural accumulations of snow and ice; but an owner whose property caused the ice, by drainage or plowing, can be. Photograph the ice, the path, the alternatives you had, and the weather the same day."
+       "v": "Some Michigan communities require adjacent owners to clear snow and ice from public sidewalks by ordinance. Photograph the ice, the path, the alternatives you had, and the weather the same day."
       }
      ]
     }
@@ -762,17 +728,7 @@
       },
       {
        "t": "text",
-       "v": ", or a death, go to the Third Judicial Circuit Court in Detroit. A fall at a business across the line in Washtenaw County is generally a Washtenaw County case. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": ""
-        }
-       ]
+       "v": ", or a death, go to the Third Judicial Circuit Court in Detroit. A fall at a business across the line in Washtenaw County is generally a Washtenaw County case."
       }
      ]
     },
@@ -849,13 +805,13 @@
        [
         {
          "t": "text",
-         "v": "Court of Claims notice within 6 months"
+         "v": "Written notice within 120 days, filed with the Court of Claims"
         }
        ],
        [
         {
          "t": "text",
-         "v": "MCL 600.6431"
+         "v": "MCL 691.1406, 691.1404(2), 600.6431"
         }
        ]
       ],
@@ -903,7 +859,7 @@
        [
         {
          "t": "text",
-         "v": "Dram shop claim (a bar over-served the person who fell or caused the fall)"
+         "v": "Dram shop claim (a bar over-served the person who caused the fall)"
         }
        ],
        [
@@ -969,23 +925,13 @@
        [
         {
          "t": "text",
-         "v": "The ordinary deadline, or one year after the 18th birthday if that is later"
+         "v": "The ordinary deadline, or one year after the 18th birthday if that is later; notice to the township or a school district for a child: 180 days"
         }
        ],
        [
         {
          "t": "text",
-         "v": "MCL 600.5851(1) "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "ATTORNEY CHECK",
-           "v": ""
-          }
-         ]
+         "v": "MCL 600.5851(1), 691.1404(3)"
         }
        ]
       ]
@@ -1015,17 +961,7 @@
       [
        {
         "t": "text",
-        "v": "Preservation letters for footage, logs, contracts, and work orders in the first days. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "practice"
-         }
-        ]
+        "v": "Preservation letters for footage, logs, contracts, and work orders sent promptly."
        }
       ],
       [
@@ -1043,17 +979,7 @@
       [
        {
         "t": "text",
-        "v": "No fee unless we recover money for you. The first conversation is free. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "fee terms"
-         }
-        ]
+        "v": "No fee unless we recover money for you. The first conversation is free."
        }
       ]
      ]
@@ -1085,17 +1011,7 @@
    "answer": [
     {
      "t": "text",
-     "v": "Generally neither. Canton Township does not own the roads, but it must keep the public sidewalks beside county and state roads in reasonable repair, so the claim is usually against the township. It must have known or should have known of the defect at least 30 days before, defects under two inches are presumed reasonable repair, and written notice must reach the township within 120 days. "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "ATTORNEY CHECK",
-       "v": ""
-      }
-     ]
+     "v": "Generally neither. Canton Township does not own the roads, but it must keep the public sidewalks beside county and state roads in reasonable repair, so the claim is usually against the township. It must have known or should have known of the defect at least 30 days before, defects under two inches are presumed reasonable repair, and written notice must reach the township within 120 days."
     }
    ]
   },
@@ -1160,8 +1076,8 @@
    }
   ]
  },
- "wordCount": 2469,
- "openItems": 8,
+ "wordCount": 2407,
+ "openItems": 0,
  "source": {
   "file": "B3-46_Canton-Slip-and-Fall-Lawyer.docx",
   "delivered": "October 24, 2026 [CONFIRM: Batch 3 delivery date]"
