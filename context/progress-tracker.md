@@ -671,6 +671,12 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - Waterford car (B3-75) was finished after the last Drive pass and joined this batch
   - Open items: 5 she did not answer (Selfridge base note on the malpractice page; the MCL 400.601 attorney check on the nursing home page; Waterford's other M-59 and highest-crash intersections and the police report process)
   - Verified: import 179 drafts, typecheck and production build clean (7 pages); the five pages render with no artifacts
+- [x] City practice pages, batch 22: Waterford personal injury, truck, motorcycle, slip and fall (Oct 29, 2026) — B3-76 to B3-79
+  - 115 reviewer comments applied: Waterford's 2024 totals (1,546 / 497 / 3), the Oakland County motorcycle figures (310 / 219 / 16), the 65-and-older share (about 17 percent), the Waterford and Pontiac school districts, the three certified nursing homes, the Pontiac Level II and Royal Oak Level I trauma centers, the 51st District (5100 Civic Center Drive) and Sixth Circuit addresses, the leasing-company shield (49 USC 30106), "several lanes" in place of the lane counts, boat and homeowner's coverage "if the policy covers it", the cost terms, and her approvals on 52 attorney-check and confirm passages
+  - City-level truck and motorcycle rows she said the State does not publish were deleted; her pasted notes (corridor employers, the 164,000-pound route note, the road-jurisdiction note, the CMS facility list) were removed; the school-district and nursing-home sentences her replacements cut short were restored from the source
+  - Her truck-page closing line used the old visit wording; it now uses the firm's confirmed sentence
+  - Open items: 2 she did not answer (the police report process on the truck and motorcycle pages)
+  - Verified: import 183 drafts, typecheck and production build clean (7 pages); the four pages and the Waterford hub render with no artifacts
 
 ### Open Questions
 
