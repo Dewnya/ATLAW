@@ -622,6 +622,10 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - Open items: 3 she did not answer (whether to name boating injuries on St. Clair Shores, the Oakland County hospital list she marked "confirm with DB", and the county MDOT rows which keep the six-month general state-claim wording she did not comment on). The county hubs' hero caption no longer repeats the county name
   - Verified: import 150 drafts, typecheck and production build clean (7 pages); the Wayne County, St. Clair Shores and Oakland County hubs render and the areas-served index cards point at the hubs
 
+- [x] Areas-served index lists every place in the registry (Oct 29, 2026)
+  - `/areas-served` now builds its sidebar and cards from `cities-registry.ts`, grouped by county with the county's own card first: 25 places instead of the original 7. Each card links through `cityHref()` (the hub where one exists), uses `cityPhoto()` (Michigan fallback where the city has no photo), and summarises what the site has for the place (the hub guide and the practice pages imported for it) from the content index rather than hand-written copy. Checked at desktop and phone width: no overflow, no console errors
+  - Still open: 18 places use the Michigan fallback hero photo (Southfield, Warren, Sterling Heights, Livonia, Canton, Westland, Taylor, Royal Oak, Troy, Novi, Farmington Hills, West Bloomfield, Rochester Hills, Pontiac, Waterford, Clinton Township, Macomb Township, St. Clair Shores); `scripts/convert-city-photos.mjs` converts supplied source images to the AVIF the hero and index cards use
+
 ### Open Questions
 
 - [ ] **PRE-LAUNCH — Text Us number.** Confirm with the firm whether (313) 406-7606 can receive SMS, or get a dedicated SMS number. Then set `SMS_NUMBER` in `src/data/contact.ts` (the Text buttons in the header and mobile bar appear automatically).
