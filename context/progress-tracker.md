@@ -648,6 +648,12 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - The caseload confirm on the two Troy pages was cleared with her "Claims handled in…" rewrite, as on earlier city pages
   - Open items: 2 she did not answer (the Corewell Farmington Hills name-change dates on the malpractice page; Troy's highest-crash locations on the car page)
   - Verified: import 164 drafts, typecheck and production build clean (7 pages); the pages render and the Troy hub links to the two Troy pages
+- [x] City practice pages, batch 19: Troy truck, motorcycle, wrongful death, slip and fall, medical malpractice (Oct 29, 2026) — B3-61 to B3-65
+  - 127 reviewer comments applied: Troy's I-75 interchanges (Fourteen Mile, Rochester, Big Beaver, Crooks; exits 65 to 72), the Oakland County 2024 motorcycle figures (310 / 219 / 16) and 7 Troy crash deaths, her road-jurisdiction rewrite (I-75 is MDOT's; the Road Commission has many of Troy's major roads; the City its local and own major streets), the 120-day Court of Claims notice for State road and building defects (MCL 691.1404), the leasing-company shield (49 USC 30106), the Assigned Claims Plan and opt-down rules for riders, the 65-and-older share (about 17 percent), the two certified nursing homes, the 180-day notice for a child's claim against the City or schools, the Treasury-confirmed 2026 caps, the EMS Act standard, and her approvals on 59 attorney-check and confirm passages
+  - City-level rows she said the State does not publish (Troy truck and motorcycle crashes) were deleted, and the truck FAQ now says so
+  - Troy malpractice (B3-65) was commented after the last Drive pass, so it joined this batch
+  - Open items: 5 she did not answer (the Troy Police report process on the motorcycle page; the Corewell Troy name-change dates, the current outpatient and specialty centers, and the two fee confirms in "What it costs" on the malpractice page)
+  - Verified: import 169 drafts, typecheck and production build clean (7 pages); the five pages render with no artifacts
 
 ### Open Questions
 
