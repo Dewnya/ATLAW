@@ -61,7 +61,7 @@
     },
     {
      "t": "link",
-     "href": "/personal-injury/personal-injury",
+     "href": "/personal-injury/personal-injury/canton",
      "c": [
       {
        "t": "text",
@@ -341,7 +341,7 @@
       },
       {
        "t": "link",
-       "href": "/personal-injury/truck-accidents",
+       "href": "/personal-injury/truck-accidents/canton",
        "c": [
         {
          "t": "text",
@@ -650,7 +650,7 @@
       },
       {
        "t": "link",
-       "href": "about:blank",
+       "href": "/personal-injury/rideshare-accidents",
        "c": [
         {
          "t": "text",
@@ -882,7 +882,7 @@
       },
       {
        "t": "link",
-       "href": "/personal-injury/wrongful-death",
+       "href": "/personal-injury/wrongful-death/canton",
        "c": [
         {
          "t": "text",
