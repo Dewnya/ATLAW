@@ -180,7 +180,7 @@ export const CityHero = ({ practice, city, heroTitle, section = "personal-injury
         <div className="absolute inset-x-0 bottom-0 flex items-center gap-3 p-6 sm:p-8">
           <span aria-hidden="true" className="h-px w-10 shrink-0" style={{ backgroundColor: GOLD }} />
           <p className="font-sans text-[12px] font-semibold uppercase tracking-[0.18em] text-white sm:text-[13px]">
-            Serving {city.name} &amp; {city.county}
+            {city.name === city.county ? `Serving ${city.county}` : <>Serving {city.name} &amp; {city.county}</>}
           </p>
         </div>
       </div>

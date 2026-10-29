@@ -107,7 +107,7 @@ Motorcycle injury lawsuits seeking more than $25,000 may be filed in the Third J
 - Consultations can be accommodated in English, Arabic, French, Mandarin, Urdu, and Spanish. Home and hospital visits are available when needed.
 ## Frequently asked questions
 
-**How many motorcycle accidents happen in Detroit?**  **[CONFIRM: data: Detroit and Wayne County 2024 motorcycle figures]** Statewide, 3,187 motorcycle crashes in 2024 injured 2,460 riders and killed 168, according to the Michigan State Police. County figures for all crash types are on our [Wayne County page](/personal-injury/personal-injury/wayne-county).
+**How many motorcycle accidents happen in Detroit?**  **[CONFIRM: data: Detroit and Wayne County 2024 motorcycle figures]** Statewide, 3,187 motorcycle crashes in 2024 injured 2,460 riders and killed 168, according to the Michigan State Police. County figures for all crash types are on our [Wayne County page](/areas-served/wayne-county).
 
 **A car cut me off in Detroit and I went down, but it never hit me. Do I have a claim?** Potentially, yes. Physical contact is not always necessary for a motor vehicle to be considered involved in a motorcycle accident. The evidence must establish the vehicle’s legally sufficient involvement and the circumstances of the crash. If it does, that vehicle’s insurer may be first in line for your medical bills and wage loss, and if the driver was at fault you have an injury claim against them. The problem is identification: get the plate, the witnesses, and any camera footage before the car is gone.
 

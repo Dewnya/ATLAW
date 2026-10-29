@@ -31,7 +31,7 @@ ATLAW is a personal injury firm with an office at 3 Parklane Boulevard in Dearbo
 | Wayne County alcohol-involved crashes, 2024 | 1,331 | MSP 2024 |
 | 2026 medical malpractice noneconomic damages caps (apply to death cases) | $596,400 / $1,065,000 | MCL 600.1483 |
 
-County-wide figures for every crash type are on our [Wayne County page](/personal-injury/personal-injury/wayne-county). Crashes are one source of Detroit wrongful death claims. The others are falls and fires in rental housing, hospital and nursing home negligence, workplace deaths, drunk driving, and deaths involving City vehicles or property, each described below with the rule that governs it.
+County-wide figures for every crash type are on our [Wayne County page](/areas-served/wayne-county). Crashes are one source of Detroit wrongful death claims. The others are falls and fires in rental housing, hospital and nursing home negligence, workplace deaths, drunk driving, and deaths involving City vehicles or property, each described below with the rule that governs it.
 
 ## How a Detroit wrongful death claim works
 

@@ -17,7 +17,7 @@ delivered: 2026-10-16
 
 Royal Oak is a city of about 58,000 on Woodward Avenue, between Eight Mile’s inner-ring suburbs and the Birmingham-Bloomfield corridor, with a downtown of restaurants and bars that draws the region on weekend nights, the Detroit Zoo at its southern tip, and Corewell Health William Beaumont University Hospital, Oakland County’s Level I trauma center and one of the busiest hospitals in Michigan, at Thirteen Mile and Woodward. Its injuries follow that mix. In 2024, according to the Michigan State Police, Royal Oak recorded five traffic deaths, in a year when Oakland County recorded 871 alcohol-involved crashes. In 2024, Royal Oak recorded 1,992 traffic crashes, with 441 people injured and five killed.
 
-ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across southeast Michigan, Royal Oak residents among them. This page explains what is particular about a Royal Oak injury claim: where the injuries happen, who the defendants usually are, which courts hear the cases, and the deadlines that end them. Our [Oakland County page](/personal-injury/personal-injury/oakland-county) covers the county as a whole.
+ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across southeast Michigan, Royal Oak residents among them. This page explains what is particular about a Royal Oak injury claim: where the injuries happen, who the defendants usually are, which courts hear the cases, and the deadlines that end them. Our [Oakland County page](/areas-served/oakland-county) covers the county as a whole.
 
 ## Royal Oak injury numbers, 2024
 

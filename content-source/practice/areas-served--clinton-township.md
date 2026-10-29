@@ -19,7 +19,7 @@ Clinton Township is Michigan’s largest township, about 100,000 people between 
 
 Clinton Township is also a township, and that changes an injury claim in a way no competing page mentions: Michigan townships do not own public roads. Gratiot, Hall Road, Groesbeck, and I-94 are MDOT’s; Garfield, Romeo Plank, Harper, Moravian, Cass, and the mile roads are the Macomb County Department of Roads’. A claim for a signal, sight-line, or pavement defect goes to the state or the county, with a six-month or 120-day notice, never to the township. The township’s own police, fire, buildings, and parks are a different matter.
 
-ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across southeast Michigan, Clinton Township residents among them. This page explains what is particular about a Clinton Township injury claim. Our [Macomb County page](/personal-injury/personal-injury/macomb-county) covers the county as a whole.
+ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across southeast Michigan, Clinton Township residents among them. This page explains what is particular about a Clinton Township injury claim. Our [Macomb County page](/areas-served/macomb-county) covers the county as a whole.
 
 ## Clinton Township injury numbers, 2024
 

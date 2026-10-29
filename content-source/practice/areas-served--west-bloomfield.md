@@ -19,7 +19,7 @@ West Bloomfield is a charter township of about 66,500 people in the lake country
 
 Those facts shape a West Bloomfield injury claim. The lakes produce boating, dock, and winter injuries that no-fault does not cover. In serious crash cases, available liability insurance and the client’s own underinsured motorist coverage may both affect recovery. And the township’s lack of road jurisdiction means a signal, sight-line, or pavement claim goes to the Road Commission for Oakland County or MDOT, with a 120-day notice requirement for qualifying highway-defect claims. The responsible agency must be identified by the location and type of defect; West Bloomfield Township may also have liability for its own facilities, vehicles, and qualifying sidewalks.
 
-ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across southeast Michigan, West Bloomfield residents among them. This page explains what is particular about a West Bloomfield injury claim. Our [Oakland County page](/personal-injury/personal-injury/oakland-county) covers the county as a whole.
+ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across southeast Michigan, West Bloomfield residents among them. This page explains what is particular about a West Bloomfield injury claim. Our [Oakland County page](/areas-served/oakland-county) covers the county as a whole.
 
 ## West Bloomfield injury numbers, 2024
 

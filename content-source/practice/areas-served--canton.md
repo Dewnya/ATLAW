@@ -19,7 +19,7 @@ Canton is a charter township of approximately 100,000 people in western Wayne Co
 
 Canton is a charter township rather than a city, which affects who is responsible for maintaining its roads. Public roads generally fall under Wayne County or MDOT jurisdiction, while some privately owned roads are maintained by property owners or homeowners associations. A qualifying defect in a county- or state-maintained roadway may support a claim against the responsible road agency, generally requiring written notice within 120 days. However, traffic-signal claims and injuries involving sidewalks, township vehicles, or public buildings require separate legal analysis. Canton’s police and fire are its own, under a combined Public Safety department, and its buildings and parks are its own, so those claims do go to the township.
 
-ATLAW is a personal injury firm in Dearborn, twenty-five minutes east on Michigan Avenue or Ford Road. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across southeast Michigan, Canton residents among them. This page explains what is particular about a Canton injury claim. Our [Wayne County page](/personal-injury/personal-injury/wayne-county) covers the county as a whole.
+ATLAW is a personal injury firm in Dearborn, twenty-five minutes east on Michigan Avenue or Ford Road. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across southeast Michigan, Canton residents among them. This page explains what is particular about a Canton injury claim. Our [Wayne County page](/areas-served/wayne-county) covers the county as a whole.
 
 ## Canton injury numbers, 2024
 

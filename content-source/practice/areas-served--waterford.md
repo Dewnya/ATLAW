@@ -19,7 +19,7 @@ Waterford is a charter township of approximately 70,000 residents west of Pontia
 
 Waterford is also a township, and that changes an injury claim in a way no competing page mentions: Michigan townships do not own public roads. M-59 and Dixie Highway are MDOT’s; Walton, Sashabaw, Williams Lake, Pontiac Lake, Elizabeth Lake, Cass Lake, Airport Road, and the rest are the Road Commission for Oakland County’s. A claim for a signal, sight-line, or pavement defect goes to the state or the Road Commission, with a six-month or 120-day notice, never to the township. The township’s own police, fire, buildings, parks, and lake access sites are a different matter.
 
-ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across southeast Michigan, Waterford residents among them. This page explains what is particular about a Waterford injury claim. Our [Oakland County page](/personal-injury/personal-injury/oakland-county) covers the county as a whole.
+ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across southeast Michigan, Waterford residents among them. This page explains what is particular about a Waterford injury claim. Our [Oakland County page](/areas-served/oakland-county) covers the county as a whole.
 
 ## Waterford injury numbers, 2024
 

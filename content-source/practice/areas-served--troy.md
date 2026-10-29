@@ -17,7 +17,7 @@ delivered: 2026-10-16
 
 Troy is an Oakland County city with approximately 89,000 residents and a major commercial and employment center. The office buildings along Big Beaver Road, Somerset Collection, Troy Motor Mall, and surrounding corporate campuses bring residents, employees, and visitors onto the city’s roads every day.
 
-ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across southeast Michigan, Troy residents and Troy workers among them. This page explains what is particular about a Troy injury claim: where the injuries happen, who the defendants usually are, which courts hear the cases, and the deadlines that end them. Our [Oakland County page](/personal-injury/personal-injury/oakland-county) covers the county as a whole.
+ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across southeast Michigan, Troy residents and Troy workers among them. This page explains what is particular about a Troy injury claim: where the injuries happen, who the defendants usually are, which courts hear the cases, and the deadlines that end them. Our [Oakland County page](/areas-served/oakland-county) covers the county as a whole.
 
 ## Troy injury numbers, 2024
 

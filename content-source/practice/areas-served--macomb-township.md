@@ -19,7 +19,7 @@ Macomb Township is a charter township of about 95,000 people north of Hall Road 
 
 Macomb Township is also a township, and that changes an injury claim in two ways. Michigan townships do not own public roads: Hall Road is MDOT’s, and Romeo Plank, Garfield, Hayes, Card, North Avenue, and the mile roads are the Macomb County Department of Roads’, so a qualifying pavement-defect claim generally involves the responsible state or county road agency, with a 120-day notice requirement. Signal and sight-line claims require separate analysis, and township property or sidewalks may involve different duties. And Macomb Township contracts its police services to the Macomb County Sheriff’s Office, so a crash involving a Sheriff’s patrol car may give rise to a claim against Macomb County under the governmental motor-vehicle exception, depending on the circumstances. The township answers for its own fire department, buildings, and parks.
 
-ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across southeast Michigan, Macomb Township residents among them. This page explains what is particular about a Macomb Township injury claim. Our [Macomb County page](/personal-injury/personal-injury/macomb-county) covers the county as a whole.
+ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across southeast Michigan, Macomb Township residents among them. This page explains what is particular about a Macomb Township injury claim. Our [Macomb County page](/areas-served/macomb-county) covers the county as a whole.
 
 ## Macomb Township injury numbers, 2024
 

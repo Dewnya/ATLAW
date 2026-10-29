@@ -616,6 +616,12 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - Open items: 2 she did not answer (Rochester Hills major employers, Pontiac renter share). The Rochester Hills tagline was reworded after her removal of the insurance-limits claim
   - Verified: import 146 drafts, typecheck and production build clean (7 pages); the Pontiac, Clinton Township and Macomb Township hubs render
 
+- [x] City hubs, batch 5 of 5: St. Clair Shores and the Wayne, Oakland and Macomb County hubs (Oct 28, 2026). All 21 city hubs and the 3 county hubs are now on the site at /areas-served/<slug>; 150 imported drafts in total
+  - 73 reviewer comments applied: the St. Clair Shores 2024 totals, dram shop and boating rewrites and the removal of the unsupported alcohol-crash comparison (tagline reworded to match); on the county hubs, her venue, governmental-immunity, hospital-name (Henry Ford St. John, Henry Ford Providence Southfield and Novi), insurance and nursing-home rewrites, the SMART 60-day notice paragraph on Macomb County, the Road Commission mileage corrections, and her confirmations of the small-claims limit, the trauma designations and the fee terms. Duplicated office and consultation sentences the auto-apply produced were collapsed; the Wayne County hospital list that it swallowed was restored with her renamed hospital
+  - The link resolver now resolves a bare city name (the county hubs' community lists) to that city's hub, and the county hubs are the target of every "Wayne County page" style link on the practice pages
+  - Open items: 3 she did not answer (whether to name boating injuries on St. Clair Shores, the Oakland County hospital list she marked "confirm with DB", and the county MDOT rows which keep the six-month general state-claim wording she did not comment on). The county hubs' hero caption no longer repeats the county name
+  - Verified: import 150 drafts, typecheck and production build clean (7 pages); the Wayne County, St. Clair Shores and Oakland County hubs render and the areas-served index cards point at the hubs
+
 ### Open Questions
 
 - [ ] **PRE-LAUNCH — Text Us number.** Confirm with the firm whether (313) 406-7606 can receive SMS, or get a dedicated SMS number. Then set `SMS_NUMBER` in `src/data/contact.ts` (the Text buttons in the header and mobile bar appear automatically).
