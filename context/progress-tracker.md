@@ -659,6 +659,12 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - 68 sentences on 66 pages that said "by phone, or by video" / "can be accommodated" / "home, hospital, and video consultations" now use that sentence; the language sentences beside them are unchanged
   - Left as written: the Cranbrook page (Arlyn's client's-choice-of-place wording) and the two open phone-and-video confirms on the SSD application and appeals pages, which the firm's answer does not cover
   - Open with the firm: its practice-areas answer ("Auto-Accident, Slip and Fall, Medical Malpractice" to the question about product liability, VA, and long-term disability) may mean those pages should not launch
+- [x] City practice pages, batch 20: Troy dog bite; Clinton Township car, personal injury, truck, motorcycle (Oct 29, 2026) — B3-66 to B3-70
+  - 121 reviewer comments applied: the Troy bite-count row removed (no public figure), the May 2026 III/State Farm release, the rabies rule cite (Mich Admin Code R 325.180(5)), the dangerous-dog complaint wording, Clinton Township's 2024 totals (1,907 / 749 / 8), the Macomb County 2024 motorcycle figures (216 / 164 / 14), the single I-94 interchange at Harper, the 41B District Court address (22380 Starks Drive) and the Sixteenth Circuit at 40 N. Main, the Probate Court in Mount Clemens, the two Level II trauma centers, the 120-day MDOT notice, roadbed-only defects (signals and signs outside the highway exception), the school districts serving the township, the firm's cost terms, and her approvals on 45 attorney-check and confirm passages
+  - City-level truck and motorcycle rows she said the State does not publish were deleted; her reviewer notes that were pasted into the copy (corridor employers, road-jurisdiction note, the statewide-figure check, "per Wikipedia") were removed
+  - The caseload confirms were cleared with her "Claims handled in…" rewrites
+  - Open items: 8 she did not answer (Troy dog bite: Animal Control hours, license fees, Animal Control address; police report process on the car, truck, and motorcycle pages; the car page's injured-child attorney check and Clinton Township's highest-crash locations)
+  - Verified: import 174 drafts, typecheck and production build clean (7 pages); the five pages render with no artifacts
 
 ### Open Questions
 
