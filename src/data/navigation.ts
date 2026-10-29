@@ -1,6 +1,6 @@
 import { practiceNavGroups, practiceHref } from "./practice/pi/registry";
 import { practicesWithPages } from "./practice/pages";
-import { cityRegistry, cityHref } from "./cities-registry";
+import { cityRegistry, cityHref, hasCityPage } from "./cities-registry";
 
 export const NAVY = "#0e1b33";
 export const NAVY_PANEL = "#0a1428";
@@ -45,19 +45,22 @@ const practiceMenu: NavMenu = {
 
 const countyOrder = [...new Set(cityRegistry.map((c) => c.county))];
 
+// Only places this build has a page for (see hasCityPage); a county with none is left out.
 const areasMenu: NavMenu = {
   id: "areas",
   label: "AREAS WE SERVE",
-  groups: countyOrder.map((county) => {
-    const countyPage = cityRegistry.find((c) => c.name === county);
-    return {
-      label: county,
-      to: countyPage ? cityHref(countyPage.slug) : undefined,
-      links: cityRegistry
-        .filter((c) => c.county === county && c.name !== county)
-        .map((c) => ({ label: c.name, to: cityHref(c.slug) })),
-    };
-  }),
+  groups: countyOrder
+    .map((county) => {
+      const countyPage = cityRegistry.find((c) => c.name === county && hasCityPage(c.slug));
+      return {
+        label: county,
+        to: countyPage ? cityHref(countyPage.slug) : undefined,
+        links: cityRegistry
+          .filter((c) => c.county === county && c.name !== county && hasCityPage(c.slug))
+          .map((c) => ({ label: c.name, to: cityHref(c.slug) })),
+      };
+    })
+    .filter((group) => group.to || group.links.length),
   overview: { label: "All areas we serve", to: "/areas-served" },
 };
 

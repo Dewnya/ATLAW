@@ -633,6 +633,10 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - Open items: 5 she did not answer (dog bite: the Public Safety number and the FAQ report line; nursing home: the Public Safety number and the hotline-number check; rideshare: the report-release note)
   - Verified: import 154 drafts, typecheck and production build clean (7 pages); the four new pages render and the Canton hub lists all ten Canton pages
 
+- [x] Areas We Serve menu and index list only places the build has a page for (Oct 29, 2026)
+  - New `hasCityPage()` in `cities-registry.ts` (true when `cityHref()` resolves to a hub, a personal-injury page or the original template). The header menu drops places and counties with no page, and the `/areas-served` index does the same. A production build, which leaves drafts out, now lists the 7 places with original pages instead of 25 with 18 falling back to the index; preview builds still list all 25. Checked with `vite preview` of the production build (7 menu entries, no draft banner, hub routes 404, original city pages render) and the dev server (25 entries)
+  - Opened the PR from `mo-dev` into `Yahia-Dev` (the production branch behind atlaw-five.vercel.app)
+
 ### Open Questions
 
 - [ ] **PRE-LAUNCH — Text Us number.** Confirm with the firm whether (313) 406-7606 can receive SMS, or get a dedicated SMS number. Then set `SMS_NUMBER` in `src/data/contact.ts` (the Text buttons in the header and mobile bar appear automatically).

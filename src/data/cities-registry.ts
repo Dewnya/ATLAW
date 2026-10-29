@@ -58,3 +58,10 @@ export const cityHref = (slug: CitySlug): string => {
   if (hasCityContent("personal-injury", slug) || TEMPLATE_CITIES.has(slug)) return `/personal-injury/personal-injury/${slug}`;
   return "/areas-served";
 };
+
+/**
+ * Whether this build has a page for the place (its hub, its personal-injury page,
+ * or the original template). A production build leaves drafts out, so a city whose
+ * copy is still in review has no page there and is left out of the menus.
+ */
+export const hasCityPage = (slug: CitySlug): boolean => cityHref(slug) !== "/areas-served";

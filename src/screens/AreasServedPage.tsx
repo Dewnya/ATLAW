@@ -5,7 +5,7 @@ import { Header } from "../components/ATLAW/Header";
 import { Footer } from "../components/ATLAW/Footer";
 import { PageMeta } from "../components/ATLAW/PageMeta";
 import { cityPhoto } from "../data/cities";
-import { cityHref, cityRegistry } from "../data/cities-registry";
+import { cityHref, cityRegistry, hasCityPage } from "../data/cities-registry";
 import { practiceRegistry } from "../data/practice/pi/registry";
 import { hasCityContent, hasHubContent } from "../content";
 import { openIntakeModal } from "../components/ATLAW/IntakeModal";
@@ -44,11 +44,15 @@ const ArrowRight = ({ className = "" }: { className?: string }) => (
 );
 
 
-/** The counties in registry order, each with its own entry first and its cities after it. */
-const countyGroups = [...new Set(cityRegistry.map((c) => c.county))].map((county) => ({
-  county,
-  places: [...cityRegistry.filter((c) => c.county === county && c.name === county), ...cityRegistry.filter((c) => c.county === county && c.name !== county)],
-}));
+/** The counties in registry order, each with its own entry first and its cities after it;
+ *  only places this build has a page for (see hasCityPage). */
+const countyGroups = [...new Set(cityRegistry.map((c) => c.county))]
+  .map((county) => ({
+    county,
+    places: [...cityRegistry.filter((c) => c.county === county && c.name === county), ...cityRegistry.filter((c) => c.county === county && c.name !== county)]
+      .filter((c) => hasCityPage(c.slug)),
+  }))
+  .filter((g) => g.places.length);
 
 /** What the site has for a place: its hub and the practice pages imported for it. */
 const placeSummary = (slug: string): string => {
