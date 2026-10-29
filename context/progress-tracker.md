@@ -573,6 +573,11 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - `fix_links.py` extended: hub-list links (Car accidents, Slip and fall, …) and bare practice-page links resolve against the page's own city when that page exists, otherwise the statewide page
   - Verified: import 106 drafts, typecheck and production build clean (7 pages), the Sterling Heights hub, wrongful death and motorcycle pages render
 
+- [x] City practice pages, batch 12 of 15: Sterling Heights workers' compensation, dog bite, Social Security Disability, nursing home; Livonia car (Oct 28, 2026) — B3-27 to B3-31
+  - Livonia added to the city registry (Wayne County, Michigan fallback photo). 108 reviewer comments applied; the four Sterling Heights pages have 0 open items and the Livonia page keeps 3 highlighted verify notes she did not answer (the 2025 intersection list, the Livonia PD list date, the CLEMIS report link). Filled in: the Sterling Heights field office address (7385 Triangle Drive) and its Oak Park hearing office figures, the 13.6 percent disability share, the Sterling Heights animal-control numbers and ordinance cite, the five certified nursing homes and their ratings, the Detroit hearing site for Macomb comp claims, the Livonia 2024 crash totals, and her approvals on 43 attorney-check and confirm passages
+  - The B3-29 doc carried a Southfield status-line URL, so the converter wrote it over the Southfield SSD page; that page was restored from git and the Sterling Heights page converted under its own slug (the body itself had no Southfield text)
+  - Verified: import 111 drafts, typecheck and production build clean (7 pages), the Sterling Heights SSD and nursing home pages, the Livonia car page and the restored Southfield SSD page render
+
 ### Open Questions
 
 - [ ] **PRE-LAUNCH — Text Us number.** Confirm with the firm whether (313) 406-7606 can receive SMS, or get a dedicated SMS number. Then set `SMS_NUMBER` in `src/data/contact.ts` (the Text buttons in the header and mobile bar appear automatically).

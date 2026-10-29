@@ -64,7 +64,7 @@ The MSP count includes trucks over 10,000 pounds and buses, so SMART buses on Va
 
 **Other defendants.** The shipper or broker that loaded the trailer or hired an unsafe carrier; the plant or logistics provider whose gate operations contributed; the maintenance contractor; the manufacturer of a failed component ([product liability](/personal-injury/product-liability)); and, for a government truck (City of Sterling Heights, the Department of Roads, MDOT, SMART), the agency under the motor vehicle exception to governmental immunity (MCL 691.1405).
 
-**If you were the truck driver.** Workers’ compensation pays your benefits, and your employer usually cannot be sued (MCL 418.131). If you were injured in your employer’s truck, no-fault benefits generally come from the insurer of that truck (MCL 500.3114(3)), coordinated with comp, which is paid first (MCL 500.3109(1)). You can also sue a third party, such as another driver or a plant whose gate operation caused the crash. See our [Sterling Heights workers’ compensation page](/personal-injury/workers-compensation).
+**If you were the truck driver.** Workers’ compensation pays your benefits, and your employer usually cannot be sued (MCL 418.131). If you were injured in your employer’s truck, no-fault benefits generally come from the insurer of that truck (MCL 500.3114(3)), coordinated with comp, which is paid first (MCL 500.3109(1)). You can also sue a third party, such as another driver or a plant whose gate operation caused the crash. See our [Sterling Heights workers’ compensation page](/personal-injury/workers-compensation/sterling-heights).
 
 ## The evidence, and how fast it disappears
 
