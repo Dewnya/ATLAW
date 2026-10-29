@@ -637,6 +637,12 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - New `hasCityPage()` in `cities-registry.ts` (true when `cityHref()` resolves to a hub, a personal-injury page or the original template). The header menu drops places and counties with no page, and the `/areas-served` index does the same. A production build, which leaves drafts out, now lists the 7 places with original pages instead of 25 with 18 falling back to the index; preview builds still list all 25. Checked with `vite preview` of the production build (7 menu entries, no draft banner, hub routes 404, original city pages render) and the dev server (25 entries)
   - Opened the PR from `mo-dev` into `Yahia-Dev` (the production branch behind atlaw-five.vercel.app)
 
+- [x] City practice pages, batch 17: Farmington Hills car, personal injury, truck, motorcycle, wrongful death (Oct 29, 2026) — B3-51 to B3-55
+  - 121 reviewer comments applied: the 2024 city totals (2,672 / 540 / 3), the Orchard Lake roundabout at 14 Mile (109 crashes in 2024, 118 and 9 injuries in 2025) and her rewrites dropping the Michigan-left framing for Orchard Lake, the roundabout yield cites (MCL 257.649(6), 257.642(1)), Grand River and the interchange ramps as MDOT's with Eight Mile moved to the Road Commission, the Oakland County motorcycle figures (310 / 219 / 16), the two certified nursing homes, the default liability limits, the motorcycle full-lane cite (MCL 257.660(2)), and her approvals on 43 attorney-check and confirm passages; her delete instructions removed the city-level truck and motorcycle rows
+  - The personal injury page's caseload confirm was cleared on her approval of the same line on the car page
+  - Open items: 2 she did not answer (the Farmington Hills police report process on the car and motorcycle pages; she approved it on the personal injury page)
+  - Verified: import 159 drafts, typecheck and production build clean (7 pages); the five pages render and the Farmington Hills hub links to them
+
 ### Open Questions
 
 - [ ] **PRE-LAUNCH — Text Us number.** Confirm with the firm whether (313) 406-7606 can receive SMS, or get a dedicated SMS number. Then set `SMS_NUMBER` in `src/data/contact.ts` (the Text buttons in the header and mobile bar appear automatically).
