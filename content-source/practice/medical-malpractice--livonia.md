@@ -55,9 +55,9 @@ A bad outcome is not malpractice. Malpractice is a bad outcome caused by a provi
 
 **Livonia Fire & Rescue EMS.** A City agency. Claims against EMS personnel are limited by the Emergency Medical Services Act to gross negligence or willful misconduct (MCL 333.20965), a limit that also covers the City as the life support agency. Private ambulance companies have the same gross-negligence protection.
 
-**Nursing homes.** Livonia has five Medicare-certified nursing homes, and their claims are sometimes malpractice and sometimes ordinary negligence; which one it is decides whether the Notice of Intent, the two-year period, and the cap apply. A nurse’s wound-care decision is malpractice; leaving a resident unsupervised against the care plan is usually negligence. See our [Livonia nursing home abuse page](/personal-injury/nursing-home-abuse).
+**Nursing homes.** Livonia has five Medicare-certified nursing homes, and their claims are sometimes malpractice and sometimes ordinary negligence; which one it is decides whether the Notice of Intent, the two-year period, and the cap apply. A nurse’s wound-care decision is malpractice; leaving a resident unsupervised against the care plan is usually negligence. See our [Livonia nursing home abuse page](/personal-injury/nursing-home-abuse/livonia).
 
-**Workplace clinics.** Occupational clinics and employer medical departments that treat injured workers are a separate case: a claim against a provider employed by your own employer may be barred by workers’ compensation exclusivity, while an outside clinic or physician can be sued for malpractice. See our [Livonia workers’ compensation page](/personal-injury/workers-compensation).
+**Workplace clinics.** Occupational clinics and employer medical departments that treat injured workers are a separate case: a claim against a provider employed by your own employer may be barred by workers’ compensation exclusivity, while an outside clinic or physician can be sued for malpractice. See our [Livonia workers’ compensation page](/personal-injury/workers-compensation/livonia).
 
 ## The Livonia malpractice cases we see
 

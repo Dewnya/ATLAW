@@ -583,6 +583,10 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - Left open: 4 highlighted verify notes she did not answer (the I-275 crash area and the hospital list on the truck and motorcycle pages, the police-report note, the hospital name history on the malpractice page)
   - Verified: import 116 drafts, typecheck and production build clean (7 pages), the Livonia hub, malpractice and truck pages render
 
+- [x] City practice pages, batch 14 of 15: Livonia workers' compensation, dog bite, Social Security Disability, nursing home; Canton car (Oct 28, 2026) — B3-37 to B3-41
+  - Canton added to the city registry (Wayne County, Michigan fallback photo). 115 reviewer comments applied; the four Livonia pages have 0 open items and the Canton page keeps one unanswered verify note (the 2025 Ford Road at Lilley count). Filled in: the Livonia field office (34010 Plymouth Road) and hearing office (19575 Victor Parkway) addresses and the 57 percent approval rate, the 12.0 percent disability share, the five certified nursing homes (none rated 1 or 2 stars), the 2016 Seven Mile license suspension and the hidden-camera felony passage, the Detroit hearing site for Wayne comp claims, the Canton 2024 crash totals and the Ford Road boulevard rebuild, and her approvals on 55 attorney-check and confirm passages; the Livonia bite-count row deleted on her instruction
+  - Verified: import 121 drafts, typecheck and production build clean (7 pages), the Canton car, Livonia SSD and Livonia nursing home pages render
+
 ### Open Questions
 
 - [ ] **PRE-LAUNCH — Text Us number.** Confirm with the firm whether (313) 406-7606 can receive SMS, or get a dedicated SMS number. Then set `SMS_NUMBER` in `src/data/contact.ts` (the Text buttons in the header and mobile bar appear automatically).
