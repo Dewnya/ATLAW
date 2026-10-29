@@ -1,0 +1,1288 @@
+{
+ "slug": "areas-served",
+ "section": "areas-served",
+ "city": "westland",
+ "status": "draft",
+ "seoTitle": "Westland Personal Injury Lawyers: Ford Road, Wayne Road, Warren, and the 18th District Court",
+ "seoDescription": "Injured in Westland? ATLAW’s personal injury lawyers handle Ford Road, Wayne Road, and Warren crashes, Westland Shopping Center and apartment-complex falls, nursing home neglect at the city’s four facilities, Hines Drive injuries, and no-fault claims, with the 18th District and Third Circuit courts, Garden City Hospital, and the deadlines that apply. Dearborn office, twenty minutes east on Ford Road.",
+ "h1": "Personal Injury Law Firm Serving Westland, MI",
+ "tagline": "Wayne County’s fourth-largest city, on the Ford Road and Wayne Road grid, with a renter share and a senior-care count that shape its injuries.",
+ "primaryKeyword": "personal injury law firm westland (no measured volume); page written to “personal injury lawyer westland mi” (30/mo)",
+ "secondaryKeywords": [
+  "car accident lawyer westland mi (40; served by /personal-injury/auto-accidents/westland)",
+  "westland car accident lawyer (20)",
+  "westland michigan injury lawyer"
+ ],
+ "intro": [
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "Westland is a city of about 83,000 in western Wayne County, laid out on the grid between Joy Road and Michigan Avenue, Inkster and Hix, with Ford Road running through its center, Wayne Road and Warren Road crossing it at the Westland Shopping Center, and I-275 along its western edge. It is a city of apartment complexes and mid-century subdivisions, with about 39 percent of occupied housing units rented and five Medicare- or Medicaid-certified nursing homes, and its injuries follow that profile: intersection crashes on Ford and Wayne, pedestrian crashes between the complexes and the retail, falls in the stores and the complexes, and neglect in the senior facilities. Hines Drive, the county parkway along the Rouge at the city’s northern edge, adds its own crashes and park injuries. In 2024, Westland recorded 1,604 traffic crashes, with 545 people injured and three killed."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "ATLAW is a personal injury firm in Dearborn, twenty minutes east on Ford Road. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across southeast Michigan, Westland residents among them. This page explains what is particular about a Westland injury claim: where the injuries happen, who the defendants usually are, which courts hear the cases, and the deadlines that end them. Our "
+    },
+    {
+     "t": "link",
+     "href": "/personal-injury/personal-injury/wayne-county",
+     "c": [
+      {
+       "t": "text",
+       "v": "Wayne County page"
+      }
+     ]
+    },
+    {
+     "t": "text",
+     "v": " covers the county as a whole."
+    }
+   ]
+  }
+ ],
+ "sections": [
+  {
+   "id": "westland-injury-numbers-2024",
+   "heading": "Westland injury numbers, 2024",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Measure"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Figure"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Source"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "Westland crashes / injured / killed"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "1,604 / 545 / 3"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MTCF city profile, 2024"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Wayne County crashes / injured / killed"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "50,355 / 16,458 / 177"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MSP, Michigan Traffic Crash Facts 2024"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Wayne County pedestrian-involved crashes"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "637 (40 fatal)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MSP, Pedestrian Crash Report 2020–2024"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Wayne County alcohol-involved crashes"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "1,331"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MSP, 2024"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Medicare-certified nursing homes in Westland"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "4"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Medicare Care Compare"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Michigan crashes / injured / killed"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "288,880 / 71,316 / 1,099"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MSP, 2024"
+        }
+       ]
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "where-westland-injuries-happen",
+   "heading": "Where Westland injuries happen",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Ford Road (M-153)."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " The city’s spine, five to seven lanes from Inkster to I-275, lined with retail, restaurants, and apartment complexes, with signals at Inkster, Middlebelt, Merriman, Wayne Road, Newburgh, and Hix and dozens of driveways between them. Left-turn and red-light crashes at the signals, driveway crashes at the strips, rear-end crashes in the stacked turn lanes, and pedestrian crashes between the complexes and the stores. Ford Road is MDOT’s."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Wayne Road and Warren Road."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Wayne Road north and south through the center of the city, past the Westland Shopping Center, City Hall, and the 18th District Court on Ford; Warren Road east and west past the mall and the Westland Sports Arena. The Wayne and Warren intersection at the mall, and the Wayne and Ford intersection, carry substantial retail traffic, creating opportunities for intersection and parking-lot crashes; the mall’s lots carry the pedestrian strikes and the falls. See our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/premises-liability",
+       "c": [
+        {
+         "t": "text",
+         "v": "premises liability page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": "."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Cherry Hill, Joy, Palmer, Michigan Avenue, and the north-south arterials."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Cherry Hill, Joy, and Palmer across; Michigan Avenue (US-12) along the southern edge; Inkster, Middlebelt, Merriman, Newburgh, Hix, and Venoy north and south. Intersection crashes at the signals, school-zone crashes near the Wayne-Westland and Livonia schools, and pedestrian and bicycle crashes near the complexes. Michigan Avenue is MDOT’s; responsibility for the other roads varies by segment between Wayne County and the City of Westland."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "I-275."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Along the city’s western edge, with the Ford Road and Cherry Hill/Michigan Avenue interchanges and the I-96/M-14 stack to the north in Livonia. Merge and weave crashes at the Ford Road interchange and rear-end crashes in the stop-and-go, and the heavy trucks that use I-275 to reach the Plymouth Road and Michigan Avenue industrial corridors. See our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/truck-accidents",
+       "c": [
+        {
+         "t": "text",
+         "v": "Westland truck accident page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": "."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Hines Drive."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " The Wayne County parkway along the Middle Rouge at the city’s northern edge, a winding two-lane road through Hines Park with its picnic areas, trails, and flood-prone low spots. Run-off-road and head-on crashes on the curves, bicycle and pedestrian crashes where the trail meets the drive, and park injuries. Hines Drive and Hines Park are Wayne County’s, under the Wayne County Parks division and the Department of Public Services; a road-defect claim is against the county with 120-day notice, and park injuries face the recreational-use and immunity defenses that make them difficult. See our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/bicycle-accidents",
+       "c": [
+        {
+         "t": "text",
+         "v": "bicycle accident page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": "."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "The apartment complexes."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " About 39 percent of Westland’s occupied housing units are rented, concentrated in large complexes along Ford Road, Warren, Joy, Cherry Hill, and Newburgh, alongside several manufactured-home communities. Falls on stairs and ice, inadequate lighting and security, snow and ice in the lots, rental-housing injuries under MCL 554.139, manufactured-home-park injuries, dog bites under MCL 287.351, and sidewalk injuries under the two-inch rule (MCL 691.1402a). See our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/tenant-injuries",
+       "c": [
+        {
+         "t": "text",
+         "v": "tenant injury"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " and "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/dog-bites",
+       "c": [
+        {
+         "t": "text",
+         "v": "dog bite"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " pages."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "The senior-care facilities."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Five Medicare- or Medicaid-certified nursing homes, plus assisted-living and senior apartment communities along Ford Road, Warren, and Newburgh. Falls during transfers, pressure injuries, medication errors, dehydration, and neglect, with the distinction between ordinary negligence (three-year deadline) and medical malpractice (two years, with the 182-day notice of intent under MCL 600.2912b) requiring careful analysis. See our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/nursing-home-abuse",
+       "c": [
+        {
+         "t": "text",
+         "v": "nursing home abuse page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": "."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-is-different-about-a-westland-claim",
+   "heading": "What is different about a Westland claim",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Coverage."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Westland’s drivers carry a mix of policies, and uninsured and minimum-limits drivers are more common on Ford Road and Michigan Avenue than in the northern suburbs. Your own no-fault insurer pays your medical bills and lost wages regardless of fault (MCL 500.3107), or the Michigan Assigned Claims Plan does if no household policy applies (MCL 500.3172, capped at $250,000); the claim against the at-fault driver requires a threshold injury (MCL 500.3135) and recovery may depend on the at-fault driver’s insurance, available assets, and any uninsured or underinsured motorist coverage. Michigan’s default bodily-injury liability limits are $250,000 per person and $500,000 per accident, although drivers may select limits as low as $50,000 per person. We review every policy in the household before we value a Westland claim. See our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/auto-accidents",
+       "c": [
+        {
+         "t": "text",
+         "v": "Westland car accident page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ", "
+      },
+      {
+       "t": "link",
+       "href": "about:blank",
+       "c": [
+        {
+         "t": "text",
+         "v": "no-fault insurance guide"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ", and "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/uninsured-motorist-claims",
+       "c": [
+        {
+         "t": "text",
+         "v": "uninsured motorist page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": "."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Three road agencies."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Wayne Road, Warren, Cherry Hill, Joy, Palmer, Inkster, Middlebelt, Merriman, Newburgh, Hix, and Hines Drive may fall under Wayne County or City of Westland jurisdiction depending on the segment, while Hines Drive is maintained by Wayne County. A crash caused by a defect in the traveled roadway may implicate the highway exception to governmental immunity, MCL 691.1402. Signal malfunctions and sight obstructions require separate legal analysis."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Government vehicles."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Crashes involving Westland Police and Fire vehicles, SMART buses, Wayne-Westland and Livonia school buses, and county road and parks vehicles may fall under the Governmental Tort Liability Act’s motor vehicle exception (MCL 691.1405), depending on ownership, operation, and the circumstances of the crash. See our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/bus-accidents",
+       "c": [
+        {
+         "t": "text",
+         "v": "bus accident page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": "."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "The 18th District and the Third Circuit."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Claims up to $25,000, including mini tort claims for vehicle damage (MCL 500.3135(3)(e), up to $3,000), are filed in the 18th District Court at 36675 Ford Road, which serves Westland. Injury suits over $25,000 go to the Third Judicial Circuit Court at the Coleman A. Young Municipal Center in Detroit. Wrongful death cases may require estate proceedings in Wayne County Probate Court, while the lawsuit itself proceeds in the court with jurisdiction. Settlements involving minors require court approval under MCR 2.420."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "The hospitals."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Garden City Hospital on Inkster Road, just across the city line, and Corewell Health Wayne Hospital in Wayne treat injured Westland residents; Trinity Health Livonia, Corewell Health Dearborn, and Detroit’s Level I trauma centers also treat patients with serious injuries."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-cases-we-handle-in-westland",
+   "heading": "The cases we handle in Westland",
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "link",
+        "href": "/personal-injury/auto-accidents",
+        "c": [
+         {
+          "t": "text",
+          "v": "Car accidents"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " and "
+       },
+       {
+        "t": "link",
+        "href": "/personal-injury/car-accident-insurance",
+        "c": [
+         {
+          "t": "text",
+          "v": "no-fault benefit claims"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "link",
+        "href": "/personal-injury/truck-accidents",
+        "c": [
+         {
+          "t": "text",
+          "v": "Truck accidents"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " on I-275, Ford Road, and Michigan Avenue"
+       }
+      ],
+      [
+       {
+        "t": "link",
+        "href": "/personal-injury/motorcycle-accidents",
+        "c": [
+         {
+          "t": "text",
+          "v": "Motorcycle"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", "
+       },
+       {
+        "t": "link",
+        "href": "/personal-injury/pedestrian-accidents",
+        "c": [
+         {
+          "t": "text",
+          "v": "pedestrian"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", and "
+       },
+       {
+        "t": "link",
+        "href": "/personal-injury/bicycle-accidents",
+        "c": [
+         {
+          "t": "text",
+          "v": "bicycle"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " crashes, including on Hines Drive"
+       }
+      ],
+      [
+       {
+        "t": "link",
+        "href": "/personal-injury/bus-accidents",
+        "c": [
+         {
+          "t": "text",
+          "v": "Bus accidents"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " involving SMART and the school districts"
+       }
+      ],
+      [
+       {
+        "t": "link",
+        "href": "/personal-injury/rideshare-accidents",
+        "c": [
+         {
+          "t": "text",
+          "v": "Rideshare accidents"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "link",
+        "href": "/personal-injury/drunk-driving-accidents",
+        "c": [
+         {
+          "t": "text",
+          "v": "Drunk driving"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " crashes and dram shop claims against the Ford Road and Wayne Road bars and restaurants"
+       }
+      ],
+      [
+       {
+        "t": "link",
+        "href": "/personal-injury/slip-and-fall",
+        "c": [
+         {
+          "t": "text",
+          "v": "Slip and fall"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " and "
+       },
+       {
+        "t": "link",
+        "href": "/personal-injury/premises-liability",
+        "c": [
+         {
+          "t": "text",
+          "v": "premises liability"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " at the Westland Shopping Center, the strips, and the apartment complexes"
+       }
+      ],
+      [
+       {
+        "t": "link",
+        "href": "/personal-injury/tenant-injuries",
+        "c": [
+         {
+          "t": "text",
+          "v": "Tenant injuries"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "link",
+        "href": "/personal-injury/dog-bites",
+        "c": [
+         {
+          "t": "text",
+          "v": "Dog bites"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "link",
+        "href": "/personal-injury/nursing-home-abuse",
+        "c": [
+         {
+          "t": "text",
+          "v": "Nursing home abuse and neglect"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " at the city’s four facilities"
+       }
+      ],
+      [
+       {
+        "t": "link",
+        "href": "/personal-injury/medical-malpractice",
+        "c": [
+         {
+          "t": "text",
+          "v": "Medical malpractice"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " and "
+       },
+       {
+        "t": "link",
+        "href": "/personal-injury/birth-injuries",
+        "c": [
+         {
+          "t": "text",
+          "v": "birth injuries"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "link",
+        "href": "/personal-injury/workers-compensation",
+        "c": [
+         {
+          "t": "text",
+          "v": "Workers’ compensation"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " and "
+       },
+       {
+        "t": "link",
+        "href": "/personal-injury/product-liability",
+        "c": [
+         {
+          "t": "text",
+          "v": "product liability"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "link",
+        "href": "/personal-injury/wrongful-death",
+        "c": [
+         {
+          "t": "text",
+          "v": "Wrongful death"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "link",
+        "href": "/personal-injury/brain-injury",
+        "c": [
+         {
+          "t": "text",
+          "v": "Brain injuries"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " and "
+       },
+       {
+        "t": "link",
+        "href": "/personal-injury/spinal-cord-injury",
+        "c": [
+         {
+          "t": "text",
+          "v": "spinal cord injuries"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "link",
+        "href": "/disability/social-security-disability",
+        "c": [
+         {
+          "t": "text",
+          "v": "Social Security disability"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " and "
+       },
+       {
+        "t": "link",
+        "href": "/disability/short-long-term-disability",
+        "c": [
+         {
+          "t": "text",
+          "v": "long-term disability"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " for Westland residents who cannot return to work"
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "deadlines-that-apply-to-westland-claims",
+   "heading": "Deadlines that apply to Westland claims",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Claim"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Deadline"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Statute"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "Negligence (crash, fall, dog bite)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "3 years from injury"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5805(2)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Written notice to your no-fault insurer"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "1 year from the crash"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 500.3145(1)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Road or sidewalk defect against the City of Westland or Wayne County (incl. Hines Drive)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Written notice within 120 days"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 691.1404"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Defect on Ford Road, Michigan Avenue, or I-275 (MDOT)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Written notice within 120 days, filed in the Court of Claims"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 691.1404"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Dram shop (bar that served a drunk driver)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Suit generally within two years; written notice to defendants within 120 days after entering an attorney-client relationship to pursue a dram shop claim, subject to statutory exceptions"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 436.1801"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Medical malpractice, including nursing home clinical negligence"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "2 years, 182-day notice of intent first"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5805(8), 600.2912b"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Social Security disability appeal"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "60 days from each denial"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "20 CFR 404.909, 404.933"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Injured person under 18"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Generally, one year after turning 18 if the ordinary limitations period has expired; special rules apply"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5851(1)"
+        }
+       ]
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "why-westland-clients-call-atlaw",
+   "heading": "Why Westland clients call ATLAW",
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "text",
+        "v": "A Dearborn office twenty minutes east on Ford Road; 13 years, more than 10,000 cases, more than $100 million recovered."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Regular practice in the 18th District and the Third Circuit, and with the insurers, the Assigned Claims Plan, Wayne County, MDOT, SMART, and the landlords, retailers, and facilities that defend Westland claims."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Nursing home cases handled with the negligence-versus-malpractice distinction in mind from the first call, so the right deadline is met."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Every household policy reviewed for UM/UIM before the claim is valued."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Consultations are available at our Dearborn office, by phone, or by video. Home and hospital visits can also be accommodated when needed."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "No fee unless we recover money for you. The first conversation is free. ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Languages: English, Arabic, French, Mandarin, Urdu, and Spanish."
+       }
+      ]
+     ]
+    }
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Where are the crashes in Westland?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "At the Ford Road signals from Inkster to Newburgh, at Wayne and Warren by the mall, at Wayne and Ford, on Michigan Avenue, and at the I-275 interchange. In 2024, Westland recorded 1,604 traffic crashes, with 545 people injured and three killed. Wayne County as a whole recorded 50,355 crashes, 16,458 injuries, and 177 deaths in 2024."
+    }
+   ]
+  },
+  {
+   "question": "I was hurt in my apartment complex in Westland. Who is responsible?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Potentially the landlord, management company, or maintenance contractor, under Michigan’s rental-housing statute (MCL 554.139) and premises liability law; since Kandil-Elsayed (2023), the obviousness of the hazard is considered when evaluating breach of duty and comparative fault rather than automatically ending the claim. Prior complaints, work orders, and incident reports are the evidence; request them early. "
+    },
+    {
+     "t": "strong",
+     "c": [
+      {
+       "t": "placeholder",
+       "kind": "ATTORNEY CHECK",
+       "v": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "question": "My parent was injured in a Westland nursing home. Is that malpractice or negligence?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "It depends on who did what. A fall during a transfer or a pressure injury from inadequate turning may involve ordinary negligence or medical malpractice, depending on whether the alleged failure requires professional medical judgment. Ordinary negligence generally has a three-year deadline; medical malpractice generally has a two-year deadline and requires advance notice of intent. Treat the shorter deadline as the real one."
+    }
+   ]
+  },
+  {
+   "question": "I was hurt on Hines Drive or in Hines Park. Who do I claim against?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "For a crash with another driver, the driver, through no-fault and a threshold claim. For a road defect on Hines Drive, Wayne County, with written notice within 120 days. For an injury in the park itself, the county, subject to the recreational-use and governmental-immunity defenses that make park claims difficult. "
+    },
+    {
+     "t": "strong",
+     "c": [
+      {
+       "t": "placeholder",
+       "kind": "ATTORNEY CHECK",
+       "v": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "question": "Where would my Westland injury case be filed?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Claims up to $25,000, including mini tort claims, in the 18th District Court on Ford Road; injury suits over $25,000 in the Third Judicial Circuit Court in Detroit."
+    }
+   ]
+  },
+  {
+   "question": "The driver who hit me on Ford Road had no insurance. What now?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Your own no-fault insurer, a household member’s, or the Assigned Claims Plan pays your medical bills and lost wages regardless. Your pain-and-suffering claim depends on whether you carry uninsured motorist coverage; without it, the claim is worth what the uninsured driver can personally pay."
+    }
+   ]
+  },
+  {
+   "question": "How much does it cost to hire you?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Nothing up front, and no fee unless we recover money for you. Michigan caps contingency fees in personal injury cases at one-third of the recovery (MCR 8.121)."
+    }
+   ]
+  },
+  {
+   "question": "How long do I have?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Three years for most injury suits, one year to notify your no-fault insurer in writing, two years for nursing home clinical negligence, and as little as 120 days for a claim against the City of Westland or Wayne County."
+    }
+   ]
+  }
+ ],
+ "cta": {
+  "id": "talk-to-a-westland-injury-lawyer",
+  "heading": "Talk to a Westland injury lawyer",
+  "blocks": [
+   {
+    "t": "p",
+    "c": [
+     {
+      "t": "text",
+      "v": "If you or a family member was injured anywhere in Westland, call "
+     },
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "text",
+        "v": "(313) 406-7606"
+       }
+      ]
+     },
+     {
+      "t": "text",
+      "v": " or send the form on this page. We will tell you what your claim is, which insurers and agencies are involved, which deadlines apply, and what to do next. The conversation is free, and there is no fee unless we recover money for you."
+     }
+    ]
+   },
+   {
+    "t": "p",
+    "c": [
+     {
+      "t": "em",
+      "c": [
+       {
+        "t": "text",
+        "v": "This page is general information about Michigan law as of October 2026 and is not legal advice. Crash figures are from the Michigan State Police, Michigan Traffic Crash Facts 2024. Results depend on the facts of each case, and past results do not guarantee a future outcome."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "wordCount": 2152,
+ "openItems": 2,
+ "source": {
+  "file": "areas-served__westland.docx",
+  "delivered": "2026-10-16"
+ }
+}

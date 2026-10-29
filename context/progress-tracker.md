@@ -606,6 +606,11 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - The link resolver now also handles bare practice names and the remaining hub list texts; hub links to Troy, Royal Oak and Dearborn Heights practice pages resolve to the statewide pages until those cities have practice copy
   - Verified: import 136 drafts, typecheck and production build clean (7 pages); the Livonia, Troy, Royal Oak and Dearborn Heights hubs render
 
+- [x] City hubs, batch 3 of 5: Westland, Taylor, Novi, Farmington Hills, West Bloomfield (Oct 28, 2026)
+  - 127 reviewer comments applied: 2024 crash totals for all five, the population corrections (Westland 83,000, Taylor 61,500, West Bloomfield 66,500), the renter shares and nursing-home counts (Westland five), the Vibe Credit Union Showplace rename and 305,000-square-foot figure, the Henry Ford Providence Novi and Corewell Farmington Hills hospital rewrites, the removal of the unsupported insurance-limit comparisons, and her rewrites of the road-jurisdiction, immunity, venue, coverage and UIM-sequencing passages on every page; the MDOT, dram shop and injured-child deadline rows carry her wording throughout. Standard visit and fee answers applied where she had not separately answered
+  - Open items: 4 she did not answer (Novi major employers, West Bloomfield whether to name boating injuries, two Westland FAQ attorney checks). The West Bloomfield tagline was reworded after her removal of the insurance-limits claim
+  - Verified: import 141 drafts, typecheck and production build clean (7 pages); the Novi, West Bloomfield and Taylor hubs render
+
 ### Open Questions
 
 - [ ] **PRE-LAUNCH — Text Us number.** Confirm with the firm whether (313) 406-7606 can receive SMS, or get a dedicated SMS number. Then set `SMS_NUMBER` in `src/data/contact.ts` (the Text buttons in the header and mobile bar appear automatically).
