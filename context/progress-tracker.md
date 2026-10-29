@@ -611,6 +611,11 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - Open items: 4 she did not answer (Novi major employers, West Bloomfield whether to name boating injuries, two Westland FAQ attorney checks). The West Bloomfield tagline was reworded after her removal of the insurance-limits claim
   - Verified: import 141 drafts, typecheck and production build clean (7 pages); the Novi, West Bloomfield and Taylor hubs render
 
+- [x] City hubs, batch 4 of 5: Rochester Hills, Pontiac, Waterford, Clinton Township, Macomb Township (Oct 28, 2026)
+  - 124 reviewer comments applied: 2024 crash totals for all five, the Rochester Hills population and Oakland University enrollment corrections (78,000; about 16,000 students) and the M-150 jurisdiction, the Pontiac 2024 estimate (62,528) and Sheriff and Waterford Regional Fire contracts, the Waterford lakes and airport rewrites, the corrected 2024 intersection figures on the two Macomb townships, the 41A Shelby division address, and her rewrites of the road-jurisdiction, immunity, venue, coverage, hospital and nursing-home passages on every page; the deadline tables carry her wording (Rochester Hills splits the MDOT and Oakland University rows; Macomb Township's three agency rows rebuilt). Her instruction notes that the auto-apply pasted in as copy (Macomb Township evidence practice) were replaced with the wording she asked for, and the duplicated Pontiac Telegraph paragraph was removed
+  - Open items: 2 she did not answer (Rochester Hills major employers, Pontiac renter share). The Rochester Hills tagline was reworded after her removal of the insurance-limits claim
+  - Verified: import 146 drafts, typecheck and production build clean (7 pages); the Pontiac, Clinton Township and Macomb Township hubs render
+
 ### Open Questions
 
 - [ ] **PRE-LAUNCH — Text Us number.** Confirm with the firm whether (313) 406-7606 can receive SMS, or get a dedicated SMS number. Then set `SMS_NUMBER` in `src/data/contact.ts` (the Text buttons in the header and mobile bar appear automatically).
