@@ -166,6 +166,9 @@ def convert(path: str) -> tuple[str, str]:
     slug = parts[1] if len(parts) > 1 else parts[0]
     # /personal-injury/<practice>/<city>: a city or county page for that practice.
     city = parts[2] if len(parts) > 2 else ""
+    # /areas-served/<city>: the city's hub page (areas-served--<city>.md, city: <city>).
+    if section_name == "areas-served" and len(parts) == 2:
+        slug, city = "areas-served", parts[1]
     status = "approved" if fields.get("status", "").lower().startswith("approved") else "draft"
     delivered = fields.get("delivered", "")
     try:

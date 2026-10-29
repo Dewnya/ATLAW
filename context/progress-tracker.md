@@ -593,6 +593,12 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - Links to the Canton comp, nursing home and rideshare pages (not in this batch) resolve to the statewide pages until those are written
   - Verified: import 126 drafts, typecheck and production build clean (7 pages), all five Canton pages render
 
+- [x] City hub page type and hub batch 1 of 5: Detroit, Dearborn, Southfield, Warren, Sterling Heights (Oct 28, 2026) — areas-served docs with Arlyn's comments
+  - New `/areas-served/:city` route (`CityHubPage`) rendering the imported hub copy through `CityLongFormPage`: Areas We Serve breadcrumb, canonical and LegalService schema for the city, an "Our Practice Areas in <city>" grid of every practice page the city has, FAQ schema, draft banner and noindex. Converter and importer accept `section: areas-served` (slug `areas-served`, city required); hub routes prerender in preview builds (131 pages); a city without hub copy 404s
+  - 13 hub cities added to the city registry (Westland, Taylor, Royal Oak, Troy, Novi, Farmington Hills, West Bloomfield, Rochester Hills, Pontiac, Waterford, Clinton Township, Macomb Township, St. Clair Shores), so the header menu lists them; `cityHref()` now sends a city link to its hub when imported, else its personal-injury page, else the `/areas-served` index (so the 13 new menu entries resolve to the index until their hubs land). The areas-served index cards use the same rule. Every "<City> page" link on the practice pages now points at the hub where one exists
+  - 101 reviewer comments applied on the five hubs: the 2024 city crash totals, the corrected intersection figures (11 Mile/I-696 at Van Dyke 185, 18½ Mile 162, Telegraph at 12 Mile 106), the Parklane Towers West office and hours, the governmental-immunity, venue, hospital and sidewalk rewrites, and the Court of Claims 120-day row. Her standard fee, languages and consultation answers were applied to the matching placeholders she had not separately answered on Detroit and Dearborn. Open items: 1 (the Dearborn venue attorney check)
+  - Verified: import 131 drafts, typecheck, production build (7 pages) and preview build (131 pages) clean; Detroit and Warren hubs render with the practice grid; header menu targets checked
+
 ### Open Questions
 
 - [ ] **PRE-LAUNCH — Text Us number.** Confirm with the firm whether (313) 406-7606 can receive SMS, or get a dedicated SMS number. Then set `SMS_NUMBER` in `src/data/contact.ts` (the Text buttons in the header and mobile bar appear automatically).

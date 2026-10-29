@@ -62,6 +62,8 @@ export async function render(url: string): Promise<RenderResult> {
 export function prerenderRoutes(): string[] {
   return [
     ...practicesWithPages().map((p) => practiceHref(p.slug)),
-    ...cityContentPages().map((p) => `${p.practice === "personal-injury" ? "/personal-injury/personal-injury" : practiceHref(p.practice)}/${p.city}`),
+    ...cityContentPages().map((p) =>
+      p.practice === "areas-served" ? `/areas-served/${p.city}`
+        : `${p.practice === "personal-injury" ? "/personal-injury/personal-injury" : practiceHref(p.practice)}/${p.city}`),
   ];
 }

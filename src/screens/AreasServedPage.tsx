@@ -5,6 +5,7 @@ import { Header } from "../components/ATLAW/Header";
 import { Footer } from "../components/ATLAW/Footer";
 import { PageMeta } from "../components/ATLAW/PageMeta";
 import { cities } from "../data/cities";
+import { cityHref } from "../data/cities-registry";
 import { openIntakeModal } from "../components/ATLAW/IntakeModal";
 import { IntakeFormSection } from "../components/ATLAW/IntakeFormSection";
 import "./PersonalInjury.css";
@@ -197,7 +198,7 @@ export const AreasServedPage = (): JSX.Element => {
                     <Link
                       className="relative mt-5 inline-flex w-fit items-center gap-2 font-sans text-[13px] font-semibold uppercase tracking-[0.04em] transition-colors group-hover:text-white"
                       style={{ color: GOLD_BRIGHT }}
-                      to={`/personal-injury/auto-accidents/${c.slug}`}
+                      to={cityHref(c.slug)}
                     >
                       Learn More
                       <ArrowRight className="group-hover:translate-x-1" />

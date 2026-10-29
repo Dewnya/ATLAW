@@ -28,14 +28,17 @@ const sectionHeading = "font-serifDisplay font-normal leading-[1.12] tracking-[-
  * then the writers' copy exactly as the statewide long-form page shows it
  * (intro, table of contents, sections beside the sticky CTA, reviews, FAQs with
  * FAQPage schema, closing CTA), then the city template's related-page sections.
+ * A city hub (section "areas-served", at /areas-served/<city>) uses the same
+ * layout with an Areas We Serve breadcrumb and every practice page for the city.
  * Drafts show a banner, highlight open items and are kept out of search (noindex).
  */
 export const CityLongFormPage = ({ content, city }: { content: PracticeContent; city: CityInfo }): JSX.Element => {
+  const isHub = content.section === "areas-served";
   const entry = practiceEntry(content.slug);
-  const title = entry?.navLabel ?? content.h1;
+  const title = isHub ? "Personal Injury" : entry?.navLabel ?? content.h1;
   const practice = { slug: content.slug, title, tagline: content.tagline };
   const isDraft = content.status === "draft";
-  const path = `/${content.section}/${content.slug}/${city.slug}`;
+  const path = isHub ? `/areas-served/${city.slug}` : `/${content.section}/${content.slug}/${city.slug}`;
 
   useEffect(() => { window.scrollTo(0, 0); }, [content.slug, city.slug]);
 
@@ -139,7 +142,7 @@ export const CityLongFormPage = ({ content, city }: { content: PracticeContent; 
           </section>
         )}
 
-        <OtherPracticeAreasSection practice={practice} city={city} />
+        <OtherPracticeAreasSection practice={practice} city={city} heading={isHub ? `Our Practice Areas in ${city.name}` : undefined} />
         {/* The other-cities links point at the original city template, which exists only for the original practices. */}
         {practiceAreaBySlug[content.slug] && <OtherCitiesSection practice={practice} city={city} />}
         <IntakeFormSection />

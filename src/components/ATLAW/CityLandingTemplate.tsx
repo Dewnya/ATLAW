@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { Fragment, useState } from "react";
 import { Link } from "react-router-dom";
 import type { PracticeAreaPI } from "../../data/practice/pi/types";
 import type { CityData, CityInfo } from "../../data/cities";
@@ -89,41 +89,38 @@ const ChevronRight = () => (
 /** The practice fields the city sections need (the registry entry of an imported page is enough). */
 export type CityPractice = Pick<PracticeAreaPI, "slug" | "title" | "tagline">;
 
-export const CityHero = ({ practice, city, heroTitle, section = "personal-injury" }: { practice: CityPractice; city: CityInfo; heroTitle?: string; section?: "personal-injury" | "disability" }) => (
+/** The breadcrumb trail above a city page: ATLAW / section / practice / city (a hub: ATLAW / Areas We Serve / city). */
+const cityCrumbs = (practice: CityPractice, city: CityInfo, section: "personal-injury" | "disability" | "areas-served") => [
+  { label: "ATLAW", to: "/" },
+  ...(section === "areas-served" ? [{ label: "Areas We Serve", to: "/areas-served" }] : []),
+  ...(section === "personal-injury" ? [{ label: "Personal Injury", to: "/personal-injury" }] : []),
+  ...(section === "areas-served" || practice.slug === "personal-injury" ? [] : [{ label: practice.title, to: `/${section}/${practice.slug}` }]),
+  { label: city.name },
+];
+
+export const CityHero = ({ practice, city, heroTitle, section = "personal-injury" }: { practice: CityPractice; city: CityInfo; heroTitle?: string; section?: "personal-injury" | "disability" | "areas-served" }) => (
   <section
     aria-labelledby="city-hero-title"
     className="relative w-full overflow-hidden bg-white"
   >
     <Grain opacity="0.03" />
     <div className="relative mx-auto w-full max-w-[1320px] px-6 pb-12 pt-16 sm:px-10 md:pb-16 md:pt-20 lg:px-16 lg:pb-20 lg:pt-24">
-      <BreadcrumbSchema
-        items={[
-          { label: "ATLAW", to: "/" },
-          ...(section === "personal-injury" ? [{ label: "Personal Injury", to: "/personal-injury" }] : []),
-          ...(practice.slug === "personal-injury" ? [] : [{ label: practice.title, to: `/${section}/${practice.slug}` }]),
-          { label: city.name },
-        ]}
-      />
+      <BreadcrumbSchema items={cityCrumbs(practice, city, section)} />
       <nav
         aria-label="Breadcrumb"
         className="pi-reveal mb-6 font-sans text-[11.5px] font-semibold uppercase leading-none tracking-[0.2em]"
       >
         <ol className="flex flex-wrap items-center gap-x-3 gap-y-1" style={{ color: STONE }}>
-          <li><Link className="transition-colors hover:text-[#0B1F3A]" to="/">ATLAW</Link></li>
-          <li aria-hidden="true" className="text-[#0B1F3A]/30">/</li>
-          {section === "personal-injury" && (
-            <>
-              <li><Link className="transition-colors hover:text-[#0B1F3A]" to="/personal-injury">Personal Injury</Link></li>
-              <li aria-hidden="true" className="text-[#0B1F3A]/30">/</li>
-            </>
+          {cityCrumbs(practice, city, section).map((crumb, i, all) =>
+            i < all.length - 1 ? (
+              <Fragment key={crumb.label}>
+                <li><Link className="transition-colors hover:text-[#0B1F3A]" to={crumb.to ?? "/"}>{crumb.label}</Link></li>
+                <li aria-hidden="true" className="text-[#0B1F3A]/30">/</li>
+              </Fragment>
+            ) : (
+              <li key={crumb.label}><span aria-current="page" style={{ color: INK }}>{crumb.label}</span></li>
+            ),
           )}
-          {practice.slug !== "personal-injury" && (
-            <>
-              <li><Link className="transition-colors hover:text-[#0B1F3A]" to={`/${section}/${practice.slug}`}>{practice.title}</Link></li>
-              <li aria-hidden="true" className="text-[#0B1F3A]/30">/</li>
-            </>
-          )}
-          <li><span aria-current="page" style={{ color: INK }}>{city.name}</span></li>
         </ol>
       </nav>
 
@@ -560,12 +557,13 @@ const CityFAQSection = ({ city }: { city: CityData }) => (
 
 /* ─────────────────── 8. Other Practice Areas in [City] ─────────────────── */
 
-export const OtherPracticeAreasSection = ({ practice, city }: { practice: CityPractice; city: CityInfo }) => {
+export const OtherPracticeAreasSection = ({ practice, city, heading }: { practice: CityPractice; city: CityInfo; heading?: string }) => {
   // Only practices that have a page for this city: imported copy, or the original
-  // template where the city has hand-written data.
+  // template where the city has hand-written data. A city hub (practice
+  // "areas-served") lists every practice page for the city, the hub's own included.
   const hasTemplate = Boolean(cityBySlug(city.slug));
   const otherAreas = practiceRegistry
-    .filter((p) => p.slug !== practice.slug && p.slug !== "personal-injury")
+    .filter((p) => p.slug !== practice.slug && (practice.slug === "areas-served" || p.slug !== "personal-injury"))
     .filter((p) => hasCityContent(p.slug, city.slug) || (hasTemplate && p.slug in practiceAreaBySlug))
     .map((p) => [p.slug, { title: p.navLabel, section: p.section }] as const);
   if (!otherAreas.length) return null;
@@ -579,7 +577,7 @@ export const OtherPracticeAreasSection = ({ practice, city }: { practice: CityPr
           id="city-other-practices-heading"
           style={{ fontSize: "clamp(24px, 3.5vw, 40px)", fontVariationSettings: headlineAxes, color: INK }}
         >
-          Also Serving {city.name} For<span style={{ color: GOLD_ACCENT }}>:</span>
+          {heading ?? `Also Serving ${city.name} For`}<span style={{ color: GOLD_ACCENT }}>{heading ? "." : ":"}</span>
         </h2>
 
         <div className="mt-10 grid grid-cols-1 gap-5 md:mt-12 md:grid-cols-2 lg:grid-cols-3 lg:gap-6">

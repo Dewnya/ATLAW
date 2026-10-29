@@ -162,6 +162,7 @@ function checkLink(href) {
   if (STATIC_ROUTES.has(path)) return null;
   const [, section, slug, city] = path.split("/");
   if ((section === "personal-injury" || section === "disability") && practices.get(slug) === section && (!city || citySlugs.has(city))) return null;
+  if (section === "areas-served" && slug && !city && citySlugs.has(slug)) return null;
   return `link to unknown page ${href}`;
 }
 
@@ -171,7 +172,11 @@ function importPage(file) {
   const { meta, body } = parseFrontMatter(readFileSync(join(SOURCE, file), "utf-8"), file);
 
   for (const key of REQUIRED) if (!meta[key]) errors.push(`missing "${key}"`);
-  if (meta.slug && !practices.has(meta.slug)) errors.push(`slug "${meta.slug}" is not in the practice registry`);
+  // City hubs: slug "areas-served", section "areas-served", city required (served at /areas-served/<city>).
+  const isHub = meta.section === "areas-served";
+  if (isHub && meta.slug !== "areas-served") errors.push(`an areas-served page must have slug "areas-served", not "${meta.slug}"`);
+  if (isHub && !meta.city) errors.push("an areas-served page must name its city");
+  if (meta.slug && !isHub && !practices.has(meta.slug)) errors.push(`slug "${meta.slug}" is not in the practice registry`);
   if (meta.slug && practices.get(meta.slug) && practices.get(meta.slug) !== meta.section)
     errors.push(`section "${meta.section}" does not match the registry ("${practices.get(meta.slug)}")`);
   const key = meta.city ? `${meta.slug}--${meta.city}` : meta.slug;

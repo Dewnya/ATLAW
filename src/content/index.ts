@@ -35,7 +35,12 @@ export const hasCityContent = (practice: string, city: string): boolean => loade
 
 export const cityContentLoader = (practice: string, city: string): Loader | undefined => loaders.get(cityKey(practice, city));
 
-/** Every imported city or county page, for the prerender list. */
+// City hubs are stored as areas-served--<city>.json (served at /areas-served/<city>).
+export const hasHubContent = (city: string): boolean => loaders.has(cityKey("areas-served", city));
+
+export const hubContentLoader = (city: string): Loader | undefined => loaders.get(cityKey("areas-served", city));
+
+/** Every imported city or county page (practice "areas-served" is the city hub), for the prerender list. */
 export const cityContentPages = (): { practice: string; city: string }[] =>
   [...loaders.keys()]
     .filter((key) => key.includes("--"))
