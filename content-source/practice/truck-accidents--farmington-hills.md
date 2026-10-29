@@ -65,7 +65,7 @@ The MSP count includes trucks over 10,000 pounds and buses, so SMART buses on Gr
 
 **Other defendants.** The shipper or broker that loaded the trailer or hired an unsafe carrier; the facility or logistics provider whose dock operations contributed; the maintenance contractor; the manufacturer of a failed component ([product liability](/personal-injury/product-liability)); and, for a government truck (City of Farmington Hills, the Road Commission, MDOT, SMART), the agency under the motor vehicle exception to governmental immunity (MCL 691.1405).
 
-**If you were the truck driver.** Workers’ compensation pays your benefits, and your employer usually cannot be sued (MCL 418.131). If you were injured in your employer’s truck, no-fault benefits generally come from the insurer of that truck (MCL 500.3114(3)), coordinated with comp, which is paid first (MCL 500.3109(1)). You can also sue a third party, such as another driver or a facility whose dock operation caused the crash. See our [Farmington Hills workers’ compensation page](/personal-injury/workers-compensation).
+**If you were the truck driver.** Workers’ compensation pays your benefits, and your employer usually cannot be sued (MCL 418.131). If you were injured in your employer’s truck, no-fault benefits generally come from the insurer of that truck (MCL 500.3114(3)), coordinated with comp, which is paid first (MCL 500.3109(1)). You can also sue a third party, such as another driver or a facility whose dock operation caused the crash. See our [Farmington Hills workers’ compensation page](/personal-injury/workers-compensation/farmington-hills).
 
 ## The evidence, and how fast it disappears
 

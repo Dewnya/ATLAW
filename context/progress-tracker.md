@@ -643,6 +643,12 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - Open items: 2 she did not answer (the Farmington Hills police report process on the car and motorcycle pages; she approved it on the personal injury page)
   - Verified: import 159 drafts, typecheck and production build clean (7 pages); the five pages render and the Farmington Hills hub links to them
 
+- [x] City practice pages, batch 18: Farmington Hills slip and fall, medical malpractice, workers' compensation; Troy car and personal injury (Oct 29, 2026) — B3-56 to B3-60
+  - 129 reviewer comments applied: the Farmington Hills 65-and-older share (about 20 percent), the two certified nursing homes, the City's duty for sidewalks beside county and state roads, the Treasury-confirmed 2026 malpractice caps, the EMS Act standard and the corrected death-claim deadline, the Detroit hearing site for Oakland comp claims since the Pontiac site moved (April 1, 2025), the Troy 2024 totals (2,480 / 686 / 7, 459 on I-75), her rewrite that the Road Commission runs Troy's signals and many of its major roads, the PIP opt-out rule (Medicare Parts A and B only, MCL 500.3107d), and her approvals on 54 attorney-check and confirm passages
+  - The caseload confirm on the two Troy pages was cleared with her "Claims handled in…" rewrite, as on earlier city pages
+  - Open items: 2 she did not answer (the Corewell Farmington Hills name-change dates on the malpractice page; Troy's highest-crash locations on the car page)
+  - Verified: import 164 drafts, typecheck and production build clean (7 pages); the pages render and the Troy hub links to the two Troy pages
+
 ### Open Questions
 
 - [ ] **PRE-LAUNCH — Text Us number.** Confirm with the firm whether (313) 406-7606 can receive SMS, or get a dedicated SMS number. Then set `SMS_NUMBER` in `src/data/contact.ts` (the Text buttons in the header and mobile bar appear automatically).
