@@ -578,6 +578,11 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - The B3-29 doc carried a Southfield status-line URL, so the converter wrote it over the Southfield SSD page; that page was restored from git and the Sterling Heights page converted under its own slug (the body itself had no Southfield text)
   - Verified: import 111 drafts, typecheck and production build clean (7 pages), the Sterling Heights SSD and nursing home pages, the Livonia car page and the restored Southfield SSD page render
 
+- [x] City practice pages, batch 13 of 15: Livonia personal injury, truck, motorcycle, wrongful death, medical malpractice (Oct 28, 2026) — B3-32 to B3-36
+  - 113 reviewer comments applied: the Livonia 2024 crash and death totals, the five certified nursing homes (down from seven), the Wayne County motorcycle figures (509 / 367 / 24), the I-96 service-drive and Hines Drive jurisdiction rewrites, the 2011 and 2016 I-96 truck crash examples, the Livonia Fire & Rescue EMS name and EMS Act standard, the Wayne County probate court address, and her approvals on 47 attorney-check and confirm passages; her delete instructions removed the city-level truck and motorcycle rows
+  - Left open: 4 highlighted verify notes she did not answer (the I-275 crash area and the hospital list on the truck and motorcycle pages, the police-report note, the hospital name history on the malpractice page)
+  - Verified: import 116 drafts, typecheck and production build clean (7 pages), the Livonia hub, malpractice and truck pages render
+
 ### Open Questions
 
 - [ ] **PRE-LAUNCH — Text Us number.** Confirm with the firm whether (313) 406-7606 can receive SMS, or get a dedicated SMS number. Then set `SMS_NUMBER` in `src/data/contact.ts` (the Text buttons in the header and mobile bar appear automatically).
