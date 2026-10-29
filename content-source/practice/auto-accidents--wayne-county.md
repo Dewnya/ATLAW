@@ -87,7 +87,7 @@ Our [full checklist](about:blank) covers the first day, week, month, and year.
 - Every household policy reviewed before the claim is valued.
 - No fee unless we recover money for you. The first conversation is free. ** ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs.**
 - **Languages.** Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish.
-- **Consultations.** We meet clients at our Dearborn office, by phone, or by video. Home and hospital visits can also be accommodated when needed.
+- **Consultations.** We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 
 ## Frequently asked questions
 

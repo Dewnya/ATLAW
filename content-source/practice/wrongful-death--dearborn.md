@@ -86,7 +86,7 @@ The savings provision gives a personal representative time to be appointed and t
 - Funeral and burial customs come first; the legal steps are worked around them.
 - Daily work in the Third Circuit and the Wayne County Probate Court.
 - No attorney fee or case costs unless we recover money for the estate; fees and costs are approved by the probate court. The first conversation is free.
-- Consultations can be accommodated in English, Arabic, French, Mandarin, Urdu, and Spanish. Home, hospital, and video consultations can be arranged as needed.
+- Consultations can be accommodated in English, Arabic, French, Mandarin, Urdu, and Spanish. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 
 ## Frequently asked questions
 

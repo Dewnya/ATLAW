@@ -106,7 +106,7 @@ Our [full checklist](about:blank) covers the first day, week, month, and year.
 - Prompt attention to identifying the coverage period and preserving the app, GPS, and trip data before it is lost.
 - Every policy in the chain read: yours, the household’s, the driver’s, the company’s, the other driver’s.
 - No fee unless we recover money for you. ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs. The first conversation is free.
-- Consultations can be accommodated in English, Arabic, French, Mandarin, Urdu, and Spanish. Home, hospital, and video consultations can be arranged as needed.
+- Consultations can be accommodated in English, Arabic, French, Mandarin, Urdu, and Spanish. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 ## Frequently asked questions
 
 **I was a passenger in an Uber that crashed in Detroit. Who pays my medical bills?** Your own auto insurer first, or a policy held by your spouse or a relative you live with; if there is none, the Assigned Claims Plan. Being a paying passenger does not put Uber’s insurer first for your medical bills; it does make the $1 million policy available for your injury claim.

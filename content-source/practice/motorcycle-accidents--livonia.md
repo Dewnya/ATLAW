@@ -112,7 +112,7 @@ Rider injury suits over $25,000 go to the Third Judicial Circuit Court in Detroi
 - Every vehicle involved and every policy in the priority chain identified before the no-fault application is filed.
 - The road agency identified before the notice runs.
 - No fee unless we recover money for you. The first conversation is free.
-- Consultations can be accommodated in English, Arabic, French, Mandarin, Urdu, and Spanish. Home, hospital, and video consultations can be arranged as needed.
+- Consultations can be accommodated in English, Arabic, French, Mandarin, Urdu, and Spanish. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 
 ## Frequently asked questions
 

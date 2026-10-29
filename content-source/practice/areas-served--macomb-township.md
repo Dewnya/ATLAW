@@ -100,7 +100,7 @@ ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled mo
 - Prompt identification of the potentially responsible defendant: county, state, township, or contractor.
 - Prompt attention to camera footage, signal data, and witness evidence in intersection and roundabout cases.
 - Every household policy reviewed for UM/UIM before the claim is valued.
-- Consultations are available at our Dearborn office, by phone, or by video. Home and hospital visits can also be accommodated when needed.
+- We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 - No fee unless we recover money for you. The first conversation is free. ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs.
 - Languages: English, Arabic, French, Mandarin, Urdu, and Spanish.
 ## Frequently asked questions

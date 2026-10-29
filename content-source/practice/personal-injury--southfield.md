@@ -91,7 +91,7 @@ Michigan caps contingency fees in injury cases at one-third of the net recovery 
 - Claims handled in the 46th District, the Oakland County Circuit Court, and the Oakland County Probate Court, and with MDOT, the RCOC, SMART, and the insurers and property managers that defend Southfield claims. **[CONFIRM]**
 - Prompt attention to preservation letters and notices.
 - Every household policy read before the claim is valued.
-- Home, hospital, and video consultations can be arranged as needed.
+- We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 - No fee unless we recover money for you. The first conversation is free.
 
 ## Frequently asked questions

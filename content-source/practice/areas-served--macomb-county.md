@@ -90,7 +90,7 @@ Henry Ford Macomb Hospital in Clinton Township and McLaren Macomb in Mount Cleme
 
 ## Communities we serve in Macomb County
 
-We meet Macomb County clients at our Dearborn office, by phone or video, and can accommodate home or hospital visits when needed. Community pages with local crash data, courts, and roads:
+We welcome Macomb County clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed. Community pages with local crash data, courts, and roads:
 
 [Warren](/areas-served/warren) · [Sterling Heights](/areas-served/sterling-heights) · [Clinton Township](/areas-served/clinton-township) · [St. Clair Shores](/areas-served/st-clair-shores) · [Macomb Township](/areas-served/macomb-township)
 
@@ -126,7 +126,7 @@ We also represent clients from Armada, Bruce Township, Center Line, Chesterfield
 
 **I was hurt because of a pothole or missing signal on a Macomb County road. Who do I claim against?** On a mile road or other county road, the Macomb County Department of Roads, with written notice within 120 days. MDOT, with a 120-day highway-defect notice generally required under MCL 691.1404 and filed with the Court of Claims. On a city street, the city. A lawyer can identify the agency from the location in a day.
 
-**Do you have an office in Macomb County?** Our office is in Dearborn. We serve clients throughout Macomb County and offer consultations by phone or video. Home or hospital visits can also be accommodated when needed.
+**Do you have an office in Macomb County?** Our office is in Dearborn. We serve clients throughout Macomb County and welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 
 **I was injured in a boating accident on Lake St. Clair. Is that a personal injury case?** Yes. Boat operators owe the same duty of reasonable care as drivers, Michigan’s Marine Safety Act sets operating rules whose violation is evidence of negligence, and available liability coverage depends on the boat owner’s watercraft insurance, any applicable homeowners policy, and the specific policy terms. Michigan automobile no-fault benefits generally do not apply to a boating-only accident. A boating injury claim may proceed under Michigan negligence and vessel-liability law, with a three-year filing period generally applicable to personal injury claims, subject to the circumstances and any applicable maritime law.
 

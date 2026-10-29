@@ -94,7 +94,7 @@ ATLAW is a personal injury firm in Dearborn, fifteen minutes up Telegraph. In 13
 - A Dearborn office fifteen minutes up Telegraph; 13 years, more than 10,000 cases, more than $100 million recovered.
 - Regular practice in the 23rd District and the Third Circuit, and with the insurers, the Assigned Claims Plan, Wayne County, MDOT, SMART, and the retailers and hotels that defend Taylor claims.
 - Every household policy reviewed for UM/UIM before the claim is valued, because Downriver that coverage is often the recovery.
-- Consultations are available at our Dearborn office, by phone, or by video. Home and hospital visits can also be accommodated when needed.
+- We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 - No fee unless we recover money for you. The first conversation is free. ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs.
 - Consultations are available in English, Arabic, French, Mandarin, Urdu, and Spanish.
 ## Frequently asked questions

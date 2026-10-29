@@ -88,7 +88,7 @@ Corewell Health William Beaumont University Hospital in Royal Oak is the county�
 
 ## Communities we serve in Oakland County
 
-We meet Oakland County clients at our Dearborn office, by phone or video, and can accommodate home or hospital visits when needed. Community pages with local crash data, courts, and roads:
+We welcome Oakland County clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed. Community pages with local crash data, courts, and roads:
 
 [Southfield](/areas-served/southfield) · [Farmington Hills](/areas-served/farmington-hills) · [Troy](/areas-served/troy) · [Waterford](/areas-served/waterford) · [Pontiac](/areas-served/pontiac) · [Rochester Hills](/areas-served/rochester-hills) · [Royal Oak](/areas-served/royal-oak) · [Novi](/areas-served/novi) · [West Bloomfield](/areas-served/west-bloomfield)
 
@@ -123,7 +123,7 @@ We also represent clients from Auburn Hills, Berkley, Beverly Hills, Bingham Far
 
 **I was hurt on a county road in Oakland County because of a pothole or a missing sign. Who do I claim against?** Probably the Road Commission for Oakland County, which maintains county roads, under the highway exception to governmental immunity, and written notice must reach it within 120 days of the injury. If the road was a state trunkline such as M-59, Telegraph, or Woodward, a qualifying highway-defect claim against MDOT generally requires notice within 120 days under MCL 691.1404, filed as required for claims against the state. A lawyer can identify the agency from the location in a day.
 
-**Do you have an office in Oakland County?** Our office is in Dearborn. We serve clients throughout Oakland County and offer consultations by phone or video. Home or hospital visits can also be accommodated when needed.
+**Do you have an office in Oakland County?** Our office is in Dearborn. We serve clients throughout Oakland County and welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 
 **I was injured at a nursing home in Oakland County. Is that a medical malpractice case?** Sometimes. A nursing-home injury may involve ordinary negligence or medical malpractice, depending on the conduct alleged. Under Bryant v. Oakpointe Villa Nursing Centre, Inc. (2004), the distinction depends on whether evaluating the challenged conduct requires professional medical judgment beyond ordinary knowledge and experience. Ordinary negligence generally has a three-year filing deadline, while medical malpractice generally has a two-year deadline and additional procedural requirements, including pre-suit notice. Many cases involve both, and the distinction has been litigated repeatedly in Michigan; see our [nursing home abuse page](/personal-injury/nursing-home-abuse/oakland-county).
 

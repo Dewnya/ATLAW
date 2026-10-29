@@ -133,7 +133,7 @@ Fees for the claim itself are set by federal law: the lesser of 25 percent of pa
 - **Every level and every deadline**, from application to federal court.
 - **After approval too**: reviews, overpayments, work incentives, and offsets. **[CONFIRM: the firm handles post-entitlement matters]**
 - **Michigan’s hearing offices.** We appear at **[CONFIRM: Detroit, Oak Park, Livonia, and the other offices the firm covers]**.
-- **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We meet clients at our Dearborn office, by phone, or by video. Home and hospital visits can also be accommodated when needed.
+- **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 - **Languages.** Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish.
 - **No fee unless you win**, federally capped at 25 percent of back pay or $9,200, whichever is less.
 

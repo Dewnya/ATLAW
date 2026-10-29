@@ -136,7 +136,7 @@ Hartford requires claimants to apply for Social Security disability, offsets the
 - **The Heimeshoff deadline calculated first**, before the appeal is planned. **[CONFIRM: practice]**
 - **Hartford’s own documents answered on their own terms**: the capacity grid completed with clinical support, the Employability Analysis Report tested occupation by occupation. **[CONFIRM]**
 - **Social Security and LTD coordinated**, including the estimated offset. **[CONFIRM]**
-- **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We meet clients at our Dearborn office, by phone, or by video. Home and hospital visits can also be accommodated when needed.
+- **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 - **Languages.** Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish.
 - **Fees.** **[CONFIRM: fee structure; free initial review]**
 

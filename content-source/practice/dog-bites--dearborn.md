@@ -93,7 +93,7 @@ Dog bite suits over $25,000 are filed in the Third Judicial Circuit Court in Det
 - The owner, the insurer, and the landlord identified promptly, before the dog and the witnesses disappear.
 - Children’s cases done right: probate approval, protected funds, and a claim that accounts for the scar revision the child will need years from now.
 - No attorney fee or case costs unless we recover money for you. The first conversation is free.
-- Consultations can be accommodated in English, Arabic, French, Mandarin, Urdu, and Spanish. Home, hospital, and video consultations can be arranged as needed.
+- Consultations can be accommodated in English, Arabic, French, Mandarin, Urdu, and Spanish. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 
 ## Frequently asked questions
 

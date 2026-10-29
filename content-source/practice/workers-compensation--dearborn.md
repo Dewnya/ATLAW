@@ -99,7 +99,7 @@ Workers’ compensation is your exclusive remedy against an insured employer (MC
 - Experience against the self-insured employers and third-party administrators that handle Dearborn claims, and with the uninsured-employer cases the small businesses produce.
 - Both claims coordinated: the comp claim before the agency and the third-party suit in the Third Circuit, with the lien negotiated at the end.
 - Fees set by state rule and approved by the magistrate; nothing up front, nothing unless benefits are recovered. **[CONFIRM: fee structure for contested claims and redemptions]**
-- Consultations can be accommodated in English, Arabic, French, Mandarin, Urdu, and Spanish. Home, hospital, and video consultations can be arranged as needed.
+- Consultations can be accommodated in English, Arabic, French, Mandarin, Urdu, and Spanish. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 ## Frequently asked questions
 
 **How long do I have to report a work injury in Dearborn?** Ninety days from the injury, or from when you knew it was work-related, to notify your employer, and two years to file a claim. Report it in writing the day it happens.

@@ -93,7 +93,7 @@ Michigan caps contingency fees in injury cases at one-third of the net recovery 
 - An office at 3 Parklane Boulevard in Dearborn, with free surface parking and walk-in consultations available.
 - 13 years, more than 10,000 cases, more than $100 million recovered.
 - Daily work in the 19th District, the Third Circuit, and the Wayne County Probate Court, and with the insurers, the City, SMART, and the employers that defend Dearborn claims.
-- Consultations can be accommodated in English, Arabic, French, Mandarin, Urdu, and Spanish. Home, hospital, and video consultations can be arranged as needed.
+- Consultations can be accommodated in English, Arabic, French, Mandarin, Urdu, and Spanish. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 - No fee unless we recover money for you. The first conversation is free. **[CONFIRM: fee terms]**
 
 ## Frequently asked questions

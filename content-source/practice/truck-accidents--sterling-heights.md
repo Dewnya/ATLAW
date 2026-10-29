@@ -103,7 +103,7 @@ Most Sterling Heights truck cases are filed in the Sixteenth Judicial Circuit Co
 - ELD and engine data, FMCSA safety records, and accident reconstruction used to build the case.
 - Investigation costs advanced and recovered only from a settlement or verdict.
 - No fee unless we recover money for you. The first conversation is free.
-- Consultations can be accommodated in English, Arabic, French, Mandarin, Urdu, and Spanish. Home, hospital, and video consultations can be arranged as needed.
+- Consultations can be accommodated in English, Arabic, French, Mandarin, Urdu, and Spanish. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 
 ## Frequently asked questions
 

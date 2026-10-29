@@ -93,7 +93,7 @@ ATLAW is a personal injury firm in Dearborn, thirty minutes down I-96 and the So
 - 13 years, more than 10,000 cases, more than $100 million recovered for clients across southeast Michigan.
 - Familiarity with the 52-1 District and Sixth Circuit court systems, and with the insurers, MDOT, the RCOC, the mall and expo operators, and the employers that defend Novi claims.
 - Every household policy reviewed for UM/UIM before the claim is valued, and any policy-required UIM consent addressed before settlement.
-- Home and hospital visits in Novi can be accommodated, with office consultations available in Dearborn.
+- We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 - No fee unless we recover money for you. The first conversation is free. ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs.
 - Languages: English, Arabic, French, Mandarin, Urdu, and Spanish.
 ## Frequently asked questions

@@ -102,7 +102,7 @@ Malpractice cases are expensive to bring: the same-specialty expert’s review, 
 - Costs advanced, including the expert.
 - Honest evaluation: many bad outcomes are not malpractice, and we say so for free.
 - No fee unless we recover money for you. ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs.
-- Consultations can be accommodated in English, Arabic, French, Mandarin, Urdu, and Spanish. Home, hospital, and video consultations are available when appropriate.
+- Consultations can be accommodated in English, Arabic, French, Mandarin, Urdu, and Spanish. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 ## Frequently asked questions
 
 **How long do I have to sue a Detroit doctor or hospital?** Two years from the malpractice, with a six-month discovery rule capped at six years. Because the Notice of Intent must be served 182 days before suit and the expert review comes before the notice, you should call well inside the first year.

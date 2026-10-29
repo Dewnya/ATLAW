@@ -123,7 +123,7 @@ The comp insurer has a lien on the third-party recovery for the benefits it paid
 - Experience against the self-insured employers and third-party administrators that handle Detroit claims. **[CONFIRM]**
 - Both claims coordinated: the comp claim before the agency and the third-party suit in the Third Circuit, with the lien negotiated at the end. **[CONFIRM: scope]**
 - Fees set by state rule and approved by the magistrate; nothing up front, nothing unless benefits are recovered. **[CONFIRM: fee structure for contested claims and redemptions]**
-- Consultations can be accommodated in English, Arabic, French, Mandarin, Urdu, and Spanish. Home, hospital, and video consultations are available when appropriate.
+- Consultations can be accommodated in English, Arabic, French, Mandarin, Urdu, and Spanish. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 ## Frequently asked questions
 
 **How long do I have to report a work injury in Detroit?** Ninety days from the injury, or from when you knew it was work-related, to notify your employer, and two years to file a claim. Report it in writing the day it happens.

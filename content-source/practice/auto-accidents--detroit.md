@@ -111,7 +111,7 @@ Our [full checklist](about:blank) covers the first day, week, month, and year, a
 - Every household policy read, and every UM/UIM and PIP option identified, before the claim is valued.
 - Prompt attention to preservation of available DDOT, police, and Project Green Light video evidence.
 - No fee unless we recover money for you. ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs. The first conversation is free.
-- Consultations are available in English, Arabic, French, Mandarin, Urdu, and Spanish. Home, hospital, and video consultations can be accommodated.
+- Consultations are available in English, Arabic, French, Mandarin, Urdu, and Spanish. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 ## Frequently asked questions
 
 **How many car accidents happen in Detroit each year?**  In 2024, Detroit recorded 24,321 traffic crashes, with 8,872 people injured and 104 killed.

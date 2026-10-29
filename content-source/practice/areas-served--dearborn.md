@@ -93,7 +93,7 @@ Dearborn is a city of about 110,000, Michigan’s seventh largest, and it is thr
 - 13 years in the city, more than 10,000 cases, more than $100 million recovered.
 - Daily work in the 19th District, the Third Circuit, and the Wayne County Probate Court, and with the insurers, the city, SMART, and the employers that defend Dearborn claims.
 - Every household policy reviewed for UM/UIM before the claim is valued.
-- Consultations are available at our Dearborn office, by phone, or by video. Home and hospital visits can also be accommodated when needed.
+- We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 - Monday-Friday; 9:00 AM - 5:00 PM. Walk-ins are accepted.
 - No fee unless we recover money for you. The first conversation is free. ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs.
 - **Languages.** Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish.

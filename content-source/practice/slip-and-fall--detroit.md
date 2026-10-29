@@ -95,7 +95,7 @@ Fall suits over $25,000 are filed in the Third Judicial Circuit Court at the Col
 - Owner identified before the notice runs: private, Housing Commission, Land Bank, City, authority, or State.
 - Honest evaluation: some falls are not cases, and we will say so in the first conversation.
 - No fee unless we recover money for you. ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs. The first conversation is free.
-- Consultations can be accommodated in English, Arabic, French, Mandarin, Urdu, and Spanish. Home, hospital, and video consultations are available when appropriate.
+- Consultations can be accommodated in English, Arabic, French, Mandarin, Urdu, and Spanish. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 ## Frequently asked questions
 
 **I fell on ice outside a Detroit store. The ice was obvious. Do I have a case?** Possibly. Since the Michigan Supreme Court’s 2023 decision, an obvious hazard no longer ends the case. The questions are whether the store should have salted or cleared it, whether you had a realistic alternative route, and how much of the fault is yours. If you are found less than 50 percent at fault, you recover, reduced by your share.

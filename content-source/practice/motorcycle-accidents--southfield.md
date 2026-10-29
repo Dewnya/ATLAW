@@ -95,7 +95,7 @@ Rider injury suits over $25,000 go to the Sixth Judicial Circuit Court (Oakland 
 - Every vehicle involved and every policy in the priority chain identified before the no-fault application is filed.
 - The road agency, or the work-zone contractor, identified before the notice runs.
 - No attorney fee or case costs unless we recover money for you. The first conversation is free.
-- Consultations can be accommodated in English, Arabic, French, Mandarin, Urdu, and Spanish. Home, hospital, and video consultations can be arranged as needed.
+- Consultations can be accommodated in English, Arabic, French, Mandarin, Urdu, and Spanish. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 
 ## Frequently asked questions
 

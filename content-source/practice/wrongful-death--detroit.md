@@ -100,7 +100,7 @@ The savings provision is the rule families most often misunderstand. It gives a 
 - Funeral and burial customs come first; the legal steps are worked around them. **[CONFIRM: the firm is comfortable with this line]**
 - No fee unless we recover money for the estate; fees are approved by the probate court. ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs. The first conversation is free.
 - **Languages.** Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish.
-- **Consultations.** We meet clients at our Dearborn office, by phone, or by video. Home and hospital visits can also be accommodated when needed.
+- **Consultations.** We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 
 ## Frequently asked questions
 

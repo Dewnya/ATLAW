@@ -96,7 +96,7 @@ Dog bite suits over $25,000 are filed in the Third Judicial Circuit Court at the
 - The owner, the insurer, and the landlord identified in the first week, before the dog and the witnesses disappear.
 - Children’s cases done right: probate approval, protected funds, and a claim that accounts for the scar revision the child will need years from now.
 - No fee unless we recover money for you. ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs. The first conversation is free.
-- Consultations can be accommodated in English, Arabic, French, Mandarin, Urdu, and Spanish. Home, hospital, and video consultations can be arranged as needed.
+- Consultations can be accommodated in English, Arabic, French, Mandarin, Urdu, and Spanish. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 ## Frequently asked questions
 
 **The dog had never bitten anyone before. Does the owner still have to pay?** Yes. Michigan’s statute makes the owner liable regardless of the dog’s history or the owner’s knowledge, as long as you were lawfully present and did not provoke the dog.

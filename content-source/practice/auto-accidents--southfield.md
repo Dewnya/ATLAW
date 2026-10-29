@@ -86,7 +86,7 @@ Claims up to $25,000, including mini tort claims, are filed in the 46th District
 - 13 years, more than 10,000 cases, more than $100 million recovered.
 - Every household policy, including UM/UIM and umbrella coverage, read before the claim is valued, and the UIM consent rules followed before any settlement.
 - Claims handled in the 46th District and the Sixth Circuit, and with MDOT, the RCOC, SMART, and the insurers that write Southfield policies.
-- Home, hospital, and video consultations can be arranged as needed.
+- We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 - No attorney fee or case costs unless we recover money for you. The first conversation is free.
 - Consultations can be accommodated in English, Arabic, French, Mandarin, Urdu, and Spanish.
 

@@ -1046,7 +1046,7 @@
      "c": [
       {
        "t": "text",
-       "v": "We meet Macomb County clients at our Dearborn office, by phone or video, and can accommodate home or hospital visits when needed. Community pages with local crash data, courts, and roads:"
+       "v": "We welcome Macomb County clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed. Community pages with local crash data, courts, and roads:"
       }
      ]
     },
@@ -1427,7 +1427,7 @@
    "answer": [
     {
      "t": "text",
-     "v": "Our office is in Dearborn. We serve clients throughout Macomb County and offer consultations by phone or video. Home or hospital visits can also be accommodated when needed."
+     "v": "Our office is in Dearborn. We serve clients throughout Macomb County and welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed."
     }
    ]
   },
@@ -1510,7 +1510,7 @@
    }
   ]
  },
- "wordCount": 2370,
+ "wordCount": 2383,
  "openItems": 0,
  "source": {
   "file": "B2-32_Macomb-County-Personal-Injury-Lawyers.docx",

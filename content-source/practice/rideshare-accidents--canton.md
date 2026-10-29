@@ -105,7 +105,7 @@ Our [full checklist](about:blank) covers the first day, week, month, and year.
 - The period identified and the preservation letter sent promptly.
 - Every policy in the chain read: yours, the household’s, the driver’s, the company’s, the other driver’s.
 - No fee unless we recover money for you. The first conversation is free.
-- Consultations can be accommodated in English, Arabic, French, Mandarin, Urdu, and Spanish. Home, hospital, and video consultations can be arranged as needed.
+- Consultations can be accommodated in English, Arabic, French, Mandarin, Urdu, and Spanish. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 
 ## Frequently asked questions
 

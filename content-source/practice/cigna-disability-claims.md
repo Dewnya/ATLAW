@@ -130,7 +130,7 @@ Cigna and New York Life group policies require claimants to apply for Social Sec
 - **The claim file first**, and the appeal built as the record the federal court will read. **[CONFIRM: practice]**
 - **The insurer’s own history in the record**: the practices the 2013 settlement identified, documented where they recur. **[CONFIRM]**
 - **Social Security and LTD coordinated**, so the award does not become a repayment surprise. **[CONFIRM]**
-- **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We meet clients at our Dearborn office, by phone, or by video. Home and hospital visits can also be accommodated when needed.
+- **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 - **Languages.** Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish.
 - **Fees.** **[CONFIRM: fee structure; free initial review]**
 

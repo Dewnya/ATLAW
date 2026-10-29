@@ -103,7 +103,7 @@ Most Detroit truck cases are filed in the Third Judicial Circuit Court at the Co
 - ATLAW advances applicable case investigation and litigation expenses. When a recovery is obtained, properly chargeable costs are deducted before the agreed 33.3% attorney fee is calculated. The written fee agreement explains how expenses are handled, including if there is no recovery.
 - No fee unless we recover money for you. The first conversation is free.
 - **Languages.** Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish.
-- **Consultations.** We meet clients at our Dearborn office, by phone, or by video. Home and hospital visits can also be accommodated when needed.
+- **Consultations.** We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 
 ## Frequently asked questions
 

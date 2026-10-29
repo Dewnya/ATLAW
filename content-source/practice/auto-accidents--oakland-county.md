@@ -83,7 +83,7 @@ Our [full checklist](about:blank) covers the first day, week, month, and year.
 - Every household policy reviewed for PIP level, UM/UIM, and collision before the claim is valued, and the UIM consent handled before any settlement.
 - No fee unless we recover money for you. The first conversation is free. **[CONFIRM: fee terms]**
 - **Languages.** Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish.
-- **Consultations.** We meet clients at our Dearborn office, by phone, or by video. Home and hospital visits can also be accommodated when needed.
+- **Consultations.** We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 
 ## Frequently asked questions
 

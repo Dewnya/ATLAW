@@ -156,7 +156,7 @@ Fees in disability insurance cases are not set by federal law as Social Security
 - **ERISA and Michigan law both**, with the governing law identified at the first meeting. **[CONFIRM]**
 - **Social Security and LTD coordinated**, so the award does not become a repayment surprise. **[CONFIRM]**
 - **Experience with the carriers**: see our pages on [Cigna](/disability/cigna-disability-claims), [Hartford](/disability/hartford-disability-claims), and [Lincoln Financial](/disability/lincoln-financial-disability-claims) claims. **[CONFIRM: carriers the firm has handled claims against]**
-- **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We meet clients at our Dearborn office, by phone, or by video. Home and hospital visits can also be accommodated when needed.
+- **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 - **Languages.** Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish.
 - **Fees.** **[CONFIRM: fee structure; free initial review]**
 

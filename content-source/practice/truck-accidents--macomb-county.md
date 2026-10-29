@@ -102,7 +102,7 @@ Most Macomb County truck cases are filed in the Sixteenth Judicial Circuit Court
 - The firm advances the investigation costs and recovers them only from a settlement or verdict.
 - No fee unless we recover money for you. ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs. The first conversation is free.
 - Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish.
-- We meet clients at our Dearborn office, by phone, or by video. Home and hospital visits may also be accommodated when needed.
+- We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 
 ## Frequently asked questions
 

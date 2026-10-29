@@ -96,7 +96,7 @@ ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled mo
 - Regular practice in the 40th District and the Sixteenth Circuit, and with the insurers, the Department of Roads, MDOT, the marinas, and the bars and restaurants that defend St. Clair Shores claims.
 - Prompt attention to dram shop notices and bar-record preservation in drunk-driving and qualifying drunk-boating cases.
 - Every household policy, including boat policies, reviewed before the claim is valued.
-- Consultations are available at our Dearborn office, by phone, or by video. Home and hospital visits can also be accommodated when needed.
+- We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 - No fee unless we recover money for you. The first conversation is free. ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs.
 - Languages: English, Arabic, French, Mandarin, Urdu, and Spanish.
 ## Frequently asked questions

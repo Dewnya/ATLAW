@@ -89,7 +89,7 @@ ATLAW is a personal injury firm in Dearborn, twenty-five minutes down the Southf
 - 13 years, more than 10,000 cases, more than $100 million recovered for clients across southeast Michigan.
 - Regular practice in the 47th District and the Sixth Circuit, and with the insurers, the RCOC, MDOT, SMART, and the property owners and employers that defend Farmington Hills claims.
 - Household insurance coverage reviewed for available UM/UIM benefits, including applicable notice and consent-to-settle requirements before resolving claims against an at-fault driver.
-- Consultations are available at our Dearborn office, by phone, or by video. Home, hospital, or other convenient meeting arrangements in Farmington Hills may also be accommodated when needed.
+- We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 - No fee unless we recover money for you. The first conversation is free. ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs.
 - **Languages.** Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish.
 

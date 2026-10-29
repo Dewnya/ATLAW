@@ -97,7 +97,7 @@ SSDI benefits begin five full months after the established onset date; SSI has n
 - The medical record built from every Detroit provider before the judge reads it.
 - Both programs filed together where both apply; the personal injury, workers’ compensation, and LTD claims coordinated with the Social Security claim.
 - A fee set by federal law: 25 percent of back pay, capped, paid by Social Security, and nothing if you do not win.
-- Consultations can be accommodated in English, Arabic, French, Mandarin, Urdu, and Spanish. Home, hospital, and video consultations can be arranged as needed, and we represent clients at phone and video hearings.
+- Consultations can be accommodated in English, Arabic, French, Mandarin, Urdu, and Spanish. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed. We represent clients at phone and video hearings.
 ## Frequently asked questions
 
 **Why was my Detroit disability application denied when my doctor says I cannot work?** Because Social Security decides disability by its own rules, not by your doctor’s conclusion. The question is whether your medical records document limits that rule out all work you could otherwise do. Most denials are for insufficient evidence, gaps in treatment, or earnings above the limit, and many are reversible at a hearing with a complete record.

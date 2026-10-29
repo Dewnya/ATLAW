@@ -96,7 +96,7 @@ ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled mo
 - Regular practice in the 51st District and the Sixth Circuit, and with the insurers, the Road Commission, MDOT, and the property owners that defend Waterford claims.
 - The right defendant identified promptly: Road Commission, state, or township.
 - Every household policy reviewed for UM/UIM, and every boat and homeowner’s policy reviewed in a lake case, before the claim is valued.
-- Free consultations are available by phone or video. In-person meetings may also be accommodated at our office or another suitable location, including home or hospital visits when needed.
+- We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 - No fee unless we recover money for you. The first conversation is free. ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs.
 - Languages: English, Arabic, French, Mandarin, Urdu, and Spanish.
 ## Frequently asked questions

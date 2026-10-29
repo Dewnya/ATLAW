@@ -95,7 +95,7 @@ ATLAW is a personal injury firm in Dearborn, twenty minutes down the Southfield 
 - Regular practice in the 16th District and the Third Circuit, and with the insurers, Wayne County, MDOT, SMART, and the facilities and retailers that defend Livonia claims.
 - Nursing home cases handled with the negligence-versus-malpractice distinction in mind from the first call, so the right deadline is met.
 - Every household policy reviewed for UM/UIM before the claim is valued.
-- Consultations are available at our Dearborn office, by phone, or by video. Home, hospital, or nursing-facility visits in Livonia may also be accommodated when needed.
+- We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 - No fee unless we recover money for you. The first conversation is free. ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs.
 - **Languages.** Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish.
 

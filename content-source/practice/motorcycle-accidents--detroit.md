@@ -104,7 +104,7 @@ Motorcycle injury lawsuits seeking more than $25,000 may be filed in the Third J
 - We review available evidence of the vehicles involved and identify potentially applicable insurers under Michigan’s motorcycle no-fault priority rules.
 - Prompt attention to preserving relevant camera footage, vehicle evidence, witness information, and available electronic records.
 - No fee unless we recover money for you. ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs. The first conversation is free.
-- Consultations can be accommodated in English, Arabic, French, Mandarin, Urdu, and Spanish. Home and hospital visits are available when needed.
+- Consultations can be accommodated in English, Arabic, French, Mandarin, Urdu, and Spanish. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 ## Frequently asked questions
 
 **How many motorcycle accidents happen in Detroit?**  **[CONFIRM: data: Detroit and Wayne County 2024 motorcycle figures]** Statewide, 3,187 motorcycle crashes in 2024 injured 2,460 riders and killed 168, according to the Michigan State Police. County figures for all crash types are on our [Wayne County page](/areas-served/wayne-county).

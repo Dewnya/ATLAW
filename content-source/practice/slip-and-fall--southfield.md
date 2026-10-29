@@ -97,7 +97,7 @@ Fall claims up to $25,000 are filed in the 46th District Court at 26000 Evergree
 - Prompt attention to preserving available surveillance footage, inspection records, contracts, work orders, and other time-sensitive evidence.
 - The right defendant identified before any notice runs: owner, manager, contractor, landlord, City, school district, or college.
 - Honest evaluation: some falls are not cases, and we say so in the first conversation.
-- No attorney fee or case costs unless we recover money for you. The first conversation is free. Home, hospital, and video consultations can be arranged as needed.
+- No attorney fee or case costs unless we recover money for you. The first conversation is free. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 
 ## Frequently asked questions
 

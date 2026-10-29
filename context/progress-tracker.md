@@ -654,6 +654,11 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - Troy malpractice (B3-65) was commented after the last Drive pass, so it joined this batch
   - Open items: 5 she did not answer (the Troy Police report process on the motorcycle page; the Corewell Troy name-change dates, the current outpatient and specialty centers, and the two fee confirms in "What it costs" on the malpractice page)
   - Verified: import 169 drafts, typecheck and production build clean (7 pages); the five pages render with no artifacts
+- [x] Firm-confirmed visit wording applied site-wide (Oct 29, 2026)
+  - The firm's answer in the Content Tracker (firm-confirmations tab, "Home and hospital visits offered?") asks for: "We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed."
+  - 68 sentences on 66 pages that said "by phone, or by video" / "can be accommodated" / "home, hospital, and video consultations" now use that sentence; the language sentences beside them are unchanged
+  - Left as written: the Cranbrook page (Arlyn's client's-choice-of-place wording) and the two open phone-and-video confirms on the SSD application and appeals pages, which the firm's answer does not cover
+  - Open with the firm: its practice-areas answer ("Auto-Accident, Slip and Fall, Medical Malpractice" to the question about product liability, VA, and long-term disability) may mean those pages should not launch
 
 ### Open Questions
 

@@ -144,7 +144,7 @@ Unum requires claimants to apply for Social Security disability, offsets the LTD
 - **The appeal built as the trial it is**, with the claim file read first. **[CONFIRM]**
 - **Individual professional policies handled under Michigan law**, with a jury and penalty interest, where ERISA does not apply. **[CONFIRM: the firm handles individual-policy disability claims]**
 - **Social Security and LTD coordinated.** **[CONFIRM]**
-- **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We meet clients at our Dearborn office, by phone, or by video. Home and hospital visits can also be accommodated when needed.
+- **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 - **Languages.** Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish.
 - **Fees.** **[CONFIRM: fee structure; free initial review]**
 

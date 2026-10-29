@@ -991,7 +991,7 @@
      "c": [
       {
        "t": "text",
-       "v": "We meet Oakland County clients at our Dearborn office, by phone or video, and can accommodate home or hospital visits when needed. Community pages with local crash data, courts, and roads:"
+       "v": "We welcome Oakland County clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed. Community pages with local crash data, courts, and roads:"
       }
      ]
     },
@@ -1408,7 +1408,7 @@
    "answer": [
     {
      "t": "text",
-     "v": "Our office is in Dearborn. We serve clients throughout Oakland County and offer consultations by phone or video. Home or hospital visits can also be accommodated when needed."
+     "v": "Our office is in Dearborn. We serve clients throughout Oakland County and welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed."
     }
    ]
   },
@@ -1505,7 +1505,7 @@
    }
   ]
  },
- "wordCount": 2347,
+ "wordCount": 2360,
  "openItems": 1,
  "source": {
   "file": "B2-31_Oakland-County-Personal-Injury-Lawyers.docx",

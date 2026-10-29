@@ -89,7 +89,7 @@ Fall suits over $25,000 are filed in the Third Judicial Circuit Court in Detroit
 - The owner identified before the notice runs: private, landlord, Housing Commission, City, college, or State.
 - Honest evaluation: some falls are not cases, and we say so in the first conversation.
 - No attorney fee or case costs unless we recover money for you. The first conversation is free.
-- Consultations can be accommodated in English, Arabic, French, Mandarin, Urdu, and Spanish. Home, hospital, and video consultations can be arranged as needed.
+- Consultations can be accommodated in English, Arabic, French, Mandarin, Urdu, and Spanish. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 
 ## Frequently asked questions
 
