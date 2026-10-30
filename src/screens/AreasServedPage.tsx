@@ -72,7 +72,7 @@ export const AreasServedPage = (): JSX.Element => {
     <div className="flex min-h-screen w-full flex-col bg-white">
       <PageMeta
         title="Areas Served | Personal Injury Lawyers | ATLAW"
-        description="ATLAW represents injured clients across Southeast Michigan: Detroit, Dearborn, and 20 more cities and townships in Wayne, Oakland, Macomb, and Washtenaw counties. Free case review."
+        description="ATLAW represents injured clients across Southeast Michigan: Detroit, Dearborn, and 22 more cities and townships in Wayne, Oakland, Macomb, and Washtenaw counties. Free case review."
         canonical="/areas-served"
       />
       <Header />

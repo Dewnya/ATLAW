@@ -41,6 +41,9 @@ export const cityRegistry = [
   { slug: "macomb-township", name: "Macomb Township", county: "Macomb County" },
   { slug: "st-clair-shores", name: "St. Clair Shores", county: "Macomb County" },
   { slug: "ann-arbor", name: "Ann Arbor", county: "Washtenaw County" },
+  { slug: "washtenaw-county", name: "Washtenaw County", county: "Washtenaw County" },
+  { slug: "ypsilanti", name: "Ypsilanti", county: "Washtenaw County" },
+  { slug: "pittsfield-township", name: "Pittsfield Township", county: "Washtenaw County" },
 ] as const satisfies readonly CityRegistryEntry[];
 
 export type CitySlug = (typeof cityRegistry)[number]["slug"];

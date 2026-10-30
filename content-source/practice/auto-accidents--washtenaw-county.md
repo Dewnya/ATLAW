@@ -1,0 +1,144 @@
+---
+slug: auto-accidents
+section: personal-injury
+city: washtenaw-county
+status: draft
+seoTitle: Washtenaw County Car Accident Lawyer: No-Fault Benefits, I-94 and US-23, Washtenaw Avenue, Deer Crashes, and University Vehicles
+seoDescription: Hurt in a crash in Washtenaw County? 9,844 crashes and 35 deaths in 2024. Who pays your bills under no-fault, how fault is decided on I-94, US-23, Washtenaw Avenue, and the roundabouts, deer crashes, what changes when a University of Michigan vehicle is involved, which agency owns the road, the Ann Arbor courts, and the deadlines. Free review. (313) 406-7606.
+h1: Washtenaw County Car Accident Lawyer
+tagline: 9,844 crashes, 2,231 people injured, and 35 killed in Washtenaw County in 2024, on freeways, a single busy corridor between Ann Arbor and Ypsilanti, and rural roads full of deer.
+primaryKeyword: washtenaw county car accident lawyer (10/mo as “car accident lawyer washtenaw county”)
+secondaryKeywords: car accident washtenaw county (20; partly informational); car accident lawyer ann arbor (170) served by /personal-injury/auto-accidents/ann-arbor
+source: B4-02_Washtenaw-County-Car-Accident-Lawyer.docx
+delivered: October 25, 2026 [CONFIRM: Batch 4 delivery date]
+---
+
+## Washtenaw County Car Accident Lawyer
+
+In 2024 the Michigan State Police recorded 9,844 crashes in Washtenaw County, 2,231 people injured, 197 of them seriously, and 35 killed in 32 fatal crashes, up from 20 fatal crashes the year before. The county’s crashes come in three kinds. On I-94, US-23, and M-14 they are high-speed rear-end, lane-change, truck, and work-zone crashes. On Washtenaw Avenue, Carpenter Road, Michigan Avenue, Ellsworth, Packard, and State Street they are intersection crashes, including at roundabouts. And on the two-lane roads west and north of Ann Arbor they are run-off-road, head-on, and deer crashes; the county recorded 1,409 deer crashes in 2024. A Washtenaw County claim turns on who had the right of way, how much insurance is on the other side, and, when a university vehicle or the road was involved, which agency is the defendant and which court hears the case.
+
+ATLAW is a personal injury firm in Dearborn, a short drive east of Ypsilanti on I-94. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across southeast Michigan. Our [Michigan car accident lawyer page](about:blank) covers the law in full, our [Washtenaw County page](about:blank) covers every kind of injury claim in the county, and our [Ann Arbor car accident page](about:blank), [Ypsilanti car accident page](about:blank), and [Pittsfield Township car accident page](about:blank) cover those communities. The first conversation is free, in English, Arabic, French, Mandarin, Urdu, or Spanish: **(313) 406-7606**. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
+
+## Washtenaw County crashes, 2024
+
+| Measure | Figure | Source |
+| --- | --- | --- |
+| Crashes / people injured / seriously injured / killed | 9,844 / 2,231 / 197 / 35 | MSP, Michigan Traffic Crash Facts 2024, county profile |
+| Fatal crashes, 2024 and 2023 | 32 and 20 | Same |
+| Deaths per 1,000 crashes | 3.6 (Oakland: 1.9; Michigan: 3.8) | Calculated from MSP 2024 figures |
+| Deer-involved crashes | 1,409 | Same |
+| Alcohol-involved / drug-involved crashes | 276 / 97 | Same |
+| Pedestrian / bicyclist-involved crashes | 100 (6 fatal) / 91 (1 fatal) | Same |
+| Crashes by community | Ann Arbor 2,770; Pittsfield Township 1,143; Ypsilanti Township 1,069; Ypsilanti 838; Chelsea 155; Saline 147 | Same |
+| Highest-crash intersection | Hamilton at Washtenaw, Ypsilanti: 132 crashes, 7 injuries | MSP 2024 crash data, as compiled and reported November 2025 |
+| Most injuries among the top ten | Michigan Avenue at Prospect, Ypsilanti: 30 crashes, 20 injuries | Same |
+| Michigan liability limits for the at-fault driver | $250,000 / $500,000 unless the driver chose lower limits; minimum $50,000 / $100,000 | MCL 500.3009(1), (5) |
+
+The county had fewer crashes in 2024 than in 2023 but more fatal ones, and its deaths per crash are nearly twice Oakland County’s. That fits a county where much of the driving is on freeways and rural two-lane roads.
+
+## Where Washtenaw County crashes happen
+
+**I-94, US-23, and M-14.** I-94 crosses the county from the Wayne County line through Ypsilanti and the south side of Ann Arbor to Chelsea; US-23 runs along Ann Arbor’s east side from Milan to Whitmore Lake; M-14 runs from Ann Arbor east toward Plymouth. The crashes are rear-end crashes in the backups at the I-94/US-23, US-23/M-14, and Ypsilanti interchanges, lane-change crashes into a car in the blind spot, truck crashes, and work-zone crashes during the reconstruction projects that have run on both freeways in recent years. A work-zone crash can involve MDOT’s contractor as well as a driver. See our [Washtenaw County truck accident page](about:blank).
+
+**Washtenaw Avenue and the Pittsfield corridor.** Washtenaw Avenue connects Ann Arbor and Ypsilanti through Pittsfield and Ypsilanti townships, lined with shopping centers, apartments, and bus stops. It holds the county’s highest-crash intersection in 2024, Hamilton at Washtenaw in Ypsilanti, and Hogback at Washtenaw and Huron Parkway at Washtenaw were in the top ten as well. Carpenter Road in Pittsfield Township had three top-ten intersections, at Ellsworth, Packard, and Michigan Avenue; the Packard intersection had the list’s only fatality. The crashes are left-turn, red-light, rear-end, and driveway crashes, and pedestrian crashes at the bus stops. See our [pedestrian accident page](about:blank).
+
+**Roundabouts.** State Street at Ellsworth in Ann Arbor, a roundabout, was second in the county with 85 crashes in 2024 but only 5 injuries. Roundabouts trade frequent low-speed crashes for fewer serious ones; the usual crash is a driver who fails to yield when entering, or changes lanes inside a two-lane roundabout. Fault depends on who had the right of way under the signs and markings.
+
+**Michigan Avenue, Ellsworth, Packard, and State.** Michigan Avenue (US-12) through Ypsilanti and Saline, Ellsworth and State near the Briarwood area, Packard at Platt in Ann Arbor: intersection and turning crashes in commercial strips. Michigan Avenue at Prospect in Ypsilanti had 20 injuries on 30 crashes in 2024, the most injuries of any intersection on the county’s list.
+
+**The rural roads and the deer.** West of Ann Arbor and north toward Whitmore Lake, the county’s roads are two lanes, unlit, with curves, hills, and gravel shoulders. The crashes are run-off-road and head-on crashes, crashes at stop signs on high-speed crossroads, and deer. **A deer crash with no other vehicle involved** is a no-fault claim against your own insurer for your injuries, and your comprehensive coverage, if you have it, pays for the car; there is usually no one to sue. **A crash where another driver swerved to avoid a deer** and hit you is a fault case like any other. A motorcyclist who hits a deer has no PIP claim.
+
+**The campuses.** Around the University of Michigan and Eastern Michigan University, many pedestrians, cyclists, scooter riders, and buses share the streets, and many students do not own a car. See our [bicycle accident page](about:blank).
+
+## Who pays after a Washtenaw County crash
+
+**Your no-fault (PIP) claim.** Your own auto insurer pays your medical expenses up to the PIP level you chose, 85 percent of lost wages for up to three years up to the monthly cap DIFS sets each year, replacement services at $20 a day, and attendant care, regardless of fault (MCL 500.3107). If you have no policy, a spouse’s or resident relative’s policy pays (MCL 500.3114); a pedestrian or cyclist with no household policy claims through the Michigan Assigned Claims Plan (MCL 500.3115);); and if no policy applies, the Michigan Assigned Claims Plan does (MCL 500.3172), capped at $250,000 for medical benefits. A student living away from home may still be covered by a parent’s policy, depending on where the student is domiciled. The insurer must receive written notice within one year (MCL 500.3145(1)) and must pay each bill within 30 days of reasonable proof or owe 12 percent interest (MCL 500.3142). See our [no-fault insurance claim page](about:blank) and [Michigan no-fault guide](about:blank).
+
+**Your claim against the at-fault driver.** For pain and suffering, you need a threshold injury: death, serious impairment of body function, or permanent serious disfigurement (MCL 500.3135(1)). A serious impairment is an objectively manifested impairment of an important body function that affects your general ability to lead your normal life; it does not have to be permanent (MCL 500.3135(5); *McCormick v Carrier*, 2010). You can also recover lost wages beyond the three years or above the monthly cap, and medical bills above your chosen PIP level (MCL 500.3135(3)(c)). If you were more than 50 percent at fault, you cannot recover pain-and-suffering damages, and below that your recovery is reduced by your share (MCL 500.3135(2)(b)). The suit must be filed within three years (MCL 600.5805(2)). The mini tort recovers up to $3,000 in vehicle damage not covered by your policy (MCL 500.3135(3)(e)).
+
+**Coverage on the other side.** Liability limits range from the $50,000 opt-down minimum (MCL 500.3009(5)) to large policies, and some drivers carry nothing. When the at-fault driver’s limit is too small for the injury, your own **underinsured motorist coverage** pays the difference, but most policies require your insurer’s written consent before you accept the at-fault driver’s limit; settling without it can forfeit the UIM claim. We read every policy in the household, including umbrella coverage, before valuing the claim. See our [uninsured motorist page](about:blank).
+
+**Drunk drivers and dram shop.** Washtenaw County recorded 276 alcohol-involved and 97 drug-involved crashes in 2024. A crash caused by a driver who was served while visibly intoxicated, or served as a minor, adds a claim against the bar, restaurant, or store that served them. Written notice must go to the retailer within 120 days after you hire a lawyer, the driver must be named and kept in the suit, and the suit must be filed within two years, not three (MCL 436.1801(3), (4)). See our [drunk driving accident page](about:blank).
+
+## When a university, a bus, or the road is involved
+
+**University vehicles.** The University of Michigan and Eastern Michigan University are state institutions. A crash with a university bus, police car, or other university vehicle is a claim against the State, filed in the Michigan Court of Claims, tried to a judge without a jury, with written notice within six months (MCL 600.6431). Your no-fault benefits are unaffected and come from your own insurer or, if no household policy covers you, under the ordinary priority rules (MCL 500.3114, 500.3115)
+
+**TheRide and other buses.** A crash with a TheRide bus (the Ann Arbor Area Transportation Authority) or a school bus is a claim against that agency under the motor vehicle exception to governmental immunity (MCL 691.1405), in the ordinary courts. A passenger hurt on a bus claims PIP under the priority rules for bus passengers (MCL 500.3114(2)). See our [bus accident page](about:blank).
+
+**Police and county vehicles.** City police, Washtenaw County Sheriff’s deputies, township fire departments, and Road Commission trucks and plows are claims under the same motor vehicle exception against the agency that owns the vehicle.
+
+**Whose road it is.** I-94, US-23, M-14, Michigan Avenue (US-12 and Business US-12), and Washtenaw Avenue (M-17 east of US-23; Business Loop I-94 and Business US-23 west of it) are MDOT’s, with written notice of a road defect filed with the Court of Claims within 120 days (MCL 691.1404). The county roads, including nearly every road in the twenty townships, are the Washtenaw County Road Commission’s; townships do not own roads. Ann Arbor, Ypsilanti, Saline, Chelsea, Dexter, and Milan own their own streets. A claim against the Road Commission or a city for a road defect takes written notice within 120 days (MCL 691.1402, 691.1404). The notice has to go to the agency that has jurisdiction over that stretch of road, or it is no notice.
+
+## Fault is the case
+
+In a rear-end crash, fault is rarely disputed. At a left turn on Washtenaw Avenue, a roundabout, a rural stop sign, or a freeway lane change, it often is. The evidence that decides it is perishable:
+
+- the police report from the agency that worked the crash: a city police department, the Washtenaw County Sheriff’s Office, a township police department, the Michigan State Police on the freeways, or a university police department on campus;
+- signal timing data from MDOT, the Road Commission, or the city;
+- store, apartment, and bus cameras along Washtenaw Avenue and the commercial corridors, and dash cameras, many overwritten within days;
+- TheRide bus video, if a bus was nearby, requested quickly;
+- the vehicles’ event data recorders;
+- the other driver’s phone records, for a distracted-driving claim (see our [distracted driving page](about:blank));
+- witnesses, including pedestrians and bus riders.
+
+We move promptly to request the camera footage, signal data, and vehicle data.
+
+## What to do after a Washtenaw County crash
+
+1. **Call 911 and get the police report.** Michigan requires a report for any crash with injury or $1,000 in damage (MCL 257.622).
+2. **Photograph the vehicles, plates, the other driver’s license and insurance card, the signals, and the lane markings**, and note every business with a camera facing the scene.
+3. **Get medical care the same day.** University of Michigan Health in Ann Arbor (Level I for adults and children) and Trinity Health Ann Arbor (Level I) are the county’s trauma centers on the State’s list.
+4. **Report to your own insurer and file the Application for No-Fault Benefits** within the first week.
+5. **Read your declarations page** for PIP level, UM/UIM, umbrella, collision, and comprehensive coverage.
+6. **Do not give a recorded statement** to the other driver’s insurer, sign a release, or accept a policy-limits offer before your UIM insurer consents.
+7. **Call a lawyer within days** if a university vehicle, a bus, or the road was involved: the six-month and 120-day notices are already running.
+
+Our [full checklist](about:blank) covers the first day, week, month, and year.
+
+## The courts
+
+Injury suits over $25,000 are filed in the Washtenaw County Trial Court (22nd Judicial Circuit Court) at 101 E. Huron Street in Ann Arbor. Mini tort and other claims up to $25,000 go to the district court for the community: the 15th District Court at 301 E. Huron Street for the City of Ann Arbor, the 14B District Court at 7200 S. Huron River Drive for Ypsilanti Township, and the 14A District Court, at 4133 Washtenaw Avenue in Pittsfield Township and in Ypsilanti, Chelsea, and Saline, for the rest of the county. Claims against MDOT and the universities go to the Court of Claims. Venue follows the order set by MCL 600.1629, which starts with the county where the crash happened, so most Washtenaw crash suits are filed in Washtenaw County.
+
+## Deadlines for Washtenaw County crash claims
+
+| What | When | Statute |
+| --- | --- | --- |
+| Written notice of injury to your no-fault insurer | 1 year | MCL 500.3145(1) |
+| Hit-and-run or UM claim notice | Per policy; often short | Policy terms |
+| Road defect (Road Commission or a city) | Written notice within 120 days | MCL 691.1402, 691.1404 |
+| Road defect on I-94, US-23, M-14, US-12, or M-17 (MDOT) | Notice filed with the Court of Claims within 120 days | MCL 691.1404 |
+| Crash with a University of Michigan or EMU vehicle | Court of Claims notice within 6 months | MCL 600.6431 |
+| Dram shop claim against a bar | Notice within 120 days of hiring a lawyer; suit within 2 years | MCL 436.1801(3) |
+| Suit against the at-fault driver | 3 years | MCL 600.5805(2) |
+| Injured child | 3 years, or one year after the 18th birthday if later | MCL 600.5851(1) |
+
+## Why Washtenaw County crash victims call ATLAW
+
+- 13 years of Michigan injury practice; more than 10,000 cases; more than $100 million recovered.
+- The right defendant and the right court identified before any notice runs: MDOT, the Road Commission, a city, a university, TheRide, or a private driver.
+- Camera, signal-data, bus-video, and vehicle-preservation requests sent promptly.
+- Every household policy, including a parent’s for a student, read before the claim is valued, and the UIM consent handled before any settlement.
+- No fee unless we recover money for you. The first conversation is free.
+
+## Frequently asked questions
+
+**How many car accidents happen in Washtenaw County?** 9,844 in 2024, with 2,231 people injured and 35 killed, according to the Michigan State Police. Ann Arbor had 2,770 of them.
+
+**Which Washtenaw County intersections have the most crashes?** In the State Police data for 2024, Hamilton at Washtenaw in Ypsilanti had the most (132), followed by the State and Ellsworth roundabout in Ann Arbor (85). Four of the top ten were in Pittsfield Township, three of them on Carpenter Road.
+
+**A University of Michigan bus hit my car. Who do I claim against?** The University, in the Michigan Court of Claims, with written notice within six months. Your own no-fault insurer pays your medical bills and lost wages first, regardless of fault.
+
+**I hit a deer on a back road. Does my insurance pay?** Your own no-fault insurer pays your medical bills and lost wages, and comprehensive coverage, if you have it, pays for the car. There is usually no one to sue. If another driver swerved to avoid a deer and hit you, that driver may be at fault.
+
+**I’m a student and don’t have car insurance. I was hit while crossing the street. Who pays?** A policy in your household, possibly a parent’s if you are still domiciled with them; if none, the Michigan Assigned Claims Plan (MCL 500.3115). You also have a claim against the driver if your injury meets the threshold.
+
+**The other driver’s insurer offered their policy limit. Should I take it?** Not before checking your own underinsured motorist coverage and getting your insurer’s written consent to settle.
+
+**How long do I have?** One year to give your no-fault insurer written notice, three years to sue the at-fault driver, two years to sue a bar, 120 days for a notice to the Road Commission or a city, 120 days for a road-defect notice against MDOT, and six months for a claim against a university.
+
+## Talk to a Washtenaw County car accident lawyer
+
+If you were injured in a crash anywhere in Washtenaw County, call **(313) 406-7606** or send the form on this page. We will tell you which insurers owe you benefits, whether you have a claim against the other driver, a bar, a university, or a road agency, and what evidence has to be preserved this week. The review is free, and there is no fee unless we recover money for you.
+
+*This page is general information about Michigan law as of October 2026 and is not legal advice. Crash figures are from the Michigan State Police, Michigan Traffic Crash Facts 2024, and State Police intersection data for 2024 as compiled and reported. Trauma center levels are from the State of Michigan’s list dated July 31, 2026. Results depend on the facts of each case, and past results do not guarantee a future outcome.*
