@@ -6,7 +6,7 @@ status: draft
 seoTitle: Dearborn Heights Personal Injury Lawyers: Telegraph, Ford Road, Warren Avenue, and the 20th District Court
 seoDescription: Injured in Dearborn Heights? ATLAW’s personal injury lawyers, minutes away in Dearborn, handle Telegraph, Ford Road, and Michigan Avenue crashes, Warren Avenue pedestrian injuries, Hines Drive crashes, falls, and no-fault claims, with the 20th District and Third Circuit courts, Corewell Health Dearborn and Garden City Hospital, and the deadlines that apply.
 h1: Personal Injury Law Firm Serving Dearborn Heights, MI
-tagline: Our next-door city: two halves joined by Telegraph, with Ford Road’s retail stretch and Telegraph’s eight lanes carrying its crashes.
+tagline: Our next-door city: Telegraph runs through its north and south halves, and Ford Road’s retail stretch and Telegraph’s signals and crossovers carry its crashes.
 primaryKeyword: personal injury law firm dearborn heights (no measured volume); page written to the “dearborn heights” lawyer/attorney long tail
 secondaryKeywords: car accident lawyer dearborn heights mi (50; served by /personal-injury/auto-accidents/dearborn-heights), dearborn heights car accident lawyer (10), dearborn heights personal injury attorney
 source: areas-served__dearborn-heights.docx
@@ -15,7 +15,7 @@ delivered: 2026-10-16
 
 ## Personal Injury Law Firm Serving Dearborn Heights, MI
 
-Dearborn Heights is ATLAW’s next-door city: about 61,000 people in two halves, a north end along Ford Road, Warren Avenue, and Joy Road that shares the east-side Arab American community with Dearborn, and a south end along Van Born, Pelham, and Beech Daly that borders Taylor and Allen Park, joined by Telegraph Road and crossed by Michigan Avenue in the middle. Its injuries follow the arterials: Telegraph’s eight lanes the length of the city, Ford Road’s retail stretch from the Southfield Freeway to Telegraph and beyond, Michigan Avenue’s industrial frontage, and the pedestrian crossings on Warren between the restaurants and the neighborhoods. Hines Drive, the county parkway along the Rouge, runs through the north end with its own crashes and park injuries. In 2024, Dearborn Heights recorded 1,251 traffic crashes, with 385 people injured and no traffic fatalities.
+Dearborn Heights is ATLAW’s next-door city: about 61,000 people in two halves, a north end along Ford Road, Warren Avenue, and Joy Road that shares the east-side Arab American community with Dearborn, and a south end along Van Born, Pelham, and Beech Daly that borders Taylor and Allen Park, with Telegraph Road running through both halves (between the Rouge and Ford Road it passes through Dearborn) and Michigan Avenue crossing the middle. Its injuries follow the arterials: Telegraph’s signals and crossovers through both halves of the city, Ford Road’s retail stretch from the Southfield Freeway to Telegraph and beyond, Michigan Avenue’s industrial frontage, and the pedestrian crossings on Warren between the restaurants and the neighborhoods. Hines Drive, the county parkway along the Rouge, runs through the north end with its own crashes and park injuries. In 2024, Dearborn Heights recorded 1,251 traffic crashes, with 385 people injured and no traffic fatalities.
 
 ATLAW’s office is at 3 Parklane Boulevard in Dearborn, a short drive from Dearborn Heights. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients, many of them Dearborn Heights residents. This page explains what is particular about a Dearborn Heights injury claim: where the injuries happen, who the defendants usually are, which courts hear the cases, and the deadlines that end them. Our [Wayne County page](/areas-served/wayne-county) covers the county as a whole, and our [Dearborn page](/areas-served/dearborn) covers the city next door.
 
@@ -31,7 +31,7 @@ ATLAW’s office is at 3 Parklane Boulevard in Dearborn, a short drive from Dear
 
 ## Where Dearborn Heights injuries happen
 
-**Telegraph Road (US-24).** Eight lanes from Joy Road to Van Born, the city’s spine and its dividing line, with signals at Joy, Warren, Ford, Cherry Hill, Michigan Avenue, Annapolis, and Van Born and retail and apartment frontage most of the way. Left-turn and red-light crashes at the signals, rear-end crashes in the stacked turn lanes, and pedestrian crashes between the complexes and the strips. Telegraph is MDOT’s.
+**Telegraph Road (US-24).** A seven- and eight-lane divided highway through both halves of the city, with median U-turn crossovers in place of direct left turns, and retail and apartment frontage most of the way; between the Rouge and Ford Road it runs through Dearborn. Crossover and red-light crashes, rear-end crashes in the stacked turn lanes, and pedestrian crashes between the complexes and the strips. Telegraph is MDOT’s.
 
 **Ford Road (M-153).** Through the north end from the Southfield Freeway and the Dearborn line past the retail strips, the Ford Road and Telegraph intersection, and Inkster Road. The Ford and Telegraph and Ford and Beech Daly intersections carry retail traffic, with left-turn, red-light, and driveway crashes among the risks. Ford Road is MDOT’s.
 
@@ -51,7 +51,7 @@ ATLAW’s office is at 3 Parklane Boulevard in Dearborn, a short drive from Dear
 
 **Three road agencies.** Warren, Joy, Cherry Hill, Van Born, Outer Drive, Beech Daly, Inkster, and Pelham fall under Wayne County or city jurisdiction depending on the segment; Hines Drive is maintained by Wayne County. A crash caused by a qualifying defect in the traveled roadway may implicate the highway exception to governmental immunity, MCL 691.1402. Signal malfunctions and sight obstructions require separate legal analysis.
 
-**Government vehicles.** Dearborn Heights Police and Fire, SMART buses on Telegraph, Ford Road, Michigan Avenue, and Warren, school buses from the Crestwood, Dearborn Heights District 7, Westwood, and Dearborn districts that serve parts of the city, and county road and parks vehicles are claims under the Governmental Tort Liability Act’s motor vehicle exception (MCL 691.1405). See our [bus accident page](/personal-injury/bus-accidents).
+**Government vehicles.** Dearborn Heights Police and Fire, SMART buses on Telegraph, Ford Road, and Michigan Avenue, school buses from the Crestwood, Dearborn Heights District 7, Westwood, and Dearborn districts that serve parts of the city, and county road and parks vehicles are claims under the Governmental Tort Liability Act’s motor vehicle exception (MCL 691.1405). See our [bus accident page](/personal-injury/bus-accidents).
 
 **The 20th District and the Third Circuit.** Claims up to $25,000, including mini tort claims for vehicle damage (MCL 500.3135(3)(e), up to $3,000), are filed in the 20th District Court at 25637 Michigan Avenue in Dearborn Heights. Injury suits over $25,000 go to the Third Judicial Circuit Court at the Coleman A. Young Municipal Center in Detroit. Wrongful death cases may require estate proceedings in Wayne County Probate Court, while the lawsuit itself proceeds in the court with jurisdiction. Settlements involving minors require court approval under MCR 2.420.
 
@@ -103,7 +103,7 @@ ATLAW’s office is at 3 Parklane Boulevard in Dearborn, a short drive from Dear
 
 **Where is ATLAW’s office, and how far is it from Dearborn Heights?** ATLAW’s office is at 3 Parklane Boulevard in Dearborn, a short drive from Dearborn Heights. Free surface parking is available.
 
-**Where are the crashes in Dearborn Heights?** At the Telegraph signals from Joy to Van Born, on Ford Road from the Southfield Freeway to Inkster (including Ford at Mercury Drive and Ford at Telegraph), on Michigan Avenue, and at the Warren Avenue crossings. In 2024, Dearborn Heights recorded 1,251 traffic crashes, 385 people injured, and no traffic fatalities. Wayne County as a whole recorded 50,355 crashes, 16,458 injuries, and 177 deaths in 2024.
+**Where are the crashes in Dearborn Heights?** At the Telegraph signals and crossovers, on Ford Road from the Southfield Freeway to Inkster (including Ford at Mercury Drive and Ford at Telegraph), on Michigan Avenue, and at the Warren Avenue crossings. In 2024, Dearborn Heights recorded 1,251 traffic crashes, 385 people injured, and no traffic fatalities. Wayne County as a whole recorded 50,355 crashes, 16,458 injuries, and 177 deaths in 2024.
 
 **I was hit crossing Warren Avenue or Ford Road. Who pays?** A pedestrian injured by a motor vehicle may qualify for no-fault benefits through an applicable personal or household auto policy. If no such coverage applies, the Michigan Assigned Claims Plan may provide benefits, subject to statutory eligibility and coverage rules (MCL 500.3114 and 500.3115). Your pain-and-suffering claim against the driver requires a threshold injury and depends on the driver’s coverage and your own UM/UIM. See our [pedestrian accident page](/personal-injury/pedestrian-accidents).
 

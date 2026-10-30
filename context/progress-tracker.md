@@ -772,6 +772,12 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - Tooling: the parser now reads every change in a comment (an arrow change after an Original/Required pair was being skipped; an audit of batches 34 to 36 found nothing missed); `apply_v2.py` handles quotes that begin with "…" and fills `[DATA]` rows given as "figure | source"; `postfix.py` closes a list step's bold lead-in after its first sentence
   - Open items: none on these four pages
   - Verified: import 236 drafts, typecheck and production build clean (7 pages); the four pages render with 3-cell tables and no artifacts
+- [x] City practice pages, batch 38: Dearborn Heights car, personal injury, truck, motorcycle (Oct 30, 2026) — B4-44 to B4-47
+  - 168 attorney-review comments applied, including: Telegraph runs through both halves of the city but passes through Dearborn between the Rouge and Ford Road, and is a seven- and eight-lane divided highway with median U-turn crossovers rather than direct left turns (the Cherry Hill crossing is in Dearborn); Warren and Hines Drive confirmed as county roads; SMART's Warren routes discontinued; the FMCSA Licensing and Insurance system, not the Company Snapshot, shows a carrier's insurance; an opened car door is not always an "involved" vehicle (the parked-vehicle rule); a person attending services is generally a licensee; constructive knowledge for sidewalk and public building notice; the adjacent-owner sidewalk rule; the no-fault priority for occupants and pedestrians; the motorcycle mini tort removal; the city-level truck and motorcycle placeholders removed; the office address; the cost terms; and her section approvals
+  - Tooling: the parser accepts "original wording" in lower case; a quote ending "… [MARKER]" removes the marker later on the same line; `join_faq.py` bolds a plain-text question her rewrite produced (an audit of batches 33 to 38 found no question merged into an answer)
+  - Also fixed: the Dearborn Heights hub described Telegraph as eight lanes "the length of the city" with direct left turns and listed SMART on Warren; it now matches her findings
+  - Open items: none on these four pages
+  - Verified: import 240 drafts, typecheck and production build clean (7 pages); the four pages render with 3-cell tables and no artifacts
 
 ### Open Questions
 
