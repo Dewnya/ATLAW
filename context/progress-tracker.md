@@ -754,6 +754,12 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - Damages caps: on the Royal Oak and Rochester Hills truck pages, the caps now apply to medical malpractice and product liability claims, such as a claim against the maker of a failed part (MCL 600.1483, 600.2946a), not to the claim against the driver and carrier; the cap FAQ matches
   - Not changed: 15 personal injury city pages say "there is no cap except in medical malpractice"; the reviewer approved that wording on the Novi personal injury page in the same review, so it was left for the firm or attorney to decide
   - Verified: import 224 drafts, typecheck and production build clean (7 pages); the statewide page and sampled city pages render the corrected text with no leftover mini tort wording
+- [x] City practice pages, batch 35: Novi nursing home abuse; West Bloomfield car, personal injury, truck (Oct 30, 2026) — B4-32 to B4-35
+  - 145 attorney-review comments applied, including: Novi's five certified nursing homes and the Attorney General's 2026 suit (the two Oakland County homes in it are in Pontiac and Ferndale, not Novi); the Medicaid repayment wording; Orchard Lake Road in its southern miles is a multi-lane road with a roundabout at Fourteen Mile and dual left-turn lanes at Maple (no boulevard or Michigan-left turnarounds could be confirmed), so the turnaround FAQ became a roundabout FAQ and the other turnaround mentions on the car page became roundabouts; the Farmington and Maple roundabout figures; the Road Commission owns the township's public roads and MDOT owns M-10; the township's pathway duty with constructive knowledge; the 48th District Court; the leasing-company shield; the Road Commission's spring weight restrictions; the cost terms; and her section approvals
+  - Tooling: `apply_v2.py` now handles quoted originals that use "…" for unchanged text and markers with "…"; `postfix.py` folds nested lists, collapses "- -" in inline FAQ lists, and rebuilds the MDOT/State deadline row; `join_faq.py` re-bolds questions whose first sentence lost its bold instead of merging them into the answer above
+  - Also fixed: the West Bloomfield hub described Orchard Lake Road as a boulevard with Michigan lefts and had a turnaround FAQ; both now match her finding
+  - Open items: none on these four pages
+  - Verified: import 228 drafts, typecheck and production build clean (7 pages); the four pages render with 3-cell tables and no artifacts
 
 ### Open Questions
 

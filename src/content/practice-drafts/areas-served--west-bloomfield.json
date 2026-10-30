@@ -206,7 +206,7 @@
       },
       {
        "t": "text",
-       "v": " The township’s north-south spine, from the Farmington Hills line past the Maple and Fourteen Mile retail strips, the Jewish Community Center, and the Orchard Lake and Pine Lake shorelines to Pontiac Trail and the Pontiac line, a boulevard with Michigan-left turnarounds in its southern miles and a two-lane road between the lakes in its northern ones. Turnaround and crossover crashes at the Michigan lefts, left-turn and red-light crashes at Maple, Fourteen Mile, Lone Pine, and Long Lake, and run-off-road and head-on crashes on the curves between the lakes. Orchard Lake Road is the Road Commission for Oakland County’s."
+       "v": " The township’s north-south spine, from the Farmington Hills line past the Maple and Fourteen Mile retail strips, the Jewish Community Center, and the Orchard Lake and Pine Lake shorelines to Pontiac Trail and the Pontiac line, a multi-lane road in its southern miles, with a roundabout at Fourteen Mile and dual left-turn lanes at Maple, and a two-lane road between the lakes in its northern ones. Roundabout crashes at Fourteen Mile, left-turn and red-light crashes at Maple, Lone Pine, and Long Lake, and run-off-road and head-on crashes on the curves between the lakes. Orchard Lake Road is the Road Commission for Oakland County’s."
       }
      ]
     },
@@ -1189,11 +1189,11 @@
    ]
   },
   {
-   "question": "I was hurt in a Michigan-left turnaround crash on Orchard Lake Road. Who is at fault?",
+   "question": "I was hurt in a crash at the Orchard Lake Road roundabout. Who is at fault?",
    "answer": [
     {
      "t": "text",
-     "v": "Usually the driver who failed to yield at the turnaround or ran the signal, but these crashes are disputed often, and the signal phase and sight lines matter. Photograph the turnaround and the signals, get the witnesses, and note that the Road Commission’s cameras at the signalized turnarounds are retained for days."
+     "v": "Usually the driver entering, who must yield to traffic already in the roundabout, but these crashes are often disputed, and the yield signs, the lane markings, and the sight lines matter. Photograph the roundabout, get the witnesses, and ask for any nearby camera footage within days."
     }
    ]
   },
@@ -1276,7 +1276,7 @@
    }
   ]
  },
- "wordCount": 2347,
+ "wordCount": 2346,
  "openItems": 1,
  "source": {
   "file": "areas-served__west-bloomfield.docx",
