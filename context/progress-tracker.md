@@ -767,6 +767,11 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - Also fixed: the Westland hub put I-275 along the city's western edge; per her note (no interstate crashes in Westland in 2024), it now says I-275 runs just to the west
   - Open items: none on these four pages
   - Verified: import 232 drafts, typecheck and production build clean (7 pages); the four pages render with 3-cell tables and no artifacts
+- [x] City practice pages, batch 37: Westland personal injury, truck, motorcycle, nursing home abuse (Oct 30, 2026) — B4-40 to B4-43
+  - 146 attorney-review comments applied, including: both I-275 interchanges near Westland (Ford Road, exit 25; Michigan Avenue, exit 22) are in Canton and no interstate crashes were recorded in Westland in 2024; the Wayne County motorcycle row (509 motorcycles involved / 367 injured / 24 killed); the Westland motorcycle row deleted (no community figure, and no source for the 2023 number); the adjacent-owner sidewalk rule; the motorcycle mini tort removal; UIM consent terms (Rory); the languages line on every intro; the office address; the cost terms; and her section approvals
+  - Tooling: the parser now reads every change in a comment (an arrow change after an Original/Required pair was being skipped; an audit of batches 34 to 36 found nothing missed); `apply_v2.py` handles quotes that begin with "…" and fills `[DATA]` rows given as "figure | source"; `postfix.py` closes a list step's bold lead-in after its first sentence
+  - Open items: none on these four pages
+  - Verified: import 236 drafts, typecheck and production build clean (7 pages); the four pages render with 3-cell tables and no artifacts
 
 ### Open Questions
 
