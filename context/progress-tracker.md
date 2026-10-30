@@ -760,6 +760,13 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - Also fixed: the West Bloomfield hub described Orchard Lake Road as a boulevard with Michigan lefts and had a turnaround FAQ; both now match her finding
   - Open items: none on these four pages
   - Verified: import 228 drafts, typecheck and production build clean (7 pages); the four pages render with 3-cell tables and no artifacts
+- [x] City practice pages, batch 36: West Bloomfield motorcycle, medical malpractice, nursing home abuse; Westland car (Oct 30, 2026) — B4-36 to B4-39
+  - 147 attorney-review comments applied, including: no Orchard Lake Road turnarounds (title, meta, intro, and the left-turn section now say roundabouts; the turnaround bullet deleted), Farmington at Maple a roundabout, M-10 rather than M-5 as the State trunkline with 120-day notice, the 30-day presumption, the uninsured-owner exception to the Assigned Claims Plan, the first-priority medical limit, the helmet sentence, the dram shop notice clock, the motorcycle mini tort removal (Nerat v Swacker), Westland's 2024 figures confirmed (17 serious, 177 minor, 351 possible injuries; deaths per 1,000 crashes 1.9 against 3.5 countywide and 3.8 statewide), the liability-limit citation MCL 500.3009(1), (5), the cost terms, and her section approvals
+  - Unsupported claims she removed: "more often than car injuries", "many drivers carry $250,000 or more", "many rider crashes here happen on" the lake roads
+  - Tooling: a section verdict that says "delete the other brackets in these sections" now clears both sections it names
+  - Also fixed: the Westland hub put I-275 along the city's western edge; per her note (no interstate crashes in Westland in 2024), it now says I-275 runs just to the west
+  - Open items: none on these four pages
+  - Verified: import 232 drafts, typecheck and production build clean (7 pages); the four pages render with 3-cell tables and no artifacts
 
 ### Open Questions
 
