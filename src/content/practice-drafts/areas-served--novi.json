@@ -229,7 +229,7 @@
       },
       {
        "t": "text",
-       "v": " I-275 along the city’s eastern edge to the I-96/I-696/M-5 interchange in Farmington Hills; M-5 (the Haggerty Connector) from that interchange north through Novi and Commerce to Pontiac Trail, a boulevard with Michigan-left turnarounds and signals at Twelve, Thirteen, and Fourteen Mile. Merge and weave crashes at the interchange, turnaround and crossover crashes on M-5, and rear-end crashes in the commuter stop-and-go. Both are MDOT’s."
+       "v": " I-275 along the city’s eastern edge to the I-96/I-696/M-5 interchange in Farmington Hills; M-5 (the Haggerty Connector) from that interchange north through Novi and Commerce to Pontiac Trail, a freeway past the Twelve Mile interchange and then a divided boulevard with signals and median crossovers at Thirteen and Fourteen Mile. Merge and weave crashes at the interchange, turnaround and crossover crashes on M-5, and rear-end crashes in the commuter stop-and-go. Both are MDOT’s."
       }
      ]
     },
@@ -479,7 +479,7 @@
       },
       {
        "t": "text",
-       "v": " I-96, I-275, and M-5 are MDOT’s; Novi Road, Grand River, the mile roads, Beck, Haggerty, Meadowbrook, Taft, and Wixom Road are the City of Novi’s or the Road Commission for Oakland County’s by segment. A crash caused by a defect in the traveled roadway may implicate the highway exception to governmental immunity, MCL 691.1402. Signal malfunctions and sight obstructions require separate legal analysis."
+       "v": " I-96, I-275, and M-5 are MDOT’s; Haggerty, Eight Mile, Napier, Pontiac Trail, and Fourteen Mile are the Road Commission for Oakland County’s; Novi Road, Grand River, Ten through Thirteen Mile, Beck, Taft, Meadowbrook, and Wixom Road are the City of Novi’s. A crash caused by a defect in the traveled roadway may implicate the highway exception to governmental immunity, MCL 691.1402. Signal malfunctions and sight obstructions require separate legal analysis."
       }
      ]
     },
@@ -1191,7 +1191,7 @@
    "answer": [
     {
      "t": "text",
-     "v": "On I-96, I-275, or M-5, MDOT, in the Court of Claims with a six-month notice. On Novi Road, Grand River, the mile roads, or the other arterials, the City of Novi or the Road Commission for Oakland County, depending on the segment, with written notice within 120 days. A lawyer can confirm the agency from the location in a day."
+     "v": "On I-96, I-275, or M-5, MDOT, with written notice of a road defect filed in the Court of Claims within 120 days. On Novi Road, Grand River, the mile roads, or the other arterials, the City of Novi or the Road Commission for Oakland County, depending on the segment, with written notice within 120 days. A lawyer can confirm the agency from the location in a day."
     }
    ]
   },
@@ -1265,7 +1265,7 @@
    }
   ]
  },
- "wordCount": 2163,
+ "wordCount": 2186,
  "openItems": 1,
  "source": {
   "file": "areas-served__novi.docx",
