@@ -789,6 +789,11 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - Also fixed: the Macomb Township personal injury tenure row deleted as she directed (no township-level figure); the Macomb Township hub's road FAQ asked about "a bad signal, a roundabout, or a pothole" and now asks about a pothole, matching her signal ruling
   - Open items: none on these four pages
   - Verified: import 248 drafts, typecheck and production build clean (7 pages); the four pages and the hub render with no artifacts
+- [x] City practice pages, batch 41: Macomb Township truck, motorcycle, wrongful death (Oct 30, 2026) — B4-56 to B4-58
+  - 73 attorney-review comments applied, including: the State does not publish truck crashes by community, so the township truck placeholder is removed; the 2025 Hall Road at Hayes rank (7th, 67 crashes); the 120-day MDOT notice; the FMCSA Company Snapshot does not show insurance; a pavement drop-off is a defect claim only on the traveled lanes; the Probate Court moved from Dunham Road to the Mount Clemens courthouse in May 2019; the damages-cap sentence includes product liability; the lower malpractice cap generally applies in death cases; Medstar runs EMS transport in the township; "one attorney and one point of contact" removed; the no-fault priority rules; the trauma levels; the office address; and her section approvals
+  - Also fixed: the truck table's Hall Road row had an empty fourth cell; the motorcycle Sheriff section's FOIA timing; the Macomb Township hub and personal injury page named the "Macomb Township Fire Department EMS run sheet" and now name the Medstar run sheet, matching her finding
+  - Open items: none on these three pages
+  - Verified: import 251 drafts, typecheck and production build clean (7 pages); the three pages and the hub render with no artifacts
 
 ### Open Questions
 

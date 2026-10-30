@@ -584,7 +584,7 @@
       },
       {
        "t": "text",
-       "v": " Henry Ford Macomb Hospital in Clinton Township, just south of Hall Road, and McLaren Macomb in Mount Clemens are regional Level II trauma centers that treat seriously injured Macomb Township residents; Corewell Health Troy and Henry Ford and McLaren outpatient facilities also provide medical care in the surrounding area. We obtain the full record from each, including the Macomb Township Fire Department EMS run sheet."
+       "v": " Henry Ford Macomb Hospital in Clinton Township, just south of Hall Road, and McLaren Macomb in Mount Clemens are regional Level II trauma centers that treat seriously injured Macomb Township residents; Corewell Health Troy and Henry Ford and McLaren outpatient facilities also provide medical care in the surrounding area. We obtain the full record from each, including the Medstar ambulance run sheet."
       }
      ]
     }
@@ -1306,7 +1306,7 @@
    }
   ]
  },
- "wordCount": 2436,
+ "wordCount": 2433,
  "openItems": 0,
  "source": {
   "file": "areas-served__macomb-township.docx",

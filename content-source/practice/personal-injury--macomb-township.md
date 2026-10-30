@@ -67,7 +67,7 @@ The State publishes injury counts by township only for crashes. Falls in stores 
 We also obtain:
 
 - the crash or incident report from the Macomb County Sheriff’s Office, which provides the township’s police services under contract
-- the Macomb Township Fire Department EMS run sheet
+- the Medstar ambulance run sheet
 - the witnesses’ names
 
 **The first month.** We identify every policy that may pay:

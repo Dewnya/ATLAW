@@ -58,7 +58,7 @@ ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled mo
 
 **The 41A District and the Sixteenth Circuit.** Claims up to $25,000, including mini tort claims for vehicle damage (MCL 500.3135(3)(e), up to $3,000), are filed in the 41A District Court, Shelby Township division, at 52420 Van Dyke Avenue, which serves Macomb Township, Shelby Township, and Utica. Injury suits over $25,000 go to the Sixteenth Judicial Circuit Court at 40 N. Main Street in Mount Clemens. Wrongful death cases may require estate proceedings in Macomb County Probate Court at 40 N. Main Street in Mount Clemens, while the lawsuit proceeds in the court with jurisdiction. Settlements involving minors require court approval under MCR 2.420.
 
-**The hospitals.** Henry Ford Macomb Hospital in Clinton Township, just south of Hall Road, and McLaren Macomb in Mount Clemens are regional Level II trauma centers that treat seriously injured Macomb Township residents; Corewell Health Troy and Henry Ford and McLaren outpatient facilities also provide medical care in the surrounding area. We obtain the full record from each, including the Macomb Township Fire Department EMS run sheet.
+**The hospitals.** Henry Ford Macomb Hospital in Clinton Township, just south of Hall Road, and McLaren Macomb in Mount Clemens are regional Level II trauma centers that treat seriously injured Macomb Township residents; Corewell Health Troy and Henry Ford and McLaren outpatient facilities also provide medical care in the surrounding area. We obtain the full record from each, including the Medstar ambulance run sheet.
 
 ## The cases we handle in Macomb Township
 
