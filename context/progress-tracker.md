@@ -778,6 +778,12 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - Also fixed: the Dearborn Heights hub described Telegraph as eight lanes "the length of the city" with direct left turns and listed SMART on Warren; it now matches her findings
   - Open items: none on these four pages
   - Verified: import 240 drafts, typecheck and production build clean (7 pages); the four pages render with 3-cell tables and no artifacts
+- [x] City practice pages, batch 39: Dearborn Heights nursing home abuse; St. Clair Shores car, personal injury, truck (Oct 30, 2026) — B4-48 to B4-51
+  - 163 attorney-review comments applied, including: St. Clair Shores' 2024 figures confirmed (1,356 crashes; 3 killed, 20 seriously injured, 365 injured; a third on I-94); the 2025 I-94 interchange rankings (12 Mile third, 10 Mile ninth) cited to State Police crash data published September 2026; "lake-effect snow" on I-94 removed as unsupported; MDOT freeway cameras are live-view and not continuously recorded; the I-94 service drives may belong to MDOT or the local agency; SMART on Jefferson, Harper, and Nine Mile; the Macomb County Sheriff's Marine Division on the lake; the Nautical Mile; a foreign carrier's registration, insurance, and process agent (49 CFR 366.4); the FMCSA insurance lookup; the liability-limit citation MCL 500.3009(1), (5); the no-fault priority rules; the cost terms; and her section approvals
+  - Tooling: the parser recognizes section verdicts whose titles contain periods ("ST. CLAIR SHORES")
+  - Also fixed: the St. Clair Shores hub's I-94 FAQ gave a six-month MDOT notice and assigned the service drives to the county or City; its SMART line named the mile roads; both now match her findings
+  - Open items: none on these four pages
+  - Verified: import 244 drafts, typecheck and production build clean (7 pages); the four pages and the hub render with 3-cell tables and no artifacts
 
 ### Open Questions
 

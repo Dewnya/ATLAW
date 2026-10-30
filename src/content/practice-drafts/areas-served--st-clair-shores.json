@@ -511,7 +511,7 @@
       },
       {
        "t": "text",
-       "v": " St. Clair Shores Police and Fire, SMART buses on Jefferson, Harper, and the mile roads, school buses from the Lakeview, Lake Shore, and South Lake districts, and Department of Roads trucks are claims under the Governmental Tort Liability Act’s motor vehicle exception (MCL 691.1405). See our "
+       "v": " St. Clair Shores Police and Fire, SMART buses on Jefferson, Harper, and Nine Mile, school buses from the Lakeview, Lake Shore, and South Lake districts, and Department of Roads trucks are claims under the Governmental Tort Liability Act’s motor vehicle exception (MCL 691.1405). See our "
       },
       {
        "t": "link",
@@ -1192,7 +1192,7 @@
    "answer": [
     {
      "t": "text",
-     "v": "MDOT for the freeway and its ramps, in the Court of Claims with a six-month notice; the county or the city for the service drives and the mile roads, with written notice within 120 days. The claim against the other driver is unaffected."
+     "v": "MDOT for the freeway and its ramps, with written notice of a road defect filed with the Court of Claims within 120 days; Macomb County or the City for the mile roads, depending on the segment, with written notice within 120 days. The service drives may belong to MDOT or to the county or City, so the owner of that stretch has to be confirmed before notice goes out. The claim against the other driver is unaffected."
     }
    ]
   },
@@ -1275,7 +1275,7 @@
    }
   ]
  },
- "wordCount": 2287,
+ "wordCount": 2320,
  "openItems": 1,
  "source": {
   "file": "areas-served__st-clair-shores.docx",
