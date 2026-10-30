@@ -490,8 +490,17 @@
       ],
       [
        {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Fire protection is the Waterford Regional Fire Department’s,"
+         }
+        ]
+       },
+       {
         "t": "text",
-        "v": "Fire protection is the Waterford Regional Fire Department’s, under contract with the City. A crash with a fire engine is a claim against the agency that owns it, usually Waterford Township, under the motor vehicle exception (MCL 691.1405). Ambulance transport is by a private company, which is an ordinary defendant."
+        "v": " under contract with the City. A crash with a fire engine is a claim against the agency that owns it, usually Waterford Township, under the motor vehicle exception (MCL 691.1405). Ambulance transport is by a private company, which is an ordinary defendant."
        }
       ],
       [
