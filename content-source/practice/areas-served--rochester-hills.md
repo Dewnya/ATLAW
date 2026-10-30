@@ -32,7 +32,7 @@ ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled mo
 
 ## Where Rochester Hills injuries happen
 
-**M-59.** Across the city’s middle, a freeway from I-75 to Crooks and a boulevard east of it, with interchanges and signals at Adams, Crooks, Livernois, Rochester Road, and John R, and the Rochester Road interchange carrying the retail and commuter traffic of the whole northeast county. Merge and weave crashes at the interchanges, rear-end crashes in the boulevard’s stop-and-go, and Michigan-left turnaround crashes where M-59 is divided. M-59 is MDOT’s.
+**M-59.** Across the city’s middle, a freeway from I-75 to the Macomb County line, with interchanges including Adams, Crooks, and Rochester Road, the Rochester Road interchange carrying the retail and commuter traffic of the whole northeast county. Merge and weave crashes at the interchanges and rear-end crashes in the backups. M-59 is MDOT’s.
 
 **Rochester Road.** The city’s main north-south arterial, from South Boulevard and the Troy line through the M-59 interchange, the Auburn and Hamlin retail strips, and the Avon and Tienken signals to downtown Rochester; between M-59 and Tienken Road, Rochester Road is designated M-150 and is under MDOT jurisdiction. Left-turn and red-light crashes at the signals, driveway crashes at the strips, and pedestrian crashes near the restaurants and the downtown.
 

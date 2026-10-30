@@ -218,7 +218,7 @@
       },
       {
        "t": "text",
-       "v": " Across the city’s middle, a freeway from I-75 to Crooks and a boulevard east of it, with interchanges and signals at Adams, Crooks, Livernois, Rochester Road, and John R, and the Rochester Road interchange carrying the retail and commuter traffic of the whole northeast county. Merge and weave crashes at the interchanges, rear-end crashes in the boulevard’s stop-and-go, and Michigan-left turnaround crashes where M-59 is divided. M-59 is MDOT’s."
+       "v": " Across the city’s middle, a freeway from I-75 to the Macomb County line, with interchanges including Adams, Crooks, and Rochester Road, the Rochester Road interchange carrying the retail and commuter traffic of the whole northeast county. Merge and weave crashes at the interchanges and rear-end crashes in the backups. M-59 is MDOT’s."
       }
      ]
     },
@@ -1300,7 +1300,7 @@
    }
   ]
  },
- "wordCount": 2338,
+ "wordCount": 2321,
  "openItems": 1,
  "source": {
   "file": "areas-served__rochester-hills.docx",
