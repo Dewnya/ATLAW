@@ -51,7 +51,7 @@ The first medical limit is set by a policy you did not choose. Since the 2019 re
 
 **If no car or truck was involved, no-fault does not apply at all.** A single-vehicle crash, a pothole on Ford Road, gravel on a ramp: no PIP claim. Your bills go to your health insurance and to any medical coverage you bought on the motorcycle policy, and your injury claim is against whoever caused the hazard, the road agency, a property owner, or a manufacturer (see our [product liability page](/personal-injury/product-liability)).
 
-**Your motorcycle.** Covered by your own collision coverage, or by the mini tort claim against the at-fault driver for up to $3,000 (MCL 500.3135(3)(e)), filed in the 19th District Court on Michigan Avenue if the insurer will not pay it. Keep the bike, the helmet, and the gear unrepaired and unsold until a lawyer has seen them.
+**Your motorcycle.** Your own collision or comprehensive coverage pays for the bike. The mini tort claim does not cover a motorcycle, because a motorcycle is not a “motor vehicle” under the no-fault act (*Nerat v Swacker*, 150 Mich App 61, 1986). Keep the bike, the helmet, and the gear unrepaired and unsold until a lawyer has seen them.
 
 ## Your claim against the driver who hit you
 
@@ -86,7 +86,6 @@ Our [full checklist](about:blank) covers the first day, week, month, and year.
 | Road defect claim against the City of Dearborn or Wayne County | Written notice within 120 days | MCL 691.1404 |
 | Defect on Michigan Avenue, Ford Road, Telegraph, M-39, or I-94 (MDOT) | Notice filed with the Court of Claims within 120 days | MCL 691.1404, 600.6431 |
 | Suit against the at-fault driver | 3 years | MCL 600.5805(2) |
-| Mini tort for the motorcycle | 3 years | MCL 600.5805(2) **[ATTORNEY CHECK]** |
 | Wrongful death | 3 years, with the estate’s savings provision | MCL 600.5805(2), 600.5852 |
 
 ## Why Dearborn riders call ATLAW

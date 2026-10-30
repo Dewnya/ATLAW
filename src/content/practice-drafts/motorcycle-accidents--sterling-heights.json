@@ -577,7 +577,20 @@
       },
       {
        "t": "text",
-       "v": " Covered by your own collision coverage, or by the mini tort claim against the at-fault driver for up to $3,000 (MCL 500.3135(3)(e)), filed in the 41A District Court if the insurer will not pay it."
+       "v": " Your own collision or comprehensive coverage pays for the bike. The mini tort claim does not cover a motorcycle, because a motorcycle is not a “motor vehicle” under the no-fault act ("
+      },
+      {
+       "t": "em",
+       "c": [
+        {
+         "t": "text",
+         "v": "Nerat v Swacker"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ", 150 Mich App 61, 1986)."
       }
      ]
     }
@@ -843,7 +856,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Rider injury suits over $25,000 go to the Sixteenth Judicial Circuit Court in Mount Clemens, or in some Dequindre cases to the Oakland County Circuit Court (MCL 600.1629); mini tort and smaller claims to the 41A District Court on Dodge Park Road; claims against MDOT to the Court of Claims."
+       "v": "Rider injury suits over $25,000 go to the Sixteenth Judicial Circuit Court in Mount Clemens, or in some Dequindre cases to the Oakland County Circuit Court (MCL 600.1629); smaller claims to the 41A District Court on Dodge Park Road; claims against MDOT to the Court of Claims."
       }
      ]
     },
@@ -989,26 +1002,6 @@
          "v": "MCL 600.5805(2)"
         }
        ]
-      ],
-      [
-       [
-        {
-         "t": "text",
-         "v": "Mini tort for the motorcycle"
-        }
-       ],
-       [
-        {
-         "t": "text",
-         "v": "3 years"
-        }
-       ],
-       [
-        {
-         "t": "text",
-         "v": "MCL 600.5805(2)"
-        }
-       ]
       ]
      ]
     }
@@ -1139,7 +1132,7 @@
    }
   ]
  },
- "wordCount": 2124,
+ "wordCount": 2119,
  "openItems": 0,
  "source": {
   "file": "B3-24_Sterling-Heights-Motorcycle-Accident-Lawyer.docx",

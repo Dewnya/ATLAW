@@ -65,7 +65,7 @@ The first medical limit is set by a policy you did not choose. Since the 2019 re
 
 **If no car or truck was involved, no-fault does not apply.** A single-vehicle crash on a pothole, a broken joint, or gravel on a county road produces no PIP claim. Your bills go to your health insurance and any medical coverage you bought on the motorcycle policy, and your injury claim is against whoever caused the hazard. Some summaries say motorcycles are simply “not included” in no-fault, or that benefits are unavailable “in most cases”; that is true of the definition, but a rider hit by a car usually has a full PIP claim.
 
-**Your motorcycle.** Covered by your own collision coverage, or by the mini tort claim against the at-fault driver for up to $3,000 (MCL 500.3135(3)(e)), filed in the 35th District Court in Plymouth if the insurer will not pay it.
+**Your motorcycle.** Your own collision or comprehensive coverage pays for the bike. The mini tort claim does not cover a motorcycle, because a motorcycle is not a “motor vehicle” under the no-fault act (*Nerat v Swacker*, 150 Mich App 61, 1986).
 
 ## Your claim against the driver who hit you
 
@@ -91,7 +91,7 @@ Since 2012, Michigan has let riders 21 and older ride without a helmet if they c
 
 ## The courts and deadlines
 
-Rider injury suits over $25,000 go to the Third Judicial Circuit Court in Detroit, or in some cases with a Washtenaw or Oakland County defendant to that county’s circuit court (MCL 600.1629); mini tort and smaller claims to the 35th District Court at 660 Plymouth Road in Plymouth; claims against MDOT to the Court of Claims. **[ATTORNEY CHECK]**
+Rider injury suits over $25,000 go to the Third Judicial Circuit Court in Detroit, or in some cases with a Washtenaw or Oakland County defendant to that county’s circuit court (MCL 600.1629); smaller claims to the 35th District Court at 660 Plymouth Road in Plymouth; claims against MDOT to the Court of Claims. **[ATTORNEY CHECK]**
 
 | What | When | Statute |
 | --- | --- | --- |
@@ -101,7 +101,6 @@ Rider injury suits over $25,000 go to the Third Judicial Circuit Court in Detroi
 | Defect on Ford Road, Michigan Avenue, or I-275 (MDOT) | Notice filed with the Court of Claims within 120 days | MCL 691.1404 |
 | Dram shop claim | Notice within 120 days of hiring a lawyer; suit within 2 years | MCL 436.1801(3) |
 | Suit against the at-fault driver | 3 years | MCL 600.5805(2) |
-| Mini tort for the motorcycle | 3 years | MCL 600.5805(2) |
 
 ## Why Canton riders call ATLAW
 

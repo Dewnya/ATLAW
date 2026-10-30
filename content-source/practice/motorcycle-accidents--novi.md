@@ -116,7 +116,7 @@ The first medical limit is set by a policy you did not choose. Since the 2019 re
 
 Your bills go to your health insurance and to any medical coverage you bought on the motorcycle policy. Any injury claim is against whoever caused the hazard, if anyone did.
 
-**Your motorcycle.** Your own collision or comprehensive coverage pays for the bike. The mini tort claim does not cover a motorcycle, because a motorcycle is not a “motor vehicle” under the no-fault act (Nerat v Swacker, 150 Mich App 61, 1986).
+**Your motorcycle.** Your own collision or comprehensive coverage pays for the bike. The mini tort claim does not cover a motorcycle, because a motorcycle is not a “motor vehicle” under the no-fault act (*Nerat v Swacker*, 150 Mich App 61, 1986).
 
 ## Your claim against the driver who hit you
 

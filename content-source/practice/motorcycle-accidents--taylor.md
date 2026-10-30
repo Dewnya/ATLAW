@@ -94,7 +94,7 @@ The first medical limit is set by a policy you did not choose. Since the 2019 re
 
 **If no car or truck was involved, no-fault does not apply.** A single-vehicle crash on a pothole, a broken joint, or gravel produces no PIP claim. Your bills go to your health insurance and to any medical coverage you bought on the motorcycle policy. Your injury claim is against whoever caused the hazard.
 
-**Your motorcycle.** Damage to the bike is covered by your own collision coverage, or by the mini tort claim against the at-fault driver for up to $3,000 (MCL 500.3135(3)(e)). If the insurer will not pay the mini tort claim, it is filed in the 23rd District Court in Taylor.
+**Your motorcycle.** Your own collision or comprehensive coverage pays for the bike. The mini tort claim does not cover a motorcycle, because a motorcycle is not a “motor vehicle” under the no-fault act (*Nerat v Swacker*, 150 Mich App 61, 1986).
 
 ## Your claim against the driver who hit you
 
@@ -140,7 +140,7 @@ Riders under 21 must wear a helmet. If you met those conditions, riding without 
 ## The courts and deadlines
 
 - **Injury suits over $25,000** go to the Third Judicial Circuit Court at the Coleman A. Young Municipal Center in Detroit.
-- **Mini tort and smaller claims** go to the 23rd District Court at 23365 Goddard Road in Taylor.
+- **Smaller claims** go to the 23rd District Court at 23365 Goddard Road in Taylor.
 - **Claims against MDOT** go to the Court of Claims.
 
 
@@ -153,7 +153,6 @@ Riders under 21 must wear a helmet. If you met those conditions, riding without 
 | Defect on Telegraph, I-75, or I-94 (MDOT) | Notice filed with the Court of Claims within 120 days | MCL 691.1404 |
 | Dram shop claim | Notice within 120 days of hiring a lawyer; suit within 2 years | MCL 436.1801(3) |
 | Suit against the at-fault driver | 3 years | MCL 600.5805(2) |
-| Mini tort for the motorcycle | 3 years | MCL 600.5805(2) |
 
 ## Why Taylor riders call ATLAW
 

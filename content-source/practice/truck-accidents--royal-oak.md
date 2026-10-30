@@ -153,7 +153,7 @@ Your claim against the driver and the carrier is for pain and suffering and for 
 - **More than 50 percent at fault:** you cannot recover pain-and-suffering damages.
 - **50 percent or less:** your share reduces them (MCL 500.3135(2)(b); MCL 600.2959).
 
-The noneconomic damages caps in MCL 600.1483 apply to medical malpractice, not to truck crashes.
+The noneconomic damages caps apply to medical malpractice and to product liability claims, such as a claim against the maker of a failed part (MCL 600.1483, 600.2946a), not to the claim against the driver and carrier.
 
 The difference from a car case is the money available: the carrier’s $750,000-plus policy, often with excess coverage above it. If the carrier’s coverage still falls short, your own underinsured motorist coverage may add to it. Your insurer’s written consent is needed before you accept the carrier’s limit. See our [no-fault insurance claim page](/personal-injury/car-accident-insurance).
 
@@ -245,7 +245,7 @@ Our [full checklist](about:blank) covers the first day, week, month, and year.
 
 **My car went under the back of a trailer on I-696. Is that the truck’s fault?** It may be partly or wholly. Trailers must carry rear impact guards built to federal standards. A guard that is missing, bent, or too high to stop a car is evidence against the carrier and the trailer’s owner. The trailer has to be inspected before it is repaired.
 
-**Is there a cap on what I can recover from a trucking company?** Not on pain and suffering in a truck case. Michigan’s damages caps apply to medical malpractice. In practice, the limit is the insurance available: the carrier’s policy, any excess policy, and your own underinsured coverage.
+**Is there a cap on what I can recover from a trucking company?** Not on pain and suffering against the driver or carrier. Michigan’s damages caps apply to medical malpractice and product liability claims. In practice, the limit is the insurance available: the carrier’s policy, any excess policy, and your own underinsured coverage.
 
 **Why does the lawyer need to act within days?** Because the records expire. Hours-of-service logs must be kept for six months and inspection reports for three. Camera footage lasts days or weeks. The truck’s electronic data and the trailer’s damage can disappear when the truck is repaired.
 

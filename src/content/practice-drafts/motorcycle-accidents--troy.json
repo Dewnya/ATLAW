@@ -549,7 +549,20 @@
       },
       {
        "t": "text",
-       "v": " Covered by your own collision coverage, or by the mini tort claim against the at-fault driver for up to $3,000 (MCL 500.3135(3)(e)), filed in the 52-4 District Court if the insurer will not pay it."
+       "v": " Your own collision or comprehensive coverage pays for the bike. The mini tort claim does not cover a motorcycle, because a motorcycle is not a “motor vehicle” under the no-fault act ("
+      },
+      {
+       "t": "em",
+       "c": [
+        {
+         "t": "text",
+         "v": "Nerat v Swacker"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ", 150 Mich App 61, 1986)."
       }
      ]
     }
@@ -825,7 +838,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Rider injury suits over $25,000 go to the Sixth Judicial Circuit Court at 1200 N. Telegraph Road in Pontiac, or in some Dequindre or Macomb County cases to the Sixteenth Circuit in Mount Clemens (MCL 600.1629); mini tort and smaller claims to the 52nd District Court, Fourth Division, at 520 W. Big Beaver Road; claims against MDOT to the Court of Claims."
+       "v": "Rider injury suits over $25,000 go to the Sixth Judicial Circuit Court at 1200 N. Telegraph Road in Pontiac, or in some Dequindre or Macomb County cases to the Sixteenth Circuit in Mount Clemens (MCL 600.1629); smaller claims to the 52nd District Court, Fourth Division, at 520 W. Big Beaver Road; claims against MDOT to the Court of Claims."
       }
      ]
     },
@@ -957,26 +970,6 @@
         {
          "t": "text",
          "v": "Suit against the at-fault driver"
-        }
-       ],
-       [
-        {
-         "t": "text",
-         "v": "3 years"
-        }
-       ],
-       [
-        {
-         "t": "text",
-         "v": "MCL 600.5805(2)"
-        }
-       ]
-      ],
-      [
-       [
-        {
-         "t": "text",
-         "v": "Mini tort for the motorcycle"
         }
        ],
        [
@@ -1139,7 +1132,7 @@
    }
   ]
  },
- "wordCount": 2374,
+ "wordCount": 2369,
  "openItems": 1,
  "source": {
   "file": "B3-62_Troy-Motorcycle-Accident-Lawyer.docx",

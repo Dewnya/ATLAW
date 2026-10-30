@@ -991,7 +991,20 @@
       },
       {
        "t": "text",
-       "v": " Your own collision or comprehensive coverage pays for the bike. If another driver was at fault, you also have the mini tort claim against that driver for up to $3,000 (MCL 500.3135(3)(e)). If the insurer will not pay it, the mini tort claim is filed in the 44th District Court."
+       "v": " Your own collision or comprehensive coverage pays for the bike. The mini tort claim does not cover a motorcycle, because a motorcycle is not a “motor vehicle” under the no-fault act ("
+      },
+      {
+       "t": "em",
+       "c": [
+        {
+         "t": "text",
+         "v": "Nerat v Swacker"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ", 150 Mich App 61, 1986)."
       }
      ]
     }
@@ -1450,7 +1463,7 @@
         "c": [
          {
           "t": "text",
-          "v": "Mini tort and smaller claims"
+          "v": "Smaller claims"
          }
         ]
        },
@@ -1638,26 +1651,6 @@
          "v": "MCL 600.5805(2)"
         }
        ]
-      ],
-      [
-       [
-        {
-         "t": "text",
-         "v": "Mini tort for the motorcycle"
-        }
-       ],
-       [
-        {
-         "t": "text",
-         "v": "3 years"
-        }
-       ],
-       [
-        {
-         "t": "text",
-         "v": "MCL 600.5805(2)"
-        }
-       ]
       ]
      ]
     }
@@ -1812,7 +1805,7 @@
    }
   ]
  },
- "wordCount": 2570,
+ "wordCount": 2550,
  "openItems": 3,
  "source": {
   "file": "B4-24_Royal-Oak-Motorcycle-Accident-Lawyer.docx",

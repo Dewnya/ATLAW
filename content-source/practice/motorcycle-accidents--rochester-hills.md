@@ -113,7 +113,7 @@ The first medical limit is set by a policy you did not choose. Since the 2019 re
 
 Your bills go to your health insurance and to any medical coverage you bought on the motorcycle policy. Any injury claim is against whoever caused the hazard, if anyone did.
 
-**Your motorcycle.** Your own collision or comprehensive coverage pays for the bike. If another driver was at fault, you also have the mini tort claim against that driver for up to $3,000 (MCL 500.3135(3)(e)). If the insurer will not pay it, the mini tort claim is filed in the 52-3 District Court.
+**Your motorcycle.** Your own collision or comprehensive coverage pays for the bike. The mini tort claim does not cover a motorcycle, because a motorcycle is not a “motor vehicle” under the no-fault act (*Nerat v Swacker*, 150 Mich App 61, 1986).
 
 ## Your claim against the driver who hit you
 
@@ -166,7 +166,7 @@ Riders under 21 must wear a helmet. If you met those conditions, riding without 
 ## The courts and deadlines
 
 - **Rider injury suits over $25,000** go to the Sixth Judicial Circuit Court at 1200 N. Telegraph Road in Pontiac. A crash on Dequindre, the county line, may have happened in Macomb County, which would put the case in the Sixteenth Circuit (MCL 600.1629).
-- **Mini tort and smaller claims** go to the 52nd District Court, Third Division, at 700 Barclay Circle.
+- **Smaller claims** go to the 52nd District Court, Third Division, at 700 Barclay Circle.
 - **Claims against MDOT and Oakland University** go to the Court of Claims.
 
 
@@ -180,7 +180,6 @@ Riders under 21 must wear a helmet. If you met those conditions, riding without 
 | Road defect on M-59 or Rochester Road north of M-59 (MDOT), or a campus road (Oakland University) | Notice filed with the Court of Claims within 120 days | MCL 691.1404 |
 | Dram shop claim | Notice within 120 days of hiring a lawyer; suit within 2 years | MCL 436.1801(3) |
 | Suit against the at-fault driver | 3 years | MCL 600.5805(2) |
-| Mini tort for the motorcycle | 3 years | MCL 600.5805(2) |
 
 ## Why Rochester Hills riders call ATLAW
 

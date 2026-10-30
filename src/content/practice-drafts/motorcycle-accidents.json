@@ -133,13 +133,26 @@
        "c": [
         {
          "t": "text",
-         "v": "Your motorcycle itself is covered only by your own collision coverage"
+         "v": "Your motorcycle itself is covered only by your own collision or comprehensive coverage."
         }
        ]
       },
       {
        "t": "text",
-       "v": ", or by Michigan’s mini-tort claim against the at-fault driver for up to $3,000 (MCL 500.3135(3)(e)). Motorcycle damage regularly exceeds $3,000, which is another reason the optional coverages on a motorcycle policy matter more than the ones on a car policy."
+       "v": " The mini tort claim does not cover a motorcycle, because a motorcycle is not a “motor vehicle” under the no-fault act ("
+      },
+      {
+       "t": "em",
+       "c": [
+        {
+         "t": "text",
+         "v": "Nerat v Swacker"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ", 150 Mich App 61, 1986). That is another reason the optional coverages on a motorcycle policy matter more than the ones on a car policy."
       }
      ]
     }
@@ -674,26 +687,6 @@
        [
         {
          "t": "text",
-         "v": "3 years from the crash"
-        }
-       ],
-       [
-        {
-         "t": "text",
-         "v": "Mini-tort claim for damage to the motorcycle"
-        }
-       ],
-       [
-        {
-         "t": "text",
-         "v": "MCL 600.5805"
-        }
-       ]
-      ],
-      [
-       [
-        {
-         "t": "text",
          "v": "Per policy, often short"
         }
        ],
@@ -853,7 +846,20 @@
    "answer": [
     {
      "t": "text",
-     "v": "Your own collision coverage if you bought it, and up to $3,000 from the at-fault driver under Michigan’s mini-tort law. Beyond that, the at-fault driver’s liability coverage does not pay for property damage in Michigan."
+     "v": "Your own collision or comprehensive coverage, if you bought it. The mini tort claim does not cover a motorcycle, because a motorcycle is not a “motor vehicle” under the no-fault act ("
+    },
+    {
+     "t": "em",
+     "c": [
+      {
+       "t": "text",
+       "v": "Nerat v Swacker"
+      }
+     ]
+    },
+    {
+     "t": "text",
+     "v": ", 150 Mich App 61, 1986)."
     }
    ]
   },
@@ -931,7 +937,7 @@
    }
   ]
  },
- "wordCount": 2244,
+ "wordCount": 2248,
  "openItems": 1,
  "source": {
   "file": "B1-04_Michigan-Motorcycle-Accident-Lawyer.docx",

@@ -1174,7 +1174,7 @@
      "c": [
       {
        "t": "text",
-       "v": "The noneconomic damages caps in MCL 600.1483 apply to medical malpractice, not to truck crashes."
+       "v": "The noneconomic damages caps apply to medical malpractice and to product liability claims, such as a claim against the maker of a failed part (MCL 600.1483, 600.2946a), not to the claim against the driver and carrier."
       }
      ]
     },
@@ -1951,7 +1951,7 @@
    "answer": [
     {
      "t": "text",
-     "v": "Not on pain and suffering in a truck case. Michigan’s damages caps apply to medical malpractice. In practice, the limit is the insurance available: the carrier’s policy, any excess policy, and your own underinsured coverage."
+     "v": "Not on pain and suffering against the driver or carrier. Michigan’s damages caps apply to medical malpractice and product liability claims. In practice, the limit is the insurance available: the carrier’s policy, any excess policy, and your own underinsured coverage."
     }
    ]
   },
@@ -2016,7 +2016,7 @@
    }
   ]
  },
- "wordCount": 2857,
+ "wordCount": 2883,
  "openItems": 1,
  "source": {
   "file": "B4-16_Rochester-Hills-Truck-Accident-Lawyer.docx",

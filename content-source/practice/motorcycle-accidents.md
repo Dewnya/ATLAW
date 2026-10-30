@@ -30,7 +30,7 @@ Those PIP benefits are the same ones a driver would get: medical expenses, 85% o
 
 **If no car or truck was involved, no-fault does not apply at all.** A single-vehicle crash, a collision with a deer, a fall caused by a pothole or gravel: there is no PIP claim. Your medical bills go to your health insurance and to whatever optional medical coverage you bought on the motorcycle policy. Your injury claim, if there is one, is against whoever caused the hazard: a road agency for a defect (written notice within 120 days, MCL 691.1404), a property owner, or a manufacturer for a defective part.
 
-**Your motorcycle itself is covered only by your own collision coverage**, or by Michigan’s mini-tort claim against the at-fault driver for up to $3,000 (MCL 500.3135(3)(e)). Motorcycle damage regularly exceeds $3,000, which is another reason the optional coverages on a motorcycle policy matter more than the ones on a car policy.
+**Your motorcycle itself is covered only by your own collision or comprehensive coverage.** The mini tort claim does not cover a motorcycle, because a motorcycle is not a “motor vehicle” under the no-fault act (*Nerat v Swacker*, 150 Mich App 61, 1986). That is another reason the optional coverages on a motorcycle policy matter more than the ones on a car policy.
 
 ## When you can sue the driver who hit you
 
@@ -87,7 +87,6 @@ ATLAW’s results: more than 10,000 cases and more than $100 million recovered f
 | 1 year from the crash | Written notice for no-fault PIP benefits to the responsible insurer | MCL 500.3145 |
 | 120 days | Notice to a road agency for a pothole, gravel, or road-defect claim | MCL 691.1404 |
 | 3 years from the crash | Lawsuit against the at-fault driver | MCL 600.5805 |
-| 3 years from the crash | Mini-tort claim for damage to the motorcycle | MCL 600.5805 |
 | Per policy, often short | UM/UIM claim notice to your own insurer | Your policy |
 
 ## Why riders in metro Detroit call ATLAW
@@ -111,7 +110,7 @@ ATLAW’s results: more than 10,000 cases and more than $100 million recovered f
 
 **What if I crashed because of a pothole or gravel, with no car involved?** There is no no-fault claim. Your health insurance and any optional motorcycle medical coverage pay the bills. A claim against the road agency is possible but requires written notice within 120 days and has to overcome governmental immunity. Call quickly if this is your situation.
 
-**Who pays for the damage to my motorcycle?** Your own collision coverage if you bought it, and up to $3,000 from the at-fault driver under Michigan’s mini-tort law. Beyond that, the at-fault driver’s liability coverage does not pay for property damage in Michigan.
+**Who pays for the damage to my motorcycle?** Your own collision or comprehensive coverage, if you bought it. The mini tort claim does not cover a motorcycle, because a motorcycle is not a “motor vehicle” under the no-fault act (*Nerat v Swacker*, 150 Mich App 61, 1986).
 
 **Can I sue the driver who hit me?** If your injury is a serious impairment of body function (MCL 500.3135), yes, for pain and suffering and for economic losses no-fault did not cover. Most motorcycle injuries meet the threshold.
 

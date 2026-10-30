@@ -481,7 +481,20 @@
       },
       {
        "t": "text",
-       "v": " Covered by your own collision coverage, or by the mini tort claim against the at-fault driver for up to $3,000 (MCL 500.3135(3)(e)), filed in the 19th District Court on Michigan Avenue if the insurer will not pay it. Keep the bike, the helmet, and the gear unrepaired and unsold until a lawyer has seen them."
+       "v": " Your own collision or comprehensive coverage pays for the bike. The mini tort claim does not cover a motorcycle, because a motorcycle is not a “motor vehicle” under the no-fault act ("
+      },
+      {
+       "t": "em",
+       "c": [
+        {
+         "t": "text",
+         "v": "Nerat v Swacker"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ", 150 Mich App 61, 1986). Keep the bike, the helmet, and the gear unrepaired and unsold until a lawyer has seen them."
       }
      ]
     }
@@ -925,36 +938,6 @@
        [
         {
          "t": "text",
-         "v": "Mini tort for the motorcycle"
-        }
-       ],
-       [
-        {
-         "t": "text",
-         "v": "3 years"
-        }
-       ],
-       [
-        {
-         "t": "text",
-         "v": "MCL 600.5805(2) "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "ATTORNEY CHECK",
-           "v": ""
-          }
-         ]
-        }
-       ]
-      ],
-      [
-       [
-        {
-         "t": "text",
          "v": "Wrongful death"
         }
        ],
@@ -1120,8 +1103,8 @@
    }
   ]
  },
- "wordCount": 2167,
- "openItems": 9,
+ "wordCount": 2159,
+ "openItems": 8,
  "source": {
   "file": "B2-75_Dearborn-Motorcycle-Accident-Lawyer.docx",
   "delivered": "2026-10-16"

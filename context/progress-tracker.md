@@ -749,6 +749,11 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - Open items: none on these four pages
   - Verified: import 224 drafts, typecheck and production build clean (7 pages); the four pages render with 3-cell tables, correctly numbered steps, and no artifacts
   - Follow-up found: 14 published city motorcycle pages still say the mini tort covers the motorcycle, and the Royal Oak and Rochester Hills truck pages still limit the caps to malpractice
+- [x] Retroactive legal corrections on published pages (Oct 30, 2026), from the "Batch 10 review" notes in the B4-28 to B4-73 attorney review
+  - Mini tort: a motorcycle is not a "motor vehicle" under the no-fault act, so the $3,000 mini tort does not cover it (*Nerat v Swacker*, 150 Mich App 61, 1986). Fixed on the statewide motorcycle page (the body sentence, the deadlines row, and the "who pays for my motorcycle" FAQ) and on 14 city motorcycle pages (Canton, Clinton Township, Dearborn, Farmington Hills, Livonia, Pontiac, Rochester Hills, Royal Oak, Southfield, Sterling Heights, Taylor, Troy, Warren, Waterford): the "Your motorcycle" paragraph now says the rider's own collision or comprehensive coverage pays for the bike and the mini tort does not apply, the courts line says "smaller claims", and the "Mini tort for the motorcycle" deadline row is gone. The Detroit page already said this; the Novi page got the case name in italics
+  - Damages caps: on the Royal Oak and Rochester Hills truck pages, the caps now apply to medical malpractice and product liability claims, such as a claim against the maker of a failed part (MCL 600.1483, 600.2946a), not to the claim against the driver and carrier; the cap FAQ matches
+  - Not changed: 15 personal injury city pages say "there is no cap except in medical malpractice"; the reviewer approved that wording on the Novi personal injury page in the same review, so it was left for the firm or attorney to decide
+  - Verified: import 224 drafts, typecheck and production build clean (7 pages); the statewide page and sampled city pages render the corrected text with no leftover mini tort wording
 
 ### Open Questions
 
