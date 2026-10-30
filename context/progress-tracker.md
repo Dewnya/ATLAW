@@ -677,6 +677,12 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - Her truck-page closing line used the old visit wording; it now uses the firm's confirmed sentence
   - Open items: 2 she did not answer (the police report process on the truck and motorcycle pages)
   - Verified: import 183 drafts, typecheck and production build clean (7 pages); the four pages and the Waterford hub render with no artifacts
+- [x] City practice pages, batch 23: Waterford medical malpractice, dog bite, nursing home abuse (Oct 30, 2026) — B3-80 to B3-82
+  - 86 reviewer comments applied: the Waterford Regional Fire Department and the EMS Act for public and private ambulances (MCL 333.20965(1)), the VA disability claim (38 USC 1151), the malpractice death-claim outer limit (MCL 600.5852(4)), "many" residents at McLaren Oakland or Trinity Health Oakland, the 2026 caps confirmed against the Treasury notice, the township pit bull ordinance sections (Sec. 3-023, 3-024, 3-026, 3-027), the four-month license age (MCL 287.266(1), (8)) and one- or three-year licenses, the rabies observation rule (Mich Admin Code R 325.180(5)), the May 2026 III and State Farm release, Waterford's three certified nursing homes (2 rated 1 star overall, 1 below average on staffing), the arbitration rescission cite (42 CFR 483.70(m)), the pressure-sore rule (42 CFR 483.25(b)(1)), the Attorney General and AgeWays report lines, the Medicaid repayment wording, the fee lines, and her approvals on 35 attorney-check and confirm passages
+  - Rows she said no agency publishes were deleted (the Waterford dog bite count; the LARA township count of homes for the aged and adult foster care); her pasted CMS-data tag and a duplicated adult foster care sentence were removed; the malpractice forum step the comment pass truncated was restored from the source; doubled fee bullet and broken death and EMS deadline rows fixed
+  - Also fixed: a "Dearbornrborn" typo on the Waterford car page (batch 21)
+  - Open items: none on these three pages
+  - Verified: import 186 drafts, typecheck and production build clean (7 pages); the three pages render with no artifacts and 3-cell tables
 
 ### Open Questions
 
