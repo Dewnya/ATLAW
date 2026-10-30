@@ -96,7 +96,7 @@ ATLAW’s office is at 3 Parklane Boulevard in Dearborn, a short drive from Dear
 - 13 years, more than 10,000 cases, more than $100 million recovered, a large share of them for clients in Dearborn and Dearborn Heights.
 - Familiarity with the 20th District, Third Circuit, and Wayne County Probate Court systems, and with the insurers, the Assigned Claims Plan, Wayne County, MDOT, and SMART.
 - Every household policy reviewed for UM/UIM before the claim is valued.
-- Home and hospital consultations can be arranged in Dearborn Heights, with office appointments available at our Dearborn location.
+- We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 - No fee unless we recover money for you. The first conversation is free. ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs.
 - Consultations are available in English, Arabic, French, Mandarin, Urdu, and Spanish.
 ## Frequently asked questions

@@ -683,6 +683,12 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - Also fixed: a "Dearbornrborn" typo on the Waterford car page (batch 21)
   - Open items: none on these three pages
   - Verified: import 186 drafts, typecheck and production build clean (7 pages); the three pages render with no artifacts and 3-cell tables
+- [x] City practice pages, batch 24: Pontiac car, personal injury, truck, motorcycle (Oct 30, 2026) — B3-83 to B3-86
+  - 135 reviewer comments applied: Pontiac's 2024 totals (1,967 / 660 / 3, with 1,061 on local streets, 554 on US and State routes, 352 on interstate routes), the Oakland County motorcycle figures (310 / 219 / 16), the 229 pedestrian crashes, renters at about 53 percent, fire protection by the Waterford Regional Fire Department under contract (fire-engine claims against Waterford Township) and private ambulance transport, roadbed-only MDOT liability with 120-day Court of Claims notice (MCL 691.1404; Champine), signals outside the highway exception (Nawrocki), the Housing Commission unit rule (Griffin), the opt-down minimum (MCL 500.3009(5)), the uninsured-owner bar (MCL 500.3135(2)(c)), the PIP priority wording, the leasing-company shield (49 USC 30106), "several lanes" in place of lane counts, SMART on Woodward and Telegraph only, the Dream Cruise wording, the cost terms, and her approvals on 49 attorney-check and confirm passages
+  - Rows she said the State does not publish were deleted (Pontiac highest-crash intersections, Pontiac heavy truck and motorcycle rows); her pasted notes (the Amazon facility verification, "the statewide figures match", "the question is advice to the reader") were removed; doubled punctuation and four-cell deadline rows from the comment pass were fixed; caseload markers removed where she rewrote to "Claims handled in…"; the truck page's old office address corrected
+  - Also fixed: the Pontiac and Dearborn Heights hubs still had old visit lines; both now use the firm's confirmed sentence
+  - Open items: 7 she did not answer (the Loop and Pike/Cass conversion dates on the car and motorcycle pages, the 2027 Huron closure on the car and truck pages, the police report process on the car and motorcycle pages, and the car FAQ on Pontiac's highest-crash locations)
+  - Verified: import 190 drafts, typecheck and production build clean (7 pages); the four pages and both hubs render with 3-cell tables and no artifacts beyond the open markers
 
 ### Open Questions
 
