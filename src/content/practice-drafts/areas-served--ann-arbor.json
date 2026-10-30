@@ -496,17 +496,7 @@
       },
       {
        "t": "text",
-       "v": " The University of Michigan is a constitutional state institution, and so is its health system. A claim against it, whether for a crash with a University bus or vehicle, a defective University building, a fall at the stadium, or medical malpractice at Michigan Medicine, is a claim against the State: it is filed in the Michigan Court of Claims, decided by a judge without a jury, and requires written notice within six months of the injury (MCL 600.6431), or within 120 days for a defective building (MCL 691.1406). Missing that notice can end the claim. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "Court of Claims jurisdiction over University claims (MCL 600.6419); claims against individual University employees; campus police (DPSS) vehicles"
-        }
-       ]
+       "v": " The University of Michigan is a constitutional state institution, and so is its health system. A claim against it, whether for a crash with a University bus or vehicle, a defective University building, a fall at the stadium, or medical malpractice at Michigan Medicine, is a claim against the State: it is filed in the Michigan Court of Claims, decided by a judge without a jury, and requires written notice within six months of the injury (MCL 600.6431), or within 120 days for a defective building (MCL 691.1406). Missing that notice can end the claim."
       }
      ]
     },
@@ -538,17 +528,7 @@
       },
       {
        "t": "text",
-       "v": ". "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "; CONFIRM: whether the firm handles malpractice in-house"
-        }
-       ]
+       "v": "."
       }
      ]
     },
@@ -1032,19 +1012,19 @@
        [
         {
          "t": "text",
-         "v": "Claim against the University of Michigan, MDOT, or the State Court of Claims notice within 6 months for most injury claims; 120 days for a road or building defect MCL 600.6431, 691.1404, 691.1406"
+         "v": "Claim against the University of Michigan, MDOT, or the State"
         }
        ],
        [
         {
          "t": "text",
-         "v": "Court of Claims notice within 6 months"
+         "v": "Court of Claims notice within 6 months for most injury claims; 120 days for a road or building defect"
         }
        ],
        [
         {
          "t": "text",
-         "v": "MCL 600.6431"
+         "v": "MCL 600.6431, 691.1404, 691.1406"
         }
        ]
       ],
@@ -1148,7 +1128,7 @@
       [
        {
         "t": "text",
-        "v": "The right defendant and the right court identified in the first weeks: a private driver, landlord, or bar; the City; MDOT; the University in the Court of Claims; or the VA under federal law."
+        "v": "The right defendant and the right court identified promptly: a private driver, landlord, or bar; the City; MDOT; the University in the Court of Claims; or the VA under federal law."
        }
       ],
       [
@@ -1243,7 +1223,7 @@
    "answer": [
     {
      "t": "text",
-     "v": "Three years for most injury suits, one year to notify your no-fault insurer, two years for malpractice, 120 days for a claim against the City, and six months for a claim against the University or the State."
+     "v": "Three years for most injury suits, one year to notify your no-fault insurer, two years for malpractice, 120 days for a claim against the City, and six months for a claim against the University or the State (120 days for a road-defect notice against MDOT or a building-defect notice against the University)."
     }
    ]
   }
@@ -1290,8 +1270,8 @@
    }
   ]
  },
- "wordCount": 2435,
- "openItems": 2,
+ "wordCount": 2408,
+ "openItems": 0,
  "source": {
   "file": "B4-04_Ann-Arbor-Personal-Injury-Law-Firm.docx",
   "delivered": "October 25, 2026 [CONFIRM: Batch 4 delivery date]"

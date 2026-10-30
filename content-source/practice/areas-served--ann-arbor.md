@@ -48,9 +48,9 @@ ATLAW is a personal injury firm in Dearborn, about 35 miles east on I-94. In 13 
 
 ## What is different about an Ann Arbor claim
 
-**The University is the State.** The University of Michigan is a constitutional state institution, and so is its health system. A claim against it, whether for a crash with a University bus or vehicle, a defective University building, a fall at the stadium, or medical malpractice at Michigan Medicine, is a claim against the State: it is filed in the Michigan Court of Claims, decided by a judge without a jury, and requires written notice within six months of the injury (MCL 600.6431), or within 120 days for a defective building (MCL 691.1406). Missing that notice can end the claim. **[ATTORNEY CHECK: Court of Claims jurisdiction over University claims (MCL 600.6419); claims against individual University employees; campus police (DPSS) vehicles]**
+**The University is the State.** The University of Michigan is a constitutional state institution, and so is its health system. A claim against it, whether for a crash with a University bus or vehicle, a defective University building, a fall at the stadium, or medical malpractice at Michigan Medicine, is a claim against the State: it is filed in the Michigan Court of Claims, decided by a judge without a jury, and requires written notice within six months of the injury (MCL 600.6431), or within 120 days for a defective building (MCL 691.1406). Missing that notice can end the claim.
 
-**Three hospitals, three different rules.** University of Michigan Health, a Level I trauma center for adults and children, treats the most seriously injured people from across the region; a malpractice claim against it is not barred by governmental immunity (MCL 691.1407(4)) but proceeds against the State in the Court of Claims. Trinity Health Ann Arbor (formerly St. Joseph Mercy Ann Arbor), a Level I trauma center in Superior Township, is a private hospital, so a claim against it goes to the circuit court. The VA Ann Arbor Healthcare System is federal, so a claim about a veteran’s care there follows the Federal Tort Claims Act: an administrative claim within two years and suit in federal court. All three follow Michigan’s malpractice standard of care, and the Michigan claims follow the 182-day Notice of Intent, the Affidavit of Merit, the two-year deadline, and the 2026 caps of $596,400 and $1,065,000 (MCL 600.2912b, 600.2912d, 600.5805(8), 600.1483). See our [Ann Arbor medical malpractice page](about:blank). **[ATTORNEY CHECK; CONFIRM: whether the firm handles malpractice in-house]**
+**Three hospitals, three different rules.** University of Michigan Health, a Level I trauma center for adults and children, treats the most seriously injured people from across the region; a malpractice claim against it is not barred by governmental immunity (MCL 691.1407(4)) but proceeds against the State in the Court of Claims. Trinity Health Ann Arbor (formerly St. Joseph Mercy Ann Arbor), a Level I trauma center in Superior Township, is a private hospital, so a claim against it goes to the circuit court. The VA Ann Arbor Healthcare System is federal, so a claim about a veteran’s care there follows the Federal Tort Claims Act: an administrative claim within two years and suit in federal court. All three follow Michigan’s malpractice standard of care, and the Michigan claims follow the 182-day Notice of Intent, the Affidavit of Merit, the two-year deadline, and the 2026 caps of $596,400 and $1,065,000 (MCL 600.2912b, 600.2912d, 600.5805(8), 600.1483). See our [Ann Arbor medical malpractice page](about:blank).
 
 **Who owns the road.** Ann Arbor is a city and owns its sidewalks and most of its streets; Washtenaw Avenue, Huron Street, and North Main Street carry Business Loop I-94 and Business US-23, which are State routes; a claim against the City for a road or sidewalk defect takes written notice within 120 days (MCL 691.1402, 691.1402a, 691.1404). I-94, US-23, and M-14 are MDOT’s, with written notice of a road defect filed with the Court of Claims within 120 days (MCL 691.1404). University roads and walks on campus are the State’s.
 
@@ -84,7 +84,7 @@ ATLAW is a personal injury firm in Dearborn, about 35 miles east on I-94. In 13 
 | Negligence (crash, fall, dog bite) | 3 years from injury | MCL 600.5805(2) |
 | Written notice to your no-fault insurer | 1 year from the crash | MCL 500.3145(1) |
 | Road or sidewalk defect against the City of Ann Arbor | Written notice within 120 days | MCL 691.1402, 691.1402a, 691.1404 |
-| Claim against the University of Michigan, MDOT, or the State Court of Claims notice within 6 months for most injury claims; 120 days for a road or building defect MCL 600.6431, 691.1404, 691.1406 | Court of Claims notice within 6 months | MCL 600.6431 |
+| Claim against the University of Michigan, MDOT, or the State | Court of Claims notice within 6 months for most injury claims; 120 days for a road or building defect | MCL 600.6431, 691.1404, 691.1406 |
 | Medical malpractice (Michigan provider) | 2 years, 182-day Notice of Intent first | MCL 600.5805(8), 600.2912b |
 | VA medical care | Administrative claim within 2 years | 28 USC 2401(b) |
 | Dram shop | Notice within 120 days of hiring a lawyer; suit within 2 years | MCL 436.1801 |
@@ -93,7 +93,7 @@ ATLAW is a personal injury firm in Dearborn, about 35 miles east on I-94. In 13 
 ## Why Ann Arbor clients call ATLAW
 
 - 13 years, more than 10,000 cases, and more than $100 million recovered for clients across southeast Michigan.
-- The right defendant and the right court identified in the first weeks: a private driver, landlord, or bar; the City; MDOT; the University in the Court of Claims; or the VA under federal law.
+- The right defendant and the right court identified promptly: a private driver, landlord, or bar; the City; MDOT; the University in the Court of Claims; or the VA under federal law.
 - Every household policy reviewed, including a parent’s policy for a student, before the claim is valued.
 - No fee unless we recover money for you, and a written agreement that says how costs are handled. The first conversation is free.
 - Consultations can be accommodated in English, Arabic, French, Mandarin, Urdu, and Spanish.
@@ -113,7 +113,7 @@ ATLAW is a personal injury firm in Dearborn, about 35 miles east on I-94. In 13 
 
 **Do you have an office in Ann Arbor?** Our office is at 3 Parklane Boulevard in Dearborn, east of Ann Arbor. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 
-**How long do I have?** Three years for most injury suits, one year to notify your no-fault insurer, two years for malpractice, 120 days for a claim against the City, and six months for a claim against the University or the State.
+**How long do I have?** Three years for most injury suits, one year to notify your no-fault insurer, two years for malpractice, 120 days for a claim against the City, and six months for a claim against the University or the State (120 days for a road-defect notice against MDOT or a building-defect notice against the University).
 
 ## Talk to us about an Ann Arbor injury
 

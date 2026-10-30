@@ -794,6 +794,13 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - Also fixed: the truck table's Hall Road row had an empty fourth cell; the motorcycle Sheriff section's FOIA timing; the Macomb Township hub and personal injury page named the "Macomb Township Fire Department EMS run sheet" and now name the Medstar run sheet, matching her finding
   - Open items: none on these three pages
   - Verified: import 251 drafts, typecheck and production build clean (7 pages); the three pages and the hub render with no artifacts
+- [x] City practice pages, batch 42: Ann Arbor car, personal injury, truck, motorcycle (Oct 30, 2026) — B4-59 to B4-62
+  - 144 attorney-review comments applied, plus four by hand, including: a University building defect, including the stadium, needs 120-day notice filed with the Court of Claims (public building exception, with constructive knowledge), while other University claims keep the six-month notice (*Christie v Wayne State University*); the 120-day MDOT notice; MDOT's Mi Drive cameras are live-view only; the University of Michigan Health and Trinity Health Ann Arbor trauma levels; Huron Valley Ambulance or the Fire Department may hold the run sheet; the City's 30-day sidewalk knowledge rule; renters at about 54.5% (QuickFacts) and three Medicare-certified nursing homes with an Ann Arbor address; the damages caps include product liability; the opt-down minimum and uninsured-owner rule; UIM consent; the motorcycle mini tort row removed; the cost terms; the office address; and her section approvals
+  - Tooling: B4-60 attaches each revision to the highlighted text with no quoted original; `apply_v2.py` now falls back to the comment's anchor text for replacements, bracket deletions, added sentences, and the languages bullet
+  - Also fixed: the State deadline rows on the car, truck, and personal injury pages rebuilt into three cells; two MDOT bullets that the revisions had merged split back apart; the Ann Arbor hub's State deadline row was missing its cell dividers, its deadline FAQ now gives the 120-day road and building notices, "in the first weeks" is now "promptly", and its two open markers (Court of Claims jurisdiction; the malpractice link) were cleared on her answers to the same questions in B4-60
+  - Found, not fixed: 101 drafts carry links to `about:blank` from the source documents (the Ann Arbor, Washtenaw County, Pittsfield Township, and Ypsilanti hubs most of all), which `RichText` renders as external links opening a blank tab
+  - Open items: none on these four pages or the hub
+  - Verified: import 255 drafts, typecheck and production build clean (7 pages); the four pages and the hub render with 3-cell tables and no artifacts
 
 ### Open Questions
 
