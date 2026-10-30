@@ -784,6 +784,11 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - Also fixed: the St. Clair Shores hub's I-94 FAQ gave a six-month MDOT notice and assigned the service drives to the county or City; its SMART line named the mile roads; both now match her findings
   - Open items: none on these four pages
   - Verified: import 244 drafts, typecheck and production build clean (7 pages); the four pages and the hub render with 3-cell tables and no artifacts
+- [x] City practice pages, batch 40: St. Clair Shores motorcycle, nursing home abuse; Macomb Township car, personal injury (Oct 30, 2026) — B4-52 to B4-55
+  - 109 attorney-review comments applied, including: the 120-day MDOT notice filed with the Court of Claims; signals, signs, sight obstructions, and shoulders generally fall outside the highway exception for State and county roads (*Nawrocki*); trauma levels from the State list (Henry Ford St. John Level I; Henry Ford Macomb and McLaren Macomb Level II); MDOT freeway cameras are live-view only; the Area Agency on Aging 1-B is now AgeWays; the arbitration rule's paragraph letter; SMART's Hall Road route discontinued; a public sidewalk along a Macomb Township road is the township's (MCL 691.1401(e), 691.1402a(1); *Levendoski*); the township's Pathway Gap Closure Program; the no-fault priority rules; the uninsured-driver rule and opt-down minimum; the Macomb County Sheriff contract; the office address; and her section approvals
+  - Also fixed: the Macomb Township personal injury tenure row deleted as she directed (no township-level figure); the Macomb Township hub's road FAQ asked about "a bad signal, a roundabout, or a pothole" and now asks about a pothole, matching her signal ruling
+  - Open items: none on these four pages
+  - Verified: import 248 drafts, typecheck and production build clean (7 pages); the four pages and the hub render with no artifacts
 
 ### Open Questions
 

@@ -105,7 +105,7 @@ ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled mo
 - Languages: English, Arabic, French, Mandarin, Urdu, and Spanish.
 ## Frequently asked questions
 
-**I was hurt because of a bad signal, a roundabout, or a pothole in Macomb Township. Do I sue the township?** Usually not for a defect in a county-maintained road. Macomb Township does not own or maintain its public county-road network. Hall Road is MDOT’s, with a 120-day notice requirement for a qualifying highway-defect claim, filed in the Court of Claims. For a county roadway-defect claim, notice must be directed to the responsible road agency. A contractor may also face liability if negligent work-zone conduct contributed to the injury.
+**I was hurt because of a pothole in Macomb Township. Do I sue the township?** Usually not for a defect in a county-maintained road. Macomb Township does not own or maintain its public county-road network. Hall Road is MDOT’s, with a 120-day notice requirement for a qualifying highway-defect claim, filed in the Court of Claims. For a county roadway-defect claim, notice must be directed to the responsible road agency. A contractor may also face liability if negligent work-zone conduct contributed to the injury.
 
 **I was hit by a Sheriff’s patrol car in Macomb Township. Who do I claim against?** Macomb County may be responsible because the Macomb County Sheriff’s Office provides policing under contract. The governmental motor vehicle exception (MCL 691.1405) may apply, depending on the circumstances. Available vehicle video, dispatch records, and other incident evidence should be requested promptly through applicable records procedures.
 
