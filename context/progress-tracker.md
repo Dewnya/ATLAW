@@ -741,6 +741,14 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - Also fixed: the Novi hub described M-5 as a boulevard with Michigan lefts at Twelve Mile and gave a six-month MDOT notice; it now matches her findings, and its road-agency line uses her allocation
   - Open items: 2 she did not answer (MDOT freeway cameras not recording; the police report process)
   - Verified: import 220 drafts, typecheck and production build clean (7 pages); the page and the hub render with 3-cell tables and no artifacts beyond the open markers
+- [x] City practice pages, batch 34: Novi personal injury, truck, motorcycle, medical malpractice (Oct 30, 2026) — B4-28 to B4-31
+  - Source: the "B4-28 to B4-73" Drive folder, downloaded as a zip (46 `_REVIEWED.docx` files). These reviews use a new format, signed "Attorney Review": a verdict per section ("Status: APPROVED" or "RETURNED", "placeholders resolved") plus one comment per change quoting the original wording and the required revision. A new apply step (scratchpad `tools/parse_v2.py`, `apply_v2.py`, `join_faq.py`) makes the quoted replacements exactly, carries bold and links into the new text, deletes the rows and brackets she names, clears the markers in sections whose verdict resolves them, and joins FAQ answers the source split from their questions
+  - 148 comments applied: road owners (the Road Commission for Haggerty, Eight Mile, Napier, Pontiac Trail, and Fourteen Mile; the City for the rest), roadbed-only MDOT notice within 120 days, M-5 a boulevard only at Thirteen and Fourteen Mile, the Novi Fire Department with Medstar as the City's contracted ALS transport, the Level II designation at Henry Ford Providence Novi, the Third Circuit only for injuries on the Wayne County side of Eight Mile, renters at about one in three (32.0 percent), constructive knowledge for sidewalk notice, Walled Lake's contracted buses, the opt-down minimum, the uninsured-owner bar, the cost terms, and her approvals of the premises, negligent-security, condominium, and ERISA points
+  - Two retroactive corrections ("Batch 10 review"): the noneconomic damages caps also apply to product liability claims (truck page and cap FAQ), and the mini tort does not cover a motorcycle (Nerat v Swacker, 1986; motorcycle page, courts list, and deadlines row)
+  - Her new "Languages and visits" bullet and CTA line used "by appointment or as a walk-in" and "home, hospital, and video consultations"; both were added with the firm's confirmed visit sentence instead
+  - Open items: none on these four pages
+  - Verified: import 224 drafts, typecheck and production build clean (7 pages); the four pages render with 3-cell tables, correctly numbered steps, and no artifacts
+  - Follow-up found: 14 published city motorcycle pages still say the mini tort covers the motorcycle, and the Royal Oak and Rochester Hills truck pages still limit the caps to malpractice
 
 ### Open Questions
 
