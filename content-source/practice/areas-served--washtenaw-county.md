@@ -110,7 +110,7 @@ We also represent clients from Ann Arbor Township, Augusta Township, Bridgewater
 | Written notice to your no-fault insurer | 1 year from the crash | MCL 500.3145(1) |
 | Road defect against the Road Commission or a city | Written notice within 120 days | MCL 691.1402, 691.1404 |
 | Public sidewalk defect in a township | Written notice to the township within 120 days | MCL 691.1402a, 691.1404 |
-| Claim against MDOT, the State, U-M, or EMU Court of Claims notice within 6 months for most injury claims; 120 days for a road or building defect MCL 600.6431, 691.1404, 691.1406 | Court of Claims notice within 6 months (injury) | MCL 600.6431 |
+| Claim against MDOT, the State, U-M, or EMU | Court of Claims notice within 6 months for most injury claims; 120 days for a road or building defect | MCL 600.6431, 691.1404, 691.1406 |
 | Medical malpractice | 2 years, 182-day Notice of Intent first | MCL 600.5805(8), 600.2912b |
 | Dram shop | Notice within 120 days of hiring a lawyer; suit within 2 years | MCL 436.1801 |
 | Injured child | 3 years, or one year after the 18th birthday if later | MCL 600.5851(1) |

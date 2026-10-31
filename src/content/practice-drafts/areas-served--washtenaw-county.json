@@ -1329,19 +1329,19 @@
        [
         {
          "t": "text",
-         "v": "Claim against MDOT, the State, U-M, or EMU Court of Claims notice within 6 months for most injury claims; 120 days for a road or building defect MCL 600.6431, 691.1404, 691.1406"
+         "v": "Claim against MDOT, the State, U-M, or EMU"
         }
        ],
        [
         {
          "t": "text",
-         "v": "Court of Claims notice within 6 months (injury)"
+         "v": "Court of Claims notice within 6 months for most injury claims; 120 days for a road or building defect"
         }
        ],
        [
         {
          "t": "text",
-         "v": "MCL 600.6431"
+         "v": "MCL 600.6431, 691.1404, 691.1406"
         }
        ]
       ],
@@ -1567,7 +1567,7 @@
    }
   ]
  },
- "wordCount": 2506,
+ "wordCount": 2496,
  "openItems": 0,
  "source": {
   "file": "B4-01_Washtenaw-County-Personal-Injury-Lawyers.docx",

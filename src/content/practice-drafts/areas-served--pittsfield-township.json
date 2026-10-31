@@ -1470,19 +1470,19 @@
        [
         {
          "t": "text",
-         "v": "Claim against MDOT or the State (I-94, US-23, US-12, M-17; U-M) Court of Claims notice within 6 months for most injury claims; 120 days for a road or building defect MCL 600.6431, 691.1404, 691.1406)"
+         "v": "Claim against MDOT or the State (I-94, US-23, US-12, M-17; U-M)"
         }
        ],
        [
         {
          "t": "text",
-         "v": "Court of Claims notice within 6 months"
+         "v": "Court of Claims notice within 6 months for most injury claims; 120 days for a road or building defect"
         }
        ],
        [
         {
          "t": "text",
-         "v": "MCL 600.6431"
+         "v": "MCL 600.6431, 691.1404, 691.1406"
         }
        ]
       ],
@@ -1745,7 +1745,7 @@
    }
   ]
  },
- "wordCount": 2534,
+ "wordCount": 2525,
  "openItems": 3,
  "source": {
   "file": "B4-06_Pittsfield-Township-Personal-Injury-Law-Firm.docx",

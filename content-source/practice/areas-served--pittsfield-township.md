@@ -145,7 +145,7 @@ The Michigan claims follow the 182-day Notice of Intent, the Affidavit of Merit,
 | Written notice to your no-fault insurer | 1 year from the crash | MCL 500.3145(1) |
 | Road defect against the Washtenaw County Road Commission | Written notice within 120 days | MCL 691.1402, 691.1404 |
 | Sidewalk defect against Pittsfield Charter Township | Written notice within 120 days | MCL 691.1402a, 691.1404 |
-| Claim against MDOT or the State (I-94, US-23, US-12, M-17; U-M) Court of Claims notice within 6 months for most injury claims; 120 days for a road or building defect MCL 600.6431, 691.1404, 691.1406) | Court of Claims notice within 6 months | MCL 600.6431 |
+| Claim against MDOT or the State (I-94, US-23, US-12, M-17; U-M) | Court of Claims notice within 6 months for most injury claims; 120 days for a road or building defect | MCL 600.6431, 691.1404, 691.1406 |
 | Medical malpractice (Michigan provider) | 2 years, 182-day Notice of Intent first | MCL 600.5805(8), 600.2912b |
 | VA medical care | Administrative claim within 2 years | 28 USC 2401(b) |
 | Dram shop | Notice within 120 days of hiring a lawyer; suit within 2 years | MCL 436.1801 |

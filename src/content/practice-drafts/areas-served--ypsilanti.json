@@ -273,7 +273,7 @@
        [
         {
          "t": "text",
-         "v": "14A-2 District Court, 415 W. Michigan Avenue, Ypsilanti"
+         "v": "14A-1 District Court, 4133 Washtenaw Avenue, Pittsfield Township"
         }
        ],
        [
@@ -1171,7 +1171,7 @@
        },
        {
         "t": "text",
-        "v": " the 14A-2 District Court at 415 W. Michigan Avenue."
+        "v": " the 14A-1 District Court at 4133 Washtenaw Avenue in Pittsfield Township."
        }
       ],
       [
@@ -1610,19 +1610,19 @@
        [
         {
          "t": "text",
-         "v": "Claim against EMU, MDOT, or the State Court of Claims notice within 6 months for most injury claims; 120 days for a road or building defect MCL 600.6431, 691.1404, 691.1406"
+         "v": "Claim against EMU, MDOT, or the State"
         }
        ],
        [
         {
          "t": "text",
-         "v": "Court of Claims notice within 6 months"
+         "v": "Court of Claims notice within 6 months for most injury claims; 120 days for a road or building defect"
         }
        ],
        [
         {
          "t": "text",
-         "v": "MCL 600.6431"
+         "v": "MCL 600.6431, 691.1404, 691.1406"
         }
        ]
       ],
@@ -1813,7 +1813,7 @@
     },
     {
      "t": "text",
-     "v": " the 14A-2 District Court on W. Michigan Avenue for the city, or the 14B District Court on S. Huron River Drive for the township. - "
+     "v": " the 14A-1 District Court on Washtenaw Avenue in Pittsfield Township for the city, or the 14B District Court on S. Huron River Drive for the township. - "
     },
     {
      "t": "strong",
@@ -1857,7 +1857,7 @@
    "answer": [
     {
      "t": "text",
-     "v": "- Three years for most injury suits. - One year to notify your no-fault insurer. - Two years for malpractice. - 120 days for a claim against the City, the township, or the Road Commission. - Six months for a claim against EMU or the State."
+     "v": "- Three years for most injury suits. - One year to notify your no-fault insurer. - Two years for malpractice. - 120 days for a claim against the City, the township, or the Road Commission. - Six months for a claim against EMU or the State, or 120 days for a road-defect notice against MDOT or a building-defect notice against EMU."
     }
    ]
   }
@@ -1904,7 +1904,7 @@
    }
   ]
  },
- "wordCount": 2533,
+ "wordCount": 2543,
  "openItems": 0,
  "source": {
   "file": "B4-05_Ypsilanti-Personal-Injury-Law-Firm.docx",

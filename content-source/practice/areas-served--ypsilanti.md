@@ -36,7 +36,7 @@ We welcome clients to our Dearborn office for a consultation. If you are unable 
 | Who owns sidewalks | The City | The township has the sidewalk duty |
 | State highways | I-94; Washtenaw Avenue (M-17) and Michigan Avenue (Business US-12) | I-94, US-12 (Michigan Avenue), and M-17, which belong to MDOT |
 | Police | Ypsilanti Police Department | Washtenaw County Sheriff’s Office, by contract with the township |
-| District court (claims up to $25,000) | 14A-2 District Court, 415 W. Michigan Avenue, Ypsilanti | 14B District Court, 7200 S. Huron River Drive |
+| District court (claims up to $25,000) | 14A-1 District Court, 4133 Washtenaw Avenue, Pittsfield Township | 14B District Court, 7200 S. Huron River Drive |
 | Circuit and Probate Court | Washtenaw County Trial Court, 101 E. Huron Street, Ann Arbor | Same |
 
 Many township addresses carry an “Ypsilanti” mailing address, and some city streets continue into the township under the same name. The crash report says which jurisdiction it was. If you are not sure, it is the first thing we check.
@@ -118,7 +118,7 @@ The Michigan claims follow the 182-day Notice of Intent, the Affidavit of Merit,
 
 **Which court.** Claims up to $25,000, including mini tort claims, are filed in one of two district courts, depending on where the injury happened:
 
-- **City:** the 14A-2 District Court at 415 W. Michigan Avenue.
+- **City:** the 14A-1 District Court at 4133 Washtenaw Avenue in Pittsfield Township.
 - **Township:** the 14B District Court at 7200 S. Huron River Drive.
 
 Injury suits over $25,000 go to the Washtenaw County Trial Court (22nd Circuit) at 101 E. Huron Street in Ann Arbor. The Probate Court in the same building opens estates for wrongful death claims and approves minors’ settlements. Claims against EMU, MDOT, and the State go to the Court of Claims.
@@ -148,7 +148,7 @@ Injury suits over $25,000 go to the Washtenaw County Trial Court (22nd Circuit) 
 | Road or sidewalk defect against the City of Ypsilanti | Written notice within 120 days | MCL 691.1402, 691.1402a, 691.1404 |
 | Road defect against the Washtenaw County Road Commission (township roads) | Written notice within 120 days | MCL 691.1402, 691.1404 |
 | Sidewalk defect against Ypsilanti Charter Township | Written notice within 120 days | MCL 691.1402a, 691.1404 |
-| Claim against EMU, MDOT, or the State Court of Claims notice within 6 months for most injury claims; 120 days for a road or building defect MCL 600.6431, 691.1404, 691.1406 | Court of Claims notice within 6 months | MCL 600.6431 |
+| Claim against EMU, MDOT, or the State | Court of Claims notice within 6 months for most injury claims; 120 days for a road or building defect | MCL 600.6431, 691.1404, 691.1406 |
 | Medical malpractice (Michigan provider) | 2 years, 182-day Notice of Intent first | MCL 600.5805(8), 600.2912b |
 | VA medical care | Administrative claim within 2 years | 28 USC 2401(b) |
 | Dram shop | Notice within 120 days of hiring a lawyer; suit within 2 years | MCL 436.1801 |
@@ -172,11 +172,11 @@ Injury suits over $25,000 go to the Washtenaw County Trial Court (22nd Circuit) 
 
 **I was hurt on Eastern Michigan’s campus. Can I sue?** Often, but in the Michigan Court of Claims, before a judge, with written notice within six months, or 120 days for a defective building. Governmental immunity limits which claims can be brought. That is much shorter than the ordinary three years.
 
-**Where would my Ypsilanti case be filed?** - **Claims up to $25,000:** the 14A-2 District Court on W. Michigan Avenue for the city, or the 14B District Court on S. Huron River Drive for the township. - **Larger injury suits:** the Washtenaw County Trial Court in Ann Arbor. - **Claims against EMU or the State:** the Court of Claims.
+**Where would my Ypsilanti case be filed?** - **Claims up to $25,000:** the 14A-1 District Court on Washtenaw Avenue in Pittsfield Township for the city, or the 14B District Court on S. Huron River Drive for the township. - **Larger injury suits:** the Washtenaw County Trial Court in Ann Arbor. - **Claims against EMU or the State:** the Court of Claims.
 
 **Do you have an office in Ypsilanti?** No. Our office is at 3 Parklane Boulevard in Dearborn, about 25 miles east on I-94. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 
-**How long do I have?** - Three years for most injury suits. - One year to notify your no-fault insurer. - Two years for malpractice. - 120 days for a claim against the City, the township, or the Road Commission. - Six months for a claim against EMU or the State.
+**How long do I have?** - Three years for most injury suits. - One year to notify your no-fault insurer. - Two years for malpractice. - 120 days for a claim against the City, the township, or the Road Commission. - Six months for a claim against EMU or the State, or 120 days for a road-defect notice against MDOT or a building-defect notice against EMU.
 
 ## Talk to us about an Ypsilanti injury
 

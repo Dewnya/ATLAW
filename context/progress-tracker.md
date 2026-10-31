@@ -808,6 +808,12 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - Also fixed: two table rows with an extra source cell; *Christie v Wayne State University* italicized; the Ann Arbor hub's "the city's hospitals" now reads "the hospitals that serve the city"
   - Open items: none on these four pages
   - Verified: import 259 drafts, typecheck and production build clean (7 pages); the four pages, the hub, and two of the restored pages render with 3-cell tables and no artifacts
+- [x] City practice pages, batch 44: Ann Arbor Social Security disability, dog bites; Ypsilanti car, personal injury (Oct 30, 2026) — B4-67 to B4-70
+  - 92 attorney-review comments applied, plus five by hand, including: the initial SSD denial rate is about three in five; Social Security assigns the hearing office by address and no public source names Ann Arbor's; the 2026 and 2027 SSA figures; the State requires a dog license from four months; the unsupported "insurer cannot require the owner to give up the dog" removed; the rabies observation citation; City of Ypsilanti civil and small claims cases go to the 14A-1 District Court in Pittsfield Township, not 14A-2; the 120-day MDOT notice and the 120-day notice for an EMU building, with the six-month EMU notice otherwise; the public building and City sidewalk knowledge standards; MDOT and City cameras; the no-fault priority rules (a bus rider without a household policy is not an Assigned Claims Plan case); the damages caps include product liability; the city renter share (about 66.8%) and one Medicare-certified nursing home in the city (The Villa at Parkridge); the office address; and her section approvals
+  - Also fixed: the Ypsilanti renter row shows the city alone, as she advised, until the township figure is pulled; the State deadline rows rebuilt into three cells; the Ypsilanti hub named the 14A-2 court in three places and now names 14A-1, and its deadline FAQ gives the 120-day notices; the Ypsilanti, Washtenaw County, and Pittsfield Township hubs' State deadline rows were missing their cell dividers and are rebuilt
+  - Firm items from her Overview: the Ann Arbor dog bite-report count needs a FOIA request; the Ypsilanti Township renter share still needs to be pulled from QuickFacts
+  - Open items: none on these four pages (the Pittsfield Township hub keeps its three batch 26 markers)
+  - Verified: import 263 drafts, typecheck and production build clean (7 pages); the four pages and the three hubs render with no artifacts
 
 ### Open Questions
 
