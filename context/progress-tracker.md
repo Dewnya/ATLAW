@@ -849,6 +849,9 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
 - [x] Open items added to the Content Tracker as tabs (Oct 31, 2026)
   - Five tabs after firm-confirmations: `open-items` (how to answer, totals by formula), `open-firm-questions`, `open-attorney-checks`, `open-fact-checks` (answer in the yellow column), and `open-items-all` (one row per spot). The firm answers there; the xlsx stays as a local copy
   - Spots, Pages, Example page and All pages on the question tabs are formulas over `open-items-all`, and its excerpts point back at the question tabs, so a row deleted there updates the counts. Read back and compared with the xlsx: identical apart from non-breaking spaces
+- [x] Drive re-check (Oct 31, 2026) — nothing new since the Oct 30 pass
+  - The only file changed is the Content Tracker, and only by our own tab work; nobody has filled in an answer column yet
+  - No new folders; "B4-28 to B4-73" still holds the same 46 `_REVIEWED.docx` files, all uploaded Oct 30 and all applied in batches 33–45
 
 ### Open Questions
 
