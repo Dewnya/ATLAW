@@ -21,7 +21,9 @@ export type Block =
   | { t: "ul"; items: Inline[][] }
   | { t: "ol"; items: Inline[][] }
   | { t: "h3"; c: Inline[] }
-  | { t: "table"; head: Inline[][]; rows: Inline[][][] };
+  | { t: "table"; head: Inline[][]; rows: Inline[][][] }
+  /** A question and its answer, on a FAQ-format page (front matter `format: faq`). */
+  | { t: "qa"; question: string; answer: Block[] };
 
 export interface ContentSection {
   /** Anchor id, unique on the page (table of contents target). */

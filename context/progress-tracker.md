@@ -833,6 +833,13 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - Open items: 3 on the no-fault guide, which she did not comment on (current fee-schedule percentages under MCL 500.3157, the MCCA historical figures, one unmarked [ATTORNEY CHECK]); 0 on the checklist
   - Not in the sitemap yet: `public/sitemap.xml` lists published pages only, so the guides go in when approved
   - Verified: import 268 drafts; typecheck and production build clean (7 pages); a drafts build prerenders both guides (canonical `/resources/<slug>`, Article, FAQPage and BreadcrumbList schema, noindex); in the browser both render with 13 sections, 10 FAQs and the closing section, an unknown `/resources/` slug shows the 404 page, the Detroit car page's "full checklist" link opens the checklist, and the guide has no horizontal scroll at phone width
+- [x] Personal Injury FAQ page at `/faq` (Oct 30, 2026) — B2-29
+  - Served as a resource guide with its own path (`path: "/faq"` in `src/data/resources.ts`, route in `App.tsx`; `/resources/faq` returns the 404 page); `scripts/tracker.mjs` maps it to `/faq`
+  - New `format: faq` front matter: the importer turns each "**Question?** answer" paragraph and the blocks after it into a `qa` block (`src/content/types.ts`), so an answer can hold a table; `PracticeLongFormPage` shows each topic's questions as the site's accordion (`SectionBody`), with FAQPage schema built from every question (`blocksText`); practice pages are unchanged
+  - Arlyn's 15 comments applied: *Kandil-Elsayed* (open and obvious now goes to breach and comparative fault), the minor's deadline (one year after turning 18, MCL 600.5851(7)–(8)), no-fault property protection under MCL 500.3145(5), the no-fault attorney fee rule (MCL 500.3148(1)), a former lawyer's lien, undocumented claimants, and four approvals
+  - Firm items filled from the confirmations tab: the fee and costs (nothing up front, costs advanced and deducted first, no fee and no costs without a recovery), office visits, the six languages, and the Parklane address; "Who will handle my case?" removed, as the firm asked for staffing details to be left out for now; the "case results page" sentence removed until that page exists
+  - Open items: none; 49 questions in 9 topics
+  - Verified: import 269 drafts; typecheck and production build clean (7 pages); a drafts build prerenders `/faq` (canonical `/faq`, Article, FAQPage with 49 questions, BreadcrumbList, answers in the HTML); in the browser the page shows 9 topics with a contents list and 49 questions, the deadlines answer opens with its table, and there is no horizontal scroll at phone width
 
 ### Open Questions
 

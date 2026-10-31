@@ -1,5 +1,5 @@
 import { useEffect } from "react";
-import type { PracticeContent } from "../../../content/types";
+import type { Block, PracticeContent } from "../../../content/types";
 import { practiceAreaBySlug } from "../../../data/practice/pi";
 import { practiceEntry, practiceHref, practiceRegistry } from "../../../data/practice/pi/registry";
 import { practiceHasPage } from "../../../data/practice/pages";
@@ -19,7 +19,7 @@ import {
   RelatedPagesSection,
   SidebarCTA,
 } from "../PracticeAreaDetailTemplate";
-import { RichBlocks, RichInline, inlineText } from "./RichText";
+import { RichBlocks, RichInline, blocksText, inlineText } from "./RichText";
 
 const INK = "#0B1F3A";
 const GOLD = "#C9A24B";
@@ -57,6 +57,37 @@ export const TableOfContents = ({ content }: { content: PracticeContent }) => (
   </nav>
 );
 
+/** A section's blocks, with each run of questions (FAQ-format pages) shown as an accordion. */
+const SectionBody = ({ blocks }: { blocks: Block[] }) => {
+  const runs: Block[][] = [];
+  for (const b of blocks) {
+    const last = runs[runs.length - 1];
+    if (last && (last[0].t === "qa") === (b.t === "qa")) last.push(b);
+    else runs.push([b]);
+  }
+  return (
+    <div className="space-y-5">
+      {runs.map((run, i) =>
+        run[0].t === "qa" ? (
+          <div className="border-t border-[#0B1F3A]/10" key={i}>
+            {run.map((b) => b.t === "qa" && (
+              <AccordionItem faq={{ question: b.question, answer: <RichBlocks blocks={b.answer} /> }} key={b.question} />
+            ))}
+          </div>
+        ) : (
+          <RichBlocks blocks={run} key={i} />
+        ),
+      )}
+    </div>
+  );
+};
+
+/** Question and answer pairs for the FAQPage schema: the FAQ section, or a FAQ-format page's questions. */
+const schemaQuestions = (content: PracticeContent): { question: string; answer: string }[] =>
+  content.faqs.length
+    ? content.faqs.map((f) => ({ question: f.question, answer: inlineText(f.answer) }))
+    : content.sections.flatMap((s) => s.blocks).flatMap((b) => (b.t === "qa" ? [{ question: b.question, answer: blocksText(b.answer) }] : []));
+
 /** Three sibling practices (same menu group first) that have a page. */
 const relatedFor = (slug: string): { slug: string; title: string }[] => {
   const group = practiceEntry(slug)?.navGroup;
@@ -80,7 +111,7 @@ export const PracticeLongFormPage = ({ content }: { content: PracticeContent }):
   const isDraft = content.status === "draft";
   const canonical = resource ? resourceHref(resource.slug) : entry ? practiceHref(entry.slug) : undefined;
   const pageSchema = resource
-    ? resourceArticleSchema({ title: content.h1, description: content.seoDescription, slug: resource.slug })
+    ? resourceArticleSchema({ title: content.h1, description: content.seoDescription, path: resourceHref(resource.slug) })
     : practiceAreaSchema(entry?.navLabel ?? content.h1, entry?.serviceType ?? `${content.h1} Legal Representation`);
 
   useEffect(() => { window.scrollTo(0, 0); }, [content.slug]);
@@ -94,7 +125,7 @@ export const PracticeLongFormPage = ({ content }: { content: PracticeContent }):
         noindex={isDraft}
         schema={[
           pageSchema,
-          faqPageSchema(content.faqs.map((f) => ({ question: f.question, answer: inlineText(f.answer) }))),
+          faqPageSchema(schemaQuestions(content)),
         ]}
       />
       <Header />
@@ -133,7 +164,7 @@ export const PracticeLongFormPage = ({ content }: { content: PracticeContent }):
                     {s.heading}
                   </h2>
                   <div className="mt-5">
-                    <RichBlocks blocks={s.blocks} />
+                    <SectionBody blocks={s.blocks} />
                   </div>
                 </section>
               ))}

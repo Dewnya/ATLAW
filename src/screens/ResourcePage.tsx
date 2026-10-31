@@ -24,10 +24,16 @@ const guidePage = (slug: string): LazyExoticComponent<ComponentType> | undefined
   return page;
 };
 
-/** /resources/:slug — a reader guide from the imported copy (<slug>.json, section "resources"). */
-export const ResourcePage = (): JSX.Element => {
-  const { slug } = useParams<{ slug: string }>();
-  const Guide = slug ? guidePage(slug) : undefined;
+/**
+ * /resources/:slug, or a guide's own top-level path (fixed slug), from the
+ * imported copy (<slug>.json, section "resources"). A guide with its own path
+ * is not also served under /resources.
+ */
+export const ResourcePage = ({ slug: fixedSlug }: { slug?: string }): JSX.Element => {
+  const params = useParams<{ slug: string }>();
+  const slug = fixedSlug ?? params.slug;
+  const servedHere = Boolean(slug && (fixedSlug || !resourceEntry(slug)?.path));
+  const Guide = slug && servedHere ? guidePage(slug) : undefined;
 
   useEffect(() => { window.scrollTo(0, 0); }, [slug]);
 

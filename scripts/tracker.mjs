@@ -52,6 +52,8 @@ const read = (p) => readFileSync(join(root, p), "utf-8");
 const practices = new Map([...read("src/data/practice/pi/registry.ts").matchAll(/slug: "([^"]+)", section: "([^"]+)"[^\n]*?(legacy: true)?\s*\}/g)]
   .map((m) => [m[1], { section: m[2], legacy: Boolean(m[3]) }]));
 const cities = new Set([...read("src/data/cities-registry.ts").matchAll(/slug: "([^"]+)"/g)].map((m) => m[1]));
+// Resource guides with their own top-level path (e.g. /faq) instead of /resources/<slug>.
+const resourcePaths = new Map([...read("src/data/resources.ts").matchAll(/slug: "([^"]+)"[^\n]*?path: "([^"]+)"/g)].map((m) => [m[1], m[2]]));
 
 // Imported copy, from the Markdown sources (front matter only).
 const content = new Map();
@@ -60,7 +62,9 @@ for (const f of existsSync(srcDir) ? readdirSync(srcDir).filter((f) => f.endsWit
   const fm = read(join("content-source", "practice", f)).match(/^---\r?\n([\s\S]*?)\r?\n---/);
   if (!fm) continue;
   const meta = Object.fromEntries(fm[1].split(/\r?\n/).map((l) => [l.slice(0, l.indexOf(":")).trim(), l.slice(l.indexOf(":") + 1).trim()]));
-  const url = (meta.slug === "personal-injury" ? "/personal-injury" : `/${meta.section}/${meta.slug}`) + (meta.city ? `/${meta.city}` : "");
+  const url = (meta.slug === "personal-injury" ? "/personal-injury"
+    : meta.section === "resources" && resourcePaths.has(meta.slug) ? resourcePaths.get(meta.slug)
+    : `/${meta.section}/${meta.slug}`) + (meta.city ? `/${meta.city}` : "");
   // "Live" = an approved JSON exists (a production build publishes it).
   const live = existsSync(join(root, "src", "content", "practice", `${meta.city ? `${meta.slug}--${meta.city}` : meta.slug}.json`));
   content.set(url, { ...meta, live });

@@ -119,7 +119,26 @@ export const RichBlocks = ({ blocks }: { blocks: Block[] }): JSX.Element => (
               </table>
             </div>
           );
+        case "qa":
+          // The long-form page shows questions as an accordion; this is the plain fallback.
+          return (
+            <div key={i}>
+              <p className={`${bodyText} font-semibold`} style={{ color: INK }}>{b.question}</p>
+              <div className="mt-2"><RichBlocks blocks={b.answer} /></div>
+            </div>
+          );
       }
     })}
   </div>
 );
+
+/** Plain text of blocks (FAQ schema for a question whose answer is more than one paragraph). */
+export const blocksText = (blocks: Block[]): string =>
+  blocks
+    .map((b) =>
+      b.t === "p" || b.t === "h3" ? inlineText(b.c)
+        : b.t === "ul" || b.t === "ol" ? b.items.map(inlineText).join("; ")
+        : b.t === "table" ? b.rows.map((row) => row.map(inlineText).join(": ")).join("; ")
+        : b.t === "qa" ? `${b.question} ${blocksText(b.answer)}`
+        : "")
+    .join(" ");

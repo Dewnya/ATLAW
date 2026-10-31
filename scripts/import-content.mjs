@@ -34,6 +34,8 @@ const practices = new Map(
   [...registrySrc.matchAll(/\{\s*slug:\s*"([^"]+)",\s*section:\s*"([^"]+)"/g),
    ...resourcesSrc.matchAll(/\{\s*slug:\s*"([^"]+)",\s*section:\s*"([^"]+)"/g)].map((m) => [m[1], m[2]]),
 );
+// Guides served at their own top-level path (e.g. /faq).
+const resourcePaths = new Set([...resourcesSrc.matchAll(/path:\s*"([^"]+)"/g)].map((m) => m[1]));
 // City and county slugs, from the city registry (the header menu's list).
 const citiesSrc = readFileSync(join(root, "src", "data", "cities-registry.ts"), "utf-8");
 const citySlugs = new Set([...citiesSrc.matchAll(/\{\s*slug:\s*"([^"]+)"/g)].map((m) => m[1]));
@@ -155,14 +157,38 @@ function* walk(nodes) {
     else if (n.t === "p" || n.t === "h3") yield* walk(n.c);
     else if (n.t === "ul" || n.t === "ol") yield* walk(n.items);
     else if (n.t === "table") { yield* walk(n.head); yield* walk(n.rows); }
+    else if (n.t === "qa") yield* walk(n.answer);
     else { yield n; if (n.c) yield* walk(n.c); }
   }
+}
+
+// A FAQ-format page (front matter `format: faq`) is all questions: each "**Question?** answer"
+// paragraph starts a question, and the blocks after it (a table, a list, more paragraphs) are its
+// answer until the next question. A paragraph that is entirely italic (a closing disclaimer) stays outside.
+function questionBlocks(list) {
+  const out = [];
+  let current = null;
+  for (const b of list) {
+    const first = b.t === "p" ? b.c[0] : null;
+    if (first?.t === "strong" && plain(first.c).trim().endsWith("?")) {
+      const rest = b.c.slice(1);
+      if (rest[0]?.t === "text") rest[0] = { t: "text", v: rest[0].v.replace(/^\s+/, "") };
+      current = { t: "qa", question: plain(first.c).trim(), answer: rest.some((n) => n.t !== "text" || n.v.trim()) ? [{ t: "p", c: rest }] : [] };
+      out.push(current);
+    } else if (current && !(b.t === "p" && b.c.length === 1 && b.c[0].t === "em")) {
+      current.answer.push(b);
+    } else {
+      out.push(b);
+      current = null;
+    }
+  }
+  return out;
 }
 
 function checkLink(href) {
   if (/^(https?:|mailto:|tel:)/.test(href)) return null;
   const path = href.split("#")[0].replace(/\/$/, "") || "/";
-  if (STATIC_ROUTES.has(path)) return null;
+  if (STATIC_ROUTES.has(path) || resourcePaths.has(path)) return null;
   const [, section, slug, city] = path.split("/");
   if ((section === "personal-injury" || section === "disability") && practices.get(slug) === section && (!city || citySlugs.has(city))) return null;
   if (section === "areas-served" && slug && !city && citySlugs.has(slug)) return null;
@@ -234,7 +260,7 @@ function importPage(file) {
       ids.add(id);
       const kept = parsed.filter((b) => !(b.t === "p" && TEMPLATE_DISCLAIMER.test(plain(b.c).trim())));
       if (kept.length < parsed.length) warnings.push(`dropped ${parsed.length - kept.length} disclaimer paragraph(s); the site footer carries it`);
-      const section = { id, heading, blocks: kept };
+      const section = { id, heading, blocks: meta.format === "faq" ? questionBlocks(kept) : kept };
       // The closing section: "Talk to …" on practice pages, "Questions about …" on resource guides.
       if (/^(talk to|questions about) /i.test(heading)) cta = section;
       else sections.push(section);
@@ -242,7 +268,9 @@ function importPage(file) {
   }
   if (!intro.length) errors.push(`no intro: the first ## heading must repeat the H1 ("${meta.h1}")`);
   if (!sections.length) errors.push("no body sections");
-  if (!faqs.length) errors.push("no FAQs (a ## Frequently asked questions … section with bold questions)");
+  const questions = sections.flatMap((s) => s.blocks).filter((b) => b.t === "qa");
+  if (meta.format === "faq" && !questions.length) errors.push("format: faq but no bold questions");
+  if (meta.format !== "faq" && !faqs.length) errors.push("no FAQs (a ## Frequently asked questions … section with bold questions)");
 
   const all = [...intro, ...sections.flatMap((s) => s.blocks), ...faqs.map((f) => ({ t: "p", c: f.answer })), ...(cta?.blocks ?? [])];
   const nodes = [...walk(all)];
@@ -252,7 +280,7 @@ function importPage(file) {
   for (const n of nodes) if (n.t === "link") { const problem = checkLink(n.href); if (problem) (meta.status === "approved" ? errors : warnings).push(problem); }
   if (meta.status === "approved" && openItems) errors.push(`approved but ${openItems} [CONFIRM]/[VERIFY]/[ATTORNEY CHECK] item(s) remain`);
 
-  const text = [meta.h1, plain(nodes.filter((n) => n.t === "text" || n.t === "placeholder")), ...sections.map((s) => s.heading), ...faqs.map((f) => f.question)].join(" ");
+  const text = [meta.h1, plain(nodes.filter((n) => n.t === "text" || n.t === "placeholder")), ...sections.map((s) => s.heading), ...faqs.map((f) => f.question), ...questions.map((q) => q.question)].join(" ");
   const content = {
     slug: meta.slug,
     section: meta.section,
