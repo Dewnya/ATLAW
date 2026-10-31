@@ -127,7 +127,7 @@ We move promptly to request the camera footage, signal data, and vehicle data.
 
 If you have no policy, a resident relative’s policy pays (MCL 500.3114). If none exists, the Michigan Assigned Claims Plan pays (MCL 500.3172), capped at $250,000 for medical benefits. A pedestrian or cyclist hit by a car, with no household policy, claims through the Michigan Assigned Claims Plan (MCL 500.3115).
 
-The insurer must receive written notice within one year (MCL 500.3145(1)). It must pay each bill within 30 days of reasonable proof, or owe 12 percent interest (MCL 500.3142). Since the 2019 reform, PIP medical coverage is no longer unlimited unless you chose it, so the level on your declarations page matters. See our [no-fault insurance claim page](/personal-injury/car-accident-insurance) and [Michigan no-fault guide](/personal-injury/car-accident-insurance).
+The insurer must receive written notice within one year (MCL 500.3145(1)). It must pay each bill within 30 days of reasonable proof, or owe 12 percent interest (MCL 500.3142). Since the 2019 reform, PIP medical coverage is no longer unlimited unless you chose it, so the level on your declarations page matters. See our [no-fault insurance claim page](/personal-injury/car-accident-insurance) and [Michigan no-fault guide](/resources/michigan-no-fault-guide).
 
 **Your claim against the at-fault driver.** For pain and suffering, you need a threshold injury: death, serious impairment of body function, or permanent serious disfigurement (MCL 500.3135(1)). A serious impairment is an objectively manifested impairment of an important body function that affects your general ability to lead your normal life. It does not have to be permanent (MCL 500.3135(5); *McCormick v Carrier*, 2010).
 
@@ -181,6 +181,8 @@ Dash camera and dispatch records are overwritten on short schedules, so we reque
 5. **Read your declarations page** for PIP level, UM/UIM, umbrella, and collision coverage.
 6. **Do not give a recorded statement** to the other driver’s insurer, sign a release, or accept a policy-limits offer before your UIM insurer consents.
 7. **Call a lawyer within days** if fault is disputed, the other driver’s limit looks too low, or the road played a part. The camera footage and signal data are the first evidence lost, and the 120-day notice to the City or the Road Commission is already running.
+
+Our [full checklist](/resources/what-to-do-after-an-accident) covers the first day, week, month, and year.
 
 ## The courts
 

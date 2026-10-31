@@ -129,6 +129,23 @@ export function newsArticleSchema(opts: {
   };
 }
 
+/** Article JSON-LD for a resource guide at /resources/<slug>. */
+export function resourceArticleSchema(opts: { title: string; description: string; slug: string }) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    headline: opts.title,
+    description: opts.description,
+    url: `${FIRM.url}/resources/${opts.slug}`,
+    author: { "@type": "Organization", name: FIRM.name },
+    publisher: {
+      "@type": "Organization",
+      name: FIRM.name,
+      logo: { "@type": "ImageObject", url: `${FIRM.url}/assets/atlaw-portrait.png` },
+    },
+  };
+}
+
 export function contactPageSchema() {
   return {
     "@context": "https://schema.org",

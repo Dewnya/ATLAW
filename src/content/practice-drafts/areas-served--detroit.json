@@ -521,7 +521,7 @@
       },
       {
        "t": "link",
-       "href": "/personal-injury/car-accident-insurance",
+       "href": "/resources/michigan-no-fault-guide",
        "c": [
         {
          "t": "text",
@@ -567,7 +567,21 @@
       },
       {
        "t": "text",
-       "v": " If a Detroit Police officer does not respond to the crash scene, promptly contact the department for instructions on filing the required report. Reporting the crash and documenting the available evidence can help establish what happened."
+       "v": " If a Detroit Police officer does not respond to the crash scene, promptly contact the department for instructions on filing the required report. Reporting the crash and documenting the available evidence can help establish what happened. Our "
+      },
+      {
+       "t": "link",
+       "href": "/resources/what-to-do-after-an-accident",
+       "c": [
+        {
+         "t": "text",
+         "v": "checklist"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " covers the first day."
       }
      ]
     },
@@ -1260,7 +1274,7 @@
    }
   ]
  },
- "wordCount": 2355,
+ "wordCount": 2361,
  "openItems": 0,
  "source": {
   "file": "areas-served__detroit.docx",

@@ -783,6 +783,29 @@
        }
       ]
      ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Our "
+      },
+      {
+       "t": "link",
+       "href": "/resources/what-to-do-after-an-accident",
+       "c": [
+        {
+         "t": "text",
+         "v": "full checklist"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " covers the first day, week, month, and year."
+      }
+     ]
     }
    ]
   },
@@ -1192,7 +1215,7 @@
    }
   ]
  },
- "wordCount": 3019,
+ "wordCount": 3029,
  "openItems": 11,
  "source": {
   "file": "B2-63_Detroit-Motorcycle-Accident-Lawyer.docx",

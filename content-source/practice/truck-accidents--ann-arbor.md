@@ -225,6 +225,8 @@ Once a party knows a claim is coming, destroying that evidence exposes it to spo
 6. **Report to your own insurer, or your parents’ insurer if you are a student,** and file the Application for No-Fault Benefits promptly.
 7. **Call a lawyer within days,** so the preservation letter goes out before the records expire and the truck is repaired.
 
+Our [full checklist](/resources/what-to-do-after-an-accident) covers the first day, week, month, and year.
+
 ## The courts and deadlines
 
 - **Ann Arbor truck cases against private carriers** are generally filed in the Washtenaw County Trial Court (22nd Circuit) at 101 East Huron Street, with a jury drawn from Washtenaw County.

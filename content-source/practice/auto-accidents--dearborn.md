@@ -44,7 +44,7 @@ ATLAW is a personal injury firm at 3 Parklane Boulevard in Dearborn, minutes fro
 
 ## Who pays after a Dearborn crash
 
-**Your no-fault (PIP) claim.** Your own auto insurer pays your medical expenses up to the PIP level you chose, 85 percent of lost wages for up to three years up to the monthly cap DIFS sets each October, replacement services at $20 a day, and attendant care, regardless of fault (MCL 500.3107). If you have no policy, a resident relative’s policy pays (MCL 500.3114), and if none exists, the Michigan Assigned Claims Plan (MCL 500.3172), capped at $250,000 for medical benefits. The insurer must receive written notice within one year (MCL 500.3145(1)) and must pay each bill within 30 days of reasonable proof or owe 12 percent interest (MCL 500.3142). See our [no-fault insurance claim page](/personal-injury/car-accident-insurance) and [Michigan no-fault guide](/personal-injury/car-accident-insurance); passengers are covered on our [passenger injury page](/personal-injury/passenger-injury).
+**Your no-fault (PIP) claim.** Your own auto insurer pays your medical expenses up to the PIP level you chose, 85 percent of lost wages for up to three years up to the monthly cap DIFS sets each October, replacement services at $20 a day, and attendant care, regardless of fault (MCL 500.3107). If you have no policy, a resident relative’s policy pays (MCL 500.3114), and if none exists, the Michigan Assigned Claims Plan (MCL 500.3172), capped at $250,000 for medical benefits. The insurer must receive written notice within one year (MCL 500.3145(1)) and must pay each bill within 30 days of reasonable proof or owe 12 percent interest (MCL 500.3142). See our [no-fault insurance claim page](/personal-injury/car-accident-insurance) and [Michigan no-fault guide](/resources/michigan-no-fault-guide); passengers are covered on our [passenger injury page](/personal-injury/passenger-injury).
 
 **Your claim against the at-fault driver.** For pain and suffering and losses beyond no-fault, you need a threshold injury under MCL 500.3135: death, serious impairment of body function, or permanent serious disfigurement. Three years to sue (MCL 600.5805(2)), or by the estate after a fatal crash (see our [Dearborn wrongful death page](/personal-injury/wrongful-death/dearborn)); recovery reduced by your share of fault and barred if you were more than 50 percent at fault (MCL 500.3135(2)(b)). The mini tort recovers up to $3,000 in vehicle damage from the at-fault driver (MCL 500.3135(3)(e)), filed in the 19th District Court if the insurer will not pay it.
 
@@ -61,6 +61,8 @@ ATLAW is a personal injury firm at 3 Parklane Boulevard in Dearborn, minutes fro
 5. **Read your declarations page** for PIP level, UM/UIM, and collision coverage.
 6. **Do not give a recorded statement** to the other driver’s insurer, in any language, and do not sign a medical authorization or release. If an adjuster calls and you would rather speak Arabic, call us first.
 7. **Stay off social media** about the crash.
+
+Our [full checklist](/resources/what-to-do-after-an-accident) covers the first day, week, month, and year.
 
 ## The courts
 

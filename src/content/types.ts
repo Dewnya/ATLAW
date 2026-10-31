@@ -32,7 +32,8 @@ export interface ContentSection {
 
 export interface PracticeContent {
   slug: string;
-  section: "personal-injury" | "disability" | "areas-served";
+  /** "resources" is a reader guide served at /resources/<slug> (src/data/resources.ts). */
+  section: "personal-injury" | "disability" | "areas-served" | "resources";
   /** Set on a city or county page for the practice (served at /personal-injury/<slug>/<city>),
    *  or on a city hub (slug "areas-served", served at /areas-served/<city>). */
   city?: string;

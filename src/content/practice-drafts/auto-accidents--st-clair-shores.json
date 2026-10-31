@@ -1178,6 +1178,20 @@
       },
       {
        "t": "text",
+       "v": " and our "
+      },
+      {
+       "t": "link",
+       "href": "/resources/michigan-no-fault-guide",
+       "c": [
+        {
+         "t": "text",
+         "v": "Michigan no-fault guide"
+        }
+       ]
+      },
+      {
+       "t": "text",
        "v": "."
       }
      ]
@@ -1596,6 +1610,29 @@
         "v": " if the other driver was drunk, fault is disputed, the other driver is uninsured, or the road played a part. The bar’s cameras and the restaurant footage are the first evidence lost, and the 120-day dram shop notice and road notices are already running."
        }
       ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Our "
+      },
+      {
+       "t": "link",
+       "href": "/resources/what-to-do-after-an-accident",
+       "c": [
+        {
+         "t": "text",
+         "v": "full checklist"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " covers the first day, week, month, and year."
+      }
      ]
     }
    ]
@@ -2125,7 +2162,7 @@
    }
   ]
  },
- "wordCount": 3451,
+ "wordCount": 3466,
  "openItems": 0,
  "source": {
   "file": "B4-49_St-Clair-Shores-Car-Accident-Lawyer.docx",

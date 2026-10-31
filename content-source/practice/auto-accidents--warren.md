@@ -61,7 +61,7 @@ We move promptly to request the camera footage, signal data, and vehicle data.
 
 ## Who pays after a Warren crash
 
-**Your no-fault (PIP) claim.** Your own auto insurer pays your medical expenses up to the PIP level you chose, 85 percent of lost wages for up to three years up to the monthly cap DIFS sets each October, replacement services at $20 a day, and attendant care, regardless of fault (MCL 500.3107). If you have no policy, a resident relative’s policy pays (MCL 500.3114); if none exists, the Michigan Assigned Claims Plan does (MCL 500.3172), capped at $250,000 for medical benefits. The insurer must receive written notice within one year (MCL 500.3145(1)) and must pay each bill within 30 days of reasonable proof or owe 12 percent interest (MCL 500.3142). See our [no-fault insurance claim page](/personal-injury/car-accident-insurance) and [Michigan no-fault guide](/personal-injury/car-accident-insurance).
+**Your no-fault (PIP) claim.** Your own auto insurer pays your medical expenses up to the PIP level you chose, 85 percent of lost wages for up to three years up to the monthly cap DIFS sets each October, replacement services at $20 a day, and attendant care, regardless of fault (MCL 500.3107). If you have no policy, a resident relative’s policy pays (MCL 500.3114); if none exists, the Michigan Assigned Claims Plan does (MCL 500.3172), capped at $250,000 for medical benefits. The insurer must receive written notice within one year (MCL 500.3145(1)) and must pay each bill within 30 days of reasonable proof or owe 12 percent interest (MCL 500.3142). See our [no-fault insurance claim page](/personal-injury/car-accident-insurance) and [Michigan no-fault guide](/resources/michigan-no-fault-guide).
 
 **Your claim against the at-fault driver.** For pain and suffering, you need a threshold injury: death, serious impairment of body function, or permanent serious disfigurement (MCL 500.3135(1)). A serious impairment is an objectively manifested impairment of an important body function that affects your general ability to lead your normal life; it does not have to be permanent (MCL 500.3135(5); *McCormick v Carrier*, 2010). You can also recover lost wages beyond the three years and medical bills above your chosen PIP level (MCL 500.3135(3)(c)). The suit must be filed within three years (MCL 600.5805(2)). The mini tort recovers up to $3,000 in vehicle damage not covered by your policy (MCL 500.3135(3)(e)), filed in the 37th District Court if the insurer will not pay it.
 
@@ -80,6 +80,8 @@ We move promptly to request the camera footage, signal data, and vehicle data.
 5. **Read your declarations page** for PIP level, UM/UIM, and collision coverage.
 6. **Do not give a recorded statement** to the other driver’s insurer or sign a release.
 7. **Call a lawyer within days** if fault is disputed; the camera footage and signal data are the first evidence lost.
+
+Our [full checklist](/resources/what-to-do-after-an-accident) covers the first day, week, month, and year.
 
 ## The courts
 

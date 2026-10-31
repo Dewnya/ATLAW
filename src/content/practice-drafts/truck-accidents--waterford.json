@@ -880,6 +880,29 @@
        }
       ]
      ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Our "
+      },
+      {
+       "t": "link",
+       "href": "/resources/what-to-do-after-an-accident",
+       "c": [
+        {
+         "t": "text",
+         "v": "full checklist"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " covers the first day, week, month, and year."
+      }
+     ]
     }
    ]
   },
@@ -1226,7 +1249,7 @@
    }
   ]
  },
- "wordCount": 2680,
+ "wordCount": 2690,
  "openItems": 1,
  "source": {
   "file": "B3-77_Waterford-Truck-Accident-Lawyer.docx",

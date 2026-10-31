@@ -60,7 +60,7 @@ We move promptly to request the camera footage, signal data, and vehicle data.
 
 ## Who pays after a Pontiac crash
 
-**Your no-fault (PIP) claim.** Your own auto insurer pays your medical expenses up to the PIP level you chose, 85 percent of lost wages for up to three years up to the monthly cap DIFS sets each year, replacement services at $20 a day, and attendant care, regardless of fault (MCL 500.3107). If you have no policy, a resident relative’s policy pays (MCL 500.3114); if none exists, the Michigan Assigned Claims Plan does (MCL 500.3172), capped at $250,000 for medical benefits. A pedestrian or cyclist hit by a car with no household policy claims from the insurer of the car’s owner or driver first (MCL 500.3115). The insurer must receive written notice within one year (MCL 500.3145(1)) and must pay each bill within 30 days of reasonable proof or owe 12 percent interest (MCL 500.3142). Since the 2019 reform, PIP medical coverage is no longer unlimited unless you chose it, so the level on your declarations page matters. See our [no-fault insurance claim page](/personal-injury/car-accident-insurance) and [Michigan no-fault guide](/personal-injury/car-accident-insurance).
+**Your no-fault (PIP) claim.** Your own auto insurer pays your medical expenses up to the PIP level you chose, 85 percent of lost wages for up to three years up to the monthly cap DIFS sets each year, replacement services at $20 a day, and attendant care, regardless of fault (MCL 500.3107). If you have no policy, a resident relative’s policy pays (MCL 500.3114); if none exists, the Michigan Assigned Claims Plan does (MCL 500.3172), capped at $250,000 for medical benefits. A pedestrian or cyclist hit by a car with no household policy claims from the insurer of the car’s owner or driver first (MCL 500.3115). The insurer must receive written notice within one year (MCL 500.3145(1)) and must pay each bill within 30 days of reasonable proof or owe 12 percent interest (MCL 500.3142). Since the 2019 reform, PIP medical coverage is no longer unlimited unless you chose it, so the level on your declarations page matters. See our [no-fault insurance claim page](/personal-injury/car-accident-insurance) and [Michigan no-fault guide](/resources/michigan-no-fault-guide).
 
 **If you had no insurance.** A person who owned a car and was required to insure it but did not is generally barred from PIP benefits for their own injuries (MCL 500.3113(b)), and a driver who was operating their own uninsured vehicle cannot recover pain-and-suffering damages, whoever was at fault (MCL 500.3135(2)(c)). A passenger or pedestrian with no policy of their own is not barred; the Assigned Claims Plan may be the payer.
 
@@ -81,6 +81,8 @@ We move promptly to request the camera footage, signal data, and vehicle data.
 5. **Read your declarations page** for PIP level, UM/UIM, umbrella, and collision coverage.
 6. **Do not give a recorded statement** to the other driver’s insurer, sign a release, or accept a policy-limits offer before your UIM insurer consents.
 7. **Call a lawyer within days** if fault is disputed, the other driver is uninsured, or the road played a part; the camera footage and signal data are the first evidence lost, and the 120-day notice to the City or the Road Commission is already running.
+
+Our [full checklist](/resources/what-to-do-after-an-accident) covers the first day, week, month, and year.
 
 ## The courts
 

@@ -1490,6 +1490,29 @@
        }
       ]
      ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Our "
+      },
+      {
+       "t": "link",
+       "href": "/resources/what-to-do-after-an-accident",
+       "c": [
+        {
+         "t": "text",
+         "v": "full checklist"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " covers the first day, week, month, and year."
+      }
+     ]
     }
    ]
   },
@@ -1971,7 +1994,7 @@
    }
   ]
  },
- "wordCount": 3131,
+ "wordCount": 3141,
  "openItems": 0,
  "source": {
   "file": "B4-35_West-Bloomfield-Truck-Accident-Lawyer.docx",

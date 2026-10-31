@@ -66,6 +66,8 @@ Michigan no-fault gives every injured person two claims, and in Wayne County the
 6. **Do not give a recorded statement to the other driver’s insurer**, sign a medical authorization, or sign a release.
 7. **Stay off social media** about the crash and your activities.
 
+Our [full checklist](/resources/what-to-do-after-an-accident) covers the first day, week, month, and year.
+
 ## Deadlines for Wayne County crash claims
 
 | What | When | Statute |

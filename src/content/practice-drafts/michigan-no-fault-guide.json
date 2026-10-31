@@ -1,0 +1,2362 @@
+{
+ "slug": "michigan-no-fault-guide",
+ "section": "resources",
+ "status": "draft",
+ "seoTitle": "Michigan No-Fault Insurance Guide (2026): PIP Choices, What’s Covered, Who Pays, When You Can Sue",
+ "seoDescription": "The 2026 guide to Michigan no-fault: the six PIP medical options and who qualifies, what PIP pays (work loss max $7,201/month), who pays first, the fee schedule and 56-hour cap, the MCCA fee ($84 from July 2026), mini tort, and when you can sue the other driver.",
+ "h1": "Michigan No-Fault Insurance Guide (2026)",
+ "tagline": "Michigan’s no-fault law is generous to the people who understand it, and expensive for the people who do not.",
+ "primaryKeyword": "michigan no fault insurance",
+ "secondaryKeywords": [
+  "michigan no fault insurance explained",
+  "is michigan a no fault state",
+  "michigan no fault law",
+  "michigan pip coverage",
+  "michigan mini tort",
+  "michigan auto insurance law",
+  "how does michigan no fault insurance work"
+ ],
+ "intro": [
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "Michigan is a no-fault state. If you are injured in a car crash here, your own auto insurer pays your medical bills, a share of your lost wages, and certain other expenses, regardless of who caused the crash, and it starts paying within weeks rather than after a lawsuit. In exchange, your right to sue the other driver is limited: you can sue for pain and suffering only if your injury crosses a statutory threshold, and for vehicle damage only up to $3,000."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "That is the system in one paragraph. The details are where Michigan drivers lose money. Since the 2019 reform took effect in July 2020, every Michigan driver chooses a level of medical coverage from a menu of six, and the choice decides what happens after a serious crash. Benefits that used to be unlimited now depend on a box checked at renewal. A fee schedule limits what providers can charge. Family members who provide care are capped at 56 hours a week. And the rules about who pays first, how quickly, and what happens when no one has insurance are set out in a statute, the No-Fault Act, MCL 500.3101 through 500.3179, that most policyholders have never read."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "This guide is that statute in plain language, as it stands in 2026: what you must carry, the six PIP choices and who qualifies for each, what PIP pays and for how long, who pays first, the deadlines, the fee schedule and the MCCA, the mini tort, when you can sue the other driver and what for, and what the 2019 reform changed. The numbers are the current ones: the work loss maximum of $7,201 a month through September 2026, the MCCA assessment of $84 per vehicle from July 2026, the 2026 qualified-health-coverage deductible of $6,579."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients, most of them under this Act. The guide is published as a resource; the firm’s auto accident practice is described on our "
+    },
+    {
+     "t": "link",
+     "href": "/personal-injury/auto-accidents",
+     "c": [
+      {
+       "t": "text",
+       "v": "Michigan car accident lawyer"
+      }
+     ]
+    },
+    {
+     "t": "text",
+     "v": " and "
+    },
+    {
+     "t": "link",
+     "href": "/personal-injury/car-accident-insurance",
+     "c": [
+      {
+       "t": "text",
+       "v": "no-fault insurance claim"
+      }
+     ]
+    },
+    {
+     "t": "text",
+     "v": " pages."
+    }
+   ]
+  }
+ ],
+ "sections": [
+  {
+   "id": "michigan-no-fault-in-2026-the-numbers",
+   "heading": "Michigan no-fault in 2026: the numbers",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Item"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "2026 figure"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Source"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "Crashes, injuries, deaths in Michigan, 2024"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "288,880 crashes; 71,316 people injured; 1,099 killed"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Michigan State Police, 2024 Traffic Crash Facts"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "PIP medical choices"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Unlimited; $500,000; $250,000; $250,000 with exclusions; $50,000 (Medicaid); opt-out (Medicare)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 500.3107c, 500.3107d"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Work loss benefit"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Generally 85% of gross income, up to $7,455 per 30-day period for accidents occurring October 1, 2026–September 30, 2027; up to three years"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 500.3107(1)(b); DIFS Bulletin 2026-20-INS"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Replacement services"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Up to $20 a day; three years"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 500.3107(1)(c)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Survivor’s loss"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Up to $7,455 per 30-day period for accidents occurring October 1, 2026–September 30, 2027; up to three years"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 500.3108; DIFS Bulletin 2026-20-INS"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Funeral and burial"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Policy amount between $1,750 and $5,000"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 500.3107(1)(a)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Attendant care by family or household members"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "56 hours per week"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 500.3157(10)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Provider fee schedule"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Generally 190% of Medicare for most services; 200% to 250% for certain hospitals"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 500.3157(2)–(7)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "MCCA assessment, July 1, 2026 to June 30, 2027"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$84 per vehicle with unlimited PIP ($65 premium + $19 deficit); $19 for all other options"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCCA, as reported Jan. 2026"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "MCCA assessment, prior year (July 2025 to June 2026)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$82 unlimited ($59 + $23); $23 all others"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCCA"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Qualified health coverage deductible maximum, July 2026 to June 2027"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$6,579"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "DIFS; MCL 500.3107d"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Mini tort (vehicle damage from the at-fault driver)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Up to $3,000"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 500.3135(3)(e)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Bodily injury liability minimum / default"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$50,000 per person, $100,000 per accident / $250,000 per person, $500,000 per accident"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 500.3009"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Deadline to notify the insurer of a PIP claim"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "One year from the accident"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 500.3145(1)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Insurer’s deadline to pay a PIP bill"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "30 days after reasonable proof; 12% interest after"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 500.3142"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Deadline to sue the at-fault driver"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Three years"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5805(2)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Assigned Claims Plan cap"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$250,000"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 500.3172"
+        }
+       ]
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-every-michigan-driver-must-carry",
+   "heading": "What every Michigan driver must carry",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Under MCL 500.3101, every owner or registrant of a motor vehicle required to be registered in Michigan must maintain a no-fault policy with three parts:"
+      }
+     ]
+    },
+    {
+     "t": "ol",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Personal Injury Protection (PIP)"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": pays your own medical expenses, work loss, replacement services, and survivor’s loss, regardless of fault. The medical portion is the part you choose a level for."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Property Protection Insurance (PPI)"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": pays up to $1,000,000 for damage your vehicle does to other people’s property in Michigan, such as buildings, fences, and legally parked cars. It does not pay for damage to moving vehicles, which is the mini tort’s domain."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Residual Bodily Injury and Property Damage Liability (BI/PD)"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": pays for the injuries you cause to others when they are permitted to sue you, and for property damage you cause outside Michigan. Since July 2020 the "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "minimum"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " is $50,000 per person and $100,000 per accident, and the "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "default"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", which applies unless you sign a form choosing less, is $250,000 and $500,000, under MCL 500.3009."
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Driving without the policy is a misdemeanor, and under MCL 500.3113 an uninsured owner injured in his own vehicle is barred from PIP benefits and, under MCL 500.3135(2)(c), from suing the at-fault driver for pain and suffering."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Collision and comprehensive coverage for your own vehicle, uninsured and underinsured motorist coverage, and the attendant-care rider are optional, and the last three are discussed below because they matter more than their optional status suggests."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-six-pip-medical-choices-and-who-qualifies-for-each",
+   "heading": "The six PIP medical choices, and who qualifies for each",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Before July 2020, every Michigan policy carried unlimited lifetime medical benefits. The 2019 reform, MCL 500.3107c, replaced that with a choice made at each renewal. If you do not make an effective selection, unlimited PIP generally applies to a new policy. At renewal, an existing valid coverage selection may continue, depending on the circumstances."
+      }
+     ]
+    },
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Option"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Coverage per person per accident"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Who may choose it"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Unlimited"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "No cap; the MCCA reimburses the insurer above its retention"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Anyone. Unlimited PIP is generally the default for a new policy when no effective selection is made. At renewal, an existing PIP limit may continue under MCL 500.3107c(3), depending on the coverage previously selected and applicable eligibility requirements."
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "$500,000"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$500,000"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Anyone"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "$250,000"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$250,000"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Anyone"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "$250,000 with exclusions"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$250,000 for anyone on the policy who is not excluded; those excluded have no PIP medical"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Available if the named insured, or a spouse or resident relative, has "
+        },
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "qualified health coverage"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "v": " that is not Medicare; each excluded person must have QHC"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "$50,000"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$50,000"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Only if the named insured is enrolled in "
+        },
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Medicaid"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "v": ", and every spouse and resident relative has QHC, Medicaid, or PIP medical under another auto policy"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Opt out (no PIP medical)"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "None from the auto policy; health coverage pays"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Only if the named insured has "
+        },
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Medicare Parts A and B"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "v": ", and every spouse and resident relative has QHC or PIP medical under another auto policy"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Qualified health coverage"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " under MCL 500.3107d means either Medicare Parts A and B, or a health plan that does not exclude or limit auto accident injuries and has an annual individual deductible of "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "$6,579 or less"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " for the year beginning July 1, 2026 (the figure adjusts each July). Many employer health plans qualify; many high-deductible plans do not, and a plan that excludes auto injuries does not regardless of its deductible."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "What the choice means after a crash."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " PIP medical pays for all reasonably necessary medical care, rehabilitation, in-home attendant care, and modifications to your home and vehicle, for as long as you need them, up to the limit you chose. A traumatic brain injury or spinal cord injury easily exhausts $250,000 in the first year and $500,000 within a few. A driver who chose $250,000 with a health plan behind it will find that the health plan pays hospital bills but does not pay attendant care, home modification, or a wheelchair van. The unlimited option exists because catastrophic injuries exist, and in 2024 Michigan crashes killed 1,099 people and injured 71,316. Our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/brain-injury",
+       "c": [
+        {
+         "t": "text",
+         "v": "brain injury"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " and "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/spinal-cord-injury",
+       "c": [
+        {
+         "t": "text",
+         "v": "spinal cord injury"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " pages describe what those cases cost."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Coordination."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Separately from the level, you may choose "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "coordinated"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " PIP under MCL 500.3109a, which makes your health insurance primary and PIP secondary for medical bills, in exchange for a lower premium. Coordination is worth it only if the health plan covers auto injuries without exclusions; a coordinated policy behind a health plan that excludes auto injuries leaves a gap the policyholder discovers in the emergency room."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-pip-pays",
+   "heading": "What PIP pays",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "PIP benefits under MCL 500.3107 and 500.3108 are paid regardless of fault to the injured person (or, for survivor’s loss, to dependents), beginning as soon as the insurer has reasonable proof of the loss."
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Allowable expenses"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": all reasonably necessary products, services, and accommodations for your care, recovery, and rehabilitation, subject to the fee schedule and to the medical limit you chose. This includes hospital and physician care, rehabilitation, prescriptions, medical equipment, home and vehicle modifications, case management, and attendant care. Allowable expenses are the benefit the medical limit caps; work loss and replacement services are separate and are not reduced by it."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Work loss"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": 85 percent of the gross income you would have earned, up to a monthly maximum set each October, for up to three years from the accident. For injuries in the year beginning October 1, 2025, the maximum is "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "$7,201 per 30-day period"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ". Work loss is paid whether or not you were at fault, and the 85 percent reflects that it is not taxable. A person who was temporarily unemployed at the time of the crash may still qualify under MCL 500.3107a."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Replacement services"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": up to "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "$20 a day"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " for up to three years for the ordinary household tasks you can no longer do, such as cleaning, cooking, yard work, and child care, paid to whoever does them, including family."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Survivor’s loss"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": when the injured person dies, the dependents receive what the decedent would have contributed to their support, up to the same monthly maximum, plus replacement services, for three years, under MCL 500.3108."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Funeral and burial"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": the amount in the policy, between $1,750 and $5,000."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Attendant care"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": nursing-type care at home, which for catastrophic injuries is the largest single PIP expense. Since July 2021, care provided by family members, household members, or anyone with a prior business or social relationship to the injured person is limited to "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "56 hours per week"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " under MCL 500.3157(10); agency care is not subject to the cap. Insurers must offer an attendant-care rider to policyholders who chose less than unlimited PIP."
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "who-pays-first-the-order-of-priority",
+   "heading": "Who pays first: the order of priority",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The crash is not always on your own policy. MCL 500.3114 and 500.3115 set an order of priority that decides which insurer pays PIP:"
+      }
+     ]
+    },
+    {
+     "t": "ol",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Your own no-fault policy"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", if you have one, whether you were a driver, passenger, pedestrian, or bicyclist."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The policy of your spouse or a relative living in your household"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", if you have none of your own."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "For an occupant of a vehicle"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " with no applicable personal or household PIP coverage, the Michigan Assigned Claims Plan generally applies under MCL 500.3114(4). Separate priority rules govern qualifying occupants of employer-owned or employer-registered vehicles, persons in vehicles operated in the business of transporting passengers, and motorcyclists. The insurer of the vehicle may be responsible in certain exceptions, but the priority order depends on the applicable subsection."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "For a pedestrian or bicyclist"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " with no applicable personal or household PIP coverage, the Michigan Assigned Claims Plan generally applies under MCL 500.3115, subject to eligibility requirements and other applicable statutory provisions."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The Michigan Assigned Claims Plan"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", MCL 500.3171–500.3175, when no insurer is identifiable or the responsible insurer is insolvent. The MACP assigns a servicing insurer and pays PIP benefits, but since the reform "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "medical benefits through the MACP are capped at $250,000"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " under MCL 500.3172, and the claimant must not be an uninsured owner of the vehicle."
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Motorcyclists injured in an accident involving a motor vehicle follow the separate priority order in MCL 500.3114(5): first, the insurer of the owner or registrant of the motor vehicle involved; second, the insurer of that motor vehicle’s operator; third, the motor vehicle insurer of the motorcycle operator; and fourth, the motor vehicle insurer of the motorcycle owner or registrant, subject to applicable opt-out and coverage rules. Our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/motorcycle-accidents",
+       "c": [
+        {
+         "t": "text",
+         "v": "motorcycle accident page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " covers motorcycle claims in detail."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Out-of-state visitors"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " and Michigan residents injured out of state follow MCL 500.3111 and 500.3163; a non-resident’s insurer that is certified to do business in Michigan pays as if it had issued a Michigan policy."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-deadlines-and-the-one-year-back-rule",
+   "heading": "The deadlines, and the one-year-back rule",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Three deadlines govern PIP:"
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Notice within one year."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Under MCL 500.3145(1), you (or someone on your behalf) must give the insurer written notice of the injury within one year of the accident, with your name and address and the time, place, and nature of the injury, or the claim is barred unless the insurer has already paid benefits."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Suit within one year of the unpaid expense."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " A lawsuit to recover PIP benefits may be filed at any time while benefits are owed, but recovers only losses incurred within "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "one year before the suit was filed"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", the “one-year-back rule” in MCL 500.3145(2). A claimant who waits two years to sue over a bill the insurer refused loses the first year. The 2019 reform added a tolling provision under MCL 500.3145(3): the applicable one-year limitations and recovery periods are tolled from the submission of a specific claim for payment until the insurer formally denies it, provided the claimant pursues the claim with reasonable diligence. The Michigan Supreme Court held in "
+       },
+       {
+        "t": "em",
+        "c": [
+         {
+          "t": "text",
+          "v": "Spine Specialists of Michigan, P.C. v. MemberSelect Insurance Co."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " (2025) that this provision does not apply retroactively to claims that accrued before June 11, 2019."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Payment within 30 days."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Under MCL 500.3142, benefits are overdue if not paid within 30 days after the insurer receives reasonable proof of the fact and amount of loss. Overdue benefits bear "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "12 percent simple interest"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " per year, and under MCL 500.3148 an insurer that unreasonably refuses or delays payment is liable for the claimant’s attorney fees. The interest and fee provisions are what make insurers pay undisputed bills on time."
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-fee-schedule-the-56-hour-cap-and-andary",
+   "heading": "The fee schedule, the 56-hour cap, and Andary",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Before the reform, providers could charge no-fault insurers their customary rates, which were often several times what Medicare paid. Under MCL 500.3157 as amended, since July 2021 providers are paid according to a "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "fee schedule"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ": for most services, a percentage of what Medicare would pay, now generally "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "190 percent"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " of the Medicare rate (with higher percentages for certain high-indigent-volume and trauma hospitals), and for services Medicare does not cover, a percentage of the provider’s January 2019 charge, now "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "52.5 percent"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ". Providers may not bill the injured person for the difference. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "ATTORNEY CHECK",
+         "v": "current percentages under 500.3157(2)–(7) and any 2025–2026 amendments"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The schedule and the 56-hour cap applied to everyone until the Michigan Supreme Court decided "
+      },
+      {
+       "t": "em",
+       "c": [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Andary v. USAA Casualty Insurance Co."
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " on July 31, 2023. The Court held that the fee schedule and the family-care cap "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "do not apply to people injured before June 11, 2019"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ", the reform’s effective date, because their benefits were vested under the policies in force when they were hurt. For the estimated 18,000 Michiganders living with catastrophic injuries sustained before the reform, "
+      },
+      {
+       "t": "em",
+       "c": [
+        {
+         "t": "text",
+         "v": "Andary"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " and subsequent decisions preserved the pre-reform rules governing reimbursement and family-provided attendant care, subject to the applicable policy and reasonable-charge requirements; for everyone injured since, the schedule governs, and its effect on the availability of post-acute care, residential rehabilitation, and attendant care providers has been the subject of continuing legislative debate."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-mcca-and-what-the-84-pays-for",
+   "heading": "The MCCA, and what the $84 pays for",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Michigan Catastrophic Claims Association"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ", MCL 500.3104, is the reinsurance fund behind unlimited PIP. When an injured person’s medical benefits exceed the insurer’s retention (the threshold is set by statute and adjusts), the MCCA reimburses the insurer for the rest, for life. It is funded by an assessment on every insured vehicle. For the year beginning "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "July 1, 2026"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ", the assessment is "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "$84 per vehicle"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " for a policy with unlimited PIP, made up of $65 to fund anticipated claims and $19 to recoup a deficit, and "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "$19"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " for every other PIP option, including opt-outs, because the deficit recoupment applies to all vehicles. The prior year’s figures were $82 and $23. The assessment is itemized on your premium and changes each July; the reform’s promise of lower premiums came in large part from the drop in this fee from $220 per vehicle in 2019–2020 to $100 in 2020–2021 and the refund checks of 2022. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "ATTORNEY CHECK",
+         "v": "historical figures"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-mini-tort-vehicle-damage-from-the-at-fault-driver",
+   "heading": "The mini tort: vehicle damage from the at-fault driver",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Because PIP does not pay for damage to your own car and PPI does not pay for damage to moving vehicles, Michigan has the "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "mini tort"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ", MCL 500.3135(3)(e). If the other driver was 50 percent or more at fault, you may recover from that driver, or that driver’s insurer, up to "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "$3,000"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " of vehicle damage not covered by your own insurance: your collision deductible if you carry collision, or the full repair cost up to $3,000 if you do not. The claim is made against the at-fault driver’s limited property damage (LPD) coverage, which most policies include, and is usually resolved by letter; if not, it is brought in small claims court. Fault is decided under ordinary negligence principles, and a claimant who was more than 50 percent at fault recovers nothing."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "when-you-can-sue-the-other-driver",
+   "heading": "When you can sue the other driver",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "No-fault pays your economic losses. For your "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "non-economic losses"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ", pain and suffering, loss of enjoyment of life, you may sue the at-fault driver only if your injury meets the threshold in MCL 500.3135(1): "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "death, serious impairment of body function, or permanent serious disfigurement"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": "."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "“Serious impairment of body function” is defined in MCL 500.3135(5), which the 2019 reform wrote to codify the Michigan Supreme Court’s decision in "
+      },
+      {
+       "t": "em",
+       "c": [
+        {
+         "t": "text",
+         "v": "McCormick v. Carrier"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " (2010): an impairment that is "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "objectively manifested"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " (observable or perceivable from actual symptoms or conditions by someone other than the injured person), of an "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "important body function"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ", that "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "affects the person’s general ability to lead his or her normal life"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " (influences some of the person’s capacity to live in his or her normal manner of living). The impairment need not be permanent, and there is no minimum duration. Whether the threshold is met is a question of law for the judge when the facts are not in dispute, and otherwise for the jury."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "A threshold claim also recovers "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "excess economic damages"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " under MCL 500.3135(3)(c): wage loss above the monthly maximum or beyond three years, and, since the reform, medical expenses above the PIP limit you chose. A driver who chose $250,000 of PIP and suffered a catastrophic injury may recover the excess from the at-fault driver, which is why the at-fault driver’s bodily injury limits, and your own "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "underinsured motorist coverage"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ", matter far more than they did before 2020."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Three more rules from MCL 500.3135:"
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "text",
+        "v": "Your own recovery is reduced by your percentage of fault, and barred if you were "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "more than 50 percent at fault"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " (MCL 500.3135(2)(b))."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "An "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "uninsured owner or registrant"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " of the vehicle involved cannot recover non-economic damages at all (MCL 500.3135(2)(c))."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "The lawsuit must be filed within "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "three years"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " of the accident under MCL 600.5805(2), a separate clock from the one-year PIP rules."
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/auto-accidents",
+       "c": [
+        {
+         "t": "text",
+         "v": "car accident lawyer page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " covers how threshold cases are proved and valued."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uninsured-and-underinsured-motorist-coverage",
+   "heading": "Uninsured and underinsured motorist coverage",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Neither is required in Michigan, and both are more important than before the reform. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Uninsured motorist (UM)"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " coverage pays what you could have recovered from an at-fault driver who had no insurance; "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "underinsured motorist (UIM)"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " coverage pays the difference between the at-fault driver’s limits and your damages, up to your UIM limit. In a state where the Insurance Research Council estimated one in four drivers was uninsured in 2019, and where the at-fault driver’s limit may be $50,000, a threshold injury with $400,000 in excess medical expenses and lost wages is recovered only if you bought UIM. The policies set their own notice and consent requirements, which are enforced; our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/uninsured-motorist-claims",
+       "c": [
+        {
+         "t": "text",
+         "v": "uninsured and underinsured motorist page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " covers them."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-the-2019-reform-changed",
+   "heading": "What the 2019 reform changed",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Before July 2, 2020"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Since"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "Unlimited lifetime PIP medical on every policy"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Six PIP medical choices; unlimited remains available and is the default"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Providers paid customary charges"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Fee schedule: generally 190% of Medicare; 52.5% of 2019 charges for non-Medicare services"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Family attendant care unlimited"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "56 hours per week for family and household providers"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "BI liability minimum $20,000 / $40,000"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Minimum $50,000 / $100,000; default $250,000 / $500,000"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Mini tort $1,000"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$3,000"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "MACP uncapped"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MACP medical capped at $250,000"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Occupants claimed from the vehicle owner’s insurer before the MACP"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Occupants without household coverage go to the MACP"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Rating on ZIP code, credit score, gender, marital status, education, occupation, home ownership permitted"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Those factors prohibited under MCL 500.2111 (territory still permitted within limits) "
+        },
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "placeholder",
+           "kind": "ATTORNEY CHECK",
+           "v": ""
+          }
+         ]
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "One-year-back rule with no tolling"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Tolled from a specific claim’s submission to formal denial"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Serious impairment defined by "
+        },
+        {
+         "t": "em",
+         "c": [
+          {
+           "t": "text",
+           "v": "McCormick"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "em",
+         "c": [
+          {
+           "t": "text",
+           "v": "McCormick"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "v": " codified in MCL 500.3135(5)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Excess medical damages from the at-fault driver only above unlimited (i.e., never)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Recoverable above the PIP limit chosen"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "MCCA assessment $220 (2019–2020)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$84 (2026–2027), with no assessment for anticipated claims on non-unlimited policies"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The reform was Public Acts 21 and 22 of 2019, signed May 30, 2019, with most provisions effective for policies issued or renewed after July 1, 2020, the fee schedule and attendant care cap effective July 1, 2021, and the "
+      },
+      {
+       "t": "em",
+       "c": [
+        {
+         "t": "text",
+         "v": "Andary"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " decision in 2023 limiting both to post-2019 injuries."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-to-do-after-a-crash-the-no-fault-steps",
+   "heading": "What to do after a crash: the no-fault steps",
+   "blocks": [
+    {
+     "t": "ol",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Get medical care"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " and tell every provider it was an auto accident, so bills are coded for no-fault."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Report the crash to your own insurer"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " within days and ask for a PIP application. The written notice deadline is one year; the practical deadline is immediate."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Find out which policy is in priority."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " If you have none, identify a spouse’s or resident relative’s; if none, the MACP (apply through the Michigan Automobile Insurance Placement Facility)."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Document everything PIP pays for"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": mileage to appointments, prescriptions, the hours a family member spends on your care, the household tasks others do for you, and your wage records."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Check your PIP level and whether your health plan is QHC"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " before you need to know."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Note the three-year deadline"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " for any claim against the at-fault driver, and the mini tort if your car was damaged."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Do not sign a release"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " for the at-fault driver’s insurer before the threshold claim is evaluated."
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Our "
+      },
+      {
+       "t": "link",
+       "href": "/resources/what-to-do-after-an-accident",
+       "c": [
+        {
+         "t": "text",
+         "v": "what to do after a car accident"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " checklist covers the first 48 hours in detail."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is Michigan a no-fault state?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Yes. Your own insurer pays your medical bills, work loss, and replacement services regardless of fault under the No-Fault Act, MCL 500.3101 et seq., and your right to sue the other driver is limited to threshold injuries (death, serious impairment of body function, permanent serious disfigurement) and the $3,000 mini tort."
+    }
+   ]
+  },
+  {
+   "question": "Which PIP level should I choose?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "A legal guide cannot answer that for you, but the trade-off is this: the premium difference between $250,000 and unlimited is modest for most drivers, and the difference in coverage after a catastrophic injury is everything. Health insurance pays hospital bills; it does not pay attendant care, home modification, or a wheelchair van. Anyone choosing less than unlimited should buy the attendant-care rider and confirm their health plan is qualified health coverage."
+    }
+   ]
+  },
+  {
+   "question": "What is qualified health coverage?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Medicare Parts A and B, or a health plan that covers auto accident injuries without exclusion and has an individual deductible of $6,579 or less (for July 2026 to June 2027). It is required for the $250,000-with-exclusions, $50,000, and opt-out PIP options."
+    }
+   ]
+  },
+  {
+   "question": "How much does no-fault pay for lost wages?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "85 percent of your gross income, up to $7,201 per 30-day period for injuries in the year beginning October 1, 2025, for up to three years. Wage loss beyond that may be recovered from the at-fault driver if your injury meets the threshold."
+    }
+   ]
+  },
+  {
+   "question": "My insurer has not paid my bills. What can I do?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Benefits are overdue 30 days after the insurer has reasonable proof of the loss, and overdue benefits bear 12 percent interest. An insurer that unreasonably refuses or delays payment is liable for your attorney fees. A suit recovers only expenses incurred within one year before filing, so do not wait."
+    }
+   ]
+  },
+  {
+   "question": "Can I sue the driver who hit me?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "For pain and suffering, only if your injury is a serious impairment of body function, permanent serious disfigurement, or death, and only if you were not more than 50 percent at fault and were not driving your own uninsured vehicle. For vehicle damage, up to $3,000 under the mini tort. For wage loss and medical expenses beyond your PIP benefits, yes, as excess economic damages."
+    }
+   ]
+  },
+  {
+   "question": "I was a passenger in a friend’s car and have no insurance. Who pays?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Since the reform, a passenger with no policy of their own or in their household claims from the Michigan Assigned Claims Plan, not the vehicle owner’s insurer, and medical benefits through the MACP are capped at $250,000. The passenger may also sue the at-fault driver for excess and non-economic damages if the threshold is met."
+    }
+   ]
+  },
+  {
+   "question": "What is the MCCA fee on my bill?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "The Michigan Catastrophic Claims Association assessment: $84 per vehicle for unlimited PIP and $19 for every other option, for July 2026 to June 2027. It funds lifetime care for catastrophically injured people on unlimited policies and recoups the fund’s deficit."
+    }
+   ]
+  },
+  {
+   "question": "Does the fee schedule affect my care?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "It limits what providers may charge your insurer, not what care you may receive, but some post-acute and attendant-care providers have stopped accepting no-fault patients at the schedule’s rates. If you were injured before June 11, 2019, "
+    },
+    {
+     "t": "em",
+     "c": [
+      {
+       "t": "text",
+       "v": "Andary"
+      }
+     ]
+    },
+    {
+     "t": "text",
+     "v": " exempts your care from the schedule and the 56-hour cap."
+    }
+   ]
+  },
+  {
+   "question": "I was hit by an uninsured driver. Is there anything beyond PIP?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Your own uninsured motorist coverage, if you bought it. UM and UIM are optional in Michigan and, after the reform’s PIP choices, are the only protection against an at-fault driver who cannot pay excess damages."
+    }
+   ]
+  }
+ ],
+ "cta": {
+  "id": "questions-about-a-michigan-no-fault-claim",
+  "heading": "Questions about a Michigan no-fault claim",
+  "blocks": [
+   {
+    "t": "p",
+    "c": [
+     {
+      "t": "text",
+      "v": "If your no-fault insurer has denied, delayed, or cut off benefits, or you were seriously injured and want to know whether you can recover from the other driver, call "
+     },
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "text",
+        "v": "(313) 406-7606"
+       }
+      ]
+     },
+     {
+      "t": "text",
+      "v": " or send the form on this page. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed. The first conversation is free, in English, Arabic, French, Mandarin, Urdu, or Spanish, and there is no fee unless we recover money for you."
+     }
+    ]
+   },
+   {
+    "t": "p",
+    "c": [
+     {
+      "t": "em",
+      "c": [
+       {
+        "t": "text",
+        "v": "This guide is general information about Michigan law as of October 2026; it is not legal advice for your situation. Dollar figures that adjust annually are stated for the periods shown. Results depend on the facts of each case, and past results do not guarantee a future outcome."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "wordCount": 4302,
+ "openItems": 3,
+ "source": {
+  "file": "B2-26_Michigan-No-Fault-Insurance-Guide-2026.docx",
+  "delivered": "2026-10-16"
+ }
+}

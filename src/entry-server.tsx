@@ -3,9 +3,10 @@ import { renderToReadableStream } from "react-dom/server.browser";
 import { StaticRouter } from "react-router-dom/server";
 import { HelmetProvider, type HelmetServerState } from "react-helmet-async";
 import { App } from "./App";
-import { cityContentPages } from "./content";
+import { cityContentPages, hasPracticeContent } from "./content";
 import { practicesWithPages } from "./data/practice/pages";
 import { practiceHref } from "./data/practice/pi/registry";
+import { resourceHref, resourceRegistry } from "./data/resources";
 import { SmoothScroll } from "./motion/SmoothScroll";
 
 export interface RenderResult {
@@ -56,12 +57,13 @@ export async function render(url: string): Promise<RenderResult> {
 }
 
 /**
- * URLs written as static HTML at build time. Practice pages come from the
- * registry, so every practice with content (and only those) is prerendered.
+ * URLs written as static HTML at build time. Practice pages and resource guides
+ * come from their registries, so every one with content (and only those) is prerendered.
  */
 export function prerenderRoutes(): string[] {
   return [
     ...practicesWithPages().map((p) => practiceHref(p.slug)),
+    ...resourceRegistry.filter((r) => hasPracticeContent(r.slug)).map((r) => resourceHref(r.slug)),
     ...cityContentPages().map((p) =>
       p.practice === "areas-served" ? `/areas-served/${p.city}`
         : `${p.practice === "personal-injury" ? "/personal-injury/personal-injury" : practiceHref(p.practice)}/${p.city}`),

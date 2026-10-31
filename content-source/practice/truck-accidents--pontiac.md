@@ -83,6 +83,8 @@ The first act in a Pontiac truck case is a **preservation letter**: to the carri
 5. **Report to your own insurer and file the Application for No-Fault Benefits** within the first week.
 6. **Call a lawyer within days**, so the preservation letter goes out before the records expire and the truck is repaired.
 
+Our [full checklist](/resources/what-to-do-after-an-accident) covers the first day, week, month, and year.
+
 ## The courts and deadlines
 
 Most Pontiac truck cases are filed in the Sixth Judicial Circuit Court (Oakland County Circuit Court) at 1200 N. Telegraph Road in Pontiac. Cases against out-of-state carriers may be filed in or removed to the U.S. District Court for the Eastern District of Michigan. Claims against the State go to the Court of Claims; claims up to $25,000 go to the 50th District Court at 70 N. Saginaw Street. A fatal crash is brought by the estate through the Oakland County Probate Court; see our [Pontiac wrongful death page](/personal-injury/wrongful-death).

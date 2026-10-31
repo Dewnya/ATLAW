@@ -788,6 +788,29 @@
        }
       ]
      ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Our "
+      },
+      {
+       "t": "link",
+       "href": "/resources/what-to-do-after-an-accident",
+       "c": [
+        {
+         "t": "text",
+         "v": "full checklist"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " is written for crashes, but the evidence rules are the same."
+      }
+     ]
     }
    ]
   },
@@ -1180,7 +1203,7 @@
    }
   ]
  },
- "wordCount": 2735,
+ "wordCount": 2748,
  "openItems": 6,
  "source": {
   "file": "B2-65_Detroit-Slip-and-Fall-Lawyer.docx",

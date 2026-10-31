@@ -201,6 +201,8 @@ Once a party knows a claim is coming, destroying that evidence exposes it to spo
 5. **Report to your own insurer and file the Application for No-Fault Benefits** promptly.
 6. **Call a lawyer within days,** so the preservation letter goes out before the records expire and the truck is repaired.
 
+Our [full checklist](/resources/what-to-do-after-an-accident) covers the first day, week, month, and year.
+
 ## The courts and deadlines
 
 - **Most Dearborn Heights truck cases** are filed in the Third Judicial Circuit Court at the Coleman A. Young Municipal Center in Detroit, with a jury drawn from all of Wayne County.

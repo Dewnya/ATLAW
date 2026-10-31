@@ -198,6 +198,8 @@ Once a party knows a claim is coming, destroying that evidence exposes it to spo
 5. **Report to your own insurer and file the Application for No-Fault Benefits** promptly. If you were hurt at work, report the injury to your employer as well.
 6. **Call a lawyer within days,** so the preservation letter goes out before the records expire and the truck is repaired.
 
+Our [full checklist](/resources/what-to-do-after-an-accident) covers the first day, week, month, and year.
+
 ## The courts and deadlines
 
 - **Most Novi truck cases** are filed in the Sixth Judicial Circuit Court at 1200 N. Telegraph Road in Pontiac, with a jury drawn from all of Oakland County.

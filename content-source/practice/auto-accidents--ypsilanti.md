@@ -166,7 +166,7 @@ Whether a student living in Ypsilanti is still domiciled with a parent depends o
 
 **Scooters and e-bikes.** A scooter or e-bike rider hit by a car is generally treated like a pedestrian or cyclist for no-fault purposes. A rider who falls with no car involved generally has no no-fault claim.
 
-The insurer must receive written notice within one year (MCL 500.3145(1)). It must pay each bill within 30 days of reasonable proof, or owe 12 percent interest (MCL 500.3142). See our [no-fault insurance claim page](/personal-injury/car-accident-insurance).
+The insurer must receive written notice within one year (MCL 500.3145(1)). It must pay each bill within 30 days of reasonable proof, or owe 12 percent interest (MCL 500.3142). See our [no-fault insurance claim page](/personal-injury/car-accident-insurance) and our [Michigan no-fault guide](/resources/michigan-no-fault-guide).
 
 **If you had no insurance.** A person who owned a car and was required to insure it, but did not, is generally barred from PIP benefits for their own injuries (MCL 500.3113(b)). A driver who was operating their own uninsured vehicle cannot recover pain-and-suffering damages, whoever was at fault (MCL 500.3135(2)(c)).
 
@@ -202,6 +202,8 @@ Accepting without consent can forfeit the UIM claim under many policies. A stude
 6. **Read the declarations pages** for the PIP medical level, UM/UIM, and collision coverage, including a parent’s policy.
 7. **Do not give a recorded statement** to the other driver’s insurer, sign a release, or accept a policy-limits offer before your UIM insurer consents.
 8. **Call a lawyer within days** if fault is disputed, the other driver is uninsured, a public body is involved, or a bar served the driver.
+
+Our [full checklist](/resources/what-to-do-after-an-accident) covers the first day, week, month, and year.
 
 ## The courts
 

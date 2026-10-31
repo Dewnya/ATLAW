@@ -781,6 +781,29 @@
        }
       ]
      ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Our "
+      },
+      {
+       "t": "link",
+       "href": "/resources/what-to-do-after-an-accident",
+       "c": [
+        {
+         "t": "text",
+         "v": "full checklist"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " covers the first day, week, month, and year."
+      }
+     ]
     }
    ]
   },
@@ -1080,7 +1103,7 @@
    }
   ]
  },
- "wordCount": 2149,
+ "wordCount": 2159,
  "openItems": 8,
  "source": {
   "file": "B2-75_Dearborn-Motorcycle-Accident-Lawyer.docx",

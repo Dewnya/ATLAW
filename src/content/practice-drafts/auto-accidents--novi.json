@@ -1067,7 +1067,7 @@
       },
       {
        "t": "link",
-       "href": "/personal-injury/car-accident-insurance",
+       "href": "/resources/michigan-no-fault-guide",
        "c": [
         {
          "t": "text",
@@ -1560,6 +1560,29 @@
         "v": " if fault is disputed, the other driver’s limit looks too low, a truck or work vehicle was involved, or the road played a part. The camera footage is the first evidence lost, and the 120-day road-defect notice is already running."
        }
       ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Our "
+      },
+      {
+       "t": "link",
+       "href": "/resources/what-to-do-after-an-accident",
+       "c": [
+        {
+         "t": "text",
+         "v": "full checklist"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " covers the first day, week, month, and year."
+      }
      ]
     }
    ]
@@ -2105,7 +2128,7 @@
    }
   ]
  },
- "wordCount": 3292,
+ "wordCount": 3302,
  "openItems": 2,
  "source": {
   "file": "B4-27_Novi-Car-Accident-Lawyer.docx",

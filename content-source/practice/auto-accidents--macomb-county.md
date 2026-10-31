@@ -66,6 +66,8 @@ Source: Michigan State Police, Michigan Traffic Crash Facts 2024, county profile
 7. **Do not give a recorded statement to the other driver’s insurer**, sign a medical authorization, or sign a release, and do not accept a fault assignment from the other driver’s adjuster.
 8. **Stay off social media** about the crash and your activities.
 
+Our [full checklist](/resources/what-to-do-after-an-accident) covers the first day, week, month, and year.
+
 ## Deadlines for Macomb County crash claims
 
 | What | When | Statute |

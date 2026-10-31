@@ -28,8 +28,11 @@ const TEMPLATE_DISCLAIMER = /^(attorney advertising|results depend on the facts)
 
 // Planned practices, read from the registry so the two can't drift.
 const registrySrc = readFileSync(join(root, "src", "data", "practice", "pi", "registry.ts"), "utf-8");
+// Resource guides (section "resources", served at /resources/<slug>) share the map.
+const resourcesSrc = readFileSync(join(root, "src", "data", "resources.ts"), "utf-8");
 const practices = new Map(
-  [...registrySrc.matchAll(/\{\s*slug:\s*"([^"]+)",\s*section:\s*"([^"]+)"/g)].map((m) => [m[1], m[2]]),
+  [...registrySrc.matchAll(/\{\s*slug:\s*"([^"]+)",\s*section:\s*"([^"]+)"/g),
+   ...resourcesSrc.matchAll(/\{\s*slug:\s*"([^"]+)",\s*section:\s*"([^"]+)"/g)].map((m) => [m[1], m[2]]),
 );
 // City and county slugs, from the city registry (the header menu's list).
 const citiesSrc = readFileSync(join(root, "src", "data", "cities-registry.ts"), "utf-8");
@@ -163,6 +166,7 @@ function checkLink(href) {
   const [, section, slug, city] = path.split("/");
   if ((section === "personal-injury" || section === "disability") && practices.get(slug) === section && (!city || citySlugs.has(city))) return null;
   if (section === "areas-served" && slug && !city && citySlugs.has(slug)) return null;
+  if (section === "resources" && practices.get(slug) === "resources" && !city) return null;
   return `link to unknown page ${href}`;
 }
 
@@ -231,7 +235,8 @@ function importPage(file) {
       const kept = parsed.filter((b) => !(b.t === "p" && TEMPLATE_DISCLAIMER.test(plain(b.c).trim())));
       if (kept.length < parsed.length) warnings.push(`dropped ${parsed.length - kept.length} disclaimer paragraph(s); the site footer carries it`);
       const section = { id, heading, blocks: kept };
-      if (/^talk to /i.test(heading)) cta = section;
+      // The closing section: "Talk to …" on practice pages, "Questions about …" on resource guides.
+      if (/^(talk to|questions about) /i.test(heading)) cta = section;
       else sections.push(section);
     }
   }

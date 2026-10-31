@@ -123,7 +123,7 @@ We move promptly to request the camera footage, signal data, and vehicle data.
 
 If you have no policy, a resident relative’s policy pays (MCL 500.3114). If none exists, an occupant claims from the insurer of the vehicle they were in (MCL 500.3114(4)), and then the Michigan Assigned Claims Plan (MCL 500.3172), capped at $250,000 for medical benefits. A pedestrian or cyclist hit by a car, with no household policy, claims through the Assigned Claims Plan (MCL 500.3115).
 
-The insurer must receive written notice within one year (MCL 500.3145(1)). It must pay each bill within 30 days of reasonable proof, or owe 12 percent interest (MCL 500.3142). Since the 2019 reform, PIP medical coverage is no longer unlimited unless you chose it, so the level on your declarations page matters. See our [no-fault insurance claim page](/personal-injury/car-accident-insurance) and our [Michigan no-fault guide](/personal-injury/car-accident-insurance).
+The insurer must receive written notice within one year (MCL 500.3145(1)). It must pay each bill within 30 days of reasonable proof, or owe 12 percent interest (MCL 500.3142). Since the 2019 reform, PIP medical coverage is no longer unlimited unless you chose it, so the level on your declarations page matters. See our [no-fault insurance claim page](/personal-injury/car-accident-insurance) and our [Michigan no-fault guide](/resources/michigan-no-fault-guide).
 
 **If you had no insurance.** A person who owned a car and was required to insure it, but did not, is generally barred from PIP benefits for their own injuries (MCL 500.3113(b)). A driver who was operating their own uninsured vehicle cannot recover pain-and-suffering damages, whoever was at fault (MCL 500.3135(2)(c)). A passenger or pedestrian with no policy of their own is not barred, and the Assigned Claims Plan may be the payer.
 
@@ -165,6 +165,8 @@ See our [drunk driving accident page](/personal-injury/drunk-driving-accidents).
 5. **Read your declarations page** for your PIP level, UM/UIM, umbrella, and collision coverage.
 6. **Do not give a recorded statement** to the other driver’s insurer, sign a release, or accept a policy-limits offer before your UIM insurer consents.
 7. **Call a lawyer within days** if fault is disputed, the other driver is uninsured or from out of state, or the road played a part. Camera footage and signal data are the first evidence lost, and the 120-day notice to Wayne County or the City is already running.
+
+Our [full checklist](/resources/what-to-do-after-an-accident) covers the first day, week, month, and year.
 
 ## The courts
 

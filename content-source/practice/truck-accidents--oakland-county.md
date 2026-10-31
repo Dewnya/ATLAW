@@ -78,6 +78,8 @@ Trucking companies must keep hours-of-service records for six months (49 CFR 395
 5. **Report to your own insurer and file the Application for No-Fault Benefits** within the first week.
 6. **Call a lawyer within days**, so the preservation letter goes out before the records expire.
 
+Our [full checklist](/resources/what-to-do-after-an-accident) covers the first day, week, month, and year.
+
 ## The courts
 
 Most Oakland County truck cases are filed in the Sixth Judicial Circuit Court at 1200 N. Telegraph Road in Pontiac. Cases against out-of-state carriers may be filed in or removed to the U.S. District Court for the Eastern District of Michigan when federal jurisdictional requirements are satisfied, including applicable citizenship requirements and an amount in controversy exceeding $75,000 under 28 USC 1332 and 1441, and claims against MDOT go to the Court of Claims. Venue in a Michigan personal injury lawsuit follows the statutory order of priority in MCL 600.1629, generally beginning with the county where the original injury occurred and where a defendant resides, conducts business, or maintains a registered office.

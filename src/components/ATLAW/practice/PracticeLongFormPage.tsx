@@ -3,7 +3,8 @@ import type { PracticeContent } from "../../../content/types";
 import { practiceAreaBySlug } from "../../../data/practice/pi";
 import { practiceEntry, practiceHref, practiceRegistry } from "../../../data/practice/pi/registry";
 import { practiceHasPage } from "../../../data/practice/pages";
-import { faqPageSchema, practiceAreaSchema } from "../../../data/schema-org";
+import { resourceEntry, resourceHref } from "../../../data/resources";
+import { faqPageSchema, practiceAreaSchema, resourceArticleSchema } from "../../../data/schema-org";
 import { Header } from "../Header";
 import { Footer } from "../Footer";
 import { PageMeta } from "../PageMeta";
@@ -69,11 +70,18 @@ const relatedFor = (slug: string): { slug: string; title: string }[] => {
  * section order, a table of contents on long pages, the FAQs (with FAQPage
  * schema), then the site's shared reviews, related areas, intake form and CTAs.
  * Drafts show a banner, highlight open items and are kept out of search (noindex).
+ * Resource guides (section "resources") use the same layout with their own URL,
+ * Article schema and no section breadcrumb.
  */
 export const PracticeLongFormPage = ({ content }: { content: PracticeContent }): JSX.Element => {
-  const entry = practiceEntry(content.slug);
+  const resource = content.section === "resources" ? resourceEntry(content.slug) : undefined;
+  const entry = resource ? undefined : practiceEntry(content.slug);
   const legacy = practiceAreaBySlug[content.slug];
   const isDraft = content.status === "draft";
+  const canonical = resource ? resourceHref(resource.slug) : entry ? practiceHref(entry.slug) : undefined;
+  const pageSchema = resource
+    ? resourceArticleSchema({ title: content.h1, description: content.seoDescription, slug: resource.slug })
+    : practiceAreaSchema(entry?.navLabel ?? content.h1, entry?.serviceType ?? `${content.h1} Legal Representation`);
 
   useEffect(() => { window.scrollTo(0, 0); }, [content.slug]);
 
@@ -82,10 +90,10 @@ export const PracticeLongFormPage = ({ content }: { content: PracticeContent }):
       <PageMeta
         title={content.seoTitle}
         description={content.seoDescription}
-        canonical={entry ? practiceHref(entry.slug) : undefined}
+        canonical={canonical}
         noindex={isDraft}
         schema={[
-          practiceAreaSchema(entry?.navLabel ?? content.h1, entry?.serviceType ?? `${content.h1} Legal Representation`),
+          pageSchema,
           faqPageSchema(content.faqs.map((f) => ({ question: f.question, answer: inlineText(f.answer) }))),
         ]}
       />
@@ -95,13 +103,13 @@ export const PracticeLongFormPage = ({ content }: { content: PracticeContent }):
 
         <Hero
           data={{
-            title: entry?.navLabel ?? content.h1,
+            title: resource?.navLabel ?? entry?.navLabel ?? content.h1,
             heroTitle: content.h1,
             tagline: content.tagline,
             heroImage: legacy?.heroImage,
             heroImageAlt: legacy?.heroImageAlt,
           }}
-          parent={content.section === "disability" || content.slug === "personal-injury" ? null : undefined}
+          parent={resource || content.section === "disability" || content.slug === "personal-injury" ? null : undefined}
         />
 
         <section aria-label="Page content" className="relative w-full bg-white">

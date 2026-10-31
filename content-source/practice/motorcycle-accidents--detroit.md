@@ -80,6 +80,8 @@ Since 2012, Michigan has let riders 21 and older ride without a helmet if the ap
 6. **Apply for no-fault benefits with the right insurer within the first week**, not the eleventh month, and do not give a recorded statement to the other driver’s insurer.
 7. **If a road defect was involved, call within days**; the City’s 120-day notice is short, and the defect will be patched.
 
+Our [full checklist](/resources/what-to-do-after-an-accident) covers the first day, week, month, and year.
+
 ## The courts
 
 Motorcycle injury lawsuits seeking more than $25,000 may be filed in the Third Judicial Circuit Court, depending on jurisdiction and venue. Smaller qualifying civil claims may proceed in the 36th District Court. The ordinary automobile mini-tort remedy generally does not apply to motorcycle damage. Qualifying highway-defect claims against MDOT, and other actionable claims against state agencies, generally proceed in the Michigan Court of Claims, subject to governmental immunity and applicable notice requirements. Wrongful death cases are brought by the estate’s personal representative (MCL 600.2922) with the Wayne County Probate Court’s approval of any distribution; see our [Detroit wrongful death page](/personal-injury/wrongful-death/detroit).

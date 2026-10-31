@@ -586,7 +586,7 @@
       },
       {
        "t": "link",
-       "href": "/personal-injury/car-accident-insurance",
+       "href": "/resources/michigan-no-fault-guide",
        "c": [
         {
          "t": "text",
@@ -895,6 +895,29 @@
         "v": " if fault is disputed, the other driver is uninsured, or the road played a part; the camera footage and signal data are the first evidence lost, and the 120-day notice to the City or the Road Commission is already running."
        }
       ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Our "
+      },
+      {
+       "t": "link",
+       "href": "/resources/what-to-do-after-an-accident",
+       "c": [
+        {
+         "t": "text",
+         "v": "full checklist"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " covers the first day, week, month, and year."
+      }
      ]
     }
    ]
@@ -1273,7 +1296,7 @@
    }
   ]
  },
- "wordCount": 2974,
+ "wordCount": 2984,
  "openItems": 4,
  "source": {
   "file": "B3-83_Pontiac-Car-Accident-Lawyer.docx",

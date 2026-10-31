@@ -87,6 +87,8 @@ The first act in a Washtenaw County truck case is a **preservation letter**: to 
 5. **Report to your own insurer and file the Application for No-Fault Benefits** within the first week.
 6. **Call a lawyer within days**, so the preservation letter goes out before the records expire and the truck is repaired.
 
+Our [full checklist](/resources/what-to-do-after-an-accident) covers the first day, week, month, and year.
+
 ## The courts and deadlines
 
 Most Washtenaw County truck cases are filed in the Washtenaw County Trial Court (22nd Judicial Circuit Court) in Ann Arbor. Cases against out-of-state carriers, which are common on I-94 and US-23, may be filed in or removed to the U.S. District Court for the Eastern District of Michigan, which sits in Ann Arbor as well as Detroit. Claims against the State and the universities go to the Court of Claims. A fatal crash is brought by the estate through the Washtenaw County Probate Court; see our [wrongful death page](/personal-injury/wrongful-death).

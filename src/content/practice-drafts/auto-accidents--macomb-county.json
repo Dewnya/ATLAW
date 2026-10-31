@@ -663,6 +663,29 @@
        }
       ]
      ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Our "
+      },
+      {
+       "t": "link",
+       "href": "/resources/what-to-do-after-an-accident",
+       "c": [
+        {
+         "t": "text",
+         "v": "full checklist"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " covers the first day, week, month, and year."
+      }
+     ]
     }
    ]
   },
@@ -1038,7 +1061,7 @@
    }
   ]
  },
- "wordCount": 2266,
+ "wordCount": 2276,
  "openItems": 0,
  "source": {
   "file": "B2-37_Macomb-County-Car-Accident-Lawyer.docx",

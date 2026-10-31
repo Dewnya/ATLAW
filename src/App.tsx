@@ -15,6 +15,7 @@ const PracticePage = lazy(() => import("./screens/PracticePage").then((m) => ({ 
 const CityLandingPage = lazy(() => import("./screens/CityLandingPage").then((m) => ({ default: m.CityLandingPage })));
 const AreasServedPage = lazy(() => import("./screens/AreasServedPage").then((m) => ({ default: m.AreasServedPage })));
 const CityHubPage = lazy(() => import("./screens/CityHubPage").then((m) => ({ default: m.CityHubPage })));
+const ResourcePage = lazy(() => import("./screens/ResourcePage").then((m) => ({ default: m.ResourcePage })));
 const NewsPage = lazy(() => import("./screens/NewsPage").then((m) => ({ default: m.NewsPage })));
 const NewsPostPage = lazy(() => import("./screens/NewsPostPage").then((m) => ({ default: m.NewsPostPage })));
 const PrivacyPolicyPage = lazy(() => import("./screens/PrivacyPolicyPage").then((m) => ({ default: m.PrivacyPolicyPage })));
@@ -49,6 +50,7 @@ export const App = (): JSX.Element => (
       <Route path="/disability/:practice/:city" element={<CityLandingPage />} />
       <Route path="/areas-served" element={<AreasServedPage />} />
       <Route path="/areas-served/:city" element={<CityHubPage />} />
+      <Route path="/resources/:slug" element={<ResourcePage />} />
 
       {/* Legacy redirects */}
       <Route path="/our-people" element={<Navigate to="/team" replace />} />

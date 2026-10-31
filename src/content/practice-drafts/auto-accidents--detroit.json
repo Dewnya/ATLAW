@@ -1125,7 +1125,21 @@
       },
       {
        "t": "link",
-       "href": "/personal-injury/car-accident-insurance",
+       "href": "/resources/what-to-do-after-an-accident",
+       "c": [
+        {
+         "t": "text",
+         "v": "full checklist"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " covers the first day, week, month, and year, and our "
+      },
+      {
+       "t": "link",
+       "href": "/resources/michigan-no-fault-guide",
        "c": [
         {
          "t": "text",
@@ -1558,7 +1572,7 @@
    }
   ]
  },
- "wordCount": 3470,
+ "wordCount": 3482,
  "openItems": 14,
  "source": {
   "file": "B2-60_Detroit-Car-Accident-Lawyer.docx",

@@ -88,7 +88,7 @@ A Detroit car crash may involve two separate claims: a no-fault benefits claim a
 7. **Do not give a recorded statement to the other driver’s insurer**, sign a medical authorization, or sign a release.
 8. **Stay off social media** about the crash and your activities.
 
-Our [Michigan no-fault guide](/personal-injury/car-accident-insurance) covers the application and the benefits in detail.
+Our [full checklist](/resources/what-to-do-after-an-accident) covers the first day, week, month, and year, and our [Michigan no-fault guide](/resources/michigan-no-fault-guide) covers the application and the benefits in detail.
 
 ## Deadlines for Detroit car accident claims
 

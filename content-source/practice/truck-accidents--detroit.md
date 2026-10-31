@@ -78,6 +78,8 @@ Federal regulations generally require carriers to retain driver duty-status reco
 5. **Report to your own insurer and file the Application for No-Fault Benefits** within the first week.
 6. **Call a lawyer within days**, so the preservation letter goes out before the records expire.
 
+Our [full checklist](/resources/what-to-do-after-an-accident) covers the first day, week, month, and year.
+
 ## The courts
 
 Most Detroit truck cases are filed in the Third Judicial Circuit Court at the Coleman A. Young Municipal Center. Some truck accident lawsuits involving out-of-state or Canadian carriers may qualify for federal jurisdiction in the U.S. District Court for the Eastern District of Michigan if complete diversity of citizenship, the applicable amount-in-controversy requirement, and other jurisdictional conditions are met. Qualifying claims against MDOT or other state agencies generally proceed in the Michigan Court of Claims, subject to governmental immunity and claim-specific notice requirements. Cases from the suburbs and Downriver follow the same path; see our [Wayne County page](/areas-served/wayne-county). Where the carrier is based in another county or state, venue may be available there as well (MCL 600.1629). **[ATTORNEY CHECK]**

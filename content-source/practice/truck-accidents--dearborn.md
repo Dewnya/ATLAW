@@ -74,6 +74,8 @@ Carriers must keep hours-of-service records for six months (49 CFR 395.8) and dr
 5. **Report to your own insurer and file the Application for No-Fault Benefits** within the first week.
 6. **Call a lawyer within days**, so the preservation letter goes out before the records expire.
 
+Our [full checklist](/resources/what-to-do-after-an-accident) covers the first day, week, month, and year.
+
 ## The courts and deadlines
 
 Most Dearborn truck cases are filed in the Third Judicial Circuit Court in Detroit; cases against out-of-state carriers may be removed to or filed in the U.S. District Court for the Eastern District of Michigan on diversity grounds; claims against the State go to the Court of Claims; smaller claims go to the 19th District Court on Michigan Avenue. **[ATTORNEY CHECK]** A fatal crash is brought by the estate; see our [Dearborn wrongful death page](/personal-injury/wrongful-death/dearborn).
