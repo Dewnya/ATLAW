@@ -47,7 +47,7 @@ Dearborn is a city of about 110,000, Michigan’s seventh largest, and it is thr
 
 ## What is different about a Dearborn claim
 
-**Coverage.** Before Michigan’s 2019 no-fault reform, Dearborn motorists, like many drivers across metropolitan Detroit, faced high automobile insurance costs. After a crash, the amount of coverage available depends on the policies involved, making uninsured and underinsured motorist protection important to review. Your own no-fault insurer pays your medical bills and lost wages regardless of fault (MCL 500.3107), or the Michigan Assigned Claims Plan does if no household policy applies (MCL 500.3172, capped at $250,000); the claim against the at-fault driver for pain and suffering requires a threshold injury (MCL 500.3135) and is worth no more than the insurance available unless you carry your own uninsured and underinsured motorist coverage. We review every policy in the household before we value a Dearborn claim. See our [Dearborn car accident page](/personal-injury/auto-accidents/dearborn), [no-fault insurance guide](about:blank), and [uninsured motorist page](/personal-injury/uninsured-motorist-claims).
+**Coverage.** Before Michigan’s 2019 no-fault reform, Dearborn motorists, like many drivers across metropolitan Detroit, faced high automobile insurance costs. After a crash, the amount of coverage available depends on the policies involved, making uninsured and underinsured motorist protection important to review. Your own no-fault insurer pays your medical bills and lost wages regardless of fault (MCL 500.3107), or the Michigan Assigned Claims Plan does if no household policy applies (MCL 500.3172, capped at $250,000); the claim against the at-fault driver for pain and suffering requires a threshold injury (MCL 500.3135) and is worth no more than the insurance available unless you carry your own uninsured and underinsured motorist coverage. We review every policy in the household before we value a Dearborn claim. See our [Dearborn car accident page](/personal-injury/auto-accidents/dearborn), [no-fault insurance guide](/personal-injury/car-accident-insurance), and [uninsured motorist page](/personal-injury/uninsured-motorist-claims).
 
 **Government defendants.** The City of Dearborn maintains its own streets, sidewalks, parks, and buildings, and operates its own police, fire, and EMS; Wayne County maintains the county roads; MDOT maintains Michigan Avenue, Ford Road, Telegraph, the Southfield Freeway, and I-94; SMART runs the buses; Dearborn Public Schools runs the school buses. A qualifying highway or municipal sidewalk defect claim generally requires written notice within 120 days under MCL 691.1404, including qualifying claims involving MDOT-maintained roads. Notice for state highway-defect claims must be filed with the Court of Claims as required by that statute. Crashes involving city, school district, or SMART vehicles may support claims under the governmental motor vehicle exception, MCL 691.1405, when injuries result from negligent operation of government-owned vehicles. Certain tort claims against SMART also require written notice within 60 days under MCL 124.419. Injuries caused by qualifying dangerous conditions in city-owned public buildings may fall within MCL 691.1406, subject to its requirements, including 120-day written notice.
 
@@ -62,16 +62,16 @@ Dearborn is a city of about 110,000, Michigan’s seventh largest, and it is thr
 - [Car accidents](/personal-injury/auto-accidents/dearborn) and [no-fault benefit claims](/personal-injury/car-accident-insurance)
 - [Truck accidents](/personal-injury/truck-accidents/dearborn) on I-94 and the Rouge corridors
 - [Motorcycle](/personal-injury/motorcycle-accidents/dearborn), [pedestrian](/personal-injury/pedestrian-accidents), and [bicycle](/personal-injury/bicycle-accidents) crashes
-- [Bus accidents](/personal-injury/bus-accidents/dearborn) involving SMART and Dearborn Public Schools
+- [Bus accidents](/personal-injury/bus-accidents) involving SMART and Dearborn Public Schools
 - [Rideshare accidents](/personal-injury/rideshare-accidents/dearborn)
-- [Drunk driving](/personal-injury/drunk-driving-accidents/dearborn) crashes and dram shop claims
+- [Drunk driving](/personal-injury/drunk-driving-accidents) crashes and dram shop claims
 - [Slip and fall](/personal-injury/slip-and-fall/dearborn) and [premises liability](/personal-injury/premises-liability), including [rental housing injuries](/personal-injury/tenant-injuries)
 - [Dog bites](/personal-injury/dog-bites/dearborn)
 - [Medical malpractice](/personal-injury/medical-malpractice/dearborn) and [birth injuries](/personal-injury/birth-injuries)
 - [Nursing home abuse and neglect](/personal-injury/nursing-home-abuse/dearborn)
 - [Workers’ compensation](/personal-injury/workers-compensation/dearborn) and third-party claims for Rouge and plant workers
 - [Wrongful death](/personal-injury/wrongful-death/dearborn)
-- [Brain injuries](/personal-injury/brain-injury/dearborn) and [spinal cord injuries](/personal-injury/spinal-cord-injury)
+- [Brain injuries](/personal-injury/brain-injury) and [spinal cord injuries](/personal-injury/spinal-cord-injury)
 - [Social Security disability](/disability/social-security-disability/dearborn) and [long-term disability](/disability/short-long-term-disability) for Dearborn residents who cannot return to work
 
 ## Deadlines that apply to Dearborn claims

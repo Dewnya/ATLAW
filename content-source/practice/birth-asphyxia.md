@@ -81,14 +81,14 @@ Those criteria are applied by experts in maternal-fetal medicine, neonatology, p
 - **Labor and delivery nurses**, and the hospital that employs them, for monitoring, interpretation, notification, oxytocin management, and failure to escalate through the chain of command.
 - **The hospital**, directly, for in-house coverage, staffing, cesarean capability, resuscitation training, and cooling or transfer protocols; and vicariously for its employees and, under Michigan’s ostensible agency rule, for contracted physicians the hospital assigned to the patient (Grewe v Mt Clemens General Hospital, 1978; Markel v William Beaumont Hospital, 2022, and the Supreme Court’s order of July 9, 2025).
 - **The neonatology and pediatric team**, for resuscitation and the cooling decision.
-- **Anesthesia**, where maternal hypotension or a delayed cesarean anesthetic contributed; see our [anesthesia error](about:blank) page.
-- **University of Michigan Health**, through the Court of Claims with its six-month notice (MCL 600.6431). See our [hospital negligence](about:blank) page.
+- **Anesthesia**, where maternal hypotension or a delayed cesarean anesthetic contributed; see our [anesthesia error](/personal-injury/anesthesia-errors) page.
+- **University of Michigan Health**, through the Court of Claims with its six-month notice (MCL 600.6431). See our [hospital negligence](/personal-injury/hospital-mistakes) page.
 
 ## What the child will need, and what Michigan law pays for
 
 A child with moderate or severe HIE may have cerebral palsy, epilepsy, feeding and swallowing problems, vision and hearing impairment, and cognitive disability, and may need therapies, equipment, medications, surgeries, attendant care, and supported living for life. Michigan law pays for that through economic damages, which are not capped: a life care plan prepared from the treating physicians’ prognoses, lost earning capacity over a working life projected by a vocational economist, and the mother’s own losses. Non-economic damages for the child are capped at the brain-injury tier, $1,065,000 in 2026 (MCL 600.1483), and the mother has her own non-economic claim within the cap.
 
-Public programs help now and are protected later: Michigan’s Early On program from birth to three, Children’s Special Health Care Services, Medicaid, and special education from age three. A settlement is placed in a special needs trust and structured annuities, approved by the court (MCR 2.420), so that the child keeps those benefits. See our [birth injury](about:blank) page for the full damages and procedure discussion, and our [brain injury](about:blank) page for how brain injuries are proved and valued.
+Public programs help now and are protected later: Michigan’s Early On program from birth to three, Children’s Special Health Care Services, Medicaid, and special education from age three. A settlement is placed in a special needs trust and structured annuities, approved by the court (MCR 2.420), so that the child keeps those benefits. See our [birth injury](/personal-injury/birth-injuries) page for the full damages and procedure discussion, and our [brain injury](/personal-injury/brain-injury) page for how brain injuries are proved and valued.
 
 ## Michigan’s procedure and deadlines
 

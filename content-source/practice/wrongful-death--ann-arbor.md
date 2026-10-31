@@ -110,7 +110,7 @@ Michigan’s governmental immunity law does not shield a public hospital from a 
 - Suit can be filed in federal court only after the VA denies the claim, or six months pass without a decision, and within six months of a denial.
 - The case is decided by a federal judge, without a jury, applying Michigan’s law of damages.
 
-(28 USC 2401(b), 2675.) A death involving a contractor or a non-VA doctor may also bring a separate Michigan claim. VA benefits for survivors are a separate matter; see our [VA benefit claims page](/personal-injury/va-benefit-claims).
+(28 USC 2401(b), 2675.) A death involving a contractor or a non-VA doctor may also bring a separate Michigan claim. VA benefits for survivors are a separate matter.
 
 **Trinity Health Ann Arbor and private practices.** A death after care at Trinity Health Ann Arbor, a private practice, or an outpatient surgery center is an ordinary malpractice claim in the Washtenaw County Trial Court, with the malpractice rules attached:
 

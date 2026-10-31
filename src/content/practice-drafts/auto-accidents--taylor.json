@@ -1043,7 +1043,7 @@
       },
       {
        "t": "link",
-       "href": "about:blank",
+       "href": "/personal-injury/car-accident-insurance",
        "c": [
         {
          "t": "text",
@@ -1515,29 +1515,6 @@
        }
       ]
      ]
-    },
-    {
-     "t": "p",
-     "c": [
-      {
-       "t": "text",
-       "v": "Our "
-      },
-      {
-       "t": "link",
-       "href": "about:blank",
-       "c": [
-        {
-         "t": "text",
-         "v": "full checklist"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " covers the first day, week, month, and year."
-      }
-     ]
     }
    ]
   },
@@ -1959,7 +1936,7 @@
    "answer": [
     {
      "t": "text",
-     "v": "- One year to give your no-fault insurer written notice. - Three years to sue the at-fault driver. - Two years to sue a bar. - 120 days for a notice to Wayne County or the City. - 120 days for a road-defect notice against MDOT.."
+     "v": "- One year to give your no-fault insurer written notice. - Three years to sue the at-fault driver. - Two years to sue a bar. - 120 days for a notice to Wayne County or the City. - 120 days for a road-defect notice against MDOT."
     }
    ]
   }
@@ -2006,7 +1983,7 @@
    }
   ]
  },
- "wordCount": 2924,
+ "wordCount": 2914,
  "openItems": 3,
  "source": {
   "file": "B4-07_Taylor-Car-Accident-Lawyer.docx",

@@ -68,7 +68,6 @@ We also obtain:
 - the Rochester Hills Fire Department EMS run sheet
 - the witnesses’ names
 
-
 **The first month.** We identify every policy that may pay:
 
 - your own auto policy, for no-fault benefits
@@ -97,8 +96,6 @@ We collect records from each hospital and from your own physicians and therapist
 - **Sixth Judicial Circuit Court** (Oakland County Circuit Court) at 1200 N. Telegraph Road in Pontiac, for injury suits over $25,000, with a jury drawn from all of Oakland County. Most injury cases there go through case evaluation (MCR 2.403) and facilitation before trial. A crash on Dequindre, the county line, may have happened in Macomb County, which would put the case in the Sixteenth Circuit (MCL 600.1629).
 - **The Court of Claims,** for claims against MDOT and Oakland University.
 - **The U.S. District Court for the Eastern District of Michigan,** where an out-of-state defendant removes the case.
-
-
 
 At settlement, we resolve the liens before you are paid, including health plans, Medicare, Medicaid, and workers’ compensation. Many Rochester Hills residents have employer health plans governed by ERISA, whose reimbursement terms are read closely before any agreement. Minors’ settlements and wrongful death distributions are approved by the Oakland County Probate Court or by the trial court (MCR 2.420; MCL 600.2922(6)). Compensation for physical injury is generally not taxable income (26 USC 104(a)(2)).
 
@@ -140,7 +137,7 @@ See our [uninsured motorist page](/personal-injury/uninsured-motorist-claims).
 - [Motorcycle accidents](/personal-injury/motorcycle-accidents/rochester-hills)**:** the rider priority rule (MCL 500.3114(5)).
 - [Pedestrian](/personal-injury/pedestrian-accidents) **and** [bicycle](/personal-injury/bicycle-accidents) **injuries,** including trail crossings and Oakland University’s campus.
 - [Drunk driving crashes](/personal-injury/drunk-driving-accidents) and dram shop claims against bars and restaurants (MCL 436.1801): 120 days’ notice after you hire a lawyer, and two years to sue.
-- [Slip and fall](/personal-injury/slip-and-fall), [premises liability](/personal-injury/premises-liability), and [tenant injuries](about:blank) at stores, condominiums, and apartment complexes: *Kandil-Elsayed* (2023), MCL 554.139, and the City’s sidewalk duty.
+- [Slip and fall](/personal-injury/slip-and-fall), [premises liability](/personal-injury/premises-liability), and [tenant injuries](/personal-injury/tenant-injuries) at stores, condominiums, and apartment complexes: *Kandil-Elsayed* (2023), MCL 554.139, and the City’s sidewalk duty.
 - [Dog bites](/personal-injury/dog-bites)**:** strict liability under MCL 287.351, where the person bitten was lawfully present and did not provoke the dog.
 - [Medical malpractice](/personal-injury/medical-malpractice)**:** two years, a 182-day Notice of Intent (MCL 600.2912b), an Affidavit of Merit (MCL 600.2912d), and the 2026 caps (MCL 600.1483).
 - [Nursing home abuse](/personal-injury/nursing-home-abuse)**:** negligence or malpractice, with the deadline set by which it is.

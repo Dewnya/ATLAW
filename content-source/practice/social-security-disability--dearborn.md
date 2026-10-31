@@ -81,7 +81,7 @@ SSDI benefits begin five full months after the established onset date; SSI is no
 - **Workers’ compensation** for a Rouge, plant, or restaurant injury offsets SSDI (42 USC 424a); see our [Dearborn workers’ compensation page](/personal-injury/workers-compensation/dearborn). **[ATTORNEY CHECK]**
 - **A personal injury settlement** does not reduce SSDI but can affect SSI; see our [Dearborn personal injury lawyer page](/personal-injury/personal-injury/dearborn).
 - **An employer’s long-term disability plan**, including the automakers’ plans, usually requires you to apply for SSDI and offsets the award, with its own 180-day ERISA appeal deadline (29 CFR 2560.503-1).
-- **VA disability** is evidence Social Security must consider but does not bind it; see our [VA benefit claims page](about:blank).
+- **VA disability** is evidence Social Security must consider but does not bind it.
 
 ## What to do if you are applying or were denied in Dearborn
 

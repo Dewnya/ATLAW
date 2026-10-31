@@ -34,7 +34,7 @@ ATLAW has practiced in Michigan for 13 years from its office at 3 Parklane Boule
 - Our [Michigan Social Security Disability lawyer page](/disability/social-security-disability) covers the programs and the five-step test in full.
 - Our [appeals page](/disability/ssd-appeals-process) covers each stage.
 - Our [Ann Arbor page](/areas-served/ann-arbor) covers every kind of claim in the city.
-- If your claim is under an employer’s long-term disability plan rather than Social Security, see our [long-term disability page](/disability/short-long-term-disability). For veterans’ benefits, see our [VA benefit claims page](/personal-injury/va-benefit-claims).
+- If your claim is under an employer’s long-term disability plan rather than Social Security, see our [long-term disability page](/disability/short-long-term-disability).
 
 The first conversation is free, in English, Arabic, French, Mandarin, Urdu, or Spanish: **(313) 406-7606**.
 
@@ -103,8 +103,6 @@ The claim is the record. We obtain and organize it from every source:
 - **An employer’s occupational health file,** any workers’ compensation file, and any long-term disability file.
 - **The consultative examination** ordered by Michigan’s Disability Determination Services, which a claimant should attend but should never rely on.
 
-
-
 A treating provider’s opinion on your specific functional limits, in a form the regulations recognize (20 CFR 404.1520c), is often the difference at the hearing. For a skilled worker, the provider should address the mental demands of the work as well as the physical ones. Your employer’s records also count. Restricted-duty assignments, medical leave, reduced appointments, and accommodation requests can show how the condition affected your work before you stopped.
 
 ## The stages, and the offices that serve Ann Arbor
@@ -144,7 +142,7 @@ The fee is set by federal law: 25 percent of back benefits, capped at the curren
 
 **A personal injury settlement** does not reduce SSDI but can affect SSI. See our [Ann Arbor personal injury lawyer page](/personal-injury/personal-injury/ann-arbor).
 
-**VA disability** is evidence Social Security must consider, but it does not bind Social Security. See our [VA benefit claims page](/personal-injury/va-benefit-claims).
+**VA disability** is evidence Social Security must consider, but it does not bind Social Security.
 
 ## Young adults and students
 

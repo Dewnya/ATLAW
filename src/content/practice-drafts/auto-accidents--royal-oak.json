@@ -1134,7 +1134,7 @@
       },
       {
        "t": "link",
-       "href": "about:blank",
+       "href": "/personal-injury/car-accident-insurance",
        "c": [
         {
          "t": "text",
@@ -1631,29 +1631,6 @@
         "v": " if fault is disputed, alcohol was involved, the other driver’s limit looks too low, or the road played a part. The camera footage and bar records are the first evidence lost, and the 120-day dram shop and road-defect notices are already running."
        }
       ]
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
-      {
-       "t": "text",
-       "v": "Our "
-      },
-      {
-       "t": "link",
-       "href": "about:blank",
-       "c": [
-        {
-         "t": "text",
-         "v": "full checklist"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " covers the first day, week, month, and year."
-      }
      ]
     }
    ]
@@ -2179,7 +2156,7 @@
    }
   ]
  },
- "wordCount": 2933,
+ "wordCount": 2923,
  "openItems": 2,
  "source": {
   "file": "B4-21_Royal-Oak-Car-Accident-Lawyer.docx",

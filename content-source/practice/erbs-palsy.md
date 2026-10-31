@@ -76,14 +76,14 @@ Neuropraxia is the injury most babies have, and it heals. Rupture and avulsion a
 
 What the standard of care prohibits is as important as what it requires: **fundal pressure** (pushing on the top of the uterus), which drives the shoulder harder into the bone, and **excessive lateral traction** on the baby’s head, which stretches the plexus directly. ACOG’s shoulder dystocia bulletin says both.
 
-The management of shoulder dystocia is the subject of its own page, [shoulder dystocia lawyer Michigan](about:blank). The points that matter for an Erb’s palsy case are these:
+The management of shoulder dystocia is the subject of its own page, [shoulder dystocia lawyer Michigan](/personal-injury/shoulder-dystocia). The points that matter for an Erb’s palsy case are these:
 
 - **The risk factors were known before labor.** Macrosomia (a large baby), maternal diabetes, a prior shoulder dystocia, excessive weight gain, a prolonged second stage, and operative vaginal delivery with vacuum or forceps all raise the risk. ACOG says cesarean should be offered at an estimated fetal weight of 5,000 grams in a mother without diabetes and 4,500 grams with diabetes, and to a mother whose prior baby had a brachial plexus injury. A family whose baby weighed ten pounds and whose mother was diabetic is entitled to ask whether that conversation happened.
 - **The maneuvers were, or were not, performed and documented.** Shoulder dystocia is a drilled emergency. The delivery note should record the time the head delivered, each maneuver attempted, the time the body delivered, who was present, and the infant’s condition. A note that says only “shoulder dystocia, delivered with McRoberts” after a permanent avulsion injury tells an expert as much as a detailed one.
 - **Nobody pushed on the fundus.** Nursing notes and the mother’s own account often establish this when the physician’s note does not.
 - **The injury pattern.** Injuries to the posterior arm, injuries after a very rapid second stage, and injuries in smaller babies without recognized dystocia are the cases where maternal forces are the more likely explanation; ACOG’s report says so, and we will say so to a family when the records show it. A severe anterior-arm injury in a macrosomic infant after a prolonged, documented dystocia is a different case.
 
-Brachial plexus injury can also occur in breech delivery, when traction is applied to the body while the head is still inside, and during cesarean, though at one-sixth the rate of vaginal delivery. A difficult delivery can injure more than the arm; oxygen deprivation during a prolonged shoulder dystocia is covered on our [birth injuries](about:blank) and [labor and delivery negligence](about:blank) pages.
+Brachial plexus injury can also occur in breech delivery, when traction is applied to the body while the head is still inside, and during cesarean, though at one-sixth the rate of vaginal delivery. A difficult delivery can injure more than the arm; oxygen deprivation during a prolonged shoulder dystocia is covered on our [birth injuries](/personal-injury/birth-injuries) and [labor and delivery negligence](/personal-injury/labor-delivery-complications) pages.
 
 ## Diagnosis, treatment, and the three-month window
 

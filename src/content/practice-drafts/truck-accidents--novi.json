@@ -1749,29 +1749,6 @@
        }
       ]
      ]
-    },
-    {
-     "t": "p",
-     "c": [
-      {
-       "t": "text",
-       "v": "Our "
-      },
-      {
-       "t": "link",
-       "href": "/resources/what-to-do-after-an-accident",
-       "c": [
-        {
-         "t": "text",
-         "v": "full checklist"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " covers the first day, week, month, and year."
-      }
-     ]
     }
    ]
   },
@@ -2279,7 +2256,7 @@
    }
   ]
  },
- "wordCount": 3461,
+ "wordCount": 3451,
  "openItems": 0,
  "source": {
   "file": "B4-29_Novi-Truck-Accident-Lawyer.docx",

@@ -84,8 +84,6 @@ The first act in a Canton truck case is a **preservation letter**: to the carrie
 5. **Report to your own insurer and file the Application for No-Fault Benefits** within the first week.
 6. **Call a lawyer within days**, so the preservation letter goes out before the records expire.
 
-Our [full checklist](about:blank) covers the first day, week, month, and year.
-
 ## The courts and deadlines
 
 Most Canton truck cases are filed in the Third Judicial Circuit Court at the Coleman A. Young Municipal Center in Detroit. Cases against out-of-state carriers may be filed in or removed to the U.S. District Court for the Eastern District of Michigan, which sits in Detroit. A crash near the Washtenaw County line, or with a Washtenaw or Oakland County defendant, may allow filing there (MCL 600.1629). Claims against the State go to the Court of Claims; smaller claims go to the 35th District Court at 660 Plymouth Road in Plymouth. A fatal crash is brought by the estate through the Wayne County Probate Court; see our [Canton wrongful death page](/personal-injury/wrongful-death/canton). **[ATTORNEY CHECK]**

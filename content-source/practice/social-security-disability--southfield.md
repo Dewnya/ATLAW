@@ -81,7 +81,7 @@ SSDI benefits begin five full months after the established onset date; SSI is no
 - **An employer’s long-term disability plan.** Many Southfield office employers provide group LTD insurance. Many plans require you to apply for SSDI, offset the SSDI award dollar for dollar, and may claim repayment from your SSDI back pay. An LTD denial has its own 180-day ERISA appeal deadline (29 CFR 2560.503-1), and the LTD file and the Social Security file should tell the same story.
 - **Workers’ compensation** offsets SSDI (42 USC 424a); see our [workers’ compensation page](/personal-injury/workers-compensation).
 - **A personal injury settlement** does not reduce SSDI but can affect SSI; see our [Southfield personal injury lawyer page](/personal-injury/personal-injury/southfield).
-- **VA disability** is evidence Social Security must consider but does not bind it; see our [VA benefit claims page](about:blank).
+- **VA disability** is evidence Social Security must consider but does not bind it.
 
 ## What to do if you are applying or were denied
 

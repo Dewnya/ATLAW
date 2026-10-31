@@ -69,8 +69,6 @@ Winter falls are among the most contested fall cases in the city. A property own
 6. **Keep the shoes** unworn and unwashed.
 7. **Call a lawyer within days.** Surveillance footage is commonly overwritten in 7 to 30 days; a preservation letter stops that. If the City, the Housing Commission, a public authority, or the State may be involved, the 120-day or six-month clock is already running.
 
-Our [full checklist](about:blank) is written for crashes, but the evidence rules are the same.
-
 ## The courts
 
 Fall suits over $25,000 are filed in the Third Judicial Circuit Court at the Coleman A. Young Municipal Center; claims up to $25,000, which many fall cases with modest medical bills are, go to the 36th District Court at 421 Madison Street. Claims against the State or MDNR go to the Court of Claims. A fall that causes a [brain injury](/personal-injury/brain-injury), a [spinal cord injury](/personal-injury/spinal-cord-injury), or a death ([wrongful death](/personal-injury/wrongful-death)) is a circuit court case with no cap on noneconomic damages.

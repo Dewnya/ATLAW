@@ -586,7 +586,7 @@
       },
       {
        "t": "link",
-       "href": "about:blank",
+       "href": "/personal-injury/car-accident-insurance",
        "c": [
         {
          "t": "text",
@@ -895,29 +895,6 @@
         "v": " if fault is disputed, the other driver is uninsured, or the road played a part; the camera footage and signal data are the first evidence lost, and the 120-day notice to the City or the Road Commission is already running."
        }
       ]
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
-      {
-       "t": "text",
-       "v": "Our "
-      },
-      {
-       "t": "link",
-       "href": "about:blank",
-       "c": [
-        {
-         "t": "text",
-         "v": "full checklist"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " covers the first day, week, month, and year."
-      }
      ]
     }
    ]
@@ -1249,7 +1226,7 @@
    "answer": [
     {
      "t": "text",
-     "v": "One year to give your no-fault insurer written notice, three years to sue the at-fault driver, two years to sue a bar, 120 days for a notice to the City or the Road Commission, and 120 days for a road-defect notice against MDOT.."
+     "v": "One year to give your no-fault insurer written notice, three years to sue the at-fault driver, two years to sue a bar, 120 days for a notice to the City or the Road Commission, and 120 days for a road-defect notice against MDOT."
     }
    ]
   }
@@ -1296,7 +1273,7 @@
    }
   ]
  },
- "wordCount": 2984,
+ "wordCount": 2974,
  "openItems": 4,
  "source": {
   "file": "B3-83_Pontiac-Car-Accident-Lawyer.docx",

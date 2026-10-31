@@ -76,7 +76,7 @@ A hospital will argue that a fall or a pressure injury is malpractice, to invoke
 | Failure to monitor and rescue | Response to deteriorating vital signs; rapid-response activation; telemetry monitoring | Monitor data, nursing notes, rapid-response and code records |
 | Premature or unsafe discharge | Discharge criteria met, instructions given, follow-up arranged, transport appropriate | Discharge summary, instructions, vital signs at discharge |
 | Birth injuries | Fetal monitoring interpretation, timely cesarean, neonatal resuscitation | Fetal monitor strips, labor records, Apgar and cord gas results |
-| Surgical errors and anesthesia errors | Surgical and anesthesia standards | See our [medical malpractice](about:blank) and [anesthesia error](about:blank) pages |
+| Surgical errors and anesthesia errors | Surgical and anesthesia standards | See our [medical malpractice](/personal-injury/medical-malpractice) and [anesthesia error](/personal-injury/anesthesia-errors) pages |
 
 ## Michigan’s medical malpractice procedure
 

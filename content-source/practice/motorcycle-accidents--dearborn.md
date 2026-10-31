@@ -75,8 +75,6 @@ Since 2012, Michigan has let riders 21 and older ride without a helmet if they c
 6. **Apply for no-fault benefits with the right insurer within the first week**, and do not give a recorded statement to the other driver’s insurer.
 7. **If a road defect was involved, call within days**; the notice clock is 120 days, and the defect will be patched.
 
-Our [full checklist](about:blank) covers the first day, week, month, and year.
-
 ## Deadlines for Dearborn motorcycle crash claims
 
 | What | When | Statute |

@@ -1689,29 +1689,6 @@
        }
       ]
      ]
-    },
-    {
-     "t": "p",
-     "c": [
-      {
-       "t": "text",
-       "v": "Our "
-      },
-      {
-       "t": "link",
-       "href": "/resources/what-to-do-after-an-accident",
-       "c": [
-        {
-         "t": "text",
-         "v": "full checklist"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " covers the first day, week, month, and year."
-      }
-     ]
     }
    ]
   },
@@ -2187,7 +2164,7 @@
    }
   ]
  },
- "wordCount": 3516,
+ "wordCount": 3506,
  "openItems": 0,
  "source": {
   "file": "B4-46_Dearborn-Heights-Truck-Accident-Lawyer.docx",

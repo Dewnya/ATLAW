@@ -788,29 +788,6 @@
        }
       ]
      ]
-    },
-    {
-     "t": "p",
-     "c": [
-      {
-       "t": "text",
-       "v": "Our "
-      },
-      {
-       "t": "link",
-       "href": "about:blank",
-       "c": [
-        {
-         "t": "text",
-         "v": "full checklist"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " is written for crashes, but the evidence rules are the same."
-      }
-     ]
     }
    ]
   },
@@ -1203,7 +1180,7 @@
    }
   ]
  },
- "wordCount": 2748,
+ "wordCount": 2735,
  "openItems": 6,
  "source": {
   "file": "B2-65_Detroit-Slip-and-Fall-Lawyer.docx",

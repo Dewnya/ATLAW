@@ -59,8 +59,6 @@ The MSP count includes trucks over 10,000 pounds and buses, so school buses and 
 | Handheld phone ban; hazardous conditions | 392.82, 392.14 | No handheld phone use; reduce speed or stop in snow, ice, and fog. |  |
 | Minimum insurance | Part 387 | $750,000 general freight; $1 million oil; $5 million hazardous materials. |  |
 
-
-
 **The owner of the truck or trailer.** In Michigan, a vehicle’s owner is liable for its negligent operation by someone driving with the owner’s consent (MCL 257.401). When the tractor, the trailer, and the driver belong to different companies, which is common in freight and in aggregate hauling, each may be a defendant, although a company in the business of renting or leasing vehicles is generally shielded from owner liability by federal law (49 USC 30106).
 
 **Michigan no-fault still applies to you.** Your own auto insurer pays your medical bills, 85 percent of lost wages up to the monthly cap DIFS sets each year, replacement services, and attendant care regardless of fault (MCL 500.3107), with written notice due within one year (MCL 500.3145(1)). The Michigan Assigned Claims Plan pays if no household policy applies (MCL 500.3172). Your claim against the driver and the carrier for pain and suffering and losses beyond no-fault requires a threshold injury (MCL 500.3135) and must be filed within three years (MCL 600.5805(2)). If you were more than 50 percent at fault, you cannot recover pain-and-suffering damages, and below that your share reduces them (MCL 500.3135(2)(b)). The difference from a car case is the money available: the carrier’s $750,000-plus policy, often with excess coverage above it. See our [no-fault insurance claim page](/personal-injury/car-accident-insurance).
@@ -83,8 +81,6 @@ The first act in a Waterford truck case is a **preservation letter**: to the car
 4. **Do not speak to the carrier’s insurer or its investigator.**
 5. **Report to your own insurer and file the Application for No-Fault Benefits** within the first week.
 6. **Call a lawyer within days**, so the preservation letter goes out before the records expire and the truck is repaired.
-
-Our [full checklist](about:blank) covers the first day, week, month, and year.
 
 ## The courts and deadlines
 

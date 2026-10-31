@@ -39,15 +39,15 @@ The county recorded fewer crashes in 2024 than in 2023, but more fatal ones: 32 
 
 ## Where Washtenaw County injuries happen
 
-**The freeways.** I-94 runs east to west through Ypsilanti, the south side of Ann Arbor, and on toward Chelsea and Jackson; US-23 runs north to south along Ann Arbor’s east side; M-14 connects Ann Arbor to Plymouth and I-275. The I-94/US-23 interchange, the US-23/M-14 interchange, and the I-94 interchanges at Ypsilanti carry commuter and freight traffic at speed; freeway crashes there are rear-end, lane-change, and truck crashes, and work-zone crashes during the recurring reconstruction of both freeways. Our [Washtenaw County truck accident page](about:blank) covers the truck cases.
+**The freeways.** I-94 runs east to west through Ypsilanti, the south side of Ann Arbor, and on toward Chelsea and Jackson; US-23 runs north to south along Ann Arbor’s east side; M-14 connects Ann Arbor to Plymouth and I-275. The I-94/US-23 interchange, the US-23/M-14 interchange, and the I-94 interchanges at Ypsilanti carry commuter and freight traffic at speed; freeway crashes there are rear-end, lane-change, and truck crashes, and work-zone crashes during the recurring reconstruction of both freeways. Our [Washtenaw County truck accident page](/personal-injury/truck-accidents/washtenaw-county) covers the truck cases.
 
-**The corridors.** Washtenaw Avenue between Ann Arbor and Ypsilanti, Carpenter Road in Pittsfield Township, Michigan Avenue through Ypsilanti and Saline, Ellsworth, Packard, State Street, and Huron Parkway. The county’s ten highest-crash intersections in 2024 were all on these roads: Hamilton at Washtenaw in Ypsilanti (132 crashes) was first, State at Ellsworth in Ann Arbor (85) second, and four of the ten were on Carpenter Road or at Hogback and Washtenaw in Pittsfield Township. Michigan Avenue at Prospect in Ypsilanti had 20 injuries on 30 crashes, the most injuries of any intersection on the list. See our [Washtenaw County car accident page](about:blank).
+**The corridors.** Washtenaw Avenue between Ann Arbor and Ypsilanti, Carpenter Road in Pittsfield Township, Michigan Avenue through Ypsilanti and Saline, Ellsworth, Packard, State Street, and Huron Parkway. The county’s ten highest-crash intersections in 2024 were all on these roads: Hamilton at Washtenaw in Ypsilanti (132 crashes) was first, State at Ellsworth in Ann Arbor (85) second, and four of the ten were on Carpenter Road or at Hogback and Washtenaw in Pittsfield Township. Michigan Avenue at Prospect in Ypsilanti had 20 injuries on 30 crashes, the most injuries of any intersection on the list. See our [Washtenaw County car accident page](/personal-injury/auto-accidents/washtenaw-county).
 
-**The campuses and downtowns.** The University of Michigan in Ann Arbor and Eastern Michigan University in Ypsilanti bring tens of thousands of students who walk, bike, ride scooters, and take the bus. The county recorded 100 pedestrian crashes and 91 bicycle crashes in 2024. A pedestrian or cyclist hit by a car has a no-fault claim even without a car of their own, through a policy in their household or, if there is none, the Michigan Assigned Claims Plan (MCL 500.3114(1), 500.3115, 500.3172). See our [pedestrian accident](about:blank) and [bicycle accident](about:blank) pages.
+**The campuses and downtowns.** The University of Michigan in Ann Arbor and Eastern Michigan University in Ypsilanti bring tens of thousands of students who walk, bike, ride scooters, and take the bus. The county recorded 100 pedestrian crashes and 91 bicycle crashes in 2024. A pedestrian or cyclist hit by a car has a no-fault claim even without a car of their own, through a policy in their household or, if there is none, the Michigan Assigned Claims Plan (MCL 500.3114(1), 500.3115, 500.3172). See our [pedestrian accident](/personal-injury/pedestrian-accidents) and [bicycle accident](/personal-injury/bicycle-accidents) pages.
 
 **The rural roads and the deer.** West and north of Ann Arbor, the county’s roads are two-lane, often unlit, and crossed by deer. Washtenaw recorded 1,409 deer crashes in 2024, more than its pedestrian, bicycle, and motorcycle crashes combined. A deer crash with no other vehicle is a no-fault claim against your own insurer for your injuries; your car is covered only by comprehensive coverage; and a motorcyclist who hits a deer has no PIP claim at all because no motor vehicle was involved. When a driver swerved to avoid a deer and hit another car, the case is about fault like any other crash.
 
-**Rental housing, apartments, and student housing.** Ann Arbor and Ypsilanti have large rental markets, many of them student houses and older buildings. Falls on broken stairs and porches, fire and carbon monoxide injuries, and tenant injuries under MCL 554.139 are recurring claims. See our [tenant injury](about:blank), [premises liability](about:blank), and [slip and fall](about:blank) pages.
+**Rental housing, apartments, and student housing.** Ann Arbor and Ypsilanti have large rental markets, many of them student houses and older buildings. Falls on broken stairs and porches, fire and carbon monoxide injuries, and tenant injuries under MCL 554.139 are recurring claims. See our [tenant injury](/personal-injury/tenant-injuries), [premises liability](/personal-injury/premises-liability), and [slip and fall](/personal-injury/slip-and-fall) pages.
 
 **The hospitals.** Two Level I trauma centers serve the county, which means the most seriously injured people in the region are often treated here, and so are many medical malpractice claims. See below.
 
@@ -57,11 +57,11 @@ The county recorded fewer crashes in 2024 than in 2023, but more fatal ones: 32 
 
 **The universities are the State.** The University of Michigan and Eastern Michigan University are constitutional state institutions. A claim against either one, including a crash with a university bus or vehicle, an injury caused by a defective university building, or a malpractice claim against the university’s hospital, is a claim against the State: it is filed in the Michigan Court of Claims, tried to a judge without a jury, and requires written notice within six months of the injury under MCL 600.6431, or within 120 days for a defective building (MCL 691.1406). The universities’ own police and campus facilities are part of the same analysis. A claim against a private landlord, a bar, or another driver near campus is an ordinary claim in the ordinary courts.
 
-**Michigan Medicine and medical malpractice.** University of Michigan Health in Ann Arbor is a Level I trauma center for adults and children, and Trinity Health Ann Arbor (formerly St. Joseph Mercy Ann Arbor), in Superior Township, is a Level I trauma center as well. Governmental immunity does not bar a malpractice claim for medical care at a university hospital (MCL 691.1407(4)), but a claim against the University of Michigan’s hospital proceeds against the State in the Court of Claims, while a claim against Trinity Health Ann Arbor proceeds in the circuit court like any private hospital. Both follow Michigan’s malpractice rules: a 182-day Notice of Intent (MCL 600.2912b), an Affidavit of Merit (MCL 600.2912d), a two-year period (MCL 600.5805(8)), and the 2026 noneconomic damages caps of $596,400 and $1,065,000 (MCL 600.1483). See our [medical malpractice page](about:blank).
+**Michigan Medicine and medical malpractice.** University of Michigan Health in Ann Arbor is a Level I trauma center for adults and children, and Trinity Health Ann Arbor (formerly St. Joseph Mercy Ann Arbor), in Superior Township, is a Level I trauma center as well. Governmental immunity does not bar a malpractice claim for medical care at a university hospital (MCL 691.1407(4)), but a claim against the University of Michigan’s hospital proceeds against the State in the Court of Claims, while a claim against Trinity Health Ann Arbor proceeds in the circuit court like any private hospital. Both follow Michigan’s malpractice rules: a 182-day Notice of Intent (MCL 600.2912b), an Affidavit of Merit (MCL 600.2912d), a two-year period (MCL 600.5805(8)), and the 2026 noneconomic damages caps of $596,400 and $1,065,000 (MCL 600.1483). See our [medical malpractice page](/personal-injury/medical-malpractice).
 
-**Buses.** TheRide (the Ann Arbor Area Transportation Authority) runs the county’s fixed-route buses; the University of Michigan and Eastern Michigan run campus buses. A crash with a TheRide bus proceeds under the motor vehicle exception to governmental immunity (MCL 691.1405); a crash with a university bus is a Court of Claims case. A passenger hurt on a bus has a no-fault claim, with priority set by MCL 500.3114(2). See our [bus accident page](about:blank).
+**Buses.** TheRide (the Ann Arbor Area Transportation Authority) runs the county’s fixed-route buses; the University of Michigan and Eastern Michigan run campus buses. A crash with a TheRide bus proceeds under the motor vehicle exception to governmental immunity (MCL 691.1405); a crash with a university bus is a Court of Claims case. A passenger hurt on a bus has a no-fault claim, with priority set by MCL 500.3114(2). See our [bus accident page](/personal-injury/bus-accidents).
 
-**Drunk driving and the bars.** Washtenaw County recorded 276 alcohol-involved crashes in 2024. A bar or restaurant that served a visibly intoxicated person or a minor who then caused a crash can be liable under the dram shop act, with written notice within 120 days after the injured person hires a lawyer and suit within two years (MCL 436.1801). Serving minors is a recurring issue in a college county. See our [drunk driving accident page](about:blank).
+**Drunk driving and the bars.** Washtenaw County recorded 276 alcohol-involved crashes in 2024. A bar or restaurant that served a visibly intoxicated person or a minor who then caused a crash can be liable under the dram shop act, with written notice within 120 days after the injured person hires a lawyer and suit within two years (MCL 436.1801). Serving minors is a recurring issue in a college county. See our [drunk driving accident page](/personal-injury/drunk-driving-accidents).
 
 ## The courts that hear Washtenaw County injury cases
 
@@ -79,26 +79,26 @@ Venue is set by MCL 600.1629 in a fixed order. It begins with the county where t
 
 ## The cases we handle in Washtenaw County
 
-- [Car accidents](about:blank), including [no-fault benefit claims](about:blank) and threshold claims against the at-fault driver under MCL 500.3135
-- [Truck accidents](about:blank) on I-94, US-23, and M-14
-- [Motorcycle](about:blank), [pedestrian](about:blank), and [bicycle](about:blank) crashes
-- [Bus accidents](about:blank) involving TheRide, university buses, and school districts
-- [Rideshare](about:blank) crashes
-- [Drunk driving](about:blank) crashes and dram shop claims
-- [Slip and fall](about:blank), [premises liability](about:blank), and [tenant injuries](about:blank)
-- [Dog bites](about:blank) under MCL 287.351
-- [Nursing home abuse and neglect](about:blank)
-- [Medical malpractice](about:blank) and [birth injuries](about:blank), including claims against university and private hospitals
-- [Workers’ compensation](about:blank) and third-party claims for workplace injuries
-- [Wrongful death](about:blank)
-- [Brain injuries](about:blank) and [spinal cord injuries](about:blank)
-- [Social Security disability](about:blank) and [long-term disability](about:blank)
+- [Car accidents](/personal-injury/auto-accidents/washtenaw-county), including [no-fault benefit claims](/personal-injury/car-accident-insurance) and threshold claims against the at-fault driver under MCL 500.3135
+- [Truck accidents](/personal-injury/truck-accidents/washtenaw-county) on I-94, US-23, and M-14
+- [Motorcycle](/personal-injury/motorcycle-accidents), [pedestrian](/personal-injury/pedestrian-accidents), and [bicycle](/personal-injury/bicycle-accidents) crashes
+- [Bus accidents](/personal-injury/bus-accidents) involving TheRide, university buses, and school districts
+- [Rideshare](/personal-injury/rideshare-accidents) crashes
+- [Drunk driving](/personal-injury/drunk-driving-accidents) crashes and dram shop claims
+- [Slip and fall](/personal-injury/slip-and-fall), [premises liability](/personal-injury/premises-liability), and [tenant injuries](/personal-injury/tenant-injuries)
+- [Dog bites](/personal-injury/dog-bites) under MCL 287.351
+- [Nursing home abuse and neglect](/personal-injury/nursing-home-abuse)
+- [Medical malpractice](/personal-injury/medical-malpractice) and [birth injuries](/personal-injury/birth-injuries), including claims against university and private hospitals
+- [Workers’ compensation](/personal-injury/workers-compensation) and third-party claims for workplace injuries
+- [Wrongful death](/personal-injury/wrongful-death)
+- [Brain injuries](/personal-injury/brain-injury) and [spinal cord injuries](/personal-injury/spinal-cord-injury)
+- [Social Security disability](/disability/social-security-disability) and [long-term disability](/disability/short-long-term-disability)
 
 ## Communities we serve in Washtenaw County
 
 We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 
-[Ann Arbor](about:blank) · [Ypsilanti](about:blank) · [Pittsfield Township](about:blank)
+[Ann Arbor](/areas-served/ann-arbor) · [Ypsilanti](/areas-served/ypsilanti) · [Pittsfield Township](/areas-served/pittsfield-township)
 
 We also represent clients from Ann Arbor Township, Augusta Township, Bridgewater Township, Chelsea, Dexter, Dexter Township, Freedom Township, Lima Township, Lodi Township, Lyndon Township, Manchester, Manchester Township, Milan, Northfield Township and Whitmore Lake, Salem Township, Saline, Saline Township, Scio Township, Sharon Township, Superior Township, Sylvan Township, Webster Township, York Township, and Ypsilanti Township.
 

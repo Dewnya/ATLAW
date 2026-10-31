@@ -83,8 +83,6 @@ For pain and suffering and economic losses beyond no-fault, you need a threshold
 6. **Read your own declarations page** for PIP level and UM/UIM coverage.
 7. **Call a lawyer within the week**, so the preservation letter for app and GPS data goes out before retention windows close.
 
-Our [full checklist](about:blank) covers the first day, week, month, and year.
-
 ## Deadlines for Dearborn rideshare crash claims
 
 | What | When | Source |

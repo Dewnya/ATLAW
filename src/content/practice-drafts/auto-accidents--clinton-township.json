@@ -571,7 +571,7 @@
       },
       {
        "t": "link",
-       "href": "about:blank",
+       "href": "/personal-injury/car-accident-insurance",
        "c": [
         {
          "t": "text",
@@ -849,29 +849,6 @@
         "v": " if fault is disputed or the road played a part; the camera footage and signal data are the first evidence lost, and the 120-day county notice is already running."
        }
       ]
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
-      {
-       "t": "text",
-       "v": "Our "
-      },
-      {
-       "t": "link",
-       "href": "about:blank",
-       "c": [
-        {
-         "t": "text",
-         "v": "full checklist"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " covers the first day, week, month, and year."
-      }
      ]
     }
    ]
@@ -1251,7 +1228,7 @@
    }
   ]
  },
- "wordCount": 2551,
+ "wordCount": 2541,
  "openItems": 3,
  "source": {
   "file": "B3-67_Clinton-Township-Car-Accident-Lawyer.docx",

@@ -42,7 +42,7 @@
     },
     {
      "t": "link",
-     "href": "about:blank",
+     "href": "/personal-injury/truck-accidents",
      "c": [
       {
        "t": "text",
@@ -56,7 +56,7 @@
     },
     {
      "t": "link",
-     "href": "about:blank",
+     "href": "/areas-served/washtenaw-county",
      "c": [
       {
        "t": "text",
@@ -70,7 +70,7 @@
     },
     {
      "t": "link",
-     "href": "about:blank",
+     "href": "/personal-injury/truck-accidents/ann-arbor",
      "c": [
       {
        "t": "text",
@@ -84,7 +84,7 @@
     },
     {
      "t": "link",
-     "href": "about:blank",
+     "href": "/personal-injury/truck-accidents/ypsilanti",
      "c": [
       {
        "t": "text",
@@ -98,7 +98,7 @@
     },
     {
      "t": "link",
-     "href": "about:blank",
+     "href": "/personal-injury/truck-accidents",
      "c": [
       {
        "t": "text",
@@ -112,7 +112,7 @@
     },
     {
      "t": "link",
-     "href": "about:blank",
+     "href": "/personal-injury/auto-accidents/washtenaw-county",
      "c": [
       {
        "t": "text",
@@ -319,7 +319,7 @@
       },
       {
        "t": "link",
-       "href": "about:blank",
+       "href": "/personal-injury/bus-accidents",
        "c": [
         {
          "t": "text",
@@ -411,7 +411,7 @@
       },
       {
        "t": "link",
-       "href": "about:blank",
+       "href": "/personal-injury/pedestrian-accidents",
        "c": [
         {
          "t": "text",
@@ -425,7 +425,7 @@
       },
       {
        "t": "link",
-       "href": "about:blank",
+       "href": "/personal-injury/bicycle-accidents",
        "c": [
         {
          "t": "text",
@@ -738,7 +738,7 @@
       },
       {
        "t": "link",
-       "href": "about:blank",
+       "href": "/personal-injury/car-accident-insurance",
        "c": [
         {
          "t": "text",
@@ -770,7 +770,7 @@
       },
       {
        "t": "link",
-       "href": "about:blank",
+       "href": "/personal-injury/product-liability",
        "c": [
         {
          "t": "text",
@@ -802,7 +802,7 @@
       },
       {
        "t": "link",
-       "href": "about:blank",
+       "href": "/personal-injury/workers-compensation",
        "c": [
         {
          "t": "text",
@@ -959,29 +959,6 @@
        }
       ]
      ]
-    },
-    {
-     "t": "p",
-     "c": [
-      {
-       "t": "text",
-       "v": "Our "
-      },
-      {
-       "t": "link",
-       "href": "about:blank",
-       "c": [
-        {
-         "t": "text",
-         "v": "full checklist"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " covers the first day, week, month, and year."
-      }
-     ]
     }
    ]
   },
@@ -998,7 +975,7 @@
       },
       {
        "t": "link",
-       "href": "about:blank",
+       "href": "/personal-injury/wrongful-death",
        "c": [
         {
          "t": "text",
@@ -1328,7 +1305,7 @@
    }
   ]
  },
- "wordCount": 2770,
+ "wordCount": 2760,
  "openItems": 2,
  "source": {
   "file": "B4-03_Washtenaw-County-Truck-Accident-Lawyer.docx",

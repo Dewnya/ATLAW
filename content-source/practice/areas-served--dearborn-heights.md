@@ -47,7 +47,7 @@ ATLAW’s office is at 3 Parklane Boulevard in Dearborn, a short drive from Dear
 
 ## What is different about a Dearborn Heights claim
 
-**Coverage.** Dearborn Heights drivers carry a mix of insurance policies, and coverage limits can significantly affect recovery after a serious crash. A pain-and-suffering claim against the at-fault driver generally requires an injury meeting Michigan’s statutory threshold (MCL 500.3135). Recovery may depend on the driver’s insurance, available assets, and any uninsured or underinsured motorist coverage. Michigan’s default bodily-injury liability limits are $250,000 per person and $500,000 per accident, although lower limits may be selected. We review every policy in the household before we value a Dearborn Heights claim. See our [Dearborn Heights car accident page](/personal-injury/auto-accidents/dearborn-heights), [no-fault insurance guide](about:blank), and [uninsured motorist page](/personal-injury/uninsured-motorist-claims).
+**Coverage.** Dearborn Heights drivers carry a mix of insurance policies, and coverage limits can significantly affect recovery after a serious crash. A pain-and-suffering claim against the at-fault driver generally requires an injury meeting Michigan’s statutory threshold (MCL 500.3135). Recovery may depend on the driver’s insurance, available assets, and any uninsured or underinsured motorist coverage. Michigan’s default bodily-injury liability limits are $250,000 per person and $500,000 per accident, although lower limits may be selected. We review every policy in the household before we value a Dearborn Heights claim. See our [Dearborn Heights car accident page](/personal-injury/auto-accidents/dearborn-heights), [no-fault insurance guide](/personal-injury/car-accident-insurance), and [uninsured motorist page](/personal-injury/uninsured-motorist-claims).
 
 **Three road agencies.** Warren, Joy, Cherry Hill, Van Born, Outer Drive, Beech Daly, Inkster, and Pelham fall under Wayne County or city jurisdiction depending on the segment; Hines Drive is maintained by Wayne County. A crash caused by a qualifying defect in the traveled roadway may implicate the highway exception to governmental immunity, MCL 691.1402. Signal malfunctions and sight obstructions require separate legal analysis.
 
@@ -64,19 +64,19 @@ ATLAW’s office is at 3 Parklane Boulevard in Dearborn, a short drive from Dear
 - [Car accidents](/personal-injury/auto-accidents/dearborn-heights) and [no-fault benefit claims](/personal-injury/car-accident-insurance)
 - [Truck accidents](/personal-injury/truck-accidents/dearborn-heights) on Michigan Avenue, Telegraph, and Ford Road
 - [Motorcycle](/personal-injury/motorcycle-accidents/dearborn-heights), [pedestrian](/personal-injury/pedestrian-accidents), and [bicycle](/personal-injury/bicycle-accidents) crashes, including on Warren Avenue and Hines Drive
-- [Bus accidents](/personal-injury/bus-accidents/dearborn-heights) involving SMART and the school districts
-- [Rideshare accidents](/personal-injury/rideshare-accidents/dearborn-heights)
-- [Drunk driving](/personal-injury/drunk-driving-accidents/dearborn-heights) crashes and dram shop claims
-- [Slip and fall](/personal-injury/slip-and-fall/dearborn-heights) and [premises liability](/personal-injury/premises-liability) at the Ford Road and Telegraph strips and the apartment complexes
-- [Tenant injuries](/personal-injury/tenant-injuries/dearborn-heights)
+- [Bus accidents](/personal-injury/bus-accidents) involving SMART and the school districts
+- [Rideshare accidents](/personal-injury/rideshare-accidents)
+- [Drunk driving](/personal-injury/drunk-driving-accidents) crashes and dram shop claims
+- [Slip and fall](/personal-injury/slip-and-fall) and [premises liability](/personal-injury/premises-liability) at the Ford Road and Telegraph strips and the apartment complexes
+- [Tenant injuries](/personal-injury/tenant-injuries)
 - [Dog bites](/personal-injury/dog-bites/dearborn-heights)
 - [Nursing home abuse and neglect](/personal-injury/nursing-home-abuse/dearborn-heights)
 - [Medical malpractice](/personal-injury/medical-malpractice/dearborn-heights) and [birth injuries](/personal-injury/birth-injuries)
 - [Workers’ compensation](/personal-injury/workers-compensation/dearborn-heights) and third-party claims for Michigan Avenue corridor and Rouge-area workers
-- [Product liability](/personal-injury/product-liability/dearborn-heights)
+- [Product liability](/personal-injury/product-liability)
 - [Wrongful death](/personal-injury/wrongful-death/dearborn-heights)
-- [Brain injuries](/personal-injury/brain-injury/dearborn-heights) and [spinal cord injuries](/personal-injury/spinal-cord-injury)
-- [Social Security disability](/disability/social-security-disability/dearborn-heights) and [long-term disability](/disability/short-long-term-disability) for Dearborn Heights residents who cannot return to work
+- [Brain injuries](/personal-injury/brain-injury) and [spinal cord injuries](/personal-injury/spinal-cord-injury)
+- [Social Security disability](/disability/social-security-disability) and [long-term disability](/disability/short-long-term-disability) for Dearborn Heights residents who cannot return to work
 
 ## Deadlines that apply to Dearborn Heights claims
 

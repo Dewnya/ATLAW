@@ -31,7 +31,6 @@ For a Taylor patient, the first question is who the defendant is. Taylor’s hos
 - Corewell Health Trenton
 - the Level I trauma centers in Detroit, Detroit Receiving Hospital and Henry Ford Hospital
 
-
 Day-to-day care happens in the medical offices along Telegraph and around the hospital, in urgent care clinics, and in community health centers. Health-system-employed physicians practice there alongside independent practices and separate physician groups. Each has its own legal entity, insurer, and notice address. A federally funded clinic is sued under federal law, on a different clock and in a different court.
 
 ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Boulevard in Dearborn. The firm has handled more than 10,000 cases and recovered more than $100 million for clients.
@@ -105,7 +104,7 @@ The employer of each provider who touched the chart must be identified. A health
 
 Identifying a deemed clinic early is the difference between a timely claim and none.
 
-**Veterans.** Veterans treated at the John D. Dingell VA Medical Center in Detroit or a VA outpatient clinic have an FTCA claim on the same path. They may also qualify for disability compensation under 38 USC 1151 where the injury was caused by VA carelessness, negligence, or error, or by an event that was not reasonably foreseeable. See our [VA benefit claims page](about:blank).
+**Veterans.** Veterans treated at the John D. Dingell VA Medical Center in Detroit or a VA outpatient clinic have an FTCA claim on the same path. They may also qualify for disability compensation under 38 USC 1151 where the injury was caused by VA carelessness, negligence, or error, or by an event that was not reasonably foreseeable.
 
 **EMS.** Claims against EMS personnel, and against the agency that employs them, public or private, including a private ambulance company handling a transfer between hospitals, are limited by the Emergency Medical Services Act to gross negligence or willful misconduct (MCL 333.20965(1)).
 

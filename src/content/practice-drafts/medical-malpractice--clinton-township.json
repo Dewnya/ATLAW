@@ -487,21 +487,7 @@
       },
       {
        "t": "text",
-       "v": " Veterans treated at the John D. Dingell VA Medical Center in Detroit or a VA outpatient clinic have an FTCA claim on the same path, and may also qualify for disability compensation under 38 USC 1151 where the injury was caused by VA carelessness, negligence, or error, or by an event that was not reasonably foreseeable; see our "
-      },
-      {
-       "t": "link",
-       "href": "about:blank",
-       "c": [
-        {
-         "t": "text",
-         "v": "VA benefit claims page"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": ". Active-duty service members generally cannot sue the United States for injuries from military medical care, though a separate administrative claims process exists."
+       "v": " Veterans treated at the John D. Dingell VA Medical Center in Detroit or a VA outpatient clinic have an FTCA claim on the same path, and may also qualify for disability compensation under 38 USC 1151 where the injury was caused by VA carelessness, negligence, or error, or by an event that was not reasonably foreseeable. Active-duty service members generally cannot sue the United States for injuries from military medical care, though a separate administrative claims process exists."
       }
      ]
     },
@@ -1246,7 +1232,7 @@
    }
   ]
  },
- "wordCount": 2204,
+ "wordCount": 2198,
  "openItems": 1,
  "source": {
   "file": "B3-73_Clinton-Township-Medical-Malpractice-Lawyer.docx",

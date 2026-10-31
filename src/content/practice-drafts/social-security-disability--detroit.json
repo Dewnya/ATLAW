@@ -927,21 +927,7 @@
        },
        {
         "t": "text",
-        "v": " A VA rating is evidence Social Security must consider but does not bind it; see our "
-       },
-       {
-        "t": "link",
-        "href": "about:blank",
-        "c": [
-         {
-          "t": "text",
-          "v": "VA benefit claims page"
-         }
-        ]
-       },
-       {
-        "t": "text",
-        "v": "."
+        "v": " A VA rating is evidence Social Security must consider but does not bind it."
        }
       ],
       [
@@ -1280,7 +1266,7 @@
    }
   ]
  },
- "wordCount": 2299,
+ "wordCount": 2293,
  "openItems": 10,
  "source": {
   "file": "B2-70_Detroit-Social-Security-Disability-Lawyer.docx",

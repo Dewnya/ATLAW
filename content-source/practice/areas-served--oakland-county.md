@@ -42,7 +42,7 @@ Source: Michigan State Police, Michigan Traffic Crash Facts 2024, county profile
 
 **The lakes and the trails.** Oakland County has more inland lakes than any county in Michigan, and boating, jet-ski, and dock injuries on Cass, Orchard, Walled, Union, and Lake Orion produce claims under Michigan’s Marine Safety Act (MCL 324.80101 and following) and general negligence law; snowmobile and ORV injuries have their own statutes. The county’s paved trail network and the Paint Creek and Clinton River trails produce bicycle and pedestrian injuries that are not motor-vehicle cases and fall outside no-fault.
 
-**The senior-care facilities.** Oakland County has a large concentration of nursing homes, assisted-living facilities, and memory-care units. Falls, pressure injuries, medication errors, and neglect in those facilities are a steady source of claims; see our [nursing home abuse page](/personal-injury/nursing-home-abuse/oakland-county).
+**The senior-care facilities.** Oakland County has a large concentration of nursing homes, assisted-living facilities, and memory-care units. Falls, pressure injuries, medication errors, and neglect in those facilities are a steady source of claims; see our [nursing home abuse page](/personal-injury/nursing-home-abuse).
 
 **The hospitals.** The county’s hospitals are high-volume, and medical negligence claims arising from care in them are governed by Michigan’s medical malpractice statutes, including the 182-day notice of intent (MCL 600.2912b) and the 2026 noneconomic damage caps of $596,400 and $1,065,000 (MCL 600.1483); see our [medical malpractice page](/personal-injury/medical-malpractice/oakland-county).
 
@@ -74,17 +74,17 @@ Corewell Health William Beaumont University Hospital in Royal Oak is the county�
 
 - [Car accidents](/personal-injury/auto-accidents/oakland-county), including [no-fault benefit claims](/personal-injury/car-accident-insurance) against the client’s own insurer and threshold claims against the at-fault driver under MCL 500.3135
 - [Truck accidents](/personal-injury/truck-accidents/oakland-county) on I-75, I-696, I-96, and M-59
-- [Motorcycle](/personal-injury/motorcycle-accidents/oakland-county), [pedestrian](/personal-injury/pedestrian-accidents), and [bicycle](/personal-injury/bicycle-accidents) crashes
-- [Bus accidents](/personal-injury/bus-accidents/oakland-county) involving SMART, school districts, and charter carriers
-- [Rideshare](/personal-injury/rideshare-accidents/oakland-county) crashes
-- [Drunk driving](/personal-injury/drunk-driving-accidents/oakland-county) crashes (871 alcohol-involved crashes in 2024) and dram shop claims against the bars and restaurants that served the driver
-- [Slip and fall](/personal-injury/slip-and-fall/oakland-county) and [premises liability](/personal-injury/premises-liability) at the county’s malls, big-box stores, office parks, and apartment communities
+- [Motorcycle](/personal-injury/motorcycle-accidents), [pedestrian](/personal-injury/pedestrian-accidents), and [bicycle](/personal-injury/bicycle-accidents) crashes
+- [Bus accidents](/personal-injury/bus-accidents) involving SMART, school districts, and charter carriers
+- [Rideshare](/personal-injury/rideshare-accidents) crashes
+- [Drunk driving](/personal-injury/drunk-driving-accidents) crashes (871 alcohol-involved crashes in 2024) and dram shop claims against the bars and restaurants that served the driver
+- [Slip and fall](/personal-injury/slip-and-fall) and [premises liability](/personal-injury/premises-liability) at the county’s malls, big-box stores, office parks, and apartment communities
 - [Dog bites](/personal-injury/dog-bites/oakland-county) under MCL 287.351
-- [Nursing home abuse and neglect](/personal-injury/nursing-home-abuse/oakland-county)
+- [Nursing home abuse and neglect](/personal-injury/nursing-home-abuse)
 - [Medical malpractice](/personal-injury/medical-malpractice/oakland-county) and [birth injuries](/personal-injury/birth-injuries)
 - [Wrongful death](/personal-injury/wrongful-death/oakland-county)
-- [Brain injuries](/personal-injury/brain-injury/oakland-county) and [spinal cord injuries](/personal-injury/spinal-cord-injury)
-- [Social Security disability](/disability/social-security-disability/oakland-county) and [long-term disability](/disability/short-long-term-disability) claims for clients who cannot return to work
+- [Brain injuries](/personal-injury/brain-injury) and [spinal cord injuries](/personal-injury/spinal-cord-injury)
+- [Social Security disability](/disability/social-security-disability) and [long-term disability](/disability/short-long-term-disability) claims for clients who cannot return to work
 
 ## Communities we serve in Oakland County
 
@@ -125,7 +125,7 @@ We also represent clients from Auburn Hills, Berkley, Beverly Hills, Bingham Far
 
 **Do you have an office in Oakland County?** Our office is in Dearborn. We serve clients throughout Oakland County and welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 
-**I was injured at a nursing home in Oakland County. Is that a medical malpractice case?** Sometimes. A nursing-home injury may involve ordinary negligence or medical malpractice, depending on the conduct alleged. Under Bryant v. Oakpointe Villa Nursing Centre, Inc. (2004), the distinction depends on whether evaluating the challenged conduct requires professional medical judgment beyond ordinary knowledge and experience. Ordinary negligence generally has a three-year filing deadline, while medical malpractice generally has a two-year deadline and additional procedural requirements, including pre-suit notice. Many cases involve both, and the distinction has been litigated repeatedly in Michigan; see our [nursing home abuse page](/personal-injury/nursing-home-abuse/oakland-county).
+**I was injured at a nursing home in Oakland County. Is that a medical malpractice case?** Sometimes. A nursing-home injury may involve ordinary negligence or medical malpractice, depending on the conduct alleged. Under Bryant v. Oakpointe Villa Nursing Centre, Inc. (2004), the distinction depends on whether evaluating the challenged conduct requires professional medical judgment beyond ordinary knowledge and experience. Ordinary negligence generally has a three-year filing deadline, while medical malpractice generally has a two-year deadline and additional procedural requirements, including pre-suit notice. Many cases involve both, and the distinction has been litigated repeatedly in Michigan; see our [nursing home abuse page](/personal-injury/nursing-home-abuse).
 
 **The other driver had a high-limit policy. Does that mean my case is worth more?** It means the ceiling is higher. The value still depends on the injury, whether it meets the serious-impairment threshold in MCL 500.3135, your share of fault, and the medical record. A large policy is paid in full only when the injury justifies it.
 

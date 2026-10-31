@@ -74,19 +74,19 @@ Henry Ford Macomb Hospital in Clinton Township and McLaren Macomb in Mount Cleme
 
 - [Car accidents](/personal-injury/auto-accidents/macomb-county), including [no-fault benefit claims](/personal-injury/car-accident-insurance) against the client’s own insurer and threshold claims against the at-fault driver under MCL 500.3135
 - [Truck accidents](/personal-injury/truck-accidents/macomb-county) on I-94 and the plant corridors
-- [Motorcycle](/personal-injury/motorcycle-accidents/macomb-county), [pedestrian](/personal-injury/pedestrian-accidents), and [bicycle](/personal-injury/bicycle-accidents) crashes
-- [Bus accidents](/personal-injury/bus-accidents/macomb-county) involving SMART, school districts, and charter carriers
-- [Rideshare](/personal-injury/rideshare-accidents/macomb-county) crashes
-- [Drunk driving](/personal-injury/drunk-driving-accidents/macomb-county) crashes (583 alcohol-involved crashes in 2024) and dram shop claims
-- [Slip and fall](/personal-injury/slip-and-fall/macomb-county) and [premises liability](/personal-injury/premises-liability) at the Hall Road and Gratiot retail corridors and the county’s apartment communities
+- [Motorcycle](/personal-injury/motorcycle-accidents), [pedestrian](/personal-injury/pedestrian-accidents), and [bicycle](/personal-injury/bicycle-accidents) crashes
+- [Bus accidents](/personal-injury/bus-accidents) involving SMART, school districts, and charter carriers
+- [Rideshare](/personal-injury/rideshare-accidents) crashes
+- [Drunk driving](/personal-injury/drunk-driving-accidents) crashes (583 alcohol-involved crashes in 2024) and dram shop claims
+- [Slip and fall](/personal-injury/slip-and-fall) and [premises liability](/personal-injury/premises-liability) at the Hall Road and Gratiot retail corridors and the county’s apartment communities
 - [Dog bites](/personal-injury/dog-bites/macomb-county) under MCL 287.351
 - [Workers’ compensation](/personal-injury/workers-compensation/macomb-county) and third-party claims for the county’s manufacturing workforce
-- [Product liability](/personal-injury/product-liability/macomb-county)
-- [Nursing home abuse and neglect](/personal-injury/nursing-home-abuse/macomb-county)
+- [Product liability](/personal-injury/product-liability)
+- [Nursing home abuse and neglect](/personal-injury/nursing-home-abuse)
 - [Medical malpractice](/personal-injury/medical-malpractice/macomb-county) and [birth injuries](/personal-injury/birth-injuries)
 - [Wrongful death](/personal-injury/wrongful-death/macomb-county)
-- [Brain injuries](/personal-injury/brain-injury/macomb-county) and [spinal cord injuries](/personal-injury/spinal-cord-injury)
-- [Social Security disability](/disability/social-security-disability/macomb-county) and [long-term disability](/disability/short-long-term-disability) claims for clients who cannot return to work
+- [Brain injuries](/personal-injury/brain-injury) and [spinal cord injuries](/personal-injury/spinal-cord-injury)
+- [Social Security disability](/disability/social-security-disability) and [long-term disability](/disability/short-long-term-disability) claims for clients who cannot return to work
 
 ## Communities we serve in Macomb County
 

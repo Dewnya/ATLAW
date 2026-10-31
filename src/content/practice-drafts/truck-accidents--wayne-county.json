@@ -704,29 +704,6 @@
        }
       ]
      ]
-    },
-    {
-     "t": "p",
-     "c": [
-      {
-       "t": "text",
-       "v": "Our "
-      },
-      {
-       "t": "link",
-       "href": "about:blank",
-       "c": [
-        {
-         "t": "text",
-         "v": "full checklist"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " covers the first day, week, month, and year."
-      }
-     ]
     }
    ]
   },
@@ -1105,7 +1082,7 @@
    }
   ]
  },
- "wordCount": 2397,
+ "wordCount": 2387,
  "openItems": 10,
  "source": {
   "file": "B2-34_Wayne-County-Truck-Accident-Lawyer.docx",

@@ -79,7 +79,7 @@ Some drivers on Pontiac’s roads carry only the $50,000 opt-down minimum (MCL 5
 - [Motorcycle accidents](/personal-injury/motorcycle-accidents/pontiac)**:** the rider priority rule (MCL 500.3114(5)).
 - [Pedestrian](/personal-injury/pedestrian-accidents) **and** [bicycle](/personal-injury/bicycle-accidents) **injuries:** no-fault priority under MCL 500.3115, and the Assigned Claims Plan where no policy applies.
 - [Drunk driving crashes](/personal-injury/drunk-driving-accidents) and dram shop claims against downtown bars (MCL 436.1801): 120 days’ notice after you hire a lawyer, and two years to sue.
-- [Slip and fall](/personal-injury/slip-and-fall) and [tenant injuries](about:blank): *Kandil-Elsayed* (2023), MCL 554.139 for private landlords, the narrow limits on claims involving Housing Commission properties, and the City’s sidewalk duty.
+- [Slip and fall](/personal-injury/slip-and-fall) and [tenant injuries](/personal-injury/tenant-injuries): *Kandil-Elsayed* (2023), MCL 554.139 for private landlords, the narrow limits on claims involving Housing Commission properties, and the City’s sidewalk duty.
 - [Dog bites](/personal-injury/dog-bites)**:** strict liability under MCL 287.351.
 - [Medical malpractice](/personal-injury/medical-malpractice) at the city’s two hospitals and clinics: two years, a 182-day Notice of Intent (MCL 600.2912b), an Affidavit of Merit (MCL 600.2912d), and the 2026 caps (MCL 600.1483).
 - [Nursing home abuse](/personal-injury/nursing-home-abuse)**:** negligence or malpractice, with the deadline set by which.

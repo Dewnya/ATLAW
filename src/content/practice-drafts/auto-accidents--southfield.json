@@ -445,7 +445,7 @@
       },
       {
        "t": "link",
-       "href": "about:blank",
+       "href": "/personal-injury/car-accident-insurance",
        "c": [
         {
          "t": "text",
@@ -697,29 +697,6 @@
         "v": "; the bar’s receipts and video do not keep, and the suit must be filed within two years."
        }
       ]
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
-      {
-       "t": "text",
-       "v": "Our "
-      },
-      {
-       "t": "link",
-       "href": "about:blank",
-       "c": [
-        {
-         "t": "text",
-         "v": "full checklist"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " covers the first day, week, month, and year."
-      }
      ]
     }
    ]
@@ -1089,7 +1066,7 @@
    }
   ]
  },
- "wordCount": 2046,
+ "wordCount": 2036,
  "openItems": 4,
  "source": {
   "file": "B3-01_Southfield-Car-Accident-Lawyer.docx",

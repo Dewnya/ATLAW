@@ -124,7 +124,7 @@ Veterans treated at the VA Ann Arbor Healthcare System, or one of its outpatient
 - Suit can be filed in federal court only after the VA denies the claim, or six months pass without a decision, and within six months of a denial (28 USC 2675).
 - The case is tried to a federal judge, without a jury.
 
-Serving a Michigan Notice of Intent and waiting 182 days while the federal clock runs can lose the case. A veteran may also qualify for disability compensation under 38 USC 1151 where the injury was caused by VA carelessness, negligence, or error, or by an event that was not reasonably foreseeable. See our [VA benefit claims page](/personal-injury/va-benefit-claims).
+Serving a Michigan Notice of Intent and waiting 182 days while the federal clock runs can lose the case. A veteran may also qualify for disability compensation under 38 USC 1151 where the injury was caused by VA carelessness, negligence, or error, or by an event that was not reasonably foreseeable.
 
 **Federally funded community health centers.** Community health centers that receive federal Health Center Program funding, including centers serving Ann Arbor and Ypsilanti, can have their providers deemed federal employees for malpractice purposes. A claim against one follows the same federal path, with the administrative claim filed with the Department of Health and Human Services.
 

@@ -77,8 +77,8 @@ The physician’s prenatal decisions are also in issue. A mother with gestationa
 
 Oxygen deprivation during labor injures the brain in proportion to how severe and how long it is. The outcomes that bring families to us:
 
-- **Hypoxic-ischemic encephalopathy (HIE)**, the brain injury itself, diagnosed in the first hours by cord blood gases (a pH below 7.0 and a base deficit of 12 or more), low Apgar scores, seizures, and MRI. HIE is covered in detail on our [birth asphyxia and HIE page](about:blank), including the six-hour cooling window that gives the NICU one chance to limit the damage.
-- **Cerebral palsy**, the lifelong motor disability that often follows HIE, usually diagnosed between six months and two years. See our [cerebral palsy page](about:blank).
+- **Hypoxic-ischemic encephalopathy (HIE)**, the brain injury itself, diagnosed in the first hours by cord blood gases (a pH below 7.0 and a base deficit of 12 or more), low Apgar scores, seizures, and MRI. HIE is covered in detail on our [birth asphyxia and HIE page](/personal-injury/birth-asphyxia), including the six-hour cooling window that gives the NICU one chance to limit the damage.
+- **Cerebral palsy**, the lifelong motor disability that often follows HIE, usually diagnosed between six months and two years. See our [cerebral palsy page](/personal-injury/cerebral-palsy).
 - **Seizure disorders, cognitive disability, vision and hearing loss**, which accompany the motor injury in many children.
 - **Stillbirth and neonatal death.** A baby who dies in labor or in the first days from unrecognized fetal distress is a wrongful death case, discussed below.
 - **Meconium aspiration**, when a distressed baby passes stool into the amniotic fluid and inhales it, causing severe lung injury.

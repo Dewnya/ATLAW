@@ -74,17 +74,17 @@ Every ATLAW practice area is available to Wayne County clients. The most common:
 
 - [Car accidents](/personal-injury/auto-accidents/wayne-county), including [no-fault benefit claims](/personal-injury/car-accident-insurance) against the client’s own insurer and threshold claims against the at-fault driver under MCL 500.3135
 - [Truck accidents](/personal-injury/truck-accidents/wayne-county) on the freight corridors
-- [Motorcycle](/personal-injury/motorcycle-accidents/wayne-county), [pedestrian](/personal-injury/pedestrian-accidents), and [bicycle](/personal-injury/bicycle-accidents) crashes
-- [Bus accidents](/personal-injury/bus-accidents/wayne-county) involving DDOT, SMART, school buses, and charter carriers
-- [Rideshare](/personal-injury/rideshare-accidents/wayne-county) crashes at the airport, downtown, and in Dearborn
-- [Drunk driving](/personal-injury/drunk-driving-accidents/wayne-county) crashes (1,331 alcohol-involved crashes in 2024) and the dram shop claims that go with them
-- [Slip and fall](/personal-injury/slip-and-fall/wayne-county) and [premises liability](/personal-injury/premises-liability) at stores, apartment complexes, and [rental housing](/personal-injury/tenant-injuries)
+- [Motorcycle](/personal-injury/motorcycle-accidents), [pedestrian](/personal-injury/pedestrian-accidents), and [bicycle](/personal-injury/bicycle-accidents) crashes
+- [Bus accidents](/personal-injury/bus-accidents) involving DDOT, SMART, school buses, and charter carriers
+- [Rideshare](/personal-injury/rideshare-accidents) crashes at the airport, downtown, and in Dearborn
+- [Drunk driving](/personal-injury/drunk-driving-accidents) crashes (1,331 alcohol-involved crashes in 2024) and the dram shop claims that go with them
+- [Slip and fall](/personal-injury/slip-and-fall) and [premises liability](/personal-injury/premises-liability) at stores, apartment complexes, and [rental housing](/personal-injury/tenant-injuries)
 - [Dog bites](/personal-injury/dog-bites/wayne-county) under Michigan’s strict liability statute, MCL 287.351
 - [Medical malpractice](/personal-injury/medical-malpractice/wayne-county) and [birth injuries](/personal-injury/birth-injuries) at the county’s hospitals
-- [Nursing home abuse and neglect](/personal-injury/nursing-home-abuse/wayne-county)
+- [Nursing home abuse and neglect](/personal-injury/nursing-home-abuse)
 - [Wrongful death](/personal-injury/wrongful-death/wayne-county)
-- [Brain injuries](/personal-injury/brain-injury/wayne-county) and [spinal cord injuries](/personal-injury/spinal-cord-injury) from any cause
-- [Social Security disability](/disability/social-security-disability/wayne-county) for clients who cannot return to work
+- [Brain injuries](/personal-injury/brain-injury) and [spinal cord injuries](/personal-injury/spinal-cord-injury) from any cause
+- [Social Security disability](/disability/social-security-disability) for clients who cannot return to work
 
 ## Communities we serve in Wayne County
 

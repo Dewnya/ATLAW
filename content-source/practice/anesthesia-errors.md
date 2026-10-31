@@ -90,7 +90,7 @@ For accepted cases, ATLAW sends written requests to preserve anesthesia machine 
 
 Economic damages, uncapped: past and future medical care, including lifetime attendant care and rehabilitation for a brain injury, lost wages and earning capacity, and the cost of home and vehicle modifications, projected by a life care planner and an economist. Non-economic damages: pain and suffering, loss of enjoyment of life, and a spouse’s loss of consortium, capped at $596,400 or $1,065,000 in 2026 depending on the injury. In a death, the damages recoverable under the wrongful death act, including the family’s loss of society and companionship, subject to the cap. The value of the case is set by the injury and by the number of defendants whose policies respond; an anesthesia case with a hospital, a staffing company, and a provider as defendants may have more potential sources of recovery than a claim against a single provider, depending on liability and available insurance coverage.
 
-See our [medical malpractice](about:blank), [brain injury](about:blank), and [wrongful death](about:blank) pages for the procedure, the injury, and the death claim in more detail.
+See our [medical malpractice](/personal-injury/medical-malpractice), [brain injury](/personal-injury/brain-injury), and [wrongful death](/personal-injury/wrongful-death) pages for the procedure, the injury, and the death claim in more detail.
 
 ## Deadlines for Michigan anesthesia error claims
 

@@ -367,7 +367,7 @@
       },
       {
        "t": "link",
-       "href": "/personal-injury/nursing-home-abuse/oakland-county",
+       "href": "/personal-injury/nursing-home-abuse",
        "c": [
         {
          "t": "text",
@@ -737,7 +737,7 @@
       [
        {
         "t": "link",
-        "href": "/personal-injury/motorcycle-accidents/oakland-county",
+        "href": "/personal-injury/motorcycle-accidents",
         "c": [
          {
           "t": "text",
@@ -781,7 +781,7 @@
       [
        {
         "t": "link",
-        "href": "/personal-injury/bus-accidents/oakland-county",
+        "href": "/personal-injury/bus-accidents",
         "c": [
          {
           "t": "text",
@@ -797,7 +797,7 @@
       [
        {
         "t": "link",
-        "href": "/personal-injury/rideshare-accidents/oakland-county",
+        "href": "/personal-injury/rideshare-accidents",
         "c": [
          {
           "t": "text",
@@ -813,7 +813,7 @@
       [
        {
         "t": "link",
-        "href": "/personal-injury/drunk-driving-accidents/oakland-county",
+        "href": "/personal-injury/drunk-driving-accidents",
         "c": [
          {
           "t": "text",
@@ -829,7 +829,7 @@
       [
        {
         "t": "link",
-        "href": "/personal-injury/slip-and-fall/oakland-county",
+        "href": "/personal-injury/slip-and-fall",
         "c": [
          {
           "t": "text",
@@ -875,7 +875,7 @@
       [
        {
         "t": "link",
-        "href": "/personal-injury/nursing-home-abuse/oakland-county",
+        "href": "/personal-injury/nursing-home-abuse",
         "c": [
          {
           "t": "text",
@@ -925,7 +925,7 @@
       [
        {
         "t": "link",
-        "href": "/personal-injury/brain-injury/oakland-county",
+        "href": "/personal-injury/brain-injury",
         "c": [
          {
           "t": "text",
@@ -951,7 +951,7 @@
       [
        {
         "t": "link",
-        "href": "/disability/social-security-disability/oakland-county",
+        "href": "/disability/social-security-disability",
         "c": [
          {
           "t": "text",
@@ -1421,7 +1421,7 @@
     },
     {
      "t": "link",
-     "href": "/personal-injury/nursing-home-abuse/oakland-county",
+     "href": "/personal-injury/nursing-home-abuse",
      "c": [
       {
        "t": "text",

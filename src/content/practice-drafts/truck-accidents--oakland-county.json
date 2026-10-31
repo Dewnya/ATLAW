@@ -754,29 +754,6 @@
        }
       ]
      ]
-    },
-    {
-     "t": "p",
-     "c": [
-      {
-       "t": "text",
-       "v": "Our "
-      },
-      {
-       "t": "link",
-       "href": "about:blank",
-       "c": [
-        {
-         "t": "text",
-         "v": "full checklist"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " covers the first day, week, month, and year."
-      }
-     ]
     }
    ]
   },
@@ -1127,7 +1104,7 @@
    }
   ]
  },
- "wordCount": 2507,
+ "wordCount": 2497,
  "openItems": 2,
  "source": {
   "file": "B2-36_Oakland-County-Truck-Accident-Lawyer.docx",

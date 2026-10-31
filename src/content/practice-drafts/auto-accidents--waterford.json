@@ -603,7 +603,7 @@
       },
       {
        "t": "link",
-       "href": "about:blank",
+       "href": "/personal-injury/car-accident-insurance",
        "c": [
         {
          "t": "text",
@@ -881,29 +881,6 @@
         "v": " if fault is disputed or the road played a part; the camera footage and signal data are the first evidence lost, and the 120-day Road Commission notice is already running."
        }
       ]
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
-      {
-       "t": "text",
-       "v": "Our "
-      },
-      {
-       "t": "link",
-       "href": "about:blank",
-       "c": [
-        {
-         "t": "text",
-         "v": "full checklist"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " covers the first day, week, month, and year."
-      }
      ]
     }
    ]
@@ -1244,7 +1221,7 @@
    "answer": [
     {
      "t": "text",
-     "v": "One year to give your no-fault insurer written notice, three years to sue the at-fault driver, two years to sue a bar, 120 days for a notice to the Road Commission, and 120 days for a road-defect notice against MDOT.."
+     "v": "One year to give your no-fault insurer written notice, three years to sue the at-fault driver, two years to sue a bar, 120 days for a notice to the Road Commission, and 120 days for a road-defect notice against MDOT."
     }
    ]
   }
@@ -1291,7 +1268,7 @@
    }
   ]
  },
- "wordCount": 2783,
+ "wordCount": 2773,
  "openItems": 3,
  "source": {
   "file": "B3-75_Waterford-Car-Accident-Lawyer.docx",

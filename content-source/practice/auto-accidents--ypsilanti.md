@@ -83,8 +83,6 @@ The numbers show two different places:
 - pedestrians crossing between signals, often at night
 - rear-end crashes at the signals
 
-
-
 **Washtenaw Avenue and the EMU campus.** Washtenaw Avenue runs from Ann Arbor past the shopping centers in Pittsfield and Ypsilanti townships and into the city along Eastern Michigan’s campus. The crashes are left turns into the shopping centers, rear-end crashes in the turn lanes, and students on foot, on bikes, and on scooters struck at the campus crossings.
 
 **I-94 and the interchanges.** I-94 runs along the edge of the city and through the township, with interchanges at Michigan Avenue, Huron Street, and Rawsonville Road. The township recorded 188 interstate crashes in 2024. The crashes are:
@@ -122,8 +120,6 @@ Ypsilanti has four possible road owners, and a notice sent to the wrong one does
 - **The court.** The claim is filed in the Michigan Court of Claims and decided by a judge, not a jury.
 - **The notice.** A verified notice, or the claim itself, must be filed with the Court of Claims within six months of the crash (MCL 600.6431). The Michigan Supreme Court has held that the notice applies to any claim against the State, wherever it is filed (*Christie v Wayne State University*, 2023). Missing it can end the claim, even though the ordinary deadline is three years.
 - **The individual.** A claim against an individual University employee raises separate questions.
-
-
 
 **TheRide** runs routes along Washtenaw Avenue and through the city and township from the Ypsilanti Transit Center downtown. A crash with a TheRide bus is a claim under the motor vehicle exception against the Ann Arbor Area Transportation Authority, in the circuit court. A bus passenger’s no-fault benefits follow the bus-passenger priority rules (MCL 500.3114(2)). See our [bus accident page](/personal-injury/bus-accidents).
 
@@ -170,7 +166,7 @@ Whether a student living in Ypsilanti is still domiciled with a parent depends o
 
 **Scooters and e-bikes.** A scooter or e-bike rider hit by a car is generally treated like a pedestrian or cyclist for no-fault purposes. A rider who falls with no car involved generally has no no-fault claim.
 
-The insurer must receive written notice within one year (MCL 500.3145(1)). It must pay each bill within 30 days of reasonable proof, or owe 12 percent interest (MCL 500.3142). See our [no-fault insurance claim page](/personal-injury/car-accident-insurance) and our [Michigan no-fault guide](/resources/michigan-no-fault-guide).
+The insurer must receive written notice within one year (MCL 500.3145(1)). It must pay each bill within 30 days of reasonable proof, or owe 12 percent interest (MCL 500.3142). See our [no-fault insurance claim page](/personal-injury/car-accident-insurance).
 
 **If you had no insurance.** A person who owned a car and was required to insure it, but did not, is generally barred from PIP benefits for their own injuries (MCL 500.3113(b)). A driver who was operating their own uninsured vehicle cannot recover pain-and-suffering damages, whoever was at fault (MCL 500.3135(2)(c)).
 
@@ -207,8 +203,6 @@ Accepting without consent can forfeit the UIM claim under many policies. A stude
 7. **Do not give a recorded statement** to the other driver’s insurer, sign a release, or accept a policy-limits offer before your UIM insurer consents.
 8. **Call a lawyer within days** if fault is disputed, the other driver is uninsured, a public body is involved, or a bar served the driver.
 
-Our [full checklist](/resources/what-to-do-after-an-accident) covers the first day, week, month, and year.
-
 ## The courts
 
 - **Claims up to $25,000,** including mini tort claims, go to the 14A-1 District Court at 4133 Washtenaw Avenue in Pittsfield Township for a crash in the city, or the **14B District Court** at 7200 S. Huron River Drive for a crash in the township.
@@ -216,8 +210,6 @@ Our [full checklist](/resources/what-to-do-after-an-accident) covers the first d
 - **Claims against EMU, MDOT, or the State** go to the Michigan Court of Claims.
 - **Cases against out-of-state defendants** may be filed in, or removed to, the U.S. District Court for the Eastern District of Michigan.
 - **A fatal crash** is brought by the estate, opened through the Washtenaw County Probate Court. See our [Ypsilanti wrongful death page](/personal-injury/wrongful-death).
-
-
 
 ## Deadlines for Ypsilanti crash claims
 

@@ -72,7 +72,7 @@ The maneuvers are what the standard requires. Two actions are what it prohibits,
 
 **Fundal pressure.** Pushing down on the top of the uterus drives the impacted shoulder harder against the pubic bone, increases the force on the brachial plexus, and can rupture the uterus. ACOG states it should not be used. It still happens, usually by a nurse acting on instinct or on a physician’s instruction, and it is frequently the mother or a family member who remembers it, because it is rarely charted.
 
-**Excessive traction on the head.** Pulling the baby’s head downward and sideways to free the shoulder stretches the nerves of the brachial plexus on the side of the front shoulder. ACOG’s guidance is that the physician should avoid excessive lateral traction and should use the maneuvers instead of force. The 2014 ACOG task force report acknowledges that the forces of labor themselves can stretch the plexus, and hospitals rely on that finding in every case; the same report says the injury results from excess force, and a severe, permanent injury in a large baby after a long, documented dystocia is a pattern the records have to explain. Our [Erb’s palsy page](about:blank) covers the injury grades and how that defense is answered.
+**Excessive traction on the head.** Pulling the baby’s head downward and sideways to free the shoulder stretches the nerves of the brachial plexus on the side of the front shoulder. ACOG’s guidance is that the physician should avoid excessive lateral traction and should use the maneuvers instead of force. The 2014 ACOG task force report acknowledges that the forces of labor themselves can stretch the plexus, and hospitals rely on that finding in every case; the same report says the injury results from excess force, and a severe, permanent injury in a large baby after a long, documented dystocia is a pattern the records have to explain. Our [Erb’s palsy page](/personal-injury/erbs-palsy) covers the injury grades and how that defense is answered.
 
 ## How long is too long
 
@@ -84,10 +84,10 @@ Two numbers in the delivery note therefore matter more than any other: the time 
 
 | Injury | How it happens | What the record shows |
 | --- | --- | --- |
-| **Brachial plexus injury** (Erb’s palsy, Klumpke’s palsy, total plexus palsy) | Stretch, rupture, or avulsion of the nerves from C5 to T1 on the side of the impacted shoulder | Limp arm and absent Moro reflex at birth; grade confirmed by recovery pattern, EMG, imaging, and sometimes surgery. See our [Erb’s palsy page](about:blank) |
+| **Brachial plexus injury** (Erb’s palsy, Klumpke’s palsy, total plexus palsy) | Stretch, rupture, or avulsion of the nerves from C5 to T1 on the side of the impacted shoulder | Limp arm and absent Moro reflex at birth; grade confirmed by recovery pattern, EMG, imaging, and sometimes surgery. See our [Erb’s palsy page](/personal-injury/erbs-palsy) |
 | **Clavicle fracture** | Compression against the pubic bone or deliberate fracture as a maneuver | Newborn X-ray; usually heals without consequence but documents the forces involved |
 | **Humerus fracture** | Delivery of the posterior arm with excessive force | Newborn X-ray |
-| **Hypoxic-ischemic encephalopathy** | Cord compression during a prolonged dystocia | Cord gases, Apgar scores, seizures, MRI; eligibility for cooling within six hours. See our [birth asphyxia page](about:blank) |
+| **Hypoxic-ischemic encephalopathy** | Cord compression during a prolonged dystocia | Cord gases, Apgar scores, seizures, MRI; eligibility for cooling within six hours. See our [birth asphyxia page](/personal-injury/birth-asphyxia) |
 | **Death** | Prolonged dystocia with asphyxia | Brought as wrongful death through the malpractice procedure |
 
 ## What shoulder dystocia does to the mother

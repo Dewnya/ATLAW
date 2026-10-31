@@ -1436,20 +1436,6 @@
       },
       {
        "t": "text",
-       "v": " and our "
-      },
-      {
-       "t": "link",
-       "href": "/resources/michigan-no-fault-guide",
-       "c": [
-        {
-         "t": "text",
-         "v": "Michigan no-fault guide"
-        }
-       ]
-      },
-      {
-       "t": "text",
        "v": "."
       }
      ]
@@ -1830,29 +1816,6 @@
         "v": " if fault is disputed, the other driver is uninsured, a public body is involved, or a bar served the driver."
        }
       ]
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
-      {
-       "t": "text",
-       "v": "Our "
-      },
-      {
-       "t": "link",
-       "href": "/resources/what-to-do-after-an-accident",
-       "c": [
-        {
-         "t": "text",
-         "v": "full checklist"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " covers the first day, week, month, and year."
-      }
      ]
     }
    ]
@@ -2395,7 +2358,7 @@
    }
   ]
  },
- "wordCount": 3576,
+ "wordCount": 3561,
  "openItems": 0,
  "source": {
   "file": "B4-69_Ypsilanti-Car-Accident-Lawyer.docx",

@@ -44,17 +44,17 @@ Each row below is a complication with a published standard of care. The right-ha
 | Complication | What the standard of care required | Where the record shows it |
 | --- | --- | --- |
 | **Induction and Pitocin (oxytocin)** | Oxytocin titrated to a protocol; more than five contractions in ten minutes (tachysystole) requires reducing or stopping the drug; a nonreassuring tracing requires stopping it; Cytotec (misoprostol) is not used for induction in a mother with a prior cesarean | Medication administration record; contraction frequency on the strip; nursing notes on dose changes |
-| **Failure to monitor or act on fetal distress** | Tracing reviewed every 30/15 minutes (low risk) or 15/5 (high risk); Category II patterns evaluated and resuscitated; Category III patterns delivered if unresolved | The electronic monitoring archive; nursing assessments; physician notification times. Detailed on our [fetal distress page](about:blank) |
+| **Failure to monitor or act on fetal distress** | Tracing reviewed every 30/15 minutes (low risk) or 15/5 (high risk); Category II patterns evaluated and resuscitated; Category III patterns delivered if unresolved | The electronic monitoring archive; nursing assessments; physician notification times. Detailed on our [fetal distress page](/personal-injury/fetal-distress-hypoxia) |
 | **Delayed cesarean** | A hospital offering obstetric care should be able to begin a cesarean within 30 minutes of the decision; some emergencies require faster delivery | Order time, operating room log, anesthesia record; the decision-to-incision interval |
 | **Vaginal birth after cesarean (VBAC) and uterine rupture** | A trial of labor after cesarean should take place only where staff are immediately available to perform an emergency cesarean; signs of rupture (sudden fetal bradycardia, loss of station, abdominal pain, bleeding) require immediate delivery | Consent discussion documented prenatally; staffing and anesthesia availability; the strip at the moment of rupture; time to incision |
 | **Placental abruption** | Vaginal bleeding with abdominal pain and a nonreassuring tracing is treated as abruption until proven otherwise; a severe abruption is an emergency cesarean | Nursing notes on bleeding; strip; time to delivery; maternal blood counts |
 | **Umbilical cord prolapse** | Elevate the presenting part off the cord, knee-chest position, and immediate cesarean | Time of diagnosis; time of delivery; who was present |
-| **Shoulder dystocia** | The trained maneuver sequence; no fundal pressure; no excessive traction | Delivery note with times and maneuvers; see our [shoulder dystocia](about:blank) and [Erb’s palsy](about:blank) pages |
+| **Shoulder dystocia** | The trained maneuver sequence; no fundal pressure; no excessive traction | Delivery note with times and maneuvers; see our [shoulder dystocia](/personal-injury/shoulder-dystocia) and [Erb’s palsy](/personal-injury/erbs-palsy) pages |
 | **Forceps and vacuum** | Correct indications and station; cup placement; a limited number of pulls and cup detachments (commonly three) over a limited time; no switching from vacuum to forceps and back; readiness to proceed to cesarean | Operative delivery note; number of pulls and pop-offs; newborn exam for cephalohematoma or subgaleal hemorrhage |
 | **Preeclampsia and eclampsia** | Blood pressure of 160/110 or higher confirmed over 15 minutes is a hypertensive emergency and should be treated with intravenous medication within 30 to 60 minutes; magnesium sulfate to prevent seizures in severe disease; delivery when indicated | Vital sign flowsheet; time of each reading vs. time of treatment; magnesium orders; labs (platelets, liver enzymes, creatinine) |
 | **Postpartum hemorrhage** | Blood loss measured, not estimated; a staged hemorrhage protocol with uterotonics, a balloon tamponade, and surgery in sequence; blood products available; the obstetrician at the bedside | Quantitative blood loss record; hemorrhage stage activations; blood bank records; time from delivery to each intervention |
 | **Infection** | Group B strep screening at 36 to 37 weeks and antibiotics in labor for carriers; maternal fever in labor treated as chorioamnionitis with antibiotics; newborn evaluated for sepsis | Prenatal GBS culture; antibiotic timing; maternal temperatures; newborn cultures |
-| **Anesthesia** | Epidural and spinal placement, dosing, and monitoring; management of a high block or aspiration under general anesthesia | Anesthesia record; see our [anesthesia errors page](about:blank) |
+| **Anesthesia** | Epidural and spinal placement, dosing, and monitoring; management of a high block or aspiration under general anesthesia | Anesthesia record; see our [anesthesia errors page](/personal-injury/anesthesia-errors) |
 
 **[ATTORNEY CHECK: clinical standards for medical consultant review; ACOG Practice Bulletins 205 (VBAC), 219 (operative vaginal birth), 222 (hypertension), 183 (postpartum hemorrhage), 797 (GBS), 106/116 (monitoring)]**
 
@@ -62,11 +62,11 @@ Each row below is a complication with a published standard of care. The right-ha
 
 The child’s injuries from labor and delivery negligence are covered in depth on their own pages:
 
-- [Birth asphyxia and HIE](about:blank): oxygen deprivation and the six-hour cooling window
-- [Cerebral palsy](about:blank): the lifelong diagnosis that often follows
-- [Erb’s palsy](about:blank) and [shoulder dystocia](about:blank): brachial plexus injury
-- [Periventricular leukomalacia](about:blank): white-matter injury in premature infants
-- [Birth injuries generally](about:blank), including skull fractures, cephalohematoma and subgaleal hemorrhage from vacuum and forceps, facial nerve injury, and neonatal infection
+- [Birth asphyxia and HIE](/personal-injury/birth-asphyxia): oxygen deprivation and the six-hour cooling window
+- [Cerebral palsy](/personal-injury/cerebral-palsy): the lifelong diagnosis that often follows
+- [Erb’s palsy](/personal-injury/erbs-palsy) and [shoulder dystocia](/personal-injury/shoulder-dystocia): brachial plexus injury
+- [Periventricular leukomalacia](/personal-injury/periventricular-leukomalacia): white-matter injury in premature infants
+- [Birth injuries generally](/personal-injury/birth-injuries), including skull fractures, cephalohematoma and subgaleal hemorrhage from vacuum and forceps, facial nerve injury, and neonatal infection
 
 A child injured before the eighth birthday has until the tenth birthday to sue, MCL 600.5851(7).
 

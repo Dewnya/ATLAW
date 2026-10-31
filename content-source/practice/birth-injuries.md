@@ -37,7 +37,7 @@ Most infant deaths and most birth injuries are not malpractice. The cases that a
 
 | Injury | What it is | How it happens when care falls below standard |
 | --- | --- | --- |
-| **Hypoxic-ischemic encephalopathy (HIE) / birth asphyxia** | Brain injury from inadequate oxygen and blood flow around the time of birth; the leading cause of birth-related cerebral palsy, seizures, and cognitive disability | Non-reassuring fetal heart tracings not recognized or not acted on; delayed cesarean; uterine hyperstimulation from oxytocin; umbilical cord compression or prolapse not addressed; placental abruption or uterine rupture not diagnosed; delayed neonatal resuscitation; failure to start therapeutic hypothermia (cooling) within six hours. See our [birth asphyxia](about:blank) page |
+| **Hypoxic-ischemic encephalopathy (HIE) / birth asphyxia** | Brain injury from inadequate oxygen and blood flow around the time of birth; the leading cause of birth-related cerebral palsy, seizures, and cognitive disability | Non-reassuring fetal heart tracings not recognized or not acted on; delayed cesarean; uterine hyperstimulation from oxytocin; umbilical cord compression or prolapse not addressed; placental abruption or uterine rupture not diagnosed; delayed neonatal resuscitation; failure to start therapeutic hypothermia (cooling) within six hours. See our [birth asphyxia](/personal-injury/birth-asphyxia) page |
 | **Cerebral palsy** | A group of permanent movement disorders from brain injury before, during, or shortly after birth; about 1 in 345 U.S. children (CDC) | Not all CP is birth-related, and the defense will argue prenatal causes; the case turns on the timing evidence: fetal monitoring, cord gases, Apgar scores, neonatal imaging, and the pattern of injury on MRI |
 | **Brachial plexus injury / Erb’s palsy** | Damage to the nerves controlling the arm and hand, from stretching of the neck during delivery; most resolve, some are permanent | Excessive traction on the head during shoulder dystocia instead of the recognized maneuvers (McRoberts, suprapubic pressure, rotational maneuvers, delivery of the posterior arm); failure to anticipate dystocia in a macrosomic infant or a diabetic mother |
 | **Skull fracture and intracranial hemorrhage** | Bleeding in or around the brain | Prolonged or repeated vacuum application, forceps misapplication, or vacuum use outside the recognized limits on attempts and duration |
@@ -45,7 +45,7 @@ Most infant deaths and most birth injuries are not malpractice. The cases that a
 | **Neonatal infection and sepsis** | Group B strep, herpes, and other infections passed at birth | Failure to screen the mother for GBS at 36–37 weeks, to give antibiotics in labor to a GBS-positive mother, or to recognize sepsis in the newborn |
 | **Hypoglycemia injury** | Brain injury from untreated low blood sugar in a newborn | Failure to monitor glucose in at-risk infants (diabetic mothers, large or small babies, premature infants) |
 | **Maternal injuries** | Postpartum hemorrhage, uterine rupture, preeclampsia and eclampsia, infection, anesthesia injury, retained placenta, fourth-degree tears | Failure to monitor blood pressure and labs, to recognize and treat hemorrhage, to manage a prior cesarean scar in labor, or to respond to signs of infection |
-| **Stillbirth and neonatal death** | Death before or shortly after birth | The same failures, with the family’s claim brought under the wrongful death act; see our [wrongful death](about:blank) page |
+| **Stillbirth and neonatal death** | Death before or shortly after birth | The same failures, with the family’s claim brought under the wrongful death act; see our [wrongful death](/personal-injury/wrongful-death) page |
 
 ## How a birth injury case is proved: the labor record
 
@@ -67,9 +67,9 @@ The defense in nearly every HIE and CP case is that the injury occurred before l
 - **The obstetrician or midwife** who managed labor, and the practice group that employs them.
 - **Labor and delivery nurses**, and through them the hospital, for monitoring, interpretation, notification, oxytocin management, and failure to escalate.
 - **The hospital**, directly, for staffing, policies, in-house coverage, and equipment, and vicariously for its employees. Where the obstetrician is a contractor, Michigan’s ostensible agency rule applies: a patient who looked to the hospital for care and was assigned the physician by the hospital may hold the hospital liable unless told and understood otherwise (Grewe v Mt Clemens General Hospital, 1978; Markel v William Beaumont Hospital, 2022, and the Supreme Court’s July 9, 2025 order).
-- **Anesthesiologists and CRNAs**, for epidural and cesarean anesthesia injuries; see our [anesthesia error](about:blank) page.
+- **Anesthesiologists and CRNAs**, for epidural and cesarean anesthesia injuries; see our [anesthesia error](/personal-injury/anesthesia-errors) page.
 - **Pediatricians and neonatologists**, for newborn screening, jaundice, hypoglycemia, infection, and resuscitation failures.
-- **Government hospitals**: University of Michigan Health claims go to the Court of Claims with a six-month notice (MCL 600.6431); VA births are rare but FTCA rules would apply. See our [hospital negligence](about:blank) page.
+- **Government hospitals**: University of Michigan Health claims go to the Court of Claims with a six-month notice (MCL 600.6431); VA births are rare but FTCA rules would apply. See our [hospital negligence](/personal-injury/hospital-mistakes) page.
 
 ## Two claims: the child’s and the mother’s
 

@@ -23,7 +23,6 @@ Royal Oak’s heavy trucks travel two kinds of roads.
 - **I-75** runs along the city’s east side and meets I-696 at its southeast corner.
 - **Tractor-trailers** use both to reach the industrial areas along Stephenson Highway in Madison Heights and Troy.
 
-
 **The city’s own streets.** Woodward, the mile roads, and downtown’s narrow streets carry:
 
 - box trucks and beverage trucks supplying dozens of restaurants and bars
@@ -98,8 +97,6 @@ The crashes involve cars, cyclists, and pedestrians. Many happen in the morning 
 - trucks backing without a spotter
 - spilled loads
 
-
-
 **Garbage trucks and delivery vans in the neighborhoods.** Garbage and recycling trucks, package vans, and furniture trucks work Royal Oak’s grid of residential streets. The crashes are:
 
 - backing crashes
@@ -134,8 +131,6 @@ These are the rules that decide truck cases most often:
 | Equipment: rear impact guards, lighting, reflectors | Part 393 | Underride guards (393.86) and conspicuity marking. A trailer that cannot be seen at night or lacks a working guard is a defective trailer. |
 | Handheld phone ban; hazardous conditions | 392.82, 392.14 | No handheld phone use. Reduce speed or stop in snow, ice, and fog. |
 | Minimum insurance | Part 387 | $750,000 general freight; $1 million oil; $5 million hazardous materials. |
-
-
 
 **The owner of the truck or trailer.** In Michigan, a vehicle’s owner is liable for its negligent operation by someone driving with the owner’s consent (MCL 257.401). When the tractor, the trailer, and the driver belong to different companies, each may be a defendant, although a company in the business of renting or leasing vehicles is generally shielded from owner liability by federal law (49 USC 30106).
 
@@ -202,8 +197,6 @@ Once a party knows a claim is coming, destroying that evidence exposes it to spo
 5. **Report to your own insurer and file the Application for No-Fault Benefits** within the first week.
 6. **Call a lawyer within days,** so the preservation letter goes out before the records expire and the truck is repaired.
 
-Our [full checklist](about:blank) covers the first day, week, month, and year.
-
 ## The courts and deadlines
 
 - **Most Royal Oak truck cases** are filed in the Sixth Judicial Circuit Court at 1200 N. Telegraph Road in Pontiac, with a jury drawn from all of Oakland County.
@@ -211,8 +204,6 @@ Our [full checklist](about:blank) covers the first day, week, month, and year.
 - **Claims against the State** go to the Court of Claims.
 - **Claims up to $25,000** go to the 44th District Court at 400 E. Eleven Mile Road.
 - **A fatal crash** is brought by the estate through the Oakland County Probate Court. See our [Royal Oak wrongful death page](/personal-injury/wrongful-death).
-
-
 
 | What | When | Source |
 | --- | --- | --- |

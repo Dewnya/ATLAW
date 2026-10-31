@@ -901,29 +901,6 @@
        }
       ]
      ]
-    },
-    {
-     "t": "p",
-     "c": [
-      {
-       "t": "text",
-       "v": "Our "
-      },
-      {
-       "t": "link",
-       "href": "about:blank",
-       "c": [
-        {
-         "t": "text",
-         "v": "full checklist"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " covers the first day, week, month, and year."
-      }
-     ]
     }
    ]
   },
@@ -1232,7 +1209,7 @@
    }
   ]
  },
- "wordCount": 2035,
+ "wordCount": 2025,
  "openItems": 5,
  "source": {
   "file": "B2-81_Dearborn-Uber-Lyft-Accident-Lawyer.docx",

@@ -16,7 +16,7 @@ delivered: 2026-10-12
 
 After a Michigan car crash, the first insurance company you deal with is usually your own. Michigan’s no-fault law requires your auto insurer to pay your medical bills, 85% of your lost wages, and the cost of help around the house, regardless of who caused the crash, and to pay each bill within 30 days of receiving reasonable proof. Those are personal injury protection (PIP) benefits, and they are the part of a Michigan car accident claim that insurers most often delay, reduce, or cut off.
 
-This page explains how Michigan no-fault insurance works, what PIP pays and for how long, which insurer is responsible, the rules your insurer must follow, why claims get denied, and what a lawyer can recover when they are. The claim against the at-fault driver for pain and suffering is a separate claim; it is covered on our [Michigan car accident lawyer](/personal-injury/car-accidents) page.
+This page explains how Michigan no-fault insurance works, what PIP pays and for how long, which insurer is responsible, the rules your insurer must follow, why claims get denied, and what a lawyer can recover when they are. The claim against the at-fault driver for pain and suffering is a separate claim; it is covered on our [Michigan car accident lawyer](/personal-injury/auto-accidents) page.
 
 ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across Wayne, Oakland, Macomb, and Washtenaw counties. No-fault claims are handled on contingency: no fee unless we recover money for you, and the first conversation is free.
 

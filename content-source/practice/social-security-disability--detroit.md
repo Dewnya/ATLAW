@@ -78,7 +78,7 @@ SSDI benefits begin five full months after the established onset date; SSI has n
 
 - **A personal injury or workers’ compensation claim.** Many Detroit claimants became disabled in a crash or at work. Workers’ compensation and SSDI offset each other (42 USC 424a); a personal injury settlement does not reduce SSDI but can affect SSI. We coordinate the three claims so that one does not undercut another. See our [Detroit workers’ compensation page](/personal-injury/workers-compensation/detroit) and [Detroit personal injury lawyer page](/personal-injury/personal-injury/detroit). **[ATTORNEY CHECK]**
 - **An employer’s long-term disability plan.** Most LTD plans require you to apply for SSDI and offset your SSDI award against the plan benefit, and the plan’s own definition of disability and 180-day ERISA appeal deadline (29 CFR 2560.503-1) run separately. See our [long-term disability page](/disability/short-long-term-disability).
-- **VA disability.** A VA rating is evidence Social Security must consider but does not bind it; see our [VA benefit claims page](about:blank).
+- **VA disability.** A VA rating is evidence Social Security must consider but does not bind it.
 - **Disability discrimination at work** is an employment claim under the ADA and Michigan’s Persons with Disabilities Civil Rights Act, not a Social Security claim. **[CONFIRM: whether the firm handles these or refers them; adjust sentence]**
 
 ## What to do if you are applying or were denied in Detroit

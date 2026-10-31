@@ -496,21 +496,7 @@
       },
       {
        "t": "text",
-       "v": " A veteran harmed by VA care may also claim disability compensation under 38 USC 1151 regardless of fault; see our "
-      },
-      {
-       "t": "link",
-       "href": "about:blank",
-       "c": [
-        {
-         "t": "text",
-         "v": "VA benefit claims page"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": "."
+       "v": " A veteran harmed by VA care may also claim disability compensation under 38 USC 1151 regardless of fault."
       }
      ]
     },
@@ -1358,7 +1344,7 @@
    }
   ]
  },
- "wordCount": 2448,
+ "wordCount": 2442,
  "openItems": 9,
  "source": {
   "file": "B2-66_Detroit-Medical-Malpractice-Lawyer.docx",

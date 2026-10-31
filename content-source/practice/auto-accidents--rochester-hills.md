@@ -127,7 +127,7 @@ We move promptly to request the camera footage, signal data, and vehicle data.
 
 If you have no policy, a resident relative’s policy pays (MCL 500.3114). If none exists, the Michigan Assigned Claims Plan pays (MCL 500.3172), capped at $250,000 for medical benefits. A pedestrian or cyclist hit by a car, with no household policy, claims through the Michigan Assigned Claims Plan (MCL 500.3115).
 
-The insurer must receive written notice within one year (MCL 500.3145(1)). It must pay each bill within 30 days of reasonable proof, or owe 12 percent interest (MCL 500.3142). Since the 2019 reform, PIP medical coverage is no longer unlimited unless you chose it, so the level on your declarations page matters. See our [no-fault insurance claim page](/personal-injury/car-accident-insurance) and [Michigan no-fault guide](about:blank).
+The insurer must receive written notice within one year (MCL 500.3145(1)). It must pay each bill within 30 days of reasonable proof, or owe 12 percent interest (MCL 500.3142). Since the 2019 reform, PIP medical coverage is no longer unlimited unless you chose it, so the level on your declarations page matters. See our [no-fault insurance claim page](/personal-injury/car-accident-insurance) and [Michigan no-fault guide](/personal-injury/car-accident-insurance).
 
 **Your claim against the at-fault driver.** For pain and suffering, you need a threshold injury: death, serious impairment of body function, or permanent serious disfigurement (MCL 500.3135(1)). A serious impairment is an objectively manifested impairment of an important body function that affects your general ability to lead your normal life. It does not have to be permanent (MCL 500.3135(5); *McCormick v Carrier*, 2010).
 
@@ -182,16 +182,12 @@ Dash camera and dispatch records are overwritten on short schedules, so we reque
 6. **Do not give a recorded statement** to the other driver’s insurer, sign a release, or accept a policy-limits offer before your UIM insurer consents.
 7. **Call a lawyer within days** if fault is disputed, the other driver’s limit looks too low, or the road played a part. The camera footage and signal data are the first evidence lost, and the 120-day notice to the City or the Road Commission is already running.
 
-Our [full checklist](about:blank) covers the first day, week, month, and year.
-
 ## The courts
 
 - **Claims up to $25,000,** including mini tort claims, go to the 52nd District Court, Third Division, at 700 Barclay Circle in Rochester Hills.
 - **Injury suits over $25,000** go to the Sixth Judicial Circuit Court at 1200 N. Telegraph Road in Pontiac, with a jury drawn from all of Oakland County. A crash on Dequindre, the county line, may have happened in Macomb County, which would put the case in the Sixteenth Circuit (MCL 600.1629).
 - **Defect claims against MDOT, and claims against Oakland University,** go to the Court of Claims.
 - **A fatal crash** is brought by the estate through the Oakland County Probate Court. See our [Rochester Hills wrongful death page](/personal-injury/wrongful-death).
-
-
 
 ## Deadlines for Rochester Hills crash claims
 

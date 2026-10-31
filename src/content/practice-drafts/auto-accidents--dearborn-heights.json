@@ -1018,20 +1018,6 @@
       },
       {
        "t": "text",
-       "v": " and our "
-      },
-      {
-       "t": "link",
-       "href": "/resources/michigan-no-fault-guide",
-       "c": [
-        {
-         "t": "text",
-         "v": "Michigan no-fault guide"
-        }
-       ]
-      },
-      {
-       "t": "text",
        "v": "."
       }
      ]
@@ -1514,29 +1500,6 @@
         "v": " if fault is disputed, the other driver is uninsured, or the road played a part. The camera footage is the first evidence lost, and the 120-day notice to Wayne County or the City is already running."
        }
       ]
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
-      {
-       "t": "text",
-       "v": "Our "
-      },
-      {
-       "t": "link",
-       "href": "/resources/what-to-do-after-an-accident",
-       "c": [
-        {
-         "t": "text",
-         "v": "full checklist"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " covers the first day, week, month, and year."
-      }
      ]
     }
    ]
@@ -2051,7 +2014,7 @@
    }
   ]
  },
- "wordCount": 3027,
+ "wordCount": 3012,
  "openItems": 0,
  "source": {
   "file": "B4-44_Dearborn-Heights-Car-Accident-Lawyer.docx",

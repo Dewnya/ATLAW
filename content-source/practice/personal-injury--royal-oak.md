@@ -98,8 +98,6 @@ Where the hospital’s own care caused the harm, the claim becomes a malpractice
 - **The Court of Claims,** for claims against MDOT and the State.
 - **The U.S. District Court for the Eastern District of Michigan,** where an out-of-state defendant removes the case.
 
-
-
 At settlement, we resolve the liens before you are paid: health plans, Medicare, Medicaid, and workers’ compensation. Minors’ settlements and wrongful death distributions are approved by the Oakland County Probate Court or by the trial court (MCR 2.420; MCL 600.2922(6)). Compensation for physical injury is generally not taxable income (26 USC 104(a)(2)).
 
 ## Who the defendant is in Royal Oak
@@ -143,7 +141,7 @@ See our [uninsured motorist page](/personal-injury/uninsured-motorist-claims).
 - [Motorcycle accidents](/personal-injury/motorcycle-accidents/royal-oak)**,** including the Woodward Dream Cruise: the rider priority rule (MCL 500.3114(5)).
 - [Pedestrian](/personal-injury/pedestrian-accidents) **and** [bicycle](/personal-injury/bicycle-accidents) **injuries** downtown and on residential streets.
 - [Rideshare accidents](/personal-injury/rideshare-accidents) downtown on weekend nights.
-- [Slip and fall](/personal-injury/slip-and-fall), [premises liability](/personal-injury/premises-liability), and [tenant injuries](about:blank) in stores, restaurants, venues, parking structures, and apartment buildings.
+- [Slip and fall](/personal-injury/slip-and-fall), [premises liability](/personal-injury/premises-liability), and [tenant injuries](/personal-injury/tenant-injuries) in stores, restaurants, venues, parking structures, and apartment buildings.
 - [Dog bites](/personal-injury/dog-bites)**:** strict liability under MCL 287.351, where the person bitten was lawfully present and did not provoke the dog.
 - [Medical malpractice](/personal-injury/medical-malpractice) and [birth injuries](/personal-injury/birth-injuries): two years, a 182-day Notice of Intent (MCL 600.2912b), an Affidavit of Merit (MCL 600.2912d), and the 2026 caps (MCL 600.1483).
 - [Nursing home abuse](/personal-injury/nursing-home-abuse)**:** negligence or malpractice, with the deadline set by which it is.

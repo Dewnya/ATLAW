@@ -885,29 +885,6 @@
        }
       ]
      ]
-    },
-    {
-     "t": "p",
-     "c": [
-      {
-       "t": "text",
-       "v": "Our "
-      },
-      {
-       "t": "link",
-       "href": "about:blank",
-       "c": [
-        {
-         "t": "text",
-         "v": "full checklist"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " covers the first day, week, month, and year."
-      }
-     ]
     }
    ]
   },
@@ -1231,7 +1208,7 @@
    }
   ]
  },
- "wordCount": 2337,
+ "wordCount": 2327,
  "openItems": 1,
  "source": {
   "file": "B3-49_Canton-Uber-Lyft-Accident-Lawyer.docx",

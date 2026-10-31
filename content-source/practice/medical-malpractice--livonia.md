@@ -51,7 +51,7 @@ A bad outcome is not malpractice. Malpractice is a bad outcome caused by a provi
 
 **Federally funded community health centers.** Health centers that receive federal Health Center Program funding can have their providers deemed federal employees for malpractice purposes. A claim against one follows the Federal Tort Claims Act, not Michigan procedure: an administrative claim on Standard Form 95 to the Department of Health and Human Services within two years (28 USC 2401(b)), no Notice of Intent, and suit in the U.S. District Court for the Eastern District of Michigan, tried to a judge without a jury. Identifying a deemed clinic early is the difference between a timely claim and none.
 
-**Veterans.** Livonia veterans treated at the John D. Dingell VA Medical Center in Detroit, or at a VA outpatient clinic, have an FTCA claim on the same path, and may also qualify for disability compensation under 38 USC 1151 where the injury was caused by VA carelessness, negligence, or error, or by an event that was not reasonably foreseeable; see our [VA benefit claims page](about:blank).
+**Veterans.** Livonia veterans treated at the John D. Dingell VA Medical Center in Detroit, or at a VA outpatient clinic, have an FTCA claim on the same path, and may also qualify for disability compensation under 38 USC 1151 where the injury was caused by VA carelessness, negligence, or error, or by an event that was not reasonably foreseeable.
 
 **Livonia Fire & Rescue EMS.** A City agency. Claims against EMS personnel are limited by the Emergency Medical Services Act to gross negligence or willful misconduct (MCL 333.20965), a limit that also covers the City as the life support agency. Private ambulance companies have the same gross-negligence protection.
 

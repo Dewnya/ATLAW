@@ -118,7 +118,7 @@ We check every policy in the household before we value a Taylor claim. See our [
 - [Motorcycle accidents](/personal-injury/motorcycle-accidents/taylor)**:** the rider priority rule (MCL 500.3114(5)).
 - [Pedestrian](/personal-injury/pedestrian-accidents) **and** [bicycle](/personal-injury/bicycle-accidents) **injuries:** no-fault priority under MCL 500.3115, and the Assigned Claims Plan where no policy applies.
 - [Drunk driving crashes](/personal-injury/drunk-driving-accidents) and dram shop claims against bars and restaurants (MCL 436.1801): 120 days’ notice after you hire a lawyer, and two years to sue.
-- [Slip and fall](/personal-injury/slip-and-fall), [premises liability](/personal-injury/premises-liability), and [tenant injuries](about:blank) at the Southland corridor’s stores, hotels, apartment complexes, and manufactured-home communities: *Kandil-Elsayed* (2023), MCL 554.139 for private landlords, and the City’s sidewalk duty.
+- [Slip and fall](/personal-injury/slip-and-fall), [premises liability](/personal-injury/premises-liability), and [tenant injuries](/personal-injury/tenant-injuries) at the Southland corridor’s stores, hotels, apartment complexes, and manufactured-home communities: *Kandil-Elsayed* (2023), MCL 554.139 for private landlords, and the City’s sidewalk duty.
 - [Dog bites](/personal-injury/dog-bites)**:** strict liability under MCL 287.351.
 - [Medical malpractice](/personal-injury/medical-malpractice) at the city’s hospital and clinics: two years, a 182-day Notice of Intent (MCL 600.2912b), an Affidavit of Merit (MCL 600.2912d), and the 2026 caps (MCL 600.1483).
 - [Nursing home abuse](/personal-injury/nursing-home-abuse)**:** negligence or malpractice, with the deadline set by which one it is.

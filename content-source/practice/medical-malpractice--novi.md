@@ -113,7 +113,7 @@ The employer of each provider who touched the chart must be identified. A physic
 
 Identifying a deemed clinic early is the difference between a timely claim and none.
 
-**Veterans.** Veterans treated at the John D. Dingell VA Medical Center in Detroit or a VA outpatient clinic have an FTCA claim on the same path. They may also qualify for disability compensation under 38 USC 1151 where the injury was caused by VA carelessness, negligence, or error, or by an event that was not reasonably foreseeable. See our [VA benefit claims page](/personal-injury/va-benefit-claims).
+**Veterans.** Veterans treated at the John D. Dingell VA Medical Center in Detroit or a VA outpatient clinic have an FTCA claim on the same path. They may also qualify for disability compensation under 38 USC 1151 where the injury was caused by VA carelessness, negligence, or error, or by an event that was not reasonably foreseeable.
 
 **EMS.** Novi’s emergency medical response is provided by the Novi Fire Department, with Advanced Life Support ambulance transport by a private contractor, Medstar. Claims against EMS personnel, and against the agency that employs them, public or private, including a private ambulance company handling a transfer between hospitals, are limited by the Emergency Medical Services Act to gross negligence or willful misconduct (MCL 333.20965(1)).
 
@@ -180,7 +180,6 @@ Malpractice cases are expensive to bring. The same-specialty expert’s review, 
 - Consultations can be accommodated in English, Arabic, French, Mandarin, Urdu, and Spanish. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 
 ## Frequently asked questions
-
 
 **How long do I have to sue a doctor or hospital in Novi?** Two years from the malpractice, with a six-month discovery rule capped at six years. The Notice of Intent must be served 182 days before suit, and the expert review comes first, so call well inside the first year.
 

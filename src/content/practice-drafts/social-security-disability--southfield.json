@@ -1029,21 +1029,7 @@
        },
        {
         "t": "text",
-        "v": " is evidence Social Security must consider but does not bind it; see our "
-       },
-       {
-        "t": "link",
-        "href": "about:blank",
-        "c": [
-         {
-          "t": "text",
-          "v": "VA benefit claims page"
-         }
-        ]
-       },
-       {
-        "t": "text",
-        "v": "."
+        "v": " is evidence Social Security must consider but does not bind it."
        }
       ]
      ]
@@ -1315,7 +1301,7 @@
    }
   ]
  },
- "wordCount": 1996,
+ "wordCount": 1990,
  "openItems": 11,
  "source": {
   "file": "B3-09_Southfield-Social-Security-Disability-Lawyer.docx",

@@ -111,8 +111,6 @@ We file your Application for No-Fault Benefits inside the one-year window (MCL 5
 - **The Michigan Court of Claims,** for claims against Eastern Michigan University, MDOT, and the State, heard by a judge without a jury.
 - **The U.S. District Court for the Eastern District of Michigan,** for claims against the VA and cases removed by out-of-state defendants.
 
-
-
 At settlement, we resolve the liens before you are paid: health plans, Medicare, Medicaid, and workers’ compensation. Minors’ settlements and wrongful death distributions are approved by the Washtenaw County Probate Court or by the trial court (MCR 2.420; MCL 600.2922(6)). Compensation for physical injury is generally not taxable income (26 USC 104(a)(2)).
 
 ## Who the defendant is in Ypsilanti
@@ -179,7 +177,7 @@ See our [uninsured motorist page](/personal-injury/uninsured-motorist-claims).
 - [Motorcycle accidents](/personal-injury/motorcycle-accidents/ypsilanti)**:** the rider priority rule (MCL 500.3114(5)).
 - [Bus accidents](/personal-injury/bus-accidents) involving TheRide.
 - [Drunk driving crashes](/personal-injury/drunk-driving-accidents) and dram shop claims, including service to minors.
-- [Slip and fall](/personal-injury/slip-and-fall/ypsilanti), [premises liability](/personal-injury/premises-liability), and [tenant injuries](/personal-injury/tenant-injuries) in rentals, stores, restaurants, and parking lots.
+- [Slip and fall](/personal-injury/slip-and-fall), [premises liability](/personal-injury/premises-liability), and [tenant injuries](/personal-injury/tenant-injuries) in rentals, stores, restaurants, and parking lots.
 - **Claims against Eastern Michigan University** in the Court of Claims: vehicles and buildings.
 - [Dog bites](/personal-injury/dog-bites)**:** strict liability under MCL 287.351.
 - **Boating injuries on Ford Lake:** the owner’s liability statute.

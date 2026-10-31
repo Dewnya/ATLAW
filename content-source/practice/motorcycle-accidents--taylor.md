@@ -173,7 +173,7 @@ Riders under 21 must wear a helmet. If you met those conditions, riding without 
 
 **I wasn’t wearing a helmet. Can I still recover?** Yes, if you were 21 or older, carried the required $20,000 in medical coverage, and had either two years of endorsement or a safety course. The insurer can argue a helmet would have reduced a head injury, but that goes to damages, not to whether you have a claim.
 
-**How long do I have?** - One year to notify the responsible no-fault insurer. - Three years to sue the at-fault driver. - Two years to sue a bar. - 120 days for a notice to Wayne County or the City. - 120 days for a road-defect notice against MDOT..
+**How long do I have?** - One year to notify the responsible no-fault insurer. - Three years to sue the at-fault driver. - Two years to sue a bar. - 120 days for a notice to Wayne County or the City. - 120 days for a road-defect notice against MDOT.
 
 ## Talk to a lawyer about a Taylor motorcycle crash
 

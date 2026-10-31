@@ -30,7 +30,7 @@
     },
     {
      "t": "link",
-     "href": "about:blank",
+     "href": "/personal-injury/auto-accidents",
      "c": [
       {
        "t": "text",
@@ -44,7 +44,7 @@
     },
     {
      "t": "link",
-     "href": "about:blank",
+     "href": "/areas-served/washtenaw-county",
      "c": [
       {
        "t": "text",
@@ -58,7 +58,7 @@
     },
     {
      "t": "link",
-     "href": "about:blank",
+     "href": "/personal-injury/auto-accidents/ann-arbor",
      "c": [
       {
        "t": "text",
@@ -72,7 +72,7 @@
     },
     {
      "t": "link",
-     "href": "about:blank",
+     "href": "/personal-injury/auto-accidents/ypsilanti",
      "c": [
       {
        "t": "text",
@@ -86,7 +86,7 @@
     },
     {
      "t": "link",
-     "href": "about:blank",
+     "href": "/personal-injury/auto-accidents",
      "c": [
       {
        "t": "text",
@@ -377,7 +377,7 @@
       },
       {
        "t": "link",
-       "href": "about:blank",
+       "href": "/personal-injury/truck-accidents/washtenaw-county",
        "c": [
         {
          "t": "text",
@@ -409,7 +409,7 @@
       },
       {
        "t": "link",
-       "href": "about:blank",
+       "href": "/personal-injury/pedestrian-accidents",
        "c": [
         {
          "t": "text",
@@ -521,7 +521,7 @@
       },
       {
        "t": "link",
-       "href": "about:blank",
+       "href": "/personal-injury/bicycle-accidents",
        "c": [
         {
          "t": "text",
@@ -559,7 +559,7 @@
       },
       {
        "t": "link",
-       "href": "about:blank",
+       "href": "/personal-injury/car-accident-insurance",
        "c": [
         {
          "t": "text",
@@ -573,7 +573,7 @@
       },
       {
        "t": "link",
-       "href": "about:blank",
+       "href": "/personal-injury/car-accident-insurance",
        "c": [
         {
          "t": "text",
@@ -649,7 +649,7 @@
       },
       {
        "t": "link",
-       "href": "about:blank",
+       "href": "/personal-injury/uninsured-motorist-claims",
        "c": [
         {
          "t": "text",
@@ -681,7 +681,7 @@
       },
       {
        "t": "link",
-       "href": "about:blank",
+       "href": "/personal-injury/drunk-driving-accidents",
        "c": [
         {
          "t": "text",
@@ -737,7 +737,7 @@
       },
       {
        "t": "link",
-       "href": "about:blank",
+       "href": "/personal-injury/bus-accidents",
        "c": [
         {
          "t": "text",
@@ -842,7 +842,7 @@
        },
        {
         "t": "link",
-        "href": "about:blank",
+        "href": "/personal-injury/distracted-driving-accidents",
         "c": [
          {
           "t": "text",
@@ -986,29 +986,6 @@
         "v": " if a university vehicle, a bus, or the road was involved: the six-month and 120-day notices are already running."
        }
       ]
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
-      {
-       "t": "text",
-       "v": "Our "
-      },
-      {
-       "t": "link",
-       "href": "about:blank",
-       "c": [
-        {
-         "t": "text",
-         "v": "full checklist"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " covers the first day, week, month, and year."
-      }
      ]
     }
    ]
@@ -1368,7 +1345,7 @@
    }
   ]
  },
- "wordCount": 2781,
+ "wordCount": 2771,
  "openItems": 0,
  "source": {
   "file": "B4-02_Washtenaw-County-Car-Accident-Lawyer.docx",

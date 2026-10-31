@@ -84,8 +84,6 @@ When a site’s dock layout or delivery schedule puts trucks in the road, the pr
 - trucks pulling out of construction sites
 - trucks with poorly maintained brakes
 
-
-
 **Delivery vans, garbage trucks, and the subdivisions.** Package vans, appliance and furniture trucks, and garbage trucks work the subdivision streets. The crashes are:
 
 - backing crashes
@@ -103,8 +101,6 @@ Delivery vans are often operated by contracted delivery companies rather than by
 - The City of Rochester Hills for Hamlin, John R, other City roads, and the subdivision streets. Written notice is due within 120 days.
 - **Oakland University** for its campus roads. A claim against it is a claim against the State.
 
-
-
 ## Who is responsible, and who pays
 
 **The carrier, not just the driver.** The motor carrier is responsible for its drivers’ compliance with the Federal Motor Carrier Safety Regulations. It is liable for a driver’s negligence in the course of employment. Michigan applies the federal rules to intrastate carriers (MCL 480.11a). A local hauler, a dump truck operator, or a delivery carrier that never leaves Oakland County is held to the same standards as an interstate carrier.
@@ -121,8 +117,6 @@ These are the rules that decide truck cases most often:
 | Equipment: rear impact guards, lighting, reflectors | Part 393 | Underride guards (393.86) and conspicuity marking. A trailer that cannot be seen at night or lacks a working guard is a defective trailer. |
 | Handheld phone ban; hazardous conditions | 392.82, 392.14 | No handheld phone use. Reduce speed or stop in snow, ice, and fog. |
 | Minimum insurance | Part 387 | $750,000 general freight; $1 million oil; $5 million hazardous materials. |
-
-
 
 **The owner of the truck or trailer.** In Michigan, a vehicle’s owner is liable for its negligent operation by someone driving with the owner’s consent (MCL 257.401). When the tractor, the trailer, and the driver belong to different companies, each may be a defendant, although a company in the business of renting or leasing vehicles is generally shielded from owner liability by federal law (49 USC 30106).
 
@@ -152,8 +146,6 @@ The difference from a car case is the money available: the carrier’s $750,000-
 - the maintenance contractor
 - the manufacturer of a failed component or a defective guard ([product liability](/personal-injury/product-liability))
 - for a government truck (MDOT, the Road Commission, the City, Oakland County, SMART, or a school bus), the agency, under the motor vehicle exception to governmental immunity (MCL 691.1405)
-
-
 
 **If you were the truck driver.** Workers’ compensation pays your benefits, and your employer usually cannot be sued (MCL 418.131). If you were injured in your employer’s truck, no-fault benefits generally come from the insurer of that truck (MCL 500.3114(3)). They are coordinated with comp, which is paid first (MCL 500.3109(1)). You can also sue a third party, such as another driver or a business whose dock or yard caused the crash. See our [workers’ compensation page](/personal-injury/workers-compensation).
 
@@ -191,8 +183,6 @@ Once a party knows a claim is coming, destroying that evidence exposes it to spo
 5. **Report to your own insurer and file the Application for No-Fault Benefits** within the first week.
 6. **Call a lawyer within days,** so the preservation letter goes out before the records expire and the truck is repaired.
 
-Our [full checklist](about:blank) covers the first day, week, month, and year.
-
 ## The courts and deadlines
 
 - **Most Rochester Hills truck cases** are filed in the Sixth Judicial Circuit Court at 1200 N. Telegraph Road in Pontiac, with a jury drawn from all of Oakland County.
@@ -201,8 +191,6 @@ Our [full checklist](about:blank) covers the first day, week, month, and year.
 - **Claims against the State** go to the Court of Claims.
 - **Claims up to $25,000** go to the 52nd District Court, Third Division, at 700 Barclay Circle.
 - **A fatal crash** is brought by the estate through the Oakland County Probate Court. See our [Rochester Hills wrongful death page](/personal-injury/wrongful-death).
-
-
 
 | What | When | Source |
 | --- | --- | --- |

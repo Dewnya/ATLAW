@@ -819,6 +819,12 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - Also fixed: the motorcycle mini tort row deleted; two doubled list markers and a merged MDOT/EMU bullet split apart; the truck State deadline row rebuilt into three cells; *Nerat v Swacker* italicized
   - Open items: none on these three pages; the paragraph-merge audit found none in this batch
   - Verified: import 266 drafts, typecheck and production build clean (7 pages); the three pages and the hub render with 3-cell tables and no artifacts
+- [x] Internal link repair across all content (Oct 30, 2026)
+  - 166 links to `about:blank` on 101 pages, carried over from the source documents, now point to their pages: city practice pages where they exist, otherwise the statewide practice page (for example, tenant injuries, the birth-injury cluster, the SSD subpages, and "no-fault insurance guide" to `/personal-injury/car-accident-insurance`); no page links to itself
+  - A further 47 link targets that rendered "We couldn't find that page" are fixed: hub links to city practice pages that do not exist now go to the statewide page; `/personal-injury/car-accidents` is now `/personal-injury/auto-accidents`; `/resources/michigan-no-fault-guide` is now `/personal-injury/car-accident-insurance`
+  - Sentences removed because their page does not exist: "Our full checklist covers the first day, week, month, and year" (and its variants; there is no checklist page, on the old `about:blank` links or `/resources/what-to-do-after-an-accident`), and "see our VA benefit claims page" (no VA page; the VA page decision is still open, B2-01)
+  - Also fixed: four "against MDOT.." double periods in deadline FAQs
+  - Verified: all 275 distinct internal link targets in the content load a real page in the browser (none shows the not-found page); no `about:blank` remains in the drafts; import 266 drafts, typecheck and production build clean (7 pages)
 
 ### Open Questions
 

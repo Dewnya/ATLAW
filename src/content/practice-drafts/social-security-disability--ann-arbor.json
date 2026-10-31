@@ -182,20 +182,6 @@
      },
      {
       "t": "text",
-      "v": ". For veterans’ benefits, see our "
-     },
-     {
-      "t": "link",
-      "href": "/personal-injury/va-benefit-claims",
-      "c": [
-       {
-        "t": "text",
-        "v": "VA benefit claims page"
-       }
-      ]
-     },
-     {
-      "t": "text",
       "v": "."
      }
     ]
@@ -1434,21 +1420,7 @@
       },
       {
        "t": "text",
-       "v": " is evidence Social Security must consider, but it does not bind Social Security. See our "
-      },
-      {
-       "t": "link",
-       "href": "/personal-injury/va-benefit-claims",
-       "c": [
-        {
-         "t": "text",
-         "v": "VA benefit claims page"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": "."
+       "v": " is evidence Social Security must consider, but it does not bind Social Security."
       }
      ]
     }
@@ -1822,7 +1794,7 @@
    }
   ]
  },
- "wordCount": 2721,
+ "wordCount": 2706,
  "openItems": 0,
  "source": {
   "file": "B4-67_Ann-Arbor-Social-Security-Disability-Lawyer.docx",

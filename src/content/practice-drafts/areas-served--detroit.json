@@ -521,7 +521,7 @@
       },
       {
        "t": "link",
-       "href": "about:blank",
+       "href": "/personal-injury/car-accident-insurance",
        "c": [
         {
          "t": "text",
@@ -567,21 +567,7 @@
       },
       {
        "t": "text",
-       "v": " If a Detroit Police officer does not respond to the crash scene, promptly contact the department for instructions on filing the required report. Reporting the crash and documenting the available evidence can help establish what happened. Our "
-      },
-      {
-       "t": "link",
-       "href": "about:blank",
-       "c": [
-        {
-         "t": "text",
-         "v": "checklist"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " covers the first day."
+       "v": " If a Detroit Police officer does not respond to the crash scene, promptly contact the department for instructions on filing the required report. Reporting the crash and documenting the available evidence can help establish what happened."
       }
      ]
     },
@@ -717,7 +703,7 @@
       [
        {
         "t": "link",
-        "href": "/personal-injury/bus-accidents/detroit",
+        "href": "/personal-injury/bus-accidents",
         "c": [
          {
           "t": "text",
@@ -867,7 +853,7 @@
       [
        {
         "t": "link",
-        "href": "/personal-injury/brain-injury/detroit",
+        "href": "/personal-injury/brain-injury",
         "c": [
          {
           "t": "text",
@@ -1274,7 +1260,7 @@
    }
   ]
  },
- "wordCount": 2361,
+ "wordCount": 2355,
  "openItems": 0,
  "source": {
   "file": "areas-served__detroit.docx",

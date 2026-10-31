@@ -571,7 +571,7 @@
       },
       {
        "t": "link",
-       "href": "about:blank",
+       "href": "/personal-injury/car-accident-insurance",
        "c": [
         {
          "t": "text",
@@ -839,29 +839,6 @@
         "v": " if fault is disputed; the camera footage and signal data are the first evidence lost."
        }
       ]
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
-      {
-       "t": "text",
-       "v": "Our "
-      },
-      {
-       "t": "link",
-       "href": "about:blank",
-       "c": [
-        {
-         "t": "text",
-         "v": "full checklist"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " covers the first day, week, month, and year."
-      }
      ]
     }
    ]
@@ -1215,7 +1192,7 @@
    }
   ]
  },
- "wordCount": 2318,
+ "wordCount": 2308,
  "openItems": 0,
  "source": {
   "file": "B3-21_Sterling-Heights-Car-Accident-Lawyer.docx",

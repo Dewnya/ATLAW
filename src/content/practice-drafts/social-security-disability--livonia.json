@@ -64,7 +64,7 @@
     },
     {
      "t": "link",
-     "href": "about:blank",
+     "href": "/disability/ssd-appeals-process",
      "c": [
       {
        "t": "text",
@@ -92,7 +92,7 @@
     },
     {
      "t": "link",
-     "href": "about:blank",
+     "href": "/disability/short-long-term-disability",
      "c": [
       {
        "t": "text",
@@ -468,7 +468,7 @@
       },
       {
        "t": "link",
-       "href": "about:blank",
+       "href": "/disability/social-security-disability-insurance",
        "c": [
         {
          "t": "text",
@@ -500,7 +500,7 @@
       },
       {
        "t": "link",
-       "href": "about:blank",
+       "href": "/disability/supplemental-security-income",
        "c": [
         {
          "t": "text",
@@ -578,7 +578,7 @@
        },
        {
         "t": "link",
-        "href": "about:blank",
+        "href": "/disability/qualifying-impairments",
         "c": [
          {
           "t": "text",
@@ -592,7 +592,7 @@
        },
        {
         "t": "link",
-        "href": "about:blank",
+        "href": "/disability/compassionate-allowances",
         "c": [
          {
           "t": "text",
@@ -937,21 +937,7 @@
        },
        {
         "t": "text",
-        "v": " is evidence Social Security must consider but does not bind it; see our "
-       },
-       {
-        "t": "link",
-        "href": "about:blank",
-        "c": [
-         {
-          "t": "text",
-          "v": "VA benefit claims page"
-         }
-        ]
-       },
-       {
-        "t": "text",
-        "v": "."
+        "v": " is evidence Social Security must consider but does not bind it."
        }
       ]
      ]
@@ -1056,7 +1042,7 @@
        },
        {
         "t": "link",
-        "href": "about:blank",
+        "href": "/disability/winning-your-disability-claim",
         "c": [
          {
           "t": "text",
@@ -1231,7 +1217,7 @@
    }
   ]
  },
- "wordCount": 2217,
+ "wordCount": 2211,
  "openItems": 0,
  "source": {
   "file": "B3-39_Livonia-Social-Security-Disability-Lawyer.docx",

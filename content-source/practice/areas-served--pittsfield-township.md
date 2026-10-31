@@ -21,7 +21,7 @@ Most township residents have an Ann Arbor, Ypsilanti, or Saline mailing address.
 
 In 2024, the Michigan State Police recorded 1,143 crashes in the township. Of those, 215 injured someone and 3 were fatal. Four of Washtenaw County’s ten highest-crash intersections that year were in Pittsfield Township, three of them on Carpenter Road.
 
-ATLAW is a personal injury firm in Dearborn, about 30 miles east on I-94. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across southeast Michigan. This page explains what is particular about a Pittsfield Township injury claim. Our [Washtenaw County page](about:blank) covers the county, and our [Pittsfield Township personal injury lawyer page](about:blank) explains how a claim proceeds from the first week to the check. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
+ATLAW is a personal injury firm in Dearborn, about 30 miles east on I-94. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across southeast Michigan. This page explains what is particular about a Pittsfield Township injury claim. Our [Washtenaw County page](/areas-served/washtenaw-county) covers the county, and our [Pittsfield Township personal injury lawyer page](/personal-injury/personal-injury) explains how a claim proceeds from the first week to the check. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 
 ## Pittsfield Township at a glance
 
@@ -68,13 +68,13 @@ The typical crashes on Carpenter are:
 - rear-end crashes at the signals
 - pedestrians crossing between signals to reach a bus stop or a store
 
-Whether records from that audit can be used in a claim depends on how it was prepared and funded: federal law bars the use in court of safety data compiled for federally funded highway safety programs (23 USC 409), and later safety changes generally cannot be used to prove negligence (MRE 407). See our [Pittsfield Township car accident page](about:blank) and our [pedestrian accident page](about:blank).
+Whether records from that audit can be used in a claim depends on how it was prepared and funded: federal law bars the use in court of safety data compiled for federally funded highway safety programs (23 USC 409), and later safety changes generally cannot be used to prove negligence (MRE 407). See our [Pittsfield Township car accident page](/personal-injury/auto-accidents) and our [pedestrian accident page](/personal-injury/pedestrian-accidents).
 
 **Washtenaw Avenue.** Washtenaw Avenue (M-17) is a multi-lane commercial road with driveways on both sides. Hogback Road at Washtenaw had 41 crashes in 2024, the third most in the county. The 14A-1 District Court sits on the same road. The common crashes are left turns, lane changes into an occupied lane (MCL 257.642(1)(a)), and drivers turning across a sidewalk into a business.
 
 **Michigan Avenue and State Street.** Michigan Avenue (US-12) runs southwest toward Saline past subdivisions, schools, and commercial strips. It meets Carpenter at the county’s eighth highest-crash intersection. State Street and Ann Arbor-Saline Road carry commuters into Ann Arbor past the I-94 interchanges. These are higher-speed roads, where the crashes are head-on and crossover crashes, left turns at unsignaled intersections, and crashes involving deer. In 2024, Washtenaw County had 1,409 deer crashes.
 
-**I-94 and US-23.** The two freeways meet at the township’s northeast corner. I-94 has interchanges at State Street and Ann Arbor-Saline Road, and US-23 at Michigan Avenue and Washtenaw Avenue. The crashes are rear-end, lane-change, and truck crashes, many of them in backups and construction zones. See our [Pittsfield Township truck accident page](about:blank) and our [motorcycle accident page](about:blank).
+**I-94 and US-23.** The two freeways meet at the township’s northeast corner. I-94 has interchanges at State Street and Ann Arbor-Saline Road, and US-23 at Michigan Avenue and Washtenaw Avenue. The crashes are rear-end, lane-change, and truck crashes, many of them in backups and construction zones. See our [Pittsfield Township truck accident page](/personal-injury/truck-accidents) and our [motorcycle accident page](/personal-injury/motorcycle-accidents).
 
 **Apartments, stores, and parks.** The township has many apartment and condominium complexes, along with retail centers on Carpenter, Ellsworth, and Washtenaw. The recurring claims are:
 
@@ -83,9 +83,9 @@ Whether records from that audit can be used in a claim depends on how it was pre
 - falls in stores
 - injuries from poorly lit common areas
 
-A private landlord must keep the premises and common areas fit for their intended use and in reasonable repair (MCL 554.139). A lease clause waiving the landlord’s liability for its own negligence is void. A store owes customers reasonable care, subject to Michigan’s open-and-obvious doctrine, which since 2023 is weighed as part of comparative fault rather than as a bar. Injuries in township parks such as Lillie Park are limited by governmental immunity. See our [Pittsfield Township slip and fall page](about:blank) and our [tenant injury page](about:blank).
+A private landlord must keep the premises and common areas fit for their intended use and in reasonable repair (MCL 554.139). A lease clause waiving the landlord’s liability for its own negligence is void. A store owes customers reasonable care, subject to Michigan’s open-and-obvious doctrine, which since 2023 is weighed as part of comparative fault rather than as a bar. Injuries in township parks such as Lillie Park are limited by governmental immunity. See our [Pittsfield Township slip and fall page](/personal-injury/slip-and-fall) and our [tenant injury page](/personal-injury/tenant-injuries).
 
-**Workplaces.** These include warehouses and light industry, retail, construction on the freeways and corridors, and schools. Workers’ compensation is the exclusive remedy against the employer (MCL 418.131). A contractor, property owner, or equipment maker who caused the injury can still be sued. See our [workers’ compensation page](about:blank).
+**Workplaces.** These include warehouses and light industry, retail, construction on the freeways and corridors, and schools. Workers’ compensation is the exclusive remedy against the employer (MCL 418.131). A contractor, property owner, or equipment maker who caused the injury can still be sued. See our [workers’ compensation page](/personal-injury/workers-compensation).
 
 ## What is different about a Pittsfield Township claim
 
@@ -107,7 +107,7 @@ The City of Ann Arbor’s crosswalk ordinance does not apply in the township. Th
 
 **No-fault.** Your own household’s auto policy pays your medical bills and lost wages, whoever was at fault. A pedestrian or cyclist with no household policy is covered by the Michigan Assigned Claims Plan (MCL 500.3114, 500.3115, 500.3172). A claim against the at-fault driver for pain and suffering requires a serious impairment of body function, permanent serious disfigurement, or death (MCL 500.3135). It is reduced by your share of fault, and noneconomic damages are barred if you were more than 50% at fault (MCL 600.2959). The mini tort claim for vehicle damage is up to $3,000 (MCL 500.3135(3)(e)).
 
-**Buses.** TheRide runs routes on Washtenaw Avenue, Carpenter Road, State Street, and Packard. **[VERIFY: current routes]** A crash with a TheRide bus is a claim under the motor vehicle exception to governmental immunity (MCL 691.1405). A bus passenger’s no-fault benefits follow the bus-passenger priority rules (MCL 500.3114(2)). See our [bus accident page](about:blank).
+**Buses.** TheRide runs routes on Washtenaw Avenue, Carpenter Road, State Street, and Packard. **[VERIFY: current routes]** A crash with a TheRide bus is a claim under the motor vehicle exception to governmental immunity (MCL 691.1405). A bus passenger’s no-fault benefits follow the bus-passenger priority rules (MCL 500.3114(2)). See our [bus accident page](/personal-injury/bus-accidents).
 
 **The hospitals.**
 
@@ -115,27 +115,27 @@ The City of Ann Arbor’s crosswalk ordinance does not apply in the township. Th
 - **University of Michigan Health** in Ann Arbor is a Level I trauma center for adults and children. A malpractice claim against it proceeds against the State in the Court of Claims (MCL 600.6419, 691.1407(4)).
 - **The VA Ann Arbor Healthcare System.** A claim about care there follows the Federal Tort Claims Act.
 
-The Michigan claims follow the 182-day Notice of Intent, the Affidavit of Merit, the two-year deadline, and the 2026 caps of $596,400 and $1,065,000 (MCL 600.2912b, 600.2912d, 600.5805(8), 600.1483). See our [medical malpractice page](about:blank).
+The Michigan claims follow the 182-day Notice of Intent, the Affidavit of Merit, the two-year deadline, and the 2026 caps of $596,400 and $1,065,000 (MCL 600.2912b, 600.2912d, 600.5805(8), 600.1483). See our [medical malpractice page](/personal-injury/medical-malpractice).
 
-**Dog bites.** A dog’s owner is liable when the dog bites someone who was lawfully on the property or in a public place and did not provoke it (MCL 287.351). The township’s animal ordinance may add a separate violation, such as a leash requirement. See our [dog bite page](about:blank).
+**Dog bites.** A dog’s owner is liable when the dog bites someone who was lawfully on the property or in a public place and did not provoke it (MCL 287.351). The township’s animal ordinance may add a separate violation, such as a leash requirement. See our [dog bite page](/personal-injury/dog-bites).
 
 **Which court.** Claims up to $25,000, including mini tort claims, are filed in the 14A-1 District Court at 4133 Washtenaw Avenue. Injury suits over $25,000 go to the Washtenaw County Trial Court (22nd Circuit) at 101 E. Huron Street in Ann Arbor. The Probate Court, in the same building, opens estates for wrongful death claims and approves settlements for injured children. Claims against MDOT and the State go to the Court of Claims.
 
 ## The cases we handle in Pittsfield Township
 
-- [Car accidents](about:blank) and [no-fault benefit claims](about:blank)
-- [Truck accidents](about:blank) on I-94, US-23, and US-12
-- [Motorcycle accidents](about:blank)
-- [Pedestrian](about:blank) and [bicycle](about:blank) crashes on Carpenter, Washtenaw, and Packard
-- [Bus accidents](about:blank) and [rideshare accidents](about:blank)
-- [Drunk driving](about:blank) crashes and dram shop claims
-- [Slip and fall](about:blank), [premises liability](about:blank), and [tenant injuries](about:blank)
-- [Dog bites](about:blank)
-- [Medical malpractice](about:blank) and [nursing home neglect](about:blank)
-- [Workers’ compensation](about:blank)
-- [Wrongful death](about:blank)
-- [Brain injuries](about:blank) and [spinal cord injuries](about:blank)
-- [Social Security disability](about:blank)
+- [Car accidents](/personal-injury/auto-accidents) and [no-fault benefit claims](/personal-injury/car-accident-insurance)
+- [Truck accidents](/personal-injury/truck-accidents) on I-94, US-23, and US-12
+- [Motorcycle accidents](/personal-injury/motorcycle-accidents)
+- [Pedestrian](/personal-injury/pedestrian-accidents) and [bicycle](/personal-injury/bicycle-accidents) crashes on Carpenter, Washtenaw, and Packard
+- [Bus accidents](/personal-injury/bus-accidents) and [rideshare accidents](/personal-injury/rideshare-accidents)
+- [Drunk driving](/personal-injury/drunk-driving-accidents) crashes and dram shop claims
+- [Slip and fall](/personal-injury/slip-and-fall), [premises liability](/personal-injury/premises-liability), and [tenant injuries](/personal-injury/tenant-injuries)
+- [Dog bites](/personal-injury/dog-bites)
+- [Medical malpractice](/personal-injury/medical-malpractice) and [nursing home neglect](/personal-injury/nursing-home-abuse)
+- [Workers’ compensation](/personal-injury/workers-compensation)
+- [Wrongful death](/personal-injury/wrongful-death)
+- [Brain injuries](/personal-injury/brain-injury) and [spinal cord injuries](/personal-injury/spinal-cord-injury)
+- [Social Security disability](/disability/social-security-disability)
 
 ## Deadlines that apply to Pittsfield Township claims
 

@@ -70,7 +70,7 @@ The question in every case is whether something a doctor, nurse, or hospital did
 | Neonatal hypoglycemia not treated | Low blood sugar injures the occipital and parietal brain | Glucose checks and timing, especially in infants of diabetic mothers |
 | Delayed or no therapeutic hypothermia after HIE | Loss of the one treatment that reduces CP after birth asphyxia | Time of birth vs. time cooling began; eligibility criteria charted |
 
-Several of these are the subject of their own pages: [birth asphyxia and HIE](about:blank), [fetal distress and hypoxia](about:blank), and [birth injuries generally](about:blank). Cerebral palsy is often the diagnosis that arrives two years after the event those pages describe.
+Several of these are the subject of their own pages: [birth asphyxia and HIE](/personal-injury/birth-asphyxia), [fetal distress and hypoxia](/personal-injury/fetal-distress-hypoxia), and [birth injuries generally](/personal-injury/birth-injuries). Cerebral palsy is often the diagnosis that arrives two years after the event those pages describe.
 
 ## How cerebral palsy is diagnosed, and why the timeline matters
 

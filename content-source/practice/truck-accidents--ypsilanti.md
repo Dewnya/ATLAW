@@ -77,8 +77,6 @@ Federal rules require a truck driver to use extreme caution in hazardous conditi
 - wide right turns that catch a car or cyclist on the inside of the turn
 - trucks parked or stopped on the shoulder or in a lane at night, without warning devices (49 CFR 392.22)
 
-
-
 **Willow Run: warehouses, distribution, and air cargo.** The area around Willow Run Airport moves freight by road and air. The crashes are:
 
 - tractor-trailers entering and leaving yards and loading docks
@@ -111,15 +109,11 @@ See our [pedestrian accident page](/personal-injury/pedestrian-accidents) and [b
 - **The City of Ypsilanti** owns its local streets. Written notice is due within 120 days (MCL 691.1402, 691.1404).
 - **The Washtenaw County Road Commission** owns the township’s public roads. Townships do not own roads. Written notice is due within 120 days.
 
-
-
 **Public vehicles.**
 
 - **A truck owned by Eastern Michigan University** is a claim against the State in the Court of Claims, decided by a judge. A verified notice, or the claim itself, must be filed with that court within six months (MCL 600.6431).
 - **A City, township, or Road Commission truck,** such as a plow, a garbage truck, or a road maintenance vehicle, is a claim under the motor vehicle exception against the agency that owns it (MCL 691.1405).
 - **A private contractor’s truck** working for a public body, such as a plow or a construction truck under contract, is a claim against the contractor in the ordinary courts.
-
-
 
 ## Checking a trucking company’s safety record
 
@@ -148,8 +142,6 @@ These are the rules that decide truck cases most often:
 | Hazardous conditions; stopped vehicles; phones | 392.14, 392.22, 392.82 | Reduce speed or stop in snow, ice, and fog; warning devices for a stopped truck; no handheld phone use. |
 | Minimum insurance | Part 387 | $750,000 general freight; $1 million oil; $5 million hazardous materials. |
 
-
-
 **The owner of the truck or trailer.** In Michigan, a vehicle’s owner is liable for its negligent operation by someone driving with the owner’s consent (MCL 257.401). When the tractor, the trailer, and the driver belong to different companies, each may be a defendant. Lessors’ liability is limited by the same statute.
 
 **Michigan no-fault still applies to you.** Your own auto insurer, or a household policy, pays these benefits regardless of fault (MCL 500.3107):
@@ -177,8 +169,6 @@ The difference from a car case is the money available: the carrier’s commercia
 - the maintenance contractor
 - the manufacturer of a failed component or a defective guard ([product liability](/personal-injury/product-liability))
 - for a government vehicle, the agency that owns it, and for a road defect, the road owner, each with its own notice
-
-
 
 **If you were the truck driver or a dock worker.** Workers’ compensation pays your benefits, and your employer usually cannot be sued (MCL 418.131). If you were injured in your employer’s truck, no-fault benefits generally come from the insurer of that truck (MCL 500.3114(3)), coordinated with comp, which is paid first (MCL 500.3109(1)). You can also sue a third party, such as another driver, a shipper, or a warehouse operator that is not your employer. See our [workers’ compensation page](/personal-injury/workers-compensation).
 
@@ -216,8 +206,6 @@ Once a party knows a claim is coming, destroying that evidence exposes it to spo
 5. **Do not speak to the carrier’s insurer or its investigator.**
 6. **Report to your own insurer, or your parents’ insurer if you are a student,** and file the Application for No-Fault Benefits promptly.
 7. **Call a lawyer within days,** so the preservation letter goes out before the records expire and the truck is repaired.
-
-Our [full checklist](/resources/what-to-do-after-an-accident) covers the first day, week, month, and year.
 
 ## The courts and deadlines
 

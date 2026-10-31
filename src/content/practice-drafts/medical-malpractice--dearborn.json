@@ -449,21 +449,7 @@
       },
       {
        "t": "text",
-       "v": " Dearborn veterans treated at the John D. Dingell VA Medical Center in Detroit have an FTCA claim on the same path, plus disability compensation under 38 USC 1151 regardless of fault; see our "
-      },
-      {
-       "t": "link",
-       "href": "about:blank",
-       "c": [
-        {
-         "t": "text",
-         "v": "VA benefit claims page"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": "."
+       "v": " Dearborn veterans treated at the John D. Dingell VA Medical Center in Detroit have an FTCA claim on the same path, plus disability compensation under 38 USC 1151 regardless of fault."
       }
      ]
     },
@@ -1247,7 +1233,7 @@
    }
   ]
  },
- "wordCount": 1893,
+ "wordCount": 1887,
  "openItems": 10,
  "source": {
   "file": "B2-78_Dearborn-Medical-Malpractice-Lawyer.docx",

@@ -83,8 +83,6 @@ The first act in a Clinton Township truck case is a **preservation letter**: to 
 5. **Report to your own insurer and file the Application for No-Fault Benefits** within the first week.
 6. **Call a lawyer within days**, so the preservation letter goes out before the records expire and the trailer is repaired.
 
-Our [full checklist](about:blank) covers the first day, week, month, and year.
-
 ## The courts and deadlines
 
 Most Clinton Township truck cases are filed in the Sixteenth Judicial Circuit Court (Macomb County Circuit Court) at 40 N. Main Street in Mount Clemens. Cases against out-of-state carriers may be filed in or removed to the U.S. District Court for the Eastern District of Michigan, which sits in Detroit. Claims against the State go to the Court of Claims; claims up to $25,000 go to the 41B District Court on Starks Drive. A fatal crash is brought by the estate through the Macomb County Probate Court; see our [Clinton Township wrongful death page](/personal-injury/wrongful-death).

@@ -504,21 +504,7 @@
       },
       {
        "t": "text",
-       "v": " Southfield veterans treated at the John D. Dingell VA Medical Center in Detroit have an FTCA claim on the same path, and may also qualify for disability compensation under 38 USC 1151 regardless of fault; see our "
-      },
-      {
-       "t": "link",
-       "href": "about:blank",
-       "c": [
-        {
-         "t": "text",
-         "v": "VA benefit claims page"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": "."
+       "v": " Southfield veterans treated at the John D. Dingell VA Medical Center in Detroit have an FTCA claim on the same path, and may also qualify for disability compensation under 38 USC 1151 regardless of fault."
       }
      ]
     },
@@ -1254,7 +1240,7 @@
    }
   ]
  },
- "wordCount": 2052,
+ "wordCount": 2046,
  "openItems": 7,
  "source": {
   "file": "B3-07_Southfield-Medical-Malpractice-Lawyer.docx",

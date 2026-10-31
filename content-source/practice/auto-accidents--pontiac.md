@@ -60,7 +60,7 @@ We move promptly to request the camera footage, signal data, and vehicle data.
 
 ## Who pays after a Pontiac crash
 
-**Your no-fault (PIP) claim.** Your own auto insurer pays your medical expenses up to the PIP level you chose, 85 percent of lost wages for up to three years up to the monthly cap DIFS sets each year, replacement services at $20 a day, and attendant care, regardless of fault (MCL 500.3107). If you have no policy, a resident relative’s policy pays (MCL 500.3114); if none exists, the Michigan Assigned Claims Plan does (MCL 500.3172), capped at $250,000 for medical benefits. A pedestrian or cyclist hit by a car with no household policy claims from the insurer of the car’s owner or driver first (MCL 500.3115). The insurer must receive written notice within one year (MCL 500.3145(1)) and must pay each bill within 30 days of reasonable proof or owe 12 percent interest (MCL 500.3142). Since the 2019 reform, PIP medical coverage is no longer unlimited unless you chose it, so the level on your declarations page matters. See our [no-fault insurance claim page](/personal-injury/car-accident-insurance) and [Michigan no-fault guide](about:blank).
+**Your no-fault (PIP) claim.** Your own auto insurer pays your medical expenses up to the PIP level you chose, 85 percent of lost wages for up to three years up to the monthly cap DIFS sets each year, replacement services at $20 a day, and attendant care, regardless of fault (MCL 500.3107). If you have no policy, a resident relative’s policy pays (MCL 500.3114); if none exists, the Michigan Assigned Claims Plan does (MCL 500.3172), capped at $250,000 for medical benefits. A pedestrian or cyclist hit by a car with no household policy claims from the insurer of the car’s owner or driver first (MCL 500.3115). The insurer must receive written notice within one year (MCL 500.3145(1)) and must pay each bill within 30 days of reasonable proof or owe 12 percent interest (MCL 500.3142). Since the 2019 reform, PIP medical coverage is no longer unlimited unless you chose it, so the level on your declarations page matters. See our [no-fault insurance claim page](/personal-injury/car-accident-insurance) and [Michigan no-fault guide](/personal-injury/car-accident-insurance).
 
 **If you had no insurance.** A person who owned a car and was required to insure it but did not is generally barred from PIP benefits for their own injuries (MCL 500.3113(b)), and a driver who was operating their own uninsured vehicle cannot recover pain-and-suffering damages, whoever was at fault (MCL 500.3135(2)(c)). A passenger or pedestrian with no policy of their own is not barred; the Assigned Claims Plan may be the payer.
 
@@ -81,8 +81,6 @@ We move promptly to request the camera footage, signal data, and vehicle data.
 5. **Read your declarations page** for PIP level, UM/UIM, umbrella, and collision coverage.
 6. **Do not give a recorded statement** to the other driver’s insurer, sign a release, or accept a policy-limits offer before your UIM insurer consents.
 7. **Call a lawyer within days** if fault is disputed, the other driver is uninsured, or the road played a part; the camera footage and signal data are the first evidence lost, and the 120-day notice to the City or the Road Commission is already running.
-
-Our [full checklist](about:blank) covers the first day, week, month, and year.
 
 ## The courts
 
@@ -125,7 +123,7 @@ The state courts that hear most Pontiac crash cases sit in the city. Claims up t
 
 **Where would my Pontiac case be filed?** In Pontiac: mini tort and claims up to $25,000 in the 50th District Court on Saginaw Street; injury suits over $25,000 in the Sixth Judicial Circuit Court on Telegraph.
 
-**How long do I have?** One year to give your no-fault insurer written notice, three years to sue the at-fault driver, two years to sue a bar, 120 days for a notice to the City or the Road Commission, and 120 days for a road-defect notice against MDOT..
+**How long do I have?** One year to give your no-fault insurer written notice, three years to sue the at-fault driver, two years to sue a bar, 120 days for a notice to the City or the Road Commission, and 120 days for a road-defect notice against MDOT.
 
 ## Talk to a lawyer about a Pontiac crash
 

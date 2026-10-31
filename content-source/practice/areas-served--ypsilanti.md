@@ -21,8 +21,8 @@ In 2024, the Michigan State Police recorded 838 crashes in the city and 1,069 in
 
 ATLAW is a personal injury firm in Dearborn, about 25 miles east of Ypsilanti on I-94. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across southeast Michigan. This page explains what is particular about an Ypsilanti injury claim, starting with which Ypsilanti it happened in.
 
-- Our [Washtenaw County page](about:blank) covers the county.
-- Our [Ypsilanti personal injury lawyer page](about:blank) explains how a claim proceeds from the first week to the check.
+- Our [Washtenaw County page](/areas-served/washtenaw-county) covers the county.
+- Our [Ypsilanti personal injury lawyer page](/personal-injury/personal-injury/ypsilanti) explains how a claim proceeds from the first week to the check.
 
 We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 
@@ -62,13 +62,13 @@ Many township addresses carry an “Ypsilanti” mailing address, and some city 
 - **Michigan Avenue at Huron Street**, in the heart of downtown.
 - **Michigan Avenue at Prospect Street**, east of downtown. It had fewer crashes than most intersections on the list but the most injuries, 20 from 30 crashes.
 
-The typical crashes are drivers turning the wrong way or into the wrong lane on a one-way street, red-light (MCL 257.612) and left-turn crashes (MCL 257.650)), lane changes into an occupied lane (MCL 257.642(1)(a)), and pedestrians struck in crosswalks near the transit center and Depot Town. See our [Ypsilanti car accident page](about:blank) and our [pedestrian accident page](about:blank).
+The typical crashes are drivers turning the wrong way or into the wrong lane on a one-way street, red-light (MCL 257.612) and left-turn crashes (MCL 257.650)), lane changes into an occupied lane (MCL 257.642(1)(a)), and pedestrians struck in crosswalks near the transit center and Depot Town. See our [Ypsilanti car accident page](/personal-injury/auto-accidents/ypsilanti) and our [pedestrian accident page](/personal-injury/pedestrian-accidents).
 
-**Washtenaw Avenue and the EMU campus.** Washtenaw Avenue (M-17) runs from Ann Arbor past the shopping centers in Pittsfield and Ypsilanti townships and into the city past Eastern Michigan’s campus. The campus streets and crossings carry students on foot, on bikes, and on scooters. **and into the city past Eastern Michigan’s campus.** See our [bicycle accident page](about:blank).
+**Washtenaw Avenue and the EMU campus.** Washtenaw Avenue (M-17) runs from Ann Arbor past the shopping centers in Pittsfield and Ypsilanti townships and into the city past Eastern Michigan’s campus. The campus streets and crossings carry students on foot, on bikes, and on scooters. **and into the city past Eastern Michigan’s campus.** See our [bicycle accident page](/personal-injury/bicycle-accidents).
 
 **Michigan Avenue and Ecorse Road in the township.** Michigan Avenue (US-12) runs east toward Belleville and Wayne County, past strip retail, motels, and gas stations. Ecorse Road runs past the Willow Run industrial area. Both are multi-lane roads with frequent driveways. Typical crashes are left turns across traffic, vehicles pulling out of driveways, and pedestrians crossing between signals.
 
-**I-94.** The freeway runs through the township south of the city, with interchanges at Huron Street, Michigan Avenue, and Rawsonville Road. Crashes there are rear-end, lane-change, and truck crashes, many of them in construction zones and at the ramps. See our [Ypsilanti truck accident page](about:blank) and our [motorcycle accident page](about:blank).
+**I-94.** The freeway runs through the township south of the city, with interchanges at Huron Street, Michigan Avenue, and Rawsonville Road. Crashes there are rear-end, lane-change, and truck crashes, many of them in construction zones and at the ramps. See our [Ypsilanti truck accident page](/personal-injury/truck-accidents/ypsilanti) and our [motorcycle accident page](/personal-injury/motorcycle-accidents/ypsilanti).
 
 **Rental housing.** Both the city and the township have many renters, from older houses near campus to apartment complexes in the township. The recurring claims are:
 
@@ -90,7 +90,7 @@ A private landlord must keep the premises and common areas fit for their intende
 - construction on I-94 and the corridors
 - retail and restaurants
 
-Workers’ compensation is the exclusive remedy against the employer (MCL 418.131). A contractor, property owner, or equipment maker who caused the injury can still be sued. See our [workers’ compensation page](about:blank).
+Workers’ compensation is the exclusive remedy against the employer (MCL 418.131). A contractor, property owner, or equipment maker who caused the injury can still be sued. See our [workers’ compensation page](/personal-injury/workers-compensation).
 
 ## What is different about an Ypsilanti claim
 
@@ -108,13 +108,13 @@ Workers’ compensation is the exclusive remedy against the employer (MCL 418.13
 - **University of Michigan Health** in Ann Arbor is a Level I trauma center for adults and children. A malpractice claim against it is not barred by governmental immunity (MCL 691.1407(4)) but proceeds against the State in the Court of Claims.
 - **The VA Ann Arbor Healthcare System** treats many area veterans. A claim about care there follows the Federal Tort Claims Act.
 
-The Michigan claims follow the 182-day Notice of Intent, the Affidavit of Merit, the two-year deadline, and the 2026 caps of $596,400 and $1,065,000 (MCL 600.2912b, 600.2912d, 600.5805(8), 600.1483). See our [medical malpractice page](about:blank).
+The Michigan claims follow the 182-day Notice of Intent, the Affidavit of Merit, the two-year deadline, and the 2026 caps of $596,400 and $1,065,000 (MCL 600.2912b, 600.2912d, 600.5805(8), 600.1483). See our [medical malpractice page](/personal-injury/medical-malpractice).
 
 **No-fault for people without a car.** Many Ypsilanti residents and EMU students walk, bike, or ride the bus. A pedestrian or cyclist hit by a car is covered first by a no-fault policy in their household, which for a student may be a parent’s policy. If there is none, the Michigan Assigned Claims Plan pays (MCL 500.3114, 500.3115, 500.3172).
 
-**Buses.** TheRide runs routes along Washtenaw Avenue and through the city and township from the Ypsilanti Transit Center downtown. A crash with a TheRide bus is a claim under the motor vehicle exception to governmental immunity (MCL 691.1405). A bus passenger’s no-fault benefits follow the bus-passenger priority rules (MCL 500.3114(2)). See our [bus accident page](about:blank).
+**Buses.** TheRide runs routes along Washtenaw Avenue and through the city and township from the Ypsilanti Transit Center downtown. A crash with a TheRide bus is a claim under the motor vehicle exception to governmental immunity (MCL 691.1405). A bus passenger’s no-fault benefits follow the bus-passenger priority rules (MCL 500.3114(2)). See our [bus accident page](/personal-injury/bus-accidents).
 
-**Dog bites.** Michigan holds a dog’s owner liable when the dog bites someone who was lawfully on the property or in a public place and did not provoke it (MCL 287.351). The city and the township each have their own animal ordinances. A local rule broken by the owner, such as a leash requirement, can add to the claim. See our [dog bite page](about:blank).
+**Dog bites.** Michigan holds a dog’s owner liable when the dog bites someone who was lawfully on the property or in a public place and did not provoke it (MCL 287.351). The city and the township each have their own animal ordinances. A local rule broken by the owner, such as a leash requirement, can add to the claim. See our [dog bite page](/personal-injury/dog-bites).
 
 **Which court.** Claims up to $25,000, including mini tort claims, are filed in one of two district courts, depending on where the injury happened:
 
@@ -125,19 +125,19 @@ Injury suits over $25,000 go to the Washtenaw County Trial Court (22nd Circuit) 
 
 ## The cases we handle in Ypsilanti
 
-- [Car accidents](about:blank) and [no-fault benefit claims](about:blank)
-- [Truck accidents](about:blank) on I-94 and US-12
-- [Motorcycle accidents](about:blank)
-- [Pedestrian](about:blank) and [bicycle](about:blank) crashes downtown and around campus
-- [Bus accidents](about:blank) and [rideshare accidents](about:blank)
-- [Drunk driving](about:blank) crashes and dram shop claims
-- [Slip and fall](about:blank), [premises liability](about:blank), and [tenant injuries](about:blank)
-- [Dog bites](about:blank)
-- [Medical malpractice](about:blank) and [nursing home neglect](about:blank)
-- [Workers’ compensation](about:blank)
-- [Wrongful death](about:blank)
-- [Brain injuries](about:blank) and [spinal cord injuries](about:blank)
-- [Social Security disability](about:blank)
+- [Car accidents](/personal-injury/auto-accidents/ypsilanti) and [no-fault benefit claims](/personal-injury/car-accident-insurance)
+- [Truck accidents](/personal-injury/truck-accidents/ypsilanti) on I-94 and US-12
+- [Motorcycle accidents](/personal-injury/motorcycle-accidents/ypsilanti)
+- [Pedestrian](/personal-injury/pedestrian-accidents) and [bicycle](/personal-injury/bicycle-accidents) crashes downtown and around campus
+- [Bus accidents](/personal-injury/bus-accidents) and [rideshare accidents](/personal-injury/rideshare-accidents)
+- [Drunk driving](/personal-injury/drunk-driving-accidents) crashes and dram shop claims
+- [Slip and fall](/personal-injury/slip-and-fall), [premises liability](/personal-injury/premises-liability), and [tenant injuries](/personal-injury/tenant-injuries)
+- [Dog bites](/personal-injury/dog-bites)
+- [Medical malpractice](/personal-injury/medical-malpractice) and [nursing home neglect](/personal-injury/nursing-home-abuse)
+- [Workers’ compensation](/personal-injury/workers-compensation)
+- [Wrongful death](/personal-injury/wrongful-death/ypsilanti)
+- [Brain injuries](/personal-injury/brain-injury) and [spinal cord injuries](/personal-injury/spinal-cord-injury)
+- [Social Security disability](/disability/social-security-disability)
 
 ## Deadlines that apply to Ypsilanti claims
 

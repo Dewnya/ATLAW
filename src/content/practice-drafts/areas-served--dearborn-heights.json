@@ -431,7 +431,7 @@
       },
       {
        "t": "link",
-       "href": "about:blank",
+       "href": "/personal-injury/car-accident-insurance",
        "c": [
         {
          "t": "text",
@@ -661,7 +661,7 @@
       [
        {
         "t": "link",
-        "href": "/personal-injury/bus-accidents/dearborn-heights",
+        "href": "/personal-injury/bus-accidents",
         "c": [
          {
           "t": "text",
@@ -677,7 +677,7 @@
       [
        {
         "t": "link",
-        "href": "/personal-injury/rideshare-accidents/dearborn-heights",
+        "href": "/personal-injury/rideshare-accidents",
         "c": [
          {
           "t": "text",
@@ -689,7 +689,7 @@
       [
        {
         "t": "link",
-        "href": "/personal-injury/drunk-driving-accidents/dearborn-heights",
+        "href": "/personal-injury/drunk-driving-accidents",
         "c": [
          {
           "t": "text",
@@ -705,7 +705,7 @@
       [
        {
         "t": "link",
-        "href": "/personal-injury/slip-and-fall/dearborn-heights",
+        "href": "/personal-injury/slip-and-fall",
         "c": [
          {
           "t": "text",
@@ -735,7 +735,7 @@
       [
        {
         "t": "link",
-        "href": "/personal-injury/tenant-injuries/dearborn-heights",
+        "href": "/personal-injury/tenant-injuries",
         "c": [
          {
           "t": "text",
@@ -813,7 +813,7 @@
       [
        {
         "t": "link",
-        "href": "/personal-injury/product-liability/dearborn-heights",
+        "href": "/personal-injury/product-liability",
         "c": [
          {
           "t": "text",
@@ -837,7 +837,7 @@
       [
        {
         "t": "link",
-        "href": "/personal-injury/brain-injury/dearborn-heights",
+        "href": "/personal-injury/brain-injury",
         "c": [
          {
           "t": "text",
@@ -863,7 +863,7 @@
       [
        {
         "t": "link",
-        "href": "/disability/social-security-disability/dearborn-heights",
+        "href": "/disability/social-security-disability",
         "c": [
          {
           "t": "text",

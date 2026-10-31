@@ -781,29 +781,6 @@
        }
       ]
      ]
-    },
-    {
-     "t": "p",
-     "c": [
-      {
-       "t": "text",
-       "v": "Our "
-      },
-      {
-       "t": "link",
-       "href": "about:blank",
-       "c": [
-        {
-         "t": "text",
-         "v": "full checklist"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " covers the first day, week, month, and year."
-      }
-     ]
     }
    ]
   },
@@ -1103,7 +1080,7 @@
    }
   ]
  },
- "wordCount": 2159,
+ "wordCount": 2149,
  "openItems": 8,
  "source": {
   "file": "B2-75_Dearborn-Motorcycle-Accident-Lawyer.docx",

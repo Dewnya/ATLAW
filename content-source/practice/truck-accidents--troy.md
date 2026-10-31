@@ -82,8 +82,6 @@ The first act in a Troy truck case is a **preservation letter**: to the carrier,
 5. **Report to your own insurer and file the Application for No-Fault Benefits** within the first week.
 6. **Call a lawyer within days**, so the preservation letter goes out before the records expire.
 
-Our [full checklist](about:blank) covers the first day, week, month, and year.
-
 ## The courts and deadlines
 
 Most Troy truck cases are filed in the Sixth Judicial Circuit Court (Oakland County Circuit Court) at 1200 N. Telegraph Road in Pontiac. Cases against out-of-state carriers may be filed in or removed to the U.S. District Court for the Eastern District of Michigan, which sits in Detroit. A crash on Dequindre at the Sterling Heights line, or with a Macomb County carrier or defendant, may allow filing in the Sixteenth Circuit in Mount Clemens (MCL 600.1629). Claims against the State go to the Court of Claims; claims up to $25,000 go to the 52nd District Court, Fourth Division, at 520 W. Big Beaver Road. A fatal crash is brought by the estate through the Oakland County Probate Court; see our [Troy wrongful death page](/personal-injury/wrongful-death/troy).

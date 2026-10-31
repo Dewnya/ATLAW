@@ -682,29 +682,6 @@
        }
       ]
      ]
-    },
-    {
-     "t": "p",
-     "c": [
-      {
-       "t": "text",
-       "v": "Our "
-      },
-      {
-       "t": "link",
-       "href": "about:blank",
-       "c": [
-        {
-         "t": "text",
-         "v": "full checklist"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " covers the first day, week, month, and year."
-      }
-     ]
     }
    ]
   },
@@ -1076,7 +1053,7 @@
    }
   ]
  },
- "wordCount": 2070,
+ "wordCount": 2060,
  "openItems": 3,
  "source": {
   "file": "B2-33_Wayne-County-Car-Accident-Lawyer.docx",

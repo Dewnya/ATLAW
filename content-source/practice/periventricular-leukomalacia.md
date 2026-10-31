@@ -60,7 +60,7 @@ The causes of PVL are known, and so are the measures that reduce them. The table
 | **Low carbon dioxide from over-ventilation** (hypocarbia) | A ventilated preterm infant’s carbon dioxide is kept within a target range; low carbon dioxide constricts the brain’s blood vessels, and prolonged hypocarbia is a well-documented risk factor for PVL | NICU blood gas results and ventilator settings, hour by hour |
 | **Low blood pressure and poor perfusion** (hypotension, patent ductus arteriosus, apnea and bradycardia) | Blood pressure monitored and treated; a significant PDA evaluated and managed; apnea treated | NICU flowsheets; echocardiogram; medication record |
 | **Low blood sugar** | Glucose monitored and treated | Glucose checks and timing |
-| **Birth asphyxia in a preterm infant** | The same monitoring and delivery standards as any labor; see our [fetal distress](about:blank) and [birth asphyxia](about:blank) pages | Fetal monitoring archive; cord gases |
+| **Birth asphyxia in a preterm infant** | The same monitoring and delivery standards as any labor; see our [fetal distress](/personal-injury/fetal-distress-hypoxia) and [birth asphyxia](/personal-injury/birth-asphyxia) pages | Fetal monitoring archive; cord gases |
 | **Delivery at the wrong hospital** | A mother in preterm labor before about 32 weeks should be transferred, when safe, to a hospital with a Level III or IV NICU before delivery rather than the baby transferred after | Transfer decisions and timing; the delivering hospital’s NICU level |
 | **Failure to screen and diagnose** | Cranial ultrasound at 7 to 10 days, 4 to 6 weeks, and term-equivalent age for infants at or below 30 weeks; MRI where indicated; referral to early intervention and follow-up clinics | NICU imaging orders and reports; discharge summary; follow-up referrals |
 
@@ -82,7 +82,7 @@ The diagnosis matters legally in two ways. A baby who was never scanned, or scan
 
 The outcomes depend on how much white matter was injured and where:
 
-- **Spastic diplegia**, the stiff-legged cerebral palsy that is PVL’s signature, is the most common. Severe cystic PVL can produce spastic quadriplegia. Our [cerebral palsy page](about:blank) covers the diagnosis, GMFCS levels, and what a child will need.
+- **Spastic diplegia**, the stiff-legged cerebral palsy that is PVL’s signature, is the most common. Severe cystic PVL can produce spastic quadriplegia. Our [cerebral palsy page](/personal-injury/cerebral-palsy) covers the diagnosis, GMFCS levels, and what a child will need.
 - **Cortical visual impairment and strabismus**, because the visual pathways run through the injured region.
 - **Cognitive and learning disability, attention problems, and language delay**, particularly with diffuse injury.
 - **Epilepsy**, in a minority.

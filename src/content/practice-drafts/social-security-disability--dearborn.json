@@ -973,21 +973,7 @@
        },
        {
         "t": "text",
-        "v": " is evidence Social Security must consider but does not bind it; see our "
-       },
-       {
-        "t": "link",
-        "href": "about:blank",
-        "c": [
-         {
-          "t": "text",
-          "v": "VA benefit claims page"
-         }
-        ]
-       },
-       {
-        "t": "text",
-        "v": "."
+        "v": " is evidence Social Security must consider but does not bind it."
        }
       ]
      ]
@@ -1297,7 +1283,7 @@
    }
   ]
  },
- "wordCount": 1960,
+ "wordCount": 1954,
  "openItems": 15,
  "source": {
   "file": "B2-82_Dearborn-Social-Security-Disability-Lawyer.docx",

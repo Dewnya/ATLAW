@@ -111,8 +111,6 @@ A claim against Wayne County or the City requires written notice within 120 days
 | Handheld phone ban; hazardous conditions | 392.82, 392.14 | No handheld phone use. Reduce speed or stop in snow, ice, and fog. |
 | Minimum insurance | Part 387 | $750,000 general freight; $1 million oil; $5 million hazardous materials. |
 
-
-
 **The owner of the truck or trailer.** In Michigan, a vehicle’s owner is liable for its negligent operation by someone driving with the owner’s consent (MCL 257.401). In freight and in airport and rail drayage, the tractor, the trailer, and the driver often belong to different companies, and each may be a defendant, although a company in the business of renting or leasing vehicles is generally shielded from owner liability by federal law (49 USC 30106).
 
 **Michigan no-fault still applies to you.** Your own auto insurer pays these benefits regardless of fault (MCL 500.3107):
@@ -135,8 +133,6 @@ Michigan’s comparative fault rule is modified, not pure. If you were more than
 - the maintenance contractor
 - the manufacturer of a failed component or a defective guard ([product liability](/personal-injury/product-liability))
 - for a government truck (MDOT, Wayne County, the City of Taylor, SMART, or a school bus), the agency, under the motor vehicle exception to governmental immunity (MCL 691.1405)
-
-
 
 **If you were the truck driver.** Workers’ compensation pays your benefits, and your employer usually cannot be sued (MCL 418.131). If you were injured in your employer’s truck, no-fault benefits generally come from the insurer of that truck (MCL 500.3114(3)), coordinated with comp, which is paid first (MCL 500.3109(1)). You can also sue a third party, such as another driver or a business whose dock or yard caused the crash. See our [workers’ compensation page](/personal-injury/workers-compensation).
 
@@ -173,8 +169,6 @@ Once a party knows a claim is coming, destroying that evidence exposes it to spo
 5. **Report to your own insurer and file the Application for No-Fault Benefits** within the first week.
 6. **Call a lawyer within days,** so the preservation letter goes out before the records expire and the truck is repaired.
 
-Our [full checklist](about:blank) covers the first day, week, month, and year.
-
 ## The courts and deadlines
 
 - **Most Taylor truck cases** are filed in the Third Judicial Circuit Court at the Coleman A. Young Municipal Center in Detroit, with a jury drawn from all of Wayne County.
@@ -182,8 +176,6 @@ Our [full checklist](about:blank) covers the first day, week, month, and year.
 - **Claims against the State** go to the Court of Claims.
 - **Claims up to $25,000** go to the 23rd District Court at 23365 Goddard Road in Taylor.
 - **A fatal crash** is brought by the estate, opened through the Wayne County Probate Court. See our [Taylor wrongful death page](/personal-injury/wrongful-death).
-
-
 
 | What | When | Source |
 | --- | --- | --- |

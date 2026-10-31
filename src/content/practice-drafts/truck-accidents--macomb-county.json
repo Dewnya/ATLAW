@@ -718,29 +718,6 @@
        }
       ]
      ]
-    },
-    {
-     "t": "p",
-     "c": [
-      {
-       "t": "text",
-       "v": "Our "
-      },
-      {
-       "t": "link",
-       "href": "about:blank",
-       "c": [
-        {
-         "t": "text",
-         "v": "full checklist"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " covers the first day, week, month, and year."
-      }
-     ]
     }
    ]
   },
@@ -1101,7 +1078,7 @@
    }
   ]
  },
- "wordCount": 2513,
+ "wordCount": 2503,
  "openItems": 2,
  "source": {
   "file": "B2-38_Macomb-County-Truck-Accident-Lawyer.docx",

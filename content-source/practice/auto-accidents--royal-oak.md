@@ -130,7 +130,7 @@ We move promptly to request the camera footage, signal data, bar records, and ve
 
 If you have no policy, a resident relative’s policy pays (MCL 500.3114). If none exists, an occupant claims from the insurer of the vehicle they were in (MCL 500.3114(4)), and then the Michigan Assigned Claims Plan (MCL 500.3172), capped at $250,000 for medical benefits. A pedestrian or cyclist hit by a car, with no household policy, claims through the Assigned Claims Plan (MCL 500.3115)
 
-The insurer must receive written notice within one year (MCL 500.3145(1)). It must pay each bill within 30 days of reasonable proof, or owe 12 percent interest (MCL 500.3142). Since the 2019 reform, PIP medical coverage is no longer unlimited unless you chose it, so the level on your declarations page matters. See our [no-fault insurance claim page](/personal-injury/car-accident-insurance) and our [Michigan no-fault guide](about:blank).
+The insurer must receive written notice within one year (MCL 500.3145(1)). It must pay each bill within 30 days of reasonable proof, or owe 12 percent interest (MCL 500.3142). Since the 2019 reform, PIP medical coverage is no longer unlimited unless you chose it, so the level on your declarations page matters. See our [no-fault insurance claim page](/personal-injury/car-accident-insurance) and our [Michigan no-fault guide](/personal-injury/car-accident-insurance).
 
 **Your claim against the at-fault driver.** For pain and suffering, you need a threshold injury: death, serious impairment of body function, or permanent serious disfigurement (MCL 500.3135(1)). A serious impairment is an objectively manifested impairment of an important body function that affects your general ability to lead your normal life. It does not have to be permanent (MCL 500.3135(5); *McCormick v Carrier*, 2010).
 
@@ -185,16 +185,12 @@ Royal Oak Schools’ buses are run by a private contractor, so a claim over one 
 7. **Do not give a recorded statement** to the other driver’s insurer, sign a release, or accept a policy-limits offer before your UIM insurer consents.
 8. **Call a lawyer within days** if fault is disputed, alcohol was involved, the other driver’s limit looks too low, or the road played a part. The camera footage and bar records are the first evidence lost, and the 120-day dram shop and road-defect notices are already running.
 
-Our [full checklist](about:blank) covers the first day, week, month, and year.
-
 ## The courts
 
 - **Claims up to $25,000,** including mini tort claims, go to the 44th District Court at 400 E. Eleven Mile Road, which serves Royal Oak and Berkley.
 - **Injury suits over $25,000** go to the Sixth Judicial Circuit Court at 1200 N. Telegraph Road in Pontiac, with a jury drawn from all of Oakland County.
 - **Defect claims against MDOT** go to the Court of Claims.
 - **A fatal crash** is brought by the estate through the Oakland County Probate Court. See our [Royal Oak wrongful death page](/personal-injury/wrongful-death).
-
-
 
 ## Deadlines for Royal Oak crash claims
 

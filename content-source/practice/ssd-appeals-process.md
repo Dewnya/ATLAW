@@ -73,7 +73,7 @@ Two things to take from the table. First, Michigan judges approve a majority of 
 
 ## The five-step test, and where claims are lost
 
-Every disability decision, from the state examiner to the federal judge, follows the same five steps set out in 20 CFR 404.1520. Understanding where your claim was denied tells you what the appeal has to fix. The Listings are covered on our [conditions that qualify](about:blank) page, and the evidence that wins at each step on our [how to win your disability claim](about:blank) page.
+Every disability decision, from the state examiner to the federal judge, follows the same five steps set out in 20 CFR 404.1520. Understanding where your claim was denied tells you what the appeal has to fix. The Listings are covered on our [conditions that qualify](/disability/qualifying-impairments) page, and the evidence that wins at each step on our [how to win your disability claim](/disability/winning-your-disability-claim) page.
 
 | Step | The question | How claims are lost here | What fixes it |
 | --- | --- | --- | --- |
@@ -147,7 +147,7 @@ Fees in Social Security cases are set by federal law, 42 USC 406, and every fee 
 
 **Do I have to go to the hearing in person?** No. Michigan hearings are held in person, by video, or by phone. You may object to video or phone and request in person. We discuss which format suits your case.
 
-**What is the difference between SSDI and SSI, and does it change the appeal?** SSDI is based on your work record; SSI is need-based. The appeal process and the five-step test are the same. The deadlines, forms, and fee rules are the same. Our [SSDI](about:blank) and [SSI](about:blank) pages explain eligibility for each.
+**What is the difference between SSDI and SSI, and does it change the appeal?** SSDI is based on your work record; SSI is need-based. The appeal process and the five-step test are the same. The deadlines, forms, and fee rules are the same. Our [SSDI](/disability/social-security-disability-insurance) and [SSI](/disability/supplemental-security-income) pages explain eligibility for each.
 
 **My doctor says I am disabled. Why was I denied?** Because since 2017 a doctor’s conclusion is not controlling; what matters is whether the records support specific functional limitations. A letter saying you are “disabled” is weighed for its supportability and consistency and often carries little weight on its own. A detailed opinion about what you can and cannot do in a workday, tied to the records, is what the judge needs.
 

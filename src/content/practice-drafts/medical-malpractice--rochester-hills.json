@@ -835,21 +835,7 @@
       },
       {
        "t": "text",
-       "v": " Veterans treated at the John D. Dingell VA Medical Center in Detroit or a VA outpatient clinic have an FTCA claim on the same path. They may also qualify for disability compensation under 38 USC 1151 where the injury was caused by VA carelessness, negligence, or error, or by an event that was not reasonably foreseeable. See our "
-      },
-      {
-       "t": "link",
-       "href": "about:blank",
-       "c": [
-        {
-         "t": "text",
-         "v": "VA benefit claims page"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": "."
+       "v": " Veterans treated at the John D. Dingell VA Medical Center in Detroit or a VA outpatient clinic have an FTCA claim on the same path. They may also qualify for disability compensation under 38 USC 1151 where the injury was caused by VA carelessness, negligence, or error, or by an event that was not reasonably foreseeable."
       }
      ]
     },
@@ -1684,7 +1670,7 @@
    }
   ]
  },
- "wordCount": 2746,
+ "wordCount": 2740,
  "openItems": 5,
  "source": {
   "file": "B4-19_Rochester-Hills-Medical-Malpractice-Lawyer.docx",

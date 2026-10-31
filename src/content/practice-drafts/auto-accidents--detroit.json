@@ -1125,21 +1125,7 @@
       },
       {
        "t": "link",
-       "href": "about:blank",
-       "c": [
-        {
-         "t": "text",
-         "v": "full checklist"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " covers the first day, week, month, and year, and our "
-      },
-      {
-       "t": "link",
-       "href": "about:blank",
+       "href": "/personal-injury/car-accident-insurance",
        "c": [
         {
          "t": "text",
@@ -1572,7 +1558,7 @@
    }
   ]
  },
- "wordCount": 3482,
+ "wordCount": 3470,
  "openItems": 14,
  "source": {
   "file": "B2-60_Detroit-Car-Accident-Lawyer.docx",
