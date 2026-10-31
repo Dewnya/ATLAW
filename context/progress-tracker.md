@@ -846,6 +846,9 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - The 12 Dearborn closing sections said "stop by the office on Michigan Avenue" (the old address and a walk-in offer); they now give the phone, the form and the firm's visit sentence
   - Open items: 706 on 152 pages, grouped into 540 questions in `deliverables/ATLAW-open-items-for-firm.xlsx` (not committed): 171 for the firm (272 spots), 285 attorney checks (320), 84 fact checks for the web team (114). Its Read me also asks the firm to settle whether ATLAW takes product liability, VA and long-term disability cases, since the confirmations tab lists only auto, slip and fall and medical malpractice
   - Verified: import 269 drafts, typecheck and production build clean (7 pages); the Dearborn car, Troy malpractice and birth asphyxia pages render the new text with no "office on Michigan Avenue"
+- [x] Open items added to the Content Tracker as tabs (Oct 31, 2026)
+  - Five tabs after firm-confirmations: `open-items` (how to answer, totals by formula), `open-firm-questions`, `open-attorney-checks`, `open-fact-checks` (answer in the yellow column), and `open-items-all` (one row per spot). The firm answers there; the xlsx stays as a local copy
+  - Spots, Pages, Example page and All pages on the question tabs are formulas over `open-items-all`, and its excerpts point back at the question tabs, so a row deleted there updates the counts. Read back and compared with the xlsx: identical apart from non-breaking spaces
 
 ### Open Questions
 
