@@ -814,6 +814,11 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - Firm items from her Overview: the Ann Arbor dog bite-report count needs a FOIA request; the Ypsilanti Township renter share still needs to be pulled from QuickFacts
   - Open items: none on these four pages (the Pittsfield Township hub keeps its three batch 26 markers)
   - Verified: import 263 drafts, typecheck and production build clean (7 pages); the four pages and the three hubs render with no artifacts
+- [x] City practice pages, batch 45: Ypsilanti truck, motorcycle, wrongful death (Oct 30, 2026) — B4-71 to B4-73; the last batch in the attorney-review zip
+  - 78 attorney-review comments applied, plus six by hand, including: the State does not publish truck or motorcycle crashes by community, so both placeholders are removed; the 120-day MDOT and EMU road-defect notice, with the six-month notice for an EMU vehicle or other claim and 120 days for a University building; MDOT's freeway cameras are not recorded; the FMCSA Company Snapshot does not show insurance; the car-door statute citation; "brick" downtown streets removed as unsupported; a pavement drop-off is a defect claim only in the traveled lanes; no mini tort for a motorcycle (answering the batch-wide check carried from B4-62); moped riders with no household policy go to the Assigned Claims Plan; the damages caps include product liability; the lower malpractice cap generally applies in death cases; "one attorney and one point of contact" removed; City of Ypsilanti civil cases go to the 14A-1 District Court; the office address; and her section approvals
+  - Also fixed: the motorcycle mini tort row deleted; two doubled list markers and a merged MDOT/EMU bullet split apart; the truck State deadline row rebuilt into three cells; *Nerat v Swacker* italicized
+  - Open items: none on these three pages; the paragraph-merge audit found none in this batch
+  - Verified: import 266 drafts, typecheck and production build clean (7 pages); the three pages and the hub render with 3-cell tables and no artifacts
 
 ### Open Questions
 
