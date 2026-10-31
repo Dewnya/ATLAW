@@ -933,31 +933,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Malpractice cases are expensive to bring: the same-specialty expert’s review, affidavit, and testimony alone run to tens of thousands of dollars. ATLAW handles malpractice cases on contingency, advances the costs, and recovers them only from a settlement or verdict. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "fee terms, cost advancing, and the fee percentage applied to malpractice cases under MCR 8.121"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " The first conversation and the initial records review are free. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": ""
-        }
-       ]
+       "v": "Malpractice cases are expensive to bring: the same-specialty expert’s review, affidavit, and testimony alone run to tens of thousands of dollars. ATLAW handles malpractice cases on contingency, advances the costs, and recovers them only from a settlement or verdict. Case costs are deducted from the recovery first, and the one-third fee is calculated on the remaining amount; if there is no recovery, you owe no fee and no costs. The first conversation and the initial records review are free."
       }
      ]
     }
@@ -1344,8 +1320,8 @@
    }
   ]
  },
- "wordCount": 2442,
- "openItems": 9,
+ "wordCount": 2454,
+ "openItems": 7,
  "source": {
   "file": "B2-66_Detroit-Medical-Malpractice-Lawyer.docx",
   "delivered": "2026-10-16"

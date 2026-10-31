@@ -597,17 +597,7 @@
       },
       {
        "t": "text",
-       "v": " Tell Social Security in writing which language you need. At the hearing, the judge, the vocational expert, and your lawyer speak through the interpreter, and what you say about your limitations is the evidence. We prepare you for that hearing in your language. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "Arabic-language preparation"
-        }
-       ]
+       "v": " Tell Social Security in writing which language you need. At the hearing, the judge, the vocational expert, and your lawyer speak through the interpreter, and what you say about your limitations is the evidence. We prepare you for that hearing in English, Arabic, French, Mandarin, Urdu, or Spanish."
       }
      ]
     }
@@ -1249,21 +1239,7 @@
      },
      {
       "t": "text",
-      "v": ", send the form on this page, or stop by the office on Michigan Avenue. "
-     },
-     {
-      "t": "strong",
-      "c": [
-       {
-        "t": "placeholder",
-        "kind": "CONFIRM",
-        "v": "walk-ins"
-       }
-      ]
-     },
-     {
-      "t": "text",
-      "v": " We will tell you where your claim stands, what the record needs, and what the deadline is. The review is free, and the fee is paid only from back benefits if you win."
+      "v": " or send the form on this page. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed. We will tell you where your claim stands, what the record needs, and what the deadline is. The review is free, and the fee is paid only from back benefits if you win."
      }
     ]
    },
@@ -1283,8 +1259,8 @@
    }
   ]
  },
- "wordCount": 1954,
- "openItems": 15,
+ "wordCount": 1972,
+ "openItems": 13,
  "source": {
   "file": "B2-82_Dearborn-Social-Security-Disability-Lawyer.docx",
   "delivered": "2026-10-16"

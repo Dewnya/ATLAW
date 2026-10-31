@@ -120,6 +120,6 @@ Workers’ compensation is your exclusive remedy against an insured employer (MC
 
 ## Talk to a Dearborn workers’ compensation lawyer
 
-If you were hurt at work anywhere in Dearborn, call **(313) 406-7606**, send the form on this page, or stop by the office on Michigan Avenue. **[CONFIRM: walk-ins]** We will tell you what benefits you are owed, whether the denial can be beaten, whether your employer is insured, and whether someone other than your employer can be sued. The review is free, and there is no fee unless we recover benefits for you.
+If you were hurt at work anywhere in Dearborn, call **(313) 406-7606** or send the form on this page. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed. We will tell you what benefits you are owed, whether the denial can be beaten, whether your employer is insured, and whether someone other than your employer can be sued. The review is free, and there is no fee unless we recover benefits for you.
 
 *This page is general information about Michigan law as of October 2026 and is not legal advice. Benefit figures are from the Michigan Workers’ Disability Compensation Agency. Results depend on the facts of each case, and past results do not guarantee a future outcome.*

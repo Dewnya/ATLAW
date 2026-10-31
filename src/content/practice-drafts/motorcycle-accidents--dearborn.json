@@ -1069,21 +1069,7 @@
      },
      {
       "t": "text",
-      "v": ", send the form on this page, or stop by the office on Michigan Avenue. "
-     },
-     {
-      "t": "strong",
-      "c": [
-       {
-        "t": "placeholder",
-        "kind": "CONFIRM",
-        "v": "walk-ins"
-       }
-      ]
-     },
-     {
-      "t": "text",
-      "v": " We will tell you which insurer owes your benefits, whether you have a claim against the driver or the road agency, and what to do first. The review is free, and there is no fee unless we recover money for you."
+      "v": " or send the form on this page. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed. We will tell you which insurer owes your benefits, whether you have a claim against the driver or the road agency, and what to do first. The review is free, and there is no fee unless we recover money for you."
      }
     ]
    },
@@ -1103,8 +1089,8 @@
    }
   ]
  },
- "wordCount": 2159,
- "openItems": 8,
+ "wordCount": 2175,
+ "openItems": 7,
  "source": {
   "file": "B2-75_Dearborn-Motorcycle-Accident-Lawyer.docx",
   "delivered": "2026-10-16"

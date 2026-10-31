@@ -78,7 +78,7 @@ A bad outcome is not malpractice. Malpractice is a bad outcome caused by a provi
 
 ## What it costs
 
-Malpractice cases are expensive to bring; the same-specialty expert’s review, affidavit, and testimony alone can run to tens of thousands of dollars. ATLAW handles them on contingency, advances the costs, and recovers them only from a settlement or verdict. Contingent fees in Michigan injury cases are limited to one-third of the net recovery (MCR 8.121). **[CONFIRM: fee terms and cost advancing]** The first conversation and the initial records review are free. **[CONFIRM]**
+Malpractice cases are expensive to bring; the same-specialty expert’s review, affidavit, and testimony alone can run to tens of thousands of dollars. ATLAW handles them on contingency, advances the costs, and recovers them only from a settlement or verdict. Contingent fees in Michigan injury cases are limited to one-third of the net recovery (MCR 8.121). At ATLAW, case costs are deducted from the recovery first, and the one-third fee is calculated on the remaining amount; if there is no recovery, you owe no fee and no costs. The first conversation and the initial records review are free.
 
 ## Deadlines for Southfield medical malpractice claims
 
@@ -99,7 +99,7 @@ Malpractice cases are expensive to bring; the same-specialty expert’s review, 
 - The defendant and the forum identified before the Notice of Intent is written: hospital entity, physician group, independent practice, federal clinic, or City.
 - Prompt attention to requesting the records; expert review before anything is filed; costs advanced.
 - Honest evaluation: many bad outcomes are not malpractice, and we say so at no charge.
-- No fee unless we recover money for you. **[CONFIRM: fee terms]**
+- No attorney fee or case costs unless we recover money for you.
 
 ## Frequently asked questions
 

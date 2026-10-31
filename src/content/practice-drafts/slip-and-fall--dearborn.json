@@ -1112,21 +1112,7 @@
      },
      {
       "t": "text",
-      "v": ", send the form on this page, or stop by the office on Michigan Avenue. "
-     },
-     {
-      "t": "strong",
-      "c": [
-       {
-        "t": "placeholder",
-        "kind": "CONFIRM",
-        "v": "walk-ins"
-       }
-      ]
-     },
-     {
-      "t": "text",
-      "v": " We will tell you who owed you the duty, what notice applies, and what to preserve today. The review is free, and there is no fee unless we recover money for you."
+      "v": " or send the form on this page. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed. We will tell you who owed you the duty, what notice applies, and what to preserve today. The review is free, and there is no fee unless we recover money for you."
      }
     ]
    },
@@ -1146,8 +1132,8 @@
    }
   ]
  },
- "wordCount": 2068,
- "openItems": 6,
+ "wordCount": 2084,
+ "openItems": 5,
  "source": {
   "file": "B2-77_Dearborn-Slip-and-Fall-Lawyer.docx",
   "delivered": "2026-10-16"

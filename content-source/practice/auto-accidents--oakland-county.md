@@ -81,7 +81,7 @@ Our [full checklist](/resources/what-to-do-after-an-accident) covers the first d
 - 13 years, more than 10,000 cases, more than $100 million recovered for clients across southeast Michigan.
 - Regular practice in the Sixth Circuit and the Oakland County district courts, and with the insurers that write Oakland County policies, the RCOC, and SMART.
 - Every household policy reviewed for PIP level, UM/UIM, and collision before the claim is valued, and the UIM consent handled before any settlement.
-- No fee unless we recover money for you. The first conversation is free. **[CONFIRM: fee terms]**
+- No attorney fee or case costs unless we recover money for you. The first conversation is free.
 - **Languages.** Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish.
 - **Consultations.** We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 

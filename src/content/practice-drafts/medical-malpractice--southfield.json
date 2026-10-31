@@ -869,31 +869,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Malpractice cases are expensive to bring; the same-specialty expert’s review, affidavit, and testimony alone can run to tens of thousands of dollars. ATLAW handles them on contingency, advances the costs, and recovers them only from a settlement or verdict. Contingent fees in Michigan injury cases are limited to one-third of the net recovery (MCR 8.121). "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "fee terms and cost advancing"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " The first conversation and the initial records review are free. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": ""
-        }
-       ]
+       "v": "Malpractice cases are expensive to bring; the same-specialty expert’s review, affidavit, and testimony alone can run to tens of thousands of dollars. ATLAW handles them on contingency, advances the costs, and recovers them only from a settlement or verdict. Contingent fees in Michigan injury cases are limited to one-third of the net recovery (MCR 8.121). At ATLAW, case costs are deducted from the recovery first, and the one-third fee is calculated on the remaining amount; if there is no recovery, you owe no fee and no costs. The first conversation and the initial records review are free."
       }
      ]
     }
@@ -1124,17 +1100,7 @@
       [
        {
         "t": "text",
-        "v": "No fee unless we recover money for you. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "fee terms"
-         }
-        ]
+        "v": "No attorney fee or case costs unless we recover money for you."
        }
       ]
      ]
@@ -1240,8 +1206,8 @@
    }
   ]
  },
- "wordCount": 2046,
- "openItems": 7,
+ "wordCount": 2071,
+ "openItems": 4,
  "source": {
   "file": "B3-07_Southfield-Medical-Malpractice-Lawyer.docx",
   "delivered": "October 23, 2026 [CONFIRM: Batch 3 delivery date]"

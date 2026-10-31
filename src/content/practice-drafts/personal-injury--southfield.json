@@ -642,21 +642,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Michigan caps contingency fees in injury cases at one-third of the net recovery (MCR 8.121). "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "firm’s fee terms and how costs are handled"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " You pay nothing up front and nothing if there is no recovery. The agreement is in writing; read how costs (filing fees, records, experts, depositions) are handled if the case is lost, because that is where firms differ."
+       "v": "Michigan caps contingency fees in injury cases at one-third of the net recovery (MCR 8.121). ATLAW’s fee is one-third, calculated on the recovery after case costs are deducted, and the firm advances the costs. You pay nothing up front and nothing if there is no recovery. The agreement is in writing; read how costs (filing fees, records, experts, depositions) are handled if the case is lost, because that is where firms differ."
       }
      ]
     }
@@ -1107,8 +1093,8 @@
    }
   ]
  },
- "wordCount": 1841,
- "openItems": 6,
+ "wordCount": 1851,
+ "openItems": 5,
  "source": {
   "file": "B3-02_Southfield-Personal-Injury-Lawyer.docx",
   "delivered": "October 23, 2026 [CONFIRM: Batch 3 delivery date]"

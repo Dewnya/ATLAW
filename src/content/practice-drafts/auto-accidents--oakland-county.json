@@ -901,17 +901,7 @@
       [
        {
         "t": "text",
-        "v": "No fee unless we recover money for you. The first conversation is free. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "fee terms"
-         }
-        ]
+        "v": "No attorney fee or case costs unless we recover money for you. The first conversation is free."
        }
       ],
       [
@@ -1056,8 +1046,8 @@
    }
   ]
  },
- "wordCount": 2012,
- "openItems": 6,
+ "wordCount": 2013,
+ "openItems": 5,
  "source": {
   "file": "B2-35_Oakland-County-Car-Accident-Lawyer.docx",
   "delivered": "2026-10-16"

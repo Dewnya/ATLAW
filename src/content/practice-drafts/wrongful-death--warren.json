@@ -1125,17 +1125,7 @@
       [
        {
         "t": "text",
-        "v": "No fee unless we recover money for the estate; fees are approved by the probate court. The first conversation is free. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "fee terms; costs advanced"
-         }
-        ]
+        "v": "No attorney fee or case costs unless we recover money for the estate; fees are approved by the probate court. The first conversation is free."
        }
       ]
      ]
@@ -1241,8 +1231,8 @@
    }
   ]
  },
- "wordCount": 2377,
- "openItems": 5,
+ "wordCount": 2376,
+ "openItems": 4,
  "source": {
   "file": "B3-15_Warren-Wrongful-Death-Lawyer.docx",
   "delivered": "October 23, 2026 [CONFIRM: Batch 3 delivery date]"

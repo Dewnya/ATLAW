@@ -65,7 +65,7 @@ Economic damages (medical expenses, lost wages, lost earning capacity, replaceme
 
 ## What it costs
 
-Michigan caps contingency fees in injury cases at one-third of the net recovery (MCR 8.121), and that is the fee in nearly every Dearborn injury case. **[CONFIRM: firm’s fee terms and how costs are handled]** You pay nothing up front and nothing if there is no recovery. The agreement is in writing.
+Michigan caps contingency fees in injury cases at one-third of the net recovery (MCR 8.121), and ATLAW’s fee is one-third, calculated on the recovery after case costs are deducted. You pay nothing up front and nothing if there is no recovery. The agreement is in writing.
 
 ## Questions to ask before you hire a Dearborn personal injury lawyer
 
@@ -94,7 +94,7 @@ Michigan caps contingency fees in injury cases at one-third of the net recovery 
 - 13 years, more than 10,000 cases, more than $100 million recovered.
 - Daily work in the 19th District, the Third Circuit, and the Wayne County Probate Court, and with the insurers, the City, SMART, and the employers that defend Dearborn claims.
 - Consultations can be accommodated in English, Arabic, French, Mandarin, Urdu, and Spanish. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
-- No fee unless we recover money for you. The first conversation is free. **[CONFIRM: fee terms]**
+- No attorney fee or case costs unless we recover money for you. The first conversation is free.
 
 ## Frequently asked questions
 
@@ -116,6 +116,6 @@ Michigan caps contingency fees in injury cases at one-third of the net recovery 
 
 ## Talk to a Dearborn personal injury lawyer
 
-If you were injured in Dearborn, call **(313) 406-7606**, send the form on this page, or stop by the office on Michigan Avenue. **[CONFIRM: walk-ins]** We will tell you what deadlines apply, which insurers and agencies are involved, and what to do first. The review is free, and there is no fee unless we recover money for you.
+If you were injured in Dearborn, call **(313) 406-7606** or send the form on this page. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed. We will tell you what deadlines apply, which insurers and agencies are involved, and what to do first. The review is free, and there is no fee unless we recover money for you.
 
 *This page is general information about Michigan law as of October 2026 and is not legal advice. Crash figures are from the Michigan State Police, Michigan Traffic Crash Facts 2024. Results depend on the facts of each case, and past results do not guarantee a future outcome.*

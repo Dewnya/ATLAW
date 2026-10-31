@@ -696,21 +696,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Michigan caps contingency fees in injury cases at one-third of the net recovery (MCR 8.121), and that is the fee in nearly every Dearborn injury case. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "firm’s fee terms and how costs are handled"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " You pay nothing up front and nothing if there is no recovery. The agreement is in writing."
+       "v": "Michigan caps contingency fees in injury cases at one-third of the net recovery (MCR 8.121), and ATLAW’s fee is one-third, calculated on the recovery after case costs are deducted. You pay nothing up front and nothing if there is no recovery. The agreement is in writing."
       }
      ]
     }
@@ -1021,17 +1007,7 @@
       [
        {
         "t": "text",
-        "v": "No fee unless we recover money for you. The first conversation is free. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "fee terms"
-         }
-        ]
+        "v": "No attorney fee or case costs unless we recover money for you. The first conversation is free."
        }
       ]
      ]
@@ -1145,21 +1121,7 @@
      },
      {
       "t": "text",
-      "v": ", send the form on this page, or stop by the office on Michigan Avenue. "
-     },
-     {
-      "t": "strong",
-      "c": [
-       {
-        "t": "placeholder",
-        "kind": "CONFIRM",
-        "v": "walk-ins"
-       }
-      ]
-     },
-     {
-      "t": "text",
-      "v": " We will tell you what deadlines apply, which insurers and agencies are involved, and what to do first. The review is free, and there is no fee unless we recover money for you."
+      "v": " or send the form on this page. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed. We will tell you what deadlines apply, which insurers and agencies are involved, and what to do first. The review is free, and there is no fee unless we recover money for you."
      }
     ]
    },
@@ -1179,8 +1141,8 @@
    }
   ]
  },
- "wordCount": 1788,
- "openItems": 7,
+ "wordCount": 1799,
+ "openItems": 4,
  "source": {
   "file": "B2-73_Dearborn-Personal-Injury-Lawyer.docx",
   "delivered": "2026-10-16"

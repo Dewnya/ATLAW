@@ -104,6 +104,6 @@ The savings provision gives a personal representative time to be appointed and t
 
 ## Talk to a Dearborn wrongful death lawyer
 
-If you have lost a family member in Dearborn because of someone else’s negligence, call **(313) 406-7606**, send the form on this page, or come to the office on Michigan Avenue. **[CONFIRM: walk-ins]** We will explain the probate step, the deadlines, and the benefits available now. The conversation is free and confidential, and there is no fee unless we recover money for the estate.
+If you have lost a family member in Dearborn because of someone else’s negligence, call **(313) 406-7606** or send the form on this page. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed. We will explain the probate step, the deadlines, and the benefits available now. The conversation is free and confidential, and there is no fee unless we recover money for the estate.
 
 *This page is general information about Michigan law as of October 2026 and is not legal advice. Crash figures are from the Michigan State Police, Michigan Traffic Crash Facts 2024. Results depend on the facts of each case, and past results do not guarantee a future outcome.*

@@ -122,7 +122,7 @@ The child’s long deadline is not a reason to wait: the mother’s claim has tw
 - **The strip, the gases, and the imaging preserved and analyzed first**, so the “it happened before labor” defense is met with the criteria the profession itself uses. **[CONFIRM]**
 - **Both claims, child’s and mother’s, with both deadlines calendared.**
 - **Settlements structured to protect the child’s benefits.**  **[CONFIRM: special needs planning coordination]**
-- **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Families come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. **[CONFIRM: home, hospital, and NICU visits]**
+- **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Families come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 - **Languages.** Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish.
 - **No fee unless we recover.** Contingency fee ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs. No cost for the first conversation.
 

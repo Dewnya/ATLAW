@@ -1278,21 +1278,7 @@
      },
      {
       "t": "text",
-      "v": ", send the form on this page, or stop by the office on Michigan Avenue. "
-     },
-     {
-      "t": "strong",
-      "c": [
-       {
-        "t": "placeholder",
-        "kind": "CONFIRM",
-        "v": "walk-ins"
-       }
-      ]
-     },
-     {
-      "t": "text",
-      "v": " We will tell you what benefits you are owed, whether the denial can be beaten, whether your employer is insured, and whether someone other than your employer can be sued. The review is free, and there is no fee unless we recover benefits for you."
+      "v": " or send the form on this page. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed. We will tell you what benefits you are owed, whether the denial can be beaten, whether your employer is insured, and whether someone other than your employer can be sued. The review is free, and there is no fee unless we recover benefits for you."
      }
     ]
    },
@@ -1312,8 +1298,8 @@
    }
   ]
  },
- "wordCount": 2169,
- "openItems": 13,
+ "wordCount": 2185,
+ "openItems": 12,
  "source": {
   "file": "B2-79_Dearborn-Workers-Compensation-Lawyer.docx",
   "delivered": "2026-10-16"

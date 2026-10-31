@@ -61,7 +61,7 @@ Economic damages (medical expenses, lost wages, lost earning capacity, replaceme
 
 ## What it costs
 
-Michigan caps contingency fees in injury cases at one-third of the net recovery (MCR 8.121). **[CONFIRM: firm’s fee terms and how costs are handled]** You pay nothing up front and nothing if there is no recovery. The agreement is in writing; read how costs (filing fees, records, experts, depositions) are handled if the case is lost, because that is where firms differ.
+Michigan caps contingency fees in injury cases at one-third of the net recovery (MCR 8.121). ATLAW’s fee is one-third, calculated on the recovery after case costs are deducted, and the firm advances the costs. You pay nothing up front and nothing if there is no recovery. The agreement is in writing; read how costs (filing fees, records, experts, depositions) are handled if the case is lost, because that is where firms differ.
 
 ## Questions to ask before you hire a Southfield personal injury lawyer
 

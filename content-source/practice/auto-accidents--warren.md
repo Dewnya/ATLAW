@@ -106,7 +106,7 @@ Claims up to $25,000, including mini tort claims, are filed in the 37th District
 - Prompt attention to preserving camera footage, signal data, and vehicle data, because Warren’s intersection cases are won on evidence that disappears.
 - Every household policy, including UM/UIM and umbrella coverage, read before the claim is valued.
 - Claims handled in the 37th District and the Sixteenth Circuit, and with MDOT, the Department of Roads, SMART, and the insurers that write Warren policies. **[CONFIRM: the firm’s Macomb County caseload supports this line]**
-- No fee unless we recover money for you. The first conversation is free. **[CONFIRM: fee terms]**
+- No attorney fee or case costs unless we recover money for you. The first conversation is free.
 
 ## Frequently asked questions
 

@@ -967,17 +967,7 @@
       [
        {
         "t": "text",
-        "v": "No fee unless we recover money for you. The first conversation is free. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "fee terms"
-         }
-        ]
+        "v": "No attorney fee or case costs unless we recover money for you. The first conversation is free."
        }
       ]
      ]
@@ -1072,21 +1062,7 @@
      },
      {
       "t": "text",
-      "v": ", send the form on this page, or stop by the office on Michigan Avenue. "
-     },
-     {
-      "t": "strong",
-      "c": [
-       {
-        "t": "placeholder",
-        "kind": "CONFIRM",
-        "v": "walk-ins"
-       }
-      ]
-     },
-     {
-      "t": "text",
-      "v": " We will tell you which insurers owe you benefits, whether you have a claim against the other driver, and what to do first. The review is free, and there is no fee unless we recover money for you."
+      "v": " or send the form on this page. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed. We will tell you which insurers owe you benefits, whether you have a claim against the other driver, and what to do first. The review is free, and there is no fee unless we recover money for you."
      }
     ]
    },
@@ -1106,8 +1082,8 @@
    }
   ]
  },
- "wordCount": 1858,
- "openItems": 7,
+ "wordCount": 1875,
+ "openItems": 5,
  "source": {
   "file": "B2-72_Dearborn-Car-Accident-Lawyer.docx",
   "delivered": "2026-10-16"

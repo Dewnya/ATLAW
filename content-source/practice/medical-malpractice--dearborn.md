@@ -75,7 +75,7 @@ A bad outcome is not malpractice. Malpractice is a bad outcome caused by a provi
 
 ## What it costs
 
-Malpractice cases are expensive to bring; the same-specialty expert’s review, affidavit, and testimony alone run to tens of thousands of dollars. ATLAW handles them on contingency, advances the costs, and recovers them only from a settlement or verdict. **[CONFIRM: fee terms, cost advancing, and the percentage applied under MCR 8.121]** The first conversation and the initial records review are free. **[CONFIRM]**
+Malpractice cases are expensive to bring; the same-specialty expert’s review, affidavit, and testimony alone run to tens of thousands of dollars. ATLAW handles them on contingency, advances the costs, and recovers them only from a settlement or verdict. Case costs are deducted from the recovery first, and the one-third fee is calculated on the remaining amount; if there is no recovery, you owe no fee and no costs. The first conversation and the initial records review are free.
 
 ## Deadlines for Dearborn medical malpractice claims
 
@@ -95,7 +95,7 @@ Malpractice cases are expensive to bring; the same-specialty expert’s review, 
 - An office at 3 Parklane Boulevard in Dearborn, minutes from Corewell Dearborn; 13 years, more than 10,000 cases, more than $100 million recovered.
 - The defendant and the forum identified before the Notice of Intent is written: private, federal, or City.
 - Prompt attention to requesting the records; expert review before anything is filed; costs advanced.
-- The consent and language questions asked in every case. **[CONFIRM: languages spoken]**
+- The consent and language questions asked in every case, with consultations in English, Arabic, French, Mandarin, Urdu, and Spanish.
 - Honest evaluation: many bad outcomes are not malpractice, and we say so for free.
 - No fee unless we recover money for you.
 
@@ -115,6 +115,6 @@ Malpractice cases are expensive to bring; the same-specialty expert’s review, 
 
 ## Talk to a Dearborn medical malpractice lawyer
 
-If you or a family member was harmed by medical care in Dearborn, call **(313) 406-7606**, send the form on this page, or stop by the office on Michigan Avenue. **[CONFIRM: walk-ins]** We will tell you whether the deadline is two years or something shorter, who the defendant is, and whether the records support a case. The review is free, and there is no fee unless we recover money for you.
+If you or a family member was harmed by medical care in Dearborn, call **(313) 406-7606** or send the form on this page. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed. We will tell you whether the deadline is two years or something shorter, who the defendant is, and whether the records support a case. The review is free, and there is no fee unless we recover money for you.
 
 *This page is general information about Michigan and federal law as of October 2026 and is not legal advice. Cap figures are from the Michigan Department of Treasury’s annual adjustment under MCL 600.1483. Results depend on the facts of each case, and past results do not guarantee a future outcome.*

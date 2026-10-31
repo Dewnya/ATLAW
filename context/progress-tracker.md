@@ -841,6 +841,12 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - Open items: none; 49 questions in 9 topics
   - Verified: import 269 drafts; typecheck and production build clean (7 pages); a drafts build prerenders `/faq` (canonical `/faq`, Article, FAQPage with 49 questions, BreadcrumbList, answers in the HTML); in the browser the page shows 9 topics with a contents list and 49 questions, the deadlines answer opens with its table, and there is no horizontal scroll at phone width
 
+- [x] Firm-confirmed answers applied to open items (Oct 30, 2026)
+  - 37 open items the firm had already answered in the Content Tracker's firm-confirmations tab are filled: fee and cost terms on 17 car, personal injury, malpractice, nursing home and wrongful death spots ("No attorney fee or case costs unless we recover…"; costs deducted first and the one-third fee calculated on the remainder; no fee and no costs without a recovery), the firm's visit sentence on the four birth-injury pages, and the six languages on the Dearborn malpractice and Social Security pages
+  - The 12 Dearborn closing sections said "stop by the office on Michigan Avenue" (the old address and a walk-in offer); they now give the phone, the form and the firm's visit sentence
+  - Open items: 706 on 152 pages, grouped into 540 questions in `deliverables/ATLAW-open-items-for-firm.xlsx` (not committed): 171 for the firm (272 spots), 285 attorney checks (320), 84 fact checks for the web team (114). Its Read me also asks the firm to settle whether ATLAW takes product liability, VA and long-term disability cases, since the confirmations tab lists only auto, slip and fall and medical malpractice
+  - Verified: import 269 drafts, typecheck and production build clean (7 pages); the Dearborn car, Troy malpractice and birth asphyxia pages render the new text with no "office on Michigan Avenue"
+
 ### Open Questions
 
 - [ ] **PRE-LAUNCH — Text Us number.** Confirm with the firm whether (313) 406-7606 can receive SMS, or get a dedicated SMS number. Then set `SMS_NUMBER` in `src/data/contact.ts` (the Text buttons in the header and mobile bar appear automatically).

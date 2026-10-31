@@ -114,6 +114,6 @@ Most Dearborn truck cases are filed in the Third Judicial Circuit Court in Detro
 
 ## Talk to a Dearborn truck accident lawyer
 
-If you or a family member was hit by a commercial truck anywhere in Dearborn, call **(313) 406-7606**, send the form on this page, or stop by the office on Michigan Avenue. **[CONFIRM: walk-ins]** We will send the preservation letter, identify the carrier and its insurers, and tell you what your claim is. The review is free, and there is no fee unless we recover money for you.
+If you or a family member was hit by a commercial truck anywhere in Dearborn, call **(313) 406-7606** or send the form on this page. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed. We will send the preservation letter, identify the carrier and its insurers, and tell you what your claim is. The review is free, and there is no fee unless we recover money for you.
 
 *This page is general information about Michigan and federal law as of October 2026 and is not legal advice. Crash figures are from the Michigan State Police, Michigan Traffic Crash Facts 2024. Results depend on the facts of each case, and past results do not guarantee a future outcome.*

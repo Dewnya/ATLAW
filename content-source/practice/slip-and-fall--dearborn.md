@@ -105,6 +105,6 @@ Fall suits over $25,000 are filed in the Third Judicial Circuit Court in Detroit
 
 ## Talk to a Dearborn slip and fall lawyer
 
-If you were hurt in a fall anywhere in Dearborn, call **(313) 406-7606**, send the form on this page, or stop by the office on Michigan Avenue. **[CONFIRM: walk-ins]** We will tell you who owed you the duty, what notice applies, and what to preserve today. The review is free, and there is no fee unless we recover money for you.
+If you were hurt in a fall anywhere in Dearborn, call **(313) 406-7606** or send the form on this page. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed. We will tell you who owed you the duty, what notice applies, and what to preserve today. The review is free, and there is no fee unless we recover money for you.
 
 *This page is general information about Michigan law as of October 2026 and is not legal advice. Results depend on the facts of each case, and past results do not guarantee a future outcome.*

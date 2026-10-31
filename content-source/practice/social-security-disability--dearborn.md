@@ -54,7 +54,7 @@ Social Security uses a five-step sequential evaluation (20 CFR 404.1520), decidi
 
 ## Your right to an interpreter
 
-Social Security provides a free interpreter at every stage, at the field office, by phone, at the consultative examination, and at the hearing; you do not need to bring a family member to interpret, and in most cases should not. **[VERIFY]** Tell Social Security in writing which language you need. At the hearing, the judge, the vocational expert, and your lawyer speak through the interpreter, and what you say about your limitations is the evidence. We prepare you for that hearing in your language. **[CONFIRM: Arabic-language preparation]**
+Social Security provides a free interpreter at every stage, at the field office, by phone, at the consultative examination, and at the hearing; you do not need to bring a family member to interpret, and in most cases should not. **[VERIFY]** Tell Social Security in writing which language you need. At the hearing, the judge, the vocational expert, and your lawyer speak through the interpreter, and what you say about your limitations is the evidence. We prepare you for that hearing in English, Arabic, French, Mandarin, Urdu, or Spanish.
 
 ## Where the evidence comes from in Dearborn
 
@@ -119,6 +119,6 @@ SSDI benefits begin five full months after the established onset date; SSI is no
 
 ## Talk to a Dearborn Social Security Disability lawyer
 
-If you are applying for Social Security Disability in Dearborn or have been denied, call **(313) 406-7606**, send the form on this page, or stop by the office on Michigan Avenue. **[CONFIRM: walk-ins]** We will tell you where your claim stands, what the record needs, and what the deadline is. The review is free, and the fee is paid only from back benefits if you win.
+If you are applying for Social Security Disability in Dearborn or have been denied, call **(313) 406-7606** or send the form on this page. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed. We will tell you where your claim stands, what the record needs, and what the deadline is. The review is free, and the fee is paid only from back benefits if you win.
 
 *This page is general information about federal disability law as of October 2026 and is not legal advice. Program figures are from the Social Security Administration. Results depend on the facts of each case, and past results do not guarantee a future outcome.*

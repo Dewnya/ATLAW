@@ -108,7 +108,7 @@ The injury (a stage 4 sore requiring surgery, a hip fracture, sepsis, death); wh
 - Every case reviewed for both ordinary negligence and malpractice, so the three-year claims are preserved and the two-year claims are filed correctly.
 - Prompt attention to requesting and preserving the chart, incident reports, staffing records, and LARA file.
 - Expert costs for malpractice claims advanced.
-- No fee unless we recover money for the resident or the estate. The first conversation is free. **[CONFIRM: fee terms]**
+- No attorney fee or case costs unless we recover money for the resident or the estate. The first conversation is free.
 - Consultations can be accommodated in English, Arabic, French, Mandarin, Urdu, and Spanish. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 ## Frequently asked questions
 

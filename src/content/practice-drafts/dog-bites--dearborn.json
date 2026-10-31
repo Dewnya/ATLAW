@@ -997,21 +997,7 @@
      },
      {
       "t": "text",
-      "v": ", send the form on this page, or stop by the office on Michigan Avenue. "
-     },
-     {
-      "t": "strong",
-      "c": [
-       {
-        "t": "placeholder",
-        "kind": "CONFIRM",
-        "v": "walk-ins"
-       }
-      ]
-     },
-     {
-      "t": "text",
-      "v": " We will tell you who is liable, whether there is insurance, and what to do this week. The review is free, and there is no fee unless we recover money for you."
+      "v": " or send the form on this page. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed. We will tell you who is liable, whether there is insurance, and what to do this week. The review is free, and there is no fee unless we recover money for you."
      }
     ]
    },
@@ -1031,8 +1017,8 @@
    }
   ]
  },
- "wordCount": 1999,
- "openItems": 4,
+ "wordCount": 2015,
+ "openItems": 3,
  "source": {
   "file": "B2-80_Dearborn-Dog-Bite-Lawyer.docx",
   "delivered": "2026-10-16"

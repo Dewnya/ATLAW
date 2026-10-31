@@ -78,7 +78,7 @@ A bad outcome is not malpractice. Malpractice is a bad outcome caused by a provi
 
 ## What a Detroit malpractice case costs
 
-Malpractice cases are expensive to bring: the same-specialty expert’s review, affidavit, and testimony alone run to tens of thousands of dollars. ATLAW handles malpractice cases on contingency, advances the costs, and recovers them only from a settlement or verdict. **[CONFIRM: fee terms, cost advancing, and the fee percentage applied to malpractice cases under MCR 8.121]** The first conversation and the initial records review are free. **[CONFIRM]**
+Malpractice cases are expensive to bring: the same-specialty expert’s review, affidavit, and testimony alone run to tens of thousands of dollars. ATLAW handles malpractice cases on contingency, advances the costs, and recovers them only from a settlement or verdict. Case costs are deducted from the recovery first, and the one-third fee is calculated on the remaining amount; if there is no recovery, you owe no fee and no costs. The first conversation and the initial records review are free.
 
 ## Deadlines for Detroit medical malpractice claims
 

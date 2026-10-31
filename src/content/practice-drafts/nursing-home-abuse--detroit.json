@@ -1058,17 +1058,7 @@
       [
        {
         "t": "text",
-        "v": "No fee unless we recover money for the resident or the estate. The first conversation is free. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "fee terms"
-         }
-        ]
+        "v": "No attorney fee or case costs unless we recover money for the resident or the estate. The first conversation is free."
        }
       ],
       [
@@ -1208,8 +1198,8 @@
    }
   ]
  },
- "wordCount": 2298,
- "openItems": 7,
+ "wordCount": 2299,
+ "openItems": 6,
  "source": {
   "file": "B2-71_Detroit-Nursing-Home-Abuse-Lawyer.docx",
   "delivered": "2026-10-16"

@@ -1023,21 +1023,7 @@
      },
      {
       "t": "text",
-      "v": ", send the form on this page, or come to the office on Michigan Avenue. "
-     },
-     {
-      "t": "strong",
-      "c": [
-       {
-        "t": "placeholder",
-        "kind": "CONFIRM",
-        "v": "walk-ins"
-       }
-      ]
-     },
-     {
-      "t": "text",
-      "v": " We will explain the probate step, the deadlines, and the benefits available now. The conversation is free and confidential, and there is no fee unless we recover money for the estate."
+      "v": " or send the form on this page. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed. We will explain the probate step, the deadlines, and the benefits available now. The conversation is free and confidential, and there is no fee unless we recover money for the estate."
      }
     ]
    },
@@ -1057,8 +1043,8 @@
    }
   ]
  },
- "wordCount": 2029,
- "openItems": 4,
+ "wordCount": 2045,
+ "openItems": 3,
  "source": {
   "file": "B2-76_Dearborn-Wrongful-Death-Lawyer.docx",
   "delivered": "2026-10-16"

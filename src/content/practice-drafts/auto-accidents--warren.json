@@ -1142,17 +1142,7 @@
       [
        {
         "t": "text",
-        "v": "No fee unless we recover money for you. The first conversation is free. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "fee terms"
-         }
-        ]
+        "v": "No attorney fee or case costs unless we recover money for you. The first conversation is free."
        }
       ]
      ]
@@ -1267,8 +1257,8 @@
    }
   ]
  },
- "wordCount": 2242,
- "openItems": 7,
+ "wordCount": 2243,
+ "openItems": 6,
  "source": {
   "file": "B3-11_Warren-Car-Accident-Lawyer.docx",
   "delivered": "October 23, 2026 [CONFIRM: Batch 3 delivery date]"

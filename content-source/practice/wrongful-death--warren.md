@@ -98,7 +98,7 @@ The savings provision adds only a limited period and courts apply it strictly. O
 - 13 years of Michigan injury practice; one attorney and one point of contact for the probate petition, the survivor’s loss claim, the suit, and the distribution hearing.
 - More than 10,000 cases; more than $100 million recovered.
 - Workplace deaths reviewed for every third party and for the comp death benefits at the same time.
-- No fee unless we recover money for the estate; fees are approved by the probate court. The first conversation is free. **[CONFIRM: fee terms; costs advanced]**
+- No attorney fee or case costs unless we recover money for the estate; fees are approved by the probate court. The first conversation is free.
 
 ## Frequently asked questions
 

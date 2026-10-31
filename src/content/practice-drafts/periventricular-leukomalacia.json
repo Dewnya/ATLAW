@@ -1668,17 +1668,7 @@
        },
        {
         "t": "text",
-        "v": " Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Families come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "home, hospital, and NICU visits"
-         }
-        ]
+        "v": " Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Families come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed."
        }
       ],
       [
@@ -1862,8 +1852,8 @@
    }
   ]
  },
- "wordCount": 3417,
- "openItems": 8,
+ "wordCount": 3436,
+ "openItems": 7,
  "source": {
   "file": "B2-11_Michigan-Periventricular-Leukomalacia-Lawyer.docx",
   "delivered": "2026-10-16"

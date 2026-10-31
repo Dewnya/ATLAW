@@ -842,31 +842,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Malpractice cases are expensive to bring; the same-specialty expert’s review, affidavit, and testimony alone run to tens of thousands of dollars. ATLAW handles them on contingency, advances the costs, and recovers them only from a settlement or verdict. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "fee terms, cost advancing, and the percentage applied under MCR 8.121"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " The first conversation and the initial records review are free. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": ""
-        }
-       ]
+       "v": "Malpractice cases are expensive to bring; the same-specialty expert’s review, affidavit, and testimony alone run to tens of thousands of dollars. ATLAW handles them on contingency, advances the costs, and recovers them only from a settlement or verdict. Case costs are deducted from the recovery first, and the one-third fee is calculated on the remaining amount; if there is no recovery, you owe no fee and no costs. The first conversation and the initial records review are free."
       }
      ]
     }
@@ -1091,17 +1067,7 @@
       [
        {
         "t": "text",
-        "v": "The consent and language questions asked in every case. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "languages spoken"
-         }
-        ]
+        "v": "The consent and language questions asked in every case, with consultations in English, Arabic, French, Mandarin, Urdu, and Spanish."
        }
       ],
       [
@@ -1199,21 +1165,7 @@
      },
      {
       "t": "text",
-      "v": ", send the form on this page, or stop by the office on Michigan Avenue. "
-     },
-     {
-      "t": "strong",
-      "c": [
-       {
-        "t": "placeholder",
-        "kind": "CONFIRM",
-        "v": "walk-ins"
-       }
-      ]
-     },
-     {
-      "t": "text",
-      "v": " We will tell you whether the deadline is two years or something shorter, who the defendant is, and whether the records support a case. The review is free, and there is no fee unless we recover money for you."
+      "v": " or send the form on this page. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed. We will tell you whether the deadline is two years or something shorter, who the defendant is, and whether the records support a case. The review is free, and there is no fee unless we recover money for you."
      }
     ]
    },
@@ -1233,8 +1185,8 @@
    }
   ]
  },
- "wordCount": 1887,
- "openItems": 10,
+ "wordCount": 1926,
+ "openItems": 6,
  "source": {
   "file": "B2-78_Dearborn-Medical-Malpractice-Lawyer.docx",
   "delivered": "2026-10-16"

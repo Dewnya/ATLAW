@@ -1033,17 +1033,7 @@
       [
        {
         "t": "text",
-        "v": "No fee unless we recover money for the resident or the estate; expert costs for malpractice claims advanced. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "fee terms and cost handling"
-         }
-        ]
+        "v": "No attorney fee or case costs unless we recover money for the resident or the estate; the firm advances the costs, including expert costs."
        }
       ]
      ]
@@ -1150,7 +1140,7 @@
   ]
  },
  "wordCount": 2018,
- "openItems": 3,
+ "openItems": 2,
  "source": {
   "file": "B3-10_Southfield-Nursing-Home-Abuse-Lawyer.docx",
   "delivered": "October 23, 2026 [CONFIRM: Batch 3 delivery date]"

@@ -108,7 +108,7 @@ Claims are filed in the Sixth Judicial Circuit Court in Pontiac.
 - Every case reviewed for both negligence and malpractice, so neither deadline is missed.
 - Prompt attention to requesting and preserving the chart, incident reports, staffing records, and LARA file.
 - Guardianship, conservatorship, or estate steps handled so the right person can bring the claim.
-- No fee unless we recover money for the resident or the estate; expert costs for malpractice claims advanced. **[CONFIRM: fee terms and cost handling]**
+- No attorney fee or case costs unless we recover money for the resident or the estate; the firm advances the costs, including expert costs.
 
 ## Frequently asked questions
 

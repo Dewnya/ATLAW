@@ -98,7 +98,7 @@ Many admission packets include an agreement to arbitrate. A facility may not req
 - Every case reviewed for both negligence and malpractice, so neither deadline is missed.
 - Prompt attention to requesting and preserving the chart, incident reports, staffing records, and LARA file.
 - Consultations can be accommodated in English, Arabic, French, Mandarin, Urdu, and Spanish.
-- No fee unless we recover money for the resident or the estate; expert costs for malpractice claims advanced. **[CONFIRM: fee terms and cost handling]**
+- No attorney fee or case costs unless we recover money for the resident or the estate; the firm advances the costs, including expert costs.
 
 ## Frequently asked questions
 
@@ -116,6 +116,6 @@ Many admission packets include an agreement to arbitrate. A facility may not req
 
 ## Talk to a Dearborn nursing home abuse lawyer
 
-If you suspect abuse or neglect of a family member in a Dearborn facility, call **(313) 406-7606**, send the form on this page, or stop by the office on Michigan Avenue. **[CONFIRM: walk-ins]** We will tell you where to report today, which deadline applies, and how to get the records. The review is free and confidential, and there is no fee unless we recover money for your family.
+If you suspect abuse or neglect of a family member in a Dearborn facility, call **(313) 406-7606** or send the form on this page. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed. We will tell you where to report today, which deadline applies, and how to get the records. The review is free and confidential, and there is no fee unless we recover money for your family.
 
 *This page is general information about Michigan and federal law as of October 2026 and is not legal advice. Results depend on the facts of each case, and past results do not guarantee a future outcome.*
