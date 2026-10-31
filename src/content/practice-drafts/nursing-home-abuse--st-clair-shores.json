@@ -1311,9 +1311,18 @@
        },
        {
         "t": "text",
-        "v": " for help with care options, in-home services, and moving a resident. All of these can act today. A lawsuit comes later and does not depend on them."
+        "v": " for help with care options, in-home services, and moving a resident."
        }
       ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "All of these can act today. A lawsuit comes later and does not depend on them."
+      }
      ]
     }
    ]
@@ -2099,7 +2108,7 @@
    }
   ]
  },
- "wordCount": 3955,
+ "wordCount": 3954,
  "openItems": 0,
  "source": {
   "file": "B4-53_St-Clair-Shores-Nursing-Home-Abuse-Lawyer.docx",

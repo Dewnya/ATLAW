@@ -1222,9 +1222,18 @@
        },
        {
         "t": "text",
-        "v": " (the Area Agency on Aging 1-C), 734-722-2830, which serves western and southern Wayne County, for help with care options and moving a resident. All of these can act today. A lawsuit comes later and does not depend on them."
+        "v": " (the Area Agency on Aging 1-C), 734-722-2830, which serves western and southern Wayne County, for help with care options and moving a resident."
        }
       ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "All of these can act today. A lawsuit comes later and does not depend on them."
+      }
      ]
     }
    ]
@@ -2004,7 +2013,7 @@
    }
   ]
  },
- "wordCount": 3570,
+ "wordCount": 3569,
  "openItems": 0,
  "source": {
   "file": "B4-43_Westland-Nursing-Home-Abuse-Lawyer.docx",

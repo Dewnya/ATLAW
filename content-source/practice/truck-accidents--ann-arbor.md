@@ -102,7 +102,9 @@ Who the defendant is matters here:
 
 - **A delivery van** operated by a contracted delivery company is a claim against that company and its commercial auto policy.
 - **A construction truck** working a University project is usually owned by a private contractor, and the claim is against the contractor in the circuit court.
-- **A truck the University itself owns** is a claim against the State in the Court of Claims (see below). See our [pedestrian accident page](/personal-injury/pedestrian-accidents) and [bicycle accident page](/personal-injury/bicycle-accidents).
+- **A truck the University itself owns** is a claim against the State in the Court of Claims (see below).
+
+See our [pedestrian accident page](/personal-injury/pedestrian-accidents) and [bicycle accident page](/personal-injury/bicycle-accidents).
 
 **Buses.**
 

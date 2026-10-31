@@ -230,7 +230,9 @@ The practical limit is often insurance:
 - **Your UM and UIM coverage** fill the gap.
 - **In a boating case,** the boat owner’s watercraft or homeowner’s policy pays, and some boats are insured for little or nothing.
 - **In a premises, workplace, or nursing home case,** the commercial policy of the landlord, association, owner, marina, contractor, or operator pays, and those policies are often larger than an auto policy.
-- **In a dram shop case,** the bar’s liquor liability policy adds to it. For a worker with a third-party claim, the workers’ compensation insurer has a lien on the recovery (MCL 418.827). Medicare, Medicaid, and health plan liens are negotiated the same way.
+- **In a dram shop case,** the bar’s liquor liability policy adds to it.
+
+For a worker with a third-party claim, the workers’ compensation insurer has a lien on the recovery (MCL 418.827). Medicare, Medicaid, and health plan liens are negotiated the same way.
 
 ## What it costs
 

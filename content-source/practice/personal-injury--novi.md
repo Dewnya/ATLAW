@@ -168,7 +168,9 @@ The practical limit is often insurance:
 - **The at-fault driver’s limit** defaults to $250,000/$500,000 unless the driver chose lower limits, down to the $50,000/$100,000 minimum (MCL 500.3009(1)).
 - **Your UIM and umbrella coverage** fill the gap.
 - **In a premises, workplace, or nursing home case,** the commercial policy of the property owner, contractor, or operator pays.
-- **In a dram shop case,** the liquor liability policy adds to it. For a worker with a third-party claim, the workers’ compensation insurer has a lien on the recovery (MCL 418.827). How that lien is negotiated changes what you take home. Medicare, Medicaid, and health plan liens are negotiated the same way.
+- **In a dram shop case,** the liquor liability policy adds to it.
+
+For a worker with a third-party claim, the workers’ compensation insurer has a lien on the recovery (MCL 418.827). How that lien is negotiated changes what you take home. Medicare, Medicaid, and health plan liens are negotiated the same way.
 
 ## What it costs
 

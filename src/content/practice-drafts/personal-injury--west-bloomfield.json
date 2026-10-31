@@ -1750,9 +1750,18 @@
        },
        {
         "t": "text",
-        "v": " the commercial policy of the owner, association, or operator pays. For a worker with a third-party claim, the workers’ compensation insurer has a lien on the recovery (MCL 418.827). Medicare, Medicaid, and health plan liens are negotiated the same way."
+        "v": " the commercial policy of the owner, association, or operator pays."
        }
       ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "For a worker with a third-party claim, the workers’ compensation insurer has a lien on the recovery (MCL 418.827). Medicare, Medicaid, and health plan liens are negotiated the same way."
+      }
      ]
     }
    ]
@@ -2365,7 +2374,7 @@
    }
   ]
  },
- "wordCount": 4147,
+ "wordCount": 4146,
  "openItems": 0,
  "source": {
   "file": "B4-34_West-Bloomfield-Personal-Injury-Lawyer.docx",

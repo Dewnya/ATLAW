@@ -1738,9 +1738,18 @@
        },
        {
         "t": "text",
-        "v": " the liquor liability policy adds to it. For a worker with a third-party claim, the workers’ compensation insurer has a lien on the recovery (MCL 418.827). How that lien is negotiated changes what you take home. Medicare, Medicaid, and health plan liens are negotiated the same way."
+        "v": " the liquor liability policy adds to it."
        }
       ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "For a worker with a third-party claim, the workers’ compensation insurer has a lien on the recovery (MCL 418.827). How that lien is negotiated changes what you take home. Medicare, Medicaid, and health plan liens are negotiated the same way."
+      }
      ]
     }
    ]
@@ -2324,7 +2333,7 @@
    }
   ]
  },
- "wordCount": 3858,
+ "wordCount": 3857,
  "openItems": 0,
  "source": {
   "file": "B4-28_Novi-Personal-Injury-Lawyer.docx",

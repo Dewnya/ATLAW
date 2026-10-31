@@ -161,7 +161,9 @@ A transfer to Corewell Health Dearborn Hospital, Garden City Hospital, or anothe
 4. **The Michigan Long-Term Care Ombudsman**, 866-485-9393, a free, independent advocate for residents.
 5. **The Dearborn Heights Police Department** for an assault or theft in the city.
 6. **The Attorney General’s Health Care Fraud Division**, 800-24-ABUSE (800-242-2873) or its online patient-abuse form, for abuse or neglect in a nursing facility.
-7. **The Senior Alliance** (the Area Agency on Aging 1-C), 734-722-2830, which serves western and southern Wayne County, including Dearborn Heights, for help with care options and moving a resident. All of these can act today. A lawsuit comes later and does not depend on them.
+7. **The Senior Alliance** (the Area Agency on Aging 1-C), 734-722-2830, which serves western and southern Wayne County, including Dearborn Heights, for help with care options and moving a resident.
+
+All of these can act today. A lawsuit comes later and does not depend on them.
 
 ## When a staff member is charged with a crime
 

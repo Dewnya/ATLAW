@@ -171,7 +171,9 @@ The practical limit is often insurance:
 - **Umbrella policies** often sit above it, on both sides.
 - **Your UIM coverage** fills the gap.
 - **In a boating case,** the watercraft or homeowner’s policy pays, and an umbrella may apply.
-- **In a premises or nursing home case,** the commercial policy of the owner, association, or operator pays. For a worker with a third-party claim, the workers’ compensation insurer has a lien on the recovery (MCL 418.827). Medicare, Medicaid, and health plan liens are negotiated the same way.
+- **In a premises or nursing home case,** the commercial policy of the owner, association, or operator pays.
+
+For a worker with a third-party claim, the workers’ compensation insurer has a lien on the recovery (MCL 418.827). Medicare, Medicaid, and health plan liens are negotiated the same way.
 
 ## What it costs
 

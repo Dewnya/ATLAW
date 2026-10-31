@@ -838,7 +838,7 @@
        },
        {
         "t": "text",
-        "v": " at the city’s hospitals"
+        "v": " at the hospitals that serve the city"
        }
       ],
       [
@@ -1270,7 +1270,7 @@
    }
   ]
  },
- "wordCount": 2408,
+ "wordCount": 2411,
  "openItems": 0,
  "source": {
   "file": "B4-04_Ann-Arbor-Personal-Injury-Law-Firm.docx",

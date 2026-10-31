@@ -70,7 +70,9 @@ The first conversation is free, in English, Arabic, French, Mandarin, Urdu, or S
 **Deer and the wooded roads.** Novi’s west and north sides have parks, lakes, wetlands, and wooded lots between the subdivisions. Deer cross those roads most often at dawn and dusk, and in the fall. For a rider, a deer strike is often a single-vehicle crash, and that changes the claim:
 
 - **If no car was involved,** there is no no-fault claim. Your bills go to your health insurance and to any medical coverage on the motorcycle policy.
-- **If a car was involved,** for example a driver who swerved or braked for the same deer and forced you down, the car is “involved” and no-fault applies through the rider priority rule below. See our [Novi car accident page](/personal-injury/auto-accidents/novi) for deer crashes in cars.
+- **If a car was involved,** for example a driver who swerved or braked for the same deer and forced you down, the car is “involved” and no-fault applies through the rider priority rule below.
+
+See our [Novi car accident page](/personal-injury/auto-accidents/novi) for deer crashes in cars.
 
 **Gravel, construction, and the warehouse roads.** New subdivisions, commercial buildings, and road projects leave gravel, mud, and debris at site entrances. Trucks turning into the city’s warehouses make wide turns and slow left turns across the lanes. A contractor that tracks gravel onto the road, or a carrier whose truck drops its load, can be responsible.
 

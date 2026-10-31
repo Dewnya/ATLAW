@@ -71,7 +71,7 @@ ATLAW is a personal injury firm in Dearborn, about 35 miles east on I-94. In 13 
 - [Drunk driving](about:blank) crashes and dram shop claims
 - [Slip and fall](about:blank), [premises liability](about:blank), and [tenant injuries](about:blank) in rental and student housing
 - [Dog bites](about:blank)
-- [Medical malpractice](about:blank) and [birth injuries](about:blank) at the city’s hospitals
+- [Medical malpractice](about:blank) and [birth injuries](about:blank) at the hospitals that serve the city
 - [Workers’ compensation](about:blank)
 - [Wrongful death](about:blank)
 - [Brain injuries](about:blank) and [spinal cord injuries](about:blank)

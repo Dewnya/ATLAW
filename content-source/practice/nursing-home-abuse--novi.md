@@ -158,7 +158,9 @@ A transfer to Henry Ford Providence Novi Hospital on Grand River, or to another 
 4. **The Michigan Long-Term Care Ombudsman**, 866-485-9393, a free, independent advocate for residents.
 5. **The Novi Police Department** for an assault or theft in the city.
 6. **The Attorney General’s Health Care Fraud Division**, 800-24-ABUSE (800-242-2873) or its online patient-abuse form, for abuse or neglect in a nursing facility.
-7. **AgeWays Nonprofit Senior Services** (formerly the Area Agency on Aging 1-B), 800-852-7795, which serves Oakland County, for help with care options and moving a resident. All of these can act today. A lawsuit comes later and does not depend on them.
+7. **AgeWays Nonprofit Senior Services** (formerly the Area Agency on Aging 1-B), 800-852-7795, which serves Oakland County, for help with care options and moving a resident.
+
+All of these can act today. A lawsuit comes later and does not depend on them.
 
 ## When a staff member is charged with a crime
 

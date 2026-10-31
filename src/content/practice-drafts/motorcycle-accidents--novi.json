@@ -627,23 +627,32 @@
        },
        {
         "t": "text",
-        "v": " for example a driver who swerved or braked for the same deer and forced you down, the car is “involved” and no-fault applies through the rider priority rule below. See our "
-       },
-       {
-        "t": "link",
-        "href": "/personal-injury/auto-accidents/novi",
-        "c": [
-         {
-          "t": "text",
-          "v": "Novi car accident page"
-         }
-        ]
-       },
-       {
-        "t": "text",
-        "v": " for deer crashes in cars."
+        "v": " for example a driver who swerved or braked for the same deer and forced you down, the car is “involved” and no-fault applies through the rider priority rule below."
        }
       ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "See our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/auto-accidents/novi",
+       "c": [
+        {
+         "t": "text",
+         "v": "Novi car accident page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " for deer crashes in cars."
+      }
      ]
     },
     {
@@ -1803,7 +1812,7 @@
    }
   ]
  },
- "wordCount": 2883,
+ "wordCount": 2882,
  "openItems": 0,
  "source": {
   "file": "B4-30_Novi-Motorcycle-Accident-Lawyer.docx",

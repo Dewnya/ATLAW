@@ -1201,9 +1201,18 @@
        },
        {
         "t": "text",
-        "v": " (formerly the Area Agency on Aging 1-B), 800-852-7795, which serves Oakland County, for help with care options and moving a resident. All of these can act today. A lawsuit comes later and does not depend on them."
+        "v": " (formerly the Area Agency on Aging 1-B), 800-852-7795, which serves Oakland County, for help with care options and moving a resident."
        }
       ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "All of these can act today. A lawsuit comes later and does not depend on them."
+      }
      ]
     }
    ]
@@ -1983,7 +1992,7 @@
    }
   ]
  },
- "wordCount": 3583,
+ "wordCount": 3582,
  "openItems": 0,
  "source": {
   "file": "B4-38_West-Bloomfield-Nursing-Home-Abuse-Lawyer.docx",
