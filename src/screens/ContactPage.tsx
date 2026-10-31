@@ -1,11 +1,12 @@
 import { useState } from "react";
+import { Breadcrumbs } from "../components/ATLAW/Breadcrumbs";
 import { Header } from "../components/ATLAW/Header";
 import { Footer } from "../components/ATLAW/Footer";
 import { PageMeta } from "../components/ATLAW/PageMeta";
-import { MobileFloatingCTA } from "../components/ATLAW/MobileFloatingCTA";
 import { RevealText, RevealBlock, RevealStagger } from "../motion/primitives";
 import { STAGGER } from "../motion/config";
 import { contactPageSchema } from "../data/schema-org";
+import { YEARS_SERVING } from "../data/firm";
 import { openIntakeModal } from "../components/ATLAW/IntakeModal";
 import { TestimonialsSection } from "../components/ATLAW/TestimonialsSection";
 import { IntakeFormSection } from "../components/ATLAW/IntakeFormSection";
@@ -120,6 +121,7 @@ const ContactHero = () => (
       style={{ backgroundImage: grain }}
     />
 
+    <Breadcrumbs items={[{ label: "ATLAW", to: "/" }, { label: "Contact" }]} containerClassName="relative z-10 mx-auto w-full max-w-[1440px] px-6 pt-6 sm:px-10 lg:px-20 lg:pt-8" />
     <div className="relative mx-auto flex w-full max-w-[1440px] flex-col gap-10 px-6 py-16 sm:px-10 md:py-20 lg:flex-row lg:items-center lg:gap-16 lg:px-20 lg:py-[100px]">
       {/* Left: text */}
       <div className="lg:basis-[55%]">
@@ -185,7 +187,7 @@ const ContactHero = () => (
 /* ─── Section 2: Stats Bar ─────────────────────────────────────────────── */
 
 const stats = [
-  { label: "Founded", value: "2013" },
+  { label: "Serving Clients", value: `${YEARS_SERVING} Years` },
   { label: "Location", value: "Dearborn, MI" },
   { label: "Super Lawyers", value: "Rising Star" },
   { label: "Avvo Rating", value: "10.0" },
@@ -234,9 +236,9 @@ const contactMethods: ContactMethod[] = [
   {
     icon: <MailIcon className="h-8 w-8 text-[#C6A04A]" />,
     title: "Email",
-    primary: "db@atlawgroup.com",
+    primary: "info@atlawgroup.com",
     secondary: "We respond within 24 hours.",
-    href: "mailto:db@atlawgroup.com",
+    href: "mailto:info@atlawgroup.com",
   },
   {
     icon: <PinIcon className="h-8 w-8 text-[#C6A04A]" />,
@@ -325,7 +327,7 @@ const OfficeLocation = () => (
         <div className="aspect-[4/3] w-full overflow-hidden rounded-[16px] shadow-[0_8px_24px_rgba(0,0,0,0.08)] lg:aspect-auto lg:min-h-[420px]">
           <iframe
             title="ATLAW Group office location"
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2953.8!2d-83.2454!3d42.3222!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x883b34e3f5c3d2f1%3A0x1234567890abcdef!2s3%20Park%20Ln%20Blvd%20Suite%20400W%2C%20Dearborn%2C%20MI%2048126!5e0!3m2!1sen!2sus!4v1"
+            src="https://maps.google.com/maps?q=3+Park+Lane+Blvd+Suite+400W,+Dearborn,+MI+48126&z=15&output=embed"
             className="h-full w-full border-0"
             allowFullScreen
             loading="lazy"
@@ -369,9 +371,9 @@ const OfficeLocation = () => (
               <MailIcon className="h-5 w-5 shrink-0 text-[#B88A2D]" />
               <a
                 className="font-sans text-[16px] font-medium text-[#0B1F3A] transition-colors duration-200 hover:text-[#B88A2D]"
-                href="mailto:db@atlawgroup.com"
+                href="mailto:info@atlawgroup.com"
               >
-                db@atlawgroup.com
+                info@atlawgroup.com
               </a>
             </div>
 
@@ -547,7 +549,7 @@ const ContactFAQ = () => (
 
 export const ContactPage = (): JSX.Element => {
   return (
-    <div className="min-h-screen bg-ivory text-ink [zoom:1.12]">
+    <div className="min-h-screen bg-ivory text-ink">
       <PageMeta
         title="Contact Us | Free Case Evaluation | ATLAW — Dearborn Personal Injury Lawyers"
         description="Contact ATLAW for a free personal injury case evaluation. Call (313) 406-7606 or visit our Dearborn office. No fee unless we win your case."
@@ -555,7 +557,7 @@ export const ContactPage = (): JSX.Element => {
         schema={contactPageSchema()}
       />
       <Header />
-      <main id="main-content">
+      <main id="main-content" className="[zoom:1.12]">
         <ContactHero />
         <StatsBar />
         <DirectContact />
@@ -566,7 +568,6 @@ export const ContactPage = (): JSX.Element => {
         <TestimonialsSection />
         <IntakeFormSection />
       </main>
-      <MobileFloatingCTA />
       <Footer />
     </div>
   );

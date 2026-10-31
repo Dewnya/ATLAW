@@ -65,6 +65,13 @@
   height: 22px;
 }
 
+/* Below 1024px the MobileActionBar (60px) is fixed to the bottom — sit above it. */
+@media (max-width: 1023px) {
+  .atlaw-back-to-top {
+    bottom: calc(60px + env(safe-area-inset-bottom) + 14px);
+  }
+}
+
 @media (max-width: 640px) {
   .atlaw-back-to-top {
     width: 48px;

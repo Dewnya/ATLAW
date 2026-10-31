@@ -1,0 +1,1240 @@
+{
+ "slug": "rideshare-accidents",
+ "section": "personal-injury",
+ "city": "canton",
+ "status": "draft",
+ "seoTitle": "Canton, MI Uber & Lyft Accident Lawyer: Which Policy Pays, the $1 Million Coverage, and the I-275 Airport Run",
+ "seoDescription": "Hurt in an Uber or Lyft crash in Canton, Michigan, as a passenger, a driver, or in another car? Michigan law sets the rideshare insurance by what the app was doing: $1 million on a trip, state minimums while waiting, nothing when off. The three periods, who pays no-fault benefits, food-delivery drivers, and how to get the app data. Free review. (313) 406-7606.",
+ "h1": "Canton, MI Uber & Lyft Accident Lawyer",
+ "tagline": "Canton sits on I-275 a few exits north of Detroit Metropolitan Airport, and the Ford Road restaurants and stores keep rideshare and delivery drivers on its roads every evening. The policy that pays a crash depends on one fact: what the app was doing at the moment of impact.",
+ "primaryKeyword": "canton uber accident lawyer (70/mo)",
+ "secondaryKeywords": [
+  "lyft accident lawyer canton (50)",
+  "canton rideshare accident lawyer (long tail)"
+ ],
+ "intro": [
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "An Uber or Lyft crash in Canton is a Michigan no-fault car crash with one added question that decides what the claim is worth: what was the app doing at the moment of impact? If a ride had been accepted or a passenger was on board, a $1 million policy applies. If the driver was logged in and waiting, only Michigan’s minimum limits apply. If the app was off, the driver’s personal policy applies, and that policy may exclude rideshare driving altogether. Uber and Lyft hold the record that answers the question, and they do not volunteer it. Canton produces these cases for three reasons: I-275 carries airport trips between the western suburbs and Detroit Metropolitan Airport a few exits south; the Ford Road restaurants, stores, and entertainment draw pickups and drop-offs every evening; and many Canton residents drive for the platforms themselves, carrying passengers or delivering food."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Boulevard in Dearborn, has handled more than 10,000 cases, and has recovered more than $100 million for clients. Our "
+    },
+    {
+     "t": "link",
+     "href": "/personal-injury/rideshare-accidents",
+     "c": [
+      {
+       "t": "text",
+       "v": "Michigan Uber and Lyft accident lawyer page"
+      }
+     ]
+    },
+    {
+     "t": "text",
+     "v": " covers the Transportation Network Company Act and the three insurance periods in full, our "
+    },
+    {
+     "t": "link",
+     "href": "/personal-injury/auto-accidents/canton",
+     "c": [
+      {
+       "t": "text",
+       "v": "Canton car accident page"
+      }
+     ]
+    },
+    {
+     "t": "text",
+     "v": " covers the no-fault rules for any Canton crash, and our "
+    },
+    {
+     "t": "link",
+     "href": "/areas-served/canton",
+     "c": [
+      {
+       "t": "text",
+       "v": "Canton page"
+      }
+     ]
+    },
+    {
+     "t": "text",
+     "v": " covers every kind of injury claim in the township. The first conversation is free, in English, Arabic, French, Mandarin, Urdu, or Spanish: (313) 406-7606."
+    }
+   ]
+  }
+ ],
+ "sections": [
+  {
+   "id": "rideshare-crashes-by-the-numbers",
+   "heading": "Rideshare crashes by the numbers",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Measure"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Figure"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Source"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "Canton Township crashes / injured / killed, 2024"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "1,961 / 550 / 4"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MSP Michigan Traffic Crash Facts, community profile"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Wayne County crashes / injured / killed, 2024"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "50,355 / 16,458 / 177"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MSP, Michigan Traffic Crash Facts 2024"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Wayne County alcohol-involved crashes, 2024"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "1,331"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MSP 2024"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Required coverage, ride accepted or passenger on board"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$1,000,000 combined bodily injury and property damage, plus no-fault PIP and PPI"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 257.2123"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Required coverage, app on and waiting"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$50,000 per person / $100,000 per crash / $25,000 property damage, plus PIP and PPI"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 257.2123"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Required coverage, app off"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Driver’s personal policy only ($250,000 / $500,000 by default; as low as $50,000 / $100,000 if the policyholder elects)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 500.3009(1), (5)"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Rideshare vehicles are not counted separately in the State Police data, but rideshare drivers work exactly the roads and hours where Canton’s crashes happen: I-275 at all hours, and Ford Road, where Ford Road at Lilley recorded 64 crashes in 2025, seventh in Wayne County, in the evenings and on weekends."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-three-periods-and-how-to-prove-which-one-applied",
+   "heading": "The three periods, and how to prove which one applied",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Michigan regulates Uber, Lyft, and similar companies as transportation network companies under 2016 PA 345, MCL 257.2101 and following. The Act requires insurance in three periods (MCL 257.2123):"
+      }
+     ]
+    },
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Period"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "What the driver was doing"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Coverage"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Who provides it"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "App off"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Personal driving"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Driver’s personal policy; $250,000 / $500,000 by default, as low as $50,000 / $100,000"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Driver’s insurer, which may exclude rideshare use"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "App on, no ride accepted"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Logged in, waiting for a request"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$50,000 per person / $100,000 per crash / $25,000 property damage, plus PIP and PPI"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Uber or Lyft, or the driver’s rideshare endorsement"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Ride accepted or passenger on board"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "En route to pick up, or carrying a passenger"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$1,000,000 combined, plus PIP and PPI"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Uber or Lyft"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The moment the driver accepts a ride, the $1 million policy attaches and stays attached until the passenger is dropped off. The gap period, app on with no ride, has coverage only at Michigan’s minimums, which is why a serious injury in that period usually turns on the injured person’s own uninsured and underinsured motorist coverage."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Proving the period."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Uber and Lyft keep trip logs, GPS traces, and timestamps for every driver session. A preservation letter to the company and its insurer, sent promptly and followed by a subpoena if necessary, obtains them. Screenshot the trip screen, the driver’s name and photo, the plate, the route, and the time before you leave the scene; it is the one piece of evidence the companies will not preserve for you."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Food and package delivery is different."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " The Act’s insurance requirements are written for transporting passengers on prearranged rides. A driver delivering food or packages through Uber Eats, DoorDash, Instacart, or a similar app is not carrying a passenger, and the coverage, if any, comes from the company’s own commercial policy, the terms of which vary by company and by period, or from the driver’s personal policy, which may exclude delivery work. A crash with a delivery driver on Ford Road is a claim to investigate policy by policy."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "who-pays-your-medical-bills",
+   "heading": "Who pays your medical bills",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "If you were a passenger."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Michigan no-fault pays your medical expenses and wage loss regardless of fault, but being a paying customer does not put Uber’s insurer first in line. Your own auto policy pays first; then a policy held by a relative you live with; then the insurer of the rideshare vehicle, which during a trip is the company’s policy; and only then the Michigan Assigned Claims Plan (MCL 500.3114, as amended by 2016 PA 347; MCL 500.3172). Written notice to the responsible insurer is due within one year (MCL 500.3145(1)). See our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/car-accident-insurance",
+       "c": [
+        {
+         "t": "text",
+         "v": "no-fault insurance claim page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " and "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/passenger-injury",
+       "c": [
+        {
+         "t": "text",
+         "v": "passenger injury page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": "."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "If you were the rideshare driver."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Your own policy pays PIP if it does not exclude rideshare use; if it does, the company’s policy covers PIP while the app is on. Drivers are independent contractors under the Act, so there is no workers’ compensation claim, which makes the PIP claim and the claim against the at-fault driver everything. A personal policy that was never told about rideshare use can be rescinded; read your policy before the crash, not after. Many Canton drivers work the airport run; a crash on I-275 with a passenger on board is a $1 million-policy case for the passenger and a PIP-plus-UM case for the driver."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "If you were in another car, on a bike, or on foot."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Your own no-fault insurer pays your benefits, as in any crash (or the priority chain under MCL 500.3114 and 3115 for pedestrians and cyclists). The rideshare period decides which liability policy you claim against. See our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/pedestrian-accidents",
+       "c": [
+        {
+         "t": "text",
+         "v": "pedestrian accident page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": "."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "your-claim-for-pain-and-suffering",
+   "heading": "Your claim for pain and suffering",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "For pain and suffering and economic losses beyond no-fault, you need a threshold injury under MCL 500.3135 (death, serious impairment of body function, or permanent serious disfigurement) and three years to file (MCL 600.5805(2)); a fatal crash is brought by the estate (see our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/wrongful-death/canton",
+       "c": [
+        {
+         "t": "text",
+         "v": "Canton wrongful death page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": "). The defendants:"
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The rideshare driver"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", covered by whichever policy applied in that period."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The other driver"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", if someone else hit the rideshare vehicle, covered by their own policy, which is often the $50,000 opt-down minimum (MCL 500.3009(5)) or nothing. If that driver was uninsured or fled, the rideshare policy’s UM/UIM coverage (if any) and your own UM/UIM coverage apply; the Act does not require Uber or Lyft to carry UM, so your own policy is what matters. See our "
+       },
+       {
+        "t": "link",
+        "href": "/personal-injury/uninsured-motorist-claims",
+        "c": [
+         {
+          "t": "text",
+          "v": "uninsured motorist page"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": "."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Uber or Lyft directly"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", in limited circumstances: because drivers are independent contractors, the companies are liable only for their own negligence, such as approving a driver who failed, or should have failed, the criminal and driving-record checks the Act requires (MCL 257.2107), keeping a driver on the platform after impairment complaints (MCL 257.2139), or allowing a vehicle that failed inspection (MCL 257.2109). The arbitration clause in the app’s terms generally sends claims against the companies themselves to arbitration; it does not bind your claim against the driver’s insurer or the other driver, which proceed in court."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "A bar or restaurant that over-served the driver who hit the Uber"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", under the dram shop act (MCL 436.1801): written notice within 120 days after you hire a lawyer, the drunk driver named and kept in the suit, and suit within two years, not three (MCL 436.1801(3), (4)). See our "
+       },
+       {
+        "t": "link",
+        "href": "/personal-injury/drunk-driving-accidents",
+        "c": [
+         {
+          "t": "text",
+          "v": "drunk driving accident page"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": "."
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "where-canton-rideshare-crashes-happen",
+   "heading": "Where Canton rideshare crashes happen",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "The airport run on I-275."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Trips between Canton and the western suburbs and Detroit Metropolitan Airport run on I-275 and I-94 at freeway speed, with luggage and multiple passengers, through the Ford Road, Michigan Avenue, and I-94 interchanges. These are the serious-injury rideshare cases, often with "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/brain-injury",
+       "c": [
+        {
+         "t": "text",
+         "v": "brain"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " or "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/spinal-cord-injury",
+       "c": [
+        {
+         "t": "text",
+         "v": "spinal"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " injuries, and the $1 million policy is usually in force."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Ford Road pickups and drop-offs."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Restaurants, stores, and entertainment along Ford Road from I-275 to Sheldon: drivers stopping in travel lanes or at driveway mouths to pick up, pulling out across traffic, and making left turns into shopping centers. Rear-end crashes, sideswipes, and pedestrian strikes at pickup points are the recurring cases; MDOT’s boulevard rebuild between Sheldon and Lotz, scheduled for 2028 and 2029, will change where pickups can happen."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Delivery drivers in the subdivisions."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Food and package drivers moving through residential streets, stopping, reversing, and turning near schools and parks; see the delivery note above and our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/pedestrian-accidents",
+       "c": [
+        {
+         "t": "text",
+         "v": "pedestrian accident page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": "."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Who maintained the road."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Canton is a township and does not own its roads. Ford Road, Michigan Avenue, and I-275 are MDOT’s; a road-defect claim goes to the Court of Claims, with written notice filed there within 120 days (MCL 691.1404). The county roads are Wayne County’s, with 120 days’ notice (MCL 691.1404). See our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/auto-accidents/canton",
+       "c": [
+        {
+         "t": "text",
+         "v": "Canton car accident page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " for the jurisdiction split."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-to-do-after-a-canton-rideshare-crash",
+   "heading": "What to do after a Canton rideshare crash",
+   "blocks": [
+    {
+     "t": "ol",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Screenshot the app"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": trip screen, driver, plate, route, time. If you are the driver, screenshot your status and the trip log."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Call 911 and get the police report"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " from Canton Public Safety, or the State Police on I-275. Give the officer the rideshare information so the UD-10 reflects it. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "VERIFY",
+          "v": "report release"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Get medical care the same day."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Canton has no hospital of its own; many of the seriously injured go to Trinity Health Ann Arbor, Trinity Health Livonia, or University of Michigan Health."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Report the crash in the app"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " (both companies have in-app crash reporting), which creates a company record, and to your own insurer."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Do not give a recorded statement"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " to the rideshare company’s insurer or the other driver’s."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Read your own declarations page"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " for PIP level and UM/UIM coverage."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Call a lawyer within the week"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", so the preservation letter for app and GPS data goes out before retention windows close."
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Our "
+      },
+      {
+       "t": "link",
+       "href": "/resources/what-to-do-after-an-accident",
+       "c": [
+        {
+         "t": "text",
+         "v": "full checklist"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " covers the first day, week, month, and year."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "deadlines-for-canton-rideshare-crash-claims",
+   "heading": "Deadlines for Canton rideshare crash claims",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "What"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "When"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Source"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "Preservation letter for app, GPS, and trip data"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Days"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Practice"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Written notice to your no-fault insurer"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "1 year"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 500.3145(1)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "UM/UIM and hit-and-run notice"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Per policy; often short"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Policy terms"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Dram shop claim against a bar"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Notice within 120 days of hiring a lawyer; suit within 2 years"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 436.1801(3)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Road defect (MDOT / Wayne County)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Written notice within 120 days (for MDOT, filed with the Court of Claims)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 691.1404"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Suit against the driver, the other driver, or the company"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "3 years"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5805(2)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Wrongful death"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "3 years, generally from the injury, with the estate’s savings provision"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5805(2), 600.5827, 600.5852"
+        }
+       ]
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "why-canton-rideshare-crash-victims-call-atlaw",
+   "heading": "Why Canton rideshare crash victims call ATLAW",
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "text",
+        "v": "13 years of Michigan injury practice; more than 10,000 cases; more than $100 million recovered."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "The period identified and the preservation letter sent promptly."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Every policy in the chain read: yours, the household’s, the driver’s, the company’s, the other driver’s."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "No fee unless we recover money for you. The first conversation is free."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Consultations can be accommodated in English, Arabic, French, Mandarin, Urdu, and Spanish. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed."
+       }
+      ]
+     ]
+    }
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "I was a passenger in an Uber that crashed on I-275 on the way to the airport. Who pays my medical bills?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Your own auto insurer first, then a relative’s policy if you live with them, then the rideshare vehicle’s insurer, then the Assigned Claims Plan. Being a paying passenger does not put Uber’s insurer first for your medical bills; it does make the $1 million policy available for your injury claim."
+    }
+   ]
+  },
+  {
+   "question": "I drive for Uber from Canton and was hit while waiting for a ride on Ford Road. What applies?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "In the waiting period the rideshare coverage is only Michigan’s minimum limits, and the Act does not require UM coverage, so your no-fault benefits come from your own policy (or the company’s if yours excludes rideshare use) and your injury claim depends on the other driver’s policy and your own UM coverage."
+    }
+   ]
+  },
+  {
+   "question": "Does Uber or Lyft have to carry insurance in Michigan?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Yes: $1 million while a ride is accepted or a passenger is on board; $50,000 / $100,000 / $25,000 while the app is on with no ride; nothing while the app is off, when the driver’s personal policy applies."
+    }
+   ]
+  },
+  {
+   "question": "Can I sue Uber or Lyft directly?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Only for the company’s own negligence, such as approving a driver who should have failed the background check. The arbitration clause may send that claim to arbitration; your claim against the driver’s insurer is not affected."
+    }
+   ]
+  },
+  {
+   "question": "I was hit by a DoorDash or Uber Eats driver. Is that the same as an Uber crash?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Not necessarily. The rideshare insurance rules are written for passenger trips. A delivery driver’s coverage depends on the delivery company’s own policy and the driver’s personal policy, which may exclude delivery work, so each policy has to be read. Your own no-fault benefits are unaffected."
+    }
+   ]
+  },
+  {
+   "question": "How do I prove the driver was on a trip?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Uber and Lyft keep trip and GPS logs. A preservation letter, and a subpoena if needed, obtains them. Your own screenshots from the scene are the backup."
+    }
+   ]
+  },
+  {
+   "question": "How long do I have?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "One year to notify the responsible no-fault insurer, three years to sue the driver, two years to sue a bar, and as little as 120 days for a dram shop or county road notice. The app data should be requested within days."
+    }
+   ]
+  }
+ ],
+ "cta": {
+  "id": "talk-to-a-canton-uber-and-lyft-accident-lawyer",
+  "heading": "Talk to a Canton Uber and Lyft accident lawyer",
+  "blocks": [
+   {
+    "t": "p",
+    "c": [
+     {
+      "t": "text",
+      "v": "If you were hurt in a rideshare or delivery-driver crash anywhere in Canton, as a passenger, a driver, or in another vehicle, call "
+     },
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "text",
+        "v": "(313) 406-7606"
+       }
+      ]
+     },
+     {
+      "t": "text",
+      "v": " or send the form on this page. We will identify the period, send the preservation letter, and tell you which policies owe you benefits. The review is free, and there is no fee unless we recover money for you."
+     }
+    ]
+   },
+   {
+    "t": "p",
+    "c": [
+     {
+      "t": "em",
+      "c": [
+       {
+        "t": "text",
+        "v": "This page is general information about Michigan law as of October 2026 and is not legal advice. Crash figures are from the Michigan State Police, Michigan Traffic Crash Facts 2024, and State Police intersection data as compiled and reported. Results depend on the facts of each case, and past results do not guarantee a future outcome."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "wordCount": 2337,
+ "openItems": 1,
+ "source": {
+  "file": "B3-49_Canton-Uber-Lyft-Accident-Lawyer.docx",
+  "delivered": "October 25, 2026 [CONFIRM: Batch 3 delivery date]"
+ }
+}

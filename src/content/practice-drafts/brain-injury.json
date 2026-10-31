@@ -1,0 +1,1456 @@
+{
+ "slug": "brain-injury",
+ "section": "personal-injury",
+ "status": "draft",
+ "seoTitle": "Michigan Brain Injury Lawyer – TBI & Concussion Claims",
+ "seoDescription": "A brain injury in a Michigan crash or fall can mean lifetime care. ATLAW explains no-fault benefits for TBI, the 56-hour attendant care cap, the threshold, and how a mild TBI is proved. Free review.",
+ "h1": "Michigan Brain Injury Lawyer",
+ "tagline": "A brain injury is proved by testing, not by a scan that came back “normal.” Michigan’s no-fault system can pay for lifetime care, if the claim is built to last.",
+ "primaryKeyword": "michigan brain injury lawyer",
+ "secondaryKeywords": [
+  "michigan traumatic brain injury lawyer",
+  "brain injury lawyer michigan",
+  "michigan brain injury attorney",
+  "detroit brain injury lawyer",
+  "tbi lawyer michigan",
+  "concussion lawyer michigan"
+ ],
+ "intro": [
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "In 2024, 1,886 Michigan residents died of injuries that included a traumatic brain injury; 746 of those deaths followed a fall and 189 followed a traffic crash. For every person who dies, many more survive with a brain injury that changes memory, concentration, mood, sleep, and the ability to work, often after an emergency room visit that ended with “CT negative, discharged.” A brain injury case in Michigan is two things at once: a medical case, in which the injury must be proved against insurers who call it a headache, and a benefits case, in which Michigan’s no-fault system, unusually in the country, can pay for care for the rest of your life, within limits that have changed since 2019."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "This page explains how a traumatic brain injury meets Michigan’s injury threshold, what no-fault pays for brain injury care and where the caps are, how a mild TBI is proved when imaging is normal, what the 2019 reforms and the Andary decision mean for catastrophic cases, guardianship and settlement rules for an injured adult who cannot manage their own affairs, and the deadlines."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across Wayne, Oakland, Macomb, and Washtenaw counties. Brain injury cases are handled on contingency: no fee unless we recover money for you, and the first conversation is free."
+    }
+   ]
+  }
+ ],
+ "sections": [
+  {
+   "id": "brain-injury-in-michigan-the-numbers",
+   "heading": "Brain injury in Michigan: the numbers",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Measure"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Figure"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Source"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "TBI-related deaths, Michigan, 2024"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "1,886 (16.2 per 100,000)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MDHHS vital statistics"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "TBI deaths following a fall"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "746"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MDHHS"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "TBI deaths following a transport crash"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "189"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MDHHS"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "People injured in crashes in Wayne, Oakland, Macomb and Washtenaw counties, 2024"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "34,424, including 1,965 suspected serious injuries"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Michigan State Police"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Statewide crash injuries, 2024"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "71,316"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Michigan State Police"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Fall-related emergency visits, Michigan, 2024"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "236,773"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Michigan Falls Prevention Week proclamation"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Crashes and falls are the two causes behind most Michigan brain injury claims; assaults, sports and school injuries, workplace injuries, and medical errors account for the rest."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-a-traumatic-brain-injury-is-and-why-mild-is-misleading",
+   "heading": "What a traumatic brain injury is, and why “mild” is misleading",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "A traumatic brain injury is a disruption of brain function caused by an external force: a blow, a jolt, a penetration, or the rapid acceleration and deceleration of a crash, in which the brain moves inside the skull and nerve fibers stretch and shear. Severity is graded at the emergency room by the Glasgow Coma Scale: mild (13–15), moderate (9–12), severe (3–8). “Mild” describes the initial presentation, not the outcome. A mild TBI, which includes concussion, can produce persistent headaches, memory and attention problems, slowed processing, irritability, depression, sleep disturbance, light and noise sensitivity, and loss of smell, lasting months or permanently. CT and standard MRI are often normal in mild TBI because they do not image the microscopic axonal injury that causes the symptoms."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "That gap, between a normal scan and a changed person, is where brain injury cases are fought."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-injury-threshold-how-a-brain-injury-qualifies",
+   "heading": "The injury threshold: how a brain injury qualifies",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "To recover pain and suffering from the at-fault driver in a Michigan crash, your injury must be a serious impairment of body function, permanent serious disfigurement, or death (MCL 500.3135(1)). The Michigan Supreme Court’s test, now written into the statute, has three parts (McCormick v Carrier, 2010; MCL 500.3135(5)):"
+      }
+     ]
+    },
+    {
+     "t": "ol",
+     "items": [
+      [
+       {
+        "t": "text",
+        "v": "An "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "objectively manifested"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " impairment, meaning one that is observable or perceivable from actual symptoms or conditions by someone other than the injured person;"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "of an "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "important body function"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", which brain function plainly is;"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "that "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "affects the person’s general ability to lead his or her normal life"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", comparing life before and after the injury. No specific duration or permanence is required."
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "A brain injury meets the first element through the evidence described below, not through the patient’s report alone, and the third through the documented change in work, family roles, driving, and daily activities. Pain and suffering recovered from the at-fault driver is reduced by any comparative fault and barred above 50% (MCL 500.3135(2)(b)); it is not capped. Brain injuries from falls, assaults, defective products, and medical errors have no threshold requirement; they proceed on ordinary negligence rules."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "proving-a-brain-injury-when-the-scan-is-normal",
+   "heading": "Proving a brain injury when the scan is normal",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Evidence"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "What it shows"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "Emergency and EMS records"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Loss of consciousness, confusion, amnesia around the event, Glasgow Coma Scale score, mechanism of injury"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Neuropsychological testing"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Standardized measures of memory, attention, processing speed, and executive function, with validity testing that answers the “malingering” defense before it is raised"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Advanced imaging"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Diffusion tensor imaging (DTI), susceptibility-weighted MRI, and in some cases PET, which can show axonal injury and microbleeds that CT misses"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Treating specialists"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Neurology, physiatry, neuropsychology, and speech-language pathology records tracking symptoms over time"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Vestibular and vision testing"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Balance and oculomotor deficits common after concussion"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Before-and-after witnesses"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Family, co-workers, teachers, and coaches who describe the change; school and employment records that document it"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Prior medical records"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "To show the symptoms are new, and to meet the aggravation argument head-on"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Insurers defend brain injury claims by calling the symptoms subjective, pre-existing, psychological, or exaggerated, and by hiring an examiner to say so. The answer is a record built early: a neuropsychological evaluation in the first months, treating specialists rather than urgent care, and symptom documentation that begins before anyone is thinking about a lawsuit."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-no-fault-pays-for-a-brain-injury",
+   "heading": "What no-fault pays for a brain injury",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Michigan’s no-fault act is the reason the state developed a dense network of post-acute brain injury rehabilitation programs: for decades, PIP paid for lifetime care without a dollar limit. The benefits still exist; the limits now depend on when you were injured and what coverage you chose."
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Medical and rehabilitation expenses"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": all reasonably necessary products, services, and accommodations for care, recovery, or rehabilitation (MCL 500.3107(1)(a)), which in brain injury cases includes inpatient and residential rehabilitation, outpatient cognitive therapy, case management, home modifications, transportation, and medications, up to the PIP medical limit on the policy: $50,000 (Medicaid enrollees), $250,000, $500,000, or unlimited (MCL 500.3107c). If no choice was made, the policy is unlimited. A person with a $250,000 limit who suffers a severe brain injury will exhaust it within months, and care after that depends on health insurance, Medicaid, and the claim against the at-fault driver for excess medical expenses (MCL 500.3135(3)(c))."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Attendant care"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": in-home supervision and assistance, which a person with a moderate or severe TBI may need around the clock. Care by family members is capped at 56 hours a week (MCL 500.3157(10)); hours beyond that must be provided by an agency, which is paid under the fee schedule."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Wage loss"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": 85% of lost income up to $7,455 a month for crashes on or after October 1, 2026, for three years (MCL 500.3107(1)(b)). Brain injuries end careers; losses beyond the cap and the three years are claimed from the at-fault driver."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Replacement services"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": $20 a day for three years for household tasks."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Case management and guardianship costs"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " where reasonably necessary to the injured person’s care. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "ATTORNEY CHECK",
+          "v": "compensability of guardian fees as allowable expenses"
+         }
+        ]
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The claim is made to your own insurer, a household insurer, or the Assigned Claims Plan (capped at $250,000), with written notice within one year (MCL 500.3145). Our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/car-accident-insurance",
+       "c": [
+        {
+         "t": "text",
+         "v": "no-fault insurance claim"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " page covers the insurer’s 30-day payment duty and the penalties for delay."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-2019-reforms-and-andary-v-usaa",
+   "heading": "The 2019 reforms and Andary v USAA",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The 2019 amendments did two things that fell hardest on brain injury survivors. They capped family attendant care at 56 hours a week, and they imposed a fee schedule that pays providers of services without a Medicare code, which includes most residential brain injury programs and agency attendant care, 52.5% of their 2019 charges (MCL 500.3157(7)). Programs closed and patients were discharged."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "In Andary v USAA (July 31, 2023), the Michigan Supreme Court held that the fee schedule and the 56-hour cap do not apply to people injured before June 11, 2019, whose benefits are governed by the policy and law in effect when they were hurt. A person catastrophically injured in 2015 keeps uncapped attendant care and provider payment at reasonable charges; a person injured in 2020 does not. For catastrophic claims under policies with unlimited coverage, the insurer is reimbursed above a per-claim retention by the Michigan Catastrophic Claims Association, which is why unlimited coverage remains available at all. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "ATTORNEY CHECK",
+         "v": "current MCCA retention and any post-Andary legislation"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "when-the-injured-person-cannot-manage-their-own-claim",
+   "heading": "When the injured person cannot manage their own claim",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "A moderate or severe brain injury often leaves an adult unable to make medical, financial, or legal decisions. Michigan law provides for a "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "guardian"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " to make personal and medical decisions for an incapacitated adult (MCL 700.5306) and a "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "conservator"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " to manage property and settlements (MCL 700.5401), appointed by the probate court. A settlement for a legally incapacitated person must be approved by the court, and the funds are protected in a conservatorship or a special needs trust so that Medicaid and SSI eligibility are preserved. A lawyer handling a severe TBI case coordinates the probate petition, the no-fault claim, the lawsuit, and the public-benefits planning as one matter. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "CONFIRM",
+         "v": "the firm handles or coordinates guardianship and conservatorship petitions"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Deadlines are not automatically extended. Michigan tolls the three-year lawsuit period for a person who is “insane,” meaning unable to comprehend their rights, at the time the claim accrues (MCL 600.5851), but the Supreme Court has held that no such tolling applies to the no-fault one-year notice and one-year-back rules (Joseph v ACIA, 2012). The PIP claim must be filed within a year even for a person in a coma, by family or a guardian."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "brain-injuries-from-causes-other-than-crashes",
+   "heading": "Brain injuries from causes other than crashes",
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Falls"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " are Michigan’s leading cause of TBI death. A fall on unsafe property is a premises claim, with no threshold requirement and, since 2023, no “open and obvious” dismissal (Kandil-Elsayed v F & E Oil). See our "
+       },
+       {
+        "t": "link",
+        "href": "/personal-injury/premises-liability",
+        "c": [
+         {
+          "t": "text",
+          "v": "premises liability"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " page."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Assaults"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " in negligently secured apartments, bars, and parking lots; see the negligent security discussion on the same page, and the Crime Victim Services Commission for compensation when the assailant is uninsured."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Sports and school."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Michigan’s youth sports concussion law requires removal from play and written clearance by a health professional before return (MCL 333.9155–333.9156). A second-impact injury after a coach ignored the rule is a negligence claim, subject to governmental immunity rules for public schools. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "ATTORNEY CHECK",
+          "v": ""
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Workplace"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " brain injuries are workers’ compensation claims against the employer and product or premises claims against third parties; see our "
+       },
+       {
+        "t": "link",
+        "href": "/personal-injury/workers-compensation",
+        "c": [
+         {
+          "t": "text",
+          "v": "workers’ compensation"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " page."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Medical errors"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": a missed brain bleed, a delayed CT, an anesthesia event, or a birth injury causing hypoxic brain damage. See our "
+       },
+       {
+        "t": "link",
+        "href": "/personal-injury/medical-malpractice",
+        "c": [
+         {
+          "t": "text",
+          "v": "medical malpractice"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " page; the two-year period and the notice of intent apply."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Defective products"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": airbags that fail to deploy, helmets, car seats, and seat backs. See our "
+       },
+       {
+        "t": "link",
+        "href": "/personal-injury/product-liability",
+        "c": [
+         {
+          "t": "text",
+          "v": "product liability"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " page."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Nursing home falls"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " with head injury; see our "
+       },
+       {
+        "t": "link",
+        "href": "/personal-injury/nursing-home-abuse",
+        "c": [
+         {
+          "t": "text",
+          "v": "nursing home abuse"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " page."
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-a-michigan-brain-injury-case-is-worth",
+   "heading": "What a Michigan brain injury case is worth",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "A brain injury case has more components than most injury claims, and each is valued:"
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "No-fault benefits"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": lifetime (or to the policy limit) medical and rehabilitation care, attendant care, wage loss, replacement services."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Economic losses beyond PIP"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " from the at-fault party: wage loss above the cap and after three years, lost earning capacity over a working life, and medical and attendant care after the PIP limit is exhausted. These are projected by a life care planner and a vocational economist, and in a severe TBI case they run to seven figures."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Non-economic damages"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": pain and suffering, loss of enjoyment of life, loss of the ability to think, remember, and relate as before, and a spouse’s loss of consortium. Not capped in Michigan crash, premises, or assault cases; capped in product and medical malpractice cases."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Wrongful death"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " damages where the injury was fatal (MCL 600.2922); see our "
+       },
+       {
+        "t": "link",
+        "href": "/personal-injury/wrongful-death",
+        "c": [
+         {
+          "t": "text",
+          "v": "wrongful death"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " page."
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The constraint, as in every Michigan case, is coverage: the at-fault driver’s limits (often $50,000), the owner’s policy, employer policies, and your own underinsured motorist coverage. Identifying every policy in a brain injury case is the first task after the medical record."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "deadlines-for-michigan-brain-injury-claims",
+   "heading": "Deadlines for Michigan brain injury claims",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Deadline"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Time"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Statute"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "Written notice to the no-fault insurer"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "1 year from the crash, not extended for incapacity"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 500.3145(1); Joseph v ACIA (2012)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Lawsuit for unpaid PIP benefits"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "1 year from each unpaid benefit"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 500.3145(2)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Lawsuit against the at-fault driver, property owner, or assailant"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "3 years from the injury"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5805(2)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Tolling for an incapacitated (“insane”) adult or a minor"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Period extended; 1 year after the disability is removed, or to age 19"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5851 "
+        },
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "placeholder",
+           "kind": "ATTORNEY CHECK",
+           "v": "current operation"
+          }
+         ]
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Medical malpractice (missed bleed, birth injury)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "2 years, with a 182-day notice of intent"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5805(8), 600.2912b"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Product liability"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "3 years"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5805"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Government notice (bus, city vehicle, sidewalk, school)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "60 days to 120 days depending on the defendant"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 124.419, 691.1404"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Wrongful death"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "3 years, with saving provisions for the estate"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5805, 600.5852"
+        }
+       ]
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "why-metro-detroit-brain-injury-clients-call-atlaw",
+   "heading": "Why metro Detroit brain injury clients call ATLAW",
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Thirteen years, more than 10,000 cases, more than $100 million recovered."
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The medical record is built, not assumed."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Neuropsychological evaluation, specialist referrals, and advanced imaging arranged early. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": "the firm’s network of neuropsychologists and TBI specialists"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Life care planning and economic projection"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " for the losses no-fault does not cover. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": "use of life care planners and vocational economists"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Guardianship, settlement approval, and benefits protection"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " coordinated with the injury case. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": ""
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Both claims, one firm."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " The no-fault claim, including attendant care and residential rehabilitation disputes, and the claim against the at-fault party, run together."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Dearborn, and the whole metro area."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home, hospital, or rehabilitation facility visits can be arranged as needed."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Languages."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "No fee unless we recover."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs. No cost for the first conversation."
+       }
+      ]
+     ]
+    }
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "My CT scan was normal. Can I still have a brain injury claim?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Yes. CT does not show the axonal injury that causes most concussion symptoms. The injury is proved by neuropsychological testing, specialist records, advanced imaging where indicated, and before-and-after evidence."
+    }
+   ]
+  },
+  {
+   "question": "Does a concussion meet Michigan’s serious impairment threshold?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "It can, if it is objectively manifested (documented by testing or clinical findings) and affects your general ability to lead your normal life (McCormick v Carrier, 2010; MCL 500.3135(5)). No permanence requirement applies."
+    }
+   ]
+  },
+  {
+   "question": "Will no-fault pay for brain injury rehabilitation?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Yes, as a reasonably necessary expense (MCL 500.3107), up to your PIP medical limit. Unlimited coverage pays for life; a $250,000 limit is exhausted quickly in a serious case, and later care is claimed from the at-fault driver."
+    }
+   ]
+  },
+  {
+   "question": "How much attendant care will no-fault pay for?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Family-provided care is capped at 56 hours a week for crashes on or after June 11, 2019 (MCL 500.3157(10)); agency care beyond that is paid under the fee schedule. People injured before that date keep uncapped benefits (Andary v USAA, 2023)."
+    }
+   ]
+  },
+  {
+   "question": "My family member is in a coma. Who files the claim?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "A spouse, parent, or other family member can submit the no-fault application and notice, which must be done within one year regardless of incapacity. A guardian and conservator are appointed by the probate court for decisions and settlements."
+    }
+   ]
+  },
+  {
+   "question": "Can I recover lost wages beyond three years?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Not from no-fault; from the at-fault driver, as excess economic loss, including lost earning capacity for a working life, if your injury meets the threshold."
+    }
+   ]
+  },
+  {
+   "question": "The insurer’s doctor says I’m exaggerating. What now?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Validity measures built into neuropsychological testing answer that claim objectively, and your treating specialists’ records over time carry more weight than a one-hour examination. The dispute is litigated or arbitrated."
+    }
+   ]
+  },
+  {
+   "question": "Is there a cap on brain injury damages in Michigan?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Not in crash, premises, or assault cases. Non-economic damages are capped in medical malpractice and product liability cases ($596,400 or $1,065,000 in 2026, the higher tier applying to permanent loss of a vital bodily function)."
+    }
+   ]
+  },
+  {
+   "question": "My child had a concussion in school sports. Is there a claim?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "If a coach returned the child to play without the clearance Michigan’s concussion law requires (MCL 333.9155–9156) and a further injury resulted, possibly, subject to the immunity rules for public schools. Private programs and leagues are ordinary defendants."
+    }
+   ]
+  },
+  {
+   "question": "How long do I have?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "One year for the no-fault notice, with no extension for incapacity; three years for the lawsuit against the at-fault party, with tolling for a legally incapacitated adult; two years for medical malpractice; and 60 to 120 days to notify a government defendant."
+    }
+   ]
+  }
+ ],
+ "cta": {
+  "id": "talk-to-a-michigan-brain-injury-lawyer",
+  "heading": "Talk to a Michigan brain injury lawyer",
+  "blocks": [
+   {
+    "t": "p",
+    "c": [
+     {
+      "t": "text",
+      "v": "If you or a family member suffered a brain injury in a crash, fall, assault, or other incident anywhere in Michigan, call "
+     },
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "text",
+        "v": "(313) 406-7606"
+       }
+      ]
+     },
+     {
+      "t": "text",
+      "v": " or send the form on this page. We arrange the evaluation that proves the injury, secure the no-fault benefits that pay for care, identify every policy, and tell you what the case is worth. We respond within one business day, we can come to the hospital or rehabilitation facility if you are unable to visit our office, and there is no fee unless we recover money for you."
+     }
+    ]
+   }
+  ]
+ },
+ "wordCount": 2777,
+ "openItems": 8,
+ "source": {
+  "file": "B1-25_Michigan-Brain-Injury-Lawyer.docx",
+  "delivered": "2026-10-12"
+ }
+}

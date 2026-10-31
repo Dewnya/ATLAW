@@ -1,21 +1,11 @@
-type CaseAmount = {
-  amount: string;
-  caseType: string;
-};
+import { approvedCaseResults, type CaseResult } from "../../data/caseResults";
 
-const cases: CaseAmount[] = [
-  { amount: "$127,500", caseType: "Auto Accident" },
-  { amount: "$385,000", caseType: "Medical Malpractice" },
-  { amount: "$1,250,000", caseType: "Wrongful Death" },
-  { amount: "$92,000", caseType: "Workers' Comp" },
-  { amount: "$215,000", caseType: "Premises Liability" },
-  { amount: "$78,500", caseType: "Dog Bite" },
-];
+const fmt = (n: number) => new Intl.NumberFormat("en-US").format(n);
 
-const TickerItem = ({ item }: { item: CaseAmount }) => (
+const TickerItem = ({ item }: { item: CaseResult }) => (
   <span className="flex shrink-0 items-center gap-4 px-6 sm:gap-5 sm:px-8">
     <span className="font-serifDisplay text-[20px] font-normal tracking-[-0.01em] text-[#C6A04A] sm:text-[24px]">
-      {item.amount}
+      ${fmt(item.recovered)}
     </span>
     <span className="font-sans text-[10px] font-semibold uppercase tracking-[0.16em] text-white/40 sm:text-[11px]">
       {item.caseType}
@@ -27,7 +17,10 @@ const TickerItem = ({ item }: { item: CaseAmount }) => (
   </span>
 );
 
-export const WinningsTicker = (): JSX.Element => {
+/** Scrolling strip of firm-approved results. Renders nothing until data/caseResults.ts has entries. */
+export const WinningsTicker = (): JSX.Element | null => {
+  if (approvedCaseResults.length === 0) return null;
+
   return (
     <section
       aria-label="Case results"
@@ -37,7 +30,7 @@ export const WinningsTicker = (): JSX.Element => {
 
       <div className="relative flex overflow-hidden [mask-image:linear-gradient(90deg,transparent,black_5%,black_95%,transparent)]">
         <div className="animate-marquee-slow flex shrink-0 items-center">
-          {cases.map((item, i) => (
+          {approvedCaseResults.map((item, i) => (
             <TickerItem item={item} key={`a-${i}`} />
           ))}
         </div>
@@ -45,7 +38,7 @@ export const WinningsTicker = (): JSX.Element => {
           aria-hidden="true"
           className="animate-marquee-slow flex shrink-0 items-center"
         >
-          {cases.map((item, i) => (
+          {approvedCaseResults.map((item, i) => (
             <TickerItem item={item} key={`b-${i}`} />
           ))}
         </div>

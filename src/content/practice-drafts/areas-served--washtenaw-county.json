@@ -1,0 +1,1576 @@
+{
+ "slug": "areas-served",
+ "section": "areas-served",
+ "city": "washtenaw-county",
+ "status": "draft",
+ "seoTitle": "Washtenaw County Personal Injury Lawyers: Ann Arbor, Ypsilanti, Pittsfield Township, and Every Washtenaw Community",
+ "seoDescription": "Injured in Washtenaw County? 9,844 crashes, 2,231 people injured, and 35 killed on the county’s roads in 2024. Car, truck, pedestrian, bicycle, premises, and medical cases in Ann Arbor, Ypsilanti, and the townships; which agency owns the road; why a claim against the University of Michigan goes to the Court of Claims; the courts in Ann Arbor; and the deadlines. Free review. (313) 406-7606.",
+ "h1": "Washtenaw County Personal Injury Lawyers",
+ "tagline": "9,844 crashes, 2,231 people injured, and 35 killed on Washtenaw County roads in 2024, in a county with two Level I trauma centers, two public universities, and more deer crashes than pedestrian, bicycle, and motorcycle crashes combined.",
+ "primaryKeyword": "washtenaw county personal injury lawyer (10/mo as “personal injury lawyer washtenaw county”)",
+ "secondaryKeywords": [
+  "washtenaw county car accident lawyer (served by /personal-injury/auto-accidents/washtenaw-county); city terms served by the Ann Arbor",
+  "Ypsilanti",
+  "and Pittsfield Township hubs"
+ ],
+ "intro": [
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "Washtenaw County is home to about 370,000 people in Ann Arbor, Ypsilanti, Saline, Chelsea, Dexter, Milan, and twenty townships, from Pittsfield and Ypsilanti Township on the urban edge to the farm and lake country of the west and north. In 2024, according to the Michigan State Police, 9,844 crashes were reported in the county; 2,231 people were injured in them, 197 seriously, and 35 were killed. The county’s freeways, the University of Michigan and Eastern Michigan University campuses, a large student and pedestrian population, and the rural roads west of US-23 each shape the injury claims that come out of it."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "ATLAW is a personal injury firm based in Dearborn, a short drive east of Ypsilanti and Ann Arbor on I-94. In 13 years the firm has handled more than 10,000 cases for injured people in southeast Michigan and recovered more than $100 million for them. This page explains what is particular about a Washtenaw County claim: where the injuries happen, which agencies and institutions are usually on the other side, which courts in Ann Arbor hear the cases, and the deadlines that apply. The practice-area pages linked throughout explain the law for each kind of case."
+    }
+   ]
+  }
+ ],
+ "sections": [
+  {
+   "id": "washtenaw-county-injury-numbers-2024",
+   "heading": "Washtenaw County injury numbers, 2024",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Measure"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Washtenaw County"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Source"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "Traffic crashes"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "9,844 (10,037 in 2023)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MSP, Michigan Traffic Crash Facts 2024, county profile"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "People injured / seriously injured"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "2,231 / 197"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Same"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "People killed"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "35, in 32 fatal crashes (20 fatal crashes in 2023)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Same"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Deaths per 1,000 crashes"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "3.6 (Oakland: 1.9; Michigan: 3.8)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Calculated from MSP 2024 figures"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Deer-involved crashes"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "1,409"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Same"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Alcohol-involved / drug-involved crashes"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "276 / 97"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Same"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Commercial trucks and buses in crashes"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "755"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Same"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Pedestrian-involved crashes"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "100 (6 fatal)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Same"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Bicyclist-involved crashes"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "91 (1 fatal)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Same"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Motorcyclists killed"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "5"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Same"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Crashes by community"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Ann Arbor 2,770; Pittsfield Township 1,143; Ypsilanti Township 1,069; Ypsilanti 838"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Same"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The county recorded fewer crashes in 2024 than in 2023, but more fatal ones: 32 fatal crashes against 20. Its death rate per crash is nearly twice Oakland County’s and close to the state’s, which fits a county where much of the mileage is on high-speed freeways and two-lane rural roads rather than city streets."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "where-washtenaw-county-injuries-happen",
+   "heading": "Where Washtenaw County injuries happen",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "The freeways."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " I-94 runs east to west through Ypsilanti, the south side of Ann Arbor, and on toward Chelsea and Jackson; US-23 runs north to south along Ann Arbor’s east side; M-14 connects Ann Arbor to Plymouth and I-275. The I-94/US-23 interchange, the US-23/M-14 interchange, and the I-94 interchanges at Ypsilanti carry commuter and freight traffic at speed; freeway crashes there are rear-end, lane-change, and truck crashes, and work-zone crashes during the recurring reconstruction of both freeways. Our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/truck-accidents/washtenaw-county",
+       "c": [
+        {
+         "t": "text",
+         "v": "Washtenaw County truck accident page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " covers the truck cases."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "The corridors."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Washtenaw Avenue between Ann Arbor and Ypsilanti, Carpenter Road in Pittsfield Township, Michigan Avenue through Ypsilanti and Saline, Ellsworth, Packard, State Street, and Huron Parkway. The county’s ten highest-crash intersections in 2024 were all on these roads: Hamilton at Washtenaw in Ypsilanti (132 crashes) was first, State at Ellsworth in Ann Arbor (85) second, and four of the ten were on Carpenter Road or at Hogback and Washtenaw in Pittsfield Township. Michigan Avenue at Prospect in Ypsilanti had 20 injuries on 30 crashes, the most injuries of any intersection on the list. See our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/auto-accidents/washtenaw-county",
+       "c": [
+        {
+         "t": "text",
+         "v": "Washtenaw County car accident page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": "."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "The campuses and downtowns."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " The University of Michigan in Ann Arbor and Eastern Michigan University in Ypsilanti bring tens of thousands of students who walk, bike, ride scooters, and take the bus. The county recorded 100 pedestrian crashes and 91 bicycle crashes in 2024. A pedestrian or cyclist hit by a car has a no-fault claim even without a car of their own, through a policy in their household or, if there is none, the Michigan Assigned Claims Plan (MCL 500.3114(1), 500.3115, 500.3172). See our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/pedestrian-accidents",
+       "c": [
+        {
+         "t": "text",
+         "v": "pedestrian accident"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " and "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/bicycle-accidents",
+       "c": [
+        {
+         "t": "text",
+         "v": "bicycle accident"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " pages."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "The rural roads and the deer."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " West and north of Ann Arbor, the county’s roads are two-lane, often unlit, and crossed by deer. Washtenaw recorded 1,409 deer crashes in 2024, more than its pedestrian, bicycle, and motorcycle crashes combined. A deer crash with no other vehicle is a no-fault claim against your own insurer for your injuries; your car is covered only by comprehensive coverage; and a motorcyclist who hits a deer has no PIP claim at all because no motor vehicle was involved. When a driver swerved to avoid a deer and hit another car, the case is about fault like any other crash."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Rental housing, apartments, and student housing."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Ann Arbor and Ypsilanti have large rental markets, many of them student houses and older buildings. Falls on broken stairs and porches, fire and carbon monoxide injuries, and tenant injuries under MCL 554.139 are recurring claims. See our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/tenant-injuries",
+       "c": [
+        {
+         "t": "text",
+         "v": "tenant injury"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ", "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/premises-liability",
+       "c": [
+        {
+         "t": "text",
+         "v": "premises liability"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ", and "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/slip-and-fall",
+       "c": [
+        {
+         "t": "text",
+         "v": "slip and fall"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " pages."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "The hospitals."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Two Level I trauma centers serve the county, which means the most seriously injured people in the region are often treated here, and so are many medical malpractice claims. See below."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-is-different-about-a-washtenaw-county-claim",
+   "heading": "What is different about a Washtenaw County claim",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Who owns the road."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " The Washtenaw County Road Commission maintains the county roads, including nearly every road in the twenty townships; townships do not own public roads. MDOT owns the state trunklines, including I-94, US-23, M-14, Michigan Avenue (US-12 and Business US-12), and Washtenaw Avenue (M-17 east of US-23; Business Loop I-94 and Business US-23 west of it). The cities, including Ann Arbor, Ypsilanti, Saline, Chelsea, Dexter, and Milan, own their own streets. A road-defect claim against the Road Commission or a city takes written notice within 120 days (MCL 691.1402, 691.1404); a road-defect claim against MDOT goes to the Court of Claims, with written notice filed there within 120 days (MCL 691.1404). In a township, the township itself, not the Road Commission, must keep the public sidewalks in repair (MCL 691.1401(d), 691.1402a)."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "The universities are the State."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " The University of Michigan and Eastern Michigan University are constitutional state institutions. A claim against either one, including a crash with a university bus or vehicle, an injury caused by a defective university building, or a malpractice claim against the university’s hospital, is a claim against the State: it is filed in the Michigan Court of Claims, tried to a judge without a jury, and requires written notice within six months of the injury under MCL 600.6431, or within 120 days for a defective building (MCL 691.1406). The universities’ own police and campus facilities are part of the same analysis. A claim against a private landlord, a bar, or another driver near campus is an ordinary claim in the ordinary courts."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Michigan Medicine and medical malpractice."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " University of Michigan Health in Ann Arbor is a Level I trauma center for adults and children, and Trinity Health Ann Arbor (formerly St. Joseph Mercy Ann Arbor), in Superior Township, is a Level I trauma center as well. Governmental immunity does not bar a malpractice claim for medical care at a university hospital (MCL 691.1407(4)), but a claim against the University of Michigan’s hospital proceeds against the State in the Court of Claims, while a claim against Trinity Health Ann Arbor proceeds in the circuit court like any private hospital. Both follow Michigan’s malpractice rules: a 182-day Notice of Intent (MCL 600.2912b), an Affidavit of Merit (MCL 600.2912d), a two-year period (MCL 600.5805(8)), and the 2026 noneconomic damages caps of $596,400 and $1,065,000 (MCL 600.1483). See our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/medical-malpractice",
+       "c": [
+        {
+         "t": "text",
+         "v": "medical malpractice page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": "."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Buses."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " TheRide (the Ann Arbor Area Transportation Authority) runs the county’s fixed-route buses; the University of Michigan and Eastern Michigan run campus buses. A crash with a TheRide bus proceeds under the motor vehicle exception to governmental immunity (MCL 691.1405); a crash with a university bus is a Court of Claims case. A passenger hurt on a bus has a no-fault claim, with priority set by MCL 500.3114(2). See our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/bus-accidents",
+       "c": [
+        {
+         "t": "text",
+         "v": "bus accident page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": "."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Drunk driving and the bars."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Washtenaw County recorded 276 alcohol-involved crashes in 2024. A bar or restaurant that served a visibly intoxicated person or a minor who then caused a crash can be liable under the dram shop act, with written notice within 120 days after the injured person hires a lawyer and suit within two years (MCL 436.1801). Serving minors is a recurring issue in a college county. See our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/drunk-driving-accidents",
+       "c": [
+        {
+         "t": "text",
+         "v": "drunk driving accident page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": "."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-courts-that-hear-washtenaw-county-injury-cases",
+   "heading": "The courts that hear Washtenaw County injury cases",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Court"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Where"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "What it hears"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "Washtenaw County Trial Court (22nd Judicial Circuit Court)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "101 E. Huron Street, Ann Arbor"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Injury and no-fault suits over $25,000; jury trials; case evaluation and facilitation"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Washtenaw County Probate Court"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "101 E. Huron Street, Ann Arbor"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Opening estates for wrongful death claims (MCL 600.2922); approval of minors’ settlements (MCR 2.420); guardianships after catastrophic injury"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "15th District Court"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Ann Arbor Justice Center, 301 E. Huron Street, Ann Arbor"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Claims up to $25,000 from the City of Ann Arbor, including mini tort claims"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "14A District Court"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "4133 Washtenaw Avenue (Pittsfield Township), with locations in Ypsilanti, Chelsea, and Saline"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Claims up to $25,000 from the rest of the county outside Ann Arbor and Ypsilanti Township"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "14B District Court"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "7200 S. Huron River Drive, Ypsilanti"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Claims up to $25,000 from Ypsilanti Township"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Michigan Court of Claims"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Lansing (Court of Appeals judges)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Claims against MDOT, the State, the University of Michigan, and Eastern Michigan University"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "U.S. District Court, Eastern District of Michigan"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Ann Arbor and Detroit"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Cases against out-of-state defendants; federal claims"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Venue is set by MCL 600.1629 in a fixed order. It begins with the county where the injury happened if a defendant lives or does business there, then that county if the plaintiff lives or does business there, so most Washtenaw crash cases are filed in Washtenaw County."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-cases-we-handle-in-washtenaw-county",
+   "heading": "The cases we handle in Washtenaw County",
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "link",
+        "href": "/personal-injury/auto-accidents/washtenaw-county",
+        "c": [
+         {
+          "t": "text",
+          "v": "Car accidents"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", including "
+       },
+       {
+        "t": "link",
+        "href": "/personal-injury/car-accident-insurance",
+        "c": [
+         {
+          "t": "text",
+          "v": "no-fault benefit claims"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " and threshold claims against the at-fault driver under MCL 500.3135"
+       }
+      ],
+      [
+       {
+        "t": "link",
+        "href": "/personal-injury/truck-accidents/washtenaw-county",
+        "c": [
+         {
+          "t": "text",
+          "v": "Truck accidents"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " on I-94, US-23, and M-14"
+       }
+      ],
+      [
+       {
+        "t": "link",
+        "href": "/personal-injury/motorcycle-accidents",
+        "c": [
+         {
+          "t": "text",
+          "v": "Motorcycle"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", "
+       },
+       {
+        "t": "link",
+        "href": "/personal-injury/pedestrian-accidents",
+        "c": [
+         {
+          "t": "text",
+          "v": "pedestrian"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", and "
+       },
+       {
+        "t": "link",
+        "href": "/personal-injury/bicycle-accidents",
+        "c": [
+         {
+          "t": "text",
+          "v": "bicycle"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " crashes"
+       }
+      ],
+      [
+       {
+        "t": "link",
+        "href": "/personal-injury/bus-accidents",
+        "c": [
+         {
+          "t": "text",
+          "v": "Bus accidents"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " involving TheRide, university buses, and school districts"
+       }
+      ],
+      [
+       {
+        "t": "link",
+        "href": "/personal-injury/rideshare-accidents",
+        "c": [
+         {
+          "t": "text",
+          "v": "Rideshare"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " crashes"
+       }
+      ],
+      [
+       {
+        "t": "link",
+        "href": "/personal-injury/drunk-driving-accidents",
+        "c": [
+         {
+          "t": "text",
+          "v": "Drunk driving"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " crashes and dram shop claims"
+       }
+      ],
+      [
+       {
+        "t": "link",
+        "href": "/personal-injury/slip-and-fall",
+        "c": [
+         {
+          "t": "text",
+          "v": "Slip and fall"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", "
+       },
+       {
+        "t": "link",
+        "href": "/personal-injury/premises-liability",
+        "c": [
+         {
+          "t": "text",
+          "v": "premises liability"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", and "
+       },
+       {
+        "t": "link",
+        "href": "/personal-injury/tenant-injuries",
+        "c": [
+         {
+          "t": "text",
+          "v": "tenant injuries"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "link",
+        "href": "/personal-injury/dog-bites",
+        "c": [
+         {
+          "t": "text",
+          "v": "Dog bites"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " under MCL 287.351"
+       }
+      ],
+      [
+       {
+        "t": "link",
+        "href": "/personal-injury/nursing-home-abuse",
+        "c": [
+         {
+          "t": "text",
+          "v": "Nursing home abuse and neglect"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "link",
+        "href": "/personal-injury/medical-malpractice",
+        "c": [
+         {
+          "t": "text",
+          "v": "Medical malpractice"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " and "
+       },
+       {
+        "t": "link",
+        "href": "/personal-injury/birth-injuries",
+        "c": [
+         {
+          "t": "text",
+          "v": "birth injuries"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", including claims against university and private hospitals"
+       }
+      ],
+      [
+       {
+        "t": "link",
+        "href": "/personal-injury/workers-compensation",
+        "c": [
+         {
+          "t": "text",
+          "v": "Workers’ compensation"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " and third-party claims for workplace injuries"
+       }
+      ],
+      [
+       {
+        "t": "link",
+        "href": "/personal-injury/wrongful-death",
+        "c": [
+         {
+          "t": "text",
+          "v": "Wrongful death"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "link",
+        "href": "/personal-injury/brain-injury",
+        "c": [
+         {
+          "t": "text",
+          "v": "Brain injuries"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " and "
+       },
+       {
+        "t": "link",
+        "href": "/personal-injury/spinal-cord-injury",
+        "c": [
+         {
+          "t": "text",
+          "v": "spinal cord injuries"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "link",
+        "href": "/disability/social-security-disability",
+        "c": [
+         {
+          "t": "text",
+          "v": "Social Security disability"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " and "
+       },
+       {
+        "t": "link",
+        "href": "/disability/short-long-term-disability",
+        "c": [
+         {
+          "t": "text",
+          "v": "long-term disability"
+         }
+        ]
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "communities-we-serve-in-washtenaw-county",
+   "heading": "Communities we serve in Washtenaw County",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "link",
+       "href": "/areas-served/ann-arbor",
+       "c": [
+        {
+         "t": "text",
+         "v": "Ann Arbor"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " · "
+      },
+      {
+       "t": "link",
+       "href": "/areas-served/ypsilanti",
+       "c": [
+        {
+         "t": "text",
+         "v": "Ypsilanti"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " · "
+      },
+      {
+       "t": "link",
+       "href": "/areas-served/pittsfield-township",
+       "c": [
+        {
+         "t": "text",
+         "v": "Pittsfield Township"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "We also represent clients from Ann Arbor Township, Augusta Township, Bridgewater Township, Chelsea, Dexter, Dexter Township, Freedom Township, Lima Township, Lodi Township, Lyndon Township, Manchester, Manchester Township, Milan, Northfield Township and Whitmore Lake, Salem Township, Saline, Saline Township, Scio Township, Sharon Township, Superior Township, Sylvan Township, Webster Township, York Township, and Ypsilanti Township."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "deadlines-that-apply-to-washtenaw-county-claims",
+   "heading": "Deadlines that apply to Washtenaw County claims",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Claim"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Deadline"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Statute"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "Negligence (crash, fall, dog bite)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "3 years from injury"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5805(2)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Written notice to your no-fault insurer"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "1 year from the crash"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 500.3145(1)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Road defect against the Road Commission or a city"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Written notice within 120 days"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 691.1402, 691.1404"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Public sidewalk defect in a township"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Written notice to the township within 120 days"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 691.1402a, 691.1404"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Claim against MDOT, the State, U-M, or EMU"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Court of Claims notice within 6 months for most injury claims; 120 days for a road or building defect"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.6431, 691.1404, 691.1406"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Medical malpractice"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "2 years, 182-day Notice of Intent first"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5805(8), 600.2912b"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Dram shop"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Notice within 120 days of hiring a lawyer; suit within 2 years"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 436.1801"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Injured child"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "3 years, or one year after the 18th birthday if later"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5851(1)"
+        }
+       ]
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "why-washtenaw-county-clients-call-atlaw",
+   "heading": "Why Washtenaw County clients call ATLAW",
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "text",
+        "v": "13 years of practice, more than 10,000 cases, and more than $100 million recovered for clients in southeast Michigan."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "The right defendant and the right court identified in the first weeks: the Road Commission, a city, a township, MDOT, a university, or a private party."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Every household policy reviewed for PIP level, UM/UIM, and collision coverage before the claim is valued."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Claims handled with the insurers, the hospitals, and the courts that handle Washtenaw County claims."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "No fee unless we recover money for you. The first conversation is free."
+       }
+      ]
+     ]
+    }
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How many car accidents happen in Washtenaw County?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "9,844 in 2024, according to the Michigan State Police, with 2,231 people injured and 35 killed. Ann Arbor had the most crashes of any community, 2,770."
+    }
+   ]
+  },
+  {
+   "question": "I was hurt in a crash with a University of Michigan bus. Who do I claim against?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "The University, which is a state institution, so the claim is filed in the Michigan Court of Claims and tried to a judge, and written notice must be filed within six months for an injury. Your own no-fault insurer pays your medical bills regardless of fault. If no policy in your household covers you, a passenger on the bus claims from the bus’s insurer, and a driver or pedestrian follows the ordinary priority rules."
+    }
+   ]
+  },
+  {
+   "question": "Can I sue the University of Michigan hospital for malpractice?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Yes. Governmental immunity does not bar malpractice claims for medical care at a university hospital, but the claim proceeds against the State in the Court of Claims, with Michigan’s malpractice notice, affidavit, deadline, and cap rules. A claim against a private hospital such as Trinity Health Ann Arbor goes to the circuit court."
+    }
+   ]
+  },
+  {
+   "question": "I hit a deer. Does insurance pay?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Your own no-fault insurer pays your medical bills and lost wages; your comprehensive coverage, if you have it, pays for the car. There is usually no one to sue. A motorcyclist who hits a deer has no PIP claim, because no motor vehicle was involved."
+    }
+   ]
+  },
+  {
+   "question": "I was hit while walking on campus and I don’t own a car. Who pays my bills?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "A policy in your household if there is one, including a parent’s policy if you live with them; if not, the Michigan Assigned Claims Plan. Students who live away from home should check whether a parent’s policy still covers them."
+    }
+   ]
+  },
+  {
+   "question": "Who do I notify about a pothole on a township road?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "The Washtenaw County Road Commission, in writing within 120 days, because townships do not own roads. MDOT, with notice filed with the Court of Claims within 120 days."
+    }
+   ]
+  },
+  {
+   "question": "Do you have an office in Washtenaw County?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Our office is at 3 Parklane Boulevard in Dearborn, east of Ypsilanti and Ann Arbor. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed."
+    }
+   ]
+  },
+  {
+   "question": "How long do I have?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Three years for most injury suits, one year to notify your no-fault insurer, two years for malpractice, and as little as 120 days for a claim against the Road Commission or a city, 120 days for a road-defect notice against MDOT, or six months for most other claims against the State or a university."
+    }
+   ]
+  }
+ ],
+ "cta": {
+  "id": "talk-to-a-washtenaw-county-injury-lawyer",
+  "heading": "Talk to a Washtenaw County injury lawyer",
+  "blocks": [
+   {
+    "t": "p",
+    "c": [
+     {
+      "t": "text",
+      "v": "If you or a family member was injured anywhere in Washtenaw County, call "
+     },
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "text",
+        "v": "(313) 406-7606"
+       }
+      ]
+     },
+     {
+      "t": "text",
+      "v": " or send the form on this page. We will tell you what your claim is, which insurers, agencies, and institutions are involved, which deadlines apply, and what to do next. The conversation is free, and there is no fee unless we recover money for you."
+     }
+    ]
+   },
+   {
+    "t": "p",
+    "c": [
+     {
+      "t": "em",
+      "c": [
+       {
+        "t": "text",
+        "v": "This page is general information about Michigan law as of October 2026 and is not legal advice. Crash figures are from the Michigan State Police, Michigan Traffic Crash Facts 2024, and State Police intersection data for 2024 as compiled and reported. Trauma center levels are from the State of Michigan’s list dated July 31, 2026. Results depend on the facts of each case, and past results do not guarantee a future outcome."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "wordCount": 2496,
+ "openItems": 0,
+ "source": {
+  "file": "B4-01_Washtenaw-County-Personal-Injury-Lawyers.docx",
+  "delivered": "October 25, 2026 [CONFIRM: Batch 4 delivery date]"
+ }
+}

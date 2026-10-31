@@ -1,0 +1,1098 @@
+{
+ "slug": "motorcycle-accidents",
+ "section": "personal-injury",
+ "city": "dearborn",
+ "status": "draft",
+ "seoTitle": "Dearborn Motorcycle Accident Lawyer: Who Pays a Rider’s Bills, the Helmet Law, and Dearborn’s Roads",
+ "seoDescription": "Hurt on a motorcycle in Dearborn? Michigan no-fault treats riders differently: the car’s insurer pays, not yours, and a crash with no car involved has no PIP at all. ATLAW’s Michigan Avenue office explains the priority rule, the helmet law, pothole claims against MDOT and the City, and the deadlines. Free review. (313) 406-7606.",
+ "h1": "Dearborn Motorcycle Accident Lawyer",
+ "tagline": "168 riders killed and 2,460 injured on Michigan roads in 2024. In Dearborn, the questions are which car’s insurer pays, whose road the pothole was on, and what the other driver’s $50,000 policy is worth against a rider’s injuries.",
+ "primaryKeyword": "dearborn motorcycle accident lawyer (140/mo)",
+ "secondaryKeywords": [
+  "motorcycle accident lawyer dearborn mi (40)",
+  "motorcycle accident lawyer dearborn (10)",
+  "motorcycle accident attorney dearborn (10)"
+ ],
+ "intro": [
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "A motorcycle crash in Dearborn is governed by a rule most riders learn only after they are hurt: under Michigan no-fault, a motorcycle is not a “motor vehicle.” That one definition decides who pays your medical bills, how much they pay, whether you have any no-fault claim at all, and how the insurer will argue the helmet question. Dearborn adds its own: five of the city’s main roads are the State’s, so a pothole claim may belong in the Court of Claims rather than against the City; and the drivers who turn left across a rider’s lane on Michigan Avenue and Ford Road come from Detroit and the western suburbs with very different policies."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "ATLAW is a personal injury firm at 3 Parklane Boulevard in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients. Our "
+    },
+    {
+     "t": "link",
+     "href": "/personal-injury/motorcycle-accidents",
+     "c": [
+      {
+       "t": "text",
+       "v": "Michigan motorcycle accident lawyer page"
+      }
+     ]
+    },
+    {
+     "t": "text",
+     "v": " covers the no-fault rules for riders in full, our "
+    },
+    {
+     "t": "link",
+     "href": "/areas-served/dearborn",
+     "c": [
+      {
+       "t": "text",
+       "v": "Dearborn page"
+      }
+     ]
+    },
+    {
+     "t": "text",
+     "v": " covers every kind of injury claim in the city, and our "
+    },
+    {
+     "t": "link",
+     "href": "/personal-injury/auto-accidents/dearborn",
+     "c": [
+      {
+       "t": "text",
+       "v": "Dearborn car accident page"
+      }
+     ]
+    },
+    {
+     "t": "text",
+     "v": " covers crashes between cars; this page covers what is particular about a Dearborn motorcycle crash. The first conversation is free, in English, Arabic, French, Mandarin, Urdu, or Spanish: (313) 406-7606."
+    }
+   ]
+  }
+ ],
+ "sections": [
+  {
+   "id": "motorcycle-crashes-by-the-numbers-2024",
+   "heading": "Motorcycle crashes by the numbers, 2024",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Measure"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Figure"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Source"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "Motorcycle crashes in Dearborn / riders injured / killed"
+        }
+       ],
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "placeholder",
+           "kind": "CONFIRM",
+           "v": "data"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MSP Michigan Traffic Crash Facts, city profile"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Motorcycle crashes in Wayne County / riders injured / killed"
+        }
+       ],
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "placeholder",
+           "kind": "CONFIRM",
+           "v": "data"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MSP, county profile"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Michigan motorcycle crashes / riders injured / killed"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "3,187 / 2,460 / 168"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MSP, 2024 Motorcycle Crash Facts"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Share of Michigan rider deaths involving alcohol"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "31 percent"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MSP 2024"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Wayne County crashes / injured / killed, all vehicles"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "50,355 / 16,458 / 177"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MSP 2024"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Michigan minimum liability limits for the at-fault driver"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$50,000 per person / $100,000 per crash"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 500.3009(1)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Medical coverage required to ride without a helmet (age 21+)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$20,000 first-party medical"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 257.658"
+        }
+       ]
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "where-dearborn-motorcycle-crashes-happen",
+   "heading": "Where Dearborn motorcycle crashes happen",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "The left-turn crash on the arterials."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Michigan Avenue, Ford Road, Telegraph, Greenfield, Schaefer, Warren, and Outer Drive: wide, multi-lane, with a car turning left across the rider’s lane at every signal and every driveway along the east-side business district and Fairlane. “I didn’t see the motorcycle” is a recurring account, and under Michigan law a driver must yield to oncoming traffic before turning left (MCL 257.650). "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "ATTORNEY CHECK",
+         "v": ""
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "The freeways."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " I-94 across the south of the city and its interchanges with the Southfield Freeway, Rotunda, Oakwood, and Greenfield; M-39 with its short ramps. Lane-change crashes by drivers who did not check the mirror, rear-end crashes in stopped traffic, and single-vehicle crashes on grooved pavement, expansion joints, and the ramps."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "The road itself."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Potholes, pavement drop-offs, steel plates, and gravel produce the single-vehicle crashes no-fault does not cover. A rider thrown by a road defect has a claim against whichever agency has jurisdiction, under the highway exception to governmental immunity (MCL 691.1402). In Dearborn that split matters: Michigan Avenue, Ford Road, Telegraph, the Southfield Freeway, and I-94 are MDOT’s, with written notice filed in the Court of Claims within 120 days (MCL 691.1404); Greenfield, Outer Drive, and Warren are Wayne County’s and Schaefer and the neighborhood streets are the City’s, with 120 days’ written notice (MCL 691.1404). The agency must have known, or be presumed to have known, of the defect; a defect that was readily apparent for 30 days or more is presumed known (MCL 691.1403). Notice to the wrong agency is not notice. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "ATTORNEY CHECK",
+         "v": "jurisdiction list; 1403 presumption"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "The industrial south."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Rotunda, Oakwood, and Miller Road, shared with heavy trucks to the Rouge; a rider struck by a truck has the federal-rules case described on our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/truck-accidents/dearborn",
+       "c": [
+        {
+         "t": "text",
+         "v": "Dearborn truck accident page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": "."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "who-pays-a-dearborn-riders-medical-bills",
+   "heading": "Who pays a Dearborn rider’s medical bills",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "If a car or truck was involved, you have no-fault benefits, but not from your motorcycle insurer."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Under MCL 500.3114(5), your Personal Injury Protection benefits come, in this order, from the insurer of the owner of the motor vehicle involved, then the insurer of that vehicle’s driver, then your own auto insurer if you have a car policy, then the auto insurer of the motorcycle’s owner if someone else owns it. “Involved” does not require contact; a car that cut you off and caused you to go down is involved even if it never touched you. If no insurer in that chain exists, the Michigan Assigned Claims Plan pays (MCL 500.3172), with its $250,000 medical cap. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "ATTORNEY CHECK",
+         "v": "the fourth position in 3114(5) is the motor vehicle insurer of the motorcycle’s owner, not the motorcycle policy itself; the motorcycle hub and the Detroit motorcycle page say “the insurer of your motorcycle” and should be aligned; MACP eligibility for riders"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The benefits are the ones a driver would get under MCL 500.3107: medical expenses up to the PIP limit on the policy that pays, 85 percent of lost wages for up to three years up to the monthly cap DIFS sets each October, $20 a day in replacement services, attendant care, and mileage. Written notice to the responsible insurer is due within one year (MCL 500.3145(1)). See our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/car-accident-insurance",
+       "c": [
+        {
+         "t": "text",
+         "v": "no-fault insurance claim page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": "."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The first medical limit is set by a policy you did not choose. Since the 2019 reform, the PIP medical level on the policy first in priority pays first; if the driver who hit you chose $250,000, that policy pays up to $250,000, and a lower-priority policy with more coverage, such as your own car policy, may then pay the rest."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "If no car or truck was involved, no-fault does not apply at all."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " A single-vehicle crash, a pothole on Ford Road, gravel on a ramp: no PIP claim. Your bills go to your health insurance and to any medical coverage you bought on the motorcycle policy, and your injury claim is against whoever caused the hazard, the road agency, a property owner, or a manufacturer (see our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/product-liability",
+       "c": [
+        {
+         "t": "text",
+         "v": "product liability page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ")."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Your motorcycle."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Your own collision or comprehensive coverage pays for the bike. The mini tort claim does not cover a motorcycle, because a motorcycle is not a “motor vehicle” under the no-fault act ("
+      },
+      {
+       "t": "em",
+       "c": [
+        {
+         "t": "text",
+         "v": "Nerat v Swacker"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ", 150 Mich App 61, 1986). Keep the bike, the helmet, and the gear unrepaired and unsold until a lawyer has seen them."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "your-claim-against-the-driver-who-hit-you",
+   "heading": "Your claim against the driver who hit you",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "For pain and suffering and economic losses beyond no-fault, you sue the at-fault driver, and you can if your injury is a "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "serious impairment of body function"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ", permanent serious disfigurement, or death under MCL 500.3135. Motorcycle injuries clear the threshold more often than car injuries: fractures, road rash requiring grafts, torn ligaments, "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/brain-injury",
+       "c": [
+        {
+         "t": "text",
+         "v": "brain injuries"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ", and "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/spinal-cord-injury",
+       "c": [
+        {
+         "t": "text",
+         "v": "spinal cord injuries"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ". You also recover excess economic damages, medical bills above the PIP limit that applied to you and wage loss above the cap (MCL 500.3135(3)(c)). Three years to sue (MCL 600.5805(2)); a fatal crash is brought by the estate (see our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/wrongful-death/dearborn",
+       "c": [
+        {
+         "t": "text",
+         "v": "Dearborn wrongful death page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ")."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "What the claim is worth depends on the other driver’s policy."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " A driver from Detroit’s side of Dearborn is more likely to carry the $50,000 minimum or nothing; one from the west side, more. The recovery then turns on your own "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "uninsured and underinsured motorist coverage"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ", which must be on the motorcycle policy (many car policies exclude the insured while on an owned motorcycle), and on whether the driver was working. If the driver fled, the UM claim also requires a prompt police report and notice per the policy. See our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/uninsured-motorist-claims",
+       "c": [
+        {
+         "t": "text",
+         "v": "uninsured motorist page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": "."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Comparative fault is the fight."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Above 50 percent at fault you recover no noneconomic damages; below that your award is reduced by your share (MCL 500.3135(2)(b), 600.2959). Insurers argue speed, lane position, lane splitting (illegal in Michigan), and “came out of nowhere.” The UD-10, witnesses, the other driver’s phone records, business camera footage along Michigan Avenue, and the rider’s own camera answer it."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-helmet-question",
+   "heading": "The helmet question",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Since 2012, Michigan has let riders 21 and older ride without a helmet if they carry at least $20,000 in first-party medical coverage and have either held a motorcycle endorsement for two years or passed an approved safety course (MCL 257.658). If you met those conditions, riding helmetless was legal, so it was not a traffic violation. The insurer will still raise it: in a head-injury case as a damages argument for the jury, not a bar; in a leg or shoulder case it is irrelevant, and we say so. Riding helmetless without meeting the conditions is a civil infraction the insurer will use for comparative fault; it does not end the claim. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "ATTORNEY CHECK",
+         "v": ""
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-to-do-after-a-dearborn-motorcycle-crash",
+   "heading": "What to do after a Dearborn motorcycle crash",
+   "blocks": [
+    {
+     "t": "ol",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Get medical care the same day."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Corewell Health Dearborn Hospital on Oakwood Boulevard, or the Detroit Level I trauma centers for the most serious injuries. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": "hospital list"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Get the Dearborn Police report."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " The UD-10 is purchased online through CLEMIS. If a car caused the crash without contact, make sure the report says so."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Identify every vehicle involved"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", including the one that never touched you; its insurer is first in line."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Photograph the bike, the scene, the road surface, your gear, and your injuries."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Do not repair or sell the bike."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Read your motorcycle policy for first-party medical, UM/UIM, and collision coverage"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", and your car policy’s PIP level."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Apply for no-fault benefits with the right insurer within the first week"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", and do not give a recorded statement to the other driver’s insurer."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "If a road defect was involved, call within days"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": "; the notice clock is 120 days, and the defect will be patched."
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Our "
+      },
+      {
+       "t": "link",
+       "href": "/resources/what-to-do-after-an-accident",
+       "c": [
+        {
+         "t": "text",
+         "v": "full checklist"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " covers the first day, week, month, and year."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "deadlines-for-dearborn-motorcycle-crash-claims",
+   "heading": "Deadlines for Dearborn motorcycle crash claims",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "What"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "When"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Statute"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "Written notice to the responsible no-fault insurer"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "1 year"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 500.3145(1)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Hit-and-run or UM claim notice"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Per policy; often short"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Policy terms"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Road defect claim against the City of Dearborn or Wayne County"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Written notice within 120 days"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 691.1404"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Defect on Michigan Avenue, Ford Road, Telegraph, M-39, or I-94 (MDOT)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Notice filed with the Court of Claims within 120 days"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 691.1404, 600.6431"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Suit against the at-fault driver"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "3 years"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5805(2)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Wrongful death"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "3 years, with the estate’s savings provision"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5805(2), 600.5852"
+        }
+       ]
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "why-dearborn-riders-call-atlaw",
+   "heading": "Why Dearborn riders call ATLAW",
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "text",
+        "v": "An office at 3 Parklane Boulevard in Dearborn, with free surface parking and walk-in consultations available; 13 years, more than 10,000 cases, more than $100 million recovered."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Every vehicle involved and every policy in the priority chain identified before the no-fault application is filed."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "The road agency identified before the notice runs: MDOT, County, or City."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "No attorney fee or case costs unless we recover money for you. The first conversation is free."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Consultations can be accommodated in English, Arabic, French, Mandarin, Urdu, and Spanish. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed."
+       }
+      ]
+     ]
+    }
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "A car cut me off on Ford Road and I went down, but it never hit me. Do I have a claim?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Yes. Under Michigan no-fault the car is “involved” without contact, so its owner’s insurer is first in line for your medical bills, and if the driver was at fault you have an injury claim against them. Get the plate, the witnesses, and any camera footage before the car is gone."
+    }
+   ]
+  },
+  {
+   "question": "I hit a pothole on Michigan Avenue and crashed. Can I sue the City of Dearborn?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Michigan Avenue is a state trunkline, so the claim is against MDOT in the Court of Claims with notice within 120 days, not against the City. On a city street the notice goes to the City within 120 days; on Greenfield, Warren, or Outer Drive, to Wayne County. The agency must have known of the defect, and a defect that was readily apparent for 30 days or more is presumed known."
+    }
+   ]
+  },
+  {
+   "question": "The driver who hit me had no insurance. Who pays?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Your own car insurer if you have a car policy, then the Assigned Claims Plan for no-fault benefits. Your pain-and-suffering claim depends on whether you carry uninsured motorist coverage on the motorcycle policy."
+    }
+   ]
+  },
+  {
+   "question": "I wasn’t wearing a helmet. Can I still recover?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Yes. If you were 21 or older with the required $20,000 medical coverage and either two years of endorsement or a safety course, riding helmetless was legal. The insurer can argue a helmet would have reduced a head injury, which goes to damages, not to whether you have a claim."
+    }
+   ]
+  },
+  {
+   "question": "How long do I have?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "One year to notify the responsible no-fault insurer, three years to sue the at-fault driver, 120 days for a road defect notice to the City, County, or State."
+    }
+   ]
+  }
+ ],
+ "cta": {
+  "id": "talk-to-a-dearborn-motorcycle-accident-lawyer",
+  "heading": "Talk to a Dearborn motorcycle accident lawyer",
+  "blocks": [
+   {
+    "t": "p",
+    "c": [
+     {
+      "t": "text",
+      "v": "If you were hurt on a motorcycle anywhere in Dearborn, call "
+     },
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "text",
+        "v": "(313) 406-7606"
+       }
+      ]
+     },
+     {
+      "t": "text",
+      "v": " or send the form on this page. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed. We will tell you which insurer owes your benefits, whether you have a claim against the driver or the road agency, and what to do first. The review is free, and there is no fee unless we recover money for you."
+     }
+    ]
+   },
+   {
+    "t": "p",
+    "c": [
+     {
+      "t": "em",
+      "c": [
+       {
+        "t": "text",
+        "v": "This page is general information about Michigan law as of October 2026 and is not legal advice. Crash figures are from the Michigan State Police, 2024 Motorcycle Crash Facts and Michigan Traffic Crash Facts 2024. Results depend on the facts of each case, and past results do not guarantee a future outcome."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "wordCount": 2175,
+ "openItems": 7,
+ "source": {
+  "file": "B2-75_Dearborn-Motorcycle-Accident-Lawyer.docx",
+  "delivered": "2026-10-16"
+ }
+}

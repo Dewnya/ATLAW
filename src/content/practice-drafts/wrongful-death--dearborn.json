@@ -1,0 +1,1052 @@
+{
+ "slug": "wrongful-death",
+ "section": "personal-injury",
+ "city": "dearborn",
+ "status": "draft",
+ "seoTitle": "Dearborn Wrongful Death Lawyer: Who Can File, What the Family Recovers, and the Probate Step",
+ "seoDescription": "When a family member dies in Dearborn because of someone’s negligence, Michigan law gives the estate a claim, not the family directly. ATLAW’s Dearborn office explains the personal representative, the Wayne County Probate Court, the damages, no-fault survivor’s loss benefits, and the deadlines, and works the legal steps around the family’s burial customs. Free, confidential consultation. (313) 406-7606.",
+ "h1": "Dearborn Wrongful Death Lawyer",
+ "tagline": "177 people were killed in Wayne County crashes in 2024. Michigan’s Wrongful Death Act gives the family a claim through the estate, divided by the probate court, with deadlines that depend on how the death happened. A Dearborn firm handles the whole process, and works it around the funeral, not the other way around.",
+ "primaryKeyword": "dearborn wrongful death lawyer (30/mo) · wrongful death attorney dearborn mi (30/mo)",
+ "secondaryKeywords": [
+  "wrongful death lawyer dearborn mi (20)",
+  "wrongful death attorney dearborn (10)"
+ ],
+ "intro": [
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "When someone dies in Dearborn because another person or company was careless, Michigan’s Wrongful Death Act (MCL 600.2922) gives the family a claim. It does not give it in the way most families expect. The claim belongs to the estate, not to the spouse or children directly. It must be brought by a personal representative appointed by the Wayne County Probate Court. The recovery is divided among family members by a judge, not by the family. And the deadline depends on what caused the death: a crash on Michigan Avenue or I-94, a truck at the Rouge, a fall, a hospital error, a nursing home. This page explains how the process works for a Dearborn family and what to do in the first weeks."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "ATLAW was founded in Dearborn and has practiced here for 13 years, from an office at 3 Parklane Boulevard. The firm has handled more than 10,000 cases and recovered more than $100 million for clients, and it handles the whole wrongful death process for the family: the probate appointment, the no-fault survivor’s loss claim, the wrongful death suit, and the distribution hearing. Our "
+    },
+    {
+     "t": "link",
+     "href": "/personal-injury/wrongful-death",
+     "c": [
+      {
+       "t": "text",
+       "v": "Michigan wrongful death lawyer page"
+      }
+     ]
+    },
+    {
+     "t": "text",
+     "v": " covers the Act in full and our "
+    },
+    {
+     "t": "link",
+     "href": "/areas-served/dearborn",
+     "c": [
+      {
+       "t": "text",
+       "v": "Dearborn page"
+      }
+     ]
+    },
+    {
+     "t": "text",
+     "v": " covers every kind of injury claim in the city. The first conversation is free and confidential, in English, Arabic, French, Mandarin, Urdu, or Spanish: (313) 406-7606."
+    }
+   ]
+  }
+ ],
+ "sections": [
+  {
+   "id": "fatal-injuries-in-dearborn-and-wayne-county",
+   "heading": "Fatal injuries in Dearborn and Wayne County",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Measure"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Figure"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Source"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "People killed in Dearborn crashes, 2024"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "4"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MSP Michigan Traffic Crash Facts, city profile"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "People killed in Wayne County crashes, 2024"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "177 (Oakland: 68; Macomb: 70)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MSP, Michigan Traffic Crash Facts 2024"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Pedestrians killed in Wayne County crashes, 2024"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "40"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MSP, Pedestrian Crash Report 2020–2024"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Heavy trucks and buses in Wayne County crashes, 2024"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "3,916"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MSP 2024"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Michigan motorcyclists killed, 2024"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "168"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MSP 2024 Motorcycle Crash Facts"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "2026 medical malpractice noneconomic damages caps (apply in death cases)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$596,400 / $1,065,000"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.1483"
+        }
+       ]
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "how-a-dearborn-wrongful-death-claim-works",
+   "heading": "How a Dearborn wrongful death claim works",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "The estate."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Only the personal representative can bring the claim (MCL 600.2922(2)). If there is a will naming an executor, that person petitions the Wayne County Probate Court, in the Coleman A. Young Municipal Center in Detroit, for appointment; if not, a family member, usually the spouse or an adult child, petitions under Michigan’s priority rules (MCL 700.3203). The court issues letters of authority, and the personal representative then has standing to hire a lawyer for the estate and file. We file the petition as the first legal step. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "ATTORNEY CHECK",
+         "v": "EPIC appointment summary"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Notice to the family."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Within 30 days after filing suit, the personal representative must notify in writing every person who may share: the spouse, children, descendants, parents, grandparents, brothers and sisters, the children of the deceased’s spouse, and anyone named in the will (MCL 600.2922(3), (4))."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "The claim."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " The suit is the injury claim the person would have had, brought by the estate against whoever caused the death, in the Third Judicial Circuit Court for most defendants, the Court of Claims for the State, and the Eastern District of Michigan for federal claims. The added evidence is the death itself: the Wayne County Medical Examiner’s report, the death certificate, the Dearborn Fire Department EMS run sheet, the Corewell Health Dearborn or Detroit hospital record, and the police or fire investigation."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "The damages"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " (MCL 600.2922(6)): medical and hospital expenses from the injury to the death; funeral and burial expenses; the person’s "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "conscious pain and suffering"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " between the injury and death; "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "loss of financial support"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " over a working life; and "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "loss of society and companionship"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " for each family member. Michigan places no cap on these except in medical malpractice cases, and does not award punitive damages in wrongful death cases."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "The distribution hearing."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " After a settlement or verdict, the personal representative proposes a division among the eligible family members, with notice to each; if they agree, the court approves it, and if not, the court decides based on each person’s relationship and loss (MCL 600.2922(6)). Fees and costs are approved at the same hearing. Because a judge divides the money, no family member should sign anything with an insurer; a settlement with one relative is not a settlement of the estate’s claim."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-causes-of-dearborn-wrongful-death-claims",
+   "heading": "The causes of Dearborn wrongful death claims",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Crashes"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " on Michigan Avenue, Ford Road, Telegraph, the Southfield Freeway, and I-94. The at-fault driver’s liability insurer pays, subject to policy limits that on the east side are often the $50,000 opt-down minimum (MCL 500.3009(5)); the deceased’s own underinsured motorist coverage, umbrella policies, and the employer’s policy if the driver was working are checked first. Separately, "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "no-fault survivor’s loss benefits"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " (MCL 500.3108) are paid regardless of fault by the deceased’s own insurer, or the insurer that would have paid their PIP, for three years: the economic support the person provided up to the monthly cap DIFS sets each October, $20 a day in replacement services, and funeral expenses up to the policy limit, at least $1,750 and up to $5,000 (MCL 500.3107(1)(a)). Written notice is due within one year (MCL 500.3145(1)); do not wait for the lawsuit. Fatal truck crashes bring the federal rules and $750,000-plus carrier policies on our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/truck-accidents/dearborn",
+       "c": [
+        {
+         "t": "text",
+         "v": "Dearborn truck accident page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": "; fatal motorcycle crashes follow the rider rules on our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/motorcycle-accidents/dearborn",
+       "c": [
+        {
+         "t": "text",
+         "v": "Dearborn motorcycle accident page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": "; pedestrian deaths follow MCL 500.3115 and our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/pedestrian-accidents",
+       "c": [
+        {
+         "t": "text",
+         "v": "pedestrian accident page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": "."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Drunk driving."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " The driver, and under the dram shop act (MCL 436.1801) the bar or store that served a visibly intoxicated person, with notice to the retailer within 120 days of hiring a lawyer. The criminal case proceeds separately; the family’s claim does not wait for it. See our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/drunk-driving-accidents",
+       "c": [
+        {
+         "t": "text",
+         "v": "drunk driving accident page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": "."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Workplace deaths"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " at the Rouge, the steel works, the plants, and the hospitals. The employer owes workers’ compensation death benefits to dependents, 500 weeks plus burial (MCL 418.321, 418.345), and cannot otherwise be sued (418.131); a contractor, a vendor’s driver, a property owner, or a manufacturer whose negligence caused the death can be. The MIOSHA investigation file is the first evidence requested. See our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/workers-compensation/dearborn",
+       "c": [
+        {
+         "t": "text",
+         "v": "Dearborn workers’ compensation page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": "."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Hospital and medical negligence"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " at Corewell Health Dearborn or the Detroit hospitals: a wrongful death claim with the malpractice rules attached, a 182-day Notice of Intent (MCL 600.2912b), an Affidavit of Merit (600.2912d), a two-year period (600.5805(8), 600.5838a), and the cap (600.1483). See our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/medical-malpractice/dearborn",
+       "c": [
+        {
+         "t": "text",
+         "v": "Dearborn medical malpractice page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": "."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Nursing homes and rental housing."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Deaths from neglect in Dearborn’s licensed facilities, which may be negligence or malpractice (see our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/nursing-home-abuse/dearborn",
+       "c": [
+        {
+         "t": "text",
+         "v": "Dearborn nursing home abuse page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": "); and deaths from fires, falls, and carbon monoxide in rental housing under MCL 554.139 (see our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/slip-and-fall/dearborn",
+       "c": [
+        {
+         "t": "text",
+         "v": "Dearborn slip and fall page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ")."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Deaths involving the City of Dearborn, Wayne County, or MDOT."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " A City or SMART vehicle under the motor vehicle exception (MCL 691.1405); a defective city or county road or sidewalk under the highway exception with 120-day notice (691.1402, 1404); a defect on Michigan Avenue, Ford Road, Telegraph, M-39, or I-94 against MDOT in the Court of Claims, with notice filed there within 120 days (691.1404). An individual employee is liable only for gross negligence (MCL 691.1407(2))."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "deadlines-for-dearborn-wrongful-death-claims",
+   "heading": "Deadlines for Dearborn wrongful death claims",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Claim"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Deadline"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Statute"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "Most wrongful death claims (crash, fall, fire, product, premises)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "3 years from the death"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5805(2), 600.2922"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Medical malpractice"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Notice of Intent, then 2 years, with a 6-month discovery rule and 6-year repose"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.2912b, 600.5805(8), 600.5838a"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Savings provision for the estate"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Up to 2 years after letters of authority, but no more than 3 years after the ordinary period ran"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5852"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "No-fault survivor’s loss benefits"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Written notice within 1 year"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 500.3145(1)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Claim against the City of Dearborn or Wayne County"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Written notice within 120 days"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 691.1404, 691.1406"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Claim against MDOT or the State"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "120 days for a road or building defect (MCL 691.1404); 6 months for other claims (MCL 600.6431)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.6431"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Dram shop claim"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Written notice within 120 days of hiring a lawyer; suit within 2 years (the 120 days runs from entering an attorney-client relationship, MCL 436.1801(3))"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 436.1801"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The savings provision gives a personal representative time to be appointed and to sue, but it extends the ordinary deadline by a limited period and courts apply it strictly. Open the estate and file inside the ordinary deadline."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-the-family-should-do-in-the-first-weeks",
+   "heading": "What the family should do in the first weeks",
+   "blocks": [
+    {
+     "t": "ol",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Get the death certificate and request the Medical Examiner’s report."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Deaths from injury in Wayne County are investigated by the Wayne County Medical Examiner. Where the family’s customs call for burial within a day, the Medical Examiner’s office can usually be asked to complete its examination promptly; call the office or call us. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": "wording; verify current ME procedure"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Keep everything"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": the vehicle, the phone, the helmet, the clothing, the medication bottles, the device. Do not authorize repair or disposal of a vehicle until a lawyer has seen it."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Notify the no-fault insurer in writing"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " if a vehicle was involved; survivor’s loss benefits begin on the claim, not on the lawsuit."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Do not give a recorded statement"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " to any insurer and do not sign any document, however it is described. An insurer offering to “cover the funeral” in exchange for a signature is settling the claim for the price of a funeral."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Open the estate."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " The probate petition is the first legal step; nothing else can be filed until letters issue."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Call within days"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " if the death involved a City, County, or State road or vehicle, a bar, or an employer; the notice periods run from the death, not from the appointment."
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "why-dearborn-families-call-atlaw",
+   "heading": "Why Dearborn families call ATLAW",
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "text",
+        "v": "An office at 3 Parklane Boulevard in Dearborn, with free surface parking and consultations available by appointment; 13 years handling the probate petition, the survivor’s loss claim, the suit, and the distribution hearing."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "More than 10,000 cases; more than $100 million recovered."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Funeral and burial customs come first; the legal steps are worked around them."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Daily work in the Third Circuit and the Wayne County Probate Court."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "No attorney fee or case costs unless we recover money for the estate; fees and costs are approved by the probate court. The first conversation is free."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Consultations can be accommodated in English, Arabic, French, Mandarin, Urdu, and Spanish. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed."
+       }
+      ]
+     ]
+    }
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Who can file a wrongful death lawsuit in Dearborn?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Only the personal representative of the estate, appointed by the Wayne County Probate Court. A spouse, child, or parent can be appointed, but must be, before the claim can be filed."
+    }
+   ]
+  },
+  {
+   "question": "Who receives the money?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "The spouse, children, descendants, parents, grandparents, siblings, stepchildren, and anyone named in the will may share. The probate court approves the division after notice to each of them."
+    }
+   ]
+  },
+  {
+   "question": "How long do we have?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Three years from the death for most claims, two years with a 182-day notice for medical malpractice, one year to claim no-fault survivor’s loss benefits, 120 days to notify the City or the County, and 120 days from hiring a lawyer to notify a bar. The savings provision can extend the deadline for an estate in limited circumstances, but should not be relied on."
+    }
+   ]
+  },
+  {
+   "question": "We buried our family member within a day. Does that affect the case?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Not the claim itself. The Medical Examiner’s findings, the hospital and EMS records, and the police investigation establish the cause of death. Where an autopsy was not performed, the medical record and the circumstances carry the case."
+    }
+   ]
+  },
+  {
+   "question": "My family member died at work at the Rouge. Is that a wrongful death case?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "The employer owes workers’ compensation death benefits and cannot otherwise be sued, but any contractor, vendor, property owner, or manufacturer whose negligence caused the death can be, and that suit is the wrongful death claim."
+    }
+   ]
+  },
+  {
+   "question": "Does the family pay anything up front?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "No. The case is handled on contingency, costs are advanced by the firm, and the fee and costs are approved by the probate court at the distribution hearing. "
+    },
+    {
+     "t": "strong",
+     "c": [
+      {
+       "t": "placeholder",
+       "kind": "CONFIRM",
+       "v": ""
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "cta": {
+  "id": "talk-to-a-dearborn-wrongful-death-lawyer",
+  "heading": "Talk to a Dearborn wrongful death lawyer",
+  "blocks": [
+   {
+    "t": "p",
+    "c": [
+     {
+      "t": "text",
+      "v": "If you have lost a family member in Dearborn because of someone else’s negligence, call "
+     },
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "text",
+        "v": "(313) 406-7606"
+       }
+      ]
+     },
+     {
+      "t": "text",
+      "v": " or send the form on this page. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed. We will explain the probate step, the deadlines, and the benefits available now. The conversation is free and confidential, and there is no fee unless we recover money for the estate."
+     }
+    ]
+   },
+   {
+    "t": "p",
+    "c": [
+     {
+      "t": "em",
+      "c": [
+       {
+        "t": "text",
+        "v": "This page is general information about Michigan law as of October 2026 and is not legal advice. Crash figures are from the Michigan State Police, Michigan Traffic Crash Facts 2024. Results depend on the facts of each case, and past results do not guarantee a future outcome."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "wordCount": 2045,
+ "openItems": 3,
+ "source": {
+  "file": "B2-76_Dearborn-Wrongful-Death-Lawyer.docx",
+  "delivered": "2026-10-16"
+ }
+}

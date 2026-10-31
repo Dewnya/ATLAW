@@ -1,11 +1,11 @@
-import { Link, Navigate, useParams } from "react-router-dom";
+import { Link, useParams } from "react-router-dom";
 import { Header } from "../components/ATLAW/Header";
 import { Footer } from "../components/ATLAW/Footer";
 import { PageMeta } from "../components/ATLAW/PageMeta";
-import { MobileFloatingCTA } from "../components/ATLAW/MobileFloatingCTA";
 import { IntakeFormSection } from "../components/ATLAW/IntakeFormSection";
 import { newsBySlug, newsPosts } from "../data/news";
 import { newsArticleSchema } from "../data/schema-org";
+import { NotFoundPage } from "./NotFoundPage";
 import "./PersonalInjury.css";
 
 const GOLD = "#C9A24B";
@@ -34,7 +34,7 @@ export const NewsPostPage = (): JSX.Element => {
   const { slug } = useParams<{ slug: string }>();
   const post = slug ? newsBySlug(slug) : undefined;
 
-  if (!post) return <Navigate replace to="/news" />;
+  if (!post) return <NotFoundPage />;
 
   const others = newsPosts.filter((p) => p.slug !== post.slug).slice(0, 2);
 
@@ -183,7 +183,6 @@ export const NewsPostPage = (): JSX.Element => {
 
         <IntakeFormSection />
       </main>
-      <MobileFloatingCTA />
       <Footer />
     </div>
   );

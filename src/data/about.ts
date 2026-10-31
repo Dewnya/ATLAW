@@ -1,3 +1,5 @@
+import { VERIFIED_TOTALS, YEARS_SERVING } from "./firm";
+
 export const timelineEvents = [
   {
     year: "2013",
@@ -74,9 +76,14 @@ export const founderBio = {
 };
 
 export const byTheNumbers = [
-  { label: "Founded", value: "2013" },
-  { label: "Cases Closed", value: "10,000+" },
-  { label: "Recovered for Clients", value: "$100M+" },
+  { label: "Years Serving Clients", value: String(YEARS_SERVING) },
+  // Lifetime totals appear only once verified (data/firm.ts).
+  ...(VERIFIED_TOTALS
+    ? [
+        { label: "Cases Handled", value: VERIFIED_TOTALS.casesHandled },
+        { label: "Recovered for Clients", value: VERIFIED_TOTALS.recovered },
+      ]
+    : []),
   { label: "Team Members", value: "29" },
   { label: "Home Base", value: "Dearborn, MI" },
   { label: "Rising Star", value: "3×" },

@@ -12,8 +12,6 @@
 
   <!-- News / press releases -->
   <url><loc>https://atlawgroup.com/news/dewnya-bazzi-super-lawyers-rising-star-2026</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://atlawgroup.com/news/atlaw-surpasses-7-million-in-client-recoveries</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://atlawgroup.com/news/atlaw-expands-personal-injury-team</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
 
   <!-- Practice area pages -->
   <url><loc>https://atlawgroup.com/personal-injury</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>

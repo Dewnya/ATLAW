@@ -1,11 +1,15 @@
-import { useState } from "react";
+import { Fragment, useState } from "react";
 import { Link } from "react-router-dom";
 import type { PracticeAreaPI } from "../../data/practice/pi/types";
-import type { CityData } from "../../data/cities";
-import { cities } from "../../data/cities";
+import type { CityData, CityInfo } from "../../data/cities";
+import { cities, cityBySlug, cityPhoto } from "../../data/cities";
+import { practiceRegistry } from "../../data/practice/pi/registry";
+import { hasCityContent } from "../../content";
 import { practiceAreaBySlug } from "../../data/practice/pi";
 import { openIntakeModal } from "./IntakeModal";
+import { YEARS_SERVING } from "../../data/firm";
 import { IntakeFormSection } from "./IntakeFormSection";
+import { BreadcrumbSchema } from "./Breadcrumbs";
 
 const GOLD = "#C9A24B";
 const GOLD_ACCENT = "#B88A2D";
@@ -82,25 +86,41 @@ const ChevronRight = () => (
 
 /* ─────────────────── 1. Hero ─────────────────── */
 
-const Hero = ({ practice, city }: { practice: PracticeAreaPI; city: CityData }) => (
+/** The practice fields the city sections need (the registry entry of an imported page is enough). */
+export type CityPractice = Pick<PracticeAreaPI, "slug" | "title" | "tagline">;
+
+/** The breadcrumb trail above a city page: ATLAW / section / practice / city (a hub: ATLAW / Areas We Serve / city). */
+const cityCrumbs = (practice: CityPractice, city: CityInfo, section: "personal-injury" | "disability" | "areas-served") => [
+  { label: "ATLAW", to: "/" },
+  ...(section === "areas-served" ? [{ label: "Areas We Serve", to: "/areas-served" }] : []),
+  ...(section === "personal-injury" ? [{ label: "Personal Injury", to: "/personal-injury" }] : []),
+  ...(section === "areas-served" || practice.slug === "personal-injury" ? [] : [{ label: practice.title, to: `/${section}/${practice.slug}` }]),
+  { label: city.name },
+];
+
+export const CityHero = ({ practice, city, heroTitle, section = "personal-injury" }: { practice: CityPractice; city: CityInfo; heroTitle?: string; section?: "personal-injury" | "disability" | "areas-served" }) => (
   <section
     aria-labelledby="city-hero-title"
     className="relative w-full overflow-hidden bg-white"
   >
     <Grain opacity="0.03" />
-    <div className="relative mx-auto w-full max-w-[1180px] px-6 pb-12 pt-16 sm:px-10 md:pb-16 md:pt-20 lg:px-16 lg:pb-20 lg:pt-24">
+    <div className="relative mx-auto w-full max-w-[1320px] px-6 pb-12 pt-16 sm:px-10 md:pb-16 md:pt-20 lg:px-16 lg:pb-20 lg:pt-24">
+      <BreadcrumbSchema items={cityCrumbs(practice, city, section)} />
       <nav
         aria-label="Breadcrumb"
         className="pi-reveal mb-6 font-sans text-[11.5px] font-semibold uppercase leading-none tracking-[0.2em]"
       >
         <ol className="flex flex-wrap items-center gap-x-3 gap-y-1" style={{ color: STONE }}>
-          <li><Link className="transition-colors hover:text-[#0B1F3A]" to="/">ATLAW</Link></li>
-          <li aria-hidden="true" className="text-[#0B1F3A]/30">/</li>
-          <li><Link className="transition-colors hover:text-[#0B1F3A]" to="/personal-injury">Personal Injury</Link></li>
-          <li aria-hidden="true" className="text-[#0B1F3A]/30">/</li>
-          <li><Link className="transition-colors hover:text-[#0B1F3A]" to={`/personal-injury/${practice.slug}`}>{practice.title}</Link></li>
-          <li aria-hidden="true" className="text-[#0B1F3A]/30">/</li>
-          <li><span aria-current="page" style={{ color: INK }}>{city.name}</span></li>
+          {cityCrumbs(practice, city, section).map((crumb, i, all) =>
+            i < all.length - 1 ? (
+              <Fragment key={crumb.label}>
+                <li><Link className="transition-colors hover:text-[#0B1F3A]" to={crumb.to ?? "/"}>{crumb.label}</Link></li>
+                <li aria-hidden="true" className="text-[#0B1F3A]/30">/</li>
+              </Fragment>
+            ) : (
+              <li key={crumb.label}><span aria-current="page" style={{ color: INK }}>{crumb.label}</span></li>
+            ),
+          )}
         </ol>
       </nav>
 
@@ -115,7 +135,7 @@ const Hero = ({ practice, city }: { practice: PracticeAreaPI; city: CityData }) 
           color: INK,
         }}
       >
-        {practice.title} Lawyer in {city.name}
+        {heroTitle ?? `${practice.title} Lawyer in ${city.name}`}
         <span aria-hidden="true" style={{ color: GOLD }}>.</span>
       </h1>
 
@@ -151,7 +171,7 @@ const Hero = ({ practice, city }: { practice: PracticeAreaPI; city: CityData }) 
           alt={`${city.name}, ${city.county}`}
           className="h-full w-full object-cover"
           loading="lazy"
-          src={`/assets/cities/${city.slug}.avif`}
+          src={cityPhoto(city.slug)}
         />
         <div
           aria-hidden="true"
@@ -160,7 +180,7 @@ const Hero = ({ practice, city }: { practice: PracticeAreaPI; city: CityData }) 
         <div className="absolute inset-x-0 bottom-0 flex items-center gap-3 p-6 sm:p-8">
           <span aria-hidden="true" className="h-px w-10 shrink-0" style={{ backgroundColor: GOLD }} />
           <p className="font-sans text-[12px] font-semibold uppercase tracking-[0.18em] text-white sm:text-[13px]">
-            Serving {city.name} &amp; {city.county}
+            {city.name === city.county ? `Serving ${city.county}` : <>Serving {city.name} &amp; {city.county}</>}
           </p>
         </div>
       </div>
@@ -170,11 +190,11 @@ const Hero = ({ practice, city }: { practice: PracticeAreaPI; city: CityData }) 
 
 /* ─────────────────── 2. Stats Bar ─────────────────── */
 
-const StatsBar = ({ city }: { city: CityData }) => (
+export const CityStatsBar = ({ city }: { city: CityInfo }) => (
   <section aria-label="Firm credentials" className="w-full border-y border-[#0B1F3A]/8 bg-[#F7F7F5]">
-    <div className="mx-auto flex w-full max-w-[1180px] flex-wrap items-center justify-center gap-x-8 gap-y-3 px-6 py-5 sm:px-10 lg:gap-x-12 lg:px-16">
+    <div className="mx-auto flex w-full max-w-[1320px] flex-wrap items-center justify-center gap-x-8 gap-y-3 px-6 py-5 sm:px-10 lg:gap-x-12 lg:px-16">
       {[
-        "Founded 2013",
+        `Serving Clients for ${YEARS_SERVING} Years`,
         `${city.county}`,
         "Super Lawyers Rising Star",
         "Avvo 10.0",
@@ -243,7 +263,7 @@ const SidebarCTA = () => (
 
 const CityContextSection = ({ practice, city }: { practice: PracticeAreaPI; city: CityData }) => (
   <section aria-labelledby="city-context-heading" className="relative w-full overflow-hidden bg-white">
-    <div className="relative mx-auto flex w-full max-w-[1180px] flex-col gap-12 px-6 pb-20 pt-16 sm:px-10 lg:flex-row lg:gap-16 lg:px-16 lg:pb-[120px] lg:pt-20">
+    <div className="relative mx-auto flex w-full max-w-[1320px] flex-col gap-12 px-6 pb-20 pt-16 sm:px-10 lg:flex-row lg:gap-16 lg:px-16 lg:pb-[120px] lg:pt-20">
       <div className="lg:basis-[62%]">
         <p className="flex items-center gap-3 font-sans text-[12px] font-semibold uppercase leading-none tracking-[0.22em]" style={{ color: INK }}>
           <span aria-hidden="true" className="h-px w-8" style={{ backgroundColor: GOLD_ACCENT }} />
@@ -351,7 +371,7 @@ const PracticeOverviewSection = ({ practice, city }: { practice: PracticeAreaPI;
 const LocalExpertiseSection = ({ city }: { city: CityData }) => (
   <section aria-labelledby="city-expertise-heading" className="relative w-full overflow-hidden bg-white">
     <Grain opacity="0.03" />
-    <div className="relative mx-auto w-full max-w-[1180px] px-6 py-16 sm:px-10 md:py-20 lg:px-16 lg:py-24">
+    <div className="relative mx-auto w-full max-w-[1320px] px-6 py-16 sm:px-10 md:py-20 lg:px-16 lg:py-24">
       <h2
         className="text-center font-serifDisplay font-normal leading-[1.08] tracking-[-0.02em]"
         id="city-expertise-heading"
@@ -384,6 +404,9 @@ const CaseResultsSection = ({ practice }: { practice: PracticeAreaPI }) => {
   const [start, setStart] = useState(0);
   const maxStart = Math.max(0, practice.caseResults.length - 3);
 
+  // Firm-approved results only; the section stays hidden until there are some.
+  if (practice.caseResults.length === 0) return null;
+
   return (
     <section
       aria-labelledby="city-results-heading"
@@ -391,15 +414,15 @@ const CaseResultsSection = ({ practice }: { practice: PracticeAreaPI }) => {
       style={{ background: NAVY_CANVAS }}
     >
       <Grain opacity="0.05" />
-      <div className="relative mx-auto w-full max-w-[1180px] px-6 py-16 sm:px-10 md:py-20 lg:px-16 lg:py-24">
+      <div className="relative mx-auto w-full max-w-[1320px] px-6 py-16 sm:px-10 md:py-20 lg:px-16 lg:py-24">
         <h2
           className="text-center font-serifDisplay font-normal leading-[1.08] tracking-[-0.02em] text-white"
           id="city-results-heading"
           style={{ fontSize: "clamp(28px, 4.5vw, 52px)", fontVariationSettings: headlineAxes }}
         >
-          They Offered Less. We Fought for{" "}
+          Insurance companies fight to pay less. ATLAW fights for{" "}
           <span className="relative inline-block">
-            More
+            what you deserve
             <span aria-hidden="true" className="absolute bottom-[2px] left-0 h-[3px] w-full rounded-full" style={{ backgroundColor: GOLD_BRIGHT }} />
           </span>
           <span style={{ color: GOLD_ACCENT }}>.</span>
@@ -534,21 +557,27 @@ const CityFAQSection = ({ city }: { city: CityData }) => (
 
 /* ─────────────────── 8. Other Practice Areas in [City] ─────────────────── */
 
-const OtherPracticeAreasSection = ({ practice, city }: { practice: PracticeAreaPI; city: CityData }) => {
-  const otherAreas = Object.entries(practiceAreaBySlug).filter(
-    ([slug]) => slug !== practice.slug && slug !== "personal-injury"
-  );
+export const OtherPracticeAreasSection = ({ practice, city, heading }: { practice: CityPractice; city: CityInfo; heading?: string }) => {
+  // Only practices that have a page for this city: imported copy, or the original
+  // template where the city has hand-written data. A city hub (practice
+  // "areas-served") lists every practice page for the city, the hub's own included.
+  const hasTemplate = Boolean(cityBySlug(city.slug));
+  const otherAreas = practiceRegistry
+    .filter((p) => p.slug !== practice.slug && (practice.slug === "areas-served" || p.slug !== "personal-injury"))
+    .filter((p) => hasCityContent(p.slug, city.slug) || (hasTemplate && p.slug in practiceAreaBySlug))
+    .map((p) => [p.slug, { title: p.navLabel, section: p.section }] as const);
+  if (!otherAreas.length) return null;
 
   return (
     <section aria-labelledby="city-other-practices-heading" className="relative w-full overflow-hidden bg-[#F7F7F5]">
       <Grain opacity="0.03" />
-      <div className="relative mx-auto w-full max-w-[1180px] px-6 py-16 sm:px-10 md:py-20 lg:px-16 lg:py-24">
+      <div className="relative mx-auto w-full max-w-[1320px] px-6 py-16 sm:px-10 md:py-20 lg:px-16 lg:py-24">
         <h2
           className="text-center font-serifDisplay font-normal leading-[1.08] tracking-[-0.02em]"
           id="city-other-practices-heading"
           style={{ fontSize: "clamp(24px, 3.5vw, 40px)", fontVariationSettings: headlineAxes, color: INK }}
         >
-          Also Serving {city.name} For<span style={{ color: GOLD_ACCENT }}>:</span>
+          {heading ?? `Also Serving ${city.name} For`}<span style={{ color: GOLD_ACCENT }}>{heading ? "." : ":"}</span>
         </h2>
 
         <div className="mt-10 grid grid-cols-1 gap-5 md:mt-12 md:grid-cols-2 lg:grid-cols-3 lg:gap-6">
@@ -557,7 +586,7 @@ const OtherPracticeAreasSection = ({ practice, city }: { practice: PracticeAreaP
               className="group relative flex min-h-[160px] flex-col justify-end overflow-hidden rounded-[16px] px-7 pb-6 pt-14 shadow-[0_6px_24px_rgba(5,15,28,0.12)] transition-all duration-[250ms] hover:-translate-y-[3px] hover:shadow-[0_14px_36px_rgba(5,15,28,0.2)]"
               key={slug}
               style={{ background: NAVY_CANVAS }}
-              to={`/personal-injury/${slug}/${city.slug}`}
+              to={`/${area.section}/${slug}/${city.slug}`}
             >
               <Grain opacity="0.05" />
               <h3
@@ -580,13 +609,13 @@ const OtherPracticeAreasSection = ({ practice, city }: { practice: PracticeAreaP
 
 /* ─────────────────── 9. Other Cities We Serve ─────────────────── */
 
-const OtherCitiesSection = ({ practice, city }: { practice: PracticeAreaPI; city: CityData }) => {
+export const OtherCitiesSection = ({ practice, city }: { practice: CityPractice; city: CityInfo }) => {
   const otherCities = cities.filter((c) => c.slug !== city.slug);
 
   return (
     <section aria-labelledby="city-other-cities-heading" className="relative w-full overflow-hidden bg-white">
       <Grain opacity="0.03" />
-      <div className="relative mx-auto w-full max-w-[1180px] px-6 py-16 sm:px-10 md:py-20 lg:px-16 lg:py-24">
+      <div className="relative mx-auto w-full max-w-[1320px] px-6 py-16 sm:px-10 md:py-20 lg:px-16 lg:py-24">
         <h2
           className="text-center font-serifDisplay font-normal leading-[1.08] tracking-[-0.02em]"
           id="city-other-cities-heading"
@@ -618,7 +647,7 @@ const FinalCTABand = () => (
   <section aria-labelledby="city-final-cta" className="w-full">
     <div className="relative isolate overflow-hidden text-white" style={{ background: NAVY_CANVAS }}>
       <Grain opacity="0.06" />
-      <div className="relative mx-auto flex w-full max-w-[1180px] flex-col items-center px-6 py-12 text-center sm:px-10 md:py-16 lg:py-20">
+      <div className="relative mx-auto flex w-full max-w-[1320px] flex-col items-center px-6 py-12 text-center sm:px-10 md:py-16 lg:py-20">
         <h2
           className="font-serifDisplay font-normal leading-[1.06] tracking-[-0.02em] text-white"
           id="city-final-cta"
@@ -627,7 +656,7 @@ const FinalCTABand = () => (
           Get a FREE Case Evaluation Today!
         </h2>
         <p className="mt-4 font-sans text-[16px] leading-[1.5] text-white/75 lg:text-[18px]">
-          You Pay Nothing Unless We Win Your Case &mdash; Guaranteed.
+          You Pay Nothing Unless We Win Your Case.
         </p>
         <div className="mt-8 flex w-full flex-col items-center justify-center gap-4 sm:flex-row sm:gap-5">
           <a
@@ -647,7 +676,7 @@ const FinalCTABand = () => (
       </div>
     </div>
     <div className="w-full bg-[#081120]">
-      <div className="mx-auto flex max-w-[1180px] flex-col items-center gap-1.5 px-6 py-7 text-center sm:px-10">
+      <div className="mx-auto flex max-w-[1320px] flex-col items-center gap-1.5 px-6 py-7 text-center sm:px-10">
         <a
           className="font-serifDisplay font-normal leading-none tracking-[-0.02em] text-white transition-colors duration-200 hover:text-[#C6A04A] text-[clamp(24px, 4vw, 42px)]"
           href="tel:+13134067606"
@@ -671,8 +700,8 @@ export const CityLandingTemplate = ({
   city: CityData;
 }): JSX.Element => (
   <>
-    <Hero practice={practice} city={city} />
-    <StatsBar city={city} />
+    <CityHero practice={practice} city={city} />
+    <CityStatsBar city={city} />
     <CityContextSection practice={practice} city={city} />
     <PracticeOverviewSection practice={practice} city={city} />
     <LocalExpertiseSection city={city} />

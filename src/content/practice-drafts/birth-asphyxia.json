@@ -1,0 +1,1505 @@
+{
+ "slug": "birth-asphyxia",
+ "section": "personal-injury",
+ "status": "draft",
+ "seoTitle": "Michigan Birth Asphyxia & HIE Lawyer – Oxygen Deprivation at Birth",
+ "seoDescription": "Was your baby deprived of oxygen at birth in Michigan? How HIE is diagnosed, the 6-hour cooling window, how intrapartum injury is proved against the “it happened before labor” defense, and the child’s deadline. Free review.",
+ "h1": "Birth Asphyxia Lawyer Michigan",
+ "tagline": "Six hours to start cooling. Twelve to twenty-four for the injury to show on MRI. The clock in an HIE case starts before the baby is born.",
+ "primaryKeyword": "birth asphyxia lawyer michigan",
+ "secondaryKeywords": [
+  "hie lawyer",
+  "hypoxic ischemic encephalopathy lawyer",
+  "hie lawsuit",
+  "birth asphyxia lawyer",
+  "birth asphyxia",
+  "hie malpractice lawyer michigan"
+ ],
+ "intro": [
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "Birth asphyxia is the deprivation of oxygen and blood flow to a baby’s brain around the time of birth. When it is severe enough to injure the brain, the diagnosis is hypoxic-ischemic encephalopathy, HIE, and it is the single most important cause of birth-related cerebral palsy, epilepsy, and lifelong cognitive disability. HIE occurs in roughly one to three of every thousand live births in developed countries; with Michigan’s 99,420 births in 2024, that is on the order of a hundred to three hundred Michigan families a year."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "Some of those injuries could not have been prevented. Many could, and the medicine of the last twenty years has made the difference provable. Fetal heart monitoring shows the fetus in distress, often for an hour or more before delivery. Cord blood gases measure, in numbers, how severe and how recent the oxygen deprivation was. MRI shows a pattern of injury that dates it. And therapeutic hypothermia, which must begin within six hours of birth, gives a hospital a second chance that it either takes or does not. This page explains how HIE is diagnosed and staged, how a Michigan case proves the injury happened during labor, the cooling standard, who is liable, and the deadlines, including the one that runs to the child’s tenth birthday."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across Wayne, Oakland, Macomb, and Washtenaw counties. HIE cases are handled on contingency: no fee unless we recover money for your family, and the first conversation is free. "
+    },
+    {
+     "t": "strong",
+     "c": [
+      {
+       "t": "placeholder",
+       "kind": "CONFIRM",
+       "v": "the firm handles birth injury cases in-house, and the attorney who leads them"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "sections": [
+  {
+   "id": "birth-asphyxia-and-hie-the-numbers",
+   "heading": "Birth asphyxia and HIE: the numbers",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Measure"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Figure"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Source"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "Live births, Michigan, 2024"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "99,420"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MDHHS"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Incidence of HIE in developed countries"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "About 1 to 3 per 1,000 live births"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Published neonatal literature (NCBI)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Window to begin therapeutic hypothermia"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "6 hours from birth"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Neonatal cooling trial protocols; AAP"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Duration of cooling"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "72 hours at about 33.5°C, then slow rewarming"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Same"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Cerebral palsy prevalence, U.S. children"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "About 1 in 345"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "CDC"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Michigan malpractice cap, 2026, brain-injury tier"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$1,065,000 non-economic; economic damages uncapped"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.1483"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Child’s deadline for a Michigan malpractice claim (injury before age 8)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "The child’s 10th birthday"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5851(7)"
+        }
+       ]
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "how-birth-asphyxia-happens",
+   "heading": "How birth asphyxia happens",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Oxygen reaches the fetus through the mother’s blood, the placenta, and the umbilical cord. Anything that interrupts that chain for long enough injures the brain. The causes, and the standard-of-care question each raises:"
+      }
+     ]
+    },
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Cause"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "What it is"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "The question in the case"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Umbilical cord compression or prolapse"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "The cord is squeezed by contractions or the fetal head, or drops through the cervix ahead of the baby"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Was the variable-deceleration pattern recognized? Was a prolapse managed as the emergency it is (manual elevation, immediate cesarean)?"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Placental abruption"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "The placenta separates from the uterine wall before delivery"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Were bleeding, pain, and the tracing recognized? How fast was delivery?"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Uterine rupture"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "The uterus tears, often along a prior cesarean scar during attempted vaginal birth after cesarean"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Was the mother an appropriate candidate? Was the sudden fetal bradycardia acted on within minutes?"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Uterine hyperstimulation (tachysystole)"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Contractions too frequent to allow the placenta to re-oxygenate between them, usually from oxytocin or misoprostol"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Was the drug reduced or stopped when contractions exceeded five in ten minutes or the tracing deteriorated?"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Prolonged or obstructed labor; shoulder dystocia"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Hours of pushing against an obstruction; the head delivered and the shoulders stuck"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Was the labor curve followed? Was the dystocia managed within the minutes available?"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Maternal hypotension"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "A drop in the mother’s blood pressure, often after epidural placement"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Was blood pressure monitored and treated?"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Infection (chorioamnionitis)"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Infection of the membranes and fluid"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Was fever recognized and treated? Was delivery expedited?"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Post-term pregnancy and placental insufficiency"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "The placenta fails to support the fetus"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Was antenatal testing done and acted on? Was induction timed appropriately?"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Delayed neonatal resuscitation"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "The baby is born depressed and resuscitation is slow or inadequate"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Was a team trained in neonatal resuscitation present? Were the steps followed in sequence and on time?"
+        }
+       ]
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "diagnosing-and-staging-hie",
+   "heading": "Diagnosing and staging HIE",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "HIE is diagnosed from what happened at birth and how the newborn behaves afterward:"
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Apgar scores"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " at one, five, and ten minutes. Persistently low scores (5 or less at five and ten minutes) are one marker of an acute event."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Umbilical cord blood gases"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", drawn from the cord at delivery. An arterial pH below 7.0 and a base deficit of 12 mmol/L or more indicate significant metabolic acidosis. A hospital that fails to draw cord gases in a depressed newborn has lost the most objective evidence of timing; the omission itself is a departure from standard practice in many settings."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The Sarnat staging"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " of encephalopathy in the first days: Stage 1 (mild: hyperalert, jittery, normal tone, no seizures), Stage 2 (moderate: lethargic, low tone, weak reflexes, seizures common), Stage 3 (severe: stuporous or comatose, flaccid, absent reflexes, frequent seizures). Moderate and severe encephalopathy are the stages treated with cooling."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Multi-organ involvement"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": kidney, liver, heart, and blood-clotting abnormalities that accompany a global hypoxic event."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Neuroimaging"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": head ultrasound early, and MRI, usually at days 3 to 7 (or after rewarming), which shows the pattern of injury. Injury to the deep gray matter (basal ganglia and thalami) is associated with an acute, profound event; a watershed or cortical pattern with a prolonged, partial one. The pattern and its evolution on imaging are how experts date the injury."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "EEG"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", including amplitude-integrated EEG, for seizures and background activity."
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "therapeutic-hypothermia-the-six-hour-standard",
+   "heading": "Therapeutic hypothermia: the six-hour standard",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Since the mid-2000s, cooling a newborn with moderate or severe HIE to about 33.5°C for 72 hours, beginning within six hours of birth, has been the standard treatment. It reduces death and major disability; the benefit falls as the start is delayed, and after six hours it is largely lost. The eligibility criteria used by most programs: gestational age of 36 weeks or more; evidence of an acute perinatal event with a cord or early blood gas pH of 7.0 or less or a base deficit of 16 or more (or a less severe gas with a sentinel event, a low 10-minute Apgar, or prolonged ventilation); and moderate or severe encephalopathy on examination or EEG. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "ATTORNEY CHECK",
+         "v": "/ MEDICAL CONSULTANT: criteria as stated"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Cooling is available at specialized neonatal intensive care units in southeast Michigan, including Children's Hospital of Michigan and the University of Michigan's C.S. Mott Children's Hospital. A community hospital that delivers a depressed newborn and has no cooling program must recognize the candidate, begin passive cooling, and arrange transfer so that active cooling starts inside the window. A baby who met the criteria and was not cooled, or was cooled at hour eight, may have a claim that stands on its own, apart from what happened in labor, if the delay fell below the standard of care and caused a compensable injury. Michigan law distinguishes traditional malpractice claims, which require proof that negligence more probably than not caused the injury, from claims alleging a lost opportunity for a better outcome, which are governed by MCL 600.2912a(2). The cooling trials' data may be relevant to causation in either type of claim."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "proving-the-injury-happened-during-labor",
+   "heading": "Proving the injury happened during labor",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The defense in nearly every HIE case is the same: the brain injury occurred before labor, from an infection, a genetic or metabolic condition, a placental problem that developed over weeks, or a stroke in utero, and nothing the labor team did or failed to do caused it. The answer is built from the criteria that obstetric and pediatric professional bodies themselves use to decide whether neonatal encephalopathy is consistent with an acute intrapartum event:"
+      }
+     ]
+    },
+    {
+     "t": "ol",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Neonatal signs of an acute event"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": Apgar of 5 or less at five and ten minutes; cord arterial pH below 7.0 or base deficit of 12 or more; MRI or MR spectroscopy showing acute injury consistent with hypoxia-ischemia; multisystem organ failure."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Type and timing of contributing factors"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": a sentinel event (uterine rupture, abruption, cord prolapse, amniotic fluid embolism, maternal collapse, fetal hemorrhage); a fetal heart rate pattern that was normal on admission and converted to a Category III pattern (absent variability with recurrent late or variable decelerations or bradycardia); the timing and pattern of the brain injury on imaging; and the absence of another explanation."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Exclusion of other causes"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": placental pathology, infection workup, genetic and metabolic testing."
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Those criteria are applied by experts in maternal-fetal medicine, neonatology, pediatric neurology, and neuroradiology. The single most important document is the complete fetal monitoring strip, which records, minute by minute, whether the fetus was oxygenated when labor began and when it stopped being so, and what the staff did about it. The nurse’s documented interpretation, the times the physician was notified, the oxytocin rate, and the decision-to-incision interval for the cesarean convert the strip into a timeline. Hospitals must retain records for at least seven years (MCL 333.20175), but strips are archived separately and are sometimes incomplete; a written preservation request goes out as soon as a family suspects a problem. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "CONFIRM",
+         "v": "the firm’s preservation practice"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "who-is-liable",
+   "heading": "Who is liable",
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The obstetrician, midwife, or family physician"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " managing labor, and their practice group."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Labor and delivery nurses"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", and the hospital that employs them, for monitoring, interpretation, notification, oxytocin management, and failure to escalate through the chain of command."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The hospital"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", directly, for in-house coverage, staffing, cesarean capability, resuscitation training, and cooling or transfer protocols; and vicariously for its employees and, under Michigan’s ostensible agency rule, for contracted physicians the hospital assigned to the patient (Grewe v Mt Clemens General Hospital, 1978; Markel v William Beaumont Hospital, 2022, and the Supreme Court’s order of July 9, 2025)."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The neonatology and pediatric team"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", for resuscitation and the cooling decision."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Anesthesia"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", where maternal hypotension or a delayed cesarean anesthetic contributed; see our "
+       },
+       {
+        "t": "link",
+        "href": "/personal-injury/anesthesia-errors",
+        "c": [
+         {
+          "t": "text",
+          "v": "anesthesia error"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " page."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "University of Michigan Health"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", through the Court of Claims with its six-month notice (MCL 600.6431). See our "
+       },
+       {
+        "t": "link",
+        "href": "/personal-injury/hospital-mistakes",
+        "c": [
+         {
+          "t": "text",
+          "v": "hospital negligence"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " page."
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-the-child-will-need-and-what-michigan-law-pays-for",
+   "heading": "What the child will need, and what Michigan law pays for",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "A child with moderate or severe HIE may have cerebral palsy, epilepsy, feeding and swallowing problems, vision and hearing impairment, and cognitive disability, and may need therapies, equipment, medications, surgeries, attendant care, and supported living for life. Michigan law pays for that through economic damages, which are not capped: a life care plan prepared from the treating physicians’ prognoses, lost earning capacity over a working life projected by a vocational economist, and the mother’s own losses. Non-economic damages for the child are capped at the brain-injury tier, $1,065,000 in 2026 (MCL 600.1483), and the mother has her own non-economic claim within the cap."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Public programs help now and are protected later: Michigan’s Early On program from birth to three, Children’s Special Health Care Services, Medicaid, and special education from age three. A settlement is placed in a special needs trust and structured annuities, approved by the court (MCR 2.420), so that the child keeps those benefits. See our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/birth-injuries",
+       "c": [
+        {
+         "t": "text",
+         "v": "birth injury"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " page for the full damages and procedure discussion, and our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/brain-injury",
+       "c": [
+        {
+         "t": "text",
+         "v": "brain injury"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " page for how brain injuries are proved and valued."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "michigans-procedure-and-deadlines",
+   "heading": "Michigan’s procedure and deadlines",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Rule"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "What it requires"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Statute"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "Child’s deadline"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "A malpractice claim accruing before the child's 8th birthday may be filed until the child's 10th birthday or within the applicable period under MCL 600.5838a, whichever is later."
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5851(7)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Mother’s deadline"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "2 years, 6-month discovery rule, 6-year repose"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5805(8), 600.5838a"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Notice of intent"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "At least 182 days before suit, to every defendant; tolls the period"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.2912b, 600.5856(c)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Affidavit of merit"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "From an expert in each defendant’s specialty"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.2912d, 600.2169"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Lost opportunity"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Must exceed 50%"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.2912a(2)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Damages cap"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$596,400 standard cap in 2026; $1,065,000 for qualifying permanent cognitive impairment preventing independent responsible decisions and normal daily activities, or paralysis causing total permanent functional loss of a limb from brain or spinal cord injury; economic damages uncapped."
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.1483"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Settlement approval"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Court approval and protected funds for a minor"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCR 2.420"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Wrongful death"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "For a neonatal death, 2 years with the estate’s saving provision"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.2922, 600.5852"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Court of Claims (U-M)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "File the claim or a qualifying notice of intention within 6 months"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.6431"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Record retention"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Hospitals keep records at least 7 years; request and preserve now"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 333.20175"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The child’s long deadline is not a reason to wait: the mother’s claim has two years, the strip must be preserved, and the expert review that precedes the notice of intent takes months."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-to-do-if-your-baby-was-deprived-of-oxygen-at-birth",
+   "heading": "What to do if your baby was deprived of oxygen at birth",
+   "blocks": [
+    {
+     "t": "ol",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Ask whether cord gases were drawn and what they showed"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", whether the baby was cooled, when cooling started, and whether an MRI was done. Write the answers down with the names of who gave them."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Request the complete records"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " for mother and baby under the Medical Records Access Act (MCL 333.26261 and following): prenatal, labor and delivery including the full fetal monitoring strip, operative, anesthesia, resuscitation, NICU, imaging, and EEG."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Get the child into Early On and specialty follow-up"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " (pediatric neurology, physiatry, developmental pediatrics). It documents the injury and improves outcomes."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Do not sign anything from the hospital’s risk management."
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Call a birth injury lawyer early."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " The analysis of the strip and the gases, by the right experts, decides whether there is a case, and it takes time."
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "why-metro-detroit-families-call-atlaw-for-hie-cases",
+   "heading": "Why metro Detroit families call ATLAW for HIE cases",
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Thirteen years, more than 10,000 cases, more than $100 million recovered."
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The experts an HIE case requires"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": maternal-fetal medicine, labor nursing, neonatology, pediatric neurology, neuroradiology, and life care planning. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": "expert network"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The strip, the gases, and the imaging preserved and analyzed first"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", so the “it happened before labor” defense is met with the criteria the profession itself uses. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": ""
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Both claims, child’s and mother’s, with both deadlines calendared."
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Settlements structured to protect the child’s benefits."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": "  "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": "special needs planning coordination"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Dearborn, and the whole metro area."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Families come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Languages."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "No fee unless we recover."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Contingency fee ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs. No cost for the first conversation."
+       }
+      ]
+     ]
+    }
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What is the difference between birth asphyxia and HIE?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Birth asphyxia is the oxygen deprivation; HIE (hypoxic-ischemic encephalopathy) is the brain injury it causes, diagnosed from Apgar scores, cord gases, the newborn’s examination, and imaging."
+    }
+   ]
+  },
+  {
+   "question": "Was my baby’s HIE preventable?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "That depends on what the fetal monitoring strip showed and when, how the team responded, how fast the cesarean was, and whether cooling started within six hours. Experts answer the question from the records; the hospital’s explanation is not the last word."
+    }
+   ]
+  },
+  {
+   "question": "What is therapeutic hypothermia and why does six hours matter?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Cooling the newborn to about 33.5°C for 72 hours reduces death and disability from moderate and severe HIE, but only if it begins within about six hours of birth. A hospital without a cooling program must identify the candidate and transfer in time."
+    }
+   ]
+  },
+  {
+   "question": "The hospital says the injury happened before labor. Is that the end?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "No. That is the standard defense. Professional criteria for an acute intrapartum event (Apgars, cord gases, MRI pattern and timing, a sentinel event or a deteriorating tracing, exclusion of other causes) are what experts apply, and the complete strip usually answers the question."
+    }
+   ]
+  },
+  {
+   "question": "How long do we have to sue in Michigan?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "For the child, until the 10th birthday if the injury occurred before age 8 (MCL 600.5851(7)); for the mother, two years. A 182-day notice of intent precedes suit."
+    }
+   ]
+  },
+  {
+   "question": "Is there a cap on damages?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Non-economic damages are capped at $1,065,000 in 2026 for the brain-injury tier. Lifetime care and lost earning capacity are not capped and are the largest part of an HIE recovery."
+    }
+   ]
+  },
+  {
+   "question": "Will a settlement affect my child’s Medicaid or SSI?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Not if structured through a special needs trust and court-approved annuities, which is standard in these cases."
+    }
+   ]
+  },
+  {
+   "question": "Can we sue the hospital if the doctor was not an employee?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Often yes, under Michigan’s ostensible agency rule (Grewe; Markel v Beaumont), and the hospital is directly liable for its nurses, its policies, and its cooling and transfer protocols."
+    }
+   ]
+  },
+  {
+   "question": "Our baby died. Is there a claim?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "A neonatal death from preventable HIE is a wrongful death claim brought by the estate’s personal representative under the malpractice procedure, with a two-year period and a saving provision."
+    }
+   ]
+  },
+  {
+   "question": "What does it cost?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Nothing up front. HIE cases require several medical experts; the firm advances those costs and recovers them only from a settlement or verdict."
+    }
+   ]
+  }
+ ],
+ "cta": {
+  "id": "talk-to-a-michigan-birth-asphyxia-lawyer",
+  "heading": "Talk to a Michigan birth asphyxia lawyer",
+  "blocks": [
+   {
+    "t": "p",
+    "c": [
+     {
+      "t": "text",
+      "v": "If your child was deprived of oxygen at birth anywhere in Michigan, call "
+     },
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "text",
+        "v": "(313) 406-7606"
+       }
+      ]
+     },
+     {
+      "t": "text",
+      "v": " or send the form on this page. We obtain and preserve the complete records including the fetal monitoring strip and cord gases, have them reviewed by the specialists the case requires, and tell you whether the injury was preventable and what your family’s claims are worth. We respond within one business day, and there is no fee unless we recover money for your family."
+     }
+    ]
+   }
+  ]
+ },
+ "wordCount": 2764,
+ "openItems": 6,
+ "source": {
+  "file": "B2-06_Michigan-Birth-Asphyxia-HIE-Lawyer.docx",
+  "delivered": "2026-10-16"
+ }
+}

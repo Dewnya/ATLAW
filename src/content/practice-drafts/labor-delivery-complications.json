@@ -1,0 +1,1936 @@
+{
+ "slug": "labor-delivery-complications",
+ "section": "personal-injury",
+ "status": "draft",
+ "seoTitle": "Michigan Labor & Delivery Negligence Lawyer – Injuries to Mother or Baby",
+ "seoDescription": "Labor and delivery negligence in Michigan: Pitocin, delayed C-section, VBAC rupture, cord prolapse, forceps and vacuum, hemorrhage, preeclampsia, infection. The standard for each, the records that show it, both parents’ deadlines, and the 2026 caps. Free review.",
+ "h1": "Labor and Delivery Negligence Lawyer Michigan",
+ "tagline": "Two patients, one room, and a standard of care for every hour of it.",
+ "primaryKeyword": "labor and delivery negligence lawyer michigan",
+ "secondaryKeywords": [
+  "labor and delivery malpractice lawyer",
+  "childbirth injury lawyer michigan",
+  "delayed c-section lawsuit",
+  "obstetric malpractice lawyer michigan",
+  "maternal injury lawyer michigan",
+  "delivery room negligence"
+ ],
+ "intro": [
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "Labor and delivery is the only hospital admission with two patients. Michigan hospitals delivered 99,420 babies in 2024; nearly a third were born by cesarean, and about one in fifty by vacuum or forceps. The overwhelming majority of those deliveries ended with a healthy mother and a healthy child. The ones that did not are the subject of this page: the labors in which a known complication was missed or mismanaged, and either the mother or the baby, or both, left the hospital with an injury that the standard of care existed to prevent."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "Most pages on this subject are about the baby. That is understandable, because a child’s brain injury is the largest of these cases. But labor and delivery negligence injures mothers too, and Michigan’s own maternal mortality review found that three of every four pregnancy-related deaths in the state were preventable. Hemorrhage that was not measured until the mother was in shock, blood pressure that was not treated until she seized, a uterine rupture during an attempted vaginal birth after cesarean with no operating room ready, a fourth-degree tear that was never repaired: these are the mother’s own claims, with their own deadline, and they are brought alongside the child’s."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "This page covers the complications of labor and delivery that most often become Michigan malpractice cases, the professional standard that applied to each, the records that show whether it was met, injuries to the baby and to the mother, who is liable, the damages and 2026 caps, and the deadlines, which differ for the mother and the child."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across Wayne, Oakland, Macomb, and Washtenaw counties. Birth injury and maternal injury cases are handled on contingency: no fee unless we recover money for your family, and the first conversation is free. "
+    },
+    {
+     "t": "strong",
+     "c": [
+      {
+       "t": "placeholder",
+       "kind": "CONFIRM",
+       "v": "the firm handles birth injury and maternal injury cases in-house, and the attorney who leads them"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "sections": [
+  {
+   "id": "labor-and-delivery-in-michigan-the-numbers",
+   "heading": "Labor and delivery in Michigan: the numbers",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Measure"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Figure"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Source"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "Live births, Michigan, 2024"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "99,420"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MDHHS"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Delivered by cesarean, 2024"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "32.4%"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MDHHS vital statistics"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Vacuum-assisted / forceps-assisted vaginal births, 2024"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "1.9% / 0.3%"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Same"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Infant deaths, Michigan, 2024"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "629"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MDHHS"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Pregnancy-related maternal deaths, Michigan, 2016–2020"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "106, or 19.4 per 100,000 live births"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MDHHS Maternal Mortality Surveillance"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Share of those deaths found preventable"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "74.5%"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Same"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Pregnancy-related death ratio, Black women vs. white women"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "36.5 vs. 16.3 per 100,000 (2.2 times)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Same"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Michigan malpractice caps, 2026"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$596,400 / $1,065,000 non-economic; economic damages uncapped"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.1483"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Child’s deadline (injury before age 8)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "The child’s 10th birthday"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5851(7)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Mother’s deadline"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Two years from the malpractice, six-month discovery rule"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5805(8), 600.5838a"
+        }
+       ]
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-labor-and-delivery-negligence-looks-like",
+   "heading": "What labor and delivery negligence looks like",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Each row below is a complication with a published standard of care. The right-hand column is where the record shows whether the standard was followed, which is what we look for first."
+      }
+     ]
+    },
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Complication"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "What the standard of care required"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Where the record shows it"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Induction and Pitocin (oxytocin)"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Oxytocin titrated to a protocol; more than five contractions in ten minutes (tachysystole) requires reducing or stopping the drug; a nonreassuring tracing requires stopping it; Cytotec (misoprostol) is not used for induction in a mother with a prior cesarean"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Medication administration record; contraction frequency on the strip; nursing notes on dose changes"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Failure to monitor or act on fetal distress"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Tracing reviewed every 30/15 minutes (low risk) or 15/5 (high risk); Category II patterns evaluated and resuscitated; Category III patterns delivered if unresolved"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "The electronic monitoring archive; nursing assessments; physician notification times. Detailed on our "
+        },
+        {
+         "t": "link",
+         "href": "/personal-injury/fetal-distress-hypoxia",
+         "c": [
+          {
+           "t": "text",
+           "v": "fetal distress page"
+          }
+         ]
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Delayed cesarean"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "A hospital offering obstetric care should be able to begin a cesarean within 30 minutes of the decision; some emergencies require faster delivery"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Order time, operating room log, anesthesia record; the decision-to-incision interval"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Vaginal birth after cesarean (VBAC) and uterine rupture"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "A trial of labor after cesarean should take place only where staff are immediately available to perform an emergency cesarean; signs of rupture (sudden fetal bradycardia, loss of station, abdominal pain, bleeding) require immediate delivery"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Consent discussion documented prenatally; staffing and anesthesia availability; the strip at the moment of rupture; time to incision"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Placental abruption"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Vaginal bleeding with abdominal pain and a nonreassuring tracing is treated as abruption until proven otherwise; a severe abruption is an emergency cesarean"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Nursing notes on bleeding; strip; time to delivery; maternal blood counts"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Umbilical cord prolapse"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Elevate the presenting part off the cord, knee-chest position, and immediate cesarean"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Time of diagnosis; time of delivery; who was present"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Shoulder dystocia"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "The trained maneuver sequence; no fundal pressure; no excessive traction"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Delivery note with times and maneuvers; see our "
+        },
+        {
+         "t": "link",
+         "href": "/personal-injury/shoulder-dystocia",
+         "c": [
+          {
+           "t": "text",
+           "v": "shoulder dystocia"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "v": " and "
+        },
+        {
+         "t": "link",
+         "href": "/personal-injury/erbs-palsy",
+         "c": [
+          {
+           "t": "text",
+           "v": "Erb’s palsy"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "v": " pages"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Forceps and vacuum"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Correct indications and station; cup placement; a limited number of pulls and cup detachments (commonly three) over a limited time; no switching from vacuum to forceps and back; readiness to proceed to cesarean"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Operative delivery note; number of pulls and pop-offs; newborn exam for cephalohematoma or subgaleal hemorrhage"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Preeclampsia and eclampsia"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Blood pressure of 160/110 or higher confirmed over 15 minutes is a hypertensive emergency and should be treated with intravenous medication within 30 to 60 minutes; magnesium sulfate to prevent seizures in severe disease; delivery when indicated"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Vital sign flowsheet; time of each reading vs. time of treatment; magnesium orders; labs (platelets, liver enzymes, creatinine)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Postpartum hemorrhage"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Blood loss measured, not estimated; a staged hemorrhage protocol with uterotonics, a balloon tamponade, and surgery in sequence; blood products available; the obstetrician at the bedside"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Quantitative blood loss record; hemorrhage stage activations; blood bank records; time from delivery to each intervention"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Infection"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Group B strep screening at 36 to 37 weeks and antibiotics in labor for carriers; maternal fever in labor treated as chorioamnionitis with antibiotics; newborn evaluated for sepsis"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Prenatal GBS culture; antibiotic timing; maternal temperatures; newborn cultures"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Anesthesia"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Epidural and spinal placement, dosing, and monitoring; management of a high block or aspiration under general anesthesia"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Anesthesia record; see our "
+        },
+        {
+         "t": "link",
+         "href": "/personal-injury/anesthesia-errors",
+         "c": [
+          {
+           "t": "text",
+           "v": "anesthesia errors page"
+          }
+         ]
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "ATTORNEY CHECK",
+         "v": "clinical standards for medical consultant review; ACOG Practice Bulletins 205 (VBAC), 219 (operative vaginal birth), 222 (hypertension), 183 (postpartum hemorrhage), 797 (GBS), 106/116 (monitoring)"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "injuries-to-the-baby",
+   "heading": "Injuries to the baby",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The child’s injuries from labor and delivery negligence are covered in depth on their own pages:"
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "link",
+        "href": "/personal-injury/birth-asphyxia",
+        "c": [
+         {
+          "t": "text",
+          "v": "Birth asphyxia and HIE"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": oxygen deprivation and the six-hour cooling window"
+       }
+      ],
+      [
+       {
+        "t": "link",
+        "href": "/personal-injury/cerebral-palsy",
+        "c": [
+         {
+          "t": "text",
+          "v": "Cerebral palsy"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": the lifelong diagnosis that often follows"
+       }
+      ],
+      [
+       {
+        "t": "link",
+        "href": "/personal-injury/erbs-palsy",
+        "c": [
+         {
+          "t": "text",
+          "v": "Erb’s palsy"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " and "
+       },
+       {
+        "t": "link",
+        "href": "/personal-injury/shoulder-dystocia",
+        "c": [
+         {
+          "t": "text",
+          "v": "shoulder dystocia"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": brachial plexus injury"
+       }
+      ],
+      [
+       {
+        "t": "link",
+        "href": "/personal-injury/periventricular-leukomalacia",
+        "c": [
+         {
+          "t": "text",
+          "v": "Periventricular leukomalacia"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": white-matter injury in premature infants"
+       }
+      ],
+      [
+       {
+        "t": "link",
+        "href": "/personal-injury/birth-injuries",
+        "c": [
+         {
+          "t": "text",
+          "v": "Birth injuries generally"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", including skull fractures, cephalohematoma and subgaleal hemorrhage from vacuum and forceps, facial nerve injury, and neonatal infection"
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "A child injured before the eighth birthday has until the tenth birthday to sue, MCL 600.5851(7)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "injuries-to-the-mother",
+   "heading": "Injuries to the mother",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The mother is a patient with her own claim, her own damages, and her own two-year deadline. The injuries that most often become Michigan cases:"
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Hemorrhage and its consequences"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": transfusion, hysterectomy and the loss of future children, kidney injury, Sheehan’s syndrome (pituitary damage from blood loss), and death. Michigan’s maternal mortality reviews consistently find that hemorrhage deaths are among the most preventable, because the treatment exists and the failure is in measuring the loss and acting in time."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Uterine rupture"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " during a trial of labor after cesarean, with hysterectomy or injury to the bladder."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Severe perineal tears"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " (third and fourth degree) that were not recognized or were repaired badly, leading to fecal incontinence and rectovaginal fistula."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Eclampsia, stroke, and HELLP syndrome"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " from untreated blood pressure, with permanent neurological injury."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Sepsis"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " from untreated infection or retained placental tissue."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Surgical injury"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " during cesarean: bowel, bladder, or ureter injury that was not recognized at the time."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Anesthesia injury"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": nerve damage from epidural placement, spinal headache that was not treated, high spinal block, aspiration."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Maternal death"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", brought as a wrongful death claim by the estate under MCL 600.2922, with the two-year period and the saving provision of MCL 600.5852. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "ATTORNEY CHECK",
+          "v": ""
+         }
+        ]
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "One point of Michigan law matters particularly to injured mothers. The higher non-economic cap, $1,065,000 for 2026, applies not only to brain and spinal cord paralysis and permanent cognitive impairment but also to an injury to the reproductive system that leaves the patient unable to have children. A mother who lost her uterus because of negligent management of hemorrhage or uterine rupture may qualify for the higher cap when the injury resulted in an inability to procreate under MCL 600.1483(1)(c)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "who-is-liable",
+   "heading": "Who is liable",
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The hospital, for its nurses and staff."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Labor and delivery nurses watch the strip, titrate the Pitocin, measure the blood loss, take the blood pressures, and call the physician. Where a nurse failed in any of those duties or did not escalate through the chain of command, the hospital is directly liable."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The hospital, for its systems."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Whether an operating room, an anesthesiologist, and blood products were available when needed; whether a hospital allowing VBAC had the staff immediately available that the standard requires; staffing levels on the unit that night. These are the hospital’s own decisions."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The attending obstetrician, family physician, or certified nurse-midwife"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " and their practice group, for the management of the labor, the decision to deliver and how, and the operative delivery itself."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The hospital, for a non-employee physician"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", under "
+       },
+       {
+        "t": "em",
+        "c": [
+         {
+          "t": "text",
+          "v": "Grewe v Mt Clemens General Hospital"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " (1978) and "
+       },
+       {
+        "t": "em",
+        "c": [
+         {
+          "t": "text",
+          "v": "Markel v William Beaumont Hospital"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " (2022), when the family reasonably looked to the hospital for care, which is typical of the on-call physician a mother meets for the first time in labor."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The anesthesiologist or nurse anesthetist"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " and their group."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "State university hospitals, in the Court of Claims, where the claim or a qualifying notice of intention generally must be filed within six months, MCL 600.6431."
+         }
+        ]
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Michigan retains joint and several liability in medical malpractice where the plaintiff was without fault, MCL 600.6304(6)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "proving-the-case",
+   "heading": "Proving the case",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Michigan requires proof of the standard of care, breach, causation more probable than not, and damages, MCL 600.2912a, through experts who practice the same specialty as the defendant, MCL 600.2169. A labor and delivery case typically needs a board-certified obstetrician, a labor and delivery nurse, and, depending on the injury, a maternal-fetal medicine specialist, an anesthesiologist, a neonatologist and pediatric neurologist for the child, a urogynecologist or colorectal surgeon for maternal pelvic injury, and life care and economic experts."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The records we obtain in every case, and request by name because a general request for “the chart” often omits them:"
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "text",
+        "v": "The electronic fetal monitoring archive, not a printout"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "The medication administration record, which shows every Pitocin dose change with a time"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "The nursing flowsheets, including vital signs, quantitative blood loss, and chain-of-command documentation"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "The operating room log and anesthesia record"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "The blood bank record, which shows when products were ordered and when they arrived"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "The hospital’s own policies: hemorrhage protocol, hypertension protocol, VBAC policy, chain-of-command policy, oxytocin protocol"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "The prenatal record, including GBS culture, glucose testing, growth scans, and the delivery-planning discussion"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "The newborn and NICU records, including cord gases and imaging"
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "A preservation letter goes out the day we are retained. Michigan hospitals generally must keep medical records for at least seven years, MCL 333.20175(2)(a), and a hospital that cannot produce material records after notice may face an adverse inference at trial if the applicable legal requirements are established."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-can-be-recovered",
+   "heading": "What can be recovered",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "For the child"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ": uncapped economic damages for lifetime care, therapy, equipment, and lost earning capacity; non-economic damages under the higher cap where the injury meets its terms."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "For the mother"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ": her medical expenses, lost wages, the cost of future treatment and surgery, and non-economic damages for her pain, disfigurement, loss of function, and, where negligent injury caused permanent loss of or damage to a reproductive organ resulting in an inability to procreate, potentially under the higher cap."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "For the father and family"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ": a spouse’s loss of consortium; parents’ lost wages for a child’s care; in a death, the wrongful death act’s damages for loss of society and companionship."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Non-economic caps for 2026 are $596,400 and $1,065,000 under MCL 600.1483 and are adjusted each year. Economic damages have no cap. Settlements for a minor require court approval under MCR 2.420."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "michigans-procedure-and-deadlines",
+   "heading": "Michigan’s procedure and deadlines",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Step"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Rule"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Where it comes from"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "Child’s deadline (injury before 8th birthday)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Any time before the child’s 10th birthday"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5851(7)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Mother's own malpractice claim; spouse's derivative consortium claim where legally available Generally two years from the malpractice, subject to applicable discovery and tolling provisions"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Two years from the malpractice, six-month discovery rule"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5805(8), 600.5838a "
+        },
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "placeholder",
+           "kind": "ATTORNEY CHECK",
+           "v": ""
+          }
+         ]
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Wrongful death (mother or baby)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Generally two years, with the personal representative's additional filing period under MCL 600.5852 and applicable notice-of-intent tolling."
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.2922, 600.5852 "
+        },
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "placeholder",
+           "kind": "ATTORNEY CHECK",
+           "v": ""
+          }
+         ]
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Notice of intent"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Served on every defendant 182 days before suit"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.2912b"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Affidavit of merit"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Filed with the complaint"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.2912d"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Expert qualifications"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Same specialty and board certification"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.2169"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "State university hospitals"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Court of Claims; six-month notice"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.6431"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Non-economic caps, 2026"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$596,400 / $1,065,000"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.1483"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Settlement for a minor"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Court approval"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCR 2.420"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Medical records"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Complete record; retention seven years"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 333.20175"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The mother’s two-year clock is the one families miss. A family focused on a newborn in the NICU can reach the second birthday without realizing that the mother’s own claim for a hysterectomy or a fourth-degree tear has expired while the child’s remains open for eight more years. Both are calendared the day we are retained."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-to-do-after-a-difficult-labor",
+   "heading": "What to do after a difficult labor",
+   "blocks": [
+    {
+     "t": "ol",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Request the complete records, in writing, for both patients"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": the mother’s prenatal and labor record, the electronic monitoring archive by name, the medication record, the operative and anesthesia records, and the newborn and NICU records."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Ask for the discharge summary and the operative report"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " before you leave the hospital. They are the hospital’s own account of what happened, written before anyone anticipated a claim."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Write down your account"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " of the labor: times, who was in the room, what you were told, how long you waited for the operating room, whether anyone measured the bleeding."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Keep every follow-up appointment"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", for the mother as well as the baby, and tell each provider the full history. Injuries to the mother, incontinence in particular, go unreported out of embarrassment and untreated as a result."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Enroll a baby with any developmental concern in Early On"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " (1-800-327-5966), Michigan’s free early intervention program."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Call a lawyer within the first year."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " The mother’s deadline is two years, the university-hospital notice is six months, and the records are easiest to obtain before anyone has a reason not to produce them."
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "why-metro-detroit-families-call-atlaw-after-a-difficult-delivery",
+   "heading": "Why metro Detroit families call ATLAW after a difficult delivery",
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Thirteen years, more than 10,000 cases, more than $100 million recovered."
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Both patients, both claims."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " The mother’s injuries are evaluated as carefully as the child’s, with both deadlines calendared. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": ""
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Record preservation requests. For accepted cases, we send written requests to preserve relevant medical records, including electronic monitoring records."
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "An honest first answer."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " When the records show the complication was managed properly, we say so. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": ""
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The experts the case requires"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": obstetrics and maternal-fetal medicine, labor and delivery nursing, anesthesiology, neonatology, pediatric neurology, urogynecology, life care planning, and economics. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": "expert network"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Settlements structured to protect the child’s benefits."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": "  "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": "special needs planning coordination"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Dearborn, and the whole metro area."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Families come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Languages."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "No fee unless we recover."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Contingency fee ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs. No cost for the first conversation."
+       }
+      ]
+     ]
+    }
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "The baby is fine but I was badly injured. Do I have a case?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Possibly. A mother’s injuries from mismanaged hemorrhage, untreated blood pressure, an unrepaired tear, a surgical injury during cesarean, or an anesthesia complication are malpractice claims in their own right. The deadline is two years from the malpractice, so do not wait."
+    }
+   ]
+  },
+  {
+   "question": "I had a C-section after hours of labor. Was it too late?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Not necessarily; many cesareans after a long labor are timely and appropriate. The question is what the fetal monitor showed and when, and how long the hospital took to deliver once the decision was made. The strip and the operating room log answer it."
+    }
+   ]
+  },
+  {
+   "question": "I was told I could try a VBAC. The uterus ruptured. Is the hospital responsible?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "It depends on whether the risks were explained, whether you were an appropriate candidate, whether the signs of rupture were recognized promptly, and whether the hospital had the staff immediately available to perform an emergency cesarean, which is what the professional standard requires for any hospital offering a trial of labor after cesarean."
+    }
+   ]
+  },
+  {
+   "question": "They used a vacuum three or four times and then forceps. Is that negligence?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "The professional guidance limits the number of pulls and detachments and discourages switching between instruments; a prolonged operative delivery that should have become a cesarean is a common claim. The newborn’s injuries, cephalohematoma or subgaleal hemorrhage in particular, and the operative note decide the case."
+    }
+   ]
+  },
+  {
+   "question": "My blood pressure was high for hours before anyone treated it. Does that matter?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Yes. A confirmed pressure of 160/110 or higher is a hypertensive emergency that the standard of care treats within 30 to 60 minutes. Delay risks eclampsia and stroke. The vital-sign flowsheet shows every reading and the medication record shows when treatment began."
+    }
+   ]
+  },
+  {
+   "question": "I lost my uterus to bleeding after delivery. What is my claim worth?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "That depends on whether the hemorrhage was measured and treated according to the hospital’s own protocol and how quickly. If negligent care caused your injury, your economic damages are uncapped, and the permanent loss of a reproductive organ resulting in an inability to procreate may qualify for Michigan's higher non-economic cap, $1,065,000 for 2026."
+    }
+   ]
+  },
+  {
+   "question": "How long do we have?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "The child: until the tenth birthday for an injury before age eight. The mother and father: two years. A death: two years with a saving provision. A university hospital: six months’ notice. The 182-day notice of intent precedes every suit."
+    }
+   ]
+  },
+  {
+   "question": "Is the midwife liable, or the hospital?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Potentially both. A certified nurse-midwife is held to the standard of care of her profession; the hospital is liable for its employees and for the physician backup and operating room access the midwifery service depends on."
+    }
+   ]
+  },
+  {
+   "question": "Will we have to go to trial?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Most Michigan labor and delivery cases resolve before trial after the experts have reviewed the records on both sides. We prepare every case to be tried."
+    }
+   ]
+  },
+  {
+   "question": "What does it cost?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Nothing up front. The firm advances the cost of experts and recovers it only from a settlement or verdict."
+    }
+   ]
+  }
+ ],
+ "cta": {
+  "id": "talk-to-a-michigan-labor-and-delivery-negligence-lawyer",
+  "heading": "Talk to a Michigan labor and delivery negligence lawyer",
+  "blocks": [
+   {
+    "t": "p",
+    "c": [
+     {
+      "t": "text",
+      "v": "If you or your baby were injured during labor or delivery anywhere in Michigan, call "
+     },
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "text",
+        "v": "(313) 406-7606"
+       }
+      ]
+     },
+     {
+      "t": "text",
+      "v": " or send the form on this page. We obtain and preserve the complete records for both patients, have them reviewed by the specialists the case requires, and tell you whether the complication was preventable and what your family’s claims are worth. We respond within one business day, and there is no fee unless we recover money for your family."
+     }
+    ]
+   }
+  ]
+ },
+ "wordCount": 3068,
+ "openItems": 9,
+ "source": {
+  "file": "B2-10_Michigan-Labor-Delivery-Negligence-Lawyer.docx",
+  "delivered": "2026-10-16"
+ }
+}

@@ -59,7 +59,7 @@ export const FinalCtaSection = (): JSX.Element => {
             as="p"
             className="mt-5 font-sans text-[17px] leading-[1.5] text-white/75 lg:text-[19px]"
           >
-            You Pay Nothing Unless We Win Your Case &mdash; Guaranteed.
+            You Pay Nothing Unless We Win Your Case.
           </RevealBlock>
 
           <RevealBlock className="mt-10 flex w-full flex-col items-center justify-center gap-4 sm:flex-row sm:gap-6">
@@ -72,7 +72,7 @@ export const FinalCtaSection = (): JSX.Element => {
             </a>
             <a
               className="group inline-flex h-[60px] w-full max-w-[320px] items-center justify-center gap-2.5 rounded-full border border-white/40 bg-transparent px-8 font-sans text-[15px] font-semibold uppercase tracking-[0.04em] text-white transition-all duration-[240ms] ease-[cubic-bezier(0.22,1,0.36,1)] hover:border-white hover:bg-white/10 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#B88A2D] focus-visible:ring-offset-2 focus-visible:ring-offset-[#0B1F3A] sm:w-auto lg:h-[64px]"
-              href="mailto:info@atlawfirm.com"
+              href="mailto:info@atlawgroup.com"
             >
               <MailIcon />
               EMAIL

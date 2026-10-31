@@ -1,8 +1,9 @@
 const FIRM = {
   name: "ATLAW — AT Law Group",
+  legalName: "AT Law Group, PLLC",
   url: "https://atlawgroup.com",
   telephone: "+1-313-406-7606",
-  email: "db@atlawgroup.com",
+  email: "info@atlawgroup.com",
   address: {
     "@type": "PostalAddress" as const,
     streetAddress: "3 Park Lane Blvd., Suite 400W",
@@ -31,6 +32,7 @@ export function homepageSchema() {
     "@context": "https://schema.org",
     "@type": "LegalService",
     name: FIRM.name,
+    legalName: FIRM.legalName,
     description:
       "Dearborn personal injury law firm representing injured clients across Southeast Michigan. Auto accidents, medical malpractice, wrongful death, and more.",
     url: FIRM.url,
@@ -91,6 +93,7 @@ export function aboutPageSchema() {
     "@context": "https://schema.org",
     "@type": "Organization",
     name: FIRM.name,
+    legalName: FIRM.legalName,
     url: FIRM.url,
     telephone: FIRM.telephone,
     email: FIRM.email,
@@ -126,11 +129,29 @@ export function newsArticleSchema(opts: {
   };
 }
 
+/** Article JSON-LD for a resource guide (`path` is its site URL, e.g. /resources/<slug>). */
+export function resourceArticleSchema(opts: { title: string; description: string; path: string }) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    headline: opts.title,
+    description: opts.description,
+    url: `${FIRM.url}${opts.path}`,
+    author: { "@type": "Organization", name: FIRM.name },
+    publisher: {
+      "@type": "Organization",
+      name: FIRM.name,
+      logo: { "@type": "ImageObject", url: `${FIRM.url}/assets/atlaw-portrait.png` },
+    },
+  };
+}
+
 export function contactPageSchema() {
   return {
     "@context": "https://schema.org",
     "@type": "LegalService",
     name: FIRM.name,
+    legalName: FIRM.legalName,
     url: FIRM.url,
     telephone: FIRM.telephone,
     email: FIRM.email,
@@ -138,5 +159,18 @@ export function contactPageSchema() {
     openingHours: "Mo-Fr 09:00-17:00",
     areaServed: FIRM.areaServed,
     priceRange: "Free Consultation",
+  };
+}
+
+/** FAQPage JSON-LD from a page's question and answer pairs (answers as plain text). */
+export function faqPageSchema(faqs: { question: string; answer: string }[]) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    mainEntity: faqs.map((f) => ({
+      "@type": "Question",
+      name: f.question,
+      acceptedAnswer: { "@type": "Answer", text: f.answer },
+    })),
   };
 }

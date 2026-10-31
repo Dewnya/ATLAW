@@ -1,58 +1,54 @@
-import { useState, useRef, useEffect } from "react";
+import { useState, useEffect, useRef } from "react";
 import { Link, useLocation } from "react-router-dom";
-import { gsap } from "gsap";
-import { ScrollTrigger } from "gsap/ScrollTrigger";
-import { prefersReducedMotion } from "../../motion/config";
-import { NAVY, GOLD, navLinks } from "../../data/navigation";
+import { NAVY, GOLD, navItems, type NavMenu } from "../../data/navigation";
+import { PHONE_DISPLAY, PHONE_HREF, SMS_NUMBER, smsHref } from "../../data/contact";
+import { DesktopNavMenu, MobileNavMenu } from "./header/NavMenus";
+import { PhoneIcon } from "./footer/icons";
+import { openIntakeModal } from "./IntakeModal";
 
-gsap.registerPlugin(ScrollTrigger);
+const desktopCellClass =
+  "relative flex items-center whitespace-nowrap border-r border-white/10 px-3 font-sans text-[11.5px] font-semibold uppercase tracking-[0.14em] text-[#FFFFFF]/85 transition-all duration-150 hover:bg-white/[0.04] hover:text-[#FFFFFF] focus-visible:bg-white/10 focus-visible:outline-none xl:px-6 xl:tracking-[0.18em]";
 
 export const Header = (): JSX.Element => {
   const [mobileOpen, setMobileOpen] = useState(false);
+  const [openMenu, setOpenMenu] = useState<NavMenu["id"] | null>(null);
   const [scrolled, setScrolled] = useState(false);
   const headerRef = useRef<HTMLElement>(null);
-  const mobileOpenRef = useRef(false);
   const location = useLocation();
 
   useEffect(() => {
     setMobileOpen(false);
+    setOpenMenu(null);
   }, [location.pathname]);
 
   useEffect(() => {
     const handleKey = (e: KeyboardEvent) => {
-      if (e.key === "Escape") setMobileOpen(false);
+      if (e.key === "Escape") {
+        setMobileOpen(false);
+        setOpenMenu(null);
+      }
     };
     document.addEventListener("keydown", handleKey);
     return () => document.removeEventListener("keydown", handleKey);
   }, []);
 
+  // A pinned (clicked/tapped) dropdown closes when you tap anywhere outside the header.
   useEffect(() => {
-    const el = headerRef.current;
-    if (!el) return;
-    if (prefersReducedMotion()) return;
+    if (!openMenu) return;
+    const onPointerDown = (e: PointerEvent) => {
+      if (!headerRef.current?.contains(e.target as Node)) setOpenMenu(null);
+    };
+    document.addEventListener("pointerdown", onPointerDown);
+    return () => document.removeEventListener("pointerdown", onPointerDown);
+  }, [openMenu]);
 
-    const st = ScrollTrigger.create({
-      start: 0,
-      end: "max",
-      onUpdate: (self) => {
-        const y = self.scroll();
-        setScrolled(y > 8);
-        if (y < 120 || mobileOpenRef.current) {
-          gsap.to(el, { yPercent: 0, duration: 0.4, ease: "power3.out", overwrite: true });
-          return;
-        }
-        gsap.to(el, {
-          yPercent: self.direction === 1 ? -100 : 0,
-          duration: 0.4,
-          ease: "power3.out",
-          overwrite: true,
-        });
-      },
-    });
-    return () => st.kill();
+  // Header stays pinned; scrolling only switches it to the translucent blurred style.
+  useEffect(() => {
+    const onScroll = () => setScrolled(window.scrollY > 8);
+    onScroll();
+    window.addEventListener("scroll", onScroll, { passive: true });
+    return () => window.removeEventListener("scroll", onScroll);
   }, []);
-
-  mobileOpenRef.current = mobileOpen;
 
   return (
     <>
@@ -70,7 +66,7 @@ export const Header = (): JSX.Element => {
         {/* Logo */}
         <Link
           aria-label="ATLAW home"
-          className="flex shrink-0 items-center border-r border-white/10 px-6 lg:px-8"
+          className="flex shrink-0 items-center border-r border-white/10 px-6 xl:px-8"
           onClick={() => {
             setMobileOpen(false);
             window.scrollTo({ top: 0, behavior: "smooth" });
@@ -80,36 +76,55 @@ export const Header = (): JSX.Element => {
           <img alt="ATLAW" className="h-6 w-auto lg:h-7" src="/assets/atlaw logo.svg" />
         </Link>
 
-        {/* Desktop nav — direct links only */}
+        {/* Desktop nav — dropdown menus + direct links */}
         <nav aria-label="Primary" className="hidden flex-1 items-stretch lg:flex">
-          {navLinks.map(({ label, to }) => (
-            <Link
-              className="relative flex items-center whitespace-nowrap border-r border-white/10 px-5 font-sans text-[11.5px] font-semibold uppercase tracking-[0.18em] text-[#FFFFFF]/85 transition-all duration-150 hover:bg-white/[0.04] hover:text-[#FFFFFF] focus-visible:bg-white/10 focus-visible:outline-none xl:px-6"
-              key={label}
-              to={to}
-            >
-              {label}
-            </Link>
-          ))}
+          {navItems.map((item) =>
+            item.kind === "menu" ? (
+              <DesktopNavMenu
+                key={item.id}
+                menu={item}
+                // A menu may only close itself: its delayed hover-close must not
+                // shut the other menu the pointer has already moved into.
+                onOpenChange={(open) => setOpenMenu((current) => (open ? item.id : current === item.id ? null : current))}
+                open={openMenu === item.id}
+                triggerClassName={`${desktopCellClass} ${openMenu === item.id ? "bg-white/[0.06] text-[#FFFFFF]" : ""}`}
+              />
+            ) : (
+              <Link className={desktopCellClass} key={item.label} to={item.to}>
+                {item.label}
+              </Link>
+            ),
+          )}
         </nav>
 
         {/* Spacer */}
         <div className="hidden flex-1 lg:flex" />
 
-        {/* I NEED HELP CTA */}
-        <Link
-          aria-label="I need help — contact ATLAW"
-          className="hidden items-center whitespace-nowrap px-7 font-sans text-[11.5px] font-semibold uppercase tracking-[0.22em] transition-all duration-150 hover:bg-[#0E2C4F] focus-visible:outline-none focus-visible:bg-[#0E2C4F] lg:flex"
-          style={{
-            backgroundColor: "rgba(211,154,42,0.06)",
-            color: GOLD,
-            borderLeft: "1px solid rgba(211,154,42,0.5)",
-          }}
-          to="/contact"
+        {/* Call + (Text) + Free Case Review — desktop. Mobile uses MobileActionBar. */}
+        <a
+          aria-label={`Call ATLAW at ${PHONE_DISPLAY}`}
+          className="hidden items-center gap-2 whitespace-nowrap border-l border-white/10 px-3.5 font-sans text-[13px] font-semibold tracking-[0.04em] text-[#FFFFFF] transition-colors duration-150 hover:bg-white/[0.04] focus-visible:bg-white/10 focus-visible:outline-none lg:flex xl:px-5"
+          href={PHONE_HREF}
         >
-          I need help
-          <span aria-hidden="true" className="ml-2">→</span>
-        </Link>
+          <PhoneIcon />
+          <span className="hidden min-[1440px]:inline">{PHONE_DISPLAY}</span>
+        </a>
+        {SMS_NUMBER && (
+          <a
+            className={`${desktopCellClass} hidden border-l xl:flex`}
+            href={smsHref(SMS_NUMBER)}
+          >
+            Text Us
+          </a>
+        )}
+        <button
+          className="hidden items-center whitespace-nowrap px-4 font-sans text-[11.5px] font-semibold uppercase tracking-[0.14em] text-[#0E1B2C] transition-opacity duration-150 hover:opacity-90 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-[-4px] focus-visible:outline-white lg:flex xl:px-6 xl:tracking-[0.18em]"
+          onClick={openIntakeModal}
+          style={{ backgroundColor: GOLD }}
+          type="button"
+        >
+          Free Case Review
+        </button>
 
         {/* Mobile menu button */}
         <button
@@ -138,30 +153,33 @@ export const Header = (): JSX.Element => {
           id="atlaw-mobile-nav"
           style={{ backgroundColor: NAVY }}
         >
-          <div className="max-h-[calc(100vh-72px)] overflow-y-auto px-5 pb-8 pt-3">
-            {navLinks.map(({ label, to }) => (
-              <Link
-                className="block border-b border-white/10 py-4 font-sans text-[12px] font-semibold uppercase tracking-[0.22em] text-[#FFFFFF]"
-                key={label}
-                onClick={() => setMobileOpen(false)}
-                to={to}
-              >
-                {label}
-              </Link>
-            ))}
+          <div className="max-h-[calc(100vh-132px)] overflow-y-auto px-5 pb-8 pt-3">
+            {navItems.map((item) =>
+              item.kind === "menu" ? (
+                <MobileNavMenu key={item.id} menu={item} onNavigate={() => setMobileOpen(false)} />
+              ) : (
+                <Link
+                  className="block border-b border-white/10 py-4 font-sans text-[12px] font-semibold uppercase tracking-[0.22em] text-[#FFFFFF]"
+                  key={item.label}
+                  onClick={() => setMobileOpen(false)}
+                  to={item.to}
+                >
+                  {item.label}
+                </Link>
+              ),
+            )}
 
-            <Link
-              className="mt-6 flex items-center justify-center px-6 py-4 font-sans text-[12px] font-semibold uppercase tracking-[0.22em]"
-              onClick={() => setMobileOpen(false)}
-              style={{
-                backgroundColor: "rgba(211,154,42,0.08)",
-                color: GOLD,
-                border: "1px solid rgba(211,154,42,0.5)",
+            <button
+              className="mt-6 flex w-full items-center justify-center px-6 py-4 font-sans text-[12px] font-semibold uppercase tracking-[0.22em] text-[#0E1B2C]"
+              onClick={() => {
+                setMobileOpen(false);
+                openIntakeModal();
               }}
-              to="/contact"
+              style={{ backgroundColor: GOLD }}
+              type="button"
             >
-              I need help <span aria-hidden="true" className="ml-2">→</span>
-            </Link>
+              Free Case Review
+            </button>
           </div>
         </nav>
       )}

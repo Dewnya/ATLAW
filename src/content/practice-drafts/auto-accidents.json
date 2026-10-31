@@ -1,0 +1,1394 @@
+{
+ "slug": "auto-accidents",
+ "section": "personal-injury",
+ "status": "draft",
+ "seoTitle": "Michigan Car Accident Lawyer – No-Fault & Injury Claims",
+ "seoDescription": "Hurt in a Michigan car accident? ATLAW explains your no-fault benefits, when you can sue the at-fault driver, and what your claim is worth. Free case review, no fee unless we win.",
+ "h1": "Michigan Car Accident Lawyer",
+ "tagline": "Your no-fault benefits, your right to sue, and what your claim is worth, explained by a Dearborn firm that has handled more than 10,000 cases.",
+ "primaryKeyword": "michigan car accident lawyer",
+ "secondaryKeywords": [
+  "michigan car accident attorney",
+  "michigan no fault insurance",
+  "car accident lawyer near me",
+  "michigan auto accident lawyer",
+  "mini tort michigan"
+ ],
+ "intro": [
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "If you were hurt in a car accident in Michigan, two things are true that nobody has told you yet. Your own insurance company owes you benefits no matter who caused the crash, and it will pay less than it owes if you let it. And you may also have the right to sue the driver who hit you, but only if your injuries clear a legal threshold most people have never heard of. This page explains both, with the actual numbers, so you can decide what to do next."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across Wayne, Oakland, Macomb, and Washtenaw counties. We take car accident cases on contingency, which means no fee unless we recover money for you, and the first conversation is free. We will also tell you in that conversation if you do not need a lawyer. Some claims do not, and we would rather say so than take a fee for work you could do yourself."
+    }
+   ]
+  }
+ ],
+ "sections": [
+  {
+   "id": "what-to-do-in-the-first-seven-days-after-a-michigan-car-accident",
+   "heading": "What to do in the first seven days after a Michigan car accident",
+   "blocks": [
+    {
+     "t": "ol",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Report the crash."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Michigan requires a crash involving injury or more than $1,000 in damage to be reported immediately to local law enforcement or a Michigan State Police post; the responding officer completes the UD-10 crash report. The report is usually available in a few days through the Michigan State Police Traffic Crash Purchasing System for $15. It is the foundation of every claim you will make."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Seek prompt medical attention, even if you feel fine."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Whiplash, concussion, and soft-tissue injuries commonly appear two to three days after a crash. An emergency room, urgent care, or your own physician all work. What matters is a medical record dated close to the crash. Prompt evaluation and consistent follow-up help document your injuries and recovery."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Notify your insurer promptly, and give written notice within one year."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Tell your auto insurer about the crash right away, obtain a claim number, and share it with your treating providers. Under Michigan’s no-fault law (MCL 500.3145) written notice within one year of the accident is required to preserve your benefits. Do it now, in writing, and keep a copy. Report the facts; do not guess about injuries or fault."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Do not give a recorded statement to the other driver’s insurance company."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " You have no obligation to talk to them. Their adjuster’s job is to find a reason to pay less. Refer them to your lawyer or simply decline."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Photograph everything."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " The cars, the scene, skid marks, the other driver’s license and insurance card, your injuries as they develop. Save the clothes you were wearing if they were damaged. Write down what happened while you remember it."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Keep every receipt and every missed day of work."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Michigan no-fault pays for wage loss, mileage to appointments, prescriptions, and household help, but only what you can document."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Talk to a lawyer before you sign anything."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Insurance companies sometimes offer a quick check in the first two weeks. Signing a release ends your claim. A free consultation costs you nothing and tells you whether the offer is fair."
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-no-fault-owes-you-michigan-pip-benefits",
+   "heading": "What no-fault owes you: Michigan PIP benefits",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Michigan is a no-fault state. After a crash, Personal Injury Protection (PIP) benefits pay your medical bills and lost wages regardless of who was at fault. PIP benefits generally come through applicable coverage under your policy or a spouse’s or resident relative’s policy; different priority rules apply to certain employer vehicles, passenger vehicles, and motorcycle accidents. This is the part of the system most people misunderstand, and the part insurers most often underpay."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Your PIP benefits include:"
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Medical expenses"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", up to the coverage level you chose when you bought your policy. Since the 2019 reform, Michigan drivers pick one of six levels: unlimited; $500,000; $250,000; $250,000 with exclusions for people who have qualified health coverage; $50,000 for Medicaid enrollees, available only if the applicant has Medicaid and their spouse and resident relatives have Medicaid, qualified health coverage, or PIP medical coverage under another policy; or opting out of PIP medical coverage for Medicare enrollees, which requires Medicare Parts A and B and a spouse and resident relatives with qualified health coverage or another policy’s PIP medical coverage. Other PIP benefits remain available under every option. If you do not know your level, it is on your declarations page. If you have a level below unlimited and your bills exceed it, you can sue the at-fault driver for the excess, which is one reason that lawsuit matters more than it used to."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Wage loss"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": 85% of the income you would have earned, tax-free, for up to three years after the crash. The benefit is capped at a monthly maximum that the state adjusts every October. For crashes on or after October 1, 2026, the cap is $7,455 a month (DIFS Bulletin 2026-20-INS). For crashes in the year before, it was $7,201. If you were self-employed or had just started a job, the insurer will dispute your wage figure; documentation wins that argument."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Replacement services"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": up to $20 a day for up to three years for household tasks you can no longer do, such as cleaning, cooking, yard work, and driving children. Family members can be paid for providing them."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Attendant care"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": payment for someone to help you with daily activities if your injuries require it. Care provided by family members at home is capped at 56 hours a week under the 2019 reform; care from an agency is not."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Mileage"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " to and from medical appointments."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Survivor’s loss"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": if a family member died in the crash, their dependents receive wage loss and replacement services for three years, and the insurer pays funeral and burial costs up to the policy limit."
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Two rules trip up people who try to handle this alone. First, the "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "one-year notice rule"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ": written notice to your insurer within one year of the crash, or the claim is barred. Second, the "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "one-year-back rule"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ": when you sue your insurer for unpaid benefits, you can only recover expenses from the twelve months before the lawsuit was filed. A bill the insurer wrongly denied two years ago is gone unless you sued within a year of the denial. These two deadlines cost Michigan families more money than any other part of the no-fault law."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "If you have no applicable PIP coverage of your own and none through a relative you live with, you may apply through the Michigan Assigned Claims Plan, which assigns an insurer to pay your benefits, generally subject to a $250,000 medical limit. An owner or registrant of an involved vehicle that lacked the required insurance is generally excluded from PIP. Notice to the Michigan Automobile Insurance Placement Facility, which runs the plan, is due within one year of the accident."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "when-you-can-sue-the-driver-who-hit-you",
+   "heading": "When you can sue the driver who hit you",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "No-fault covers your bills. It does not compensate you for pain, for a changed life, or for the things money cannot replace. For that, Michigan lets you sue the at-fault driver, but only if your injury meets the "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "serious impairment of body function"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " threshold in MCL 500.3135. Since 2019 the law spells out the test in three parts, all of which must be met:"
+      }
+     ]
+    },
+    {
+     "t": "ol",
+     "items": [
+      [
+       {
+        "t": "text",
+        "v": "The impairment is "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "objectively manifested"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": a doctor can observe or measure it, through imaging, examination findings, or test results, not just your report of pain."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "It affects an "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "important body function"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": one that has significance in your life. Walking, lifting, concentrating, and sleeping have all qualified. A function does not have to be lost completely; a real limitation counts."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "It affects your "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "general ability to lead your normal life"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": some part of how you lived before the crash has changed. The law is explicit that the change does not have to be permanent, and does not have to affect every part of your life."
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "A fractured bone, a herniated disc with nerve involvement, a concussion with documented cognitive effects, a torn ligament requiring surgery: these clear the threshold. Soft-tissue strain that resolves in six weeks usually does not, and we will tell you if your case falls there. If your injury does qualify, you can recover non-economic damages (pain and suffering, loss of enjoyment of life) and economic damages that exceed what no-fault paid, such as wage loss above the monthly cap or after the three years run out. Michigan has no cap on these damages in a car accident case."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Two more rules apply to the lawsuit. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Comparative fault"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ": if you were more than 50% at fault for the crash, you cannot recover non-economic damages at all. Below 50%, your award is reduced by your share of fault. Insurers argue fault aggressively for exactly this reason, which is why the crash report and witness statements matter. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Uninsured and underinsured drivers"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ": if the at-fault driver has no insurance or too little, your own policy’s UM/UIM coverage (if you bought it) stands in for theirs. Those claims have their own notice deadlines, often shorter than a year, written into your policy."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "What about the damage to your car?"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " No-fault does not pay for your vehicle unless you carry collision coverage. Michigan’s "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "mini-tort"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " law lets you recover up to $3,000 from the at-fault driver (or their insurer) for vehicle damage your own policy did not cover. The limit was raised from $1,000 to $3,000 in July 2020; several law firm websites still quote the old figure. Mini-tort claims are filed in small claims court and you do not need a lawyer for one. If you hire us for your injury claim, we handle the mini-tort claim at no additional charge."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-a-michigan-car-accident-claim-is-worth",
+   "heading": "What a Michigan car accident claim is worth",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "No honest lawyer can give you a number before reviewing the medical records, and any website that lists an “average settlement” is guessing. What we can tell you is what moves the number."
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The severity and permanence of the injury"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", as documented by treating physicians. A surgical case is worth more than a non-surgical one; a permanent limitation is worth more than a full recovery."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Economic losses no-fault did not cover"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": wages above the cap, wages after three years, medical bills above your PIP level, future care."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "How clear fault is."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " A rear-end collision with a police report assigning fault settles differently from a disputed intersection crash."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The at-fault driver’s policy limits."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Michigan’s minimum bodily injury coverage is $50,000 per person and $100,000 per crash (raised from $20,000 / $40,000 in 2020). Many drivers carry only the minimum. Your own UIM coverage matters when they do."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Whether the insurer believes you will go to trial."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Firms that settle everything get lower offers. ATLAW takes cases to trial when that is what the case requires."
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "ATLAW’s results: more than 10,000 cases and more than $100 million recovered for clients in 13 years. Every case is different and past results do not predict the outcome of yours. What they show is that the firm has done this work, in these counties, against these insurers, for 13 years."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "deadlines-that-end-michigan-car-accident-claims",
+   "heading": "Deadlines that end Michigan car accident claims",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Deadline"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Applies to"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Source"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "1 year from the crash"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Written notice to your no-fault insurer for PIP benefits"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 500.3145"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "1 year back from filing"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Recovering unpaid PIP benefits in a lawsuit against your insurer"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 500.3145"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "3 years from the crash"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Lawsuit against the at-fault driver for injuries"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5805"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "3 years from the crash"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Mini-tort claim for vehicle damage"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5805"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "120 days from the crash"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Written notice to a city, county, or state agency if a government vehicle or a defective road was involved"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 691.1404"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Varies by policy, often 30 days to 1 year"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Notice of an uninsured or underinsured motorist claim to your own insurer"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Your policy"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "If the injured person is a minor, Michigan’s tolling rule (MCL 600.5851) generally gives them until at least one year after their 18th birthday. If the person died, the estate’s representative generally has three years from the date of death. These exceptions have exceptions; call before relying on them."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "car-accidents-in-michigan-and-metro-detroit-2024",
+   "heading": "Car accidents in Michigan and metro Detroit, 2024",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Michigan recorded 288,880 traffic crashes in 2024. They injured 71,316 people and killed 1,099. Four counties account for 41% of the state’s crashes and 32% of its deaths, and they are the counties ATLAW serves."
+      }
+     ]
+    },
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "County"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Crashes"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Injured"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Killed"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Alcohol-involved crashes"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "Wayne"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "50,355"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "16,458"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "177"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "1,331"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Oakland"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "35,951"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "9,139"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "68"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "871"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Macomb"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "21,960"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "6,596"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "70"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "583"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Washtenaw"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "9,844"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "2,231"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "35"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "276"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Source: Michigan State Police, Michigan Traffic Crash Facts 2024."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The state’s three most crash-prone intersections in 2024 were all in the firm’s service area: 18½ Mile at Van Dyke in Sterling Heights (210 crashes), 11 Mile at Van Dyke in Warren (180 crashes, one death), and Telegraph at 12 Mile in Southfield (121 crashes). If your crash happened in one of these cities, the local page has the intersections, hospitals, and courts specific to it: Detroit, Dearborn, Southfield, Warren, Sterling Heights, Ann Arbor. "
+      },
+      {
+       "t": "em",
+       "c": [
+        {
+         "t": "text",
+         "v": "(Each city name links to its car accident page.)"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "types-of-car-accident-cases-we-handle",
+   "heading": "Types of car accident cases we handle",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Every crash below is a car accident claim under Michigan law, but each has a wrinkle the general rules do not cover. Each links to its own page."
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Rear-end and intersection collisions"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": the most common crash types in Wayne County; fault is usually clear, so the fight is over the injury threshold."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Truck and commercial vehicle accidents"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": federal trucking rules, higher policy limits, and evidence (driver logs, black box data) that disappears in weeks."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Motorcycle accidents"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": riders without a helmet face a specific no-fault rule on medical benefits."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Uber and Lyft accidents"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": which of three insurance policies applies depends on whether the app was on."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Pedestrian accidents"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": a pedestrian hit by a car claims no-fault benefits through the driver’s insurer or their own household policy."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Distracted driving crashes"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": Michigan’s 2023 hands-free law makes phone records evidence of fault."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Drunk driving crashes"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": a bar or store that served the driver may also be liable under Michigan’s dram shop law."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Passenger injuries"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": a passenger can claim against either driver, including the one they were riding with."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Uninsured and hit-and-run drivers"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": your own UM coverage and the Assigned Claims Plan fill the gap."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Fatal crashes"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": survivor’s loss benefits under no-fault plus a wrongful death claim against the driver."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Brain and spinal cord injuries"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": the cases where lifetime care costs make the PIP coverage level decisive."
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "why-people-in-metro-detroit-call-atlaw",
+   "heading": "Why people in metro Detroit call ATLAW",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "A Dearborn firm, not a billboard."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " ATLAW was founded in Dearborn by Dewnya Bazzi and has served clients for 13 years. The office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126, and the attorneys who meet you at the consultation are the attorneys who handle the case."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "More than 10,000 cases, more than $100 million recovered."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Across all injury practice areas. Every case is different and these figures do not predict yours; they show the firm has done this work in Wayne, Oakland, Macomb, and Washtenaw county courts against the insurers you are dealing with."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "No fee unless we win."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Car accident cases are handled on a contingency fee: you pay nothing up front and nothing at all unless we recover money for you. The fee is a percentage of the recovery, agreed in writing before we start. ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "We will tell you if you do not need us."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " If your injuries are minor and your own insurer is paying, you may be able to handle the claim yourself, and we will say so. A lawyer earns a fee when the case has a problem to solve: a denied benefit, a disputed threshold, a low offer, an uninsured driver."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "English, Arabic, French, Mandarin, Urdu, and Spanish."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "do-you-need-a-lawyer-for-your-michigan-car-accident",
+   "heading": "Do you need a lawyer for your Michigan car accident?",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "You probably do not if: you were not injured, or your injuries resolved within a few weeks; your own insurer is paying your bills and wages without dispute; and the vehicle damage is under $3,000 and the other driver’s insurer is cooperating on the mini-tort."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "You probably do if any of these is true: you have an injury that required imaging, surgery, or more than a month of treatment; your insurer has denied or delayed any benefit, or asked you to see its doctor; the other driver’s insurer has made an offer; fault is disputed or the police report blames you; the other driver was uninsured, a commercial vehicle, a government vehicle, or a rideshare; or someone died."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The consultation is free and takes about thirty minutes. Bring the crash report if you have it, your insurance declarations page, and any letters from an insurer."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How long do I have to file a car accident claim in Michigan?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Two different deadlines. You must give your own no-fault insurer written notice within one year of the crash to receive PIP benefits (MCL 500.3145). You have three years from the crash to file a lawsuit against the at-fault driver (MCL 600.5805). If a government vehicle or road defect was involved, written notice to the agency is due in 120 days."
+    }
+   ]
+  },
+  {
+   "question": "Does Michigan’s no-fault law mean I can’t sue the other driver?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "No. No-fault means your own insurer pays your medical bills and lost wages first, regardless of fault. You can still sue the at-fault driver for pain and suffering and for economic losses no-fault did not cover, if your injury meets the serious impairment of body function threshold in MCL 500.3135."
+    }
+   ]
+  },
+  {
+   "question": "What counts as a “serious impairment of body function”?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "An injury that is objectively manifested (observable by a doctor), affects an important body function, and affects your general ability to lead your normal life. The effect does not have to be permanent. Fractures, herniated discs, surgical injuries, and concussions with documented effects usually qualify; a sprain that heals in a few weeks usually does not."
+    }
+   ]
+  },
+  {
+   "question": "How much does a Michigan car accident lawyer cost?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "ATLAW handles car accident cases on a contingency fee: nothing up front, and no fee unless we recover money for you. The fee is a percentage of the recovery set in a written agreement before work begins. ATLAW’s fee is 33.3% of the recovery after case costs are deducted, and the firm advances those costs. Michigan court rules cap contingency fees in personal injury cases at one-third of the net recovery."
+    }
+   ]
+  },
+  {
+   "question": "What if the driver who hit me has no insurance?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Your own policy’s uninsured motorist (UM) coverage pays what the other driver’s insurer would have, up to your UM limit, if you bought that coverage. Your no-fault PIP benefits are paid regardless. If you have no policy and no household member does, the Michigan Assigned Claims Plan assigns an insurer to pay PIP benefits. Hit-and-run crashes are handled the same way."
+    }
+   ]
+  },
+  {
+   "question": "Who pays for the damage to my car?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Your own collision coverage, if you have it. If you do not, or for your deductible, Michigan’s mini-tort law lets you recover up to $3,000 from the at-fault driver. Claims above $3,000 without collision coverage are generally not recoverable, which is why collision coverage matters in Michigan more than in fault states."
+    }
+   ]
+  },
+  {
+   "question": "How much is my case worth?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "It depends on the severity and permanence of your injury, your economic losses beyond what no-fault paid, how clear fault is, and the at-fault driver’s policy limits. Nobody can give you a figure before reviewing your medical records, and you should be cautious of anyone who does. We will give you an honest range once we have reviewed them."
+    }
+   ]
+  },
+  {
+   "question": "Should I talk to the other driver’s insurance adjuster?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "You are not required to, and you should not give a recorded statement without a lawyer. Anything you say will be used to argue you were not seriously hurt or were partly at fault. It is fine to give them your lawyer’s name and nothing else."
+    }
+   ]
+  },
+  {
+   "question": "How long does a Michigan car accident case take?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "No-fault benefits should start within 30 days of submitting proof of a loss. Injury claims against the at-fault driver typically settle in six to eighteen months, after treatment has progressed enough to know the extent of the injury. Cases that go to trial take two to three years. Settling before your doctors know your prognosis almost always means settling for less."
+    }
+   ]
+  },
+  {
+   "question": "What if I was partly at fault?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "You can still recover as long as you were not more than 50% at fault. Your award is reduced by your percentage of fault. Your no-fault PIP benefits are not affected by fault at all."
+    }
+   ]
+  }
+ ],
+ "cta": {
+  "id": "talk-to-a-michigan-car-accident-lawyer-today",
+  "heading": "Talk to a Michigan car accident lawyer today",
+  "blocks": [
+   {
+    "t": "p",
+    "c": [
+     {
+      "t": "text",
+      "v": "Call "
+     },
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "text",
+        "v": "(313) 406-7606"
+       }
+      ]
+     },
+     {
+      "t": "text",
+      "v": ", or send the form below and we will call you within one business day. Consultations are free, available in English, Arabic, French, Mandarin, Urdu, and Spanish, and there is no fee unless we recover money for you. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed."
+     }
+    ]
+   }
+  ]
+ },
+ "wordCount": 3421,
+ "openItems": 0,
+ "source": {
+  "file": "B1-01_Michigan-Car-Accident-Lawyer.docx",
+  "delivered": "2026-10-12"
+ }
+}

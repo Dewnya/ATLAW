@@ -1,4 +1,4 @@
-import { useState, useEffect, useRef } from "react";
+import { useState, useEffect, useRef, type ReactNode } from "react";
 import { Link } from "react-router-dom";
 import type { PracticeAreaPI } from "../../data/practice/pi/types";
 import { openIntakeModal } from "./IntakeModal";
@@ -6,6 +6,8 @@ import { TestimonialsSection } from "./TestimonialsSection";
 import { IntakeFormSection } from "./IntakeFormSection";
 import { ProcessSection } from "./ProcessSection";
 import { practiceAreaBySlug } from "../../data/practice/pi";
+import { practicePath } from "../../data/practice/pi/registry";
+import { BreadcrumbSchema } from "./Breadcrumbs";
 
 const GOLD = "#C9A24B";
 const GOLD_ACCENT = "#B88A2D";
@@ -124,7 +126,7 @@ const StickySubNav = () => {
       className="sticky top-0 z-30 w-full border-b border-white/10"
       style={{ background: NAVY_CANVAS }}
     >
-      <div className="mx-auto flex w-full max-w-[1180px] items-center justify-center gap-1 overflow-x-auto px-4 sm:gap-2 md:gap-6 lg:gap-8 lg:px-16">
+      <div className="mx-auto flex w-full max-w-[1320px] items-center justify-center gap-1 overflow-x-auto px-4 sm:gap-2 md:gap-6 lg:gap-8 lg:px-16">
         {TABS.map((tab) => (
           <button
             className={`relative whitespace-nowrap px-3 py-4 font-sans text-[11px] font-semibold uppercase tracking-[0.18em] transition-colors duration-200 sm:text-[12px] md:px-4 ${
@@ -150,7 +152,12 @@ const StickySubNav = () => {
 
 /* ─────────────────── 2. Hero ─────────────────── */
 
-const Hero = ({ data }: { data: PracticeAreaPI }) => (
+type HeroData = Pick<PracticeAreaPI, "title" | "heroTitle" | "tagline" | "heroImage" | "heroImageAlt">;
+
+/** Breadcrumb parent; null hides it (e.g. /disability pages, which have no section index). */
+type Crumb = { label: string; to: string } | null;
+
+export const Hero = ({ data, parent = { label: "Personal Injury", to: "/personal-injury" } }: { data: HeroData; parent?: Crumb }) => (
   <section
     aria-labelledby="pa-hero-title"
     className="relative w-full overflow-hidden bg-white"
@@ -159,8 +166,9 @@ const Hero = ({ data }: { data: PracticeAreaPI }) => (
   >
     <Grain opacity="0.03" />
 
-    <div className="relative mx-auto flex w-full max-w-[1180px] flex-col gap-10 px-6 pb-12 pt-16 sm:px-10 md:pb-16 md:pt-20 lg:flex-row lg:items-center lg:gap-14 lg:px-16 lg:pb-20 lg:pt-24">
+    <div className="relative mx-auto flex w-full max-w-[1320px] flex-col gap-10 px-6 pb-12 pt-16 sm:px-10 md:pb-16 md:pt-20 lg:flex-row lg:items-center lg:gap-14 lg:px-16 lg:pb-20 lg:pt-24">
       <div className={data.heroImage ? "lg:basis-[56%]" : "w-full"}>
+      <BreadcrumbSchema items={[{ label: "ATLAW", to: "/" }, ...(parent ? [parent] : []), { label: data.title }]} />
       <nav
         aria-label="Breadcrumb"
         className="pi-reveal mb-6 font-sans text-[11.5px] font-semibold uppercase leading-none tracking-[0.2em]"
@@ -168,8 +176,12 @@ const Hero = ({ data }: { data: PracticeAreaPI }) => (
         <ol className="flex flex-wrap items-center gap-x-3 gap-y-1" style={{ color: STONE }}>
           <li><Link className="transition-colors hover:text-[#0B1F3A]" to="/">ATLAW</Link></li>
           <li aria-hidden="true" className="text-[#0B1F3A]/30">/</li>
-          <li><Link className="transition-colors hover:text-[#0B1F3A]" to="/personal-injury">Personal Injury</Link></li>
-          <li aria-hidden="true" className="text-[#0B1F3A]/30">/</li>
+          {parent && (
+            <>
+              <li><Link className="transition-colors hover:text-[#0B1F3A]" to={parent.to}>{parent.label}</Link></li>
+              <li aria-hidden="true" className="text-[#0B1F3A]/30">/</li>
+            </>
+          )}
           <li><span aria-current="page" style={{ color: INK }}>{data.title}</span></li>
         </ol>
       </nav>
@@ -241,7 +253,7 @@ const Hero = ({ data }: { data: PracticeAreaPI }) => (
 
 /* ─────────────────── 3. Overview (Two-Column) ─────────────────── */
 
-const SidebarCTA = () => (
+export const SidebarCTA = () => (
   <div
     className="rounded-[16px] px-7 py-8 text-white shadow-[0_12px_40px_rgba(14,27,51,0.3)] lg:px-8 lg:py-10"
     style={{ background: NAVY_CANVAS }}
@@ -294,7 +306,7 @@ const OverviewSection = ({ data }: { data: PracticeAreaPI }) => (
     aria-labelledby="pa-overview-heading"
     className="relative w-full overflow-hidden bg-white"
   >
-    <div className="relative mx-auto flex w-full max-w-[1180px] flex-col gap-12 px-6 pb-20 pt-16 sm:px-10 lg:flex-row lg:gap-16 lg:px-16 lg:pb-[120px] lg:pt-20">
+    <div className="relative mx-auto flex w-full max-w-[1320px] flex-col gap-12 px-6 pb-20 pt-16 sm:px-10 lg:flex-row lg:gap-16 lg:px-16 lg:pb-[120px] lg:pt-20">
       <div className="lg:basis-[62%]">
         <p className="flex items-center gap-3 font-sans text-[12px] font-semibold uppercase leading-none tracking-[0.22em]" style={{ color: INK }}>
           <span aria-hidden="true" className="h-px w-8" style={{ backgroundColor: GOLD_ACCENT }} />
@@ -342,6 +354,9 @@ const CaseResultsComparison = ({ data }: { data: PracticeAreaPI }) => {
   const [start, setStart] = useState(0);
   const maxStart = Math.max(0, data.caseResults.length - 3);
 
+  // Firm-approved results only; the section stays hidden until there are some.
+  if (data.caseResults.length === 0) return null;
+
   return (
     <section
       aria-labelledby="pa-results-heading"
@@ -350,15 +365,15 @@ const CaseResultsComparison = ({ data }: { data: PracticeAreaPI }) => {
     >
       <Grain opacity="0.05" />
 
-      <div className="relative mx-auto w-full max-w-[1180px] px-6 py-16 sm:px-10 md:py-20 lg:px-16 lg:py-24">
+      <div className="relative mx-auto w-full max-w-[1320px] px-6 py-16 sm:px-10 md:py-20 lg:px-16 lg:py-24">
         <h2
           className="text-center font-serifDisplay font-normal leading-[1.08] tracking-[-0.02em] text-white"
           id="pa-results-heading"
           style={{ fontSize: "clamp(28px, 4.5vw, 52px)", fontVariationSettings: headlineAxes }}
         >
-          They Offered Less. We Fought for{" "}
+          Insurance companies fight to pay less. ATLAW fights for{" "}
           <span className="relative inline-block">
-            More
+            what you deserve
             <span aria-hidden="true" className="absolute bottom-[2px] left-0 h-[3px] w-full rounded-full" style={{ backgroundColor: GOLD_BRIGHT }} />
           </span>
           <span style={{ color: GOLD_ACCENT }}>.</span>
@@ -524,7 +539,7 @@ const LongFormContent = ({ data }: { data: PracticeAreaPI }) => (
 
 /* ─────────────────── 8. FAQ Accordion ─────────────────── */
 
-const AccordionItem = ({ faq }: { faq: { question: string; answer: string } }) => {
+export const AccordionItem = ({ faq }: { faq: { question: string; answer: ReactNode } }) => {
   const [open, setOpen] = useState(false);
 
   return (
@@ -542,9 +557,9 @@ const AccordionItem = ({ faq }: { faq: { question: string; answer: string } }) =
       </button>
       <div className={`grid transition-all duration-300 ease-[cubic-bezier(0.22,1,0.36,1)] ${open ? "grid-rows-[1fr] opacity-100" : "grid-rows-[0fr] opacity-0"}`}>
         <div className="overflow-hidden">
-          <p className="pb-5 pr-10 font-sans text-[15px] leading-[1.7] lg:text-[16px]" style={{ color: STONE }}>
+          <div className="pb-5 pr-10 font-sans text-[15px] leading-[1.7] lg:text-[16px]" style={{ color: STONE }}>
             {faq.answer}
-          </p>
+          </div>
         </div>
       </div>
     </div>
@@ -593,13 +608,13 @@ const RelatedCasesStrip = ({ data }: { data: PracticeAreaPI }) => {
     <section aria-labelledby="pa-related-cases-heading" className="relative w-full overflow-hidden" style={{ background: NAVY_CANVAS }}>
       <Grain opacity="0.05" />
 
-      <div className="relative mx-auto w-full max-w-[1180px] px-6 py-12 sm:px-10 md:py-16 lg:px-16">
+      <div className="relative mx-auto w-full max-w-[1320px] px-6 py-12 sm:px-10 md:py-16 lg:px-16">
         <div className="flex items-center justify-between">
           <h2
             className="font-sans text-[12px] font-semibold uppercase tracking-[0.22em] text-white/70"
             id="pa-related-cases-heading"
           >
-            Recent Case Results &mdash; [CONFIRM]
+            Recent Case Results
           </h2>
           <div className="flex gap-2">
             <button
@@ -666,7 +681,7 @@ const RelatedCasesStrip = ({ data }: { data: PracticeAreaPI }) => {
 
 /* ─────────────────── 10. Related Pages Carousel ─────────────────── */
 
-const RelatedPagesSection = ({ data }: { data: PracticeAreaPI }) => (
+export const RelatedPagesSection = ({ areas }: { areas: { slug: string; title: string }[] }) => (
   <section
     aria-labelledby="pa-related-heading"
     className="relative w-full overflow-hidden bg-[#F7F7F5]"
@@ -675,7 +690,7 @@ const RelatedPagesSection = ({ data }: { data: PracticeAreaPI }) => (
   >
     <Grain opacity="0.03" />
 
-    <div className="relative mx-auto w-full max-w-[1180px] px-6 py-16 sm:px-10 md:py-20 lg:px-16 lg:py-24">
+    <div className="relative mx-auto w-full max-w-[1320px] px-6 py-16 sm:px-10 md:py-20 lg:px-16 lg:py-24">
       <h2
         className="text-center font-serifDisplay font-normal leading-[1.08] tracking-[-0.02em]"
         id="pa-related-heading"
@@ -685,14 +700,14 @@ const RelatedPagesSection = ({ data }: { data: PracticeAreaPI }) => (
       </h2>
 
       <div className="mt-10 grid grid-cols-1 gap-5 md:mt-12 md:grid-cols-2 lg:grid-cols-3 lg:gap-6">
-        {data.relatedAreas.map((area) => {
+        {areas.map((area) => {
           const img = practiceAreaBySlug[area.slug]?.heroImage;
           return (
             <Link
               className="group relative flex min-h-[200px] flex-col justify-end overflow-hidden rounded-[16px] px-7 pb-7 pt-16 shadow-[0_6px_24px_rgba(5,15,28,0.12)] transition-all duration-[250ms] hover:-translate-y-[3px] hover:shadow-[0_14px_36px_rgba(5,15,28,0.2)] lg:min-h-[220px]"
               key={area.slug}
               style={{ background: NAVY_CANVAS }}
-              to={`/personal-injury/${area.slug}`}
+              to={practicePath(area.slug)}
             >
               {img ? (
                 <>
@@ -737,7 +752,7 @@ const AdditionalResources = ({ data }: { data: PracticeAreaPI }) => {
 
   return (
     <section aria-labelledby="pa-resources-heading" className="relative w-full overflow-hidden bg-white">
-      <div className="relative mx-auto w-full max-w-[1180px] px-6 py-16 sm:px-10 md:py-20 lg:px-16 lg:py-24">
+      <div className="relative mx-auto w-full max-w-[1320px] px-6 py-16 sm:px-10 md:py-20 lg:px-16 lg:py-24">
         <h2
           className="font-serifDisplay font-normal leading-[1.08] tracking-[-0.02em]"
           id="pa-resources-heading"
@@ -772,11 +787,11 @@ const AdditionalResources = ({ data }: { data: PracticeAreaPI }) => {
 
 /* ─────────────────── 13. City Links ─────────────────── */
 
-const CityLinksSection = ({ data }: { data: PracticeAreaPI }) => (
+export const CityLinksSection = ({ data }: { data: Pick<PracticeAreaPI, "slug" | "cities"> }) => (
   <section aria-labelledby="pa-cities-heading" className="relative w-full overflow-hidden bg-[#F7F7F5]">
     <Grain opacity="0.03" />
 
-    <div className="relative mx-auto w-full max-w-[1180px] px-6 py-16 sm:px-10 md:py-20 lg:px-16 lg:py-24">
+    <div className="relative mx-auto w-full max-w-[1320px] px-6 py-16 sm:px-10 md:py-20 lg:px-16 lg:py-24">
       <h2
         className="text-center font-serifDisplay font-normal leading-[1.08] tracking-[-0.02em]"
         id="pa-cities-heading"
@@ -803,11 +818,11 @@ const CityLinksSection = ({ data }: { data: PracticeAreaPI }) => (
 
 /* ─────────────────── Final CTA Band ─────────────────── */
 
-const FinalCTABand = () => (
+export const FinalCTABand = () => (
   <section aria-labelledby="pa-final-cta" className="w-full">
     <div className="relative isolate overflow-hidden text-white" style={{ background: NAVY_CANVAS }}>
       <Grain opacity="0.06" />
-      <div className="relative mx-auto flex w-full max-w-[1180px] flex-col items-center px-6 py-12 text-center sm:px-10 md:py-16 lg:py-20">
+      <div className="relative mx-auto flex w-full max-w-[1320px] flex-col items-center px-6 py-12 text-center sm:px-10 md:py-16 lg:py-20">
         <h2
           className="font-serifDisplay font-normal leading-[1.06] tracking-[-0.02em] text-white"
           id="pa-final-cta"
@@ -816,7 +831,7 @@ const FinalCTABand = () => (
           Get a FREE Case Evaluation Today!
         </h2>
         <p className="mt-4 font-sans text-[16px] leading-[1.5] text-white/75 lg:text-[18px]">
-          You Pay Nothing Unless We Win Your Case &mdash; Guaranteed.
+          You Pay Nothing Unless We Win Your Case.
         </p>
         <div className="mt-8 flex w-full flex-col items-center justify-center gap-4 sm:flex-row sm:gap-5">
           <a
@@ -836,7 +851,7 @@ const FinalCTABand = () => (
       </div>
     </div>
     <div className="w-full bg-[#081120]">
-      <div className="mx-auto flex max-w-[1180px] flex-col items-center gap-1.5 px-6 py-7 text-center sm:px-10">
+      <div className="mx-auto flex max-w-[1320px] flex-col items-center gap-1.5 px-6 py-7 text-center sm:px-10">
         <a
           className="font-serifDisplay font-normal leading-none tracking-[-0.02em] text-white transition-colors duration-200 hover:text-[#C6A04A] text-[clamp(24px, 4vw, 42px)]"
           href="tel:+13134067606"
@@ -855,7 +870,7 @@ const FinalCTABand = () => (
 export const PracticeAreaDetailTemplate = ({ data }: { data: PracticeAreaPI }): JSX.Element => (
   <>
     <StickySubNav />
-    <Hero data={data} />
+    <Hero data={data} parent={data.slug === "personal-injury" ? null : undefined} />
     <OverviewSection data={data} />
     <CaseResultsComparison data={data} />
     <WhatToDoSection />
@@ -865,7 +880,7 @@ export const PracticeAreaDetailTemplate = ({ data }: { data: PracticeAreaPI }): 
     </div>
     <FAQSection data={data} />
     <RelatedCasesStrip data={data} />
-    <RelatedPagesSection data={data} />
+    <RelatedPagesSection areas={data.relatedAreas} />
     <IntakeFormSection />
     <AdditionalResources data={data} />
     <CityLinksSection data={data} />

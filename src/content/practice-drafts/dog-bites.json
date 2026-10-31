@@ -1,0 +1,957 @@
+{
+ "slug": "dog-bites",
+ "section": "personal-injury",
+ "status": "draft",
+ "seoTitle": "Michigan Dog Bite Lawyer – Strict Liability Claims",
+ "seoDescription": "Bitten by a dog in Michigan? The owner is liable even if the dog never bit before. ATLAW explains the statute, who pays, and the deadlines for adults and children. Free review.",
+ "h1": "Michigan Dog Bite Lawyer",
+ "tagline": "Michigan holds dog owners liable for a bite whether or not the dog ever bit before. Here is what the statute requires, who actually pays, and what to do first.",
+ "primaryKeyword": "michigan dog bite lawyer",
+ "secondaryKeywords": [
+  "michigan dog bite attorney",
+  "dog bite lawyer near me",
+  "michigan dog bite law",
+  "dog attack lawyer michigan",
+  "detroit dog bite lawyer"
+ ],
+ "intro": [
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "Michigan has one of the clearest dog bite laws in the country. If a dog bites you without provocation while you are somewhere you have a right to be, the owner is liable. You do not have to prove the dog was dangerous, that it had bitten before, or that the owner was careless. The statute says so in one sentence."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "What makes dog bite cases hard is not the law. It is that the owner is usually a neighbor, a relative, or a friend, and the injured person does not want to sue them. The answer is often insurance: available homeowner’s or renter’s insurance may cover the claim, subject to exclusions and policy limits. The owner may be personally responsible for uncovered damages. This page explains the statute, who pays, the deadlines (which differ for children), and what to do in the first days, when the evidence that proves the case is still available."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across Wayne, Oakland, Macomb, and Washtenaw counties. Dog bite cases are handled on contingency: no fee unless we recover money for you, and the first conversation is free."
+    }
+   ]
+  }
+ ],
+ "sections": [
+  {
+   "id": "michigans-dog-bite-statute-strict-liability",
+   "heading": "Michigan’s dog bite statute: strict liability",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Michigan’s dog bite law (MCL 287.351) provides that if a dog bites a person, without provocation, while the person is on public property or lawfully on private property (including the owner’s property), the owner is liable for the full amount of the damages “regardless of the former viciousness of the dog or the owner’s knowledge of such viciousness.”"
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Three things have to be true:"
+      }
+     ]
+    },
+    {
+     "t": "ol",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "A dog bit you."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " The statute covers bites. A dog that knocks you down, chases you into traffic, or causes a fall without biting is covered by ordinary negligence law instead (below)."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "You were lawfully where you were."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Public property counts. Private property counts if you were there by invitation, express or implied: a guest, a customer, a delivery driver, a utility reader, a mail carrier, a child playing in a yard with permission. The statute specifically covers people performing a duty imposed by law or by the postal service (MCL 287.351(2)). A trespasser is not covered."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "You did not provoke the dog."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Provocation is the owner’s main defense and the one insurers reach for first. Michigan courts have held that provocation can be unintentional (stepping on a sleeping dog’s tail), and that it is judged by whether the person’s conduct would provoke a dog, not by what the person meant. A child petting a dog, a person walking past a fence, a worker entering a yard to read a meter: these are not provocation. Striking, teasing, or cornering a dog may be. Witnesses and the circumstances decide it, which is why the first-day evidence matters."
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Comparative fault does not reduce a statutory claim."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Michigan courts have held that the ordinary rule reducing a plaintiff’s recovery by their share of fault does not apply to the dog bite statute; the owner’s defenses are limited to trespass and provocation ("
+      },
+      {
+       "t": "em",
+       "c": [
+        {
+         "t": "text",
+         "v": "Hill v. Sacka"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ", Michigan Court of Appeals, 2003)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "when-the-statute-does-not-apply-negligence-and-the-one-bite-rule",
+   "heading": "When the statute does not apply: negligence and the “one bite” rule",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "If the injury was not a bite, or if the person responsible was a keeper rather than the owner (a dog walker, a boarding kennel, a family member watching the dog), the claim is brought under common law instead. Two theories:"
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Negligence"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": the owner or keeper failed to use reasonable care in controlling the dog, for example by violating a local leash law, leaving a gate open, or letting a dog known to lunge at people roam a shared hallway. Michigan cities and counties, including Detroit, Dearborn, and Wayne County, have leash and confinement ordinances, and a violation is evidence of negligence."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Common-law strict liability"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", often called the “one bite” rule: the owner or keeper knew or should have known the dog had dangerous propensities, from a prior bite, prior aggression, or the way the dog was kept. This is the rule that applies against a keeper who is not the owner ("
+       },
+       {
+        "t": "em",
+        "c": [
+         {
+          "t": "text",
+          "v": "Trager v. Thor"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", Michigan Supreme Court, 1994)."
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Comparative negligence applies to these negligence claims, and the injured person’s recovery is reduced by their share."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "who-actually-pays-insurance-landlords-and-the-owner",
+   "heading": "Who actually pays: insurance, landlords, and the owner",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Homeowner’s and renter’s insurance."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Dog bite liability is covered by the standard homeowner’s policy and most renter’s policies, typically with $100,000 to $500,000 in liability coverage. The owner reports the bite to their insurer; the insurer pays the claim. Nationally, insurers paid $1.57 billion on 22,658 dog-related injury claims in 2024, an average of $69,272 per claim (Insurance Information Institute). Michigan is consistently among the ten states with the most claims."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Two complications. Some insurers exclude specific breeds or dogs with a bite history, and some owners have no insurance at all. In those cases the claim is against the owner personally, and whether it is worth pursuing depends on what the owner has. We tell clients that honestly in the first conversation."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Landlords."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " A landlord is generally not liable for a tenant’s dog, with an exception that matters in Dearborn and Detroit’s rental market: a landlord who knew the dog was dangerous and had the ability to remove it (through the lease or otherwise) and did not may be liable ("
+      },
+      {
+       "t": "em",
+       "c": [
+        {
+         "t": "text",
+         "v": "Szkodzinski v. Griffin"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ", Michigan Court of Appeals, 1988). Prior complaints to the landlord are the evidence."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Dog owners who are relatives or neighbors."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Where homeowner’s or renter’s insurance applies, the claim is made against the policy, subject to its exclusions and limits; the owner may be personally responsible for uncovered damages. Most families who hesitate to make a claim do so because they do not know this."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "michigans-dangerous-animals-act",
+   "heading": "Michigan’s Dangerous Animals Act",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Separate from the civil claim, Michigan’s Dangerous Animals Act (MCL 287.321 to 287.323) allows a prosecutor or animal control to petition a court to have a dog that has bitten a person declared dangerous. The court can order the dog destroyed or kept under strict conditions. If a dog that was previously declared dangerous, or whose owner knew was dangerous, causes serious injury, the owner can face a felony charge; if it causes a death, involuntary manslaughter. A Dangerous Animals Act finding is powerful evidence in the civil case, and the civil case does not depend on it."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dog-bite-injuries-and-why-childrens-cases-are-different",
+   "heading": "Dog bite injuries, and why children’s cases are different",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Dog bites cause puncture wounds, crush injuries, torn tendons and nerves, fractures in the hand and forearm, and facial injuries. The lasting harm is often "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "scarring"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ", which is permanent and, on the face, disfiguring, and "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "infection"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ": dog mouths carry bacteria, and bite wounds are routinely left open and treated with antibiotics rather than stitched. Michigan requires a bitten person to be evaluated for rabies risk; the biting dog is quarantined and observed for ten days, and if it cannot be located, the bitten person receives post-exposure rabies treatment."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Children"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " are bitten more often than adults and bitten on the face and head far more often, because of their height. A facial bite on a child means scar revision surgeries over years as the child grows, and psychological injury (fear of dogs, nightmares, anxiety) that Michigan law compensates. Two rules specific to children:"
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "text",
+        "v": "A child’s claim is brought by a parent as next friend, and a settlement for a minor must be approved by the probate court, with the funds protected until the child turns 18 (MCR 2.420)."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "The statute of limitations is tolled: a child generally has until one year after their 18th birthday to sue (MCL 600.5851). But the evidence does not keep that long. Settle or sue when the medical picture is clear, not when the clock runs out."
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dog-bites-in-metro-detroit",
+   "heading": "Dog bites in metro Detroit",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Dog bite claims come from every community ATLAW serves, but the patterns differ. USPS reported 24 dog attacks on postal employees in Detroit in 2025, ranking the city 14th nationally, and attacks on delivery drivers for Amazon, FedEx, UPS, and food-delivery services have risen with the volume of home delivery; these workers are covered by the statute as lawful visitors and often have a workers’ compensation claim as well. In Dearborn, Dearborn Heights, Livonia, Canton, and the Oakland County suburbs, the typical case is a neighbor’s or relative’s dog in a yard or a home, with a child as the victim. Wayne County Animal Control, Dearborn Animal Control, and the Oakland and Macomb County animal control divisions keep bite reports, which are obtainable by Freedom of Information Act request and often establish whether the dog had a history."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-to-do-after-a-dog-bite-in-michigan",
+   "heading": "What to do after a dog bite in Michigan",
+   "blocks": [
+    {
+     "t": "ol",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Get medical care the same day"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", even for a bite that looks minor. Infection and rabies risk are the reasons; the medical record dated that day is the case."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Identify the dog and the owner."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Name, address, and whether the dog is vaccinated. If the owner refuses, note the address; animal control will identify them."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Report the bite to animal control and the local health department"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " in the city or county where it happened. Michigan’s rabies rules require a suspected-rabies bite to be reported within 24 hours to the appropriate health departments, including the one where the bite occurred. The report triggers the rabies quarantine, creates an official record, and reveals prior bites. In many Michigan communities the treating physician is required to report it as well."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Photograph the wounds immediately and as they heal"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", the dog if safely possible, the location, and any fence, gate, or “beware of dog” sign."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Get witness names."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Provocation is decided by what witnesses say happened in the seconds before the bite."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Do not give a recorded statement"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " to the owner’s insurer and do not accept a quick payment. Scarring and infection are not known in the first week."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Keep the clothing"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " and every receipt, including for the tetanus shot and antibiotics."
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-a-michigan-dog-bite-case-is-worth",
+   "heading": "What a Michigan dog bite case is worth",
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Scarring and disfigurement"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", especially on the face, hands, and a child; the cost of future scar revision is part of the claim."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Medical treatment"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": emergency care, antibiotics, rabies treatment, surgery, plastic surgery."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Lost wages"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " and, for delivery workers, time off the route."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Psychological injury"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": fear of dogs, post-traumatic stress, anxiety in children, which is compensable and should be documented by a counselor."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The owner’s policy limits"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", which cap what the insurer will pay regardless of the injury."
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Michigan places no cap on pain and suffering damages in a dog bite case. ATLAW’s results: more than 10,000 cases and more than $100 million recovered for clients in 13 years, across all injury practice areas. Every case is different and past results do not predict yours."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "deadlines",
+   "heading": "Deadlines",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Deadline"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Applies to"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Source"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "Same day"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Medical care and the animal control report"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Public health rules; the evidence"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "3 years from the bite"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Lawsuit by an adult"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5805(2)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "1 year after the 18th birthday"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Lawsuit for a child bitten as a minor"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5851"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "120 days"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Written notice if the dog belonged to a police department or other government body"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 691.1404"
+        }
+       ]
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "why-people-in-metro-detroit-call-atlaw-after-a-dog-bite",
+   "heading": "Why people in metro Detroit call ATLAW after a dog bite",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "A Dearborn firm that handles the neighbor problem."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " The claim is against the insurance policy, not the neighbor, and we handle the conversation so the relationship survives the case. The office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126; the attorney who meets you handles your case."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "More than 10,000 cases, more than $100 million recovered"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " in 13 years, across all injury practice areas. Every case is different; the figures show the firm has done this work against these insurers."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Children’s cases done right."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Probate court approval, protected funds, and a claim that accounts for scar revision the child will need years from now."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "No fee unless we win."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " A contingency fee set in writing before we start. ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "English, Arabic, French, Mandarin, Urdu, and Spanish."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Consultations, intake, and case updates in the language you are most comfortable in."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "The dog had never bitten anyone before. Can I still make a claim?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Yes. Michigan’s statute (MCL 287.351) makes the owner liable for a bite regardless of the dog’s history or the owner’s knowledge, as long as you were lawfully present and did not provoke the dog."
+    }
+   ]
+  },
+  {
+   "question": "Who pays if the dog belongs to my neighbor or a relative?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Their homeowner’s or renter’s insurance, in nearly every case. The owner is not out of pocket, and the insurer cannot require them to give up the dog."
+    }
+   ]
+  },
+  {
+   "question": "What counts as provocation?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Conduct that would provoke a dog, judged objectively: hitting, teasing, cornering, stepping on it. Petting a dog, walking past it, or entering a yard with permission is not provocation. Witnesses decide it."
+    }
+   ]
+  },
+  {
+   "question": "What if I was partly at fault?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Under the statute, the owner’s only defenses are trespass and provocation; ordinary comparative fault does not reduce the claim. In a negligence claim (for a non-bite injury or against a keeper), comparative fault does apply."
+    }
+   ]
+  },
+  {
+   "question": "How long do I have to file?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Three years from the bite for an adult (MCL 600.5805). A child generally has until one year after turning 18 (MCL 600.5851), but the case should be brought when the medical picture is clear, not years later."
+    }
+   ]
+  },
+  {
+   "question": "My child was bitten. How is the case different?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "A parent brings the claim; any settlement must be approved by the probate court and the money is protected for the child; and the claim includes future scar revision and psychological treatment. Facial scarring on a child is the most significant element of these cases."
+    }
+   ]
+  },
+  {
+   "question": "Do I have to report the bite?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Yes, to animal control in the city or county where it happened. The report starts the rabies quarantine and creates the record of the dog’s history. The treating doctor may also be required to report it."
+    }
+   ]
+  },
+  {
+   "question": "I was bitten while delivering a package. Do I have a claim?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Yes. Delivery drivers, mail carriers, and anyone performing a duty are “lawfully present” under the statute. You may also have a workers’ compensation claim against your employer; the two are coordinated."
+    }
+   ]
+  },
+  {
+   "question": "Can the dog be put down?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Only by court order under the Dangerous Animals Act, on a petition by a prosecutor or animal control, or by the owner’s choice. The civil claim does not require it."
+    }
+   ]
+  },
+  {
+   "question": "How much does a dog bite lawyer cost?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Nothing up front. ATLAW works on a contingency fee set in writing before we begin; you owe no fee unless we recover money for you. Michigan caps the fee at one-third of the net recovery."
+    }
+   ]
+  }
+ ],
+ "cta": {
+  "id": "talk-to-a-michigan-dog-bite-lawyer",
+  "heading": "Talk to a Michigan dog bite lawyer",
+  "blocks": [
+   {
+    "t": "p",
+    "c": [
+     {
+      "t": "text",
+      "v": "Call "
+     },
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "text",
+        "v": "(313) 406-7606"
+       }
+      ]
+     },
+     {
+      "t": "text",
+      "v": " or send the form below. We respond within one business day. The consultation is free, in English, Arabic, French, Mandarin, Urdu, or Spanish, and there is no fee unless we recover money for you. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed."
+     }
+    ]
+   }
+  ]
+ },
+ "wordCount": 2463,
+ "openItems": 0,
+ "source": {
+  "file": "B1-09_Michigan-Dog-Bite-Lawyer.docx",
+  "delivered": "2026-10-12"
+ }
+}

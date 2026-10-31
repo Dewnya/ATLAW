@@ -1,0 +1,140 @@
+---
+slug: drunk-driving-accidents
+section: personal-injury
+status: draft
+seoTitle: Michigan Drunk Driving Accident Lawyer – Victims’ Claims & Dram Shop
+seoDescription: Hit by a drunk driver in Michigan? You may have claims against the driver and the bar that served them, with a 120-day notice rule. ATLAW explains both, plus restitution. Free review.
+h1: Michigan Drunk Driving Accident Lawyer
+tagline: Two claims, not one: the driver, and the bar or store that served them. The second has a deadline measured in days.
+primaryKeyword: drunk driving accident lawyer michigan
+secondaryKeywords: michigan drunk driving accident lawyer, dram shop lawyer michigan, hit by drunk driver michigan, drunk driving victim lawyer, owi accident lawyer michigan
+source: B1-14_Michigan-Drunk-Driving-Accident-Lawyer.docx
+delivered: 2026-10-12
+---
+
+## Michigan Drunk Driving Accident Lawyer
+
+If you were hit by a drunk driver in Michigan, you have the claim everyone expects, against the driver, and often a second claim most people never hear about, against the bar, restaurant, or store that served the driver while visibly intoxicated. Michigan’s dram shop law makes that seller liable. It also imposes a written-notice deadline of 120 days from the day you hire a lawyer, and a rule that the drunk driver must be kept in the case as a defendant. A victim who waits six months to call a lawyer has usually lost the second claim without knowing it existed.
+
+This page explains both claims, how the criminal case against the driver helps you, what no-fault pays, and the deadlines.
+
+ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across Wayne, Oakland, Macomb, and Washtenaw counties. Drunk driving cases are handled on contingency: no fee unless we recover money for you, and the first conversation is free.
+
+## The claim against the drunk driver
+
+A drunk driver is a negligent driver with the fault question already answered. Michigan’s drunk driving law (MCL 257.625) makes it a crime to operate with a blood alcohol content of 0.08 or more, with enhanced penalties at 0.17 (“high BAC”), and a zero-tolerance rule for drivers under 21 that can apply even below 0.02. Operating while intoxicated and causing a serious injury is a felony punishable by up to five years; causing a death, up to fifteen (MCL 257.625(4), (5)).
+
+In your civil case, the driver’s intoxication is evidence of negligence, and a conviction or guilty plea is admissible. Michigan no-fault still applies: your own insurer pays your medical bills and 85% of lost wages (up to $7,455 a month for crashes on or after October 1, 2026) regardless of fault, with written notice within one year (MCL 500.3145). You sue the driver for pain and suffering and for economic losses beyond no-fault if your injury is a serious impairment of body function (MCL 500.3135), which crash injuries caused by an impaired driver usually are.
+
+Two points specific to drunk driving cases:
+
+- **Michigan does not award punitive damages** in negligence cases, including drunk driving cases, whatever other states’ websites say. The driver’s conduct bears on how a jury values your pain and suffering; there is no separate penalty award.
+- **The driver’s policy is often the problem.** Drunk drivers carry minimum coverage ($50,000 per person) or none, and insurers sometimes dispute coverage for criminal conduct. Your own uninsured/underinsured motorist coverage, and the dram shop claim, are how serious injuries are compensated when the driver’s policy runs out.
+
+## The claim against the bar: Michigan’s dram shop law
+
+Michigan’s Liquor Control Code (MCL 436.1801) prohibits a licensed retailer, meaning a bar, restaurant, party store, or any business licensed to sell alcohol, from selling or serving alcohol to a minor or to a visibly intoxicated person. If it does, and the sale is a proximate cause of a crash, the person injured by the intoxicated driver (or the family, in a death) has a direct claim against the retailer.
+
+The elements:
+
+1. **A licensed retailer sold or served alcohol** to the driver. The law applies to licensees; a private host who served an adult guest is not liable (see below).
+2. **The driver was visibly intoxicated at the time**, or was under 21. “Visibly” is the fight in most cases: slurred speech, stumbling, glassy eyes, the number of drinks served, how long they were there, what the bartender and other patrons saw. Bar surveillance video, receipts, and tab records are the evidence, and they are overwritten or discarded within weeks.
+3. **The sale was a proximate cause** of the intoxication and the crash.
+
+The rules that make dram shop claims different from every other injury claim:
+
+- **Written notice within 120 days.** The injured person must give written notice to every retailer they intend to sue within 120 days after retaining an attorney, unless they can show they did not know and could not reasonably have known who the retailer was (MCL 436.1801(4)). Missing it is grounds for dismissal.
+- **Two years to sue.** A dram shop claim must be filed within two years of the injury (MCL 436.1801(3)), not the three years that applies to the claim against the driver.
+- **Name and retain.** The intoxicated driver must be named as a defendant and kept in the lawsuit through judgment or settlement (MCL 436.1801(4)). A victim who settles with the driver and releases them first has, in most cases, lost the dram shop claim.
+- **The last sale presumption.** When the driver drank at more than one place, the law presumes that only the retailer that made the last sale is responsible, and the others must be shown to have served the driver while visibly intoxicated (MCL 436.1801(7)).
+- **The drunk driver cannot sue the bar** for their own injuries (MCL 436.1801(8)). The claim belongs to the people they hurt.
+
+A dram shop defendant is a business with liquor liability insurance, which is why the claim matters: it is often the only policy large enough to compensate a catastrophic injury or a death.
+
+**Social hosts.** A private individual who serves alcohol to an adult guest who then drives drunk is not liable under Michigan law. A social host who furnishes alcohol to a **minor** is: furnishing alcohol to a minor is a crime (MCL 436.1701), and Michigan courts allow the minor’s victims to sue the adult who provided it. House parties, graduation parties, and the parents who supplied the alcohol are the typical case.
+
+## How the criminal case helps your claim
+
+A drunk driver who hurts someone is prosecuted by the county, and the victim has rights in that case under Michigan’s Crime Victim’s Rights Act: to be notified of hearings, to be consulted on a plea, to give a victim impact statement at sentencing, and to **restitution**. Under MCL 780.766, the sentencing court must order the defendant to pay full restitution to the victim for the losses the crime caused: medical expenses, lost income, property damage, counseling, and funeral costs. Restitution is a court order enforceable like a judgment, independent of insurance.
+
+The criminal file is also evidence for the civil case: the blood or breath test result, the officer’s observations, the body camera footage, and, in a plea, an admission of intoxication. We obtain all of it. The civil case does not wait for the criminal case to end, but the two are coordinated.
+
+## Drunk driving crashes in metro Detroit, 2024
+
+| County | Alcohol-involved crashes | All crashes | Killed |
+| --- | --- | --- | --- |
+| Wayne | 1,331 | 50,355 | 177 |
+| Oakland | 871 | 35,951 | 68 |
+| Macomb | 583 | 21,960 | 70 |
+| Washtenaw | 276 | 9,844 | 35 |
+
+Source: Michigan State Police, Michigan Traffic Crash Facts 2024, county profiles.
+
+The pattern in ATLAW’s cities: Southfield had 83 alcohol-involved crashes in 2024, the most of any suburb; Royal Oak, with its downtown bar district, had four alcohol-related deaths; St. Clair Shores had the highest share of alcohol crashes of any of the 24 cities, about one in twenty-five. Dram shop claims in metro Detroit most often involve the bar districts along Woodward in Royal Oak and Ferndale, Greektown and Corktown in Detroit, Main Street in Ann Arbor, and the party stores on Telegraph, Michigan Avenue, and Gratiot.
+
+## What to do after a crash with a drunk driver
+
+1. **Make sure the police test the driver**, and get the report number. The UD-10 will record the officer’s observations and the test result. If the driver refused the test, that is recorded too.
+2. **Find out where the driver was drinking.** Ask the officer, the driver if they will say, and any passengers. A receipt in the car, a wristband, a bar’s name on the report: these identify the dram shop defendant, and the 120-day notice clock cannot be met without them.
+3. **Get medical care the same day** and notify your own insurer in writing.
+4. **Do not accept any payment or sign any release** from the driver or the driver’s insurer. Releasing the driver can end the dram shop claim under the name-and-retain rule.
+5. **Call a lawyer within days, not weeks.** Bar surveillance video is overwritten within 30 days at most establishments; a preservation letter stops that, and the 120-day notice follows.
+6. **Register as a victim** with the county prosecutor’s office so you are notified of the criminal proceedings and can request restitution.
+
+## What a Michigan drunk driving case is worth
+
+- **The injury** and whether it clears the serious-impairment threshold; drunk driving crashes are over-represented in deaths and catastrophic injuries.
+- **The available policies**: the driver’s (often minimal), your UM/UIM, and the retailer’s liquor liability policy, which is typically $1 million or more.
+- **The strength of the “visibly intoxicated” evidence** against the bar.
+- **Restitution** from the criminal case, which covers economic losses regardless of insurance.
+- **Comparative fault**, which still applies: a victim who was also impaired, or was a passenger in the drunk driver’s car, will face that argument.
+
+ATLAW’s results: more than 10,000 cases and more than $100 million recovered for clients in 13 years, across all injury practice areas. Every case is different and past results do not predict yours.
+
+## Deadlines
+
+| Deadline | Applies to | Source |
+| --- | --- | --- |
+| Days | Preservation letter to the bar for surveillance video and receipts | Practice |
+| 120 days after retaining a lawyer | Written notice to every retailer you may sue under the dram shop law | MCL 436.1801(4) |
+| 1 year from the crash | Written notice for no-fault PIP benefits | MCL 500.3145 |
+| 2 years from the injury | Dram shop lawsuit against the bar or store | MCL 436.1801(4) |
+| 3 years from the crash | Lawsuit against the drunk driver | MCL 600.5805 |
+| At sentencing | Restitution request in the criminal case | MCL 780.766 |
+
+## Why victims in metro Detroit call ATLAW
+
+**A Dearborn firm that looks at the full picture.** Drunk driving accidents can involve more than just the impaired driver. Depending on the circumstances, other parties may also bear legal responsibility, including establishments that unlawfully served alcohol. ATLAW evaluates the facts of each case to identify potential avenues for compensation and determine whether additional claims warrant further consideration. The office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126.
+
+**More than 10,000 cases, more than $100 million recovered** in 13 years, across all injury practice areas. Every case is different; the figures show the firm has done this work against these insurers.
+
+**No fee unless we win.** A contingency fee set in writing before we start. ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs.
+
+**English, Arabic, French, Mandarin, Urdu, and Spanish.** Consultations, intake, and case updates in the language you are most comfortable in.
+## Frequently asked questions about Michigan drunk driving accident claims
+
+**Can I sue the bar that served the drunk driver?** Yes, under Michigan’s dram shop law (MCL 436.1801), if the bar, restaurant, or store served the driver while visibly intoxicated or under 21, and the sale was a cause of the crash. You must give the bar written notice within 120 days of hiring a lawyer and sue within two years.
+
+**What does “visibly intoxicated” mean?** That the driver showed signs of intoxication a server would have noticed: slurred speech, unsteadiness, loud or erratic behavior, the number and pace of drinks. It is proven with surveillance video, receipts, witnesses, and the driver’s BAC worked backward.
+
+**Can I settle with the drunk driver and still sue the bar?** Not safely. The dram shop law requires the drunk driver to be named and kept as a defendant in the case. Releasing the driver before the dram shop claim is resolved usually ends it. Talk to a lawyer before accepting anything.
+
+**Can I get punitive damages from a drunk driver in Michigan?** No. Michigan does not award punitive damages in negligence cases. The driver’s conduct affects how a jury values your pain and suffering, and the criminal court can order restitution, but there is no separate penalty award.
+
+**What is restitution?** A court order in the criminal case requiring the convicted driver to pay your losses: medical bills, lost wages, property damage, counseling, funeral costs (MCL 780.766). It is enforceable like a judgment and does not depend on insurance.
+
+**Does no-fault still pay if the other driver was drunk?** Yes. Your own insurer pays your medical bills and wage loss regardless of fault. The drunk driver and the dram shop defendant are liable for pain and suffering and the rest.
+
+**What if the drunk driver had no insurance?** Your uninsured motorist coverage (if you bought it) pays what the driver’s insurer would have. The dram shop claim, if there is one, is often the larger source of recovery. Restitution applies regardless.
+
+**What if I was a passenger in the drunk driver’s car?** You can claim against the driver’s policy and, if the driver was served while visibly intoxicated, against the bar. The insurer will argue you assumed the risk by riding with an impaired driver; that is a comparative-fault argument, not a bar to the claim.
+
+**What if the driver was high, not drunk?** Operating under the influence of marijuana or drugs is treated the same way for your civil claim: evidence of negligence, no-fault still applies, serious impairment threshold for the lawsuit. The dram shop law applies only to alcohol.
+
+**How much does a drunk driving accident lawyer cost?** Nothing up front. ATLAW works on a contingency fee set in writing before we begin; you owe no fee unless we recover money for you. Michigan caps the fee at one-third of the net recovery.
+
+## Talk to a Michigan drunk driving accident lawyer
+
+Call **(313) 406-7606** or send the form below. On drunk driving cases we respond the same business day, because the bar’s video and the 120-day notice do not wait. The consultation is free, in English, Arabic, French, Mandarin, Urdu, or Spanish, and there is no fee unless we recover money for you.
+
+*Attorney advertising. Past results do not guarantee or predict a similar outcome. This page is general information about Michigan law, not legal advice about your situation. Figures are current as of October 2026.*

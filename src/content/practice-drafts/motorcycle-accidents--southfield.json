@@ -1,0 +1,1036 @@
+{
+ "slug": "motorcycle-accidents",
+ "section": "personal-injury",
+ "city": "southfield",
+ "status": "draft",
+ "seoTitle": "Southfield Motorcycle Accident Lawyer: Who Pays a Rider’s Bills, the Helmet Law, and Southfield’s Roads",
+ "seoDescription": "Hurt on a motorcycle in Southfield? Michigan no-fault treats riders differently: the car’s insurer pays, not yours, and a crash with no car involved has no PIP at all. ATLAW explains the priority rule, the helmet law, the I-696 work zone, road-defect claims against MDOT, the RCOC, and the City, and the deadlines. Free review. (313) 406-7606.",
+ "h1": "Southfield Motorcycle Accident Lawyer",
+ "tagline": "168 riders killed and 2,460 injured on Michigan roads in 2024. In Southfield, the questions are which car’s insurer pays, which of three road agencies owns the pavement, and what the other driver’s policy is worth against a rider’s injuries.",
+ "primaryKeyword": "motorcycle accident lawyer southfield (320/mo) · southfield motorcycle accident lawyer (140/mo)",
+ "secondaryKeywords": [
+  "southfield motorcycle accident attorney (90)",
+  "motorcycle accident attorney southfield (70)"
+ ],
+ "intro": [
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "A motorcycle crash in Southfield is governed by a rule most riders learn only after they are hurt: under Michigan no-fault, a motorcycle is not a “motor vehicle.” That one definition decides who pays your medical bills, how much they pay, whether you have any no-fault claim at all, and how the insurer will argue the helmet question. Southfield adds its own: eight-lane Telegraph with a left turn across the rider’s lane at every signal, the I-696 work zone with its lane shifts, steel plates, and grooved pavement, and three road agencies, MDOT, the Road Commission for Oakland County, and the City, each with its own notice clock when the road itself caused the crash."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "ATLAW is a personal injury firm at 3 Parklane Boulevard in Dearborn, about 20 minutes from Southfield by the Southfield Freeway. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients. Our "
+    },
+    {
+     "t": "link",
+     "href": "/personal-injury/motorcycle-accidents",
+     "c": [
+      {
+       "t": "text",
+       "v": "Michigan motorcycle accident lawyer page"
+      }
+     ]
+    },
+    {
+     "t": "text",
+     "v": " covers the no-fault rules for riders in full, our "
+    },
+    {
+     "t": "link",
+     "href": "/areas-served/southfield",
+     "c": [
+      {
+       "t": "text",
+       "v": "Southfield page"
+      }
+     ]
+    },
+    {
+     "t": "text",
+     "v": " covers every kind of injury claim in the city, and our "
+    },
+    {
+     "t": "link",
+     "href": "/personal-injury/auto-accidents/southfield",
+     "c": [
+      {
+       "t": "text",
+       "v": "Southfield car accident page"
+      }
+     ]
+    },
+    {
+     "t": "text",
+     "v": " covers crashes between cars. The first conversation is free: "
+    },
+    {
+     "t": "strong",
+     "c": [
+      {
+       "t": "text",
+       "v": "(313) 406-7606"
+      }
+     ]
+    },
+    {
+     "t": "text",
+     "v": "."
+    }
+   ]
+  }
+ ],
+ "sections": [
+  {
+   "id": "motorcycle-crashes-by-the-numbers-2024",
+   "heading": "Motorcycle crashes by the numbers, 2024",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Measure"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Figure"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Source"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "Motorcycles involved in Oakland County crashes / in fatal crashes, 2024"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "310 / 17"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MSP, Oakland County profile 2024"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Michigan motorcycle crashes / riders injured / killed"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "3,187 / 2,460 / 168"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MSP, 2024 Motorcycle Crash Facts"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Share of Michigan rider deaths involving alcohol"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "31 percent"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MSP 2024"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Telegraph at 12 Mile, all vehicles"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "121 crashes in 2025; third-highest intersection count in Michigan"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Michigan State Police crash data, 2025"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Michigan minimum liability limits for the at-fault driver"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$250,000 / $500,000 by default; as low as $50,000 / $100,000 if the policyholder elects"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 500.3009(1), (5)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Medical coverage required to ride without a helmet (age 21+)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$20,000 first-party medical"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 257.658"
+        }
+       ]
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "where-southfield-motorcycle-crashes-happen",
+   "heading": "Where Southfield motorcycle crashes happen",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "The left-turn crash on Telegraph and Northwestern."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Telegraph at 12 Mile had 121 crashes in 2025, the most of any Oakland County intersection; drivers turning left across four lanes of oncoming traffic are the recurring account in rider cases, and under Michigan law a driver must yield to oncoming traffic before turning left (MCL 257.650). Northwestern’s office-tower driveways produce the same crash at lower speed."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "I-696 and the work zone."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Five interchanges in four miles, lane shifts, narrowed shoulders, uneven pavement edges, steel plates, and grooved concrete through the reconstruction: hazards a car absorbs and a motorcycle does not. A rider thrown by a work-zone surface condition may have a claim against the construction contractor whose traffic control or surface did not meet the required standards, and against MDOT under the highway exception in the Court of Claims. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "CONFIRM",
+         "v": "current I-696 project status; ATTORNEY CHECK: contractor liability and MDOT exposure"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "The Lodge and Eight Mile."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Stop-and-go traffic where the Lodge meets Northwestern, and the Detroit-line traffic on Eight Mile, where the other driver is more likely to carry the $50,000 minimum or nothing."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "The road itself."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " A single-vehicle crash caused by a pothole, a pavement drop-off, or gravel is a claim against the agency with jurisdiction under the highway exception to governmental immunity (MCL 691.1402), and in Southfield that means three possible defendants: MDOT for Telegraph, Northwestern, the Lodge, Eight Mile, and I-696 (Court of Claims, written notice within 120 days, MCL 691.1404); the RCOC for the mile roads from Nine to Thirteen and for Lahser; and the City for Evergreen and the local streets (120 days’ written notice, MCL 691.1404). A defect that was readily apparent for 30 days or more is presumed known to the agency (MCL 691.1403). Notice to the wrong agency is not notice. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "ATTORNEY CHECK",
+         "v": "jurisdiction list; 1403 presumption"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Bars and restaurants."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Southfield recorded 83 alcohol-involved crashes in 2024, the most of the 24 suburbs ATLAW serves, and 31 percent of Michigan’s 2024 rider deaths involved alcohol. A bar that over-served the driver who hit a rider can be liable under the dram shop act (MCL 436.1801: notice within 120 days after you hire a lawyer, suit within two years). See our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/drunk-driving-accidents",
+       "c": [
+        {
+         "t": "text",
+         "v": "drunk driving accident page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": "."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "who-pays-a-southfield-riders-medical-bills",
+   "heading": "Who pays a Southfield rider’s medical bills",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "If a car or truck was involved, you have no-fault benefits, but not from your motorcycle insurer."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Under MCL 500.3114(5), your Personal Injury Protection benefits come, in order, from the insurer of the owner or registrant of the motor vehicle involved; then the insurer of that vehicle’s operator; then the motor vehicle insurer of the motorcycle’s operator; then the motor vehicle insurer of the motorcycle’s owner or registrant. “Involved” does not require contact; a car that cut you off is involved even if it never touched you. If no insurer in that chain exists, the Michigan Assigned Claims Plan pays (MCL 500.3172), with its $250,000 medical cap. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "ATTORNEY CHECK",
+         "v": "3114(5) wording; MACP eligibility for riders"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The benefits are the ones a driver would get under MCL 500.3107: medical expenses up to the PIP limit on the policy that pays, 85 percent of lost wages for up to three years up to the monthly cap DIFS sets each October, $20 a day in replacement services, attendant care, and mileage. Written notice is due within one year (MCL 500.3145(1)). See our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/car-accident-insurance",
+       "c": [
+        {
+         "t": "text",
+         "v": "no-fault insurance claim page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": "."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The first medical limit is set by a policy you did not choose. Since the 2019 reform, the PIP medical level on the policy first in priority pays first; if the driver who hit you chose $250,000, that policy pays up to $250,000, and a lower-priority policy with more coverage, such as your own car policy, may then pay the rest."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "If no car or truck was involved, no-fault does not apply at all."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " A single-vehicle crash on a pothole, a steel plate, or gravel: no PIP claim. Your bills go to your health insurance and any medical coverage you bought on the motorcycle policy, and your injury claim is against whoever caused the hazard."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Your motorcycle."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Your own collision or comprehensive coverage pays for the bike. The mini tort claim does not cover a motorcycle, because a motorcycle is not a “motor vehicle” under the no-fault act ("
+      },
+      {
+       "t": "em",
+       "c": [
+        {
+         "t": "text",
+         "v": "Nerat v Swacker"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ", 150 Mich App 61, 1986)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "your-claim-against-the-driver-who-hit-you",
+   "heading": "Your claim against the driver who hit you",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "For pain and suffering and economic losses beyond no-fault, you sue the at-fault driver if your injury is a serious impairment of body function, permanent serious disfigurement, or death (MCL 500.3135). Motorcycle injuries clear the threshold more often than car injuries: fractures, road rash requiring grafts, torn ligaments, "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/brain-injury",
+       "c": [
+        {
+         "t": "text",
+         "v": "brain injuries"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ", and "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/spinal-cord-injury",
+       "c": [
+        {
+         "t": "text",
+         "v": "spinal cord injuries"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ". You also recover excess economic damages above the PIP limit that applied to you (MCL 500.3135(3)(c)). Three years to sue (MCL 600.5805(2)); a fatal crash is brought by the estate (see our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/wrongful-death/southfield",
+       "c": [
+        {
+         "t": "text",
+         "v": "Southfield wrongful death page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ")."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "What the claim is worth depends on the other driver’s policy."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " A commuter to the Northwestern towers may carry high limits and an umbrella; an Eight Mile driver may carry the minimum or nothing. The recovery then turns on your own "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "uninsured and underinsured motorist coverage"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ", which must be on the motorcycle policy (many car policies exclude the insured while on an owned motorcycle). See our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/uninsured-motorist-claims",
+       "c": [
+        {
+         "t": "text",
+         "v": "uninsured motorist page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": "."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Comparative fault is the fight."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Above 50 percent at fault you recover no noneconomic damages; below that your award is reduced by your share (MCL 500.3135(2)(b), 600.2959). Insurers argue speed, lane position, lane splitting (illegal in Michigan), and “came out of nowhere”; the UD-10, witnesses, the other driver’s phone records, business cameras along Telegraph and Northwestern, and the rider’s own camera answer it."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-helmet-question",
+   "heading": "The helmet question",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Since 2012, Michigan has let riders 21 and older ride without a helmet if they carry at least $20,000 in first-party medical coverage and have either held a motorcycle endorsement for two years or passed an approved safety course (MCL 257.658). If you met those conditions, riding helmetless was legal, so it was not a traffic violation. In a head-injury case the insurer will argue a helmet would have reduced the injury, a damages argument for the jury, not a bar; in a leg or shoulder case it is irrelevant."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-to-do-after-a-southfield-motorcycle-crash",
+   "heading": "What to do after a Southfield motorcycle crash",
+   "blocks": [
+    {
+     "t": "ol",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Get medical care the same day."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Henry Ford Providence Southfield Hospital (formerly Ascension Providence) on Nine Mile and Corewell Health William Beaumont University Hospital in Royal Oak treat many of the area’s seriously injured. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": "hospital names"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Get the Southfield Police report"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " (or the State Police report on I-696); a Southfield Police UD-10 is purchased through Oakland County’s CLEMIS system, and a State Police UD-10 for $15 at michigan.gov/tcps. If a car caused the crash without contact, make sure the report says so."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Identify every vehicle involved"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", including the one that never touched you."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Photograph the bike, the scene, the road surface, the work zone if any, your gear, and your injuries."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Do not repair or sell the bike."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Read your motorcycle policy for first-party medical, UM/UIM, and collision coverage"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", and your car policy’s PIP level."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Apply for no-fault benefits with the right insurer within the first week"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", and do not give a recorded statement to the other driver’s insurer."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "If a road defect or the work zone was involved, call within days."
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-courts-and-deadlines",
+   "heading": "The courts and deadlines",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Rider injury suits over $25,000 go to the Sixth Judicial Circuit Court (Oakland County Circuit Court) in Pontiac, or in some Eight Mile cases the Third Circuit in Detroit (MCL 600.1629); smaller claims to the 46th District Court on Evergreen Road; claims against MDOT to the Court of Claims."
+      }
+     ]
+    },
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "What"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "When"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Statute"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "Written notice to the responsible no-fault insurer"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "1 year"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 500.3145(1)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Hit-and-run or UM claim notice"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Per policy; often short"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Policy terms"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Road defect claim against the City of Southfield or the RCOC"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Written notice within 120 days"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 691.1404"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Defect on Telegraph, Northwestern, the Lodge, Eight Mile, or I-696 (MDOT)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Notice filed with the Court of Claims within 120 days"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 691.1404, 600.6431"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Dram shop claim"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Written notice within 120 days of hiring a lawyer; suit within 2 years (MCL 436.1801(3))"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 436.1801"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Suit against the at-fault driver"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "3 years"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5805(2)"
+        }
+       ]
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "why-southfield-riders-call-atlaw",
+   "heading": "Why Southfield riders call ATLAW",
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "text",
+        "v": "13 years, more than 10,000 cases, more than $100 million recovered."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Every vehicle involved and every policy in the priority chain identified before the no-fault application is filed."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "The road agency, or the work-zone contractor, identified before the notice runs."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "No attorney fee or case costs unless we recover money for you. The first conversation is free."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Consultations can be accommodated in English, Arabic, French, Mandarin, Urdu, and Spanish. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed."
+       }
+      ]
+     ]
+    }
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "A car turned left in front of me on Telegraph and I went down. Do I have a claim?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Yes. A driver turning left must yield to oncoming traffic, and the car is “involved” under no-fault whether or not it touched you, so its owner’s insurer is first in line for your medical bills. Get the plate and witnesses before the car is gone."
+    }
+   ]
+  },
+  {
+   "question": "I went down on a steel plate in the I-696 construction zone. Who is responsible?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Possibly the construction contractor, if the plate or the pavement edge did not meet the required standards, and possibly MDOT, in the Court of Claims with notice filed within 120 days. No-fault does not apply if no car was involved. Photograph the surface that day."
+    }
+   ]
+  },
+  {
+   "question": "I hit a pothole on 12 Mile. Who do I notify?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "The mile roads in Southfield are the Road Commission for Oakland County’s: written notice within 120 days stating the exact location, the defect, the injury, and the witnesses."
+    }
+   ]
+  },
+  {
+   "question": "I wasn’t wearing a helmet. Can I still recover?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Yes, if you were 21 or older with the required $20,000 medical coverage and either two years of endorsement or a safety course. The insurer can argue a helmet would have reduced a head injury, which goes to damages, not to whether you have a claim."
+    }
+   ]
+  },
+  {
+   "question": "How long do I have?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "One year to notify the responsible no-fault insurer, three years to sue the at-fault driver, 120 days for a notice to the City, the RCOC, or the State, and two years to sue a bar, with notice to the bar within 120 days after you hire a lawyer."
+    }
+   ]
+  }
+ ],
+ "cta": {
+  "id": "talk-to-a-southfield-motorcycle-accident-lawyer",
+  "heading": "Talk to a Southfield motorcycle accident lawyer",
+  "blocks": [
+   {
+    "t": "p",
+    "c": [
+     {
+      "t": "text",
+      "v": "If you were hurt on a motorcycle anywhere in Southfield, call "
+     },
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "text",
+        "v": "(313) 406-7606"
+       }
+      ]
+     },
+     {
+      "t": "text",
+      "v": " or send the form on this page. We will tell you which insurer owes your benefits, whether you have a claim against the driver, the road agency, or a contractor, and what to do first. The review is free, and there is no fee unless we recover money for you."
+     }
+    ]
+   },
+   {
+    "t": "p",
+    "c": [
+     {
+      "t": "em",
+      "c": [
+       {
+        "t": "text",
+        "v": "This page is general information about Michigan law as of October 2026 and is not legal advice. Crash figures are from the Michigan State Police, 2024 Motorcycle Crash Facts and Michigan Traffic Crash Facts 2024. Results depend on the facts of each case, and past results do not guarantee a future outcome."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "wordCount": 2104,
+ "openItems": 4,
+ "source": {
+  "file": "B3-04_Southfield-Motorcycle-Accident-Lawyer.docx",
+  "delivered": "October 23, 2026 [CONFIRM: Batch 3 delivery date]"
+ }
+}

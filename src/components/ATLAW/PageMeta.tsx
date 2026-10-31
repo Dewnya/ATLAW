@@ -11,6 +11,8 @@ interface PageMetaProps {
   schema?: object | object[];
   ogImage?: string;
   ogType?: string;
+  /** Keep the page out of search indexes (404, unapproved content). */
+  noindex?: boolean;
 }
 
 export function PageMeta({
@@ -20,6 +22,7 @@ export function PageMeta({
   schema,
   ogImage = DEFAULT_OG_IMAGE,
   ogType = "website",
+  noindex = false,
 }: PageMetaProps) {
   const fullCanonical = canonical
     ? canonical.startsWith("http") ? canonical : `${BASE_URL}${canonical}`
@@ -35,6 +38,7 @@ export function PageMeta({
     <Helmet>
       <title>{title}</title>
       <meta name="description" content={description} />
+      {noindex && <meta name="robots" content="noindex" />}
 
       {fullCanonical && <link rel="canonical" href={fullCanonical} />}
 

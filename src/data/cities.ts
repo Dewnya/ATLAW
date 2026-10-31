@@ -1,5 +1,7 @@
+import { cityRegistry, type CitySlug } from "./cities-registry";
+
 export interface CityData {
-  slug: string;
+  slug: CitySlug;
   name: string;
   county: string;
   localContext: string[];
@@ -16,13 +18,13 @@ export const cities: CityData[] = [
     name: "Dearborn",
     county: "Wayne County",
     localContext: [
-      "ATLAW is headquartered in Dearborn at 3 Park Lane Boulevard, Suite 400W — steps from the 19th District Court. When you walk into our office, you're meeting the team that will handle your case. There's no call center, no intake farm, no hand-off to a junior associate in another city. Your attorney lives and works where you do.",
+      "ATLAW is headquartered in Dearborn at 3 Park Lane Boulevard, Suite 400W. When you walk into our office, you're meeting the team that will handle your case. There's no call center, no intake farm, no hand-off to a junior associate in another city. Your attorney lives and works where you do.",
       "Dearborn is home to one of the largest Arab-American communities in the country, and our team reflects that. Attorney Dewnya Bazzi and our bilingual staff serve clients in both English and Arabic, ensuring nothing gets lost in translation when your recovery is on the line.",
       "From Michigan Avenue intersections to Ford Road traffic patterns, we know the roads, the hospitals, and the insurance adjusters who handle claims in this area. That local knowledge translates directly into stronger cases and better outcomes for our clients.",
     ],
     localExpertise: [
       "Bilingual Arabic-English legal team serving Dearborn's diverse community",
-      "Office located steps from the 19th District Court in Dearborn",
+      "Office in Dearborn at 3 Park Lane Boulevard, Suite 400W",
       "Deep familiarity with local roads, intersections, and accident-prone areas",
       "Relationships with Beaumont Dearborn, Corewell Health, and local physicians",
       "Knowledge of Wayne County court procedures and local judges",
@@ -32,11 +34,11 @@ export const cities: CityData[] = [
     localCourts: ["19th District Court", "Wayne County Circuit Court", "Wayne County Probate Court"],
     hospitals: ["Corewell Health Dearborn (formerly Beaumont)", "Dearborn VA Medical Center"],
     faqs: [
-      { question: "Where is ATLAW's office in Dearborn?", answer: "Our office is located at 3 Park Lane Boulevard, Suite 400W, Dearborn, MI 48126. We're directly off Michigan Avenue, steps from the 19th District Court. Free parking is available on-site." },
+      { question: "Where is ATLAW's office in Dearborn?", answer: "Our office is located at 3 Park Lane Boulevard, Suite 400W, Dearborn, MI 48126. Office hours are Monday to Friday, 9:00 AM to 5:00 PM." },
       { question: "Does ATLAW have Arabic-speaking attorneys?", answer: "Yes. Attorney Dewnya Bazzi and several members of our staff are fluent in Arabic. We serve Dearborn's Arab-American community in their preferred language, ensuring nothing is lost when discussing your case." },
       { question: "What should I do after a car accident in Dearborn?", answer: "Call 911, get medical attention (Corewell Health Dearborn is the nearest major hospital), exchange information with the other driver, photograph the scene, and contact ATLAW before speaking with any insurance company. We offer free case evaluations." },
       { question: "How long do I have to file a personal injury claim in Michigan?", answer: "The general statute of limitations for personal injury in Michigan is three years from the date of injury. For auto accident PIP (No-Fault) benefits, you must file within one year. Missing these deadlines can permanently bar your claim." },
-      { question: "Does ATLAW handle cases from the 19th District Court?", answer: "Yes. Our office is steps from the 19th District Court in Dearborn. We regularly handle matters in this court as well as Wayne County Circuit Court and courts throughout Southeast Michigan." },
+      { question: "Does ATLAW handle cases from the 19th District Court?", answer: "Yes. The 19th District Court is Dearborn's local court, and ATLAW handles matters there as well as in Wayne County Circuit Court and courts throughout Southeast Michigan." },
       { question: "How much does it cost to hire a personal injury lawyer in Dearborn?", answer: "Nothing up front. We work on a contingency fee basis — you pay zero unless we recover money for you. The consultation is free, and there is no financial risk to hiring us." },
     ],
   },
@@ -218,6 +220,19 @@ export const cities: CityData[] = [
 
 export const cityBySlug = (slug: string): CityData | undefined =>
   cities.find((c) => c.slug === slug);
+
+/** The fields the imported (long-form) city pages need. */
+export type CityInfo = Pick<CityData, "slug" | "name" | "county">;
+
+/** Any city in the registry, whether or not it has hand-written template data. */
+export const cityInfo = (slug: string): CityInfo | undefined => {
+  const entry = cityRegistry.find((c) => c.slug === slug);
+  return entry ? { slug: entry.slug, name: entry.name, county: entry.county } : undefined;
+};
+
+/** Cities that have a hero photo in public/assets/cities; the others use the Michigan image. */
+const CITY_PHOTOS = new Set(["ann-arbor", "dearborn-heights", "dearborn", "detroit", "macomb-county", "oakland-county", "wayne-county"]);
+export const cityPhoto = (slug: string): string => `/assets/cities/${CITY_PHOTOS.has(slug) ? slug : "michigan"}.avif`;
 
 export const citySlug = (name: string): string =>
   name.toLowerCase().replace(/\s+/g, "-");

@@ -1,0 +1,1026 @@
+{
+ "slug": "dog-bites",
+ "section": "personal-injury",
+ "city": "dearborn",
+ "status": "draft",
+ "seoTitle": "Dearborn Dog Bite Lawyer: Michigan’s Strict Liability Statute, Who Pays, and Children’s Claims",
+ "seoDescription": "Bitten by a dog in Dearborn? Michigan’s statute makes the owner liable even if the dog never bit before, and the claim is usually paid by homeowner’s or renter’s insurance. ATLAW’s Dearborn office explains MCL 287.351, the provocation defense, Dearborn Animal Control reports, landlords and uninsured owners, and the deadlines for adults and children. Free review in English or Arabic. (313) 406-7606.",
+ "h1": "Dearborn Dog Bite Lawyer",
+ "tagline": "Michigan’s dog bite statute is one sentence: the owner is liable for a bite without provocation on public property or where the victim is lawfully present, regardless of the dog’s history. In Dearborn the questions are who the owner is, whether they are insured, and how a child’s claim is handled.",
+ "primaryKeyword": "dog bite lawyer dearborn (20/mo) · dog bite attorney dearborn (20/mo)",
+ "secondaryKeywords": [
+  "dearborn dog bite lawyer",
+  "dog bite lawyer dearborn mi (long tail)"
+ ],
+ "intro": [
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "Michigan’s dog bite law is short and strict. If a dog bites you without provocation while you are on public property or lawfully on private property, the owner is liable for the full amount of your damages, regardless of whether the dog had ever bitten before or whether the owner knew it was dangerous (MCL 287.351). You do not have to prove negligence. In Dearborn, the typical case is a neighbor’s or relative’s dog in a yard, an alley, or a home on the east side, a child as the victim, and a family that does not want to sue someone they know. The answer to that last problem is also simple: in most cases the claim is paid by the owner’s homeowner’s or renter’s insurance, and the owner is not out of pocket."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "ATLAW is a personal injury firm at 3 Parklane Boulevard in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients. Our "
+    },
+    {
+     "t": "link",
+     "href": "/personal-injury/dog-bites",
+     "c": [
+      {
+       "t": "text",
+       "v": "Michigan dog bite lawyer page"
+      }
+     ]
+    },
+    {
+     "t": "text",
+     "v": " covers the statute, the defenses, and the insurance in full, and our "
+    },
+    {
+     "t": "link",
+     "href": "/areas-served/dearborn",
+     "c": [
+      {
+       "t": "text",
+       "v": "Dearborn page"
+      }
+     ]
+    },
+    {
+     "t": "text",
+     "v": " covers every kind of injury claim in the city; this page covers what is particular about a Dearborn dog bite; the claim process generally is on our "
+    },
+    {
+     "t": "link",
+     "href": "/personal-injury/personal-injury/dearborn",
+     "c": [
+      {
+       "t": "text",
+       "v": "Dearborn personal injury lawyer page"
+      }
+     ]
+    },
+    {
+     "t": "text",
+     "v": ", and suburban bites on our "
+    },
+    {
+     "t": "link",
+     "href": "/areas-served/wayne-county",
+     "c": [
+      {
+       "t": "text",
+       "v": "Wayne County page"
+      }
+     ]
+    },
+    {
+     "t": "text",
+     "v": ". The first conversation is free, in English, Arabic, French, Mandarin, Urdu, or Spanish: (313) 406-7606."
+    }
+   ]
+  }
+ ],
+ "sections": [
+  {
+   "id": "dog-bites-by-the-numbers",
+   "heading": "Dog bites by the numbers",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Measure"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Figure"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Source"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "Dog-related injury claims paid by U.S. homeowner’s insurers, 2024"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "28,450 claims; $1.86 billion; average $65,450"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Insurance Information Institute / State Farm, 2025 release"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Michigan’s rank among states for dog-bite insurance claims"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Third (1,432 claims, 2025)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Insurance Information Institute"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Dearborn households that rent"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "About one in three (31.6 percent)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "U.S. Census Bureau, ACS 2020–2024"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Deadline to sue, adult victim"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "3 years"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5805(2)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Deadline to sue, child victim"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "19th birthday"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5851(1)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Rabies observation period for the biting dog"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "10 days"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Mich Admin Code R 325.180(5)"
+        }
+       ]
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-statute-and-the-two-defenses",
+   "heading": "The statute, and the two defenses",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Strict liability."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Under MCL 287.351 you prove three things: a dog bit you; you were on public property or lawfully on private property, including the owner’s own property, as a guest, customer, tenant, delivery driver, utility worker, mail carrier, or a child playing with permission (the statute specifically covers people performing a duty imposed by law or by the postal service); and you did not provoke the dog. The dog’s history and the owner’s knowledge are irrelevant. There is no “one free bite” in Michigan."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Provocation."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " The owner’s main defense. Michigan courts judge it by whether the person’s conduct would provoke a dog, not by what the person intended, so it can be unintentional. Petting a dog, walking past a fence, entering a yard with permission, or a child reaching toward a dog is not provocation; hitting, teasing, or cornering a dog may be. The witnesses to the seconds before the bite decide it."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Trespass."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " A person unlawfully on private property is not covered by the statute. A child who wanders into a neighbor’s yard is the contested case; a delivery driver or a guest is lawfully present."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Comparative fault does not reduce a statutory claim."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Michigan courts have held that the ordinary comparative-fault rule does not apply to the dog bite statute; the owner’s defenses are limited to trespass and provocation ("
+      },
+      {
+       "t": "em",
+       "c": [
+        {
+         "t": "text",
+         "v": "Hill v Sacka"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ", Mich App 2003). "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "ATTORNEY CHECK",
+         "v": "the firm’s reading"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Injuries from a dog that did not bite, a knockdown, a fall while fleeing, a bicycle crash caused by a chasing dog, are negligence claims where comparative fault does apply (see our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/slip-and-fall/dearborn",
+       "c": [
+        {
+         "t": "text",
+         "v": "Dearborn slip and fall page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " and "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/bicycle-accidents",
+       "c": [
+        {
+         "t": "text",
+         "v": "bicycle accident page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ")."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dearborns-dog-rules-and-why-they-matter-to-the-claim",
+   "heading": "Dearborn’s dog rules, and why they matter to the claim",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Dearborn requires dogs over six months to be licensed, with annual renewal, requires dogs to be leashed when off the owner’s property, and limits tethering. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "ATTORNEY CHECK",
+         "v": "cite the current Dearborn animal ordinance sections and confirm the rules"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " A violation does not create the claim, the statute does that, but a dog loose in violation of the leash rule is evidence against the owner in a negligence claim for a non-bite injury, and the licensing records identify an owner who denies the dog is theirs. Bites are reported to Dearborn Animal Control, reached through the City at 311 or 313-943-2150; the report triggers the rabies observation, creates the official record, and surfaces prior complaints about the dog. We obtain it, and any prior complaints, by Freedom of Information Act request."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Separately, Michigan’s Dangerous Animals Act (MCL 287.321 to 287.323) lets a prosecutor or animal control petition the court to have a dog that has bitten a person declared dangerous, with destruction or strict confinement as the remedies; a finding is powerful evidence in the civil case, which does not depend on it."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "who-pays-in-dearborn",
+   "heading": "Who pays in Dearborn",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Homeowner’s and renter’s insurance."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Dog bite liability is covered by the standard homeowner’s policy and most renter’s policies, typically with $100,000 to $500,000 in liability coverage. The owner reports the bite, the insurer pays, and the insurer cannot require the owner to give up the dog. This is why a claim against a neighbor or a relative is less of a barrier than it sounds, and why many Dearborn bite claims settle without a lawsuit. Some policies exclude certain breeds or dogs with a bite history; the policy must be read."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Uninsured owners."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Where the owner rents and carries no insurance, the claim is against the owner personally, worth what the owner can pay, and the search for another responsible party begins: the landlord, a co-owner or keeper of the dog, or a business that harbored it (see our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/premises-liability",
+       "c": [
+        {
+         "t": "text",
+         "v": "premises liability page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ")."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Landlords."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " A Dearborn landlord is generally not liable for a tenant’s dog, except where the landlord knew the dog was dangerous and had the ability to remove it, through the lease or otherwise, and did not ("
+      },
+      {
+       "t": "em",
+       "c": [
+        {
+         "t": "text",
+         "v": "Szkodzinski v Griffin"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ", Mich App 1988). Prior complaints to the landlord are the evidence. Where the landlord is the Dearborn Housing Commission, governmental immunity applies, and a tenant’s dog is not a building defect the public building exception covers."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Delivery and utility workers."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Postal carriers, package and food-delivery drivers, meter readers, and home health aides bitten on a Dearborn route have the statutory claim against the owner and a workers’ compensation claim against the employer at the same time; the comp insurer has a lien on the recovery (MCL 418.827(5)). See our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/workers-compensation/dearborn",
+       "c": [
+        {
+         "t": "text",
+         "v": "Dearborn workers’ compensation page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": "."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "injuries-children-and-scarring",
+   "heading": "Injuries, children, and scarring",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Dog bites cause puncture and crush wounds, torn tendons and nerves, hand and forearm fractures, and facial injuries; wounds are often left open and treated with antibiotics, and infection is a routine complication. The biting dog is observed for ten days, and if it cannot be found, the victim receives post-exposure rabies treatment. Corewell Health Dearborn is where many adult bites are treated; Children’s Hospital of Michigan in Detroit treats the serious pediatric facial injuries. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "CONFIRM",
+         "v": "hospital list"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Children"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " are bitten more often than adults and on the face and head far more often. A facial bite on a Dearborn child means scar revision surgeries over years as the child grows, and psychological injury that Michigan law compensates and that should be documented by a counselor. A minor’s settlement must be approved by the Wayne County Probate Court or the trial court (MCR 2.420), with the funds protected until adulthood, and the limitations period is tolled until the child’s 19th birthday (MCL 600.5851(1)). The evidence does not keep that long; settle or sue when the plastic surgeon’s projection of future revisions is clear."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Damages"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " include medical treatment and future scar revision, lost wages (including a parent’s time off work), pain and suffering, permanent disfigurement, and psychological injury, with no cap. A fatal attack is a wrongful death claim brought by the estate; see our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/wrongful-death/dearborn",
+       "c": [
+        {
+         "t": "text",
+         "v": "Dearborn wrongful death page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": "."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-to-do-after-a-dog-bite-in-dearborn",
+   "heading": "What to do after a dog bite in Dearborn",
+   "blocks": [
+    {
+     "t": "ol",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Get medical care the same day"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", even for a bite that looks minor; the record dated that day is the case."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Identify the dog and the owner"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": name, address, vaccination status. If the owner refuses, note the address and the dog’s description."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Report the bite to Dearborn Animal Control"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " through the City at 311. Treating physicians must also report a bite where rabies is suspected."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Photograph the wounds"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " that day and as they heal, and the location of the bite."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Get witness names."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Provocation is decided by what witnesses say happened in the seconds before the bite."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Do not give a recorded statement"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " to the owner’s insurer or accept an early offer; facial scarring is not valued until it has matured."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Ask about the owner’s insurance and the landlord."
+         }
+        ]
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-courts-and-deadlines",
+   "heading": "The courts and deadlines",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Dog bite suits over $25,000 are filed in the Third Judicial Circuit Court in Detroit; smaller claims in the 19th District Court on Michigan Avenue, a short drive from the office. Minors’ settlements are approved under MCR 2.420."
+      }
+     ]
+    },
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "What"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "When"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Statute"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "Medical care and animal control report"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Same day"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Public health rules; the evidence"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "FOIA request for the animal control report and prior complaints"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Within weeks"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Practice"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Claim against the Dearborn Housing Commission as landlord"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Usually barred by governmental immunity; 120-day notice if an exception applies."
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 691.1406"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Workers’ compensation notice (bitten on the job)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "90 days"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 418.381(1)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Suit against the owner or landlord, adult victim"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "3 years"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5805(2)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Suit for a child bitten as a minor"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "19th birthday"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5851(1)"
+        }
+       ]
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "why-dearborn-bite-victims-call-atlaw",
+   "heading": "Why Dearborn bite victims call ATLAW",
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "text",
+        "v": "An office at 3 Parklane Boulevard in Dearborn, with free surface parking; walk-ins are accepted. 13 years, more than 10,000 cases, more than $100 million recovered."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "The owner, the insurer, and the landlord identified promptly, before the dog and the witnesses disappear."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Children’s cases done right: probate approval, protected funds, and a claim that accounts for the scar revision the child will need years from now."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "No attorney fee or case costs unless we recover money for you. The first conversation is free."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Consultations can be accommodated in English, Arabic, French, Mandarin, Urdu, and Spanish. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed."
+       }
+      ]
+     ]
+    }
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "The dog had never bitten anyone before. Does the owner still have to pay?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Yes. Michigan’s statute makes the owner liable regardless of the dog’s history or the owner’s knowledge, as long as you were lawfully present and did not provoke the dog."
+    }
+   ]
+  },
+  {
+   "question": "The owner is my neighbor and I do not want to sue them.",
+   "answer": [
+    {
+     "t": "text",
+     "v": "In nearly every insured case the claim is paid by the owner’s homeowner’s or renter’s insurance, not by the neighbor, and the insurer cannot make them give up the dog. Many Dearborn cases settle without a lawsuit."
+    }
+   ]
+  },
+  {
+   "question": "The owner rents and has no insurance. Is there any point?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Possibly. The claim against the owner personally is worth what the owner can pay. If the landlord knew the dog was dangerous and could have required its removal, the landlord may be liable, and the landlord usually is insured."
+    }
+   ]
+  },
+  {
+   "question": "My child was bitten on the face. How long do we have?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Until the child’s 19th birthday to sue, but the case should be brought when the medical picture is clear. A child’s settlement is approved by the court and the funds are protected until adulthood."
+    }
+   ]
+  },
+  {
+   "question": "What counts as provocation?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Conduct that would provoke a dog, judged objectively: hitting, teasing, cornering, stepping on it. Petting a dog, walking past it, or entering a yard with permission is not provocation."
+    }
+   ]
+  },
+  {
+   "question": "Do I have to report the bite?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Yes, to Dearborn Animal Control through the Police Department. The report starts the rabies observation and creates the record of the dog’s history. Your doctor is also required to report it."
+    }
+   ]
+  }
+ ],
+ "cta": {
+  "id": "talk-to-a-dearborn-dog-bite-lawyer",
+  "heading": "Talk to a Dearborn dog bite lawyer",
+  "blocks": [
+   {
+    "t": "p",
+    "c": [
+     {
+      "t": "text",
+      "v": "If you or your child was bitten by a dog anywhere in Dearborn, call "
+     },
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "text",
+        "v": "(313) 406-7606"
+       }
+      ]
+     },
+     {
+      "t": "text",
+      "v": " or send the form on this page. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed. We will tell you who is liable, whether there is insurance, and what to do this week. The review is free, and there is no fee unless we recover money for you."
+     }
+    ]
+   },
+   {
+    "t": "p",
+    "c": [
+     {
+      "t": "em",
+      "c": [
+       {
+        "t": "text",
+        "v": "This page is general information about Michigan law as of October 2026 and is not legal advice. Insurance figures are from the Insurance Information Institute. Results depend on the facts of each case, and past results do not guarantee a future outcome."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "wordCount": 2015,
+ "openItems": 3,
+ "source": {
+  "file": "B2-80_Dearborn-Dog-Bite-Lawyer.docx",
+  "delivered": "2026-10-16"
+ }
+}

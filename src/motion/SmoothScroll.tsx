@@ -15,8 +15,9 @@ export const getLenis = (): Lenis | null => lenisInstance;
  * SmoothScroll — mounts once at the app root (around the Router in index.tsx).
  *
  * Drives Lenis from GSAP's ticker so smooth scrolling and ScrollTrigger share a
- * single clock (no double-RAF jitter). When the user prefers reduced motion we
- * skip Lenis entirely: native scroll, instant content, no smoothing.
+ * single clock (no double-RAF jitter). Desktop pointers only: with reduced
+ * motion, a touch screen, or a viewport under 1024px we skip Lenis entirely
+ * and getLenis() returns null, so callers fall back to native scrolling.
  *
  * Renders its children untouched — it is a behavioural wrapper, not a layout one.
  */
@@ -24,15 +25,19 @@ export const SmoothScroll = ({ children }: { children: React.ReactNode }): JSX.E
   useEffect(() => {
     // Reduced motion → no Lenis. ScrollTrigger still works on native scroll;
     // the reveal primitives independently collapse to instant fades.
-    if (prefersReducedMotion()) {
+    // Touch devices and narrow screens also keep native scroll: smoothing there
+    // fights trackpad/flick momentum and makes the site feel laggy.
+    const nativeOnly =
+      window.matchMedia("(pointer: coarse)").matches ||
+      window.matchMedia("(max-width: 1023px)").matches;
+    if (prefersReducedMotion() || nativeOnly) {
       ScrollTrigger.refresh();
       return;
     }
 
     const lenis = new Lenis({
-      lerp: 0.1,
-      duration: 1.2,
-      // Mobile keeps smoothing but a touch looser so flick-scrolls feel native.
+      // Higher lerp = less trailing. (Lenis ignores `duration` when lerp is set.)
+      lerp: 0.15,
       smoothWheel: true,
     });
     lenisInstance = lenis;

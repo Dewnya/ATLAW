@@ -1,9 +1,13 @@
 import { useEffect, useState } from "react";
+import { Breadcrumbs } from "../components/ATLAW/Breadcrumbs";
 import { Link } from "react-router-dom";
 import { Header } from "../components/ATLAW/Header";
 import { Footer } from "../components/ATLAW/Footer";
 import { PageMeta } from "../components/ATLAW/PageMeta";
-import { cities } from "../data/cities";
+import { cityPhoto } from "../data/cities";
+import { cityHref, cityRegistry, hasCityPage } from "../data/cities-registry";
+import { practiceRegistry } from "../data/practice/pi/registry";
+import { hasCityContent, hasHubContent } from "../content";
 import { openIntakeModal } from "../components/ATLAW/IntakeModal";
 import { IntakeFormSection } from "../components/ATLAW/IntakeFormSection";
 import "./PersonalInjury.css";
@@ -40,8 +44,27 @@ const ArrowRight = ({ className = "" }: { className?: string }) => (
 );
 
 
+/** The counties in registry order, each with its own entry first and its cities after it;
+ *  only places this build has a page for (see hasCityPage). */
+const countyGroups = [...new Set(cityRegistry.map((c) => c.county))]
+  .map((county) => ({
+    county,
+    places: [...cityRegistry.filter((c) => c.county === county && c.name === county), ...cityRegistry.filter((c) => c.county === county && c.name !== county)]
+      .filter((c) => hasCityPage(c.slug)),
+  }))
+  .filter((g) => g.places.length);
+
+/** What the site has for a place: its hub and the practice pages imported for it. */
+const placeSummary = (slug: string): string => {
+  const practices = practiceRegistry.filter((p) => p.slug !== "personal-injury" && hasCityContent(p.slug, slug)).map((p) => p.navLabel);
+  const parts = [];
+  if (hasHubContent(slug)) parts.push("Where injuries happen, the courts, and the deadlines");
+  if (practices.length) parts.push(practices.length > 4 ? `${practices.slice(0, 4).join(", ")} and ${practices.length - 4} more` : practices.join(", "));
+  return parts.join(" · ");
+};
+
 export const AreasServedPage = (): JSX.Element => {
-  const [activeCity, setActiveCity] = useState(cities[0].slug);
+  const [activeCity, setActiveCity] = useState<string>(cityRegistry[0].slug);
 
   useEffect(() => { window.scrollTo(0, 0); }, []);
 
@@ -49,7 +72,7 @@ export const AreasServedPage = (): JSX.Element => {
     <div className="flex min-h-screen w-full flex-col bg-white">
       <PageMeta
         title="Areas Served | Personal Injury Lawyers | ATLAW"
-        description="ATLAW represents injured clients across Southeast Michigan — Dearborn, Detroit, Dearborn Heights, Ann Arbor, Wayne County, Oakland County, and Macomb County. Free case review."
+        description="ATLAW represents injured clients across Southeast Michigan: Detroit, Dearborn, and 22 more cities and townships in Wayne, Oakland, Macomb, and Washtenaw counties. Free case review."
         canonical="/areas-served"
       />
       <Header />
@@ -75,6 +98,7 @@ export const AreasServedPage = (): JSX.Element => {
             }}
           />
           <Grain opacity="0.05" />
+          <Breadcrumbs items={[{ label: "ATLAW", to: "/" }, { label: "Areas We Serve" }]} />
           <div className="relative mx-auto w-full max-w-[1180px] px-6 pb-14 pt-20 text-center sm:px-10 md:pb-20 md:pt-28 lg:px-16">
             <h1
               className="pi-reveal mx-auto max-w-[800px] font-serifDisplay font-normal tracking-[-0.02em] text-white"
@@ -120,8 +144,11 @@ export const AreasServedPage = (): JSX.Element => {
               <p className="mb-4 font-sans text-[12px] font-semibold uppercase tracking-[0.22em]" style={{ color: STONE }}>
                 Cities &amp; Counties
               </p>
+              {countyGroups.map((g) => (
+              <div className="mb-3 lg:mb-5" key={g.county}>
+              <p className="mb-1.5 font-sans text-[11px] font-semibold uppercase tracking-[0.18em] text-[#0B1F3A]/50 lg:px-5">{g.county}</p>
               <ul className="flex flex-wrap gap-2 lg:flex-col lg:gap-0">
-                {cities.map((c) => (
+                {g.places.map((c) => (
                   <li key={c.slug}>
                     <button
                       className={`w-full rounded-lg px-4 py-2.5 text-left font-sans text-[15px] font-medium transition-all duration-200 lg:rounded-none lg:border-l-2 lg:px-5 ${
@@ -141,11 +168,13 @@ export const AreasServedPage = (): JSX.Element => {
                   </li>
                 ))}
               </ul>
+              </div>
+              ))}
             </nav>
 
             {/* City cards */}
             <div className="flex flex-1 flex-col gap-6">
-              {cities.map((c) => (
+              {countyGroups.flatMap((g) => g.places).map((c) => (
                 <article
                   className="group relative overflow-hidden rounded-[20px] shadow-[0_6px_24px_rgba(5,15,28,0.12)] transition-all duration-[300ms] hover:-translate-y-[2px] hover:shadow-[0_14px_36px_rgba(5,15,28,0.18)]"
                   id={`city-card-${c.slug}`}
@@ -160,7 +189,7 @@ export const AreasServedPage = (): JSX.Element => {
                       aria-hidden="true"
                       className="absolute inset-0 h-full w-full object-cover opacity-45 transition-transform duration-[600ms] group-hover:scale-[1.04]"
                       loading="lazy"
-                      src={`/assets/cities/${c.slug}.avif`}
+                      src={cityPhoto(c.slug)}
                     />
                     <div
                       aria-hidden="true"
@@ -175,7 +204,7 @@ export const AreasServedPage = (): JSX.Element => {
                     <p
                       className="relative font-sans text-[11px] font-semibold uppercase tracking-[0.18em] text-white/50"
                     >
-                      {c.county}
+                      {c.name === c.county ? "County" : c.county}
                     </p>
 
                     <h3
@@ -188,14 +217,16 @@ export const AreasServedPage = (): JSX.Element => {
                       {c.name}
                     </h3>
 
-                    <p className="relative mt-3 max-w-[520px] font-sans text-[15px] leading-[1.6] text-white/70">
-                      {c.localContext[0].substring(0, 180)}…
-                    </p>
+                    {placeSummary(c.slug) && (
+                      <p className="relative mt-3 max-w-[560px] font-sans text-[15px] leading-[1.6] text-white/70">
+                        {placeSummary(c.slug)}
+                      </p>
+                    )}
 
                     <Link
                       className="relative mt-5 inline-flex w-fit items-center gap-2 font-sans text-[13px] font-semibold uppercase tracking-[0.04em] transition-colors group-hover:text-white"
                       style={{ color: GOLD_BRIGHT }}
-                      to={`/personal-injury/auto-accidents/${c.slug}`}
+                      to={cityHref(c.slug)}
                     >
                       Learn More
                       <ArrowRight className="group-hover:translate-x-1" />

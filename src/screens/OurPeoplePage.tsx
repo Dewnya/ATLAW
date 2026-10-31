@@ -1,4 +1,5 @@
 import { Header } from "../components/ATLAW/Header";
+import { Breadcrumbs } from "../components/ATLAW/Breadcrumbs";
 import { Footer } from "../components/ATLAW/Footer";
 import { PageMeta } from "../components/ATLAW/PageMeta";
 import { founder, attorneys, staff, type TeamMember } from "../data/team";
@@ -82,6 +83,7 @@ export const OurPeoplePage = (): JSX.Element => {
             style={{ backgroundImage: grain }}
           />
 
+          <Breadcrumbs items={[{ label: "ATLAW", to: "/" }, { label: "Our Team" }]} />
           <div className={`relative ${SECTION} flex min-h-[380px] flex-col items-center justify-center py-24 text-center md:min-h-[440px] md:py-32 lg:min-h-[500px] lg:py-36`}>
             <p className="flex items-center gap-4">
               <span aria-hidden="true" className="h-px w-[52px] shrink-0" style={{ backgroundColor: GOLD }} />
@@ -191,7 +193,7 @@ export const OurPeoplePage = (): JSX.Element => {
                 className="mx-auto mt-6 font-serifDisplay text-[32px] font-normal leading-[1.08] tracking-[-0.02em] sm:text-[40px] md:text-[48px]"
                 style={{ color: INK }}
               >
-                The People Behind Your Case<span aria-hidden="true" style={{ color: GOLD }}>.</span>
+                Your Client Advocates<span aria-hidden="true" style={{ color: GOLD }}>.</span>
               </h2>
             </div>
 

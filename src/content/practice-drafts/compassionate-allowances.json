@@ -1,0 +1,1647 @@
+{
+ "slug": "compassionate-allowances",
+ "section": "disability",
+ "status": "draft",
+ "seoTitle": "Compassionate Allowance List (2026): 314 Conditions That Fast-Track Disability",
+ "seoDescription": "Social Security’s Compassionate Allowances list now has 314 conditions. What is on it, how a claim gets flagged, the records that confirm it, why some listed conditions are still denied, the ALS waiting-period waiver, and what a Michigan lawyer does.",
+ "h1": "Compassionate Allowance List Lawyer",
+ "tagline": "The list decides who is flagged. The records decide who is approved.",
+ "primaryKeyword": "compassionate allowance list",
+ "secondaryKeywords": [
+  "compassionate allowances list",
+  "compassionate allowance",
+  "social security compassionate allowance",
+  "compassionate allowance conditions",
+  "ssa compassionate allowance list 2026",
+  "compassionate allowance lawyer michigan"
+ ],
+ "intro": [
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "Social Security’s Compassionate Allowances initiative identifies diseases and conditions so serious that, by their nature, they meet the legal definition of disability, and moves claims involving them to the front of the line. A standard disability application in 2026 waits months for an initial decision and a year or more for a hearing. A Compassionate Allowance claim with the right records is often decided in weeks."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "The list grew to "
+    },
+    {
+     "t": "strong",
+     "c": [
+      {
+       "t": "text",
+       "v": "314 conditions"
+      }
+     ]
+    },
+    {
+     "t": "text",
+     "v": " on August 11, 2026, when Social Security added 14 more, most of them rare pediatric genetic disorders and aggressive cancers. Since the program began in 2008, more than 1.2 million people have been approved through it. The conditions range from the ones most families would expect, pancreatic cancer, ALS, early-onset Alzheimer’s, glioblastoma, to several hundred rare diseases most people have never heard of."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "Two things about the program are misunderstood, and both cost claimants time. First, there is "
+    },
+    {
+     "t": "strong",
+     "c": [
+      {
+       "t": "text",
+       "v": "no separate application"
+      }
+     ]
+    },
+    {
+     "t": "text",
+     "v": ". You apply for SSDI or SSI the ordinary way, and Social Security’s software flags the claim from what you write. If you describe your condition in words the software does not recognize, the flag is never set. Second, being on the list does not mean "
+    },
+    {
+     "t": "strong",
+     "c": [
+      {
+       "t": "text",
+       "v": "automatic approval"
+      }
+     ]
+    },
+    {
+     "t": "text",
+     "v": ". The claim still has to meet the non-medical requirements for the program you applied for, and the medical records still have to confirm the diagnosis at the stage or severity the list specifies. A claim for “metastatic breast cancer” without a pathology report or imaging confirming metastasis is a standard claim, not a Compassionate Allowance."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "This page explains what is on the list and how it is organized, how a claim is flagged and decided, what records each kind of condition requires, the waiting period and the ALS exception, the other fast tracks, what happens when a listed condition is denied anyway, and what a Michigan disability lawyer does in a case that should move quickly."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "ATLAW is a Dearborn law firm serving clients for 13 years, with more than 10,000 cases handled. The firm represents Michigan claimants with Compassionate Allowance conditions from the application forward. "
+    },
+    {
+     "t": "strong",
+     "c": [
+      {
+       "t": "placeholder",
+       "kind": "CONFIRM",
+       "v": "the firm handles Social Security disability claims in-house and the attorney who leads the practice"
+      }
+     ]
+    },
+    {
+     "t": "text",
+     "v": " There is no fee unless you win, and the fee is set by federal law."
+    }
+   ]
+  }
+ ],
+ "sections": [
+  {
+   "id": "compassionate-allowances-the-numbers",
+   "heading": "Compassionate Allowances: the numbers",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Measure"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Figure"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Source"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "Conditions on the list"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "314, as of August 11, 2026"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "SSA press release, Aug. 11, 2026"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Conditions added in 2026"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "14"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Same"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "People approved through the program since 2008"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "More than 1.2 million"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Same"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Separate application required"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "No"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "SSA"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Initial applications approved, all claims, FY 2025"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "About 36%"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "SSA FY 2025 workload data"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "SSDI waiting period"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Five full months; waived for ALS"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "42 USC 423(c)(2) as amended by the ALS Disability Insurance Access Act of 2019"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Medicare waiting period"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "24 months; waived for ALS and end-stage renal disease"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "42 USC 426"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "SSI presumptive disability payments"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Up to six months of payments before the medical decision for specified conditions"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "20 CFR 416.931–416.934"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Deadline to appeal a denial"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "60 days from receipt of the notice"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "20 CFR 404.909, 404.933"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Maximum fee under a fee agreement"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Lesser of 25% of past-due benefits or $9,200"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "42 USC 406(a)"
+        }
+       ]
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-is-on-the-list",
+   "heading": "What is on the list",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Social Security groups the conditions loosely; the examples below are a sample, chosen because they are the ones Michigan claimants most often ask about. The full list, with Social Security’s own description of each condition and the evidence it looks for, is at ssa.gov/compassionateallowances/conditions.htm. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "ATTORNEY CHECK",
+         "v": "verify every condition named below against the current SSA list before publication"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Group"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Examples on the list"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "What the list typically requires"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Cancers"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Pancreatic cancer; esophageal cancer; small cell lung cancer; glioblastoma and other grade IV brain tumors; acute leukemia; gallbladder cancer; liver cancer; mesothelioma; metastatic breast, prostate, bladder, kidney, and colorectal cancers; angiosarcoma; many pediatric cancers"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "A pathology report confirming the diagnosis; for cancers listed “with metastases” or “stage IV,” imaging or pathology confirming spread; for others, the diagnosis alone"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Neurological, adult"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Amyotrophic lateral sclerosis (ALS); young-onset Alzheimer’s disease; Creutzfeldt-Jakob disease; frontotemporal dementia; Lewy body dementia; progressive supranuclear palsy; multiple system atrophy; adult-onset Huntington’s disease; corticobasal degeneration"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Neurologist’s diagnosis with the clinical findings, imaging, and, where applicable, genetic testing"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Neuromuscular"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Adult Duchenne muscular dystroph; spinal muscular atrophy types 0 and 1; several congenital myopathies"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Genetic testing or muscle biopsy; clinical course"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Cardiac and pulmonary"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Adult heart transplant waitlist status levels 1–4; certain severe cardiac and pulmonary conditions; primary cardiac sarcoma (added 2026))"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Transplant listing documentation; cardiac testing; pathology"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Rare genetic and pediatric"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Hundreds of conditions, including Aicardi syndrome, Bohring-Opitz syndrome, CASK-related disorders, and Warburg Micro syndrome (all added 2026); Tay-Sachs; Batten disease; Edwards syndrome (trisomy 18); Rett syndrome"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Genetic or metabolic testing; specialist diagnosis"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Other"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Certain serious liver and kidney disorders, including hepatopulmonary syndrome and hepatorenal syndrome; selected severe hematologic and systemic conditions"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Condition-specific; see SSA’s description"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "What the table shows is that "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "the stage, type, or qualifier matters as much as the name"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ". Breast cancer is not on the list; metastatic breast cancer is. Melanoma is not; melanoma with metastases is. Huntington’s disease is listed as adult-onset. A claimant whose records say “breast cancer” without staging will not be flagged, and a claimant whose records show stage II will be flagged and then processed as a standard claim once the examiner reads the pathology."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The list is not a limit. A condition that is not on it can still meet or equal one of Social Security’s Listings of Impairments, or prevent all work under the five-step test; our "
+      },
+      {
+       "t": "link",
+       "href": "/disability/qualifying-impairments",
+       "c": [
+        {
+         "t": "text",
+         "v": "conditions that qualify"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " page covers that route."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "how-a-claim-is-flagged-and-how-to-make-sure-yours-is",
+   "heading": "How a claim is flagged, and how to make sure yours is",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Social Security does not ask whether you have a Compassionate Allowance condition. Its software reads the "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Adult Disability Report"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " (Form SSA-3368, completed online or by phone when you apply) and the medical evidence as it arrives, searching for the names of listed conditions and related terms. A flagged claim is routed to an examiner at Michigan’s Disability Determination Service for expedited handling, and the examiner often telephones the treating physician rather than waiting for mailed records."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "What this means in practice:"
+      }
+     ]
+    },
+    {
+     "t": "ol",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Use the exact name of the condition as Social Security lists it"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", in the Adult Disability Report and in the Remarks section. “Glioblastoma multiforme, WHO grade IV” will be flagged. “Brain tumor” may not be."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Include the stage, type, or qualifier"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " that the list requires: “pancreatic adenocarcinoma,” “small cell carcinoma of the lung,” “breast cancer with metastases to bone.”"
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "List the specialist"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " who made the diagnosis, with a phone number, and the hospital where the pathology or imaging was done, so the examiner can call."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Attach what you have."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " You are not required to supply records, but a pathology report, an oncologist’s letter stating the diagnosis and stage, or a genetic test result submitted with the application can turn a weeks-long claim into a days-long one."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Tell the field office"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " when you apply that the condition is on the Compassionate Allowances list. The flag can be set manually."
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "A claim that was not flagged at filing can be flagged later. If you applied without naming the condition correctly, call Social Security, or have your representative call the DDS examiner, and identify it."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "why-a-listed-condition-is-still-sometimes-denied",
+   "heading": "Why a listed condition is still sometimes denied",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Compassionate Allowance claims are denied for the same reasons as other claims, and the speed of the process can make the reasons harder to see."
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The non-medical requirements were not met."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " For SSDI, you must be insured: enough recent work credits. For SSI, your income and resources must be under the limits ($2,000 in countable resources for an individual in 2026). A Compassionate Allowance condition does not change those rules; a claimant who has not worked in a decade and owns a second vehicle may be denied both programs with a diagnosis that is plainly on the list. Our "
+       },
+       {
+        "t": "link",
+        "href": "/disability/social-security-disability-insurance",
+        "c": [
+         {
+          "t": "text",
+          "v": "SSDI"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " and "
+       },
+       {
+        "t": "link",
+        "href": "/disability/supplemental-security-income",
+        "c": [
+         {
+          "t": "text",
+          "v": "SSI"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " pages explain each program’s requirements."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The records did not confirm the diagnosis at the listed severity."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " The flag is set from words; the approval is based on evidence. If the pathology shows a lower stage, or the imaging has not yet confirmed metastasis, or the genetic test is pending, the claim is processed as a standard claim."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "You are still working above the earnings limit."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Earnings over $1,690 a month in 2026 end the claim at step one regardless of diagnosis."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The examiner could not reach your doctor."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " A flagged claim that stalls for want of records loses its speed advantage."
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "A denial on any of these grounds starts the ordinary 60-day appeal clock. A denial for lack of confirming records is often resolved at reconsideration simply by supplying them; a denial on non-medical grounds requires a different analysis. Our "
+      },
+      {
+       "t": "link",
+       "href": "/disability/ssd-appeals-process",
+       "c": [
+        {
+         "t": "text",
+         "v": "appeals page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " explains each level."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-waiting-period-back-pay-and-the-als-exception",
+   "heading": "The waiting period, back pay, and the ALS exception",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "A Compassionate Allowance speeds the "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "decision"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ". It does not change "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "when benefits begin"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ":"
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "SSDI"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " pays nothing for the first five full calendar months after the onset of disability; the first payment is for the sixth month. If your condition was diagnosed and you stopped working six or more months before you applied, the waiting period has already run and benefits begin immediately on approval, with retroactive pay for up to 12 months before the application date."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "ALS is the exception."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Under the ALS Disability Insurance Access Act, as amended, qualifying SSDI claims based on ALS are exempt from the five-month waiting period, including claims approved on or after July 23, 2020. Eligible SSDI beneficiaries with ALS also do not have the usual 24-month Medicare waiting period. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "ATTORNEY CHECK",
+          "v": ""
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Medicare"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " for every other SSDI recipient begins 24 months after entitlement. For a claimant with a terminal cancer, that wait may exceed life expectancy, which is why private insurance, COBRA, Michigan Medicaid, and the hospice benefit should be planned at the same time as the Social Security claim."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "SSI has no comparable five-month waiting period, but payments generally cannot begin before the month after the application or applicable protective filing date."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ". For SSI claimants with certain conditions, Social Security can make "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "presumptive disability"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " payments for up to six months before the medical decision, under 20 CFR 416.934; qualifying examples include ALS; alleged total blindness or deafness; Down syndrome; cerebral palsy accompanied by marked functional limitations; certain spinal cord injuries causing severe mobility limitations; and terminal illness supported by appropriate medical or hospice confirmation. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "ATTORNEY CHECK",
+          "v": ""
+         }
+        ]
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-other-fast-tracks",
+   "heading": "The other fast tracks",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Compassionate Allowances is one of several expedited paths, and a serious claim often qualifies for more than one."
+      }
+     ]
+    },
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Program"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "What it is"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "How a claim gets in"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Compassionate Allowances (CAL)"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "314 listed conditions that meet the standard by their nature"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Software flag on the condition name; manual flag by the field office"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Terminal illness (TERI)"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Any condition that is terminal, whether or not on the CAL list"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Field office or DDS flags from the records, a physician’s statement, or hospice enrollment; the claimant is never told the claim is marked TERI"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Quick Disability Determination (QDD)"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "A predictive model screens every electronic claim for a high probability of allowance and readily available evidence"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Automatic; cannot be requested"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Dire need"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Expedited handling at any level when the claimant lacks food, shelter, or medical care"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "A written request with documentation; most useful at the hearing level"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Critical cases at the hearing level"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Hearing offices expedite TERI, dire need, certain veterans’, and other critical cases"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "RRequest expedited handling or identify the qualifying CAL, TERI, dire-need, veterans’, or other critical-case designation with the hearing office."
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Military casualty / Wounded Warrior"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Service members disabled on active duty on or after October 1, 2001"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Identified at filing"
+        }
+       ]
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "if-the-claimant-dies-before-the-decision",
+   "heading": "If the claimant dies before the decision",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Many Compassionate Allowance conditions are terminal, and some claimants die while the claim is pending. The claim may still be processed to determine whether benefits were owed before death. For SSDI, unpaid benefits may be payable to eligible surviving family members or, in certain circumstances, the estate’s legal representative, under 20 CFR 404.503. SSI has different and more restrictive rules under 20 CFR 416.542, and unpaid SSI benefits generally cannot be paid to the estate. A spouse or dependent child may also qualify separately for Social Security survivors’ benefits. Notify Social Security promptly, because continuing the claim and obtaining any unpaid benefits depends on the applicable eligibility and payment rules. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "ATTORNEY CHECK",
+         "v": ""
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-a-lawyer-does-in-a-case-that-should-move-quickly",
+   "heading": "What a lawyer does in a case that should move quickly",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The value of representation in a Compassionate Allowance case is not persuasion; the diagnosis does that. It is speed and completeness:"
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Filing the application with the condition named exactly as SSA lists it"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", with the stage or qualifier, the specialist’s contact information, and the pathology or imaging attached, so the flag is set on day one."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Verifying the non-medical requirements first."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Insured status and SSI resource limits are checked before filing, so that a claim that cannot be paid as SSDI is filed as SSI, or both, without a denial and an appeal in between."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Choosing the onset date"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " the records support, so the five-month waiting period has already run where possible and back pay is maximized."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Setting the TERI flag and requesting presumptive SSI"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " where the condition qualifies, and planning Medicaid and Medicare coverage around the 24-month wait."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Calling the examiner"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " when a flagged claim stalls, and supplying confirming records the same day they are requested."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Appealing within the 60 days"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " if the claim is denied, with the confirming evidence that reconsideration needs."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Protecting the family"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " by arranging substitution of party and survivors’ benefits if the claimant dies."
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Fees are set by federal law: the lesser of 25 percent of past-due benefits or $9,200, approved and paid by Social Security from the back pay, and nothing if the claim is not won. In a Compassionate Allowance case decided quickly, past-due benefits are often small and the fee is correspondingly small; there is no fee on ongoing monthly benefits. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "CONFIRM",
+         "v": "fee agreement terms; who pays record-retrieval costs"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "why-michigan-families-call-atlaw-for-compassionate-allowance-claims",
+   "heading": "Why Michigan families call ATLAW for Compassionate Allowance claims",
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Thirteen years serving clients, more than 10,000 cases."
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Filed to be flagged"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": the condition named as SSA lists it, the specialist identified, the pathology attached, on the day of filing. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": "practice"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Non-medical eligibility checked before filing"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", so a terminal diagnosis is not followed by a technical denial. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": ""
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The family protected"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": substitution of party and survivors’ benefits arranged if the worst happens. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": ""
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Dearborn, and the whole metro area."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. We meet clients by phone, by video, and at home or in the hospital when travel is not possible."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Languages."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "No fee unless you win"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", federally capped at 25 percent of back pay or $9,200, whichever is less."
+       }
+      ]
+     ]
+    }
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is there a separate application for a Compassionate Allowance?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "No. You apply for SSDI or SSI in the ordinary way, online, by phone at 1-800-772-1213, or at a field office. Social Security’s software flags the claim from the condition you describe. Our "
+    },
+    {
+     "t": "link",
+     "href": "/disability/ssd-application-process",
+     "c": [
+      {
+       "t": "text",
+       "v": "how to apply"
+      }
+     ]
+    },
+    {
+     "t": "text",
+     "v": " page walks through the application."
+    }
+   ]
+  },
+  {
+   "question": "How many conditions are on the list?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "314, as of August 11, 2026, when 14 were added. The list is at ssa.gov/compassionateallowances/conditions.htm and changes each year."
+    }
+   ]
+  },
+  {
+   "question": "My condition is on the list. Am I automatically approved?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "No. You must still meet the non-medical requirements (work credits for SSDI, income and resource limits for SSI), be earning less than the substantial gainful activity limit ($1,690 a month in 2026), and have records that confirm the diagnosis at the stage or severity the list specifies."
+    }
+   ]
+  },
+  {
+   "question": "How long does a Compassionate Allowance claim take?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Social Security does not publish an average. Claims with the diagnosis named correctly and confirming records attached are commonly decided in weeks rather than months. Claims where the examiner must chase records take longer."
+    }
+   ]
+  },
+  {
+   "question": "Does a Compassionate Allowance eliminate the five-month waiting period?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "No, except for ALS. For every other condition, SSDI pays beginning with the sixth full month after onset. If your onset was more than five months before you applied, the wait has already run."
+    }
+   ]
+  },
+  {
+   "question": "I have stage II cancer. Is that a Compassionate Allowance?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Usually not; most cancers are listed only at advanced or metastatic stages, or as specific aggressive types. A stage II cancer may still qualify under the cancer Listings or the five-step test, and the claim should be filed either way."
+    }
+   ]
+  },
+  {
+   "question": "My condition is not on the list but is just as serious. What do I do?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Apply. The list is a fast track, not the only road. Your condition may meet a Listing or prevent all work, and if it is terminal it may be flagged TERI regardless of the list. Social Security also accepts public suggestions for conditions to add."
+    }
+   ]
+  },
+  {
+   "question": "Can I get SSI payments before the decision?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "For certain conditions, yes: presumptive disability payments for up to six months under 20 CFR 416.934, including for ALS, terminal illness with hospice confirmation, and others. The field office makes the determination at filing."
+    }
+   ]
+  },
+  {
+   "question": "What happens to the claim if my family member dies before it is decided?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "The claim continues. A surviving spouse, child, parent, or the estate can be substituted and paid the benefits due through the month of death, and survivors’ benefits may be available. Notify Social Security and ask for substitution; it is not automatic."
+    }
+   ]
+  },
+  {
+   "question": "What does a lawyer cost?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Nothing unless you win, and then the lesser of 25 percent of your back pay or $9,200, paid by Social Security. In a claim approved in weeks, the back pay and the fee are both small. Record-retrieval costs are "
+    },
+    {
+     "t": "strong",
+     "c": [
+      {
+       "t": "placeholder",
+       "kind": "CONFIRM",
+       "v": ""
+      }
+     ]
+    },
+    {
+     "t": "text",
+     "v": "."
+    }
+   ]
+  }
+ ],
+ "cta": {
+  "id": "talk-to-a-michigan-disability-lawyer-about-a-compassionate-allowance-claim",
+  "heading": "Talk to a Michigan disability lawyer about a Compassionate Allowance claim",
+  "blocks": [
+   {
+    "t": "p",
+    "c": [
+     {
+      "t": "text",
+      "v": "If you or a family member has been diagnosed with a condition on Social Security’s Compassionate Allowances list anywhere in Michigan, call "
+     },
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "text",
+        "v": "(313) 406-7606"
+       }
+      ]
+     },
+     {
+      "t": "text",
+      "v": " or send the form on this page. We confirm the condition is listed and how it is named, check the non-medical requirements, file the application with the records that trigger the flag, and follow the claim until it is paid. We respond within one business day, and there is no fee unless you win."
+     }
+    ]
+   }
+  ]
+ },
+ "wordCount": 2890,
+ "openItems": 10,
+ "source": {
+  "file": "B2-15_Compassionate-Allowance-List-Lawyer.docx",
+  "delivered": "2026-10-16"
+ }
+}

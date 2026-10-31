@@ -1,8 +1,8 @@
 import { Link } from "react-router-dom";
+import { Breadcrumbs } from "../components/ATLAW/Breadcrumbs";
 import { Header } from "../components/ATLAW/Header";
 import { Footer } from "../components/ATLAW/Footer";
 import { PageMeta } from "../components/ATLAW/PageMeta";
-import { MobileFloatingCTA } from "../components/ATLAW/MobileFloatingCTA";
 import { IntakeFormSection } from "../components/ATLAW/IntakeFormSection";
 import { newsPosts } from "../data/news";
 import "./PersonalInjury.css";
@@ -56,6 +56,7 @@ export const NewsPage = (): JSX.Element => {
           style={{ background: NAVY_CANVAS }}
         >
           <Grain opacity="0.05" />
+          <Breadcrumbs items={[{ label: "ATLAW", to: "/" }, { label: "News" }]} />
           <div className="relative mx-auto w-full max-w-[1180px] px-6 pb-14 pt-20 text-center sm:px-10 md:pb-20 md:pt-28 lg:px-16">
             <p
               className="pi-reveal mb-5 font-sans text-[12px] font-semibold uppercase tracking-[0.22em]"
@@ -133,7 +134,6 @@ export const NewsPage = (): JSX.Element => {
 
         <IntakeFormSection />
       </main>
-      <MobileFloatingCTA />
       <Footer />
     </div>
   );

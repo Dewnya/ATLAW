@@ -1,0 +1,983 @@
+{
+ "slug": "workers-compensation",
+ "section": "personal-injury",
+ "status": "draft",
+ "seoTitle": "Michigan Workers’ Compensation Lawyer – Denied or Underpaid Claims",
+ "seoDescription": "Hurt at work in Michigan? ATLAW explains what workers’ comp owes you (80% wage loss, medical, the 28-day doctor rule), the deadlines, and when you can also sue. Free review.",
+ "h1": "Michigan Workers’ Compensation Lawyer",
+ "tagline": "What your employer’s insurer owes you after a work injury, the deadlines that end claims, and the second claim most injured workers never hear about.",
+ "primaryKeyword": "michigan workers compensation attorney",
+ "secondaryKeywords": [
+  "michigan workers comp lawyer",
+  "workers compensation lawyer near me",
+  "michigan work injury lawyer",
+  "workers comp denied michigan",
+  "detroit workers compensation attorney"
+ ],
+ "intro": [
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "Workers’ compensation in Michigan is supposed to be simple: you are hurt at work, your employer’s insurer pays your medical bills and most of your lost wages, and nobody has to prove fault. In practice, the insurer decides what “hurt at work” means, which doctor you see for the first month, whether your injury is “disabling,” and when you are well enough to take a job that pays less. Every one of those decisions can be challenged, and the ones that are not challenged are the ones that cost injured workers the most."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "This page explains what Michigan’s Worker’s Disability Compensation Act requires, the deadlines that end claims, and the second claim, against someone other than your employer, that often matters more than the comp claim itself."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "ATLAW is a personal injury firm in Dearborn, in a region where the largest employers (Ford, Stellantis, GM, the hospital systems) insure themselves and handle claims in-house. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across Wayne, Oakland, Macomb, and Washtenaw counties. Workers’ comp cases are handled on contingency, with fees set by state rule and approved by a magistrate: nothing up front, nothing unless we recover benefits for you."
+    }
+   ]
+  }
+ ],
+ "sections": [
+  {
+   "id": "what-michigan-workers-compensation-pays",
+   "heading": "What Michigan workers’ compensation pays",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Medical care."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " All reasonable and necessary treatment for the work injury, for as long as it is needed, with no deductible or co-pay (MCL 418.315). This includes surgery, physical therapy, prescriptions, prosthetics, mileage to appointments, and attendant care at home, which for family-provided care is capped at 56 hours a week."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "The 28-day doctor rule."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " For the first 28 days of treatment, your employer chooses the doctor. After 28 days you may treat with a doctor of your choice, as long as you notify the employer (MCL 418.315(1)). Insurers rely on workers not knowing this. An employer’s clinic that releases you to full duty on day 20 is a reason to see your own doctor on day 29."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Wage loss."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " If the injury keeps you from working, you receive 80% of your after-tax average weekly wage, calculated from your highest 39 of the 52 weeks before the injury and adjusted for your tax filing status and dependents (MCL 418.351, 418.371). The benefit is capped at 90% of the state average weekly wage, which the state resets each year: $1,164 a week for injuries in 2025. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "VERIFY",
+         "v": "2026 maximum weekly rate, published by the Workers’ Disability Compensation Agency each January"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Benefits begin after a seven-day waiting period and are paid back to day one if the disability lasts two weeks or more (MCL 418.311)."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Partial wage loss."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " If you return to work at lower pay because of the injury, you receive 80% of the after-tax difference between your old and new wages (MCL 418.301(9)(c))."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Specific loss."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " For the loss of a body part (a finger, a hand, an eye, a leg) or its use, Michigan pays a scheduled number of weeks regardless of wage loss: for example, 215 weeks for a hand, 162 for a foot, 162 for an eye (MCL 418.361(2)). Total and permanent disability (loss of both hands, both legs, sight in both eyes, or incurable insanity) pays for at least 800 weeks and often for life."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Vocational rehabilitation."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " If you cannot return to your old job, the insurer must pay for retraining or job placement for up to 52 weeks, extendable to 104 (MCL 418.319)."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Death benefits."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " If a worker dies from a work injury, dependents receive wage-loss benefits for 500 weeks (longer for a dependent child until age 21, or for life if the dependent is disabled), plus up to $6,000 in burial expenses (MCL 418.321, 418.345)."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "What workers’ compensation does not pay: anything for pain and suffering. That is only available in a lawsuit against a third party, discussed below."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-rules-insurers-use-to-deny-or-cut-off-benefits",
+   "heading": "The rules insurers use to deny or cut off benefits",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "“Disability” is defined narrowly."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Since the 2011 amendments, disability means a limitation in your wage-earning capacity in work suitable to your qualifications and training, considering all jobs you could perform (MCL 418.301(4)). The insurer will argue that even if you cannot do your old job, you could do some job, and will hire a vocational expert to list jobs you supposedly qualify for. To keep full benefits you must show that you have made a good-faith effort to find work within your restrictions and could not (MCL 418.301(5)). Keeping a written job-search log is not optional; it is the evidence."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "“Reasonable employment.”"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " If your employer, or any employer, offers a job within your restrictions that pays less, and you refuse it without good reason, your benefits can be reduced or stopped (MCL 418.301(9)). Whether the job was reasonable is contested constantly. A job offer that disappears after you accept it is a known tactic, and benefits resume when the job does not exist."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Independent medical examinations."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " The insurer can require you to see its doctor (MCL 418.385). A report from that exam saying you have recovered is the most common basis for cutting off benefits. Your own treating doctor’s records are the answer, which is why the 28-day rule matters."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Pre-existing conditions."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " A work injury that aggravates a pre-existing condition is compensable, but since 2011 the aggravation must be “medically distinguishable” from the underlying condition and the work must have contributed in a “significant manner” (MCL 418.301(2)). Back, knee, and shoulder claims are denied on this basis more than any other; the medical record before and after the injury decides them."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Mental injuries"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " are compensable only if caused by actual events of employment, not perceived ones, and only if work contributed in a significant manner (MCL 418.301(2))."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Retaliation."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " An employer may not fire or discriminate against you for filing a claim (MCL 418.301(13)). That is a separate lawsuit, with its own damages, outside the comp system."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "deadlines-that-end-michigan-workers-compensation-claims",
+   "heading": "Deadlines that end Michigan workers’ compensation claims",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Deadline"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Applies to"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Source"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "90 days from the injury (or from when you knew it was work-related)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Notice to the employer. Verbal notice counts, but written notice is provable."
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 418.381(1)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "2 years from the injury (or from when you knew)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Filing a claim for compensation with the employer or the agency"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 418.381(1)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "2 years back"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Benefits recoverable before the claim was filed, if the employer had notice"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 418.381(2)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "1 year back"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Benefits recoverable before the claim was filed, if the employer did not have notice"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 418.381(2)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "3 years from the injury"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Lawsuit against a third party (a contractor, manufacturer, driver)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5805"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Occupational diseases and repetitive injuries (carpal tunnel, hearing loss, back injuries from years of lifting) run from the date you knew or should have known the condition was work-related, which is usually the date a doctor told you. Report it that day."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "how-a-disputed-claim-is-decided",
+   "heading": "How a disputed claim is decided",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "When the insurer denies a claim or stops paying, the worker files an Application for Mediation or Hearing (Form WC-104A) with the Michigan Workers’ Disability Compensation Agency. The case is assigned to a magistrate, who hears testimony and medical evidence and issues a written decision. Hearings for metro Detroit workers are held at the agency’s Detroit office in Cadillac Place on West Grand Boulevard, and in Dimondale for some Washtenaw County claims. Either side can appeal to the Michigan Compensation Appellate Commission. A contested claim typically takes 12 to 18 months from application to decision, which is why most disputed claims are resolved by a "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "redemption"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ": a lump-sum settlement, approved by the magistrate at a redemption hearing, that closes the claim."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Whether to redeem is the most important decision in a comp case. A lump sum ends the insurer’s obligation to pay future medical care. For a worker who will need surgery, that trade can be a bad one, and we say so."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-claim-most-injured-workers-never-hear-about-the-third-party-case",
+   "heading": "The claim most injured workers never hear about: the third-party case",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Workers’ compensation is your exclusive remedy against your employer (MCL 418.131). You cannot sue your employer for pain and suffering, no matter how careless it was, except in the rare case of a deliberate intent to injure. But you can sue "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "anyone else"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " whose negligence caused the injury (MCL 418.827), and that lawsuit recovers everything comp does not: pain and suffering, full lost wages, future losses."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "In metro Detroit these cases come from:"
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Vehicle crashes while working"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": delivery drivers, home-health aides, salespeople, anyone driving for work who is hit by another driver. Comp pays; so does Michigan no-fault; and the at-fault driver is liable for the rest."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Construction sites"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": a worker employed by one subcontractor injured by another subcontractor’s crew, the general contractor, or the property owner."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Defective machinery and equipment"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": a press, a forklift, a saw, a scaffold made or maintained by someone other than the employer."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Injuries on someone else’s property"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": a route driver who falls at a customer’s loading dock."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Plant contractors"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": at Ford, Stellantis, and GM facilities, thousands of workers are employed by staffing agencies and contractors, which means the plant itself is often a third party that can be sued."
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The comp insurer has a lien on the third-party recovery for benefits it paid (MCL 418.827(5)), reduced by its share of attorney fees and costs. Negotiating that lien down is part of the work, and it often adds more to what the worker keeps than the fee costs."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "work-injuries-in-metro-detroit",
+   "heading": "Work injuries in metro Detroit",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Wayne, Oakland, and Macomb counties hold the largest concentration of manufacturing employment in the state: the Rouge complex in Dearborn, Stellantis plants in Detroit, Warren, and Sterling Heights, the GM Tech Center and Factory Zero, Ford Livonia Transmission, and the supplier plants around them, plus the five hospital systems that are the region’s largest non-manufacturing employers. Most of these employers are self-insured, which means the claims adjuster works for the employer, not for an insurance company, and the pressure to return workers to the line is direct."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The injuries ATLAW sees most: back and shoulder injuries from lifting and repetitive assembly work, crush and amputation injuries from presses and conveyors, knee injuries from standing and kneeling, carpal tunnel and tendinitis, falls, burns, and vehicle crashes for drivers and field workers."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-to-do-after-a-work-injury-in-michigan",
+   "heading": "What to do after a work injury in Michigan",
+   "blocks": [
+    {
+     "t": "ol",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Report it in writing the same day"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", to your supervisor and to HR, and keep a copy. Verbal notice is legal but unprovable. Describe what happened and every part of your body that hurts; injuries left off the report are the ones the insurer later says were not work-related."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Get medical care"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " from the employer’s doctor if required, and tell that doctor everything. Ask for a copy of every note."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Count 28 days."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " On day 29, if you are not satisfied with the employer’s doctor, see your own and notify the employer in writing."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Keep records"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": pay stubs for the 52 weeks before the injury (your benefit rate depends on them), every medical visit, every mileage trip, every day of missed work."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Follow restrictions and keep a job-search log"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " if you are released to work with restrictions and your employer has no work for you."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Do not give a recorded statement"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " to the insurer without advice, and do not sign a redemption agreement without understanding that it ends your medical coverage."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Identify any third party"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": another company, another driver, a piece of equipment. That claim has its own three-year deadline and its own evidence."
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "why-injured-workers-in-metro-detroit-call-atlaw",
+   "heading": "Why injured workers in metro Detroit call ATLAW",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "A Dearborn firm that looks for the third-party case."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Every work injury is reviewed for a claim beyond workers’ comp, because that is where pain and suffering is compensated. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "CONFIRM",
+         "v": "that the firm handles workers’ comp claims before the agency itself, as opposed to the third-party injury claim only; if the firm refers comp hearings to a comp specialist, the page should say so"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "More than 10,000 cases, more than $100 million recovered"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " in 13 years, across all injury practice areas. Every case is different; the figures show the firm has done this work against these employers and insurers."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Fees set by state rule."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Attorney fees in Michigan workers’ comp cases are capped by agency rule and must be approved by the magistrate. You pay nothing up front, and the fee comes only from benefits we recover for you."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "English, Arabic, French, Mandarin, Urdu, and Spanish"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ", including at the hearing."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How long do I have to report a work injury in Michigan?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Ninety days from the injury, or from when you knew it was work-related, to notify your employer (MCL 418.381). Two years to file a claim. Report it in writing the day it happens."
+    }
+   ]
+  },
+  {
+   "question": "How much does workers’ comp pay in Michigan?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "80% of your after-tax average weekly wage, up to the state maximum ($1,164 a week for 2025 injuries), after a seven-day waiting period. All reasonable medical care is paid in full."
+    }
+   ]
+  },
+  {
+   "question": "Can I see my own doctor?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "After the first 28 days, yes, with notice to your employer (MCL 418.315). For the first 28 days the employer chooses."
+    }
+   ]
+  },
+  {
+   "question": "My claim was denied. What now?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "File an Application for Mediation or Hearing with the Workers’ Disability Compensation Agency. A magistrate decides the claim. Most denials are over whether the injury is work-related or whether you are still disabled, and both are decided on medical evidence."
+    }
+   ]
+  },
+  {
+   "question": "Can I be fired for filing a workers’ comp claim?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Not lawfully. Retaliation for filing a claim is prohibited (MCL 418.301(13)) and is a separate lawsuit with its own damages."
+    }
+   ]
+  },
+  {
+   "question": "Can I sue my employer for pain and suffering?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "No, except for a deliberate intent to injure. Workers’ comp is the exclusive remedy against the employer (MCL 418.131). You can sue anyone else whose negligence caused the injury."
+    }
+   ]
+  },
+  {
+   "question": "What is a redemption?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "A lump-sum settlement that closes the claim, approved by a magistrate. It ends the insurer’s obligation for future wage loss and future medical care. Whether to accept one depends on what treatment you will need."
+    }
+   ]
+  },
+  {
+   "question": "I was hurt in a car crash while working. Who pays?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Workers’ comp pays first for medical and wage loss; Michigan no-fault pays benefits comp does not; and the at-fault driver is liable in a separate lawsuit for pain and suffering and the rest. Three claims, coordinated."
+    }
+   ]
+  },
+  {
+   "question": "My injury happened over years, not in one accident. Is it covered?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Yes. Repetitive injuries and occupational diseases are compensable if work contributed in a significant manner. The deadlines run from when you knew the condition was work-related."
+    }
+   ]
+  },
+  {
+   "question": "What does a workers’ comp lawyer cost?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Nothing up front. Fees are limited by state rule to a percentage of the benefits recovered and must be approved by the magistrate. You owe nothing if no benefits are recovered."
+    }
+   ]
+  }
+ ],
+ "cta": {
+  "id": "talk-to-a-michigan-workers-compensation-lawyer",
+  "heading": "Talk to a Michigan workers’ compensation lawyer",
+  "blocks": [
+   {
+    "t": "p",
+    "c": [
+     {
+      "t": "text",
+      "v": "Call "
+     },
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "text",
+        "v": "(313) 406-7606"
+       }
+      ]
+     },
+     {
+      "t": "text",
+      "v": " or send the form below. We respond within one business day. The consultation is free, in English, Arabic, French, Mandarin, Urdu, or Spanish, and you pay nothing unless we recover benefits for you. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed."
+     }
+    ]
+   }
+  ]
+ },
+ "wordCount": 2441,
+ "openItems": 2,
+ "source": {
+  "file": "B1-08_Michigan-Workers-Compensation-Lawyer.docx",
+  "delivered": "2026-10-12"
+ }
+}

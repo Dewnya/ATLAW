@@ -14,21 +14,20 @@ import { WinningsTicker } from "../components/ATLAW/WinningsTicker";
 import { IntakeFormSection } from "../components/ATLAW/IntakeFormSection";
 import { FAQPreviewSection } from "../components/ATLAW/FAQPreviewSection";
 import { FinalCtaSection } from "../components/ATLAW/FinalCtaSection";
-import { MobileFloatingCTA } from "../components/ATLAW/MobileFloatingCTA";
 import { Footer } from "../components/ATLAW/Footer";
 import { homepageSchema } from "../data/schema-org";
 
 export const ATLAWLandingPage = (): JSX.Element => {
   return (
-    <div className="min-h-screen bg-ivory text-ink [zoom:1.12]">
+    <div className="min-h-screen bg-ivory text-ink">
       <PageMeta
-        title="ATLAW"
+        title="Dearborn Personal Injury Lawyers | ATLAW — Free Case Review"
         description="Dearborn personal injury lawyers fighting for injured clients across Southeast Michigan. Auto accidents, medical malpractice, wrongful death. Free consultation — no fee unless we win."
         canonical="/"
         schema={homepageSchema()}
       />
       <Header />
-      <main id="main-content">
+      <main id="main-content" className="[zoom:1.12]">
         <Hero />
         <AwardsMarquee />
         <ResultsStatBar />
@@ -44,7 +43,6 @@ export const ATLAWLandingPage = (): JSX.Element => {
         <FAQPreviewSection />
         <FinalCtaSection />
       </main>
-      <MobileFloatingCTA />
       <Footer />
     </div>
   );

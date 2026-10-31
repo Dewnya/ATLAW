@@ -1,0 +1,121 @@
+---
+slug: areas-served
+section: areas-served
+city: troy
+status: draft
+seoTitle: Troy, MI Personal Injury Lawyers: Big Beaver, I-75, the Somerset Corridor, and the 52-4 District Court
+seoDescription: Injured in Troy? ATLAW’s personal injury lawyers handle I-75 and Big Beaver crashes, falls at Somerset and the office towers, workplace injuries in Oakland County’s business hub, and no-fault claims, with 2024 crash data, the 52-4 District and Sixth Circuit courts, Corewell Health Troy, and the deadlines that apply.
+h1: Personal Injury Law Firm Serving Troy, MI
+tagline: Oakland County’s business hub: the office towers of Big Beaver, I-75, Somerset, and the roads a city of 89,000 shares with its commuters.
+primaryKeyword: personal injury law firm troy (no measured volume); page written to “troy personal injury lawyer” (70/mo) and “personal injury lawyer troy mi” (70)
+secondaryKeywords: car accident lawyer troy mi (260/mo, KD 6; served by /personal-injury/auto-accidents/troy), troy car accident lawyer (70), troy michigan personal injury lawyer
+source: areas-served__troy.docx
+delivered: 2026-10-16
+---
+
+## Personal Injury Law Firm Serving Troy, MI
+
+Troy is an Oakland County city with approximately 89,000 residents and a major commercial and employment center. The office buildings along Big Beaver Road, Somerset Collection, Troy Motor Mall, and surrounding corporate campuses bring residents, employees, and visitors onto the city’s roads every day.
+
+ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across southeast Michigan, Troy residents and Troy workers among them. This page explains what is particular about a Troy injury claim: where the injuries happen, who the defendants usually are, which courts hear the cases, and the deadlines that end them. Our [Oakland County page](/areas-served/oakland-county) covers the county as a whole.
+
+## Troy injury numbers, 2024
+
+| Measure | Figure | Source |
+| --- | --- | --- |
+| Troy crashes / seriously injured / killed | 2,480 / 35 / 7 | MTCF city profile, 2024 |
+| Oakland County crashes / injured / killed | 35,951 / 9,139 / 68 | MSP, Michigan Traffic Crash Facts 2024 |
+| Oakland County trucks and buses in crashes | 2,081 (up from 1,906 in 2023) | MSP, Heavy Trucks and Buses 2024 and 2023 |
+| Oakland County alcohol-involved crashes | 871 | MSP, 2024 |
+| Michigan crashes / injured / killed | 288,880 / 71,316 / 1,099 | MSP, 2024 |
+
+## Where Troy injuries happen
+
+**I-75.** The freeway passes through Troy and connects drivers with Big Beaver Road, Crooks Road, Rochester Road, Long Lake Road, and Square Lake Road. Heavy commuting and commercial traffic can contribute to rear-end, merging, lane-change, and truck accidents. See our [Troy truck accident page](/personal-injury/truck-accidents).
+
+**Big Beaver Road.** The office spine, eight lanes from Coolidge past Somerset to Rochester and the I-75 interchange, with signalized intersections at Coolidge, Crooks, Livernois, Rochester, and John R and dozens of tower and mall driveways between them. Left-turn and red-light crashes at the signals, driveway crashes at the towers, and pedestrian crashes at Somerset and the restaurant row. Responsibility for maintaining a particular section of Big Beaver Road or its traffic-control devices depends on the jurisdiction of the road and the agency responsible for the specific condition.
+
+**Maple, Long Lake, Square Lake, Rochester, Crooks, Livernois, Coolidge, John R, Dequindre, and Stephenson.** The mile roads and the north-south arterials, with the Rochester Road retail corridor, the Oakland Mall and Troy Motor Mall traffic at Fourteen Mile and John R, and the Maple and Coolidge industrial and office parks. Intersection crashes at the signals, Michigan-left turnaround crashes where the arterials are divided, and pedestrian and bicycle crashes near schools, parks, intersections, and local walking and cycling routes.
+
+**The towers, the malls, and the campuses.** Somerset Collection, the Big Beaver office towers, Oakland Mall, the Troy Motor Mall’s dealerships, and the corporate campuses along Big Beaver, Maple, and Long Lake. Employees injured in the course of their employment may qualify for workers’ compensation benefits. Michigan law generally makes workers’ compensation the exclusive remedy against a covered employer, but a separate personal injury claim may be available against a negligent third party, depending on the circumstances. See our [premises liability](/personal-injury/premises-liability) and [workers’ compensation](/personal-injury/workers-compensation) pages.
+
+**The neighborhoods.** Troy’s housing is subdivision stock from the 1960s onward, owner-occupied at a high rate, with apartment and condominium complexes along Big Beaver, Rochester, and Maple. Falls on stairs and ice, condominium common-area injuries, rental-housing injuries under MCL 554.139, dog bites under MCL 287.351, and sidewalk injuries under the two-inch rule (MCL 691.1402a). See our [tenant injury](/personal-injury/tenant-injuries) and [dog bite](/personal-injury/dog-bites) pages.
+
+**Senior-care facilities and hospitals.** Troy has nursing homes, assisted-living communities, and medical facilities, including Corewell Health Beaumont Troy Hospital on Dequindre Road near M-59. Injuries involving inadequate supervision, falls, medication mistakes, neglect, or potentially negligent medical treatment may give rise to different legal claims depending on the circumstances. See our [nursing home abuse](/personal-injury/nursing-home-abuse) and [medical malpractice](/personal-injury/medical-malpractice) pages.
+
+## What is different about a Troy claim
+
+**Coverage.** Michigan’s auto insurance system affects how an injury claim arising from a Troy crash is handled. Under MCL 500.3009, the default bodily injury liability limits are $250,000 per person and $500,000 per accident, although qualifying drivers may elect lower limits. Personal injury protection (PIP) benefits generally cover eligible medical expenses and wage loss regardless of fault, subject to Michigan’s priority rules, selected coverage limits, and applicable exclusions. A claim against an at-fault driver may provide additional compensation. Certain non-economic damages require a qualifying threshold injury under MCL 500.3135. The available insurance limits, responsible parties, and recoverable damages must be evaluated separately. Uninsured and underinsured motorist coverage may provide additional protection when an at-fault driver has insufficient insurance or no applicable liability insurance. These benefits depend on the specific policy terms, including any notice, consent-to-settle, exhaustion, or other contractual requirements. Before accepting a settlement, it is important to review all potentially applicable coverage. See our [Troy car accident page](/personal-injury/auto-accidents/troy), [no-fault insurance guide](/resources/michigan-no-fault-guide), and [uninsured motorist page](/personal-injury/uninsured-motorist-claims).
+
+**Road defects and government liability.** Roads in and around Troy may be maintained by the City of Troy, the Road Commission for Oakland County, or the Michigan Department of Transportation, depending on the location. I-75 and I-696 are state highways, while responsibility for other roads and intersections must be verified individually. Governmental agencies are generally protected by immunity, subject to statutory exceptions. Michigan’s highway exception, MCL 691.1402, may permit qualifying claims involving a failure to maintain a highway in reasonable repair. However, claims involving traffic signals, road signs, or visibility conditions do not automatically fall within that exception. Under MCL 691.1404, a person pursuing a qualifying highway-defect claim generally must provide written notice within 120 days of the injury, subject to specific statutory exceptions. Claims against the state may also involve Court of Claims procedures under MCL 600.6431. Determining the responsible agency and the applicable notice requirements promptly is important.
+
+**Government vehicles.** Accidents involving publicly owned vehicles, including police vehicles, fire vehicles, school buses, public transit buses, and municipal maintenance trucks, may raise questions under Michigan’s governmental immunity laws. MCL 691.1405 provides an exception involving negligent operation of government-owned motor vehicles. Whether the exception applies depends on the vehicle, the conduct, and the circumstances of the collision. See our [bus accident page](/personal-injury/bus-accidents).
+
+**The 52-4 District Court and Sixth Judicial Circuit Court.** The 52nd District Court, Fourth Division, is located at 520 W. Big Beaver Road and serves Troy and Clawson. It generally handles civil disputes involving $25,000 or less, including qualifying mini-tort vehicle-damage claims. Larger civil injury lawsuits arising in Oakland County may be heard in the Sixth Judicial Circuit Court in Pontiac, provided the court and venue requirements are satisfied. Wrongful death cases may also require probate proceedings for estate administration, and certain settlements involving minors require court approval. When an accident occurs near the Oakland–Macomb county boundary, the proper court depends on Michigan’s jurisdiction and venue rules, including MCL 600.1629.
+
+**The hospitals.** People injured in Troy may receive treatment at Corewell Health Beaumont Troy Hospital, located at 44201 Dequindre Road, or at other hospitals serving Oakland County. Corewell Health William Beaumont University Hospital in Royal Oak is a Level I adult trauma center. Medical records, diagnostic imaging, treatment notes, and available emergency medical services documentation can become important evidence in an injury claim.
+
+## The cases we handle in Troy
+
+- [Car accidents](/personal-injury/auto-accidents) and [no-fault benefit claims](/personal-injury/car-accident-insurance)
+- [Truck accidents](/personal-injury/truck-accidents) on I-75 and I-696
+- [Motorcycle](/personal-injury/motorcycle-accidents), [pedestrian](/personal-injury/pedestrian-accidents), and [bicycle](/personal-injury/bicycle-accidents) crashes
+- [Bus accidents](/personal-injury/bus-accidents) involving SMART and the school districts
+- [Rideshare accidents](/personal-injury/rideshare-accidents) at Somerset, the hotels, and the office towers
+- [Drunk driving](/personal-injury/drunk-driving-accidents) crashes and dram shop claims against the Big Beaver restaurants and bars
+- [Slip and fall](/personal-injury/slip-and-fall) and [premises liability](/personal-injury/premises-liability) at Somerset, Oakland Mall, the towers, and the apartment and condominium complexes
+- [Tenant injuries](/personal-injury/tenant-injuries)
+- [Dog bites](/personal-injury/dog-bites)
+- [Nursing home abuse and neglect](/personal-injury/nursing-home-abuse)
+- [Medical malpractice](/personal-injury/medical-malpractice) and [birth injuries](/personal-injury/birth-injuries) at Corewell Health Troy
+- [Workers’ compensation](/personal-injury/workers-compensation) and third-party claims for the commuting workforce
+- [Product liability](/personal-injury/product-liability)
+- [Wrongful death](/personal-injury/wrongful-death)
+- [Brain injuries](/personal-injury/brain-injury) and [spinal cord injuries](/personal-injury/spinal-cord-injury)
+- Social Security disability and long-term disability claims for eligible Troy residents and workers who cannot return to work. Many private-sector employer-sponsored long-term disability plans are governed by ERISA and have specific administrative appeal deadlines.
+
+## Deadlines that apply to Troy claims
+
+| Claim | Deadline | Statute |
+| --- | --- | --- |
+| Negligence (crash, fall, dog bite) | 3 years from injury | MCL 600.5805(2) |
+| Written notice to your no-fault insurer | 1 year from the crash | MCL 500.3145(1) |
+| Suit for unpaid no-fault benefits | Recovers only the year before suit | MCL 500.3145(2) |
+| Road, signal, or sidewalk defect against the City of Troy or the RCOC | Written notice within 120 days | MCL 691.1404 |
+| Defect on I-75, I-696, or Stephenson Highway (MDOT) | Written notice within 120 days for a qualifying highway defect, filed in the Court of Claims | MCL 691.1404 |
+| Dram shop (bar that served a drunk driver) | Suit generally within two years; written notice to defendants within 120 days after entering an attorney-client relationship to pursue a dram shop claim, subject to statutory exceptions | MCL 436.1801 |
+| Medical malpractice | 2 years (6-month discovery rule), 182-day notice of intent first | MCL 600.5805(8), 600.5838a, 600.2912b |
+| ERISA long-term disability appeal | 180 days from the denial | 29 CFR 2560.503-1 |
+| Injured person under 18 | Clock starts at 18 | MCL 600.5851(1) |
+
+## Why Troy clients call ATLAW
+
+- 13 years, more than 10,000 cases, more than $100 million recovered for clients across southeast Michigan.
+- Regular practice in the 52-4 District and the Sixth Circuit, and with the insurers, the City of Troy, MDOT, SMART, and the property owners and employers that defend Troy claims.
+- Every household policy reviewed for UM/UIM before the claim is valued, and the UIM consent handled before any settlement.
+- We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
+- No fee unless we recover money for you. The first conversation is free. ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs.
+- Languages: English, Arabic, French, Mandarin, Urdu, and Spanish.
+## Frequently asked questions
+
+**Where are the crashes in Troy?** Troy’s major traffic corridors include I-75, Big Beaver Road, Rochester Road, Crooks Road, Maple Road, and Fourteen Mile Road. These roads carry commuter, retail, and commercial traffic, and crashes can occur at intersections, freeway entrances, and business driveways. According to Michigan Traffic Crash Facts, Oakland County recorded 35,951 crashes, 9,139 injuries, and 68 fatalities in 2024.
+
+**I was hurt because of a signal problem or road defect on Big Beaver or Rochester. Who do I claim against?** The responsible governmental agency depends on the precise location and nature of the condition. Different agencies may maintain the roadway and its traffic-control devices. Governmental immunity also limits which claims can proceed. For a qualifying highway-defect claim, Michigan law generally requires written notice within 120 days under MCL 691.1404. An attorney can investigate the responsible agency, applicable immunity exception, and notice requirements.
+
+**The other driver’s insurer offered their $250,000 policy limit. Should I take it?** Not before checking your own underinsured motorist coverage and getting your insurer’s written consent to settle. Accepting the liability limit without consent can forfeit the UIM claim under most policies. A lawyer can sequence the two claims so you recover both.
+
+**I fell at Somerset or in a Big Beaver office tower. Who is responsible?** Potentially responsible parties may include the property owner, property manager, or a contractor responsible for the dangerous condition. Liability depends on who owed a legal duty, whether that duty was breached, and whether the breach caused the injury. In Kandil-Elsayed v F & E Oil, Inc. (2023), the Michigan Supreme Court held that an open and obvious hazard does not automatically eliminate a property possessor’s duty to an invitee. The condition may remain relevant to breach and comparative fault. Photographs, incident reports, witness information, and available surveillance footage can be important evidence. If the injury occurred in the course of employment, workers' compensation or a separate third-party claim may also be relevant.
+
+**Where would my Troy injury case be filed?** Claims up to $25,000, including mini tort claims, in the 52-4 District Court on Big Beaver; injury suits over $25,000 in the Sixth Judicial Circuit Court in Pontiac.
+
+**I was treated at Corewell Health Troy and something went wrong. Is that a malpractice case?** Possibly. Medical malpractice has a two-year deadline with a six-month discovery rule, a mandatory 182-day notice of intent before suit (MCL 600.2912b), an affidavit of merit, and the noneconomic damage caps in MCL 600.1483 ($596,400 for 2026, or $1,065,000 for the most severe injuries). Cases are expert-driven and screened carefully.
+
+**How much does it cost to hire you?** Nothing up front, and no fee unless we recover money for you. Michigan caps contingency fees in personal injury cases at one-third of the recovery (MCR 8.121).
+
+**How long do I have?** Three years for most injury suits, one year to notify your no-fault insurer in writing, two years for medical malpractice, and as little as 120 days for a claim against the City of Troy.
+
+## Talk to a Troy injury lawyer
+
+If you or a family member was injured anywhere in Troy, call **(313) 406-7606** or send the form on this page. We will tell you what your claim is, which insurers and agencies are involved, which deadlines apply, and what to do next. The conversation is free, and there is no fee unless we recover money for you.
+
+*This page is general information about Michigan law as of October 2026 and is not legal advice. Crash figures are from the Michigan State Police, Michigan Traffic Crash Facts 2024. Results depend on the facts of each case, and past results do not guarantee a future outcome.*

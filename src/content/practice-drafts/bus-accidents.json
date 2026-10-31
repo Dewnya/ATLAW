@@ -1,0 +1,1342 @@
+{
+ "slug": "bus-accidents",
+ "section": "personal-injury",
+ "status": "draft",
+ "seoTitle": "Michigan Bus Accident Lawyer – DDOT, SMART, School & Charter Bus Injuries",
+ "seoDescription": "Injured on or by a bus in Michigan? Claims against SMART need written notice in 60 days; DDOT, school, and charter buses each have their own rules. ATLAW explains them. Free review.",
+ "h1": "Michigan Bus Accident Lawyer",
+ "tagline": "Who ran the bus decides the rules. A SMART claim has a 60-day notice. A charter company has a $5 million federal minimum. Know which one you have.",
+ "primaryKeyword": "michigan bus accident lawyer",
+ "secondaryKeywords": [
+  "bus accident lawyer michigan",
+  "detroit bus accident lawyer",
+  "ddot bus accident",
+  "smart bus accident claim",
+  "school bus accident lawyer michigan",
+  "charter bus accident michigan"
+ ],
+ "intro": [
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "A bus crash is not one kind of case. It is five, and the first question a lawyer asks is who ran the bus. A passenger hurt on a DDOT bus in Detroit, a SMART bus in Oakland County, a school bus in Dearborn, a charter bus on I-94, and a casino shuttle on Michigan Avenue each have a different defendant, a different insurer, and a different deadline. One of those deadlines is 60 days. Another is six months. A claim that treats a bus like a car can miss both."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "This page explains, for each type of bus, who pays your medical bills, who you can sue, the immunity and notice rules that apply to government-run buses, the federal rules that apply to charter and intercity buses, what happens when the bus driver was not at fault, and what to do about the evidence, which on a modern bus is extensive and short-lived."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across Wayne, Oakland, Macomb, and Washtenaw counties. Bus cases are handled on contingency: no fee unless we recover money for you, and the first conversation is free."
+    }
+   ]
+  }
+ ],
+ "sections": [
+  {
+   "id": "bus-and-heavy-vehicle-crashes-in-michigan-2024",
+   "heading": "Bus and heavy-vehicle crashes in Michigan, 2024",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Michigan State Police report buses together with heavy trucks. The figures show the scale and the pattern: daytime, weekday, multi-vehicle crashes that injure far more people than they kill."
+      }
+     ]
+    },
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Measure"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "2024 figure"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "Heavy truck and bus crashes, statewide"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "15,888 (5.5% of all crashes; up 5.3% from 2023)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "People killed / injured in those crashes"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "110 / 3,613 (335 suspected serious injuries)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Heavy truck and bus crashes, Wayne County"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "3,916"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Oakland / Macomb"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "2,081 / 1,257"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Pedestrians hit by heavy trucks or buses"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "48, of whom 10 died"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Bicyclists hit by heavy trucks or buses"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "29, of whom 1 died"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "School-bus-related crashes"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "1,628 people involved; no one killed on a school bus; 10 suspected serious injuries, 18 minor, 71 possible"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Fatal crash rate, heavy trucks and buses"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "1.5 per 100 million miles, against 1.0 for all vehicles"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Source: Michigan Traffic Crash Facts 2024, Heavy Trucks and Buses report and fact sheets. Wayne County, home to DDOT, the largest SMART routes, and the Detroit People Mover and QLine corridors, has more of these crashes than Oakland and Macomb combined."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "who-pays-a-bus-passengers-medical-bills",
+   "heading": "Who pays a bus passenger’s medical bills",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Michigan no-fault covers bus passengers, but the usual rule for vehicles that carry passengers for hire, that the vehicle’s insurer pays, has a list of exceptions that covers most buses. Under MCL 500.3114(2), a passenger on a school bus, a bus run by a common carrier certified by the Michigan Department of Transportation, a bus in a government-sponsored transportation program (DDOT, SMART, the Ann Arbor Area Transportation Authority), or a bus run by or for a nonprofit claims PIP benefits first from their own or a household auto policy. The bus’s insurer pays only if the passenger has no other policy. Under the same section, a passenger on a private shuttle, a limousine bus, or another for-hire vehicle that is not on the exception list claims from that vehicle’s insurer. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "ATTORNEY CHECK",
+         "v": "application of the 500.3114(2) exceptions to charter companies"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The practical order for most bus passengers:"
+      }
+     ]
+    },
+    {
+     "t": "ol",
+     "items": [
+      [
+       {
+        "t": "text",
+        "v": "Your own no-fault policy."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "A policy of a spouse or relative you live with (MCL 500.3114(1))."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "The bus operator’s insurer, or the operator itself: DDOT and SMART are self-insured, so the PIP claim is made directly to the agency’s claims office. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "ATTORNEY CHECK",
+          "v": "self-insured status of DDOT and SMART"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "The Michigan Assigned Claims Plan, if none of the above applies (MCL 500.3172)."
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Benefits are the same whoever pays: medical expenses, 85% of lost wages up to $7,455 a month (crashes on or after October 1, 2026), $20 a day for replacement services, attendant care, and the one-year written notice rule (MCL 500.3145). See our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/car-accident-insurance",
+       "c": [
+        {
+         "t": "text",
+         "v": "no-fault insurance claim"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " page for the full benefit schedule and the insurer’s 30-day payment duty."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-claim-against-the-bus-operator-five-kinds-of-bus-five-sets-of-rules",
+   "heading": "The claim against the bus operator: five kinds of bus, five sets of rules",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Pain and suffering and economic losses PIP does not cover come from a claim against whoever was at fault: the bus operator, another driver, or both. For the bus operator, the rules depend on who it is. The injury threshold is the same in every case: death, permanent serious disfigurement, or a serious impairment of body function (MCL 500.3135)."
+      }
+     ]
+    },
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Bus"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Who you sue"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "The rules that apply"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "DDOT"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "v": " (Detroit Department of Transportation)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "The City of Detroit"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "A city is immune from most negligence claims, but the motor vehicle exception makes it liable for its employees’ negligent operation of a city-owned vehicle (MCL 691.1405). The city is self-insured. "
+        },
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "placeholder",
+           "kind": "ATTORNEY CHECK",
+           "v": "any city charter or ordinance notice requirement for DDOT claims"
+          }
+         ]
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "SMART"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "v": " (Suburban Mobility Authority for Regional Transportation; also AAATA/TheRide, and other authorities under the Metropolitan Transportation Authorities Act)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "The authority"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Same motor vehicle exception, plus a statutory trap: written notice of any injury claim must be served on the authority within 60 days of the occurrence (MCL 124.419). The Michigan Supreme Court enforced the 60-day rule as written in Atkins v SMART (2012), where a no-fault benefits application sent to SMART’s insurer did not count as notice. Suit must be brought in a county where the authority operates"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "School buses"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "v": " (districts, intermediate districts, and contractors such as private student-transportation companies)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "The district (a governmental agency) or the private contractor"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Districts fall under the motor vehicle exception (MCL 691.1405); private contractors are ordinary defendants. Drivers who pass a stopped school bus with its red lights flashing violate MCL 257.682. A child’s lawsuit deadline is extended to age 19, but the one-year no-fault notice is not"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Charter and intercity buses"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "v": " (Greyhound, Indian Trails, Megabus, casino, church, and tour charters)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "The bus company, and often the driver"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Federal motor carrier rules: a minimum of $5 million in liability coverage for buses seating 16 or more (49 CFR 387.33), commercial driver’s licenses with a passenger endorsement (Part 383), hours-of-service limits (Part 395), drug and alcohol testing (Part 382), and inspection and maintenance records (Part 396). A violation is evidence of negligence, and the records are discoverable"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Shuttles, medical transport, senior and hotel buses, party buses"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "The operator"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Ordinary negligence; commercial auto policy; Michigan’s for-hire rules on PIP (MCL 500.3114(2)) often make the vehicle’s insurer the PIP payer"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "State-owned buses"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "v": " (university transit such as University of Michigan buses, MDOT vehicles)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "The state entity"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Claims go to the Michigan Court of Claims, with a written notice of intention to file within six months of the injury (MCL 600.6431). "
+        },
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "placeholder",
+           "kind": "ATTORNEY CHECK",
+           "v": "current notice period under 600.6431 as amended"
+          }
+         ]
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The 60-day and six-month notices are the reason the bus type is the first question. A person who waits for medical treatment to stabilize before calling a lawyer has, in a SMART case, usually waited too long."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-bus-operators-duty-of-care-and-the-sudden-stop-problem",
+   "heading": "The bus operator’s duty of care, and the sudden-stop problem",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "A bus is a common carrier, and Michigan measures its duty by the care a reasonably careful carrier would use given the hazards of carrying standing and seated passengers (Frederick v City of Detroit, 1963). "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "ATTORNEY CHECK",
+         "v": "current statement of the standard"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " That duty covers how the bus is driven, how passengers are allowed to board and alight, wheelchair securement, and whether the driver waited for an elderly or disabled passenger to be seated."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Injuries from sudden stops and starts are the most common bus passenger claim and the hardest. Michigan courts have long held that an ordinary jerk or stop, of the kind bus passengers expect, is not negligence; the movement must be unusual or extraordinary, or caused by the driver’s own negligence, such as following too closely or braking late for a light. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "ATTORNEY CHECK",
+         "v": "“jerk and jolt” case law"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " The onboard video, the bus’s event recorder, and the driver’s prior incident history turn “the bus stopped suddenly” into a case or confirm that it is not one."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "when-another-driver-caused-the-bus-crash",
+   "heading": "When another driver caused the bus crash",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Most bus crashes involve another vehicle, and in many of them the other driver was at fault. A bus passenger then has the same claim as any passenger: against the other driver and the vehicle’s owner (MCL 257.401), subject to the threshold and comparative fault (MCL 600.2959). The complication is numbers. One at-fault driver carrying Michigan’s $50,000 per person / $100,000 per crash minimum (MCL 500.3009) may face twenty injured bus passengers sharing the $100,000. In those cases, the claim against the bus operator for its driver’s share of fault, and the passengers’ own underinsured motorist coverage, decide what is recovered. Our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/uninsured-motorist-claims",
+       "c": [
+        {
+         "t": "text",
+         "v": "uninsured motorist"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " and "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/passenger-injury",
+       "c": [
+        {
+         "t": "text",
+         "v": "passenger injury"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " pages cover both."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pedestrians-cyclists-and-drivers-hit-by-a-bus",
+   "heading": "Pedestrians, cyclists, and drivers hit by a bus",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Forty-eight pedestrians were hit by heavy trucks or buses in Michigan in 2024 and ten died. A pedestrian, cyclist, or driver injured by a bus has the claims described above against the operator, including the governmental immunity and notice rules, which apply to anyone suing the agency, not only passengers. The 60-day SMART notice applies to a pedestrian hit at a bus stop as much as to a rider on the bus. No-fault benefits for pedestrians and cyclists follow the non-occupant order (own policy, household policy, the bus’s insurer or self-insured operator, then the Assigned Claims Plan; MCL 500.3115). See our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/pedestrian-accidents",
+       "c": [
+        {
+         "t": "text",
+         "v": "pedestrian accident"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " and "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/bicycle-accidents",
+       "c": [
+        {
+         "t": "text",
+         "v": "bicycle accident"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " pages."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-evidence-on-a-bus-and-how-fast-it-disappears",
+   "heading": "The evidence on a bus, and how fast it disappears",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "A transit bus is one of the best-documented vehicles on the road, for a short time. DDOT and SMART buses carry multiple interior and exterior cameras, GPS and automatic vehicle location data, and event recorders that capture speed, braking, and door status. Charter buses carry electronic logging devices, dash cameras, and maintenance files required by federal rule. Drivers have training, discipline, and incident histories. Most of this is overwritten or routinely purged within days to weeks unless a written preservation demand reaches the operator. The first letter in a bus case is that demand. "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "placeholder",
+         "kind": "CONFIRM",
+         "v": "the firm sends preservation letters to the operator within days of retention"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-to-do-after-a-bus-crash",
+   "heading": "What to do after a bus crash",
+   "blocks": [
+    {
+     "t": "ol",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Get medical attention and tell the bus driver you were hurt"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " before leaving, so you appear on the incident report and passenger list. Many bus passengers leave the scene unrecorded and then struggle to prove they were aboard."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Note the bus number, route, time, and direction"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", and photograph the bus and the scene."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Get names of other passengers."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " They are witnesses, and in a sudden-stop case they are the proof of how hard the stop was."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Report the crash to your own auto insurer"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", which pays your no-fault benefits first in most bus cases."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Do not give a recorded statement"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " to the bus company, the agency, or any insurer before speaking to a lawyer."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Call a bus accident lawyer immediately if a SMART, AAATA, or state-owned bus was involved."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " The 60-day and six-month notices do not wait."
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-a-michigan-bus-accident-case-is-worth",
+   "heading": "What a Michigan bus accident case is worth",
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "No-fault benefits"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": medical care to the policy limit, wage loss, replacement services, attendant care, and in a death, survivor’s loss and funeral expenses."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The claim against the at-fault parties"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": pain and suffering, loss of enjoyment of life, disfigurement, and economic losses beyond PIP, if the injury meets the threshold."
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Bus cases differ from car cases in the size and nature of the defendant. A transit agency or a charter company with a $5 million policy can pay a catastrophic claim in full, where a minimum-limits driver cannot. The cost is the procedure: immunity rules, notice deadlines, and a defendant with its own investigators and video from the first minute."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "deadlines-for-michigan-bus-accident-claims",
+   "heading": "Deadlines for Michigan bus accident claims",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Deadline"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Time"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Source"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "Written notice of claim to SMART, AAATA, or another transportation authority"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "60 days from the occurrence"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 124.419; Atkins v SMART (2012)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Notice of intention to file against the state or a state university (Court of Claims)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "6 months from the injury "
+        },
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "placeholder",
+           "kind": "ATTORNEY CHECK",
+           "v": ""
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.6431"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Written notice to your no-fault insurer"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "1 year from the crash"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 500.3145(1)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Application to the Assigned Claims Plan"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "1 year from the crash"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 500.3145, 500.3174"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Lawsuit for unpaid PIP benefits"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "1 year from each unpaid benefit"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 500.3145(2)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Lawsuit against a city, school district, or private operator"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "3 years from the crash"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5805(2)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Wrongful death"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "3 years, with saving provisions for the estate"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5805, 600.5852"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Child’s lawsuit against the at-fault party"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Until the child’s 19th birthday (no-fault deadlines not extended)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5851; Joseph v ACIA (2012)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Road-defect claim against a road agency, if a road condition contributed"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "120 days from the injury"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 691.1404"
+        }
+       ]
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "why-metro-detroit-bus-passengers-call-atlaw",
+   "heading": "Why metro Detroit bus passengers call ATLAW",
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Thirteen years, more than 10,000 cases, more than $100 million recovered."
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The bus type is identified on the first call"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", and the 60-day or six-month notice goes out before anything else. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": ""
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Preservation letters within days"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " for video, vehicle data, and driver records. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": ""
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Government and federal-carrier cases handled in-house"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": DDOT, SMART, school districts, and charter companies. "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "placeholder",
+          "kind": "CONFIRM",
+          "v": "governmental-immunity cases handled in-house"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Dearborn, and the whole metro area."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Languages."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "No fee unless we recover."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs. No cost for the first conversation."
+       }
+      ]
+     ]
+    }
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "I was hurt on a DDOT bus. Who pays my medical bills?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Your own or a household no-fault policy first (MCL 500.3114(2) exception for government-sponsored buses). If you have none, the City of Detroit, which is self-insured, or the Assigned Claims Plan. Written notice within one year."
+    }
+   ]
+  },
+  {
+   "question": "Can I sue the City of Detroit or SMART for a bus crash?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Yes, under the motor vehicle exception to governmental immunity (MCL 691.1405), if your injury meets the serious impairment threshold. For SMART and other transportation authorities, written notice of the claim must reach the authority within 60 days (MCL 124.419)."
+    }
+   ]
+  },
+  {
+   "question": "What happens if I miss the 60-day SMART notice?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "The claim is barred. In Atkins v SMART (2012), the Michigan Supreme Court dismissed a passenger’s claim because the only document SMART received in 60 days was a no-fault benefits application sent to its insurer. Call within days, not weeks."
+    }
+   ]
+  },
+  {
+   "question": "The bus stopped short and I fell. Is that a case?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "It depends on why. An ordinary stop is not negligence; a stop caused by the driver following too closely, running a light, or braking for a hazard they should have anticipated can be. Onboard video decides most of these."
+    }
+   ]
+  },
+  {
+   "question": "I was hit by a bus while walking. Do the same rules apply?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Yes. The immunity rules and notice deadlines apply to anyone suing a government operator, including pedestrians at bus stops. Your no-fault benefits come through your household policy, the bus’s operator, or the Assigned Claims Plan."
+    }
+   ]
+  },
+  {
+   "question": "Another car caused the crash. Can I sue that driver?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Yes, as a passenger, against the driver and the vehicle’s owner, subject to the threshold. When many passengers share a minimum-limits policy, the claim against the bus operator and your own underinsured motorist coverage become important."
+    }
+   ]
+  },
+  {
+   "question": "My child was hurt on a school bus. How long do we have?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Three years for the lawsuit, extended to the child’s 19th birthday, but the one-year no-fault notice is not extended (Joseph v ACIA, 2012). If the bus belonged to the district, the motor vehicle exception applies; if to a contractor, ordinary rules."
+    }
+   ]
+  },
+  {
+   "question": "What rules apply to charter and Greyhound-type buses?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Federal motor carrier regulations: $5 million minimum liability coverage for buses seating 16 or more (49 CFR 387.33), driver qualification, hours of service, drug testing, and maintenance records. Violations are evidence of negligence."
+    }
+   ]
+  },
+  {
+   "question": "Does the bus have video of what happened?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Almost always, for a short time. Transit buses carry interior and exterior cameras and event recorders; charter buses carry logging devices and often dash cameras. A written preservation demand must reach the operator before the footage is overwritten."
+    }
+   ]
+  },
+  {
+   "question": "How much is a bus accident claim worth?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "It depends on the injury, the medical evidence, fault, and the defendant’s coverage. Bus operators carry larger policies than most drivers, so serious injuries are more often fully compensated, provided the notice and immunity rules are met."
+    }
+   ]
+  }
+ ],
+ "cta": {
+  "id": "talk-to-a-michigan-bus-accident-lawyer",
+  "heading": "Talk to a Michigan bus accident lawyer",
+  "blocks": [
+   {
+    "t": "p",
+    "c": [
+     {
+      "t": "text",
+      "v": "If you were injured on or by a bus anywhere in Michigan, call "
+     },
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "text",
+        "v": "(313) 406-7606"
+       }
+      ]
+     },
+     {
+      "t": "text",
+      "v": " or send the form on this page. We identify who ran the bus, give the notices the law requires, preserve the video and vehicle data, and tell you what your claims are worth. We respond within one business day, and there is no fee unless we recover money for you."
+     }
+    ]
+   }
+  ]
+ },
+ "wordCount": 2725,
+ "openItems": 11,
+ "source": {
+  "file": "B1-20_Michigan-Bus-Accident-Lawyer.docx",
+  "delivered": "2026-10-12"
+ }
+}

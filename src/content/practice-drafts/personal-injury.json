@@ -1,0 +1,1460 @@
+{
+ "slug": "personal-injury",
+ "section": "personal-injury",
+ "status": "draft",
+ "seoTitle": "Michigan Personal Injury Lawyer – Dearborn Injury Attorneys",
+ "seoDescription": "Injured in Michigan? ATLAW explains whether you have a case, what you can recover, the deadlines, and what it costs. Serving clients for 13 years. Free consultation.",
+ "h1": "Michigan Personal Injury Lawyer",
+ "tagline": "Whether you have a case, what it is worth, and how long you have, explained by a Dearborn firm that has handled more than 10,000 of them.",
+ "primaryKeyword": "michigan personal injury lawyer",
+ "secondaryKeywords": [
+  "michigan personal injury attorney",
+  "personal injury lawyer near me",
+  "dearborn personal injury lawyer",
+  "michigan injury law firm",
+  "do i have a personal injury case"
+ ],
+ "intro": [
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "A personal injury case is a claim that someone else’s carelessness hurt you and that the law requires them, usually through their insurer, to pay for it. Most people searching this phrase are not sure yet whether what happened to them is a case. This page is written to answer that first, then to tell you what you can recover, how long you have, what a lawyer costs, and where to go on this site for the specific kind of injury you have."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "ATLAW is a personal injury law firm in Dearborn, founded by Dewnya Bazzi. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients in Wayne, Oakland, Macomb, and Washtenaw counties. Consultations are free and available in English, Arabic, French, Mandarin, Urdu, and Spanish, and we take injury cases on contingency: no fee unless we recover money for you."
+    }
+   ]
+  }
+ ],
+ "sections": [
+  {
+   "id": "do-you-have-a-personal-injury-case-the-four-things-michigan-law-requires",
+   "heading": "Do you have a personal injury case? The four things Michigan law requires",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Every negligence claim in Michigan, whether it is a car crash, a fall, or a surgical error, has to prove the same four elements. (Michigan’s statutory dog-bite claim is different: it does not require proof that the owner was careless.) If you can answer yes to all four, you likely have a case."
+      }
+     ]
+    },
+    {
+     "t": "ol",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Duty."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " The other party owed you a legal duty of care. Every driver owes it to every other road user. A store owes it to customers. A doctor owes it to patients. A landlord owes it to tenants. This element is rarely disputed."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Breach."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " They failed to meet that duty. A driver ran a red light. A store left a spill on the floor for an hour. A surgeon operated on the wrong site. In Michigan, the standard is what a reasonably careful person (or a reasonably competent professional) would have done in the same situation."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Causation."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " The breach caused your injury. This is where insurers fight hardest. They will argue your back pain came from a pre-existing condition, or that you would have been hurt anyway. Medical records dated close to the incident are the answer."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Damages."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " You suffered a real loss: medical bills, lost wages, pain, a changed life. An incident with no injury is not a case, however careless the other party was."
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Michigan adds one more hurdle in car accident cases. Because the state has no-fault insurance, eligible people receive medical and wage-loss benefits through the applicable no-fault coverage regardless of fault, and you can only sue the at-fault driver for pain and suffering if your injury is death, permanent serious disfigurement, or a “serious impairment of body function” under MCL 500.3135. The car accident page explains that threshold in detail. It does not apply to falls, dog bites, medical malpractice, or any case that did not involve a motor vehicle."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-you-can-recover-in-a-michigan-personal-injury-case",
+   "heading": "What you can recover in a Michigan personal injury case",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Michigan law divides compensation into two categories."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Economic damages"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " are losses with a dollar figure: medical bills (past and future), lost wages and lost earning capacity, the cost of household help or in-home care, damaged property, and mileage to treatment. They are proven with records and expert testimony about future needs."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Non-economic damages"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " compensate for what has no receipt: pain, suffering, mental anguish, loss of enjoyment of life, disfigurement, and the effect on your marriage or family. In most Michigan injury cases there is "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "no cap"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " on non-economic damages. A jury decides."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The exception is "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "medical malpractice"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ", where Michigan caps non-economic damages (MCL 600.1483). The cap has two tiers, adjusted every January: for 2026 it is $596,400 for most cases and $1,065,000 for the most severe injuries (permanent brain or spinal cord damage, loss of reproductive ability). Economic damages in malpractice cases are not capped."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "In a "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "wrongful death"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " case, the estate recovers the deceased person’s medical and funeral expenses, the income they would have provided, and the family’s loss of their companionship and guidance. Michigan has no cap on wrongful death damages outside the malpractice context."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Punitive damages"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ", meant to punish the wrongdoer, are generally not available in Michigan. What Michigan allows instead are “exemplary damages” in a narrow set of cases involving intentional or malicious conduct. If a website promises you punitive damages in a Michigan negligence case, it is wrong."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-if-you-were-partly-at-fault",
+   "heading": "What if you were partly at fault?",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Michigan uses "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "modified comparative negligence"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " (MCL 600.2959) in negligence claims; it does not apply to Michigan’s statutory dog-bite claims. Your recovery is reduced by your percentage of fault. If you are found 20% responsible for a fall because you were looking at your phone, you recover 80% of your damages. If you are found "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "more than 50%"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " at fault, you cannot recover non-economic damages at all, though you can still recover economic damages reduced by your share. Insurers assign fault to injured people as a negotiating tactic; a lawyer’s first job is often to push that percentage down with evidence."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "how-long-you-have-michigan-personal-injury-deadlines",
+   "heading": "How long you have: Michigan personal injury deadlines",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The statute of limitations is the date after which a court will not hear your case no matter how strong it is. Michigan’s general rule is three years, but several common situations have shorter deadlines that catch people by surprise."
+      }
+     ]
+    },
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "Type of claim"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Deadline"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Source"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "Most injury claims (car crash, fall, dog bite, product)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "3 years from the injury"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5805(2)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Medical malpractice"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "2 years from the malpractice, or 6 months from when you discovered it, with a 6-year outer limit; a Notice of Intent must be sent 182 days before filing"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5805(8), 600.5838a, 600.2912b"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Wrongful death"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "3 years from the death (with a limited extension for the estate’s representative)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5805, 600.5852"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "No-fault (PIP) benefits after a crash"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Written notice to your insurer within 1 year; unpaid benefits recoverable only 1 year back from filing"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 500.3145"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Claims against a city, county, or the state (a government vehicle, a defective road or sidewalk, a public building)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Written notice within 120 days, served on the correct agency and officer; the notice must state the injury, the defect, and the witnesses"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 691.1404, 691.1406"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Injured person under 18"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Generally at least 1 year after the 18th birthday"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5851"
+        }
+       ]
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Two practical points. First, the deadline is for "
+      },
+      {
+       "t": "em",
+       "c": [
+        {
+         "t": "text",
+         "v": "filing a lawsuit"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ", not for calling a lawyer. A case filed on day 1,094 of 1,095 is a case nobody had time to build. Second, the governmental notice deadlines are the ones that most often end otherwise valid claims. A fall on a city sidewalk, a crash with a DDOT bus or a county plow, an injury in a public school: 120 days, in writing, to the right office, or the claim is gone."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-a-michigan-personal-injury-lawyer-costs",
+   "heading": "What a Michigan personal injury lawyer costs",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "ATLAW handles injury cases on a "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "contingency fee"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ". You pay nothing to start, nothing while the case is pending, and nothing at all unless we recover money for you. The fee is a percentage of the recovery, agreed in a written contract before any work begins. Michigan court rules (MCR 8.121) cap contingency fees in personal injury cases at one-third of the net amount recovered. ATLAW’s fee is 33.3% of the recovery after case costs are deducted. The firm advances case costs such as filing fees, records, and expert fees, so you pay nothing up front."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "If there is no recovery, you owe no fee and no costs; ATLAW absorbs the case costs it advanced."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "One more cost most firms do not explain: "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "liens"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ". If your health insurer, Medicare, Medicaid, or a hospital paid for treatment related to the injury, they are entitled to reimbursement from your settlement. Part of a lawyer’s work is negotiating those liens down, which often adds more to what you take home than the fee costs. Ask any lawyer you interview how they handle liens."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "what-to-do-after-an-injury-in-michigan",
+   "heading": "What to do after an injury in Michigan",
+   "blocks": [
+    {
+     "t": "ol",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Get medical care now and follow the treatment plan."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Your health comes first, and the medical record is the spine of the case. Gaps in treatment are the insurer’s favorite argument."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Report it."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " A crash to the police (form UD-10). A fall to the store manager or property owner, in writing. A workplace injury to your employer within 90 days (Michigan workers’ compensation requires it). A dog bite to the local animal control office."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Document the scene before it changes."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Photographs of the hazard, the vehicles, the dog, the sidewalk. Names and numbers of witnesses. The spill gets mopped and the pothole gets filled; the photo is what remains."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Write down what happened"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " while you remember it, including what the other party said. “I’m so sorry, I didn’t see you” is evidence."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Do not give a recorded statement"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " to the other side’s insurer, and do not post about the incident or your recovery on social media. Both will be used against you."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Keep everything"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": bills, receipts, pay stubs showing missed work, a daily note of pain and what you could not do."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Talk to a lawyer before you sign anything."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Signing a settlement release can waive the claims it covers. A free consultation tells you whether an offer is fair."
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-personal-injury-cases-atlaw-handles",
+   "heading": "The personal injury cases ATLAW handles",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Each case type below has its own page with the Michigan law, deadlines, and evidence specific to it. Start with the one that matches what happened to you. "
+      },
+      {
+       "t": "em",
+       "c": [
+        {
+         "t": "text",
+         "v": "(Every item links to its page.)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Motor vehicle accidents"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Car accidents"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": the applicable no-fault benefits, and when you can sue the other driver."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Truck accidents"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": federal safety rules, multiple liable parties, and evidence that disappears within weeks."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Motorcycle accidents"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": Michigan’s helmet law affects your no-fault medical benefits."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Pedestrian accidents"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": who pays no-fault benefits when the injured person was not in a car."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Uber and Lyft accidents"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": different insurance coverage depending on app status and the trip stage."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Bicycle"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " and "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "bus accidents"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "distracted"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " and "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "drunk driving"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " crashes, "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "passenger injuries"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "uninsured and underinsured motorist claims"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", and "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "insurance claim disputes"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": "."
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Injuries on someone else’s property"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Slip and fall accidents"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": Michigan’s 2023 Supreme Court decision in "
+       },
+       {
+        "t": "em",
+        "c": [
+         {
+          "t": "text",
+          "v": "Kandil-Elsayed"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " changed the “open and obvious” rule that used to defeat most of these cases."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Premises liability"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": negligent security, falling merchandise, unsafe stairs and parking lots."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Sidewalk injuries"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " and "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "tenant injuries"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": municipal immunity and landlord duties under Michigan’s housing law."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Dog bites"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": Michigan’s strict-liability statute means you do not have to prove the owner was careless."
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Medical negligence"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Medical malpractice"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": the two-year deadline, the Notice of Intent requirement, the damages cap, and the affidavit of merit a lawyer must file with the complaint."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Birth injuries"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ", including cerebral palsy, Erb’s palsy, and shoulder dystocia."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Hospital mistakes"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " and "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "anesthesia errors"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": "."
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Catastrophic injury and death"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Wrongful death"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": who can bring the claim, what the family recovers, and the three-year deadline."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Brain injuries"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " and "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "spinal cord injuries"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": the cases where future care costs drive the value."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Nursing home abuse and neglect"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": falls, pressure sores, medication errors, and the facility’s duty under state and federal rules."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Product liability"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": defective vehicles, parts, drugs, and consumer products."
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Work and benefits"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Workers’ compensation"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": wage-loss and medical benefits for on-the-job injuries, with no need to prove fault."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Social Security Disability"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": applications, denials, and hearings at the Detroit, Livonia, and Oak Park hearing offices."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Long-term disability insurance claims"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " and "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "VA benefit claims"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": "."
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "personal-injury-in-metro-detroit-by-the-numbers",
+   "heading": "Personal injury in metro Detroit, by the numbers",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "In 2024, Wayne, Oakland, Macomb, and Washtenaw counties recorded 118,110 traffic crashes that injured 34,424 people and killed 350, according to Michigan State Police. The four counties hold about 90 Medicare-certified nursing homes in the cities ATLAW serves, five major hospital systems, and the Social Security Administration’s three metro Detroit hearing offices. These are where the firm’s cases come from, and the site has a page for each city: Detroit, Dearborn, Southfield, Warren, Sterling Heights, Livonia, Canton, Ann Arbor, and all 24 cities. "
+      },
+      {
+       "t": "em",
+       "c": [
+        {
+         "t": "text",
+         "v": "(Each links to its city page.)"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "why-people-in-metro-detroit-call-atlaw",
+   "heading": "Why people in metro Detroit call ATLAW",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "A Dearborn firm for 13 years."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Founded by Dewnya Bazzi, with an office at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. The attorney who meets you at the consultation handles your case."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "More than 10,000 cases, more than $100 million recovered."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Across all injury practice areas. Every case is different and these figures do not predict the outcome of yours. They show the firm has done this work in these counties, against these insurers, for 13 years."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "No fee unless we win."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " A contingency fee set in writing before we start. Nothing up front, nothing unless there is a recovery."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Honest about whether you need us."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Some injuries resolve, some claims are small enough to handle yourself, and some cases cannot clear Michigan’s legal thresholds. We will tell you which one yours is in the first conversation, for free."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "English, Arabic, French, Mandarin, Urdu, and Spanish."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Consultations, intake, and case updates in the language you are most comfortable in."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How long do I have to file a personal injury lawsuit in Michigan?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Three years from the date of injury for most claims (MCL 600.5805). Medical malpractice is two years. Claims involving a government body require written notice within 120 days. No-fault benefits after a crash require notice to your insurer within one year. Minors generally have until a year after turning 18."
+    }
+   ]
+  },
+  {
+   "question": "How much is my personal injury case worth?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "It depends on the severity and permanence of the injury, your economic losses (medical bills, lost wages, future care), how clearly fault can be proven, and the available insurance. Nobody can give you a number before reviewing the medical records. We will give you an honest range once we have."
+    }
+   ]
+  },
+  {
+   "question": "What does a Michigan personal injury lawyer cost?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "ATLAW works on contingency: no fee unless we recover money for you, and the fee is a percentage of the recovery set in writing before we begin. Michigan caps contingency fees in injury cases at one-third of the net recovery. The consultation is free."
+    }
+   ]
+  },
+  {
+   "question": "Can I still recover if I was partly at fault?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Yes, as long as you were not more than 50% at fault. Your recovery is reduced by your percentage of fault. Above 50%, you lose the right to non-economic damages."
+    }
+   ]
+  },
+  {
+   "question": "Is Michigan a no-fault state for all injuries?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "No. No-fault applies only to motor vehicle accidents. Falls, dog bites, medical malpractice, and other injuries follow ordinary negligence rules: the at-fault party (through their insurer) pays."
+    }
+   ]
+  },
+  {
+   "question": "Does Michigan cap pain and suffering damages?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Only in medical malpractice cases, where the cap was $569,000 (or $1,016,000 for the most severe injuries) in 2024 and is adjusted each year. There is no cap in car accident, premises, dog bite, product, or wrongful death cases."
+    }
+   ]
+  },
+  {
+   "question": "Will my case go to trial?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Most do not. The large majority of Michigan injury claims settle with the insurer before trial, often after a lawsuit is filed but before a trial date. A firm has to be willing to try the case for the insurer to pay fair value, but trial itself is the exception."
+    }
+   ]
+  },
+  {
+   "question": "How long does a personal injury case take?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Simple claims with clear fault and completed treatment can settle in a few months. Most take one to two years, because the value of the case cannot be known until your doctors know how well you will recover. Cases that go to trial take two to three years."
+    }
+   ]
+  },
+  {
+   "question": "What if the person who hurt me has no insurance?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "In a car crash, your own uninsured motorist coverage (if you bought it) and your no-fault PIP benefits apply. In other cases, we look for every potentially responsible party: a property owner’s insurer, an employer, a manufacturer, a bar that served a drunk driver. An uninsured individual with no assets is, realistically, difficult to collect from, and we will tell you if that is the situation."
+    }
+   ]
+  },
+  {
+   "question": "Should I accept the insurance company’s first offer?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Not before a lawyer has reviewed it. First offers come early for a reason: the insurer wants to settle before the full extent of the injury is known. Once you sign the release, the claim is closed permanently, even if you need surgery six months later."
+    }
+   ]
+  }
+ ],
+ "cta": {
+  "id": "talk-to-a-michigan-personal-injury-lawyer",
+  "heading": "Talk to a Michigan personal injury lawyer",
+  "blocks": [
+   {
+    "t": "p",
+    "c": [
+     {
+      "t": "text",
+      "v": "Call "
+     },
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "text",
+        "v": "(313) 406-7606"
+       }
+      ]
+     },
+     {
+      "t": "text",
+      "v": " or send the form below. We respond within one business day, the consultation is free, and there is no fee unless we recover money for you. English, Arabic, French, Mandarin, Urdu, and Spanish. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed."
+     }
+    ]
+   }
+  ]
+ },
+ "wordCount": 2638,
+ "openItems": 0,
+ "source": {
+  "file": "B1-02_Michigan-Personal-Injury-Lawyer.docx",
+  "delivered": "2026-10-12"
+ }
+}

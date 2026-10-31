@@ -1,0 +1,128 @@
+---
+slug: truck-accidents
+section: personal-injury
+city: troy
+status: draft
+seoTitle: Troy, MI Truck Accident Lawyer: I-75, the Stephenson Highway and Maple Road Industrial Corridors, and the Federal Trucking Rules
+seoDescription: Hit by a semi or delivery truck in Troy, Michigan? 2,081 heavy trucks and buses were involved in Oakland County crashes in 2024. How the federal trucking rules, the carrier’s insurance, the evidence that expires, and Michigan no-fault apply to a crash on I-75, Stephenson Highway, Maple, or Big Beaver. Free review. (313) 406-7606.
+h1: Troy, MI Truck Accident Lawyer
+tagline: I-75 carries freight through the middle of Troy, and the industrial corridors along Stephenson Highway, Maple, and the east side ship and receive it all day. When one of those trucks causes a crash, the carrier, the trailer’s owner, and sometimes the shipper are part of the case.
+primaryKeyword: truck accident lawyer troy mi (140/mo)
+secondaryKeywords: truck accident lawyer troy (70), troy truck accident lawyer (50), truck accident attorney troy mi (30), truck accident attorney troy (20), semi truck accident lawyer troy mi (20), troy truck accident attorney (10)
+source: B3-61_Troy-Truck-Accident-Lawyer.docx
+delivered: October 25, 2026 [CONFIRM: Batch 3 delivery date]
+---
+
+## Troy, MI Truck Accident Lawyer
+
+I-75 runs through the middle of Troy, carrying freight between Detroit, the Auburn Hills and Pontiac automotive corridor, Flint, and points north, with interchanges at Fourteen Mile, Rochester, Big Beaver, and Crooks (exits 65 to 72) that feed directly into the city’s industrial areas. Along Stephenson Highway beside the freeway, and in the industrial and office parks along Maple Road, Coolidge, John R, and Dequindre, manufacturers, suppliers, distributors, and service companies receive and ship freight by tractor-trailer and box truck every day. Car haulers serve the dealerships of the Troy Motor Mall, and delivery trucks serve Somerset, Oakland Mall, the Rochester Road retail, and the Big Beaver office towers. In 2024, according to the Michigan State Police, 2,081 heavy trucks and buses were involved in crashes in Oakland County, and 110 people were killed and 3,613 injured in heavy truck and bus crashes statewide.
+
+A truck crash is not a car crash with a larger vehicle. The driver and the carrier are governed by federal safety regulations whose violation is evidence of negligence. The carrier must hold $750,000 or more in insurance. The records that prove the case, the driver’s electronic logs and the truck’s engine data, can be lawfully discarded within months, and the carrier’s insurer will have an investigator on the case within days. ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Boulevard in Dearborn, has handled more than 10,000 cases, and has recovered more than $100 million for clients. Our [Michigan truck accident lawyer page](/personal-injury/truck-accidents) covers the federal rules in full, our [Oakland County truck accident page](/personal-injury/truck-accidents/oakland-county) covers the county, and our [Troy page](/areas-served/troy) covers every kind of injury claim in the city; crashes between passenger vehicles are on our [Troy car accident page](/personal-injury/auto-accidents/troy). The first conversation is free: **(313) 406-7606**.
+
+## Truck crashes, 2024
+
+| Measure | Figure | Source |
+| --- | --- | --- |
+| Heavy trucks and buses in Oakland County crashes | 2,081 | MSP, Heavy Trucks and Buses 2024 |
+| Wayne / Macomb, for comparison | 3,916 / 1,257 | MSP 2024 |
+| Michigan crashes involving heavy trucks and buses | 15,888 (5.5% of all crashes; up 5.3% from 15,088 in 2023) | MSP, Heavy Trucks and Buses 2024 |
+| Killed / injured / suspected serious injuries in those crashes, statewide | 110 / 3,613 / 335 | MSP, Heavy Trucks and Buses 2024 |
+| Oakland County crashes / injured / killed, all vehicles | 35,951 / 9,139 / 68 | MSP 2024 |
+| Minimum carrier insurance | $750,000 general freight; $1 million oil; $5 million hazardous materials | 49 CFR 387.9 |
+| Maximum gross vehicle weight on designated Michigan routes | 164,000 lb (federal Interstate standard: 80,000 lb) | MCL 257.722 |
+
+The MSP count includes trucks over 10,000 pounds and buses, so SMART buses in Troy are part of it; bus crashes are covered on our [bus accident page](/personal-injury/bus-accidents).
+
+## Where Troy truck crashes happen
+
+**I-75 through the city.** I-75 through Troy was rebuilt and widened in the I-75 modernization project. Its truck crashes are rear-end and underride crashes in the stop-and-go at the Big Beaver and Crooks interchanges during the office commute; lane changes into a car in the blind spot on the right side of the cab; merge crashes where trucks enter from the industrial corridors; and rollovers and jackknifes on the ramps when a truck takes them too fast or its load shifts (49 CFR Part 393). Traffic coming north from the I-75/I-696 interchange in Royal Oak and Madison Heights arrives already weaving for the Troy exits.
+
+**Stephenson Highway and the industrial corridors.** Stephenson Highway runs beside I-75 through the city’s industrial area, and the Maple Road, Coolidge, John R, and Dequindre corridors hold more industrial and flex buildings. Tractor-trailers and box trucks turn wide into loading docks and driveways across two lanes; back into docks from the road; stop in a travel lane waiting to enter; and pull out into fast traffic with limited sight lines. When a facility’s dock layout, traffic control, or delivery schedule puts trucks in the road, the facility or its logistics provider may share responsibility with the carrier.
+
+**Car haulers and the dealerships.** The Troy Motor Mall’s dealerships receive vehicles by car-hauler, often unloaded on or beside the road. A car-hauler blocking a lane, a vehicle rolling off a ramp, and a hauler pulling out across traffic are the cases; the dealership, the hauler, and the shipper may each have a role.
+
+**Big Beaver, Rochester Road, and the retail.** Delivery trucks serving Somerset, Oakland Mall, the Rochester Road strips, the office towers, and the hotels and restaurants: wide right turns, trucks backing into service drives, trucks double-parked or stopped in a lane, and crashes with pedestrians at the malls and the restaurant row (see our [pedestrian accident page](/personal-injury/pedestrian-accidents)).
+
+**Whose road it is.** I-75 is MDOT’s; a road-defect claim against the State goes to the Court of Claims, with written notice filed there within 120 days (MCL 691.1404). The Road Commission for Oakland County has jurisdiction over many of Troy’s major roads and operates the city’s traffic signals, and the City maintains its local streets and its own major streets; a claim against the City or the Road Commission takes written notice within 120 days (MCL 691.1404).
+
+## Who is responsible, and who pays
+
+**The carrier, not just the driver.** The motor carrier is responsible for its drivers’ compliance with the Federal Motor Carrier Safety Regulations and is liable for a driver’s negligence in the course of employment. Michigan applies the federal rules to intrastate carriers (MCL 480.11a), so a local hauler running between Troy suppliers and the Auburn Hills plants is held to the same standards as an interstate carrier. The rules that decide truck cases most often:
+
+| Rule | 49 CFR | What it means for the case |
+| --- | --- | --- |
+| Hours of service | Part 395 | 11 hours driving in a 14-hour window after 10 off; 60/70-hour weekly limits; recorded on an electronic logging device. Waiting time at a dock counts as on-duty time. |
+| Driver qualification | Part 391 | CDL, medical certificate, driving record, background check; negligent hiring and retention are claims against the carrier. |
+| Post-crash testing | Part 382 | Alcohol within 8 hours and drugs within 32 after a fatal crash, or an injury or tow-away crash with a citation. |
+| Inspection and maintenance | Part 396 | Pre-trip inspections, defect reports, maintenance records; brake and tire cases are maintenance cases. |
+| Cargo securement | Part 393 | Securement standards, including for vehicles on car-haulers; shifted loads cause rollovers on ramps and spilled cargo on the freeway. |
+| Handheld phone ban; hazardous conditions | 392.82, 392.14 | No handheld phone use; reduce speed or stop in snow, ice, and fog. |
+| Minimum insurance | Part 387 | $750,000 general freight; $1 million oil; $5 million hazardous materials. |
+
+**The owner of the truck or trailer.** In Michigan, a vehicle’s owner is liable for its negligent operation by someone driving with the owner’s consent (MCL 257.401). When the tractor, the trailer, and the driver belong to different companies, which is common in freight, each may be a defendant, although a company in the business of renting or leasing vehicles is generally shielded from owner liability by federal law (49 USC 30106).
+
+**Michigan no-fault still applies to you.** Your own auto insurer pays your medical bills, 85 percent of lost wages up to the monthly cap DIFS sets each year, replacement services, and attendant care regardless of fault (MCL 500.3107), with written notice due within one year (MCL 500.3145(1)). The Michigan Assigned Claims Plan pays if no household policy applies (MCL 500.3172). Your claim against the driver and the carrier for pain and suffering and losses beyond no-fault requires a threshold injury (MCL 500.3135) and must be filed within three years (MCL 600.5805(2)). That claim includes wage loss above the no-fault cap or beyond three years (MCL 500.3135(3)(c)), which for many Troy professionals is a large part of the loss. If you were more than 50 percent at fault, you cannot recover pain-and-suffering damages, and below that your share reduces them (MCL 500.3135(2)(b)). The difference from a car case is the money available: the carrier’s $750,000-plus policy, often with excess coverage above it. See our [no-fault insurance claim page](/personal-injury/car-accident-insurance).
+
+**Other defendants.** The shipper or broker that loaded the trailer or hired an unsafe carrier; the facility or logistics provider whose dock operations contributed; the dealership whose unloading practice put a car-hauler in the road; the maintenance contractor; the manufacturer of a failed component ([product liability](/personal-injury/product-liability)); and, for a government truck (City of Troy, the Road Commission, MDOT, SMART), the agency under the motor vehicle exception to governmental immunity (MCL 691.1405).
+
+**If you were the truck driver.** Workers’ compensation pays your benefits, and your employer usually cannot be sued (MCL 418.131). If you were injured in your employer’s truck, no-fault benefits generally come from the insurer of that truck (MCL 500.3114(3)), coordinated with comp, which is paid first (MCL 500.3109(1)). You can also sue a third party, such as another driver or a facility whose dock operation caused the crash. See our [workers’ compensation page](/personal-injury/workers-compensation).
+
+## The evidence, and how fast it disappears
+
+Carriers must keep hours-of-service records for six months (49 CFR 395.8) and driver inspection reports for three months (49 CFR 396.11); after that the regulations no longer require them. MDOT freeway cameras on I-75, business, dealership, and office cameras along Stephenson, Maple, and Big Beaver, and dash cameras overwrite in days to weeks. The truck’s engine control module and event data recorder can be cleared when it is repaired and returned to service.
+
+The first act in a Troy truck case is a **preservation letter**: to the carrier, its insurer, the tractor and trailer owners, the shipper or broker, and, where the crash happened at or near a facility or dealership, that business and its logistics provider. It demands the ELD and engine data, dash camera footage, the driver’s qualification file and post-crash test results, dispatch records and bills of lading, dock appointment and arrival logs, maintenance files, and the truck itself for inspection. Once a party knows a claim is coming, destroying that evidence exposes it to spoliation sanctions. 
+
+## What to do after a Troy truck crash
+
+1. **Call 911 and get medical care the same day.** Corewell Health Troy Hospital on Dequindre treats many of the city’s injured; Corewell Health William Beaumont University Hospital in Royal Oak, a Level I trauma center, treats others.
+2. **Photograph the truck**: the cab, the trailer, the USDOT number and carrier name on the door, both plates, the load, and the dock, driveway, or dealership if the truck was entering or leaving one.
+3. **Get the police report.** Freeway crashes on I-75 may be worked by the Michigan State Police or the Troy Police Department; the Troy Police work the surface roads. A serious crash may produce a separate commercial vehicle inspection report.
+4. **Do not speak to the carrier’s insurer or its investigator.**
+5. **Report to your own insurer and file the Application for No-Fault Benefits** within the first week.
+6. **Call a lawyer within days**, so the preservation letter goes out before the records expire.
+
+Our [full checklist](/resources/what-to-do-after-an-accident) covers the first day, week, month, and year.
+
+## The courts and deadlines
+
+Most Troy truck cases are filed in the Sixth Judicial Circuit Court (Oakland County Circuit Court) at 1200 N. Telegraph Road in Pontiac. Cases against out-of-state carriers may be filed in or removed to the U.S. District Court for the Eastern District of Michigan, which sits in Detroit. A crash on Dequindre at the Sterling Heights line, or with a Macomb County carrier or defendant, may allow filing in the Sixteenth Circuit in Mount Clemens (MCL 600.1629). Claims against the State go to the Court of Claims; claims up to $25,000 go to the 52nd District Court, Fourth Division, at 520 W. Big Beaver Road. A fatal crash is brought by the estate through the Oakland County Probate Court; see our [Troy wrongful death page](/personal-injury/wrongful-death/troy).
+
+| What | When | Source |
+| --- | --- | --- |
+| Preservation letter to carrier, owners, shipper, facility | Days, before records expire | 49 CFR 395.8 (6 months), 396.11 (3 months) |
+| Written notice of injury to your no-fault insurer | 1 year | MCL 500.3145(1) |
+| Claim against the City of Troy or the Road Commission | Written notice within 120 days for road defects; immunity-act procedures for vehicle claims | MCL 691.1404, 691.1405 |
+| Claim against MDOT or the State | 120 days for a road defect; 6 months for other claims, such as a State vehicle | MCL 691.1404, 600.6431 |
+| Suit against the driver, carrier, and others | 3 years | MCL 600.5805(2) |
+| Wrongful death | 3 years, with the estate’s savings provision | MCL 600.5805(2), 600.5852 |
+
+## Why Troy truck crash victims call ATLAW
+
+- 13 years of Michigan injury practice; more than 10,000 cases; more than $100 million recovered.
+- The preservation letter goes out promptly, including to the facility or dealership when the crash happened at its dock, driveway, or curb.
+- ELD and engine data, FMCSA safety records, and accident reconstruction used to build the case.
+- Investigation costs advanced and recovered only from a settlement or verdict.
+- No fee unless we recover money for you. The first conversation is free.
+
+## Frequently asked questions
+
+**How many truck accidents happen in Troy?** The State does not publish truck crash figures by city. Countywide, 2,081 heavy trucks and buses were involved in Oakland County crashes in 2024, and statewide 15,888 crashes involved a heavy truck or bus.
+
+**I was rear-ended by a semi on I-75 at Big Beaver. Who pays?** Your own no-fault insurer pays your medical bills and lost wages first, regardless of fault. The carrier’s insurer pays for pain and suffering and losses beyond no-fault, including wages above the no-fault cap, once a threshold injury is established. In a rear-end crash, fault is rarely the dispute; the truck’s speed, the driver’s hours, and the following distance in the engine data decide how strong the claim is.
+
+**A truck was stopped in the lane on Maple waiting to get into a dock, and I hit it. Is that my fault?** Not necessarily. Following too closely is usually the claim against the rear driver, but a truck stopped in a travel lane without warning, or a facility whose dock schedule routinely stacks trucks in the road, can carry fault too. The dock logs, the cameras, and the truck’s data decide it.
+
+**A car-hauler was unloading on the road outside a dealership. Who is responsible?** Possibly the hauler, the carrier, and the dealership, depending on who chose where and how the vehicles were unloaded. Photograph the scene, including where the hauler was parked.
+
+**I drive a truck for a Troy company and was hurt in a crash. What are my claims?** Workers’ compensation through your employer, no-fault benefits coordinated with comp, and a lawsuit against any third party who caused the crash.
+
+**Why does the lawyer need to act within days?** Because the records expire: six months for hours-of-service logs, three months for inspection reports, days or weeks for camera footage, and the truck’s electronic data can be cleared on repair.
+
+**Is a truck case worth more than a car case?** The injuries are usually worse and the insurance is usually larger: a $750,000 minimum for a general freight carrier, against $50,000 for a minimally insured car.
+
+## Talk to a lawyer about a Troy truck crash
+
+If you or a family member was hit by a commercial truck anywhere in Troy, call **(313) 406-7606** or send the form on this page. We will send the preservation letter, identify the carrier, the owners, its insurers, and any facility, dealership, or shipper involved, and tell you what your claim is. The review is free, and there is no fee unless we recover money for you.
+
+*This page is general information about Michigan and federal law as of October 2026 and is not legal advice. Crash figures are from the Michigan State Police, Michigan Traffic Crash Facts 2024, including the 2024 Heavy Trucks and Buses report. Results depend on the facts of each case, and past results do not guarantee a future outcome.*

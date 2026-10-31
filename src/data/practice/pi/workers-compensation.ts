@@ -18,11 +18,7 @@ export const workersCompensationData: PracticeAreaPI = {
     "Attorney Dewnya Bazzi handles workers' comp claims from the initial filing through contested hearings before the Michigan Workers' Disability Compensation Agency. She deals with the insurer and the claims process so you can focus on healing.",
     "We work on contingency. You pay nothing unless we recover benefits or a settlement for you.",
   ],
-  caseResults: [
-    { name: "James T.", initials: "JT", caseType: "Construction Fall", insuranceOffer: 8500, recovered: 92000 },
-    { name: "Carlos M.", initials: "CM", caseType: "Repetitive Strain Injury", insuranceOffer: 15000, recovered: 135000 },
-    { name: "Michelle W.", initials: "MW", caseType: "Factory Equipment Injury", insuranceOffer: 28000, recovered: 225000 },
-  ],
+  caseResults: [], // firm-approved results only (none supplied yet)
   steps: [
     { number: 1, title: "Contact ATLAW", description: "Call us for a free consultation. We'll review your situation and explain your rights under Michigan workers' comp law." },
     { number: 2, title: "Report the Injury", description: "Notify your employer in writing within 90 days. We help you document the report properly to protect your claim." },
@@ -53,11 +49,7 @@ export const workersCompensationData: PracticeAreaPI = {
       ],
     },
   ],
-  testimonials: [
-    { quote: "[CONFIRM] My claim was denied and I thought I was out of options. ATLAW appealed it and got my benefits reinstated plus back pay. They know the system inside and out.", name: "James T.", initials: "JT", date: "Construction Fall" },
-    { quote: "[CONFIRM] After years of repetitive work, my wrists gave out. The insurance company said it wasn't work-related. Dewnya proved them wrong.", name: "Carlos M.", initials: "CM", date: "Repetitive Strain" },
-    { quote: "[CONFIRM] I was pushed back to work too soon after a factory injury. ATLAW intervened, got me proper treatment, and made sure I got the wage benefits I was owed.", name: "Michelle W.", initials: "MW", date: "Factory Injury" },
-  ],
+  testimonials: [], // pages use the shared Google reviews (data/testimonials.ts)
   faqs: [
     { question: "Can I sue my employer for a workplace injury?", answer: "Generally no. Michigan's workers' compensation system is the exclusive remedy for workplace injuries, meaning you receive benefits in exchange for giving up the right to sue your employer. However, if a third party (a subcontractor, equipment manufacturer, or property owner) contributed to your injury, you may have a separate lawsuit against them." },
     { question: "What benefits am I entitled to under workers' comp?", answer: "You may be entitled to payment of all reasonable medical treatment, wage loss benefits (80% of your after-tax average weekly wage), vocational rehabilitation, specific loss benefits for permanent impairments, and in fatal cases, survivor benefits for your dependents." },
@@ -77,12 +69,7 @@ export const workersCompensationData: PracticeAreaPI = {
     { slug: "premises-liability", title: "Premises Liability / Slip & Fall" },
     { slug: "wrongful-death", title: "Wrongful Death" },
   ],
-  relatedCases: [
-    { amount: 92000, caseType: "Construction Fall", county: "Wayne County" },
-    { amount: 135000, caseType: "Repetitive Strain", county: "Oakland County" },
-    { amount: 225000, caseType: "Factory Injury", county: "Macomb County" },
-    { amount: 180000, caseType: "Back Injury", county: "Wayne County" },
-  ],
+  relatedCases: [], // firm-approved results only (none supplied yet)
   resources: [
     { title: "Michigan Personal Injury Overview", href: "/personal-injury" },
     { title: "Auto Accident & No-Fault Claims", href: "/personal-injury/auto-accidents" },

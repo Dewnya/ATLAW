@@ -1,0 +1,1703 @@
+{
+ "slug": "what-to-do-after-an-accident",
+ "section": "resources",
+ "status": "draft",
+ "seoTitle": "What to Do After a Car Accident in Michigan: Checklist, Deadlines, and the Mistakes That Cost You",
+ "seoDescription": "Step by step after a Michigan crash: when the law requires police, how to get the UD-10 report ($15, michigan.gov/tcps), the one-year no-fault deadline, what to say to insurers and what not to, hit-and-run and minor-crash rules, and the three-year limit to sue.",
+ "h1": "What to Do After a Car Accident in Michigan",
+ "tagline": "The first hour decides the police report. The first week decides the medical record. The first year decides whether you have a claim at all.",
+ "primaryKeyword": "what to do after a car accident in michigan",
+ "secondaryKeywords": [
+  "what to do after a car accident",
+  "car accident checklist",
+  "what to do after a car accident not your fault",
+  "what to do after a minor car accident",
+  "michigan car accident report",
+  "steps to take after a car accident"
+ ],
+ "intro": [
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "Michigan recorded 288,880 traffic crashes in 2024, one roughly every two minutes, and 71,316 people were injured in them. Most of those people had never been in a serious crash before and did not know what Michigan law required of them at the scene, what their own insurer would need within a year, or which of the things they said in the first week would be read back to them two years later."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "This page is the checklist. It is organized by time, because the obligations and the risks change: what the law requires at the scene, what protects your claim in the first 24 hours, what builds or ruins the medical record in the first weeks, and the two deadlines, one year and three years, that end claims in Michigan. It covers the situations the general advice skips: a hit-and-run, an uninsured driver, a minor crash, a crash that was not your fault, and a crash as a passenger, pedestrian, or rideshare rider. It cites the statutes so you can check them."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "The page is written for Michigan’s no-fault system, which is unlike most states’: your own insurer pays your medical bills and lost wages regardless of fault, and your right to sue the other driver is limited. If that system is new to you, our "
+    },
+    {
+     "t": "link",
+     "href": "/resources/michigan-no-fault-guide",
+     "c": [
+      {
+       "t": "text",
+       "v": "Michigan no-fault insurance guide"
+      }
+     ]
+    },
+    {
+     "t": "text",
+     "v": " explains it; this page tells you what to do inside it."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients, most of them after crashes like the one that brought you here. This checklist is free to use whether or not you ever call."
+    }
+   ]
+  }
+ ],
+ "sections": [
+  {
+   "id": "the-rules-and-deadlines-at-a-glance",
+   "heading": "The rules and deadlines at a glance",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "What"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Rule"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Source"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "text",
+         "v": "Crashes in Michigan, 2024"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "288,880 crashes; 71,316 injured; 1,099 killed"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Michigan State Police, 2024 Traffic Crash Facts"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Duty to stop"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Every driver involved must stop at or near the scene; leaving a crash that caused injury or death is a crime"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 257.617, 257.617a, 257.618"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Duty to give information and render aid"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Name, address, registration, and license to the other driver or officer; reasonable assistance to the injured"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 257.619"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Duty to report to police"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Immediately, if anyone is injured or killed or property damage appears to total $1,000 or more"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 257.622"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "The crash report"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Form UD-10, filed by the investigating agency; purchased online at michigan.gov/tcps for $15; available up to 10 years"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Michigan State Police Traffic Crash Reporting Unit"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Notify your no-fault insurer of injury"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Written notice within one year of the crash"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 500.3145(1)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Insurer’s deadline to pay no-fault benefits"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "30 days after reasonable proof; 12% interest after"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 500.3142"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Sue for no-fault benefits"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Recovers only expenses from the one year before suit (tolled while a claim is pending)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 500.3145(2)–(3)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Sue the at-fault driver for injuries"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Three years from the crash"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5805(2)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Vehicle damage from the at-fault driver"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Mini tort, up to $3,000"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 500.3135(3)(e)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Hit-and-run or uninsured driver"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Police report promptly; uninsured motorist coverage if you have it; Assigned Claims Plan for no-fault benefits if no policy applies"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Policy terms; MCL 500.3172"
+        }
+       ]
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "at-the-scene-what-michigan-law-requires",
+   "heading": "At the scene: what Michigan law requires",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "1. Stop."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Every driver involved in a crash must stop at the scene or as close as possible without obstructing traffic, under MCL 257.617 (injury or death) and 257.618 (property damage). Leaving the scene of a crash involving personal injury is generally a misdemeanor under MCL 257.617a, while leaving a crash involving serious impairment of a body function or death is a felony under MCL 257.617. If the fleeing driver caused the crash that resulted in another person’s death, the maximum prison sentence is 15 years under MCL 257.617(3). Leaving a property-damage crash is a misdemeanor. Stopping is not optional even when the crash seems minor and the other driver waves you on."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "2. Check for injuries and call 911."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " If anyone is hurt, call 911 first. Under MCL 257.619, every driver must render reasonable assistance to the injured, including arranging transport to a hospital if it is apparent that treatment is needed or the injured person asks. Do not move a seriously injured person unless there is a fire or traffic hazard."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "3. Move out of traffic if you can."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " If the vehicles are drivable and no one is seriously hurt, Michigan law (MCL 257.618a) directs drivers to move them off the roadway or to the shoulder so traffic can pass; a crash in a live lane on I-94 or I-75 is the beginning of a second crash. Turn on hazard lights. If you cannot move the vehicle, get yourself and passengers to the shoulder, away from the roadway, and stay there. On metro Detroit freeways, MDOT’s Freeway Courtesy Patrol responds to disabled vehicles."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "4. Call the police, in almost every case."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Under MCL 257.622, a driver must immediately report to the nearest police agency any crash that injures or kills anyone or that damages property to an apparent total of $1,000 or more. At 2026 repair costs, almost any crash that dents a bumper meets the threshold. Beyond the legal duty, the police report is the document every insurer will ask for, and a crash with no report becomes a dispute about what happened. If police do not respond to a minor crash, which happens in some jurisdictions, go to the nearest station to file the report yourself; the duty is to report, not merely to call. The officer’s report is the "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "UD-10"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ", Michigan’s statewide traffic crash report."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "5. Exchange information, and photograph it."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Under MCL 257.619 you must give, and are entitled to receive: name, address, vehicle registration number, and, on request, driver’s license. Photograph the other driver’s license, registration, insurance card, and license plate rather than copying them by hand. Get the name and badge number of the responding officer and ask how to obtain the report number."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "6. Document the scene before it changes."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Photograph both vehicles from all sides and from a distance that shows their positions; the road, skid marks, debris, and traffic signals; weather and lighting; your own visible injuries. Take video walking around the scene. Note the time. If there are witnesses, get names and phone numbers before they leave; a witness who is not in the police report is a witness you will never find again."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "7. Say what happened. Do not say whose fault it was."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Tell the officer the facts: where you were, what you saw, what happened. Do not say “I’m sorry,” “I didn’t see you,” or “I’m fine.” Apologies become admissions; “I’m fine” becomes the first entry in the insurer’s file. If you are hurt, say so, and say what hurts. If you are not sure, say you are not sure."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "8. Do not leave without the essentials:"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " the other driver’s information, the officer’s name and report number, witness contacts, and your own photographs. If you were taken from the scene by ambulance, have someone obtain the report number from the agency the next day."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-first-24-hours",
+   "heading": "The first 24 hours",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "9. Get medical care, the same day."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Adrenaline masks injury. Concussions, whiplash, and internal injuries commonly present hours or days later. Go to an emergency room or urgent care the day of the crash even if you feel able to go home, and tell every provider it was a motor vehicle accident so that the record and the billing are coded for no-fault. The medical record created in the first 24 hours is the single most important document in any later claim, because it ties the injury to the crash before anyone can argue it came from somewhere else."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "10. Report the crash to your own insurer."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Your policy requires prompt notice, and your own insurer is the one that pays your no-fault benefits. Call the claims line, give the basic facts (date, location, vehicles, police agency, whether you were hurt), and ask for an "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Application for No-Fault Benefits"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ". You do not need to describe your injuries in detail or give a recorded statement at this call. Write down the claim number and the adjuster’s name."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "11. If the other driver fled or was uninsured, act today."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " See the hit-and-run and uninsured driver sections below; both carry short deadlines set by your own policy."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "12. Write down your own account"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " while it is fresh: the route, the speed, the signal, what you saw, what each driver said, who was present. Date it. Memory degrades quickly, and the insurer’s adjuster will be comparing your account in month six to your account on day one."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-first-week",
+   "heading": "The first week",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "13. Order the police report."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Michigan traffic crash reports are purchased online through the Michigan State Police "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Traffic Crash Purchasing System"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " at michigan.gov/tcps (now through MiLogin) for "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "$15"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ", usually available within a week or two of the crash once the agency files it, and for up to ten years afterward. You will need the report number, which the agency provides, or the date, location, and a driver’s name. Read it. If it misstates the facts, the officer can be asked to file a supplemental report, and you can submit your own written account to your insurer."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "14. File the Application for No-Fault Benefits."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " The written application to your own insurer (or to your spouse’s or resident relative’s insurer, or to the Michigan Assigned Claims Plan if no policy applies) is what starts PIP: medical bills, 85 percent of lost wages up to the monthly maximum ($7,201 for the year beginning October 2025), replacement services at $20 a day, and attendant care. Under MCL 500.3145(1) the insurer must receive written notice of the injury within "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "one year"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " of the crash or the claim is barred. File it in the first week, not the eleventh month. Our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/car-accident-insurance",
+       "c": [
+        {
+         "t": "text",
+         "v": "no-fault insurance claim page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " covers the application in detail."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "15. Start the records."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " A folder or a phone note with: every medical visit and provider; every prescription; mileage to appointments; the hours a family member spends helping you; the household tasks others do for you; days missed from work and your pay records; every call and letter with every insurer, with dates and names. Replacement services and attendant care are paid only for what is documented."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "16. Tell your employer, in writing,"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " that you were in a crash and are under medical care, and ask HR for the documentation of your wages and missed time that the work-loss claim will need."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "17. Stay off social media about the crash, your injuries, and your activities."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Insurers review public posts, and a photograph of you at a wedding becomes evidence that you were not disabled that week regardless of how you felt the next day. Do not post about the crash, do not accept new friend requests from strangers, and do not delete existing posts, which can be treated as destroying evidence."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-first-month-insurers-statements-and-releases",
+   "heading": "The first month: insurers, statements, and releases",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "18. Know which insurer is which."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Your "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "own no-fault insurer"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " pays your PIP benefits regardless of fault and is entitled to your cooperation: the application, records, a statement about the crash and your injuries, and an examination under oath if the policy provides for it. The "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "other driver’s insurer"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " owes you nothing until fault and a threshold injury are established, and you owe it nothing: you are not required to give it a recorded statement, sign a medical authorization, or let it inspect your vehicle, and you should not do any of those without advice."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "19. Recorded statements."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Your own insurer may request one; cooperate, but prepare, and consider having counsel present. The other driver’s insurer will call within days, friendly and fast, and ask for “your side of the story” on a recording. Decline. Everything you say will be compared to the police report, your medical records, and your later testimony, and any inconsistency will be used to deny the claim. Give the adjuster your lawyer’s name or, if you have none, say you will respond in writing."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "20. Do not sign a release or accept a quick check."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " The other driver’s insurer may offer a few thousand dollars within weeks in exchange for a release of all claims. A release signed before your injuries are diagnosed ends a claim that may be worth a great deal more. Michigan gives you three years to sue the at-fault driver; there is no reason to settle in month one."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "21. Do not sign a blanket medical authorization"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " for the other driver’s insurer. It allows access to your entire medical history, which will be searched for prior complaints to attribute your injuries to."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "22. Fix the car."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Collision coverage on your own policy pays for your vehicle regardless of fault, less the deductible. If the other driver was at fault, the "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "mini tort"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " under MCL 500.3135(3)(e) lets you recover up to "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "$3,000"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " from that driver or that driver’s insurer for damage your own policy did not pay: your deductible if you carry collision, or the repair cost up to $3,000 if you do not. Send the at-fault driver’s insurer the police report, two repair estimates, and proof of your deductible; most mini tort claims are paid by letter. If not, the claim is filed in small claims court."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-first-year-and-the-three-year-deadline",
+   "heading": "The first year, and the three-year deadline",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "23. Keep treating, and follow the plan."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Gaps in treatment are read as recovery. If you stop going to physical therapy because of cost or transportation, tell the doctor and the insurer why, in writing. Attend every appointment, including the independent medical examination your no-fault insurer may schedule under the policy; a missed IME is a ground to suspend benefits."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "24. Track the one-year clocks."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " The one-year written notice to your no-fault insurer is the first. The second is the "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "one-year-back rule"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " in MCL 500.3145(2): if your insurer refuses to pay a bill, a lawsuit generally recovers only losses incurred within one year before the suit was filed, but the applicable period is tolled from submission of a specific claim for payment until formal denial, provided the claimant pursues the claim with reasonable diligence. The tolling provision does not apply retroactively to claims that accrued before June 11, 2019. A bill denied in March that is not sued on until the following April is partly lost."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "25. Evaluate the claim against the at-fault driver before the three years run."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Under MCL 600.5805(2), a suit against the at-fault driver for pain and suffering and for economic losses beyond no-fault must be filed within "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "three years"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " of the crash. The claim requires a threshold injury under MCL 500.3135: death, serious impairment of body function, or permanent serious disfigurement. Many injuries that seemed minor at the scene meet the threshold by month six; many that seemed severe do not. Our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/auto-accidents",
+       "c": [
+        {
+         "t": "text",
+         "v": "car accident lawyer page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " explains how threshold claims are evaluated."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "if-the-other-driver-fled",
+   "heading": "If the other driver fled",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "A hit-and-run is a crime under MCL 257.617–257.618, and the first step is the police report, filed immediately. Record anything you saw: plate fragments, vehicle color and make, direction of travel, damage to the other car. Look for cameras: traffic, business, and doorbell cameras near the scene, and ask the officer to canvass. Then:"
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Your no-fault benefits are unaffected."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " PIP comes from your own policy regardless of who hit you; if you have no policy in your household, the Michigan Assigned Claims Plan pays, with medical benefits capped at $250,000 under MCL 500.3172."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Your uninsured motorist coverage, if you bought it, stands in for the fleeing driver"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " for pain and suffering and excess economic losses. Some UM policies require a hit-and-run to be reported to police within 24 hours and to the insurer in writing within 30 days. Certain policies also require direct or indirect physical contact involving the unidentified vehicle. These requirements depend on the policy’s exact wording, so review your coverage immediately and comply with all applicable conditions."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The mini tort is unavailable"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " against an unknown driver; collision coverage pays for the vehicle."
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/uninsured-motorist-claims",
+       "c": [
+        {
+         "t": "text",
+         "v": "uninsured and underinsured motorist page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " covers UM claims."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "if-the-other-driver-had-no-insurance",
+   "heading": "If the other driver had no insurance",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "In 2024 Michigan still had one of the higher uninsured-driver rates in the country, and in Detroit the share has been estimated at well over half of drivers. Your no-fault benefits are unchanged: your own insurer pays. Your claim for pain and suffering and excess losses against an uninsured driver is worth only what that driver can personally pay, which is usually nothing, unless you carry "
+      },
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "uninsured motorist coverage"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": ", which pays what the uninsured driver would have owed, up to your UM limit, under the policy’s own conditions. Check your declarations page in the first week: if you have UM coverage, notify your insurer of a UM claim in writing now, because UM policies also carry notice and consent requirements, including a requirement that you not settle with the uninsured driver without the insurer’s consent."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "if-the-crash-was-minor",
+   "heading": "If the crash was minor",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "A “minor” crash still triggers the duties above: stop, exchange information, and report to police if damage appears to reach $1,000, which at 2026 body-shop rates is nearly any crash that leaves a mark. Three cautions:"
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Do not agree to “handle it without insurance.”"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " The other driver’s promise to pay for your bumper is unenforceable without documentation, and an injury that appears two days later cannot be claimed against a crash that was never reported."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Do not assume you are uninjured."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Low-speed rear-end crashes produce whiplash and concussions regularly; see a doctor within 24 hours if there is any symptom at all."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Use the mini tort"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " for your deductible or repair cost up to $3,000 if the other driver was 50 percent or more at fault."
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "if-the-crash-was-not-your-fault",
+   "heading": "If the crash was not your fault",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Michigan’s no-fault system means your own insurer pays your medical bills and wage loss first even when the other driver was entirely at fault; that is not a concession of fault, and Michigan’s merit-rating rules under MCL 500.2111(3) generally do not permit an accident surcharge based on a crash in which you were not substantially at fault. The other driver’s fault matters for three things: the mini tort for your vehicle damage; the threshold claim for pain and suffering and excess economic losses, which requires a serious impairment of body function; and the allocation of fault, since your own recovery is reduced by your percentage of fault and barred above 50 percent under MCL 500.3135(2)(b). Preserve the evidence of fault at the scene: the photographs, the witnesses, and the police report are what establish it."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "if-you-were-a-passenger-pedestrian-bicyclist-or-rideshare-rider",
+   "heading": "If you were a passenger, pedestrian, bicyclist, or rideshare rider",
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Passengers"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " claim no-fault benefits from their own policy or a household member’s; a passenger with no policy in the household claims from the Michigan Assigned Claims Plan (capped at $250,000) since the 2019 reform, not from the vehicle owner’s insurer. A passenger may sue the at-fault driver, including the driver of the car they were in, for a threshold injury. See our "
+       },
+       {
+        "t": "link",
+        "href": "/personal-injury/passenger-injury",
+        "c": [
+         {
+          "t": "text",
+          "v": "passenger injury page"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": "."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Pedestrians and bicyclists"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " struck by a motor vehicle are covered by no-fault: their own policy first, then a household member’s, then the insurer of the vehicle’s owner, then its operator, then the MACP, under MCL 500.3115. The same scene steps apply, and the police report matters more, because the driver’s account is the only other one. See our "
+       },
+       {
+        "t": "link",
+        "href": "/personal-injury/pedestrian-accidents",
+        "c": [
+         {
+          "t": "text",
+          "v": "pedestrian"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " and "
+       },
+       {
+        "t": "link",
+        "href": "/personal-injury/bicycle-accidents",
+        "c": [
+         {
+          "t": "text",
+          "v": "bicycle"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " pages."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Rideshare riders"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " in an Uber or Lyft are covered by the rideshare company’s $1 million policy while on a trip, in addition to no-fault; document the trip in the app immediately and report the crash through the app as well as to police. See our "
+       },
+       {
+        "t": "link",
+        "href": "/personal-injury/rideshare-accidents",
+        "c": [
+         {
+          "t": "text",
+          "v": "rideshare accident page"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": "."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "A drunk driver"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " adds a potential dram shop claim against the bar or store that unlawfully served them. Under MCL 436.1801(3), a claimant generally must give written notice to the dram shop defendants within 120 days after entering an attorney-client relationship to pursue the claim, subject to the statute’s exception. The lawsuit must generally be filed within two years of the injury or death. See our "
+       },
+       {
+        "t": "link",
+        "href": "/personal-injury/drunk-driving-accidents",
+        "c": [
+         {
+          "t": "text",
+          "v": "drunk driving accident page"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": "."
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "when-to-call-a-lawyer",
+   "heading": "When to call a lawyer",
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Not every crash needs one. A fender-bender with no injury, a cooperative insurer, and a mini tort claim can be handled with the steps above. Call a lawyer when:"
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "text",
+        "v": "Anyone was injured beyond a bruise, or symptoms appeared in the days after."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Your no-fault insurer has denied, delayed, or cut off benefits, or scheduled an IME."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "The other driver fled or was uninsured."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Fault is disputed, or the police report is wrong."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "The other driver’s insurer wants a recorded statement, a medical authorization, or a release."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "The crash involved a commercial truck, a bus, a rideshare vehicle, a drunk driver, or a government vehicle, each of which has its own rules and shorter notice periods."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Someone died."
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Personal injury firms, including ours, charge no fee for the first conversation and no fee at all unless they recover money for you; Michigan court rules cap the contingency fee at one-third of the recovery in personal injury cases, MCR 8.121. The cost of calling early is nothing; the cost of calling after a release is signed or a deadline passes can be the claim."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-checklist-printable",
+   "heading": "The checklist, printable",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      [
+       {
+        "t": "text",
+        "v": "When"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Do"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Do not"
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "At the scene"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Stop; call 911 if anyone is hurt; move drivable vehicles out of traffic; call police (required at $1,000 damage or any injury); exchange and photograph information; photograph everything; get witnesses; get the officer’s name and report number"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Leave; apologize or admit fault; say “I’m fine”; agree to handle it without insurance"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "First 24 hours"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "See a doctor and say it was a car accident; report to your own insurer and request the no-fault application; write your own account; report a hit-and-run to police and your insurer"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Give a recorded statement to the other driver’s insurer"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "First week"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Order the UD-10 at michigan.gov/tcps ($15); file the Application for No-Fault Benefits; start the records folder; notify your employer in writing; check your declarations page for UM/UIM and collision"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Post about the crash or your activities; delete posts"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "First month"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Cooperate with your own insurer; send the mini tort claim for your deductible; keep every appointment"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Sign a release, accept a quick check, or sign a blanket medical authorization for the other insurer"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "First year"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Confirm written notice reached your no-fault insurer within one year; sue on denied bills within one year of the expense; keep treating and document gaps"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Let a denied bill sit"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "strong",
+         "c": [
+          {
+           "t": "text",
+           "v": "Three years"
+          }
+         ]
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Evaluate and, if warranted, file the claim against the at-fault driver before the third anniversary"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Assume the insurer will pay without a suit"
+        }
+       ]
+      ]
+     ]
+    }
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do I have to call the police after a minor accident in Michigan?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Yes, if anyone is injured or the damage appears to total $1,000 or more, under MCL 257.622, which covers nearly any crash that leaves a mark. If police do not respond, report at the nearest station. The report protects you more than it protects anyone else."
+    }
+   ]
+  },
+  {
+   "question": "How do I get my Michigan accident report?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Through the Michigan State Police Traffic Crash Purchasing System at michigan.gov/tcps, for $15, once the agency has filed it, usually within one to two weeks. You will need the report number from the agency, or the date, location, and a name. Reports are available for ten years."
+    }
+   ]
+  },
+  {
+   "question": "Should I see a doctor if I feel fine?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Yes, the same day. Concussions, whiplash, and internal injuries commonly appear hours or days later, and the medical record from the first 24 hours is what ties the injury to the crash. Tell the provider it was a car accident."
+    }
+   ]
+  },
+  {
+   "question": "Who pays my medical bills in Michigan?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Your own no-fault insurer, regardless of fault, up to the PIP medical level you chose, after you file an Application for No-Fault Benefits. If no policy in your household applies, the Michigan Assigned Claims Plan pays, capped at $250,000. The one-year written notice deadline applies to both."
+    }
+   ]
+  },
+  {
+   "question": "Should I talk to the other driver’s insurance company?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "You are not required to, and you should not give a recorded statement, sign a medical authorization, or sign a release without advice. Give them your lawyer’s name or respond in writing."
+    }
+   ]
+  },
+  {
+   "question": "What if the other driver left the scene?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Report to police immediately, look for cameras and witnesses, and notify your own insurer of a hit-and-run and, if you have it, an uninsured motorist claim within the policy’s deadlines, which may require a police report within 24 hours and written notice to the insurer within 30 days. Your no-fault benefits are unaffected."
+    }
+   ]
+  },
+  {
+   "question": "Can I get my car fixed if the other driver was at fault?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Through your own collision coverage, less the deductible, and then up to $3,000 from the at-fault driver under the mini tort for the deductible or, if you have no collision coverage, the repair cost."
+    }
+   ]
+  },
+  {
+   "question": "How long do I have to sue?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "One year to give your no-fault insurer written notice of injury; one year back for denied no-fault expenses; three years to sue the at-fault driver for pain and suffering and excess losses."
+    }
+   ]
+  },
+  {
+   "question": "Will my rates go up if the crash was not my fault?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Michigan law restricts insurers from surcharging for a crash in which the insured was not substantially at fault. Report it anyway; your own insurer pays your benefits regardless."
+    }
+   ]
+  },
+  {
+   "question": "Do I need a lawyer for a minor accident?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Usually not, if no one was hurt and the insurer is paying. Call one if anyone was injured, benefits are denied or delayed, the other driver fled or was uninsured, fault is disputed, or the other insurer wants a statement or a release."
+    }
+   ]
+  }
+ ],
+ "cta": {
+  "id": "questions-about-a-michigan-crash",
+  "heading": "Questions about a Michigan crash",
+  "blocks": [
+   {
+    "t": "p",
+    "c": [
+     {
+      "t": "text",
+      "v": "If you were injured in a crash anywhere in Michigan and want to know what your claim is and what to do next, call "
+     },
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "text",
+        "v": "(313) 406-7606"
+       }
+      ]
+     },
+     {
+      "t": "text",
+      "v": " or send the form on this page. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed. The first conversation is free, in English, Arabic, French, Mandarin, Urdu, or Spanish, and there is no fee unless we recover money for you."
+     }
+    ]
+   },
+   {
+    "t": "p",
+    "c": [
+     {
+      "t": "em",
+      "c": [
+       {
+        "t": "text",
+        "v": "This page is general information about Michigan law as of October 2026; it is not legal advice for your situation. Insurance policy conditions vary and the policy language controls. Results depend on the facts of each case, and past results do not guarantee a future outcome."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "wordCount": 4265,
+ "openItems": 0,
+ "source": {
+  "file": "B2-27_What-to-Do-After-a-Car-Accident-in-Michigan.docx",
+  "delivered": "2026-10-16"
+ }
+}

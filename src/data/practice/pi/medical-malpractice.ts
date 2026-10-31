@@ -18,11 +18,7 @@ export const medicalMalpracticeData: PracticeAreaPI = {
     "We bring in the right medical specialists to review your records, identify exactly what went wrong, and explain it in terms a jury can understand. Attorney Dewnya Bazzi works directly with these experts because the medical details drive the case.",
     "We work on contingency. You pay nothing unless we recover compensation for you. We advance all costs for expert review, record retrieval, and filing fees.",
   ],
-  caseResults: [
-    { name: "Ahmad R.", initials: "AR", caseType: "Surgical Error", insuranceOffer: 45000, recovered: 385000 },
-    { name: "Patricia W.", initials: "PW", caseType: "Delayed Diagnosis", insuranceOffer: 60000, recovered: 520000 },
-    { name: "Daniel F.", initials: "DF", caseType: "Birth Injury", insuranceOffer: 150000, recovered: 1100000 },
-  ],
+  caseResults: [], // firm-approved results only (none supplied yet)
   steps: [
     { number: 1, title: "Contact ATLAW", description: "Call us for a free consultation. We’ll review what happened and tell you honestly whether you have a case." },
     { number: 2, title: "Get Medical Attention", description: "Continue treating with a provider you trust. Your ongoing medical records are critical evidence." },
@@ -53,11 +49,7 @@ export const medicalMalpracticeData: PracticeAreaPI = {
       ],
     },
   ],
-  testimonials: [
-    { quote: "[CONFIRM] After my surgery went wrong, ATLAW brought in medical experts who explained exactly what the surgeon missed. They fought for two years and got us a result we never thought possible.", name: "Patricia W.", initials: "PW", date: "Surgical Error" },
-    { quote: "[CONFIRM] The hospital tried to say nothing went wrong. Dewnya and her team proved otherwise. They were thorough, compassionate, and relentless.", name: "Daniel F.", initials: "DF", date: "Birth Injury" },
-    { quote: "[CONFIRM] I was told my case was too complicated to take on. ATLAW disagreed. They took the time to understand what happened and held the doctor accountable.", name: "Maria S.", initials: "MS", date: "Misdiagnosis" },
-  ],
+  testimonials: [], // pages use the shared Google reviews (data/testimonials.ts)
   faqs: [
     { question: "How do I know if I have a medical malpractice case?", answer: "You may have a case if a healthcare provider’s error caused you harm. The key elements are: the provider owed you a duty of care, they breached the accepted standard of care, and that breach directly caused your injury. A free consultation with our team can help you understand whether your situation qualifies." },
     { question: "What is the statute of limitations for medical malpractice in Michigan?", answer: "Generally two years from the date the malpractice occurred, or six months from when you discovered the injury, whichever is later. The absolute deadline is six years from the act. Different rules apply for minors. These deadlines are strictly enforced." },
@@ -75,12 +67,7 @@ export const medicalMalpracticeData: PracticeAreaPI = {
     { slug: "wrongful-death", title: "Wrongful Death" },
     { slug: "workers-compensation", title: "Workers’ Compensation" },
   ],
-  relatedCases: [
-    { amount: 385000, caseType: "Surgical Error", county: "Wayne County" },
-    { amount: 520000, caseType: "Delayed Diagnosis", county: "Oakland County" },
-    { amount: 1100000, caseType: "Birth Injury", county: "Wayne County" },
-    { amount: 275000, caseType: "Medication Error", county: "Macomb County" },
-  ],
+  relatedCases: [], // firm-approved results only (none supplied yet)
   resources: [
     { title: "Michigan Personal Injury Overview", href: "/personal-injury" },
     { title: "Auto Accident & No-Fault Claims", href: "/personal-injury/auto-accidents" },

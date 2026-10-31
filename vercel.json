@@ -1,5 +1,49 @@
 {
+  "cleanUrls": true,
+  "redirects": [
+    {
+      "source": "/:path*",
+      "has": [{ "type": "host", "value": "www.atlawgroup.com" }],
+      "destination": "https://atlawgroup.com/:path*",
+      "permanent": true
+    },
+    { "source": "/our-people/:slug*", "destination": "/team", "statusCode": 301 },
+    { "source": "/practice-areas/personal-injury", "destination": "/personal-injury", "statusCode": 301 },
+    { "source": "/practice-areas/auto-accidents", "destination": "/personal-injury/auto-accidents", "statusCode": 301 },
+    { "source": "/practice-areas/medical-malpractice", "destination": "/personal-injury/medical-malpractice", "statusCode": 301 },
+    { "source": "/practice-areas/wrongful-death", "destination": "/personal-injury/wrongful-death", "statusCode": 301 },
+    { "source": "/practice-areas/workers-compensation", "destination": "/personal-injury/workers-compensation", "statusCode": 301 },
+    { "source": "/practice-areas/:path*", "destination": "/", "statusCode": 301 },
+    { "source": "/litigation/injury-litigation", "destination": "/personal-injury", "statusCode": 301 },
+    { "source": "/litigation/:path*", "destination": "/", "statusCode": 301 },
+    { "source": "/advisory/:path*", "destination": "/", "statusCode": 301 },
+    { "source": "/transactions/:path*", "destination": "/", "statusCode": 301 },
+    { "source": "/healthcare/:path*", "destination": "/", "statusCode": 301 },
+    { "source": "/capabilities", "destination": "/", "statusCode": 301 },
+    {
+      "source": "/news/:slug((?!dewnya-bazzi-super-lawyers-rising-star-2026$).+)",
+      "destination": "/news",
+      "statusCode": 301
+    },
+    { "source": "/insight/:path*", "destination": "/news", "statusCode": 301 },
+    { "source": "/news-category/:path*", "destination": "/news", "statusCode": 301 },
+    { "source": "/news-insights", "destination": "/news", "statusCode": 301 },
+    { "source": "/connect", "destination": "/contact", "statusCode": 301 },
+    { "source": "/careers", "destination": "/about", "statusCode": 301 },
+    { "source": "/legal-disclaimers", "destination": "/terms", "statusCode": 301 },
+    { "source": "/global-reach", "destination": "/", "statusCode": 301 }
+  ],
+  "headers": [
+    {
+      "source": "/(.*)",
+      "has": [{ "type": "host", "value": "(?<subdomain>.+)\\.vercel\\.app" }],
+      "headers": [{ "key": "X-Robots-Tag", "value": "noindex" }]
+    }
+  ],
   "rewrites": [
-    { "source": "/(.*)", "destination": "/index.html" }
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
   ]
 }
