@@ -22,6 +22,8 @@ export const socialLinks: { label: string; href: string }[] = [
   { label: "Instagram", href: "https://www.instagram.com/atlawgroup/" },
   { label: "LinkedIn", href: "https://www.linkedin.com/company/at-law-group/" },
   { label: "Facebook", href: "https://www.facebook.com/atlawgroup/" },
+  { label: "YouTube", href: "https://www.youtube.com/@atlawgroup" },
+  { label: "TikTok", href: "https://www.tiktok.com/@atlawgroup" },
 ];
 
 export const legalLinks: { label: string; to: string }[] = [
