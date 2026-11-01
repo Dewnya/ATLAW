@@ -852,6 +852,9 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
 - [x] Drive re-check (Oct 31, 2026) — nothing new since the Oct 30 pass
   - The only file changed is the Content Tracker, and only by our own tab work; nobody has filled in an answer column yet
   - No new folders; "B4-28 to B4-73" still holds the same 46 `_REVIEWED.docx` files, all uploaded Oct 30 and all applied in batches 34–45
+- [x] Fix: `npm run tracker` showed the 28 city and county hubs as "not built" (Oct 31, 2026)
+  - Hub sources have slug and section `areas-served`, so the script mapped them to `/areas-served/areas-served/<city>` and never matched the sheet's `/areas-served/<city>`. Now mapped to `/areas-served/<city>`; the H1 check also treats a non-breaking space as a space ("St. Clair")
+  - Run: County hub 4 and City hub 24 all "draft imported". 269 of 277 sheet pages are imported; the 8 left are B2-01 VA (unreviewed, scope open), B2-28 Case Results (needs the firm's case list and a page type), and B4-74 to B4-79 (Ypsilanti slip and fall and five Pittsfield Township pages, never written: no Drive file)
 
 ### Open Questions
 

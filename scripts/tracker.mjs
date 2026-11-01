@@ -62,7 +62,9 @@ for (const f of existsSync(srcDir) ? readdirSync(srcDir).filter((f) => f.endsWit
   const fm = read(join("content-source", "practice", f)).match(/^---\r?\n([\s\S]*?)\r?\n---/);
   if (!fm) continue;
   const meta = Object.fromEntries(fm[1].split(/\r?\n/).map((l) => [l.slice(0, l.indexOf(":")).trim(), l.slice(l.indexOf(":") + 1).trim()]));
+  // City and county hubs (slug and section "areas-served") are served at /areas-served/<city>.
   const url = (meta.slug === "personal-injury" ? "/personal-injury"
+    : meta.section === "areas-served" ? "/areas-served"
     : meta.section === "resources" && resourcePaths.has(meta.slug) ? resourcePaths.get(meta.slug)
     : `/${meta.section}/${meta.slug}`) + (meta.city ? `/${meta.city}` : "");
   // "Live" = an approved JSON exists (a production build publishes it).
@@ -133,10 +135,12 @@ section(`   Not built yet in the next open batch (${nextBatch}) → code to buil
   states.filter((r) => r.Batch === nextBatch && r.site.startsWith("not built")),
   (r) => `row ${r.sheetRow}  ${r.URL}  — ${r.site.replace("not built: ", "")}`);
 
+// Non-breaking spaces in the copy (e.g. "St.\u00a0Clair") are typography, not a different H1.
+const plain = (s) => s.replace(/\u00a0/g, " ");
 const mismatches = [];
 for (const r of rows) {
   const c = content.get(r.URL);
-  if (c && r["Title (H1)"] && c.h1 !== r["Title (H1)"]) mismatches.push(`row ${r.sheetRow}  H1: sheet "${r["Title (H1)"]}" · page "${c.h1}"`);
+  if (c && r["Title (H1)"] && plain(c.h1) !== r["Title (H1)"]) mismatches.push(`row ${r.sheetRow}  H1: sheet "${r["Title (H1)"]}" · page "${c.h1}"`);
   if (c && r["Primary keyword"] && c.primaryKeyword.toLowerCase() !== r["Primary keyword"].toLowerCase()) mismatches.push(`row ${r.sheetRow}  keyword: sheet "${r["Primary keyword"]}" · page "${c.primaryKeyword}"`);
   if (["Ready for attorney", "Approved", "Imported"].includes(r.Status) && !r["Drive file"]) mismatches.push(`row ${r.sheetRow}  ${r.URL}: status "${r.Status}" but no Drive file`);
   if (["Ready for attorney", "Approved"].includes(r.Status) && !c) mismatches.push(`row ${r.sheetRow}  ${r.URL}: status "${r.Status}" but no copy received here`);
