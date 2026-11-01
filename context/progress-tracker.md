@@ -855,6 +855,10 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
 - [x] Fix: `npm run tracker` showed the 28 city and county hubs as "not built" (Oct 31, 2026)
   - Hub sources have slug and section `areas-served`, so the script mapped them to `/areas-served/areas-served/<city>` and never matched the sheet's `/areas-served/<city>`. Now mapped to `/areas-served/<city>`; the H1 check also treats a non-breaking space as a space ("St. Clair")
   - Run: County hub 4 and City hub 24 all "draft imported". 269 of 277 sheet pages are imported; the 8 left are B2-01 VA (unreviewed, scope open), B2-28 Case Results (needs the firm's case list and a page type), and B4-74 to B4-79 (Ypsilanti slip and fall and five Pittsfield Township pages, never written: no Drive file)
+- [x] Released `mo-dev` to `Yahia-Dev` (Nov 1, 2026) — PR #1 merged by fast-forward
+  - `Yahia-Dev` had no commits of its own, so `mo-dev` was pushed straight onto it (`d84be95..506998c`): no merge commit, same SHAs, PR #1 marked merged by GitHub. Gates before the push: typecheck clean, production build 7 pages with no draft markers in `dist/`, PR state CLEAN, Vercel preview check green; production deploy for `506998c` succeeded
+  - Production still serves the 7 approved pages; the 269 drafts stay preview-only until the firm marks them Approved in the Content Tracker
+  - Drive: Arlyn's review folder renamed "B4-28 to B4-79" now that B4-74 to B4-79 (Ypsilanti slip and fall, five Pittsfield Township pages) were uploaded there as Google Docs on Nov 1; none reviewed yet
 
 ### Open Questions
 
