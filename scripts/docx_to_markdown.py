@@ -120,7 +120,9 @@ def convert(path: str) -> tuple[str, str]:
             p = Paragraph(child, doc)
             text = p.text.strip()
             style = p.style.name if p.style is not None else ""
-            if style == "Heading 1":
+            # The document title ("Batch 4 · Page 74 · …") is a Title paragraph in Word
+            # exports and a Heading 1 in Google Docs exports; neither is a section.
+            if style == "Heading 1" and not (section is None and text.startswith("Batch ")):
                 section = text.lower()
                 continue
             if section is None:
