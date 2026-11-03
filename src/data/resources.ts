@@ -19,6 +19,7 @@ export const resourceRegistry = [
   { slug: "michigan-no-fault-guide", section: "resources", navLabel: "Michigan No-Fault Insurance Guide" },
   { slug: "what-to-do-after-an-accident", section: "resources", navLabel: "What to Do After a Car Accident" },
   { slug: "faq", section: "resources", navLabel: "Personal Injury FAQ", path: "/faq" },
+  { slug: "case-results", section: "resources", navLabel: "Case Results", path: "/case-results" },
 ] as const satisfies readonly ResourceEntry[];
 
 export const resourceEntry = (slug: string): ResourceEntry | undefined =>
