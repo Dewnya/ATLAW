@@ -879,6 +879,9 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - Fast-forward push `accbb36..62d1452` (four commits: batch 46, the hub URL fix with the dead-link guard, the answers and approvals, the case results draft). Gates: typecheck clean, production build 18 pages with no draft markers and no in-copy or crumb links to unpublished pages, Vercel preview check green on `62d1452`
   - Vercel production deploy for `62d1452` succeeded (atlaw-five.vercel.app; atlawgroup.com itself still points at the old Webflow site, so nothing is public until the domain moves). The production host now serves 18 pages: the 7 original approved pages plus car accident insurance, passenger injury, Novi and West Bloomfield malpractice, Westland motorcycle, St. Clair Shores and Macomb Township car, Ann Arbor malpractice, workers' comp and Social Security, Ypsilanti car. The 265 drafts and `/case-results` stay preview-only; the old `/personal-injury/personal-injury/<city>` path 301s
 
+- [x] B2-01 Michigan VA Disability Claims Lawyer dropped (Nov 3, 2026) — Arlyn: the firm does not take VA disability cases
+  - Never imported or in the practice registry, so nothing to remove from the site; the three malpractice pages that mention the Dingell VA Medical Center (FTCA claims) are unaffected and keep no link to a VA page. The Content Tracker row (page 27, `/personal-injury/va-benefit-claims`) is left for the firm to mark; `npm run tracker` keeps reporting it as "practice not in the registry"
+
 ### Open Questions
 
 - [ ] **PRE-LAUNCH — Text Us number.** Confirm with the firm whether (313) 406-7606 can receive SMS, or get a dedicated SMS number. Then set `SMS_NUMBER` in `src/data/contact.ts` (the Text buttons in the header and mobile bar appear automatically).
