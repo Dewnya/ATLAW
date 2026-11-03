@@ -875,6 +875,10 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - Not done: B2-01 VA has no reviewed file in Drive (only Jerome's Oct 11 original) and its keep/drop decision is with Dewnya; the Content Tracker rows stay as the firm set them (Status is Mo's column)
   - Verified: import 276 (11 approved), typecheck, production build 18 pages with no draft markers and no in-copy or crumb links to unpublished pages; preview build 276 pages with the hubs at `/personal-injury/<city>` and no doubled directory; on the dev server `/personal-injury/detroit` renders the hub (canonical and breadcrumb right), `/personal-injury/personal-injury/detroit` redirects, `/areas-served/detroit` has no doubled links, `/case-results` renders the table and the three results
 
+- [x] Released `mo-dev` to `Yahia-Dev` (Nov 3, 2026) — the 11 approved pages and the hub URL fix go live
+  - Fast-forward push `accbb36..62d1452` (four commits: batch 46, the hub URL fix with the dead-link guard, the answers and approvals, the case results draft). Gates: typecheck clean, production build 18 pages with no draft markers and no in-copy or crumb links to unpublished pages, Vercel preview check green on `62d1452`
+  - Vercel production deploy for `62d1452` succeeded (atlaw-five.vercel.app; atlawgroup.com itself still points at the old Webflow site, so nothing is public until the domain moves). The production host now serves 18 pages: the 7 original approved pages plus car accident insurance, passenger injury, Novi and West Bloomfield malpractice, Westland motorcycle, St. Clair Shores and Macomb Township car, Ann Arbor malpractice, workers' comp and Social Security, Ypsilanti car. The 265 drafts and `/case-results` stay preview-only; the old `/personal-injury/personal-injury/<city>` path 301s
+
 ### Open Questions
 
 - [ ] **PRE-LAUNCH — Text Us number.** Confirm with the firm whether (313) 406-7606 can receive SMS, or get a dedicated SMS number. Then set `SMS_NUMBER` in `src/data/contact.ts` (the Text buttons in the header and mobile bar appear automatically).
