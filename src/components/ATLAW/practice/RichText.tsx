@@ -1,6 +1,7 @@
 import { Fragment } from "react";
 import { Link } from "react-router-dom";
 import type { Block, Inline } from "../../../content/types";
+import { pageInThisBuild } from "../../../data/site-pages";
 
 const INK = "#0B1F3A";
 const STONE = "#3A4A63";
@@ -28,6 +29,9 @@ export const RichInline = ({ nodes }: { nodes: Inline[] }): JSX.Element => (
         case "em":
           return <em key={i}><RichInline nodes={n.c} /></em>;
         case "link":
+          // An internal link to a page this build does not serve (a draft left out
+          // of production) is shown as text, so a published page has no dead links.
+          if (n.href.startsWith("/") && !pageInThisBuild(n.href)) return <Fragment key={i}><RichInline nodes={n.c} /></Fragment>;
           return n.href.startsWith("/") ? (
             <Link className="font-medium underline decoration-[#B88A2D]/60 underline-offset-[3px] hover:decoration-[#B88A2D]" key={i} style={{ color: INK }} to={n.href}>
               <RichInline nodes={n.c} />

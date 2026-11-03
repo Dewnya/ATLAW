@@ -23,6 +23,9 @@ from docx.text.paragraph import Paragraph
 SRC = sys.argv[1]
 OUT = sys.argv[2] if len(sys.argv) > 2 else os.path.join(os.path.dirname(__file__), "..", "content-source", "practice")
 NS = "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}"
+# City and county slugs, so "/personal-injury/<city>" is read as a city page, not a practice.
+_REGISTRY = os.path.join(os.path.dirname(__file__), "..", "src", "data", "cities-registry.ts")
+CITY_SLUGS = set(re.findall(r'slug: "([^"]+)"', open(_REGISTRY, encoding="utf-8").read())) if os.path.exists(_REGISTRY) else set()
 
 FIELDS = {
     "Title tag": "seoTitle",
@@ -171,6 +174,9 @@ def convert(path: str) -> tuple[str, str]:
     # /areas-served/<city>: the city's hub page (areas-served--<city>.md, city: <city>).
     if section_name == "areas-served" and len(parts) == 2:
         slug, city = "areas-served", parts[1]
+    # /personal-injury/<city>: the city's personal injury page (personal-injury--<city>.md).
+    if section_name == "personal-injury" and len(parts) == 2 and parts[1] in CITY_SLUGS:
+        slug, city = "personal-injury", parts[1]
     status = "approved" if fields.get("status", "").lower().startswith("approved") else "draft"
     delivered = fields.get("delivered", "")
     try:

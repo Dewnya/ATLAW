@@ -58,7 +58,7 @@ const TEMPLATE_CITIES: ReadonlySet<string> = new Set(["dearborn", "detroit", "de
  */
 export const cityHref = (slug: CitySlug): string => {
   if (hasHubContent(slug)) return `/areas-served/${slug}`;
-  if (hasCityContent("personal-injury", slug) || TEMPLATE_CITIES.has(slug)) return `/personal-injury/personal-injury/${slug}`;
+  if (hasCityContent("personal-injury", slug) || TEMPLATE_CITIES.has(slug)) return `/personal-injury/${slug}`;
   return "/areas-served";
 };
 

@@ -8,7 +8,9 @@ import { practiceContentLoader } from "../content";
 import { practiceAreaBySlug } from "../data/practice/pi";
 import { practiceEntry, practiceHref, type PracticeSection } from "../data/practice/pi/registry";
 import { practiceAreaSchema } from "../data/schema-org";
+import { CityLandingPage } from "./CityLandingPage";
 import { NotFoundPage } from "./NotFoundPage";
+import { cityInfo } from "../data/cities";
 import "./PersonalInjury.css";
 
 // One lazy component per imported page: its JSON and the long-form layout load
@@ -32,7 +34,8 @@ const longFormPage = (slug: string): LazyExoticComponent<ComponentType> | undefi
 
 /**
  * One page for every practice area: /personal-injury, /personal-injury/:practice
- * and /disability/:practice. The slug is looked up in the practice registry, so
+ * and /disability/:practice (and /personal-injury/:city, a city's personal injury
+ * page, which goes to CityLandingPage). The slug is looked up in the practice registry, so
  * adding a practice is a data entry, not a new route. Imported content (src/content)
  * takes precedence over the original hand-written data; unknown slugs, a slug under
  * the wrong section, or a practice with no content yet render the 404 page.
@@ -41,6 +44,8 @@ export const PracticePage = ({ section, slug: fixedSlug }: { section: PracticeSe
   const { practice } = useParams<{ practice: string }>();
   const slug = fixedSlug ?? practice ?? "";
   const entry = practiceEntry(slug);
+  // /personal-injury/<city>: not a practice but a city or county, so its personal injury page.
+  if (!entry && section === "personal-injury" && cityInfo(slug)) return <CityLandingPage practice="personal-injury" city={slug} />;
   const inSection = Boolean(entry && entry.section === section);
   const LongForm = inSection ? longFormPage(slug) : undefined;
   const data = inSection ? practiceAreaBySlug[slug] : undefined;

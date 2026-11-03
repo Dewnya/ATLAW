@@ -5,7 +5,7 @@ import { HelmetProvider, type HelmetServerState } from "react-helmet-async";
 import { App } from "./App";
 import { cityContentPages, hasPracticeContent } from "./content";
 import { practicesWithPages } from "./data/practice/pages";
-import { practiceHref } from "./data/practice/pi/registry";
+import { cityPageHref, practiceHref } from "./data/practice/pi/registry";
 import { resourceHref, resourceRegistry } from "./data/resources";
 import { SmoothScroll } from "./motion/SmoothScroll";
 
@@ -64,8 +64,6 @@ export function prerenderRoutes(): string[] {
   return [
     ...practicesWithPages().map((p) => practiceHref(p.slug)),
     ...resourceRegistry.filter((r) => hasPracticeContent(r.slug)).map((r) => resourceHref(r.slug)),
-    ...cityContentPages().map((p) =>
-      p.practice === "areas-served" ? `/areas-served/${p.city}`
-        : `${p.practice === "personal-injury" ? "/personal-injury/personal-injury" : practiceHref(p.practice)}/${p.city}`),
+    ...cityContentPages().map((p) => cityPageHref(p.practice, p.city)),
   ];
 }

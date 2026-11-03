@@ -113,3 +113,14 @@ export const practicePath = (slug: string): string => {
   const entry = bySlug.get(slug);
   return entry ? practiceHref(entry.slug) : `/personal-injury/${slug}`;
 };
+
+/**
+ * URL of a city or county page. A city's personal injury page is /personal-injury/<city>
+ * (the Content Tracker's URL; it is the city's "lawyer" page beside its /areas-served hub),
+ * every other practice is <practice page>/<city>.
+ */
+export const cityPageHref = (practice: string, city: string): string => {
+  if (practice === "personal-injury") return `/personal-injury/${city}`;
+  if (practice === "areas-served") return `/areas-served/${city}`;
+  return `${practicePath(practice)}/${city}`;
+};

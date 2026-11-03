@@ -2,7 +2,7 @@ import { useEffect } from "react";
 import type { PracticeContent } from "../../../content/types";
 import type { CityInfo } from "../../../data/cities";
 import { practiceAreaBySlug } from "../../../data/practice/pi";
-import { practiceEntry } from "../../../data/practice/pi/registry";
+import { cityPageHref, practiceEntry } from "../../../data/practice/pi/registry";
 import { cityPracticeSchema, faqPageSchema } from "../../../data/schema-org";
 import { Header } from "../Header";
 import { Footer } from "../Footer";
@@ -38,7 +38,7 @@ export const CityLongFormPage = ({ content, city }: { content: PracticeContent; 
   const title = isHub ? "Personal Injury" : entry?.navLabel ?? content.h1;
   const practice = { slug: content.slug, title, tagline: content.tagline };
   const isDraft = content.status === "draft";
-  const path = isHub ? `/areas-served/${city.slug}` : `/${content.section}/${content.slug}/${city.slug}`;
+  const path = cityPageHref(isHub ? "areas-served" : content.slug, city.slug);
 
   useEffect(() => { window.scrollTo(0, 0); }, [content.slug, city.slug]);
 

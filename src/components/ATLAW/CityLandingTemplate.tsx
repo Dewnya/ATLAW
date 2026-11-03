@@ -3,7 +3,8 @@ import { Link } from "react-router-dom";
 import type { PracticeAreaPI } from "../../data/practice/pi/types";
 import type { CityData, CityInfo } from "../../data/cities";
 import { cities, cityBySlug, cityPhoto } from "../../data/cities";
-import { practiceRegistry } from "../../data/practice/pi/registry";
+import { cityPageHref, practiceRegistry } from "../../data/practice/pi/registry";
+import { practiceHasPage } from "../../data/practice/pages";
 import { hasCityContent } from "../../content";
 import { practiceAreaBySlug } from "../../data/practice/pi";
 import { openIntakeModal } from "./IntakeModal";
@@ -94,7 +95,8 @@ const cityCrumbs = (practice: CityPractice, city: CityInfo, section: "personal-i
   { label: "ATLAW", to: "/" },
   ...(section === "areas-served" ? [{ label: "Areas We Serve", to: "/areas-served" }] : []),
   ...(section === "personal-injury" ? [{ label: "Personal Injury", to: "/personal-injury" }] : []),
-  ...(section === "areas-served" || practice.slug === "personal-injury" ? [] : [{ label: practice.title, to: `/${section}/${practice.slug}` }]),
+  // The practice crumb links its statewide page only when this build serves it (a draft is left out of production).
+  ...(section === "areas-served" || practice.slug === "personal-injury" ? [] : [{ label: practice.title, ...(practiceHasPage(practice.slug) ? { to: `/${section}/${practice.slug}` } : {}) }]),
   { label: city.name },
 ];
 
@@ -586,7 +588,7 @@ export const OtherPracticeAreasSection = ({ practice, city, heading }: { practic
               className="group relative flex min-h-[160px] flex-col justify-end overflow-hidden rounded-[16px] px-7 pb-6 pt-14 shadow-[0_6px_24px_rgba(5,15,28,0.12)] transition-all duration-[250ms] hover:-translate-y-[3px] hover:shadow-[0_14px_36px_rgba(5,15,28,0.2)]"
               key={slug}
               style={{ background: NAVY_CANVAS }}
-              to={`/${area.section}/${slug}/${city.slug}`}
+              to={cityPageHref(slug, city.slug)}
             >
               <Grain opacity="0.05" />
               <h3
@@ -630,7 +632,7 @@ export const OtherCitiesSection = ({ practice, city }: { practice: CityPractice;
               className="rounded-full border border-[#0B1F3A]/12 bg-[#F7F7F5] px-5 py-2.5 font-sans text-[14px] font-medium transition-all duration-200 hover:border-[#B88A2D] hover:shadow-sm lg:text-[15px]"
               key={c.slug}
               style={{ color: INK }}
-              to={`/personal-injury/${practice.slug}/${c.slug}`}
+              to={cityPageHref(practice.slug, c.slug)}
             >
               {c.name}
             </Link>

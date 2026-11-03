@@ -190,6 +190,9 @@ function checkLink(href) {
   const path = href.split("#")[0].replace(/\/$/, "") || "/";
   if (STATIC_ROUTES.has(path) || resourcePaths.has(path)) return null;
   const [, section, slug, city] = path.split("/");
+  // A city's personal injury page is /personal-injury/<city>, not /personal-injury/personal-injury/<city>.
+  if (section === "personal-injury" && slug && !city && citySlugs.has(slug)) return null;
+  if (section === "personal-injury" && slug === "personal-injury" && city) return `link to ${href}: a city's personal injury page is /personal-injury/${city}`;
   if ((section === "personal-injury" || section === "disability") && practices.get(slug) === section && (!city || citySlugs.has(city))) return null;
   if (section === "areas-served" && slug && !city && citySlugs.has(slug)) return null;
   if (section === "resources" && practices.get(slug) === "resources" && !city) return null;

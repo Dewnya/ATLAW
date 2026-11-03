@@ -1,5 +1,5 @@
 import { lazy, useEffect, type ComponentType, type LazyExoticComponent } from "react";
-import { useParams } from "react-router-dom";
+import { Navigate, useParams } from "react-router-dom";
 import { Header } from "../components/ATLAW/Header";
 import { Footer } from "../components/ATLAW/Footer";
 import { PageMeta } from "../components/ATLAW/PageMeta";
@@ -7,7 +7,7 @@ import { CityLandingTemplate } from "../components/ATLAW/CityLandingTemplate";
 import { practiceAreaBySlug } from "../data/practice/pi";
 import { cityBySlug, cityInfo } from "../data/cities";
 import { cityContentLoader } from "../content";
-import { practiceEntry } from "../data/practice/pi/registry";
+import { cityPageHref, practiceEntry } from "../data/practice/pi/registry";
 import { cityPracticeSchema } from "../data/schema-org";
 import { NotFoundPage } from "./NotFoundPage";
 import "./PersonalInjury.css";
@@ -34,13 +34,16 @@ const longFormPage = (practice: string, city: string): LazyExoticComponent<Compo
 };
 
 /**
- * /personal-injury/:practice/:city and /disability/:practice/:city. Imported city
+ * /personal-injury/:practice/:city, /disability/:practice/:city and, through
+ * PracticePage, a city's personal injury page at /personal-injury/:city. Imported city
  * or county copy (src/content, <practice>--<city>.json) renders the long-form city
  * page; otherwise the original template from the hand-written city data, for the
  * original practices and the cities that have that data.
  */
-export const CityLandingPage = (): JSX.Element => {
-  const { practice, city } = useParams<{ practice: string; city: string }>();
+export const CityLandingPage = ({ practice: fixedPractice, city: fixedCity }: { practice?: string; city?: string } = {}): JSX.Element => {
+  const params = useParams<{ practice: string; city: string }>();
+  const practice = fixedPractice ?? params.practice;
+  const city = fixedCity ?? params.city;
 
   const LongForm = practice && city ? longFormPage(practice, city) : undefined;
   const practiceData = practice ? practiceAreaBySlug[practice] : undefined;
@@ -48,6 +51,8 @@ export const CityLandingPage = (): JSX.Element => {
 
   useEffect(() => { window.scrollTo(0, 0); }, [practice, city]);
 
+  // The city's personal injury page is /personal-injury/<city>; the old doubled path redirects there.
+  if (!fixedPractice && practice === "personal-injury" && city) return <Navigate to={cityPageHref("personal-injury", city)} replace />;
   if (LongForm) return <LongForm />;
   if (!practiceData || !cityData) {
     return <NotFoundPage />;
@@ -58,7 +63,7 @@ export const CityLandingPage = (): JSX.Element => {
       <PageMeta
         title={`${practiceData.title} Lawyer in ${cityData.name} | ATLAW`}
         description={`Injured in ${cityData.name}? ATLAW handles ${practiceData.title.toLowerCase()} claims in ${cityData.name} and ${cityData.county}. No fee unless we win. Free case review.`}
-        canonical={`/personal-injury/${practiceData.slug}/${cityData.slug}`}
+        canonical={cityPageHref(practiceData.slug, cityData.slug)}
         schema={cityPracticeSchema(practiceData.title, `${practiceData.title} Legal Representation`, cityData.name)}
       />
       <Header />
