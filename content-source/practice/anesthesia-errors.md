@@ -41,7 +41,7 @@ Anesthesia is delivered by several professionals in several settings, and Michig
 - **The surgeon**, for positioning decisions, for the choice of setting, and for failing to respond to the anesthesia team’s warnings.
 - **The hospital or ambulatory surgery center**, for its own negligence (credentialing, staffing, equipment, policies, recovery-room monitoring) and, through vicarious liability, for the anesthesia provider’s negligence. Many metro Detroit hospitals contract anesthesia to outside staffing companies, and the hospital will argue the anesthesiologist was an independent contractor. Michigan’s ostensible agency doctrine answers that argument: a patient who looks to the hospital for care and is assigned a provider by the hospital may hold the hospital liable unless the patient was told and understood that the provider was not the hospital’s agent (Grewe v Mt Clemens General Hospital, 1978). The Michigan Supreme Court reaffirmed and strengthened the rule in Markel v William Beaumont Hospital (2022, and again by order of July 9, 2025), holding that a patient who enters a hospital through the emergency room and is assigned a treating physician need not establish an additional act of reliance to raise a factual question of ostensible agency, unless the patient was advised and understood that the physician was not the hospital's agent.
 - **The anesthesia staffing company** that employed the provider.
-- **A dentist or oral surgeon** administering sedation or general anesthesia in an office, under the Michigan Board of Dentistry's anesthesia and sedation rules, with the office’s monitoring and rescue equipment a frequent issue. **[ATTORNEY CHECK: current dental anesthesia permit rules]**
+- **A dentist or oral surgeon** administering sedation or general anesthesia in an office, under the Michigan Board of Dentistry's anesthesia and sedation rules, with the office’s monitoring and rescue equipment a frequent issue. **[VERIFY: current dental anesthesia permit rules; the attorney did not verify this; check it against the source before publication]**
 - **A drug or device manufacturer**, where a pump, vaporizer, monitor, or drug was defective; that claim follows product liability rules.
 
 Identifying every provider in the room, their employer, and the hospital’s contracts is the first task in an anesthesia case, because Michigan’s expert rule, below, is applied provider by provider.
@@ -55,7 +55,7 @@ Identifying every provider in the room, their employer, and the hospital’s con
 | **Affidavit of merit** | An affidavit from a qualified expert filed with the complaint, stating the standard of care, the breach, and causation | MCL 600.2912d |
 | **Same-specialty expert** | The expert must practice or teach in the same specialty as the defendant, and if the defendant is board-certified, so must the expert be; a claim against a board-certified anesthesiologist generally needs an anesthesiologist board-certified in the same specialty; a claim against a CRNA generally needs an appropriately qualified nursing expert in the same profession | MCL 600.2169 |
 | **Lost opportunity** | Where the claim is that the error reduced the chance of a better outcome, the lost opportunity must exceed 50% | MCL 600.2912a(2) |
-| **Non-economic damages cap** | $596,400 in 2026; $1,065,000 for qualifying hemiplegia, paraplegia, or quadriplegia causing total permanent functional loss of one or more limbs from brain or spinal cord injury; permanent cognitive impairment preventing independent responsible life decisions and normal daily activities; or permanent reproductive-organ damage causing inability to procreate. Adjusted annually by the State Treasurer. | MCL 600.1483 **[ATTORNEY CHECK: 2026 Treasury figures]** |
+| **Non-economic damages cap** | $596,400 in 2026; $1,065,000 for qualifying hemiplegia, paraplegia, or quadriplegia causing total permanent functional loss of one or more limbs from brain or spinal cord injury; permanent cognitive impairment preventing independent responsible life decisions and normal daily activities; or permanent reproductive-organ damage causing inability to procreate. Adjusted annually by the State Treasurer. | MCL 600.1483 |
 | **Comparative fault** | Damages reduced by the patient’s percentage of fault (misstated history, failure to follow fasting instructions) and non-economic damages barred above 50% | MCL 600.2959 |
 | **Wrongful death** | Brought by the estate’s personal representative; the same malpractice procedure applies, with a saving provision for the estate | MCL 600.2922, 600.5852 |
 
@@ -102,14 +102,14 @@ See our [medical malpractice](/personal-injury/medical-malpractice), [brain inju
 | Notice of intent | Served at least 182 days before suit; tolls the deadline | MCL 600.2912b, 600.5856(c) |
 | Affidavit of merit | Filed with the complaint | MCL 600.2912d |
 | Wrongful death | 2 years, with the estate’s saving provision | MCL 600.5805, 600.5852 |
-| Child’s claim | For a claim arising before age 8: by the child's 10th birthday or within the applicable period under MCL 600.5838a, whichever is later. | MCL 600.5851(7) **[ATTORNEY CHECK]** |
+| Child’s claim | For a claim arising before age 8: by the child's 10th birthday or within the applicable period under MCL 600.5838a, whichever is later. | MCL 600.5851(7) |
 | Product claim against a device or drug maker | 3 years | MCL 600.5805 |
 
 ## Why metro Detroit patients call ATLAW for anesthesia cases
 
 - **Thirteen years, more than 10,000 cases, more than $100 million recovered.**
-- **Board-certified anesthesiologists and CRNAs as reviewing experts**, as Michigan’s same-specialty rule requires. **[CONFIRM: expert network]**
-- **Every provider and contract identified**, so the hospital’s “independent contractor” defense is met with the ostensible agency rule. **[CONFIRM]**
+- **Anesthesiologists and CRNAs as reviewing experts**, meeting Michigan’s same-specialty requirements (MCL 600.2169).
+- **Every provider and contract identified**, so the hospital’s “independent contractor” defense is met with the ostensible agency rule.
 - **Records and monitor data preserved first.** For accepted cases, we send written requests to preserve relevant records and monitor data.
 - **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 - **Languages.** Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish.

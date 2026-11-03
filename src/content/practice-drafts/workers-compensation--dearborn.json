@@ -28,21 +28,7 @@
    "c": [
     {
      "t": "text",
-     "v": "ATLAW is a personal injury firm at 3 Parklane Boulevard in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients. "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "CONFIRM",
-       "v": "scope of the comp practice; see note"
-      }
-     ]
-    },
-    {
-     "t": "text",
-     "v": " Our "
+     "v": "ATLAW is a personal injury firm at 3 Parklane Boulevard in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients. ATLAW helps injured workers with workers’ compensation claims and reviews every work injury for a possible claim against a third party. Our "
     },
     {
      "t": "link",
@@ -295,17 +281,7 @@
       },
       {
        "t": "text",
-       "v": " The Dearborn Truck Plant, Dearborn Stamping, Dearborn Engine, the Rouge Electric Vehicle Center, Ford’s world headquarters and research campus, and the suppliers and logistics operations around them. Repetitive-motion and lifting injuries, crush and amputation injuries from presses and robotics, falls, and exposures. Ford is self-insured; the first 28 days of care are typically at plant medical. The UAW-Ford agreement adds grievance rights and sickness-and-accident benefits that interact with comp (MCL 418.354). "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "S&A coordination"
-        }
-       ]
+       "v": " The Dearborn Truck Plant, Dearborn Stamping, Dearborn Engine, the Rouge Electric Vehicle Center, Ford’s world headquarters and research campus, and the suppliers and logistics operations around them. Repetitive-motion and lifting injuries, crush and amputation injuries from presses and robotics, falls, and exposures. Ford is self-insured; the first 28 days of care are typically at plant medical. The UAW-Ford agreement adds grievance rights and sickness-and-accident benefits that interact with comp (MCL 418.354)."
       }
      ]
     },
@@ -359,17 +335,7 @@
       },
       {
        "t": "text",
-       "v": " Dearborn Police, Fire, and Public Works; Dearborn Public Schools; Henry Ford College; UM-Dearborn. Public employers with their own pension and duty-disability provisions that run alongside comp and must be coordinated. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "City and school coordination; firefighter presumption under 418.405"
-        }
-       ]
+       "v": " Dearborn Police, Fire, and Public Works; Dearborn Public Schools; Henry Ford College; UM-Dearborn. Public employers with their own pension and duty-disability provisions that run alongside comp and must be coordinated."
       }
      ]
     },
@@ -387,17 +353,7 @@
       },
       {
        "t": "text",
-       "v": " Restaurants, bakeries, groceries, auto repair, and retail: burns, cuts, lifting injuries, and falls in high-turnover workforces where injuries often go unreported past the 90 days. Some of these employers carry no workers’ compensation insurance. An uninsured employer loses the exclusive-remedy protection: the injured worker may claim comp benefits and may also sue the employer in circuit court, and the employer’s officers can be personally liable (MCL 418.641, 418.647). "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "uninsured-employer remedies"
-        }
-       ]
+       "v": " Restaurants, bakeries, groceries, auto repair, and retail: burns, cuts, lifting injuries, and falls in high-turnover workforces where injuries often go unreported past the 90 days. Some of these employers carry no workers’ compensation insurance. An uninsured employer loses the exclusive-remedy protection: the injured worker may claim comp benefits and may also sue the employer in circuit court, and the employer’s officers can be personally liable (MCL 418.641, 418.647)."
       }
      ]
     },
@@ -447,17 +403,7 @@
       },
       {
        "t": "text",
-       "v": " A worker placed by a staffing agency is the agency’s employee, and the host employer may also be entitled to the exclusive-remedy bar under Michigan’s economic-reality test. Michigan courts have held that medical benefits are owed regardless of immigration status but that wage-loss benefits may be suspended while a worker cannot lawfully accept employment. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "dual employment; Sanchez v Eagle Alloy line; confirm the firm wants this paragraph"
-        }
-       ]
+       "v": " A worker placed by a staffing agency is the agency’s employee, and the host employer may also be entitled to the exclusive-remedy bar under Michigan’s economic-reality test. Michigan courts have held that medical benefits are owed regardless of immigration status but that wage-loss benefits may be suspended while a worker cannot lawfully accept employment."
       }
      ]
     }
@@ -779,21 +725,7 @@
       },
       {
        "t": "text",
-       "v": "). The comp insurer has a lien on that recovery (418.827(5)), reduced by its share of fees and costs; negotiating it is part of the work. The third-party suit is filed in the Third Judicial Circuit Court within three years (MCL 600.5805(2)). "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "3109 coordination"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " A permanent injury may also qualify for Social Security Disability, coordinated with comp under the federal offset; see our "
+       "v": "). The comp insurer has a lien on that recovery (418.827(5)), reduced by its share of fees and costs; negotiating it is part of the work. The third-party suit is filed in the Third Judicial Circuit Court within three years (MCL 600.5805(2)). A permanent injury may also qualify for Social Security Disability, coordinated with comp under the federal offset; see our "
       },
       {
        "t": "link",
@@ -1066,17 +998,7 @@
        [
         {
          "t": "text",
-         "v": "3 years "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "ATTORNEY CHECK",
-           "v": ""
-          }
-         ]
+         "v": "3 years"
         }
        ],
        [
@@ -1138,17 +1060,7 @@
       [
        {
         "t": "text",
-        "v": "Fees set by state rule and approved by the magistrate; nothing up front, nothing unless benefits are recovered. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "fee structure for contested claims and redemptions"
-         }
-        ]
+        "v": "Fees are contingent and limited by state rule, paid only from benefits recovered and approved by the magistrate; nothing up front, nothing unless benefits are recovered."
        }
       ],
       [
@@ -1222,17 +1134,7 @@
    "answer": [
     {
      "t": "text",
-     "v": "Notice to the employer in any language counts if it was given and understood, but proving it is the problem. Put it in writing in English as well, and keep a copy; we will do it for you. "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "ATTORNEY CHECK",
-       "v": ""
-      }
-     ]
+     "v": "Notice to the employer in any language counts if it was given and understood, but proving it is the problem. Put it in writing in English as well, and keep a copy; we will do it for you."
     }
    ]
   },
@@ -1241,17 +1143,7 @@
    "answer": [
     {
      "t": "text",
-     "v": "Nothing up front. Fees are limited by state rule to a percentage of the benefits recovered and must be approved by the magistrate. You owe nothing if no benefits are recovered. "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "CONFIRM",
-       "v": ""
-      }
-     ]
+     "v": "Nothing up front. Fees are limited by state rule to a percentage of the benefits recovered and must be approved by the magistrate. You owe nothing if no benefits are recovered."
     }
    ]
   }
@@ -1298,8 +1190,8 @@
    }
   ]
  },
- "wordCount": 2185,
- "openItems": 12,
+ "wordCount": 2153,
+ "openItems": 2,
  "source": {
   "file": "B2-79_Dearborn-Workers-Compensation-Lawyer.docx",
   "delivered": "2026-10-16"

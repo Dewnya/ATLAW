@@ -530,17 +530,7 @@
        },
        {
         "t": "text",
-        "v": " Using your RFC, age, education, and work experience under the Medical-Vocational Guidelines (the “grids”). This is where claimants over 50 with a history of physical work, which describes a large share of Detroit claimants, win or lose. A 55-year-old former line worker limited to sedentary work is generally found disabled under the grids; a 45-year-old with the same limits is generally not. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "ATTORNEY CHECK",
-          "v": "grid summary"
-         }
-        ]
+        "v": " Using your RFC, age, education, and work experience under the Medical-Vocational Guidelines (the “grids”). This is where claimants over 50 with a history of physical work, which describes a large share of Detroit claimants, win or lose. A 55-year-old former line worker limited to sedentary work is generally found disabled under the grids; a 45-year-old with the same limits is generally not."
        }
       ]
      ]
@@ -556,21 +546,7 @@
      "c": [
       {
        "t": "text",
-       "v": "The claim is the record, and Detroit’s record is scattered. We obtain and organize it from every source: the Detroit Medical Center hospitals and Henry Ford Health and their clinics; the community health centers that serve many Detroit claimants; the Detroit Wayne Integrated Health Network and its provider network for mental health treatment records, which are often the core of a claim and often the hardest to obtain; the John D. Dingell VA Medical Center for veterans; dialysis centers, pain clinics, and physical therapy providers; and the Michigan Disability Determination Services consultative examination, which a claimant should attend but should never rely on. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "provider list wording"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " Where treatment has gaps, because of cost or access, the gaps have to be explained in the record, not left for the judge to interpret. A treating physician’s opinion on your specific functional limits, in a form the regulations recognize (20 CFR 404.1520c), is often the difference at the hearing."
+       "v": "The claim is the record, and Detroit’s record is scattered. We obtain and organize it from every source: the Detroit Medical Center hospitals and Henry Ford Health and their clinics; the community health centers that serve many Detroit claimants; the Detroit Wayne Integrated Health Network and its provider network for mental health treatment records, which are often the core of a claim and often the hardest to obtain; the John D. Dingell VA Medical Center for veterans; dialysis centers, pain clinics, and physical therapy providers; and the Michigan Disability Determination Services consultative examination, which a claimant should attend but should never rely on. Where treatment has gaps, because of cost or access, the gaps have to be explained in the record, not left for the judge to interpret. A treating physician’s opinion on your specific functional limits, in a form the regulations recognize (20 CFR 404.1520c), is often the difference at the hearing."
       }
      ]
     }
@@ -863,7 +839,7 @@
        },
        {
         "t": "link",
-        "href": "/personal-injury/personal-injury/detroit",
+        "href": "/personal-injury/detroit",
         "c": [
          {
           "t": "text",
@@ -873,17 +849,7 @@
        },
        {
         "t": "text",
-        "v": ". "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "ATTORNEY CHECK",
-          "v": ""
-         }
-        ]
+        "v": "."
        }
       ],
       [
@@ -942,17 +908,7 @@
        },
        {
         "t": "text",
-        "v": " is an employment claim under the ADA and Michigan’s Persons with Disabilities Civil Rights Act, not a Social Security claim. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "whether the firm handles these or refers them; adjust sentence"
-         }
-        ]
+        "v": " is an employment claim under the ADA and Michigan’s Persons with Disabilities Civil Rights Act, not a Social Security claim; it is a separate claim, and we can refer you to employment counsel."
        }
       ]
      ]
@@ -1266,8 +1222,8 @@
    }
   ]
  },
- "wordCount": 2293,
- "openItems": 10,
+ "wordCount": 2284,
+ "openItems": 6,
  "source": {
   "file": "B2-70_Detroit-Social-Security-Disability-Lawyer.docx",
   "delivered": "2026-10-16"

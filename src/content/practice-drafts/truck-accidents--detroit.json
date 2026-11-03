@@ -326,17 +326,7 @@
       },
       {
        "t": "text",
-       "v": ". The size and weight of commercial trucks can contribute to severe injuries in collisions with smaller vehicles, including brain injuries, spinal cord injuries, and fatalities. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "weight statement; soften rate claim if unsourced"
-        }
-       ]
+       "v": ". The size and weight of commercial trucks can contribute to severe injuries in collisions with smaller vehicles, including brain injuries, spinal cord injuries, and fatalities."
       }
      ]
     }
@@ -374,17 +364,7 @@
       },
       {
        "t": "text",
-       "v": " Both corridors put international freight on streets shared with houses, schools, and pedestrians, which is why Southwest Detroit residents have pressed the City for years to enforce truck routes. Customs and plaza congestion can create slow-moving or stopped truck traffic, increasing the importance of following distance, visibility, and safe stopping. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "soften if preferred"
-        }
-       ]
+       "v": " Both corridors put international freight on streets shared with houses, schools, and pedestrians, which is why Southwest Detroit residents have pressed the City for years to enforce truck routes. Customs and plaza congestion can create slow-moving or stopped truck traffic, increasing the importance of following distance, visibility, and safe stopping."
       }
      ]
     },
@@ -487,8 +467,8 @@
        "c": [
         {
          "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "cite the current Detroit truck route ordinance section"
+         "kind": "VERIFY",
+         "v": "cite the current Detroit truck route ordinance section; the attorney did not verify this; check it against the source before publication"
         }
        ]
       },
@@ -518,21 +498,7 @@
       },
       {
        "t": "text",
-       "v": " Federal Motor Carrier Safety Regulations impose safety duties on qualifying motor carriers and drivers. A carrier may be liable for a driver’s negligence within the scope of employment or for its own negligent hiring, supervision, maintenance, or safety practices. Michigan has adopted many federal motor-carrier safety regulations for intrastate operations under MCL 480.11a, subject to exceptions and modifications. The applicable requirements depend on the carrier, vehicle, and operation. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": ""
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " The rules that decide Detroit cases most often:"
+       "v": " Federal Motor Carrier Safety Regulations impose safety duties on qualifying motor carriers and drivers. A carrier may be liable for a driver’s negligence within the scope of employment or for its own negligent hiring, supervision, maintenance, or safety practices. Michigan has adopted many federal motor-carrier safety regulations for intrastate operations under MCL 480.11a, subject to exceptions and modifications. The applicable requirements depend on the carrier, vehicle, and operation. The rules that decide Detroit cases most often:"
       }
      ]
     },
@@ -767,17 +733,7 @@
       },
       {
        "t": "text",
-       "v": " Depending on the circumstances, other potentially responsible parties may include a shipper, loader, freight broker, maintenance contractor, component manufacturer, or separate trailer owner. Canadian motor carriers operating commercially in the United States are generally subject to applicable federal registration, safety, and financial-responsibility requirements. A crash in Michigan may support a lawsuit here, but jurisdiction, coverage, and responsible parties must be evaluated under the circumstances. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": ""
-        }
-       ]
+       "v": " Depending on the circumstances, other potentially responsible parties may include a shipper, loader, freight broker, maintenance contractor, component manufacturer, or separate trailer owner. Canadian motor carriers operating commercially in the United States are generally subject to applicable federal registration, safety, and financial-responsibility requirements. A crash in Michigan may support a lawsuit here, but jurisdiction, coverage, and responsible parties must be evaluated under the circumstances."
       }
      ]
     },
@@ -824,7 +780,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Federal regulations generally require carriers to retain driver duty-status records and supporting documents for at least six months under 49 CFR 395.8(k), and qualifying driver vehicle inspection reports for at least three months under 49 CFR 396.11. Longer preservation duties may apply when litigation is reasonably anticipated. Bridge plaza, freeway, plant-gate, Project Green Light, and business-camera retention periods vary by system and operator. Relevant footage should be identified and preservation requested promptly. Truck engine-control and event-data records may be lost through subsequent operation, repairs, or overwriting, making prompt preservation important. The first act in a Detroit truck case is a "
+       "v": "Federal regulations generally require carriers to retain driver duty-status records and supporting documents for at least six months under 49 CFR 395.8(k), and qualifying driver vehicle inspection reports for at least three months under 49 CFR 396.11. Longer preservation duties may apply when litigation is reasonably anticipated. Bridge plaza, freeway, plant-gate, Project Green Light, and business-camera retention periods vary by system and operator. Relevant footage should be identified and preservation requested promptly. Truck engine-control and event-data records may be lost through subsequent operation, repairs, or overwriting, making prompt preservation important. We send a "
       },
       {
        "t": "strong",
@@ -837,17 +793,7 @@
       },
       {
        "t": "text",
-       "v": " to the carrier, its insurer, the trailer owner, and the shipper, demanding that they keep the ELD data, the ECM and EDR data, the dash and cab camera footage, the driver’s qualification file and post-crash test results, the dispatch, bill-of-lading, and customs records, the maintenance file, and the truck itself for inspection. A carrier that fails to preserve material evidence when litigation is reasonably anticipated may face evidentiary consequences or court sanctions, depending on the circumstances. Depending on the circumstances, relevant records may be requested from Michigan State Police Commercial Vehicle Enforcement, Detroit Police, bridge authorities, MDOT, and other entities through applicable records-request procedures. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "firm’s preservation-letter practice and timing"
-        }
-       ]
+       "v": " to the carrier, its insurer, the trailer owner, and the shipper, demanding that they keep the ELD data, the ECM and EDR data, the dash and cab camera footage, the driver’s qualification file and post-crash test results, the dispatch, bill-of-lading, and customs records, the maintenance file, and the truck itself for inspection. A carrier that fails to preserve material evidence when litigation is reasonably anticipated may face evidentiary consequences or court sanctions, depending on the circumstances. Depending on the circumstances, we request the relevant records from Michigan State Police Commercial Vehicle Enforcement, Detroit Police, bridge authorities, MDOT, and other entities through applicable records-request procedures."
       }
      ]
     }
@@ -1000,17 +946,7 @@
       },
       {
        "t": "text",
-       "v": ". Where the carrier is based in another county or state, venue may be available there as well (MCL 600.1629). "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": ""
-        }
-       ]
+       "v": ". Where the carrier is based in another county or state, venue may be available there as well (MCL 600.1629)."
       }
      ]
     }
@@ -1299,17 +1235,7 @@
    "answer": [
     {
      "t": "text",
-     "v": "Yes. A privately operated refuse truck may involve a claim against its hauler or other legally responsible parties. A qualifying crash involving a government-owned truck may implicate the Governmental Tort Liability Act’s motor vehicle exception (MCL 691.1405), depending on the circumstances. Available vehicle video, GPS information, dispatch records, and other relevant evidence should be identified and preservation requested promptly. "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "ATTORNEY CHECK",
-       "v": ""
-      }
-     ]
+     "v": "Yes. A privately operated refuse truck may involve a claim against its hauler or other legally responsible parties. A qualifying crash involving a government-owned truck may implicate the Governmental Tort Liability Act’s motor vehicle exception (MCL 691.1405), depending on the circumstances. Available vehicle video, GPS information, dispatch records, and other relevant evidence should be identified and preservation requested promptly."
     }
    ]
   },
@@ -1365,8 +1291,8 @@
    }
   ]
  },
- "wordCount": 2943,
- "openItems": 10,
+ "wordCount": 2916,
+ "openItems": 3,
  "source": {
   "file": "B2-62_Detroit-Truck-Accident-Lawyer.docx",
   "delivered": "2026-10-16"

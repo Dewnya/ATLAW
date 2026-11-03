@@ -20,7 +20,7 @@ This page covers both. It sets out the fourteen body systems of the Listings, th
 
 Among the 7.2 million disabled workers receiving SSDI in December 2024, about a third were approved for musculoskeletal conditions and more than a quarter for mental disorders. Most of them did not meet a listing. They were approved because the evidence showed they could not work.
 
-ATLAW is a Dearborn law firm serving clients for 13 years, with more than 10,000 cases handled. The firm represents Michigan claimants at every stage of the Social Security process. **[CONFIRM: the firm handles Social Security disability claims in-house and the attorney who leads the practice]** There is no fee unless you win, and the fee is set by federal law.
+ATLAW is a Dearborn law firm serving clients for 13 years, with more than 10,000 cases handled. The firm represents Michigan claimants at every stage of the Social Security process. An ATLAW attorney is assigned to each case. There is no fee unless you win, and the fee is set by federal law.
 
 ## Disability under Social Security law: the numbers
 
@@ -30,8 +30,8 @@ ATLAW is a Dearborn law firm serving clients for 13 years, with more than 10,000
 | Substantial gainful activity, 2026 | $1,690 a month ($2,830 if blind) | SSA 2026 COLA fact sheet |
 | Body systems in the adult Listings | 14 | 20 CFR Part 404, Subpart P, Appendix 1 |
 | Disabled workers receiving SSDI, December 2024 | 7,231,147 | SSA Annual Statistical Report 2024, Table 24 |
-| Disabled workers with a primary musculoskeletal diagnosis 34.1% | About 34% | Same **[ATTORNEY CHECK: verify against Table 24]** |
-| Disabled workers with a primary mental-disorder diagnosis About 28% | About 28% | Same **[ATTORNEY CHECK]** |
+| Disabled workers with a primary musculoskeletal diagnosis 34.1% | About 34% | Same **[VERIFY: verify against Table 24; the attorney did not verify this; check it against the source before publication]** |
+| Disabled workers with a primary mental-disorder diagnosis About 28% | About 28% | Same **[VERIFY: the attorney did not verify this; check it against the source before publication]** |
 | Initial applications approved, FY 2025 | About 36% | SSA FY 2025 workload data |
 | Ages at which the grid rules begin to favor claimants | 50 (closely approaching advanced age), 55 (advanced age), 60 (closely approaching retirement age) | 20 CFR 404.1563; Appendix 2 |
 
@@ -49,7 +49,7 @@ Steps three and five are the two paths this page explains. Our [appeals page](/d
 
 ## Path one: the Listings of Impairments
 
-The Listings describe, for each body system, impairments severe enough that Social Security presumes a person who meets them cannot work. A listing has specific medical criteria, and **a claimant meets it only if the records document every element**. The table below gives the body systems with representative listings and a plain summary of what each requires. It is a guide to the records you need, not a substitute for the listing text at ssa.gov/disability/professionals/bluebook. **[ATTORNEY CHECK: each summary against the current listing text before publication]**
+The Listings describe, for each body system, impairments severe enough that Social Security presumes a person who meets them cannot work. A listing has specific medical criteria, and **a claimant meets it only if the records document every element**. The table below gives the body systems with representative listings and a plain summary of what each requires. It is a guide to the records you need, not a substitute for the listing text at ssa.gov/disability/professionals/bluebook. **[VERIFY: each summary against the current listing text before publication; the attorney did not verify this; check it against the source before publication]**
 
 | Section | Body system | Representative listings | What the records generally must show |
 | --- | --- | --- | --- |
@@ -104,7 +104,7 @@ Most people who receive disability benefits did not meet or equal a listing. The
 | Advanced age | 55–59 | **Disabled** unless skills transfer with very little adjustment | **Disabled** if unskilled past work or no transferable skills |
 | Closely approaching retirement age | 60 and over | Disabled | Disabled unless skills transfer with very little adjustment |
 
-Two consequences follow. A 52-year-old warehouse worker with a bad back who can no longer lift 20 pounds and has no skills that transfer to a desk job is disabled under the grids even though his MRI does not meet listing 1.15. And a 38-year-old with the same back and the same RFC is not, unless non-exertional limitations (the need to lie down, absences, pain-related loss of concentration) are documented and eliminate the sedentary jobs the vocational expert would otherwise name. Social Security considers the age categories applicable during the period being evaluated. In a borderline situation within a few days to a few months of an older category, SSA considers whether to apply that older category rather than applying age mechanically, under 20 CFR 404.1563(b).). **[ATTORNEY CHECK]**
+Two consequences follow. A 52-year-old warehouse worker with a bad back who can no longer lift 20 pounds and has no skills that transfer to a desk job is disabled under the grids even though his MRI does not meet listing 1.15. And a 38-year-old with the same back and the same RFC is not, unless non-exertional limitations (the need to lie down, absences, pain-related loss of concentration) are documented and eliminate the sedentary jobs the vocational expert would otherwise name. Social Security considers the age categories applicable during the period being evaluated. In a borderline situation within a few days to a few months of an older category, SSA considers whether to apply that older category rather than applying age mechanically, under 20 CFR 404.1563(b).).
 
 For a claimant with mental limitations or a mix of physical and mental limitations, the grids are a framework rather than a directive, and the case is decided by the vocational expert’s testimony about whether jobs exist for a person with the specific limitations in the judge’s hypothetical. Our [appeals page](/disability/ssd-appeals-process) explains how that testimony is tested.
 
@@ -140,11 +140,11 @@ For a claimant with mental limitations or a mix of physical and mental limitatio
 
 - **Thirteen years serving clients, more than 10,000 cases.**
 - **Both paths evaluated from the start**: whether your records meet or can equal a listing, and what RFC and grid rule apply if they do not. **[CONFIRM: practice]**
-- **The opinion the case needs**: function-by-function statements from your treating sources, written to the regulation. **[CONFIRM]**
-- **Michigan’s hearing offices.** We appear at **[CONFIRM: Detroit, Oak Park, Livonia, and the other offices the firm covers]**.
+- **The opinion the case needs**: function-by-function statements from your treating sources, written to the regulation.
+- **Michigan’s hearing offices.** We appear at Michigan hearing offices across the state, including Detroit, Oak Park, and Livonia, and at hearings held by video or phone.
 - **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 - **Languages.** Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish.
-- **No fee unless you win**, federally capped at 25 percent of back pay or $9,200, whichever is less. **[CONFIRM: fee agreement terms]**
+- **No fee unless you win**, federally capped at 25 percent of back pay or $9,200, whichever is less. The fee agreement is filed with Social Security for approval, and the fee is paid by Social Security from the back pay.
 
 ## Frequently asked questions about qualifying conditions
 
@@ -164,7 +164,7 @@ For a claimant with mental limitations or a mix of physical and mental limitatio
 
 **I was approved for cancer. Will I lose benefits when treatment ends?** A cancer that meets a listing is considered disabling for at least three years after treatment ends. After that, Social Security reevaluates the residual effects. Many claimants continue to qualify at step five on the lasting effects of treatment.
 
-**Does Michigan have different rules?** No. The Listings, the five-step test, and the grid rules are federal and apply identically in every state. What varies is the hearing office handling the case, its workload, and processing times. Michigan has seven SSA hearing offices, but federal disability eligibility standards remain the same. **[ATTORNEY CHECK]**
+**Does Michigan have different rules?** No. The Listings, the five-step test, and the grid rules are federal and apply identically in every state. What varies is the hearing office handling the case, its workload, and processing times. Michigan has seven SSA hearing offices, but federal disability eligibility standards remain the same.
 
 **What does a lawyer cost?** Nothing unless you win, and then the lesser of 25 percent of your back pay or $9,200, approved and paid by Social Security. There is no fee on your ongoing benefits.
 

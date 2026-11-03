@@ -66,7 +66,7 @@ ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled mo
 - [Bus accidents](/personal-injury/bus-accidents) involving SMART and the school districts
 - [Rideshare accidents](/personal-injury/rideshare-accidents) on the Nautical Mile
 - [Drunk driving](/personal-injury/drunk-driving-accidents) crashes and dram shop claims against the Jefferson and Harper bars and restaurants
-- Boating, jet-ski, dock, and marina injuries on Lake St. Clair **[CONFIRM: whether to name]**
+- Boating, jet-ski, dock, and marina injuries on Lake St. Clair
 - [Slip and fall](/personal-injury/slip-and-fall) and [premises liability](/personal-injury/premises-liability) at the marinas, the Harper strips, and the apartment and condominium complexes
 - [Tenant injuries](/personal-injury/tenant-injuries)
 - [Dog bites](/personal-injury/dog-bites)

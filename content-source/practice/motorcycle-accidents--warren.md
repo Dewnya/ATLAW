@@ -47,7 +47,7 @@ ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parkla
 - **The Macomb County Department of Roads for Mound and many of the mile roads**: written notice within 120 days (MCL 691.1404).
 - **The City of Warren for other streets**, with the City’s Engineering Division confirming which agency has a given street: written notice within 120 days (MCL 691.1404).
 
-A defect that was readily apparent for 30 days or more is presumed known to the agency (MCL 691.1403). Notice to the wrong agency is not notice. **[ATTORNEY CHECK: jurisdiction list; 1403 presumption]**
+A defect that was readily apparent for 30 days or more is presumed known to the agency (MCL 691.1403). Notice to the wrong agency is not notice.
 
 **Bars and restaurants.** 31 percent of Michigan’s 2024 rider deaths involved alcohol. A bar that over-served the driver who hit a rider can be liable under the dram shop act: written notice within 120 days after you hire a lawyer, and suit within two years (MCL 436.1801(3)). See our [drunk driving accident page](/personal-injury/drunk-driving-accidents).
 
@@ -80,11 +80,11 @@ For pain and suffering and economic losses beyond no-fault, you sue the at-fault
 
 ## The helmet question
 
-Since 2012, Michigan has let riders 21 and older ride without a helmet if they carry at least $20,000 in first-party medical coverage and have either held a motorcycle endorsement for two years or passed an approved safety course (MCL 257.658). If you met those conditions, riding helmetless was legal, so it was not a traffic violation. In a head-injury case the insurer will argue a helmet would have reduced the injury, which is a damages argument for the jury, not a bar; in a leg or shoulder case it is irrelevant. **[ATTORNEY CHECK]**
+Since 2012, Michigan has let riders 21 and older ride without a helmet if they carry at least $20,000 in first-party medical coverage and have either held a motorcycle endorsement for two years or passed an approved safety course (MCL 257.658). If you met those conditions, riding helmetless was legal, so it was not a traffic violation. In a head-injury case the insurer will argue a helmet would have reduced the injury, which is a damages argument for the jury, not a bar; in a leg or shoulder case it is irrelevant.
 
 ## What to do after a Warren motorcycle crash
 
-1. **Get medical care the same day.** Henry Ford Warren Hospital on Twelve Mile (formerly Ascension Macomb-Oakland, Warren campus), Henry Ford Macomb, and McLaren Macomb treat many of the area’s injured. **[CONFIRM: hospital list and trauma designations]**
+1. **Get medical care the same day.** Henry Ford Warren Hospital on Twelve Mile (formerly Ascension Macomb-Oakland, Warren campus), Henry Ford Macomb, and McLaren Macomb treat many of the area’s injured.
 2. **Get the police report** from Warren Police, or the State Police on I-696; a Warren Police UD-10 is purchased through CLEMIS, and a State Police UD-10 at michigan.gov/tcps. If a car caused the crash without contact, make sure the report says so.
 3. **Identify every vehicle involved**, including the one that never touched you.
 4. **Photograph the bike, the scene, the road surface, your gear, and your injuries.** Do not repair or sell the bike.
@@ -94,7 +94,7 @@ Since 2012, Michigan has let riders 21 and older ride without a helmet if they c
 
 ## The courts and deadlines
 
-Rider injury suits over $25,000 go to the Sixteenth Judicial Circuit Court in Mount Clemens, or in some Eight Mile or Dequindre cases to the Wayne or Oakland County courts (MCL 600.1629); smaller claims to the 37th District Court on Common Road; claims against MDOT to the Court of Claims. **[ATTORNEY CHECK]**
+Rider injury suits over $25,000 go to the Sixteenth Judicial Circuit Court in Mount Clemens, or in some Eight Mile or Dequindre cases to the Wayne or Oakland County courts (MCL 600.1629); smaller claims to the 37th District Court on Common Road; claims against MDOT to the Court of Claims.
 
 | What | When | Statute |
 | --- | --- | --- |
@@ -110,7 +110,7 @@ Rider injury suits over $25,000 go to the Sixteenth Judicial Circuit Court in Mo
 - 13 years of Michigan injury practice; more than 10,000 cases; more than $100 million recovered.
 - Every vehicle involved and every policy in the priority chain identified before the no-fault application is filed.
 - The road agency identified before the notice runs.
-- No fee unless we recover money for you. The first conversation is free. **[CONFIRM: fee terms; languages; home and hospital visits; whether anyone at the firm rides]**
+- No fee unless we recover money for you, and the first conversation is free. ATLAW advances the case costs, so you pay nothing up front; costs come out of the recovery first, the 33.3% fee is calculated on the remainder, and if there is no recovery you owe no fee and no costs. Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish. We welcome clients to our Dearborn office for a consultation; if you are unable to visit, home or hospital visits can be arranged as needed.
 
 ## Frequently asked questions
 

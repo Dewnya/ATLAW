@@ -1,7 +1,7 @@
 ---
 slug: passenger-injury
 section: personal-injury
-status: draft
+status: approved
 seoTitle: Michigan Passenger Injury Lawyer – Injured as a Passenger? Your Rights
 seoDescription: Injured as a passenger in a Michigan crash? Learn whose insurance pays your medical bills, who you can sue (including your own driver), and the one-year deadline. Free review.
 h1: Michigan Passenger Injury Lawyer
@@ -60,7 +60,7 @@ PIP pays bills. It does not pay for pain and suffering. For that, you sue the dr
 As a passenger, your potential defendants are:
 
 - **The other driver**, if they were at fault, through their liability insurance.
-- **Your own driver**, if they were at fault, through theirs. A passenger is not required to choose. Michigan abolished the rule that once barred passengers from suing the driver who gave them a ride, and nothing in the law prevents a passenger from suing a friend, a spouse, or a parent who was driving negligently. The claim is paid by the driver’s insurer, not by the driver. **[ATTORNEY CHECK: policy “family member” or “household” exclusions; Michigan courts have limited their enforceability]**
+- **Your own driver**, if they were at fault, through theirs. A passenger is not required to choose. Michigan abolished the rule that once barred passengers from suing the driver who gave them a ride, and nothing in the law prevents a passenger from suing a friend, a spouse, or a parent who was driving negligently. The claim is usually paid by the driver’s liability insurer, up to the policy’s limits.
 - **The owner of the car**, if different from the driver. Michigan’s owner’s liability statute (MCL 257.401) makes a vehicle owner liable for the negligent driving of anyone using the car with the owner’s consent. A passenger injured by a friend driving a borrowed car has a claim against the owner’s policy.
 - **Both drivers**, when fault is shared. Michigan assigns each defendant a percentage of fault and, in most cases, each pays only that percentage (MCL 600.2956, 600.6304). A passenger’s claim is therefore filed against every driver who contributed, so that the full amount is covered.
 - **The employer**, if the at-fault driver was working. **The bar or store** that served a visibly intoxicated at-fault driver (MCL 436.1801, with a 120-day notice rule). **The manufacturer**, if a defect in the vehicle or a seat belt or airbag made your injury worse.

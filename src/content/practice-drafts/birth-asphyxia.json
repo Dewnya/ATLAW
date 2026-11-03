@@ -39,17 +39,7 @@
    "c": [
     {
      "t": "text",
-     "v": "ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across Wayne, Oakland, Macomb, and Washtenaw counties. HIE cases are handled on contingency: no fee unless we recover money for your family, and the first conversation is free. "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "CONFIRM",
-       "v": "the firm handles birth injury cases in-house, and the attorney who leads them"
-      }
-     ]
+     "v": "ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across Wayne, Oakland, Macomb, and Washtenaw counties. HIE cases are handled on contingency: no fee unless we recover money for your family, and the first conversation is free. ATLAW handles these cases and works with qualified medical experts to review each one."
     }
    ]
   }
@@ -610,17 +600,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Since the mid-2000s, cooling a newborn with moderate or severe HIE to about 33.5°C for 72 hours, beginning within six hours of birth, has been the standard treatment. It reduces death and major disability; the benefit falls as the start is delayed, and after six hours it is largely lost. The eligibility criteria used by most programs: gestational age of 36 weeks or more; evidence of an acute perinatal event with a cord or early blood gas pH of 7.0 or less or a base deficit of 16 or more (or a less severe gas with a sentinel event, a low 10-minute Apgar, or prolonged ventilation); and moderate or severe encephalopathy on examination or EEG. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "/ MEDICAL CONSULTANT: criteria as stated"
-        }
-       ]
+       "v": "Since the mid-2000s, cooling a newborn with moderate or severe HIE to about 33.5°C for 72 hours, beginning within six hours of birth, has been the standard treatment. It reduces death and major disability; the benefit falls as the start is delayed, and after six hours it is largely lost. The eligibility criteria used by most programs: gestational age of 36 weeks or more; evidence of an acute perinatal event with a cord or early blood gas pH of 7.0 or less or a base deficit of 16 or more (or a less severe gas with a sentinel event, a low 10-minute Apgar, or prolonged ventilation); and moderate or severe encephalopathy on examination or EEG."
       }
      ]
     },
@@ -703,17 +683,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Those criteria are applied by experts in maternal-fetal medicine, neonatology, pediatric neurology, and neuroradiology. The single most important document is the complete fetal monitoring strip, which records, minute by minute, whether the fetus was oxygenated when labor began and when it stopped being so, and what the staff did about it. The nurse’s documented interpretation, the times the physician was notified, the oxytocin rate, and the decision-to-incision interval for the cesarean convert the strip into a timeline. Hospitals must retain records for at least seven years (MCL 333.20175), but strips are archived separately and are sometimes incomplete; a written preservation request goes out as soon as a family suspects a problem. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "the firm’s preservation practice"
-        }
-       ]
+       "v": "Those criteria are applied by experts in maternal-fetal medicine, neonatology, pediatric neurology, and neuroradiology. The single most important document is the complete fetal monitoring strip, which records, minute by minute, whether the fetus was oxygenated when labor began and when it stopped being so, and what the staff did about it. The nurse’s documented interpretation, the times the physician was notified, the oxytocin rate, and the decision-to-incision interval for the cesarean convert the strip into a timeline. Hospitals must retain records for at least seven years (MCL 333.20175), but strips are archived separately and are sometimes incomplete; a written preservation request should go to the hospital as early as possible."
       }
      ]
     }
@@ -1252,17 +1222,7 @@
        },
        {
         "t": "text",
-        "v": ": maternal-fetal medicine, labor nursing, neonatology, pediatric neurology, neuroradiology, and life care planning. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "expert network"
-         }
-        ]
+        "v": ": maternal-fetal medicine, labor nursing, neonatology, pediatric neurology, neuroradiology, and life care planning, with reviewing experts who meet Michigan’s same-specialty requirements (MCL 600.2169)."
        }
       ],
       [
@@ -1277,17 +1237,7 @@
        },
        {
         "t": "text",
-        "v": ", so the “it happened before labor” defense is met with the criteria the profession itself uses. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": ""
-         }
-        ]
+        "v": ", so the “it happened before labor” defense is met with the criteria the profession itself uses."
        }
       ],
       [
@@ -1307,23 +1257,13 @@
         "c": [
          {
           "t": "text",
-          "v": "Settlements structured to protect the child’s benefits."
+          "v": "Settlements structured to protect the child’s benefits"
          }
         ]
        },
        {
         "t": "text",
-        "v": "  "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "special needs planning coordination"
-         }
-        ]
+        "v": ", coordinated where needed with special needs planning professionals."
        }
       ],
       [
@@ -1496,8 +1436,8 @@
    }
   ]
  },
- "wordCount": 2764,
- "openItems": 6,
+ "wordCount": 2758,
+ "openItems": 0,
  "source": {
   "file": "B2-06_Michigan-Birth-Asphyxia-HIE-Lawyer.docx",
   "delivered": "2026-10-16"

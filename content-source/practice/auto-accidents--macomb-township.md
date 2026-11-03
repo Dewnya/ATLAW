@@ -2,7 +2,7 @@
 slug: auto-accidents
 section: personal-injury
 city: macomb-township
-status: draft
+status: approved
 seoTitle: Macomb Township, MI Car Accident Lawyer: Hall Road, Michigan Lefts, Roundabouts, Deer on the Mile Roads, County Roads and the Sheriff, No-Fault Benefits, and the 41A District Court
 seoDescription: Hurt in a car crash in Macomb Township? The township had 1,422 crashes and 476 people injured in 2024; 531 were on Hall Road, and 63 involved deer. Covers who pays your bills under no-fault, Michigan lefts and signals on Hall Road, roundabouts, two-lane mile roads and work zones, why the county (not the township) owns the roads and runs the police, uninsured drivers, and the one-year and three-year deadlines. Free review. (313) 406-7606.
 h1: Macomb Township, MI Car Accident Lawyer

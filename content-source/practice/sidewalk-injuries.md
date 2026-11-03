@@ -40,7 +40,7 @@ Three possibilities, each with different rules:
 | --- | --- | --- |
 | **Public sidewalk along a street** (city, county, or state road) | The city, village, or township in which it is installed, even along a county road or a state highway such as Michigan Avenue or Telegraph (MCL 691.1402a(1)) | Governmental immunity with the sidewalk exception: two-inch rule, 30-day knowledge, 120-day notice, two-year deadline |
 | **Private walkway** on commercial or residential property: a store entrance, a parking lot path, an apartment complex walk, a driveway apron | The owner or possessor of the property | Ordinary premises liability (Kandil-Elsayed v F & E Oil, 2023); three-year deadline. See our [premises liability](/personal-injury/premises-liability) page |
-| **Public sidewalk the abutting owner damaged or altered** | Possibly the abutting owner, in addition to the city | An abutting owner has no general duty to pedestrians for a public sidewalk, and a city ordinance requiring owners to repair or shovel does not by itself create one (Levendoski v Geisenhaver, 1965). The owner can be liable for a defect it created, such as a driveway cut, a tree-root heave it caused, or a hazard it placed. **[ATTORNEY CHECK]** |
+| **Public sidewalk the abutting owner damaged or altered** | Possibly the abutting owner, in addition to the city | An abutting owner has no general duty to pedestrians for a public sidewalk, and a city ordinance requiring owners to repair or shovel does not by itself create one (Levendoski v Geisenhaver, 1965). The owner can be liable for a defect it created, such as a driveway cut, a tree-root heave it caused, or a hazard it placed. |
 
 Ownership is not always obvious. A walkway from a parking lot to a store door is private; the sidewalk along the street in front of the store is the city’s; the apron where the two meet may be either. City GIS maps, the recorded plat, and the right-of-way width settle it, and the answer decides which deadline applies.
 
@@ -50,21 +50,21 @@ Michigan cities are immune from most negligence claims. The sidewalk exception (
 
 **1. The city’s duty is reasonable repair, with a presumption in its favor.** A city must maintain its sidewalks in reasonable repair, and in a lawsuit it is presumed to have done so. The presumption can be rebutted only by proof that a proximate cause of the injury was a **vertical discontinuity of two inches or more**, or a dangerous condition in the sidewalk itself of a particular character other than a height difference (MCL 691.1402a(3)). Whether the presumption is rebutted is decided by the judge, not the jury (691.1402a(4)). A 1¾-inch lip, measured at the point of the fall, loses the presumption; a 2-inch lip does not. The measurement, photographed with a ruler at the exact spot before the city grinds or replaces the slab, is the case.
 
-**2. The city must have known of the defect at least 30 days before your fall.** You must prove that at least 30 days before the injury the city knew, or in the exercise of reasonable diligence should have known, of the defect (691.1402a(2)). Photographs taken after the fall, by themselves, do not prove how long the defect existed (Bernardoni v City of Saginaw, 2021). **[ATTORNEY CHECK]** What does: prior complaints to the city’s 311 line or Improve Detroit app, prior work orders, prior falls at the same spot, Google Street View images dated months or years earlier, and expert testimony on how long a heave of that size takes to form. Those records are obtained by Freedom of Information Act request, and the request goes out in the first week.
+**2. The city must have known of the defect at least 30 days before your fall.** You must prove that at least 30 days before the injury the city knew, or in the exercise of reasonable diligence should have known, of the defect (691.1402a(2)). Photographs taken after the fall, by themselves, do not prove how long the defect existed (Bernardoni v City of Saginaw, 2016). What does: prior complaints to the city’s 311 line or Improve Detroit app, prior work orders, prior falls at the same spot, Google Street View images dated months or years earlier, and expert testimony on how long a heave of that size takes to form. Those records are obtained by Freedom of Information Act request, and the request goes out in the first week.
 
 **3. Written notice within 120 days.** Within 120 days of the injury, written notice must be served on the city, stating the exact location and nature of the defect, the injury sustained, and the names of witnesses known at the time (MCL 691.1404(1)). It must be served on an individual who may lawfully be served with process on behalf of the city, which usually means the clerk, the mayor, or the city attorney, by personal service or certified mail (691.1404(2)). The Michigan Supreme Court enforces the rule as written, without regard to whether the city was prejudiced (Rowland v Washtenaw County Road Commission, 2007). A telephone call to the city, a 311 complaint, or an insurance claim does not satisfy it. A notice that omits the location, the injury, or the witnesses can be held defective. An incapacitated claimant has 180 days.
 
 **4. Suit within two years.** The limitations period for claims under the highway and sidewalk exceptions is two years, not the three years that applies to other injury claims (MCL 691.1411(2)).
 
-The city may also raise ordinary premises defenses, and the statute specifically preserves the open and obvious defense for sidewalk claims (691.1402a(5)). How that provision operates after the Supreme Court’s 2023 decision converting open and obvious into a comparative fault question is a live issue. **[ATTORNEY CHECK: current treatment of 691.1402a(5) after Kandil-Elsayed]**
+The city may also raise ordinary premises defenses, and the statute specifically preserves the open and obvious defense for sidewalk claims (691.1402a(5)). How that provision operates after the Supreme Court’s 2023 decision converting open and obvious into a comparative fault question is a live issue.
 
 ## Snow and ice on sidewalks
 
-A fall on an icy public sidewalk is usually not a claim against the city. The sidewalk exception covers defects in the sidewalk itself, and Michigan courts have held that a natural accumulation of ice or snow is not such a defect (Haliw v City of Sterling Heights, 2001). **[ATTORNEY CHECK]** The exception is a defect in the sidewalk that caused the ice, such as a depression that holds and freezes water, which is argued as a condition “in the sidewalk itself.”
+A fall on an icy public sidewalk is usually not a claim against the city. The sidewalk exception covers defects in the sidewalk itself, and Michigan courts have held that a natural accumulation of ice or snow is not such a defect (Haliw v City of Sterling Heights, 2001). The exception is a defect in the sidewalk that caused the ice, such as a depression that holds and freezes water, which is argued as a condition “in the sidewalk itself.”
 
 Private walkways are different. A business or landlord must take reasonable steps to clear snow and ice from its walkways within a reasonable time, and since 2023 the obviousness of ice is a comparative fault question rather than a bar (Kandil-Elsayed). A landlord’s statutory duty to keep common areas fit for their intended use applies to apartment walkways (MCL 554.139). See our [slip and fall](/personal-injury/slip-and-fall) and [tenant injury](/personal-injury/tenant-injuries) pages.
 
-An abutting homeowner or business that fails to shovel a public sidewalk in violation of a city ordinance may be ticketed by the city, but Michigan courts have held that the ordinance does not create a duty to the pedestrian who falls. **[ATTORNEY CHECK]**
+An abutting homeowner or business that fails to shovel a public sidewalk in violation of a city ordinance may be ticketed by the city, but Michigan courts have held that the ordinance does not create a duty to the pedestrian who falls.
 
 ## Private walkways: ordinary premises liability
 
@@ -107,8 +107,8 @@ Medical expenses, lost wages and earning capacity, pain and suffering, loss of e
 | Written notice to the city, village, or township (public sidewalk) | 120 days from the injury; 180 days if physically or mentally incapacitated | MCL 691.1404 |
 | Lawsuit against a city under the sidewalk exception | 2 years from the injury | MCL 691.1411(2) |
 | Lawsuit against a private owner (private walkway) | 3 years from the injury | MCL 600.5805(2) |
-| Wrongful death | 3 years, with saving provisions; 2 years for the claim against a city **[ATTORNEY CHECK]** | MCL 600.5852, 691.1411 |
-| Child’s claim | Tolled until the child’s 19th birthday, but the 120-day notice is not extended **[ATTORNEY CHECK]** | MCL 600.5851 |
+| Wrongful death | 3 years, with saving provisions; 2 years for the claim against a city | MCL 600.5852, 691.1411 |
+| Child’s claim | The limitations period runs to one year after the 18th birthday, but the written notice must be served within 180 days of the injury (it may be filed by a parent, attorney, next friend, or guardian) | MCL 600.5851(1); MCL 691.1404(3) |
 | FOIA request for the city’s complaint and repair records | Immediately; the city must respond within 5 business days, extendable by 10 | MCL 15.235 |
 
 ## Why metro Detroit sidewalk-fall clients call ATLAW
@@ -116,7 +116,7 @@ Medical expenses, lost wages and earning capacity, pain and suffering, loss of e
 - **Thirteen years, more than 10,000 cases, more than $100 million recovered.**
 - **The 120-day notice drafted and served in the first week**, with the location, defect, injury, and witnesses the statute requires, on the official the statute requires.
 - **FOIA requests on day one** for complaints, work orders, and prior claims at the location.
-- **Measurement and documentation** of the defect before the city repairs it. **[CONFIRM: site inspection practice]**
+- **Measurement and documentation** of the defect as early as possible, because cities often repair a defect after a fall is reported.
 - **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 - **Languages.** Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish.
 - **No fee unless we recover.** ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs. No cost for the first conversation.

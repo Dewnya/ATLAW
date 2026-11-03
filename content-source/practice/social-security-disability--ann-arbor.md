@@ -2,7 +2,7 @@
 slug: social-security-disability
 section: disability
 city: ann-arbor
-status: draft
+status: approved
 seoTitle: Ann Arbor Social Security Disability Lawyer: The Research Park Drive Field Office, Your Hearing, Denials, Skilled Work and the Age Rules, University and Public-Employer Disability Plans, and 2027 Figures
 seoDescription: Looking for the Social Security office in Ann Arbor, or denied disability benefits? Where to apply, which hearing office hears Ann Arbor appeals, the 60-day deadlines, how the five-step test treats skilled and professional work, University of Michigan and public-employer disability plans, federal employees, disabled adult children, and the fee set by federal law. 2026 and 2027 figures. Free review. (313) 406-7606.
 h1: Ann Arbor Social Security Disability Lawyer
@@ -140,7 +140,7 @@ The fee is set by federal law: 25 percent of back benefits, capped at the curren
 
 **Workers’ compensation** offsets SSDI (42 USC 424a), and a comp redemption should be written to limit the offset. See our [Ann Arbor workers’ compensation page](/personal-injury/workers-compensation/ann-arbor).
 
-**A personal injury settlement** does not reduce SSDI but can affect SSI. See our [Ann Arbor personal injury lawyer page](/personal-injury/personal-injury/ann-arbor).
+**A personal injury settlement** does not reduce SSDI but can affect SSI. See our [Ann Arbor personal injury lawyer page](/personal-injury/ann-arbor).
 
 **VA disability** is evidence Social Security must consider, but it does not bind Social Security.
 

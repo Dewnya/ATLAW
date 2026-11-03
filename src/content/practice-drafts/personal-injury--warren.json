@@ -324,21 +324,7 @@
       },
       {
        "t": "text",
-       "v": " The claim’s value is set mostly by the medical record, so we make sure it is complete and the bills are paid while you treat. We collect records from Henry Ford Warren Hospital on Twelve Mile (formerly Ascension Macomb-Oakland, Warren campus), Henry Ford Macomb, McLaren Macomb, and your own physicians and therapists "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "hospital list"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": ", and document lost wages with your employer, including overtime and shift premiums that plant workers often lose."
+       "v": " The claim’s value is set mostly by the medical record, so we make sure it is complete and the bills are paid while you treat. We collect records from Henry Ford Warren Hospital on Twelve Mile (formerly Ascension Macomb-Oakland, Warren campus), Henry Ford Macomb, McLaren Macomb, and your own physicians and therapists, and document lost wages with your employer, including overtime and shift premiums that plant workers often lose."
       }
      ]
     },
@@ -1055,17 +1041,7 @@
        [
         {
          "t": "text",
-         "v": "MCL 600.5851(1) "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "ATTORNEY CHECK",
-           "v": ""
-          }
-         ]
+         "v": "MCL 600.5851(1)"
         }
        ]
       ]
@@ -1222,8 +1198,8 @@
    }
   ]
  },
- "wordCount": 2079,
- "openItems": 3,
+ "wordCount": 2073,
+ "openItems": 1,
  "source": {
   "file": "B3-12_Warren-Personal-Injury-Lawyer.docx",
   "delivered": "October 23, 2026 [CONFIRM: Batch 3 delivery date]"

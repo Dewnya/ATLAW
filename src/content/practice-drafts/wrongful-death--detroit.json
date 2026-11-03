@@ -28,21 +28,7 @@
    "c": [
     {
      "t": "text",
-     "v": "ATLAW is a personal injury firm with an office at 3 Parklane Boulevard in Dearborn, serving families throughout Detroit and southeast Michigan. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients. ATLAW works with its probate team to address estate appointments, applicable no-fault survivor’s benefits, the wrongful-death claim, and the court-supervised settlement or distribution process. "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "CONFIRM",
-       "v": "that the firm opens the estate in-house"
-      }
-     ]
-    },
-    {
-     "t": "text",
-     "v": " Our "
+     "v": "ATLAW is a personal injury firm with an office at 3 Parklane Boulevard in Dearborn, serving families throughout Detroit and southeast Michigan. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients. ATLAW works with its probate team to address estate appointments, applicable no-fault survivor’s benefits, the wrongful-death claim, and the court-supervised settlement or distribution process. Our "
     },
     {
      "t": "link",
@@ -301,17 +287,7 @@
       },
       {
        "t": "text",
-       "v": " Only the personal representative of the estate can bring the claim (MCL 600.2922(2)). If the deceased lived in Wayne County, the person named as personal representative in the will may seek appointment through Wayne County Probate Court at the Coleman A. Young Municipal Center, 2 Woodward Avenue. If the deceased lived elsewhere, the estate is generally opened in the probate court for the county of domicile, subject to Michigan’s venue rules. If there was no will, a family member, usually the spouse or an adult child, petitions under Michigan’s priority rules (MCL 700.3203). The court issues letters of authority, and the personal representative then has standing to hire a lawyer for the estate and file the claim. Michigan allows informal appointment procedures in qualifying estates, although the timing depends on the documents, family circumstances, and court requirements. The estate appointment is an important early step because the personal representative brings the wrongful-death lawsuit. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "EPIC appointment description"
-        }
-       ]
+       "v": " Only the personal representative of the estate can bring the claim (MCL 600.2922(2)). If the deceased lived in Wayne County, the person named as personal representative in the will may seek appointment through Wayne County Probate Court at the Coleman A. Young Municipal Center, 2 Woodward Avenue. If the deceased lived elsewhere, the estate is generally opened in the probate court for the county of domicile, subject to Michigan’s venue rules. If there was no will, a family member, usually the spouse or an adult child, petitions under Michigan’s priority rules (MCL 700.3203). The court issues letters of authority, and the personal representative then has standing to hire a lawyer for the estate and file the claim. Michigan allows informal appointment procedures in qualifying estates, although the timing depends on the documents, family circumstances, and court requirements. The estate appointment is an important early step because the personal representative brings the wrongful-death lawsuit."
       }
      ]
     },
@@ -459,17 +435,7 @@
       },
       {
        "t": "text",
-       "v": " After a settlement or verdict, the personal representative files a motion proposing how to divide the proceeds among the eligible family members, with notice to each. The personal representative seeks court approval of the proposed distribution. When all entitled recipients are competent adults and execute the required verified agreement, the court may enter an order consistent with that agreement. Otherwise, the court determines distribution under the procedures in MCL 600.2922, considering the damages established for each eligible recipient. Attorney fees and litigation expenses are addressed under the applicable contingency-fee rules and court approval procedures. Individual relatives should understand the personal representative’s authority and the effect of any proposed settlement or release before signing documents with an insurer. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": ""
-        }
-       ]
+       "v": " After a settlement or verdict, the personal representative files a motion proposing how to divide the proceeds among the eligible family members, with notice to each. The personal representative seeks court approval of the proposed distribution. When all entitled recipients are competent adults and execute the required verified agreement, the court may enter an order consistent with that agreement. Otherwise, the court determines distribution under the procedures in MCL 600.2922, considering the damages established for each eligible recipient. Attorney fees and litigation expenses are addressed under the applicable contingency-fee rules and court approval procedures. Individual relatives should understand the personal representative’s authority and the effect of any proposed settlement or release before signing documents with an insurer."
       }
      ]
     }
@@ -631,21 +597,7 @@
       },
       {
        "t": "text",
-       "v": " A death caused by malpractice at a Detroit hospital or clinic is a wrongful death claim with the malpractice rules attached: a 182-day Notice of Intent before suit (MCL 600.2912b), an Affidavit of Merit (600.2912d), a two-year limitations period with a six-month discovery rule (600.5805(8), 600.5838a), and noneconomic damages limits of $596,400 for the standard tier or $1,065,000 for qualifying higher-tier injuries in 2026. In a wrongful-death case, the higher tier is not triggered by death alone; it depends on whether the statutory qualifying injury requirements were met before death (MCL 600.1483). "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "application of the caps in death cases"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " See our "
+       "v": " A death caused by malpractice at a Detroit hospital or clinic is a wrongful death claim with the malpractice rules attached: a 182-day Notice of Intent before suit (MCL 600.2912b), an Affidavit of Merit (600.2912d), a two-year limitations period with a six-month discovery rule (600.5805(8), 600.5838a), and noneconomic damages limits of $596,400 for the standard tier or $1,065,000 for qualifying higher-tier injuries in 2026. In a wrongful-death case, the higher tier is not triggered by death alone; it depends on whether the statutory qualifying injury requirements were met before death (MCL 600.1483). See our "
       },
       {
        "t": "link",
@@ -691,21 +643,7 @@
       },
       {
        "t": "text",
-       "v": " Deaths potentially linked to falls, pressure injuries, dehydration, medication errors, or inadequate care in Detroit nursing homes. Whether the claim is ordinary negligence or malpractice, with the malpractice notice and caps, depends on whether the conduct required medical judgment; the distinction decides the deadline and the damages. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": ""
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " See our "
+       "v": " Deaths potentially linked to falls, pressure injuries, dehydration, medication errors, or inadequate care in Detroit nursing homes. Whether the claim is ordinary negligence or malpractice, with the malpractice notice and caps, depends on whether the conduct required medical judgment; the distinction decides the deadline and the damages. See our "
       },
       {
        "t": "link",
@@ -769,17 +707,7 @@
       },
       {
        "t": "text",
-       "v": " A death involving a DDOT bus or another government-owned vehicle may give rise to a claim under the motor vehicle exception to governmental immunity (MCL 691.1405), when its statutory requirements are satisfied. Individual government employees may have statutory immunity from state-law tort claims. The availability of an exception, including gross negligence under MCL 691.1407(2), depends on the particular claim and circumstances. Deaths involving alleged unconstitutional police conduct may raise federal civil rights claims under 42 USC 1983. Those claims are subject to distinct legal standards, potential immunities, and filing requirements. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "GTLA summary; whether the firm handles 1983 claims or refers them"
-        }
-       ]
+       "v": " A death involving a DDOT bus or another government-owned vehicle may give rise to a claim under the motor vehicle exception to governmental immunity (MCL 691.1405), when its statutory requirements are satisfied. Individual government employees may have statutory immunity from state-law tort claims. The availability of an exception, including gross negligence under MCL 691.1407(2), depends on the particular claim and circumstances. Deaths involving alleged unconstitutional police conduct may raise federal civil rights claims under 42 USC 1983. Those claims are subject to distinct legal standards, potential immunities, and filing requirements."
       }
      ]
     },
@@ -797,21 +725,7 @@
       },
       {
        "t": "text",
-       "v": " A shooting or assault on commercial or rental property may support a premises-related claim in limited circumstances. Under Michigan law, a merchant or landlord may have a duty to reasonably expedite police involvement when it has notice of an imminent and foreseeable threat to an identifiable person. Prior criminal incidents alone do not automatically establish liability. Michigan courts apply this duty narrowly. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "premises-liability duty for third-party criminal acts"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " See our "
+       "v": " A shooting or assault on commercial or rental property may support a premises-related claim in limited circumstances. Under Michigan law, a merchant or landlord may have a duty to reasonably expedite police involvement when it has notice of an imminent and foreseeable threat to an identifiable person. Prior criminal incidents alone do not automatically establish liability. Michigan courts apply this duty narrowly. See our "
       },
       {
        "t": "link",
@@ -1122,17 +1036,7 @@
       [
        {
         "t": "text",
-        "v": "ATLAW works with its probate team to coordinate the estate-appointment process, applicable survivor’s loss benefits, the wrongful-death claim, and court-supervised distribution. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": ""
-         }
-        ]
+        "v": "ATLAW works with its probate team to coordinate the estate-appointment process, applicable survivor’s loss benefits, the wrongful-death claim, and court-supervised distribution."
        }
       ],
       [
@@ -1150,17 +1054,7 @@
       [
        {
         "t": "text",
-        "v": "Funeral and burial customs come first; the legal steps are worked around them. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "the firm is comfortable with this line"
-         }
-        ]
+        "v": "Funeral and burial customs come first; the legal steps are worked around them."
        }
       ],
       [
@@ -1264,17 +1158,7 @@
    "answer": [
     {
      "t": "text",
-     "v": "No. The case is handled on contingency, costs are advanced by the firm, and the fee and costs are approved by the probate court at the distribution hearing. "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "CONFIRM",
-       "v": ""
-      }
-     ]
+     "v": "No. The case is handled on contingency and ATLAW advances the case costs; costs are deducted from the recovery first, the 33.3% fee is calculated on the remainder, and the fee and costs are approved by the probate court before the money is distributed. If there is no recovery, the family owes no fee and no costs."
     }
    ]
   },
@@ -1330,8 +1214,8 @@
    }
   ]
  },
- "wordCount": 2795,
- "openItems": 10,
+ "wordCount": 2763,
+ "openItems": 0,
  "source": {
   "file": "B2-64_Detroit-Wrongful-Death-Lawyer.docx",
   "delivered": "2026-10-16"

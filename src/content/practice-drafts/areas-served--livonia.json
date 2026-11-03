@@ -557,21 +557,7 @@
       },
       {
        "t": "text",
-       "v": " Trinity Health Livonia Hospital (formerly St. Mary Mercy) on Five Mile is the city’s trauma center and treats most of Livonia’s seriously injured; Corewell Health Farmington Hills, Garden City Hospital, and the Detroit Level I centers treat the rest. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "verify Trinity Health Livonia’s trauma designation and that the list reflects where clients are treated"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " We obtain the full record from each, including the Livonia Fire Department EMS run sheet."
+       "v": " Trinity Health Livonia Hospital (formerly St. Mary Mercy) on Five Mile treats many of Livonia’s injured; Corewell Health Farmington Hills, Garden City Hospital, and the Detroit Level I centers treat others. We obtain the full record from each, including the Livonia Fire Department EMS run sheet."
       }
      ]
     },
@@ -1300,8 +1286,8 @@
    }
   ]
  },
- "wordCount": 2425,
- "openItems": 1,
+ "wordCount": 2401,
+ "openItems": 0,
  "source": {
   "file": "areas-served__livonia.docx",
   "delivered": "2026-10-16"

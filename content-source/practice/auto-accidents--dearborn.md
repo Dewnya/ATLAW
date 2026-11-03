@@ -17,7 +17,7 @@ delivered: 2026-10-16
 
 A car crash in Dearborn is a Michigan no-fault claim with Dearborn’s particulars. Five of the city’s main roads belong to the State, not the City. The drivers on them come from Detroit, where uninsured and minimum-limits policies are common, and from the western suburbs, where high-limit policies are. The city’s own police investigate, the 19th District Court on Michigan Avenue hears the small claims, and the Third Circuit in Detroit hears the rest. And a large share of the people hurt on Michigan Avenue and Warren speak Arabic at home, which matters when the insurer calls for a recorded statement.
 
-ATLAW is a personal injury firm at 3 Parklane Boulevard in Dearborn, minutes from the 19th District Court. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients, and many of those cases have come from Dearborn. Our [Michigan car accident lawyer page](/personal-injury/auto-accidents) covers the law in full and our [Dearborn page](/areas-served/dearborn) covers every kind of injury claim in the city; this page covers what is different about a Dearborn car crash claim; the claim process generally is on our [Dearborn personal injury lawyer page](/personal-injury/personal-injury/dearborn), and the county on our [Wayne County page](/areas-served/wayne-county). The first conversation is free, in English, Arabic, French, Mandarin, Urdu, or Spanish: (313) 406-7606.
+ATLAW is a personal injury firm at 3 Parklane Boulevard in Dearborn, minutes from the 19th District Court. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients, and many of those cases have come from Dearborn. Our [Michigan car accident lawyer page](/personal-injury/auto-accidents) covers the law in full and our [Dearborn page](/areas-served/dearborn) covers every kind of injury claim in the city; this page covers what is different about a Dearborn car crash claim; the claim process generally is on our [Dearborn personal injury lawyer page](/personal-injury/dearborn), and the county on our [Wayne County page](/areas-served/wayne-county). The first conversation is free, in English, Arabic, French, Mandarin, Urdu, or Spanish: (313) 406-7606.
 
 ## Dearborn crashes, 2024
 
@@ -40,7 +40,7 @@ ATLAW is a personal injury firm at 3 Parklane Boulevard in Dearborn, minutes fro
 
 **Telegraph, Greenfield, Schaefer, Wyoming, Outer Drive, and Warren.** The north-south arterials and Warren Avenue on the east side, where residential streets meet six-lane roads and where many of the city’s pedestrians and cyclists are hit; see our [pedestrian accident page](/personal-injury/pedestrian-accidents).
 
-**Whose road it is matters when the road caused the crash.** Michigan Avenue, Ford Road, Telegraph, the Southfield Freeway, and I-94 are MDOT trunklines; a defect claim goes to the Court of Claims, with written notice filed there within 120 days (MCL 691.1404). Greenfield, Outer Drive, and Warren are Wayne County roads; Schaefer and the neighborhood streets are the City’s; both take written notice within 120 days (MCL 691.1402, 691.1404). Notice to the wrong agency is not notice. **[ATTORNEY CHECK: road jurisdiction list]**
+**Whose road it is matters when the road caused the crash.** Michigan Avenue, Ford Road, Telegraph, the Southfield Freeway, and I-94 are MDOT trunklines; a defect claim goes to the Court of Claims, with written notice filed there within 120 days (MCL 691.1404). Greenfield, Outer Drive, and Warren are Wayne County roads; Schaefer and the neighborhood streets are the City’s; both take written notice within 120 days (MCL 691.1402, 691.1404). Notice to the wrong agency is not notice.
 
 ## Who pays after a Dearborn crash
 
@@ -48,7 +48,7 @@ ATLAW is a personal injury firm at 3 Parklane Boulevard in Dearborn, minutes fro
 
 **Your claim against the at-fault driver.** For pain and suffering and losses beyond no-fault, you need a threshold injury under MCL 500.3135: death, serious impairment of body function, or permanent serious disfigurement. Three years to sue (MCL 600.5805(2)), or by the estate after a fatal crash (see our [Dearborn wrongful death page](/personal-injury/wrongful-death/dearborn)); recovery reduced by your share of fault and barred if you were more than 50 percent at fault (MCL 500.3135(2)(b)). The mini tort recovers up to $3,000 in vehicle damage from the at-fault driver (MCL 500.3135(3)(e)), filed in the 19th District Court if the insurer will not pay it.
 
-**The Dearborn insurance picture.** The city sits between Detroit and the western suburbs in coverage: more drivers carry real coverage than in Detroit, but uninsured and $50,000-minimum drivers are common on Michigan Avenue and Warren, and many Dearborn drivers chose reduced PIP levels to afford a policy after the reform. Two consequences. Your own **uninsured and underinsured motorist coverage** is often the real recovery; see our [uninsured motorist page](/personal-injury/uninsured-motorist-claims). And medical expenses above your chosen PIP level become part of your claim against the at-fault driver (MCL 500.3135(3)(c)), which makes that driver’s limits, and your UIM, decisive. We read every policy in the household before we value a Dearborn claim. **[ATTORNEY CHECK: excess allowable expenses under 3135(3)(c)]**
+**The Dearborn insurance picture.** The city sits between Detroit and the western suburbs in coverage: more drivers carry real coverage than in Detroit, but uninsured and $50,000-minimum drivers are common on Michigan Avenue and Warren, and many Dearborn drivers chose reduced PIP levels to afford a policy after the reform. Two consequences. Your own **uninsured and underinsured motorist coverage** is often the real recovery; see our [uninsured motorist page](/personal-injury/uninsured-motorist-claims). And medical expenses above your chosen PIP level become part of your claim against the at-fault driver (MCL 500.3135(3)(c)), which makes that driver’s limits, and your UIM, decisive. We read every policy in the household before we value a Dearborn claim.
 
 **Government vehicles.** Dearborn Police, Fire, and EMS vehicles, City trucks, SMART buses, and Dearborn Public Schools buses are claims under the motor vehicle exception to governmental immunity (MCL 691.1405), with the Act’s procedures and defenses and video that is overwritten unless requested. See our [bus accident page](/personal-injury/bus-accidents).
 
@@ -56,7 +56,7 @@ ATLAW is a personal injury firm at 3 Parklane Boulevard in Dearborn, minutes fro
 
 1. **Call 911 and get the Dearborn Police report.** Michigan requires a report for any crash with injury or $1,000 in damage (MCL 257.622). Dearborn Police crash reports are purchased online through CLEMIS, linked from the Dearborn Police records page.
 2. **Photograph the vehicles, the plates, the other driver’s license and insurance card, the signals, and the road**, and get witness names before the scene clears.
-3. **Get medical care the same day.** Corewell Health Dearborn Hospital on Oakwood Boulevard is where many of the city’s seriously injured are treated; Henry Ford Medical Center Fairlane and the Detroit Level I centers treat the rest. **[CONFIRM: hospital list and Corewell Dearborn’s trauma designation]** Tell the provider it was a car crash.
+3. **Get medical care the same day.** Corewell Health Dearborn Hospital on Oakwood Boulevard treats many of the city’s seriously injured; other area hospitals and the Detroit Level I trauma centers treat the rest. Tell the provider it was a car crash.
 4. **Report to your own insurer and file the Application for No-Fault Benefits** within the first week.
 5. **Read your declarations page** for PIP level, UM/UIM, and collision coverage.
 6. **Do not give a recorded statement** to the other driver’s insurer, in any language, and do not sign a medical authorization or release. If an adjuster calls and you would rather speak Arabic, call us first.
@@ -66,7 +66,7 @@ Our [full checklist](/resources/what-to-do-after-an-accident) covers the first d
 
 ## The courts
 
-Claims up to $25,000, including mini tort claims, are filed in the 19th District Court at 16077 Michigan Avenue, a short drive from our office. Injury suits over $25,000 go to the Third Judicial Circuit Court at the Coleman A. Young Municipal Center in Detroit; road-defect claims against MDOT go to the Court of Claims. Where the defendant lives or does business elsewhere, venue may be available in another county (MCL 600.1629). **[ATTORNEY CHECK]**
+Claims up to $25,000, including mini tort claims, are filed in the 19th District Court at 16077 Michigan Avenue, a short drive from our office. Injury suits over $25,000 go to the Third Judicial Circuit Court at the Coleman A. Young Municipal Center in Detroit; road-defect claims against MDOT go to the Court of Claims. Where the defendant lives or does business elsewhere, venue may be available in another county (MCL 600.1629).
 
 ## Deadlines for Dearborn crash claims
 
@@ -77,7 +77,7 @@ Claims up to $25,000, including mini tort claims, are filed in the 19th District
 | Road defect claim against the City of Dearborn or Wayne County | Written notice within 120 days | MCL 691.1404 |
 | Defect on Michigan Avenue, Ford Road, Telegraph, M-39, or I-94 (MDOT) | Notice filed with the Court of Claims within 120 days | MCL 691.1404, 600.6431 |
 | Suit against the at-fault driver | 3 years | MCL 600.5805(2) |
-| Mini tort for vehicle damage | 3 years | MCL 600.5805(2) **[ATTORNEY CHECK]** |
+| Mini tort for vehicle damage | 3 years | MCL 600.5805(2) |
 
 ## Why Dearborn crash victims call ATLAW
 

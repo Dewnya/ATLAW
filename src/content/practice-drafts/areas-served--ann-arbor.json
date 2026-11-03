@@ -12,7 +12,7 @@
   "place terms (ann arbor injuries",
   "ann arbor accident",
   "injured in ann arbor); the lawyer/attorney cluster (about 1",
-  "280/mo) is served by /personal-injury/personal-injury/ann-arbor"
+  "280/mo) is served by /personal-injury/ann-arbor"
  ],
  "intro": [
   {
@@ -47,7 +47,7 @@
     },
     {
      "t": "link",
-     "href": "/personal-injury/personal-injury/ann-arbor",
+     "href": "/personal-injury/ann-arbor",
      "c": [
       {
        "t": "text",

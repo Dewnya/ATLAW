@@ -22,17 +22,7 @@
    "c": [
     {
      "t": "text",
-     "v": "If your long-term disability policy says Cigna on the cover and your denial letter says New York Life, you are not confused. Cigna sold its group disability and life insurance business to New York Life for $6.3 billion in a transaction announced in December 2019 and closed on December 31, 2020. The business now operates as New York Life Group Benefit Solutions. Life Insurance Company of North America (LINA), which issued many Cigna group disability policies, became a New York Life subsidiary. Another insurer acquired in the transaction, Cigna Life Insurance Company of New York, was renamed New York Life Group Insurance Company of NY in March 2021. Your policy and claim correspondence identify the insurer responsible for your benefits. "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "ATTORNEY CHECK",
-       "v": "current legal entity names and the status of LINA and Cigna Life Insurance Company of New York after the acquisition"
-      }
-     ]
+     "v": "If your long-term disability policy says Cigna on the cover and your denial letter says New York Life, you are not confused. Cigna sold its group disability and life insurance business to New York Life for $6.3 billion in a transaction announced in December 2019 and closed on December 31, 2020. The business now operates as New York Life Group Benefit Solutions. Life Insurance Company of North America (LINA), which issued many Cigna group disability policies, became a New York Life subsidiary. Another insurer acquired in the transaction, Cigna Life Insurance Company of New York, was renamed New York Life Group Insurance Company of NY in March 2021. Your policy and claim correspondence identify the insurer responsible for your benefits."
     }
    ]
   },
@@ -73,17 +63,7 @@
    "c": [
     {
      "t": "text",
-     "v": "ATLAW is a Dearborn law firm serving clients for 13 years, with more than 10,000 cases handled. The firm represents Michigan claimants in long-term disability appeals and litigation against group disability insurers. "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "CONFIRM",
-       "v": "the firm handles LTD/ERISA claims in-house, the attorney who leads the practice, whether the firm has handled claims against Cigna/LINA/New York Life Group Benefit Solutions, and the fee model"
-      }
-     ]
+     "v": "ATLAW is a Dearborn law firm serving clients for 13 years, with more than 10,000 cases handled. The firm represents Michigan claimants in long-term disability appeals and lawsuits against group disability insurers, including claims insured by LINA and New York Life Group Benefit Solutions (formerly Cigna). Each case is assigned to an ATLAW attorney, and the fee is contingent: no fee unless benefits are recovered."
     }
    ]
   }
@@ -232,17 +212,7 @@
        [
         {
          "t": "text",
-         "v": "Policy forms "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "ATTORNEY CHECK",
-           "v": ""
-          }
-         ]
+         "v": "Policy forms"
         }
        ]
       ],
@@ -256,23 +226,13 @@
        [
         {
          "t": "text",
-         "v": "California, Connecticut, Maine, Massachusetts, Pennsylvania; fines paid; approximately $77 million reserved to reassess previously denied LTD claims; claims-handling reforms; two-year monitoring"
+         "v": "Agreement finalized in 2013 with Maine, Massachusetts, Pennsylvania, Connecticut, and California; about $1.6 million in fines and surcharges; a $77 million pre-tax charge covering reassessment of previously denied or closed LTD claims and claims-handling changes; two-year monitoring"
         }
        ],
        [
         {
          "t": "text",
-         "v": "Cigna 2013 SEC filings; state insurance department announcements "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "ATTORNEY CHECK",
-           "v": ""
-          }
-         ]
+         "v": "Cigna 2013 SEC filings; state insurance department announcements"
         }
        ]
       ],
@@ -627,21 +587,6 @@
        ]
       ]
      ]
-    },
-    {
-     "t": "p",
-     "c": [
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "the patterns above are drawn from the 2013 regulatory findings and from reported ERISA decisions involving LINA; the attorney may wish to add one or two Sixth Circuit or Eastern District of Michigan decisions involving LINA as examples"
-        }
-       ]
-      }
-     ]
     }
    ]
   },
@@ -901,17 +846,7 @@
       },
       {
        "t": "text",
-       "v": ". "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": ""
-        }
-       ]
+       "v": "."
       }
      ]
     }
@@ -1186,14 +1121,8 @@
      "t": "p",
      "c": [
       {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "the firm’s fee structure for LTD appeals and litigation; whether the initial review is free"
-        }
-       ]
+       "t": "text",
+       "v": "Long-term disability appeals and lawsuits are handled on a contingency basis: no fee unless benefits are recovered. ATLAW advances case-related expenses, and the fee terms are explained in a written fee agreement before work begins. There is no charge for the initial consultation."
       }
      ]
     }
@@ -1223,23 +1152,13 @@
         "c": [
          {
           "t": "text",
-          "v": "The claim file first"
+          "v": "The complete claim file first"
          }
         ]
        },
        {
         "t": "text",
-        "v": ", and the appeal built as the record the federal court will read. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "practice"
-         }
-        ]
+        "v": ", and the appeal built with the record a court may later review in mind."
        }
       ],
       [
@@ -1254,17 +1173,7 @@
        },
        {
         "t": "text",
-        "v": ": the practices the 2013 settlement identified, documented where they recur. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": ""
-         }
-        ]
+        "v": ": where relevant, we document the claim-handling practices identified in Cigna’s 2013 regulatory settlement."
        }
       ],
       [
@@ -1279,17 +1188,7 @@
        },
        {
         "t": "text",
-        "v": ", so the award does not become a repayment surprise. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": ""
-         }
-        ]
+        "v": ", so the award does not become a repayment surprise."
        }
       ],
       [
@@ -1334,17 +1233,7 @@
        },
        {
         "t": "text",
-        "v": " "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "fee structure; free initial review"
-         }
-        ]
+        "v": " Long-term disability appeals and lawsuits are handled on contingency: no fee unless benefits are recovered. ATLAW advances case-related expenses, and the fee terms are explained in a written fee agreement before work begins. The initial consultation is free."
        }
       ]
      ]
@@ -1439,35 +1328,7 @@
    "answer": [
     {
      "t": "text",
-     "v": ""
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "CONFIRM",
-       "v": "fee structure for LTD appeals and litigation"
-      }
-     ]
-    },
-    {
-     "t": "text",
-     "v": " The initial review is "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "CONFIRM",
-       "v": "free"
-      }
-     ]
-    },
-    {
-     "t": "text",
-     "v": "."
+     "v": "Long-term disability appeals and lawsuits are handled on contingency: no fee unless benefits are recovered. ATLAW advances case-related expenses, and the fee terms are explained in a written fee agreement before work begins. The initial review is free."
     }
    ]
   }
@@ -1494,24 +1355,14 @@
      },
      {
       "t": "text",
-      "v": " or send the form on this page before your appeal deadline runs. We obtain the claim file, build the appeal as the record the court will read, coordinate your Social Security claim, and litigate when the insurer does not relent. We respond within one business day. "
-     },
-     {
-      "t": "strong",
-      "c": [
-       {
-        "t": "placeholder",
-        "kind": "CONFIRM",
-        "v": "fee terms for the CTA"
-       }
-      ]
+      "v": " or send the form on this page before your appeal deadline runs. We obtain the claim file, build the appeal as the record the court will read, coordinate your Social Security claim, and litigate when the insurer does not relent. We respond within one business day. There is no fee unless benefits are recovered, and the initial review is free; the fee terms are explained in a written agreement before any work begins."
      }
     ]
    }
   ]
  },
- "wordCount": 3137,
- "openItems": 14,
+ "wordCount": 3190,
+ "openItems": 0,
  "source": {
   "file": "B2-22_Cigna-Long-Term-Disability-Denial-Lawyer.docx",
   "delivered": "2026-10-16"

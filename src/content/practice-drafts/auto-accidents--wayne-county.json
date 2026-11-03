@@ -457,17 +457,7 @@
       },
       {
        "t": "text",
-       "v": ". "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": ""
-        }
-       ]
+       "v": "."
       }
      ]
     },
@@ -553,17 +543,7 @@
       },
       {
        "t": "text",
-       "v": " Most Wayne County injury suits over $25,000 are filed in the Third Judicial Circuit Court at the Coleman A. Young Municipal Center in Detroit, which has its own case evaluation and facilitation practices and one of the largest civil dockets in the state. Mini tort and other small claims go to the district court for the community: the 36th in Detroit, the 19th in Dearborn, the 16th in Livonia, the 23rd in Taylor, the 18th in Westland, the 35th in Canton and Plymouth, among the county’s twenty district courts. Venue is determined under the statutory order of priority in MCL 600.1629, generally beginning with the county where the original injury occurred and where a defendant resides, conducts business, or maintains a registered office. Other counties may be appropriate depending on the statutory requirements.). "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": ""
-        }
-       ]
+       "v": " Most Wayne County injury suits over $25,000 are filed in the Third Judicial Circuit Court at the Coleman A. Young Municipal Center in Detroit, which has its own case evaluation and facilitation practices and one of the largest civil dockets in the state. Mini tort and other small claims go to the district court for the community: the 36th in Detroit, the 19th in Dearborn, the 16th in Livonia, the 23rd in Taylor, the 18th in Westland, the 35th in Canton and Plymouth, among the county’s twenty district courts. Venue is determined under the statutory order of priority in MCL 600.1629, generally beginning with the county where the original injury occurred and where a defendant resides, conducts business, or maintains a registered office. Other counties may be appropriate depending on the statutory requirements.)."
       }
      ]
     }
@@ -871,17 +851,7 @@
        [
         {
          "t": "text",
-         "v": "MCL 600.5805(2) "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "ATTORNEY CHECK",
-           "v": ""
-          }
-         ]
+         "v": "MCL 600.5805(2)"
         }
        ]
       ]
@@ -1076,8 +1046,8 @@
    }
   ]
  },
- "wordCount": 2070,
- "openItems": 3,
+ "wordCount": 2061,
+ "openItems": 0,
  "source": {
   "file": "B2-33_Wayne-County-Car-Accident-Lawyer.docx",
   "delivered": "2026-10-16"

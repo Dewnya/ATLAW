@@ -833,17 +833,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Rider injury suits over $25,000 go to the Third Judicial Circuit Court in Detroit, or in some cases with a Washtenaw or Oakland County defendant to that county’s circuit court (MCL 600.1629); smaller claims to the 35th District Court at 660 Plymouth Road in Plymouth; claims against MDOT to the Court of Claims. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": ""
-        }
-       ]
+       "v": "Rider injury suits over $25,000 go to the Third Judicial Circuit Court in Detroit, or in some cases with a Washtenaw or Oakland County defendant to that county’s circuit court (MCL 600.1629); smaller claims to the 35th District Court at 660 Plymouth Road in Plymouth; claims against MDOT to the Court of Claims."
       }
      ]
     },
@@ -1128,8 +1118,8 @@
    }
   ]
  },
- "wordCount": 2290,
- "openItems": 2,
+ "wordCount": 2287,
+ "openItems": 1,
  "source": {
   "file": "B3-44_Canton-Motorcycle-Accident-Lawyer.docx",
   "delivered": "October 24, 2026 [CONFIRM: Batch 3 delivery date]"

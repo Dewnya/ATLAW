@@ -62,13 +62,13 @@ Michigan PIP benefits are paid by your own insurer, a household insurer, or the 
 
 - **Medical and rehabilitation care**: acute hospitalization, inpatient rehabilitation, outpatient therapy, medications, and the lifelong management of secondary conditions (pressure injuries, urinary and respiratory complications, spasticity, pain), all “reasonably necessary” allowable expenses (500.3107(1)(a)), up to the PIP medical limit on the policy: $50,000 (Medicaid), $250,000, $500,000, or unlimited (500.3107c). A $250,000 limit is exhausted in the first months of a tetraplegia case.
 - **Attendant care**: personal care and supervision, often many hours a day for life. Family-provided care is capped at 56 hours a week for crashes on or after June 11, 2019 (500.3157(10)); agency care beyond that is paid under the fee schedule.
-- **Home modifications**: ramps, widened doors, accessible bathrooms, lifts, and in some cases a different residence, where reasonably necessary for the injured person’s care and recovery. Michigan courts have addressed how far this extends. **[ATTORNEY CHECK: current case law on housing as an allowable expense]**
-- **Vehicle modifications and accessible transportation**: hand controls, lifts, and wheelchair-accessible van conversions; the base vehicle itself has been treated differently. **[ATTORNEY CHECK]**
+- **Home modifications**: ramps, widened doors, accessible bathrooms, lifts, and in some cases a different residence, where reasonably necessary for the injured person’s care and recovery. Michigan courts have addressed how far this extends.
+- **Vehicle modifications and accessible transportation**: hand controls, lifts, and wheelchair-accessible van conversions; the base vehicle itself is not an allowable expense, but the modifications are (Admire v Auto-Owners Ins Co, 494 Mich 10 (2013)).
 - **Durable medical equipment**: wheelchairs, standing frames, hospital beds, pressure-relief surfaces, and their replacement.
 - **Case management**, and the costs of coordinating care.
 - **Wage loss**: 85% of income up to $7,455 a month for crashes on or after October 1, 2026, for three years (500.3107(1)(b)); **replacement services** at $20 a day for three years; **survivor’s loss** and funeral expenses in a death (500.3108).
 
-The 2019 fee schedule pays providers without a Medicare code, which includes agency attendant care and many rehabilitation services, 52.5% of their 2019 charges (500.3157(7)). In Andary v USAA (2023), the Michigan Supreme Court held that neither the fee schedule nor the 56-hour cap applies to people injured before June 11, 2019. For unlimited policies, the Michigan Catastrophic Claims Association reimburses the insurer above a per-claim retention, which is what makes lifetime coverage of a $6 million injury possible. **[ATTORNEY CHECK: current MCCA retention]** Our [no-fault insurance claim](/personal-injury/car-accident-insurance) page covers the insurer’s 30-day payment duty, the 12% interest, and attorney fees for unreasonable denial.
+The 2019 fee schedule pays providers without a Medicare code, which includes agency attendant care and many rehabilitation services, 52.5% of their 2019 charges (500.3157(7)). In Andary v USAA (2023), the Michigan Supreme Court held that neither the fee schedule nor the 56-hour cap applies to people injured before June 11, 2019. For unlimited policies, the Michigan Catastrophic Claims Association reimburses the insurer above a per-claim retention, $675,000 for policies issued or renewed from July 1, 2025 through June 30, 2027, which is what makes lifetime coverage of a $6 million injury possible. Our [no-fault insurance claim](/personal-injury/car-accident-insurance) page covers the insurer’s 30-day payment duty, the 12% interest, and attorney fees for unreasonable denial.
 
 ## Where the rest comes from: the claim against the at-fault party
 
@@ -92,7 +92,7 @@ A spinal cord injury case is, more than any other, a search for every policy. Th
 - **Treating physicians**: physiatry (rehabilitation medicine), neurosurgery or orthopedic spine surgery, urology, and wound care, whose records establish the prognosis the plan relies on.
 - **Day-in-the-life documentation**: the routine of care, by video and testimony, which conveys what the numbers mean.
 
-Settlements in catastrophic cases are often structured, with annuities funding future care and a special needs trust preserving Medicaid and SSI eligibility, and a settlement for a legally incapacitated adult or a child requires court approval (MCR 2.420). **[CONFIRM: the firm coordinates structured settlements and special needs trusts]**
+Settlements in catastrophic cases are often structured, with annuities funding future care and a special needs trust preserving Medicaid and SSI eligibility, and a settlement for a legally incapacitated adult or a child requires court approval (MCR 2.420). We coordinate with structured settlement and special needs trust professionals where appropriate.
 
 ## Spinal injuries from falls, diving, violence, and medical care
 
@@ -115,10 +115,10 @@ Crashes cause 37.5% of spinal cord injuries; falls cause 31.7%, and the share ri
 ## Why metro Detroit spinal injury clients call ATLAW
 
 - **Thirteen years, more than 10,000 cases, more than $100 million recovered.**
-- **The lifetime number first.** Life care planning and economic projection begin as soon as the prognosis allows, so that no policy is settled for less than the need. **[CONFIRM: use of life care planners and economists]**
+- **The lifetime number first.** Where a case calls for them, life care planners and economists project the lifetime need, so that no policy is settled for less than it.
 - **Every policy identified**, from the at-fault driver’s to the manufacturer’s to your own UIM.
-- **No-fault disputes handled alongside the injury case**: attendant care hours, home modifications, equipment denials, and fee-schedule disputes. **[CONFIRM]**
-- **Structured settlements and benefits protection** coordinated with the recovery. **[CONFIRM]**
+- **No-fault disputes handled alongside the injury case**: attendant care hours, home modifications, and medical equipment denials.
+- **Structured settlements and benefits protection** coordinated with the recovery.
 - **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home, hospital, or rehabilitation facility visits can be arranged as needed.
 - **Languages.** Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish.
 - **No fee unless we recover.** ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs. No cost for the first conversation.

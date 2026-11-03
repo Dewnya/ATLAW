@@ -57,7 +57,7 @@ Source: Michigan State Police, Michigan Traffic Crash Facts, 2024 and 2023 Heavy
 | Handheld phone ban; hazardous conditions | 392.82, 392.14 | No handheld phone use; reduce speed or stop in snow and ice. |
 | Minimum insurance | Part 387 | $750,000 for general freight; $1 million for oil; $5 million for hazardous materials. Automotive logistics carriers commonly carry more. |
 
-**Plant and shipper responsibility.** Automotive freight in Macomb County runs on just-in-time schedules set by the plants and their logistics providers. Delivery schedules that cannot reasonably be met within federal hours-of-service limits may raise safety and compliance concerns. Under 49 CFR 390.6, motor carriers, shippers, receivers, and transportation intermediaries are prohibited from coercing drivers to violate applicable safety regulations, including through threats or adverse work-related actions after a driver identifies the violation. Dispatch records, load tenders, and gate logs show whether the schedule left room to comply. **[ATTORNEY CHECK]**
+**Plant and shipper responsibility.** Automotive freight in Macomb County runs on just-in-time schedules set by the plants and their logistics providers. Delivery schedules that cannot reasonably be met within federal hours-of-service limits may raise safety and compliance concerns. Under 49 CFR 390.6, motor carriers, shippers, receivers, and transportation intermediaries are prohibited from coercing drivers to violate applicable safety regulations, including through threats or adverse work-related actions after a driver identifies the violation. Dispatch records, load tenders, and gate logs show whether the schedule left room to comply.
 
 **Michigan no-fault still applies to you.** Your own auto insurer pays your medical bills, 85 percent of lost wages up to the monthly cap, replacement services, and attendant care under MCL 500.3107 regardless of fault, with written notice due within one year (MCL 500.3145(1)); the Michigan Assigned Claims Plan pays if no household policy applies (MCL 500.3172). Your claim against the driver and carrier for pain and suffering and excess losses requires a threshold injury under MCL 500.3135 and must be filed within three years (MCL 600.5805(2)). The difference from a car case is the insurance available to pay it.
 
@@ -98,7 +98,7 @@ Most Macomb County truck cases are filed in the Sixteenth Judicial Circuit Court
 
 - 13 years, more than 10,000 cases, more than $100 million recovered for clients across southeast Michigan.
 - We promptly evaluate what evidence needs to be preserved and take appropriate preservation steps after accepting a commercial truck accident case.
-- Experience with ELD and ECM downloads, FMCSA safety records, and accident reconstruction. **[CONFIRM]**
+- We work with qualified experts on ELD and ECM data, FMCSA safety records, and accident reconstruction where a case calls for them.
 - The firm advances the investigation costs and recovers them only from a settlement or verdict.
 - No fee unless we recover money for you. ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs. The first conversation is free.
 - Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish.

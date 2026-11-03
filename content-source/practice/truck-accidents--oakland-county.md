@@ -99,7 +99,7 @@ Most Oakland County truck cases are filed in the Sixth Judicial Circuit Court at
 
 - 13 years, more than 10,000 cases, more than $100 million recovered for clients across southeast Michigan.
 - We assess available evidence and the need for preservation requests promptly after accepting a truck accident case.
-- Experience with ELD and ECM downloads, FMCSA safety records, and accident reconstruction. **[CONFIRM]**
+- We work with qualified experts on ELD and ECM data, FMCSA safety records, and accident reconstruction where a case calls for them.
 - The firm advances the investigation costs and recovers them only from a settlement or verdict.
 - No fee unless we recover money for you. ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs. The first conversation is free.
 - Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish.
@@ -119,7 +119,7 @@ Most Oakland County truck cases are filed in the Sixth Judicial Circuit Court at
 
 **Is a truck case worth more than a car case?** The injuries are usually worse and the insurance is usually larger: $750,000 minimum for a general freight carrier against $50,000 for a minimally insured car. The value still depends on the injury, fault, and the record.
 
-**Do you handle truck cases in northern Oakland County, around Holly, Oxford, and Clarkston?** Throughout the county. **[CONFIRM]**
+**Do you handle truck cases in northern Oakland County, around Holly, Oxford, and Clarkston?** Yes. We handle truck cases throughout the county.
 
 ## Talk to an Oakland County truck accident lawyer
 

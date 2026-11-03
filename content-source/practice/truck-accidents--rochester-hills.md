@@ -221,7 +221,7 @@ Our [full checklist](/resources/what-to-do-after-an-accident) covers the first d
 
 **A delivery van hit me. Who is responsible?** The van’s driver and the company that employs the driver. That is often a contracted delivery company rather than the retailer whose name is on the package, and that company’s commercial auto policy is usually the coverage.
 
-**My car went under the back of a trailer on M-59. Is that the truck’s fault?** It may be partly or wholly. Trailers must carry rear impact guards built to federal standards. A guard that is missing, bent, or too high to stop a car is evidence against the carrier and the trailer’s owner. The trailer has to be inspected before it is repaired. **[ATTORNEY CHECK]**
+**My car went under the back of a trailer on M-59. Is that the truck’s fault?** It may be partly or wholly. Trailers must carry rear impact guards built to federal standards. A guard that is missing, bent, or too high to stop a car is evidence against the carrier and the trailer’s owner. The trailer has to be inspected before it is repaired.
 
 **Is there a cap on what I can recover from a trucking company?** Not on pain and suffering against the driver or carrier. Michigan’s damages caps apply to medical malpractice and product liability claims. In practice, the limit is the insurance available: the carrier’s policy, any excess policy, and your own underinsured coverage.
 

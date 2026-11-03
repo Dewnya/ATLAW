@@ -17,7 +17,7 @@ delivered: 2026-10-16
 
 A worker hurt on the job in Dearborn is owed benefits under Michigan’s Workers’ Disability Compensation Act regardless of fault: medical care in full, 80 percent of after-tax wages while unable to work, retraining, and scheduled payments for the loss of a body part. What differs in Dearborn is who is on the other side. Ford, the Rouge complex’s contractors, the steel works, and Corewell Health are self-insured and administer claims through their own adjusters and clinics. The restaurants, bakeries, groceries, and shops along Michigan Avenue and Warren are small employers, some of whom carry no coverage, which changes the claim entirely. And many Dearborn workers report injuries, give statements, and sign forms in a second language, which is where claims are lost before they start.
 
-ATLAW is a personal injury firm at 3 Parklane Boulevard in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients. **[CONFIRM: scope of the comp practice; see note]** Our [Michigan workers’ compensation lawyer page](/personal-injury/workers-compensation) covers the Act in full and our [Dearborn page](/areas-served/dearborn) covers every kind of injury claim in the city; this page covers what is particular about a Dearborn work injury, including the lawsuit against a third party that comp does not bar. The first conversation is free, in English, Arabic, French, Mandarin, Urdu, or Spanish: (313) 406-7606.
+ATLAW is a personal injury firm at 3 Parklane Boulevard in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients. ATLAW helps injured workers with workers’ compensation claims and reviews every work injury for a possible claim against a third party. Our [Michigan workers’ compensation lawyer page](/personal-injury/workers-compensation) covers the Act in full and our [Dearborn page](/areas-served/dearborn) covers every kind of injury claim in the city; this page covers what is particular about a Dearborn work injury, including the lawsuit against a third party that comp does not bar. The first conversation is free, in English, Arabic, French, Mandarin, Urdu, or Spanish: (313) 406-7606.
 
 ## Michigan workers’ compensation by the numbers
 
@@ -34,19 +34,19 @@ ATLAW is a personal injury firm at 3 Parklane Boulevard in Dearborn. In 13 years
 
 ## Where Dearborn workers are hurt, and who handles the claim
 
-**The Rouge and Ford.** The Dearborn Truck Plant, Dearborn Stamping, Dearborn Engine, the Rouge Electric Vehicle Center, Ford’s world headquarters and research campus, and the suppliers and logistics operations around them. Repetitive-motion and lifting injuries, crush and amputation injuries from presses and robotics, falls, and exposures. Ford is self-insured; the first 28 days of care are typically at plant medical. The UAW-Ford agreement adds grievance rights and sickness-and-accident benefits that interact with comp (MCL 418.354). **[ATTORNEY CHECK: S&A coordination]**
+**The Rouge and Ford.** The Dearborn Truck Plant, Dearborn Stamping, Dearborn Engine, the Rouge Electric Vehicle Center, Ford’s world headquarters and research campus, and the suppliers and logistics operations around them. Repetitive-motion and lifting injuries, crush and amputation injuries from presses and robotics, falls, and exposures. Ford is self-insured; the first 28 days of care are typically at plant medical. The UAW-Ford agreement adds grievance rights and sickness-and-accident benefits that interact with comp (MCL 418.354).
 
 **The steel works and the industrial south.** Cleveland-Cliffs Dearborn Works, the rail and truck yards, and the Rotunda, Oakwood, and Miller Road corridors: burns, crush injuries, falls, and heavy-vehicle strikes. On a multi-employer site the comp claim is against your own employer; the general contractor, other subcontractors, and the property owner are potential third-party defendants, and the MIOSHA file is the first evidence requested.
 
 **Corewell Health Dearborn and the clinics.** Patient-handling injuries, needlesticks, assaults by patients, and slips in clinical areas, with the employer’s own occupational health department as the treating clinic.
 
-**The City, the schools, and the colleges.** Dearborn Police, Fire, and Public Works; Dearborn Public Schools; Henry Ford College; UM-Dearborn. Public employers with their own pension and duty-disability provisions that run alongside comp and must be coordinated. **[ATTORNEY CHECK: City and school coordination; firefighter presumption under 418.405]**
+**The City, the schools, and the colleges.** Dearborn Police, Fire, and Public Works; Dearborn Public Schools; Henry Ford College; UM-Dearborn. Public employers with their own pension and duty-disability provisions that run alongside comp and must be coordinated.
 
-**Michigan Avenue and Warren.** Restaurants, bakeries, groceries, auto repair, and retail: burns, cuts, lifting injuries, and falls in high-turnover workforces where injuries often go unreported past the 90 days. Some of these employers carry no workers’ compensation insurance. An uninsured employer loses the exclusive-remedy protection: the injured worker may claim comp benefits and may also sue the employer in circuit court, and the employer’s officers can be personally liable (MCL 418.641, 418.647). **[ATTORNEY CHECK: uninsured-employer remedies]**
+**Michigan Avenue and Warren.** Restaurants, bakeries, groceries, auto repair, and retail: burns, cuts, lifting injuries, and falls in high-turnover workforces where injuries often go unreported past the 90 days. Some of these employers carry no workers’ compensation insurance. An uninsured employer loses the exclusive-remedy protection: the injured worker may claim comp benefits and may also sue the employer in circuit court, and the employer’s officers can be personally liable (MCL 418.641, 418.647).
 
 **Delivery, rideshare, and logistics.** Drivers hurt in crashes on I-94, Michigan Avenue, and Ford Road while working, which brings Michigan no-fault into the claim (see below). Rideshare drivers are generally independent contractors with no comp claim; see our [Dearborn rideshare page](/personal-injury/rideshare-accidents/dearborn).
 
-**Temporary, staffing, and undocumented workers.** A worker placed by a staffing agency is the agency’s employee, and the host employer may also be entitled to the exclusive-remedy bar under Michigan’s economic-reality test. Michigan courts have held that medical benefits are owed regardless of immigration status but that wage-loss benefits may be suspended while a worker cannot lawfully accept employment. **[ATTORNEY CHECK: dual employment; Sanchez v Eagle Alloy line; confirm the firm wants this paragraph]**
+**Temporary, staffing, and undocumented workers.** A worker placed by a staffing agency is the agency’s employee, and the host employer may also be entitled to the exclusive-remedy bar under Michigan’s economic-reality test. Michigan courts have held that medical benefits are owed regardless of immigration status but that wage-loss benefits may be suspended while a worker cannot lawfully accept employment.
 
 ## What a Dearborn worker is owed
 
@@ -69,7 +69,7 @@ ATLAW is a personal injury firm at 3 Parklane Boulevard in Dearborn. In 13 years
 
 When a Dearborn employer or insurer denies a claim or stops paying, the worker files an Application for Mediation or Hearing (Form WC-104A) with the Workers’ Disability Compensation Agency; disputed claims go to mediation and then to a magistrate at the agency’s Detroit hearing office in Cadillac Place, 3026 West Grand Boulevard **[VERIFY]**, with appeal to the Michigan Compensation Appellate Commission. A contested claim typically takes 12 to 18 months, which is why most disputed claims resolve by **redemption**, a lump-sum settlement approved by the magistrate that closes the claim, including future medical care; do not sign one without advice.
 
-Workers’ compensation is your exclusive remedy against an insured employer (MCL 418.131), but you can sue anyone else whose negligence caused the injury (418.827): the other driver in a crash on the job (with workers’ comp primary and no-fault paying the difference under MCL 500.3109(1); see our [Dearborn car accident page](/personal-injury/auto-accidents/dearborn) and [Dearborn truck accident page](/personal-injury/truck-accidents/dearborn)), the general contractor or another subcontractor at the Rouge or a construction site, the manufacturer of a defective press or lift ([product liability](/personal-injury/product-liability)), a property owner whose hazard caused a fall ([Dearborn slip and fall](/personal-injury/slip-and-fall/dearborn)), or a dog owner for a delivery driver ([Dearborn dog bite](/personal-injury/dog-bites/dearborn)). The comp insurer has a lien on that recovery (418.827(5)), reduced by its share of fees and costs; negotiating it is part of the work. The third-party suit is filed in the Third Judicial Circuit Court within three years (MCL 600.5805(2)). **[ATTORNEY CHECK: 3109 coordination]** A permanent injury may also qualify for Social Security Disability, coordinated with comp under the federal offset; see our [Dearborn Social Security Disability page](/disability/social-security-disability/dearborn).
+Workers’ compensation is your exclusive remedy against an insured employer (MCL 418.131), but you can sue anyone else whose negligence caused the injury (418.827): the other driver in a crash on the job (with workers’ comp primary and no-fault paying the difference under MCL 500.3109(1); see our [Dearborn car accident page](/personal-injury/auto-accidents/dearborn) and [Dearborn truck accident page](/personal-injury/truck-accidents/dearborn)), the general contractor or another subcontractor at the Rouge or a construction site, the manufacturer of a defective press or lift ([product liability](/personal-injury/product-liability)), a property owner whose hazard caused a fall ([Dearborn slip and fall](/personal-injury/slip-and-fall/dearborn)), or a dog owner for a delivery driver ([Dearborn dog bite](/personal-injury/dog-bites/dearborn)). The comp insurer has a lien on that recovery (418.827(5)), reduced by its share of fees and costs; negotiating it is part of the work. The third-party suit is filed in the Third Judicial Circuit Court within three years (MCL 600.5805(2)). A permanent injury may also qualify for Social Security Disability, coordinated with comp under the federal offset; see our [Dearborn Social Security Disability page](/disability/social-security-disability/dearborn).
 
 ## What to do after a work injury in Dearborn
 
@@ -90,7 +90,7 @@ Workers’ compensation is your exclusive remedy against an insured employer (MC
 | Benefits recoverable before the claim was filed | 2 years back with notice; 1 year back without | MCL 418.381(2) |
 | Third-party injury suit | 3 years | MCL 600.5805(2) |
 | No-fault notice (crash on the job) | 1 year | MCL 500.3145(1) |
-| Suit against an uninsured employer | 3 years **[ATTORNEY CHECK]** | MCL 418.641; 600.5805(2) |
+| Suit against an uninsured employer | 3 years | MCL 418.641; 600.5805(2) |
 | Wrongful death (third party) | 3 years, with the estate’s savings provision | MCL 600.5805(2), 600.5852 |
 
 ## Why Dearborn workers call ATLAW
@@ -98,7 +98,7 @@ Workers’ compensation is your exclusive remedy against an insured employer (MC
 - An office at 3 Parklane Boulevard in Dearborn, with free surface parking; walk-in consultations are available. 13 years, more than 10,000 cases, more than $100 million recovered.
 - Experience against the self-insured employers and third-party administrators that handle Dearborn claims, and with the uninsured-employer cases the small businesses produce.
 - Both claims coordinated: the comp claim before the agency and the third-party suit in the Third Circuit, with the lien negotiated at the end.
-- Fees set by state rule and approved by the magistrate; nothing up front, nothing unless benefits are recovered. **[CONFIRM: fee structure for contested claims and redemptions]**
+- Fees are contingent and limited by state rule, paid only from benefits recovered and approved by the magistrate; nothing up front, nothing unless benefits are recovered.
 - Consultations can be accommodated in English, Arabic, French, Mandarin, Urdu, and Spanish. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 ## Frequently asked questions
 
@@ -114,9 +114,9 @@ Workers’ compensation is your exclusive remedy against an insured employer (MC
 
 **What is a redemption, and should I take one?** A lump-sum settlement approved by a magistrate that closes the claim, including future medical care. Whether to accept depends on what treatment you will need. Do not sign one without advice.
 
-**I reported my injury in Arabic to my supervisor. Does that count?** Notice to the employer in any language counts if it was given and understood, but proving it is the problem. Put it in writing in English as well, and keep a copy; we will do it for you. **[ATTORNEY CHECK]**
+**I reported my injury in Arabic to my supervisor. Does that count?** Notice to the employer in any language counts if it was given and understood, but proving it is the problem. Put it in writing in English as well, and keep a copy; we will do it for you.
 
-**What does a Dearborn workers’ comp lawyer cost?** Nothing up front. Fees are limited by state rule to a percentage of the benefits recovered and must be approved by the magistrate. You owe nothing if no benefits are recovered. **[CONFIRM]**
+**What does a Dearborn workers’ comp lawyer cost?** Nothing up front. Fees are limited by state rule to a percentage of the benefits recovered and must be approved by the magistrate. You owe nothing if no benefits are recovered.
 
 ## Talk to a Dearborn workers’ compensation lawyer
 

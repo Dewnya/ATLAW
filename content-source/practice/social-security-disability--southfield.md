@@ -32,7 +32,7 @@ ATLAW has practiced in Michigan for 13 years from its office at 3 Parklane Boule
 
 | Measure | Figure | Source |
 | --- | --- | --- |
-| Oak Park hearing office: approval rate at hearing | 64.3 percent | SSA public use files, 12 months ending July 2026 **[CONFIRM: data: verify against SSA Hearing Office Workload Data]** |
+| Oak Park hearing office: approval rate at hearing | 64.3 percent | SSA public use files, 12 months ending July 2026 **[VERIFY: 64.3 percent against SSA’s current Hearing Office Workload Data before publishing]** |
 | Oak Park hearing office: wait for a hearing | About 8 months (244-day average processing time) | Same |
 | Attorney fee | 25 percent of back benefits, capped ($9,200 for agreements approved on or after November 30, 2024) | 42 USC 406(a) **[VERIFY current cap]** |
 | Appeal deadline at every stage | 60 days from the notice, plus 5 days for mailing | 20 CFR 404.909, 404.933, 404.968 |
@@ -51,12 +51,12 @@ Social Security uses a five-step sequential evaluation (20 CFR 404.1520), decidi
 1. **Are you working above the substantial gainful activity level?** Earning more than $1,690 a month in 2026 ($1,770 in 2027) generally ends the claim at step one. Part-time or accommodated work below that level does not.
 2. **Is your impairment severe and expected to last 12 months or result in death?** A diagnosis is not enough; the record must show functional limits.
 3. **Does your condition meet or equal a Listing?** Meeting one wins the claim here. See our [qualifying impairments page](/disability/qualifying-impairments); some conditions are fast-tracked under [Compassionate Allowances](/disability/compassionate-allowances).
-4. **Can you do your past relevant work?** Social Security assesses your residual functional capacity (RFC), what you can still do despite your limitations, and compares it to the jobs you held in the past five years. **[ATTORNEY CHECK: five-year relevant-work period under the 2024 rule]** If you did a desk job, a physical limitation alone may not end your ability to do it. The claim then depends on limits that affect any job: the need to lie down or take unscheduled breaks, absences from treatment or flare-ups, the inability to sit for long periods, limits on using the hands for typing, or concentration and memory deficits from pain, medication, or a mental health condition.
-5. **Can you do any other work?** Using your RFC, age, education, and work experience under the Medical-Vocational Guidelines (the “grids”). Age matters: at 50 and above, the grids favor claimants limited to sedentary work who cannot transfer their skills. Skilled office work can produce transferable skills, so the vocational evidence about what your skills were, and whether they transfer to other sedentary work, is often contested at the hearing. **[ATTORNEY CHECK: grid and transferability summary]**
+4. **Can you do your past relevant work?** Social Security assesses your residual functional capacity (RFC), what you can still do despite your limitations, and compares it to the jobs you held in the past five years. If you did a desk job, a physical limitation alone may not end your ability to do it. The claim then depends on limits that affect any job: the need to lie down or take unscheduled breaks, absences from treatment or flare-ups, the inability to sit for long periods, limits on using the hands for typing, or concentration and memory deficits from pain, medication, or a mental health condition.
+5. **Can you do any other work?** Using your RFC, age, education, and work experience under the Medical-Vocational Guidelines (the “grids”). Age matters: at 50 and above, the grids favor claimants limited to sedentary work who cannot transfer their skills. Skilled office work can produce transferable skills, so the vocational evidence about what your skills were, and whether they transfer to other sedentary work, is often contested at the hearing.
 
 ## Where the evidence comes from in Southfield
 
-The claim is the record. We obtain and organize it from every source: Henry Ford Providence Southfield Hospital (formerly Ascension Providence) and its clinics; Corewell Health William Beaumont University Hospital in Royal Oak; DMC Sinai-Grace Hospital; the physician and specialist offices along Northwestern Highway, Twelve Mile, and Telegraph; mental health providers, including those in the Oakland Community Health Network, Oakland County’s public mental health system, which are often the core of a claim and the hardest records to obtain; the John D. Dingell VA Medical Center for veterans; and the consultative examination ordered by Michigan’s Disability Determination Services, which a claimant should attend but should never rely on. **[CONFIRM: provider list wording]** A treating provider’s opinion on your specific functional limits, in a form the regulations recognize (20 CFR 404.1520c), is often the difference at the hearing. Your employer’s records also count: performance reviews, accommodation requests, and FMLA leave can show how the condition affected your work before you stopped.
+The claim is the record. We obtain and organize it from every source: Henry Ford Providence Southfield Hospital (formerly Ascension Providence) and its clinics; Corewell Health William Beaumont University Hospital in Royal Oak; DMC Sinai-Grace Hospital; the physician and specialist offices along Northwestern Highway, Twelve Mile, and Telegraph; mental health providers, including those in the Oakland Community Health Network, Oakland County’s public mental health system, which are often the core of a claim and the hardest records to obtain; the John D. Dingell VA Medical Center for veterans; and the consultative examination ordered by Michigan’s Disability Determination Services, which a claimant should attend but should never rely on. A treating provider’s opinion on your specific functional limits, in a form the regulations recognize (20 CFR 404.1520c), is often the difference at the hearing. Your employer’s records also count: performance reviews, accommodation requests, and FMLA leave can show how the condition affected your work before you stopped.
 
 ## The stages, and the offices that serve Southfield
 
@@ -74,13 +74,13 @@ Hearings for Southfield claimants are often scheduled by the Oak Park hearing of
 
 ## Back pay and the fee
 
-SSDI benefits begin five full months after the established onset date; SSI is not paid for months before the application. SSDI back pay reaches to the onset date, up to 12 months before the application, and the onset date your lawyer proves sets the amount. The fee is set by federal law: 25 percent of back benefits, capped at the current limit, and nothing if the claim is not approved (42 USC 406(a)). Social Security pays it directly from back pay; ongoing monthly benefits are not subject to it. **[CONFIRM: whether the firm advances record costs]**
+SSDI benefits begin five full months after the established onset date; SSI is not paid for months before the application. SSDI back pay reaches to the onset date, up to 12 months before the application, and the onset date your lawyer proves sets the amount. The fee is set by federal law: 25 percent of back benefits, capped at the current limit, and nothing if the claim is not approved (42 USC 406(a)). Social Security pays it directly from back pay; ongoing monthly benefits are not subject to it. Any costs for obtaining records are explained in the written fee agreement at the start of the case.
 
 ## How a Southfield disability claim interacts with other claims
 
 - **An employer’s long-term disability plan.** Many Southfield office employers provide group LTD insurance. Many plans require you to apply for SSDI, offset the SSDI award dollar for dollar, and may claim repayment from your SSDI back pay. An LTD denial has its own 180-day ERISA appeal deadline (29 CFR 2560.503-1), and the LTD file and the Social Security file should tell the same story.
 - **Workers’ compensation** offsets SSDI (42 USC 424a); see our [workers’ compensation page](/personal-injury/workers-compensation).
-- **A personal injury settlement** does not reduce SSDI but can affect SSI; see our [Southfield personal injury lawyer page](/personal-injury/personal-injury/southfield).
+- **A personal injury settlement** does not reduce SSDI but can affect SSI; see our [Southfield personal injury lawyer page](/personal-injury/southfield).
 - **VA disability** is evidence Social Security must consider but does not bind it.
 
 ## What to do if you are applying or were denied
@@ -95,7 +95,7 @@ SSDI benefits begin five full months after the established onset date; SSI is no
 ## Why Southfield claimants call ATLAW
 
 - 13 years of Michigan practice; more than 10,000 cases.
-- Present at the hearing. **[CONFIRM: attorney who handles disability hearings; in-person appearances at Oak Park]**
+- Present at the hearing. An ATLAW attorney represents you whether the hearing is held in person, by video, or by phone.
 - The medical record built from every provider, and the vocational case built around the work you actually did, before the judge reads the file.
 - Long-term disability, workers’ compensation, and personal injury claims coordinated with the Social Security claim.
 - A fee set by federal law: 25 percent of back pay, capped, paid by Social Security, and nothing if you do not win.

@@ -424,17 +424,7 @@
      "c": [
       {
        "t": "text",
-       "v": "A defect that was readily apparent for 30 days or more is presumed known to the agency (MCL 691.1403). Notice to the wrong agency is not notice. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "jurisdiction list; 1403 presumption"
-        }
-       ]
+       "v": "A defect that was readily apparent for 30 days or more is presumed known to the agency (MCL 691.1403). Notice to the wrong agency is not notice."
       }
      ]
     },
@@ -744,17 +734,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Since 2012, Michigan has let riders 21 and older ride without a helmet if they carry at least $20,000 in first-party medical coverage and have either held a motorcycle endorsement for two years or passed an approved safety course (MCL 257.658). If you met those conditions, riding helmetless was legal, so it was not a traffic violation. In a head-injury case the insurer will argue a helmet would have reduced the injury, which is a damages argument for the jury, not a bar; in a leg or shoulder case it is irrelevant. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": ""
-        }
-       ]
+       "v": "Since 2012, Michigan has let riders 21 and older ride without a helmet if they carry at least $20,000 in first-party medical coverage and have either held a motorcycle endorsement for two years or passed an approved safety course (MCL 257.658). If you met those conditions, riding helmetless was legal, so it was not a traffic violation. In a head-injury case the insurer will argue a helmet would have reduced the injury, which is a damages argument for the jury, not a bar; in a leg or shoulder case it is irrelevant."
       }
      ]
     }
@@ -779,17 +759,7 @@
        },
        {
         "t": "text",
-        "v": " Henry Ford Warren Hospital on Twelve Mile (formerly Ascension Macomb-Oakland, Warren campus), Henry Ford Macomb, and McLaren Macomb treat many of the area’s injured. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "hospital list and trauma designations"
-         }
-        ]
+        "v": " Henry Ford Warren Hospital on Twelve Mile (formerly Ascension Macomb-Oakland, Warren campus), Henry Ford Macomb, and McLaren Macomb treat many of the area’s injured."
        }
       ],
       [
@@ -895,17 +865,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Rider injury suits over $25,000 go to the Sixteenth Judicial Circuit Court in Mount Clemens, or in some Eight Mile or Dequindre cases to the Wayne or Oakland County courts (MCL 600.1629); smaller claims to the 37th District Court on Common Road; claims against MDOT to the Court of Claims. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": ""
-        }
-       ]
+       "v": "Rider injury suits over $25,000 go to the Sixteenth Judicial Circuit Court in Mount Clemens, or in some Eight Mile or Dequindre cases to the Wayne or Oakland County courts (MCL 600.1629); smaller claims to the 37th District Court on Common Road; claims against MDOT to the Court of Claims."
       }
      ]
     },
@@ -1084,17 +1044,7 @@
       [
        {
         "t": "text",
-        "v": "No fee unless we recover money for you. The first conversation is free. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "fee terms; languages; home and hospital visits; whether anyone at the firm rides"
-         }
-        ]
+        "v": "No fee unless we recover money for you, and the first conversation is free. ATLAW advances the case costs, so you pay nothing up front; costs come out of the recovery first, the 33.3% fee is calculated on the remainder, and if there is no recovery you owe no fee and no costs. Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish. We welcome clients to our Dearborn office for a consultation; if you are unable to visit, home or hospital visits can be arranged as needed."
        }
       ]
      ]
@@ -1191,8 +1141,8 @@
    }
   ]
  },
- "wordCount": 2107,
- "openItems": 6,
+ "wordCount": 2153,
+ "openItems": 1,
  "source": {
   "file": "B3-14_Warren-Motorcycle-Accident-Lawyer.docx",
   "delivered": "October 23, 2026 [CONFIRM: Batch 3 delivery date]"

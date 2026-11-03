@@ -327,8 +327,8 @@
          "c": [
           {
            "t": "placeholder",
-           "kind": "CONFIRM",
-           "v": "data: verify against SSA Hearing Office Workload Data"
+           "kind": "VERIFY",
+           "v": "64.3 percent against SSA’s current Hearing Office Workload Data before publishing"
           }
          ]
         }
@@ -599,21 +599,7 @@
        },
        {
         "t": "text",
-        "v": " Social Security assesses your residual functional capacity (RFC), what you can still do despite your limitations, and compares it to the jobs you held in the past five years. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "ATTORNEY CHECK",
-          "v": "five-year relevant-work period under the 2024 rule"
-         }
-        ]
-       },
-       {
-        "t": "text",
-        "v": " If you did a desk job, a physical limitation alone may not end your ability to do it. The claim then depends on limits that affect any job: the need to lie down or take unscheduled breaks, absences from treatment or flare-ups, the inability to sit for long periods, limits on using the hands for typing, or concentration and memory deficits from pain, medication, or a mental health condition."
+        "v": " Social Security assesses your residual functional capacity (RFC), what you can still do despite your limitations, and compares it to the jobs you held in the past five years. If you did a desk job, a physical limitation alone may not end your ability to do it. The claim then depends on limits that affect any job: the need to lie down or take unscheduled breaks, absences from treatment or flare-ups, the inability to sit for long periods, limits on using the hands for typing, or concentration and memory deficits from pain, medication, or a mental health condition."
        }
       ],
       [
@@ -628,17 +614,7 @@
        },
        {
         "t": "text",
-        "v": " Using your RFC, age, education, and work experience under the Medical-Vocational Guidelines (the “grids”). Age matters: at 50 and above, the grids favor claimants limited to sedentary work who cannot transfer their skills. Skilled office work can produce transferable skills, so the vocational evidence about what your skills were, and whether they transfer to other sedentary work, is often contested at the hearing. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "ATTORNEY CHECK",
-          "v": "grid and transferability summary"
-         }
-        ]
+        "v": " Using your RFC, age, education, and work experience under the Medical-Vocational Guidelines (the “grids”). Age matters: at 50 and above, the grids favor claimants limited to sedentary work who cannot transfer their skills. Skilled office work can produce transferable skills, so the vocational evidence about what your skills were, and whether they transfer to other sedentary work, is often contested at the hearing."
        }
       ]
      ]
@@ -654,21 +630,7 @@
      "c": [
       {
        "t": "text",
-       "v": "The claim is the record. We obtain and organize it from every source: Henry Ford Providence Southfield Hospital (formerly Ascension Providence) and its clinics; Corewell Health William Beaumont University Hospital in Royal Oak; DMC Sinai-Grace Hospital; the physician and specialist offices along Northwestern Highway, Twelve Mile, and Telegraph; mental health providers, including those in the Oakland Community Health Network, Oakland County’s public mental health system, which are often the core of a claim and the hardest records to obtain; the John D. Dingell VA Medical Center for veterans; and the consultative examination ordered by Michigan’s Disability Determination Services, which a claimant should attend but should never rely on. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "provider list wording"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " A treating provider’s opinion on your specific functional limits, in a form the regulations recognize (20 CFR 404.1520c), is often the difference at the hearing. Your employer’s records also count: performance reviews, accommodation requests, and FMLA leave can show how the condition affected your work before you stopped."
+       "v": "The claim is the record. We obtain and organize it from every source: Henry Ford Providence Southfield Hospital (formerly Ascension Providence) and its clinics; Corewell Health William Beaumont University Hospital in Royal Oak; DMC Sinai-Grace Hospital; the physician and specialist offices along Northwestern Highway, Twelve Mile, and Telegraph; mental health providers, including those in the Oakland Community Health Network, Oakland County’s public mental health system, which are often the core of a claim and the hardest records to obtain; the John D. Dingell VA Medical Center for veterans; and the consultative examination ordered by Michigan’s Disability Determination Services, which a claimant should attend but should never rely on. A treating provider’s opinion on your specific functional limits, in a form the regulations recognize (20 CFR 404.1520c), is often the difference at the hearing. Your employer’s records also count: performance reviews, accommodation requests, and FMLA leave can show how the condition affected your work before you stopped."
       }
      ]
     }
@@ -921,17 +883,7 @@
      "c": [
       {
        "t": "text",
-       "v": "SSDI benefits begin five full months after the established onset date; SSI is not paid for months before the application. SSDI back pay reaches to the onset date, up to 12 months before the application, and the onset date your lawyer proves sets the amount. The fee is set by federal law: 25 percent of back benefits, capped at the current limit, and nothing if the claim is not approved (42 USC 406(a)). Social Security pays it directly from back pay; ongoing monthly benefits are not subject to it. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "whether the firm advances record costs"
-        }
-       ]
+       "v": "SSDI benefits begin five full months after the established onset date; SSI is not paid for months before the application. SSDI back pay reaches to the onset date, up to 12 months before the application, and the onset date your lawyer proves sets the amount. The fee is set by federal law: 25 percent of back benefits, capped at the current limit, and nothing if the claim is not approved (42 USC 406(a)). Social Security pays it directly from back pay; ongoing monthly benefits are not subject to it. Any costs for obtaining records are explained in the written fee agreement at the start of the case."
       }
      ]
     }
@@ -1004,7 +956,7 @@
        },
        {
         "t": "link",
-        "href": "/personal-injury/personal-injury/southfield",
+        "href": "/personal-injury/southfield",
         "c": [
          {
           "t": "text",
@@ -1167,17 +1119,7 @@
       [
        {
         "t": "text",
-        "v": "Present at the hearing. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "attorney who handles disability hearings; in-person appearances at Oak Park"
-         }
-        ]
+        "v": "Present at the hearing. An ATLAW attorney represents you whether the hearing is held in person, by video, or by phone."
        }
       ],
       [
@@ -1301,8 +1243,8 @@
    }
   ]
  },
- "wordCount": 1990,
- "openItems": 11,
+ "wordCount": 1991,
+ "openItems": 6,
  "source": {
   "file": "B3-09_Southfield-Social-Security-Disability-Lawyer.docx",
   "delivered": "October 23, 2026 [CONFIRM: Batch 3 delivery date]"

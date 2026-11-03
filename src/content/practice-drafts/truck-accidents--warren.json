@@ -19,21 +19,7 @@
    "c": [
     {
      "t": "text",
-     "v": "Warren’s economy moves by truck. The General Motors Technical Center, Stellantis’s Warren Truck Assembly and Warren Stamping plants, the U.S. Army’s Detroit Arsenal, and hundreds of supplier and tool shops along Mound, Van Dyke, Groesbeck, and Stephens receive parts and ship product on tight schedules. "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "CONFIRM",
-       "v": "plant list"
-      }
-     ]
-    },
-    {
-     "t": "text",
-     "v": " Tractor-trailers turn into and out of plant gates at shift changes, queue in travel lanes waiting for gate clearance, and merge onto I-696 at Mound, Van Dyke, and Hoover. In 2024, according to the Michigan State Police, 1,257 heavy trucks and buses were involved in crashes in Macomb County."
+     "v": "Warren’s economy moves by truck. The General Motors Technical Center, Stellantis’s Warren Truck Assembly and Warren Stamping plants, the U.S. Army’s Detroit Arsenal, and hundreds of supplier and tool shops along Mound, Van Dyke, Groesbeck, and Stephens receive parts and ship product on tight schedules. Tractor-trailers turn into and out of plant gates at shift changes, queue in travel lanes waiting for gate clearance, and merge onto I-696 at Mound, Van Dyke, and Hoover. In 2024, according to the Michigan State Police, 1,257 heavy trucks and buses were involved in crashes in Macomb County."
     }
    ]
   },
@@ -260,17 +246,7 @@
        [
         {
          "t": "text",
-         "v": "MCL 257.722 "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "ATTORNEY CHECK",
-           "v": ""
-          }
-         ]
+         "v": "MCL 257.722"
         }
        ]
       ]
@@ -319,17 +295,7 @@
       },
       {
        "t": "text",
-       "v": " Mound is the plant corridor, rebuilt north of I-696 in the Innovate Mound project, finished in December 2023; the stretch from Eight Mile to I-696 is still awaiting funding. When the gate layout, the plant’s traffic control, or a delivery schedule that stacks trucks in the road contributed, the plant or its logistics provider may share responsibility with the carrier. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "premises owner liability for off-site queuing"
-        }
-       ]
+       "v": " Mound is the plant corridor, rebuilt north of I-696 in the Innovate Mound project, finished in December 2023; the stretch from Eight Mile to I-696 is still awaiting funding. When the gate layout, the plant’s traffic control, or a delivery schedule that stacks trucks in the road contributed, the plant or its logistics provider may share responsibility with the carrier."
       }
      ]
     },
@@ -686,17 +652,7 @@
       },
       {
        "t": "text",
-       "v": "); and, for a government truck (City of Warren, the Department of Roads, MDOT, SMART), the agency under the motor vehicle exception to governmental immunity (MCL 691.1405). A crash with a vehicle driven by a federal employee from the Arsenal is a claim against the United States under the Federal Tort Claims Act, with an administrative claim due within two years (28 USC 2401(b), 2675). A truck driven by a private defense contractor is not a federal vehicle; the contractor is sued directly. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "FTCA and contractor distinction"
-        }
-       ]
+       "v": "); and, for a government truck (City of Warren, the Department of Roads, MDOT, SMART), the agency under the motor vehicle exception to governmental immunity (MCL 691.1405). A crash with a vehicle driven by a federal employee from the Arsenal is a claim against the United States under the Federal Tort Claims Act, with an administrative claim due within two years (28 USC 2401(b), 2675). A truck driven by a private defense contractor is not a federal vehicle; the contractor is sued directly."
       }
      ]
     },
@@ -752,7 +708,7 @@
      "c": [
       {
        "t": "text",
-       "v": "The first act in a Warren truck case is a "
+       "v": "We send a "
       },
       {
        "t": "strong",
@@ -765,31 +721,7 @@
       },
       {
        "t": "text",
-       "v": ": to the carrier, its insurer, the tractor and trailer owners, the shipper or broker, and, where the crash happened at or near a plant, the plant and its logistics provider. It demands the ELD and engine data, dash camera footage, the driver’s qualification file and post-crash test results, dispatch records and bills of lading, the gate’s appointment and arrival logs, maintenance files, and the truck itself for inspection. A party that destroys evidence after receiving the letter faces spoliation sanctions. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": ""
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": "  "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "firm’s preservation-letter practice"
-        }
-       ]
+       "v": ": to the carrier, its insurer, the tractor and trailer owners, the shipper or broker, and, where the crash happened at or near a plant, the plant and its logistics provider. It demands the ELD and engine data, dash camera footage, the driver’s qualification file and post-crash test results, dispatch records and bills of lading, the gate’s appointment and arrival logs, maintenance files, and the truck itself for inspection. A party that destroys evidence after receiving the letter faces spoliation sanctions."
       }
      ]
     }
@@ -814,17 +746,7 @@
        },
        {
         "t": "text",
-        "v": " Henry Ford Warren Hospital on Twelve Mile (formerly Ascension Macomb-Oakland, Warren campus), Henry Ford Macomb, and McLaren Macomb treat many of the area’s injured. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "hospital list and trauma designations"
-         }
-        ]
+        "v": " Henry Ford Warren Hospital on Twelve Mile (formerly Ascension Macomb-Oakland, Warren campus), Henry Ford Macomb, and McLaren Macomb treat many of the area’s injured."
        }
       ],
       [
@@ -1265,8 +1187,8 @@
    }
   ]
  },
- "wordCount": 2340,
- "openItems": 7,
+ "wordCount": 2300,
+ "openItems": 0,
  "source": {
   "file": "B3-13_Warren-Truck-Accident-Lawyer.docx",
   "delivered": "October 23, 2026 [CONFIRM: Batch 3 delivery date]"

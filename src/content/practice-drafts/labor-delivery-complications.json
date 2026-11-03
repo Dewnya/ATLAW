@@ -48,17 +48,7 @@
    "c": [
     {
      "t": "text",
-     "v": "ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across Wayne, Oakland, Macomb, and Washtenaw counties. Birth injury and maternal injury cases are handled on contingency: no fee unless we recover money for your family, and the first conversation is free. "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "CONFIRM",
-       "v": "the firm handles birth injury and maternal injury cases in-house, and the attorney who leads them"
-      }
-     ]
+     "v": "ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across Wayne, Oakland, Macomb, and Washtenaw counties. Birth injury and maternal injury cases are handled on contingency: no fee unless we recover money for your family, and the first conversation is free. ATLAW handles these cases and works with qualified medical experts to review each one."
     }
    ]
   }
@@ -680,21 +670,6 @@
        ]
       ]
      ]
-    },
-    {
-     "t": "p",
-     "c": [
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "clinical standards for medical consultant review; ACOG Practice Bulletins 205 (VBAC), 219 (operative vaginal birth), 222 (hypertension), 183 (postpartum hemorrhage), 797 (GBS), 106/116 (monitoring)"
-        }
-       ]
-      }
-     ]
     }
    ]
   },
@@ -954,17 +929,7 @@
        },
        {
         "t": "text",
-        "v": ", brought as a wrongful death claim by the estate under MCL 600.2922, with the two-year period and the saving provision of MCL 600.5852. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "ATTORNEY CHECK",
-          "v": ""
-         }
-        ]
+        "v": ", brought as a wrongful death claim by the estate under MCL 600.2922, with the two-year period and the saving provision of MCL 600.5852."
        }
       ]
      ]
@@ -1330,17 +1295,7 @@
        [
         {
          "t": "text",
-         "v": "MCL 600.5805(8), 600.5838a "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "ATTORNEY CHECK",
-           "v": ""
-          }
-         ]
+         "v": "MCL 600.5805(8), 600.5838a"
         }
        ]
       ],
@@ -1360,17 +1315,7 @@
        [
         {
          "t": "text",
-         "v": "MCL 600.2922, 600.5852 "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "ATTORNEY CHECK",
-           "v": ""
-          }
-         ]
+         "v": "MCL 600.2922, 600.5852"
         }
        ]
       ],
@@ -1658,17 +1603,7 @@
        },
        {
         "t": "text",
-        "v": " The mother’s injuries are evaluated as carefully as the child’s, with both deadlines calendared. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": ""
-         }
-        ]
+        "v": " The mother’s injuries are evaluated as carefully as the child’s, with both deadlines calendared."
        }
       ],
       [
@@ -1694,17 +1629,7 @@
        },
        {
         "t": "text",
-        "v": " When the records show the complication was managed properly, we say so. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": ""
-         }
-        ]
+        "v": " When the records show the complication was managed properly, we say so."
        }
       ],
       [
@@ -1719,17 +1644,7 @@
        },
        {
         "t": "text",
-        "v": ": obstetrics and maternal-fetal medicine, labor and delivery nursing, anesthesiology, neonatology, pediatric neurology, urogynecology, life care planning, and economics. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "expert network"
-         }
-        ]
+        "v": ": obstetrics and maternal-fetal medicine, labor and delivery nursing, anesthesiology, neonatology, pediatric neurology, urogynecology, life care planning, and economics, with reviewing experts who meet Michigan’s same-specialty requirements (MCL 600.2169)."
        }
       ],
       [
@@ -1738,23 +1653,13 @@
         "c": [
          {
           "t": "text",
-          "v": "Settlements structured to protect the child’s benefits."
+          "v": "Settlements structured to protect the child’s benefits"
          }
         ]
        },
        {
         "t": "text",
-        "v": "  "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "special needs planning coordination"
-         }
-        ]
+        "v": ", coordinated where needed with special needs planning professionals."
        }
       ],
       [
@@ -1927,8 +1832,8 @@
    }
   ]
  },
- "wordCount": 3068,
- "openItems": 9,
+ "wordCount": 3037,
+ "openItems": 0,
  "source": {
   "file": "B2-10_Michigan-Labor-Delivery-Negligence-Lawyer.docx",
   "delivered": "2026-10-16"

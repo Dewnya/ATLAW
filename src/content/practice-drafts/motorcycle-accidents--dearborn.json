@@ -116,8 +116,8 @@
          "c": [
           {
            "t": "placeholder",
-           "kind": "CONFIRM",
-           "v": "data"
+           "kind": "VERIFY",
+           "v": "pull the 2024 figures from MSP Michigan Traffic Crash Facts (city or county profile) or delete this row"
           }
          ]
         }
@@ -142,8 +142,8 @@
          "c": [
           {
            "t": "placeholder",
-           "kind": "CONFIRM",
-           "v": "data"
+           "kind": "VERIFY",
+           "v": "pull the 2024 figures from MSP Michigan Traffic Crash Facts (city or county profile) or delete this row"
           }
          ]
         }
@@ -277,17 +277,7 @@
       },
       {
        "t": "text",
-       "v": " Michigan Avenue, Ford Road, Telegraph, Greenfield, Schaefer, Warren, and Outer Drive: wide, multi-lane, with a car turning left across the rider’s lane at every signal and every driveway along the east-side business district and Fairlane. “I didn’t see the motorcycle” is a recurring account, and under Michigan law a driver must yield to oncoming traffic before turning left (MCL 257.650). "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": ""
-        }
-       ]
+       "v": " Michigan Avenue, Ford Road, Telegraph, Greenfield, Schaefer, Warren, and Outer Drive: wide, multi-lane, with a car turning left across the rider’s lane at every signal and every driveway along the east-side business district and Fairlane. “I didn’t see the motorcycle” is a recurring account, and under Michigan law a driver must yield to oncoming traffic before turning left (MCL 257.650(2))."
       }
      ]
     },
@@ -323,17 +313,7 @@
       },
       {
        "t": "text",
-       "v": " Potholes, pavement drop-offs, steel plates, and gravel produce the single-vehicle crashes no-fault does not cover. A rider thrown by a road defect has a claim against whichever agency has jurisdiction, under the highway exception to governmental immunity (MCL 691.1402). In Dearborn that split matters: Michigan Avenue, Ford Road, Telegraph, the Southfield Freeway, and I-94 are MDOT’s, with written notice filed in the Court of Claims within 120 days (MCL 691.1404); Greenfield, Outer Drive, and Warren are Wayne County’s and Schaefer and the neighborhood streets are the City’s, with 120 days’ written notice (MCL 691.1404). The agency must have known, or be presumed to have known, of the defect; a defect that was readily apparent for 30 days or more is presumed known (MCL 691.1403). Notice to the wrong agency is not notice. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "jurisdiction list; 1403 presumption"
-        }
-       ]
+       "v": " Potholes, pavement drop-offs, steel plates, and gravel produce the single-vehicle crashes no-fault does not cover. A rider thrown by a road defect has a claim against whichever agency has jurisdiction, under the highway exception to governmental immunity (MCL 691.1402). In Dearborn that split matters: Michigan Avenue, Ford Road, Telegraph, the Southfield Freeway, and I-94 are MDOT’s, with written notice filed in the Court of Claims within 120 days (MCL 691.1404); Greenfield, Outer Drive, and Warren are Wayne County’s and Schaefer and the neighborhood streets are the City’s, with 120 days’ written notice (MCL 691.1404). The agency must have known, or be presumed to have known, of the defect; a defect that was readily apparent for 30 days or more is presumed known (MCL 691.1403). Notice to the wrong agency is not notice."
       }
      ]
     },
@@ -389,17 +369,7 @@
       },
       {
        "t": "text",
-       "v": " Under MCL 500.3114(5), your Personal Injury Protection benefits come, in this order, from the insurer of the owner of the motor vehicle involved, then the insurer of that vehicle’s driver, then your own auto insurer if you have a car policy, then the auto insurer of the motorcycle’s owner if someone else owns it. “Involved” does not require contact; a car that cut you off and caused you to go down is involved even if it never touched you. If no insurer in that chain exists, the Michigan Assigned Claims Plan pays (MCL 500.3172), with its $250,000 medical cap. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "the fourth position in 3114(5) is the motor vehicle insurer of the motorcycle’s owner, not the motorcycle policy itself; the motorcycle hub and the Detroit motorcycle page say “the insurer of your motorcycle” and should be aligned; MACP eligibility for riders"
-        }
-       ]
+       "v": " Under MCL 500.3114(5), your Personal Injury Protection benefits come, in this order, from the insurer of the owner of the motor vehicle involved, then the insurer of that vehicle’s driver, then your own auto insurer if you have a car policy, then the motor vehicle insurer of the motorcycle’s owner or registrant. “Involved” does not require contact; a car that cut you off and caused you to go down is involved even if it never touched you. If no insurer in that chain exists, the Michigan Assigned Claims Plan pays (MCL 500.3172), with its $250,000 medical cap."
       }
      ]
     },
@@ -642,17 +612,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Since 2012, Michigan has let riders 21 and older ride without a helmet if they carry at least $20,000 in first-party medical coverage and have either held a motorcycle endorsement for two years or passed an approved safety course (MCL 257.658). If you met those conditions, riding helmetless was legal, so it was not a traffic violation. The insurer will still raise it: in a head-injury case as a damages argument for the jury, not a bar; in a leg or shoulder case it is irrelevant, and we say so. Riding helmetless without meeting the conditions is a civil infraction the insurer will use for comparative fault; it does not end the claim. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": ""
-        }
-       ]
+       "v": "Since 2012, Michigan has let riders 21 and older ride without a helmet if they carry at least $20,000 in first-party medical coverage and have either held a motorcycle endorsement for two years or passed an approved safety course (MCL 257.658). If you met those conditions, riding helmetless was legal, so it was not a traffic violation. The insurer will still raise it: in a head-injury case as a damages argument for the jury, not a bar; in a leg or shoulder case it is irrelevant, and we say so. Riding helmetless without meeting the conditions is a civil infraction the insurer will use for comparative fault; it does not end the claim."
       }
      ]
     }
@@ -677,17 +637,7 @@
        },
        {
         "t": "text",
-        "v": " Corewell Health Dearborn Hospital on Oakwood Boulevard, or the Detroit Level I trauma centers for the most serious injuries. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "hospital list"
-         }
-        ]
+        "v": " Corewell Health Dearborn Hospital on Oakwood Boulevard, or the Detroit Level I trauma centers for the most serious injuries."
        }
       ],
       [
@@ -1089,8 +1039,8 @@
    }
   ]
  },
- "wordCount": 2175,
- "openItems": 7,
+ "wordCount": 2149,
+ "openItems": 2,
  "source": {
   "file": "B2-75_Dearborn-Motorcycle-Accident-Lawyer.docx",
   "delivered": "2026-10-16"

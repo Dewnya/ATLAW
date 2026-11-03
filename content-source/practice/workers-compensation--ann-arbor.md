@@ -2,7 +2,7 @@
 slug: workers-compensation
 section: personal-injury
 city: ann-arbor
-status: draft
+status: approved
 seoTitle: Ann Arbor Workers’ Comp Lawyer: University of Michigan and Hospital Workers, Research Labs, Construction, Federal Employees, Benefits, Denials, the 90-Day Notice, and When You Can Also Sue
 seoDescription: Hurt at work in Ann Arbor, at the University, a hospital, a research lab, a construction site, a restaurant, or on the road? Michigan workers’ comp owes you 80 percent of your after-tax wage up to a weekly maximum, and all medical care. The benefits, the 90-day notice and two-year claim, the 28-day doctor rule, occupational disease, student and graduate employees, federal workers, and the third-party suit comp does not bar, including the six-month notice when the University is the third party. Free review. (313) 406-7606.
 h1: Ann Arbor Workers’ Compensation Lawyer

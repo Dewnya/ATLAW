@@ -39,17 +39,7 @@
    "c": [
     {
      "t": "text",
-     "v": "ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across Wayne, Oakland, Macomb, and Washtenaw counties. Birth injury cases are handled on contingency: no fee unless we recover money for your family, and the first conversation is free. "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "CONFIRM",
-       "v": "the firm handles birth injury cases in-house, and the attorney who leads them"
-      }
-     ]
+     "v": "ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across Wayne, Oakland, Macomb, and Washtenaw counties. Birth injury cases are handled on contingency: no fee unless we recover money for your family, and the first conversation is free. ATLAW handles these cases and works with qualified medical experts to review each one."
     }
    ]
   }
@@ -1041,17 +1031,7 @@
        [
         {
          "t": "text",
-         "v": "MCL 600.2922, 600.2922a, 600.5852 "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "ATTORNEY CHECK",
-           "v": "application to stillbirth"
-          }
-         ]
+         "v": "MCL 600.2922, 600.2922a, 600.5852"
         }
        ]
       ]
@@ -1464,17 +1444,7 @@
        },
        {
         "t": "text",
-        "v": ": obstetrics, maternal-fetal medicine, labor nursing, neonatology, pediatric neurology, and life care planning. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "expert network"
-         }
-        ]
+        "v": ": obstetrics, maternal-fetal medicine, labor nursing, neonatology, pediatric neurology, and life care planning, with reviewing experts who meet Michigan’s same-specialty requirements (MCL 600.2169)."
        }
       ],
       [
@@ -1486,20 +1456,6 @@
           "v": "Both claims, child’s and mother’s, with both deadlines calendared."
          }
         ]
-       },
-       {
-        "t": "text",
-        "v": "  "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": ""
-         }
-        ]
        }
       ],
       [
@@ -1508,21 +1464,7 @@
         "c": [
          {
           "t": "text",
-          "v": "Records and fetal monitoring strips preserved immediately."
-         }
-        ]
-       },
-       {
-        "t": "text",
-        "v": "  "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": ""
+          "v": "Records and fetal monitoring strips requested and preserved early."
          }
         ]
        }
@@ -1539,17 +1481,7 @@
        },
        {
         "t": "text",
-        "v": ", through special needs trusts and court approval. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "coordination with special needs planning counsel"
-         }
-        ]
+        "v": ", through special needs trusts and court approval, coordinated where needed with special needs planning counsel."
        }
       ],
       [
@@ -1722,8 +1654,8 @@
    }
   ]
  },
- "wordCount": 2831,
- "openItems": 6,
+ "wordCount": 2832,
+ "openItems": 0,
  "source": {
   "file": "B2-05_Michigan-Birth-Injury-Lawyer.docx",
   "delivered": "2026-10-16"

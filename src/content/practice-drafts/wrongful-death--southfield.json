@@ -244,31 +244,7 @@
       },
       {
        "t": "text",
-       "v": " Only the personal representative can bring the claim (MCL 600.2922(2)). Where the person lived in Southfield, the estate is opened in the Oakland County Probate Court, on the county campus at 1200 N. Telegraph Road in Pontiac. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "verify address and whether petitions are filed electronically"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " If there is a will naming a personal representative, that person petitions for appointment; if not, a family member, usually the spouse or an adult child, petitions under Michigan’s priority rules (MCL 700.3203). The court issues letters of authority, and the personal representative then has standing to hire a lawyer for the estate and file. We file the petition as the first legal step. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "EPIC appointment summary"
-        }
-       ]
+       "v": " Only the personal representative can bring the claim (MCL 600.2922(2)). Where the person lived in Southfield, the estate is opened in the Oakland County Probate Court, on the county campus at 1200 N. Telegraph Road in Pontiac. If there is a will naming a personal representative, that person petitions for appointment; if not, a family member, usually the spouse or an adult child, petitions under Michigan’s priority rules (MCL 700.3203). The court issues letters of authority, and the personal representative then has standing to hire a lawyer for the estate and file. We file the petition as the first legal step."
       }
      ]
     },
@@ -304,17 +280,7 @@
       },
       {
        "t": "text",
-       "v": " The suit is the injury claim the person would have had, brought by the estate against whoever caused the death. Death claims are filed in circuit court, not the 46th District Court on Evergreen, which hears civil cases only up to $25,000. For a death in Southfield that is usually the Sixth Judicial Circuit Court in Pontiac. Where the defendant is in Wayne County, as with a crash on the Detroit side of Eight Mile, the Third Circuit in Detroit may also be a proper venue (MCL 600.1629). Claims against the State go to the Court of Claims, and claims under federal law to the Eastern District of Michigan. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "venue"
-        }
-       ]
+       "v": " The suit is the injury claim the person would have had, brought by the estate against whoever caused the death. Death claims are filed in circuit court, not the 46th District Court on Evergreen, which hears civil cases only up to $25,000. For a death in Southfield that is usually the Sixth Judicial Circuit Court in Pontiac. Where the defendant is in Wayne County, as with a crash on the Detroit side of Eight Mile, the Third Circuit in Detroit may also be a proper venue (MCL 600.1629). Claims against the State go to the Court of Claims, and claims under federal law to the Eastern District of Michigan."
       }
      ]
     },
@@ -572,17 +538,7 @@
       },
       {
        "t": "text",
-       "v": ". "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": ""
-        }
-       ]
+       "v": "."
       }
      ]
     },
@@ -710,17 +666,7 @@
       },
       {
        "t": "text",
-       "v": " Three agencies own Southfield’s roads, and the notice clock depends on which one. The City owns Evergreen and local streets; the Road Commission for Oakland County owns the mile roads from 9 to 13 and Lahser; MDOT owns Telegraph, Northwestern Highway, the Lodge, Eight Mile, and I-696; a claim against MDOT needs notice filed with the Court of Claims within 120 days (MCL 691.1404). A City or SMART vehicle falls under the motor vehicle exception (MCL 691.1405). An individual government employee is liable only for gross negligence (MCL 691.1407(2)). "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": ""
-        }
-       ]
+       "v": " Three agencies own Southfield’s roads, and the notice clock depends on which one. The City owns Evergreen and local streets; the Road Commission for Oakland County owns the mile roads from 9 to 13 and Lahser; MDOT owns Telegraph, Northwestern Highway, the Lodge, Eight Mile, and I-696; a claim against MDOT needs notice filed with the Court of Claims within 120 days (MCL 691.1404). A City or SMART vehicle falls under the motor vehicle exception (MCL 691.1405). An individual government employee is liable only for gross negligence (MCL 691.1407(2))."
       }
      ]
     }
@@ -900,17 +846,7 @@
      "c": [
       {
        "t": "text",
-       "v": "The savings provision adds only a limited period and courts apply it strictly. Open the estate and file inside the ordinary deadline. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "whether 5852 applies to the dram shop period"
-        }
-       ]
+       "v": "The savings provision adds only a limited period and courts apply it strictly. Open the estate and file inside the ordinary deadline."
       }
      ]
     }
@@ -935,17 +871,7 @@
        },
        {
         "t": "text",
-        "v": ", along with the EMS run sheet and the hospital record. If the family’s customs call for prompt burial, tell the Medical Examiner’s office at once, or call us. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "verify current Oakland County ME procedure"
-         }
-        ]
+        "v": ", along with the EMS run sheet and the hospital record. If the family’s customs call for prompt burial, contact the Medical Examiner’s office right away, or call us."
        }
       ],
       [
@@ -1114,17 +1040,7 @@
    "answer": [
     {
      "t": "text",
-     "v": "No. The case is handled on contingency, costs are advanced by the firm, and the fee and costs are approved by the probate court at the distribution hearing. "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "CONFIRM",
-       "v": ""
-      }
-     ]
+     "v": "No. The case is handled on contingency and ATLAW advances the case costs; costs are deducted from the recovery first, the 33.3% fee is calculated on the remainder, and the fee and costs are approved by the probate court before the money is distributed. If there is no recovery, the family owes no fee and no costs."
     }
    ]
   }
@@ -1171,8 +1087,8 @@
    }
   ]
  },
- "wordCount": 2267,
- "openItems": 8,
+ "wordCount": 2254,
+ "openItems": 0,
  "source": {
   "file": "B3-05_Southfield-Wrongful-Death-Lawyer.docx",
   "delivered": "October 23, 2026 [CONFIRM: Batch 3 delivery date]"

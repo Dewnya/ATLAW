@@ -749,17 +749,7 @@
        },
        {
         "t": "text",
-        "v": " Trinity Health Livonia Hospital on Five Mile treats many of the city’s seriously injured; Corewell Health Farmington Hills, Garden City Hospital, and the Detroit Level I trauma centers treat others. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "hospital list and trauma designations"
-         }
-        ]
+        "v": " Trinity Health Livonia Hospital on Five Mile treats many of the city’s seriously injured; Corewell Health Farmington Hills, Garden City Hospital, and the Detroit Level I trauma centers treat others."
        }
       ],
       [
@@ -1157,8 +1147,8 @@
    }
   ]
  },
- "wordCount": 2275,
- "openItems": 2,
+ "wordCount": 2269,
+ "openItems": 1,
  "source": {
   "file": "B3-34_Livonia-Motorcycle-Accident-Lawyer.docx",
   "delivered": "October 24, 2026 [CONFIRM: Batch 3 delivery date]"

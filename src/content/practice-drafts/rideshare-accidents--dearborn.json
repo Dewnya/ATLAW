@@ -381,7 +381,7 @@
       },
       {
        "t": "text",
-       "v": " Uber and Lyft keep trip logs, GPS traces, and timestamps for every driver session. A "
+       "v": " Uber and Lyft keep trip logs, GPS traces, and timestamps for every driver session. We send a "
       },
       {
        "t": "strong",
@@ -394,17 +394,7 @@
       },
       {
        "t": "text",
-       "v": " to the company and its insurer in the first days, followed by a subpoena if necessary, obtains them. Screenshot the trip screen, the driver’s name and photo, the plate, the route, and the time before you leave the scene; it is the one piece of evidence the companies will not preserve for you. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "firm’s practice"
-        }
-       ]
+       "v": " to the company and its insurers for the trip data, followed by a subpoena if necessary. Screenshot the trip screen, the driver’s name and photo, the plate, the route, and the time before you leave the scene; it is the one piece of evidence the companies will not preserve for you."
       }
      ]
     }
@@ -428,21 +418,7 @@
       },
       {
        "t": "text",
-       "v": " Michigan no-fault pays your medical expenses and wage loss regardless of fault, but being a paying customer does not put Uber’s insurer first in line. Your own auto policy pays first, or a policy held by your spouse or a relative you live with; if there is none, you claim through the Michigan Assigned Claims Plan (MCL 500.3114, as amended by 2016 PA 345; MCL 500.3172). "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "TNC passenger PIP priority, carried from the rideshare hub"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " Written notice to the responsible insurer is due within one year (MCL 500.3145(1)). See our "
+       "v": " Michigan no-fault pays your medical expenses and wage loss regardless of fault, but being a paying customer does not put Uber’s insurer first in line. Your own auto policy pays first, or a policy held by your spouse or a relative you live with; if there is none, you claim through the Michigan Assigned Claims Plan (MCL 500.3114, as amended by 2016 PA 345; MCL 500.3172). Written notice to the responsible insurer is due within one year (MCL 500.3145(1)). See our "
       },
       {
        "t": "link",
@@ -488,21 +464,7 @@
       },
       {
        "t": "text",
-       "v": " Your own policy pays PIP if it does not exclude rideshare use; if it does, the company’s policy covers PIP while the app is on. Drivers are generally independent contractors under the Act, so there is usually no workers' compensation claim, which makes the PIP claim and the claim against the at-fault driver everything. A personal policy can be rescinded if rideshare use was misrepresented when the policy was bought. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "rescission language"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " Many Dearborn drivers work the airport run; a crash on I-94 with a passenger on board is a $1 million-policy case for the passenger and a PIP-plus-UM case for the driver."
+       "v": " Your own policy pays PIP if it does not exclude rideshare use; if it does, the company’s policy covers PIP while the app is on. Drivers are generally independent contractors under the Act, so there is usually no workers' compensation claim, which makes the PIP claim and the claim against the at-fault driver everything. A personal policy can be rescinded if rideshare use was misrepresented when the policy was bought. Many Dearborn drivers work the airport run; a crash on I-94 with a passenger on board is a $1 million-policy case for the passenger and a PIP-plus-UM case for the driver."
       }
      ]
     },
@@ -611,17 +573,7 @@
        },
        {
         "t": "text",
-        "v": ". "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "ATTORNEY CHECK",
-          "v": ""
-         }
-        ]
+        "v": "."
        }
       ],
       [
@@ -1218,8 +1170,8 @@
    }
   ]
  },
- "wordCount": 2051,
- "openItems": 4,
+ "wordCount": 2030,
+ "openItems": 0,
  "source": {
   "file": "B2-81_Dearborn-Uber-Lyft-Accident-Lawyer.docx",
   "delivered": "2026-10-16"

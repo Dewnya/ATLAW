@@ -29,7 +29,7 @@ A truck crash is not a car crash with a larger vehicle. The driver and the carri
 | Minimum carrier insurance | $750,000 general freight; $1 million oil; $5 million hazardous materials | 49 CFR 387.9 |
 | Maximum gross vehicle weight on designated Michigan routes | 164,000 lb (federal standard: 80,000 lb) | MCL 257.722 |
 
-The MSP count includes trucks over 10,000 pounds and buses, so SMART and school buses are part of it; bus crashes are covered on our [bus accident page](/personal-injury/bus-accidents). Michigan’s weight allowance, roughly double the federal standard, applies to the steel and automotive freight moving through Dearborn. **[ATTORNEY CHECK: weight statement]**
+The MSP count includes trucks over 10,000 pounds and buses, so SMART and school buses are part of it; bus crashes are covered on our [bus accident page](/personal-injury/bus-accidents). Michigan’s weight allowance, roughly double the federal standard, applies to the steel and automotive freight moving through Dearborn.
 
 ## Where Dearborn truck crashes happen
 
@@ -39,7 +39,7 @@ The MSP count includes trucks over 10,000 pounds and buses, so SMART and school 
 
 **Michigan Avenue, Ford Road, and Telegraph.** Through-trucks on the state trunklines and delivery trucks serving the east-side business district and Fairlane. A truck turning across Michigan Avenue’s pedestrian traffic between Wyoming and Schaefer is a common Dearborn risk.
 
-**Whose road it is.** Michigan Avenue, Ford Road, Telegraph, M-39, and I-94 are MDOT’s; a road-defect claim goes to the Court of Claims, with written notice filed there within 120 days (MCL 691.1404). Rotunda, Oakwood, and the neighborhood streets are the City’s or the County’s, with 120 days’ notice (MCL 691.1404). **[ATTORNEY CHECK: jurisdiction of Rotunda and Oakwood]**
+**Whose road it is.** Michigan Avenue, Ford Road, Telegraph, M-39, and I-94 are MDOT’s; a road-defect claim goes to the Court of Claims, with written notice filed there within 120 days (MCL 691.1404). Rotunda, Oakwood, and the neighborhood streets are the City’s or the County’s, with 120 days’ notice (MCL 691.1404).
 
 ## Who is responsible, and who pays
 
@@ -63,11 +63,11 @@ The MSP count includes trucks over 10,000 pounds and buses, so SMART and school 
 
 ## The evidence, and how fast it disappears
 
-Carriers must keep hours-of-service records for six months (49 CFR 395.8) and driver inspection reports for three months (49 CFR 396.11); after that they may lawfully be destroyed. Plant-gate, MDOT freeway, and business camera footage is overwritten in days to weeks. The truck’s engine control module and event data recorder can be cleared when the truck is repaired and returned to service. The first act in a Dearborn truck case is a **preservation letter** to the carrier, its insurer, the trailer owner, and the shipper, demanding that they keep the ELD data, the ECM and EDR data, the dash camera footage, the driver’s qualification file and post-crash test results, the dispatch and bill-of-lading records, the maintenance file, and the truck itself for inspection. A carrier that destroys evidence after receiving the letter faces spoliation sanctions. We also request the Michigan State Police Commercial Vehicle Enforcement Division’s post-crash inspection and the Dearborn Police report, and the plant’s gate footage before it cycles. **[CONFIRM: firm’s preservation-letter practice]**
+Carriers must keep hours-of-service records for six months (49 CFR 395.8) and driver inspection reports for three months (49 CFR 396.11); after that they may lawfully be destroyed. Plant-gate, MDOT freeway, and business camera footage is overwritten in days to weeks. The truck’s engine control module and event data recorder can be cleared when the truck is repaired and returned to service. We send a **preservation letter** to the carrier, its insurer, the trailer owner, and the shipper, demanding that they keep the ELD data, the ECM and EDR data, the dash camera footage, the driver’s qualification file and post-crash test results, the dispatch and bill-of-lading records, the maintenance file, and the truck itself for inspection. A carrier that destroys evidence after receiving the letter faces spoliation sanctions. We also request the Michigan State Police Commercial Vehicle Enforcement Division’s post-crash inspection and the Dearborn Police report, and any available plant gate footage.
 
 ## What to do after a Dearborn truck crash
 
-1. **Call 911 and get medical care the same day.** Corewell Health Dearborn Hospital on Oakwood Boulevard is where many of the city’s seriously injured are treated. **[CONFIRM: hospital list]** Truck-crash injuries to the neck, back, and brain often present days later.
+1. **Call 911 and get medical care the same day.** Corewell Health Dearborn Hospital on Oakwood Boulevard is where many of the city’s seriously injured are treated. Truck-crash injuries to the neck, back, and brain often present days later.
 2. **Photograph the truck**: the cab, the trailer, the USDOT number and carrier name on the door, the plates of both tractor and trailer, the load, and the skid marks.
 3. **Get the police report.** Dearborn Police or the State Police respond to injury crashes; a Dearborn Police UD-10 is purchased through CLEMIS, and a State Police UD-10 for $15 at michigan.gov/tcps. For a fatal or serious crash, the MSP Commercial Vehicle Enforcement Division may prepare a separate post-crash inspection report.
 4. **Do not speak to the carrier’s insurer or its investigator.** Decline the recorded statement.
@@ -78,7 +78,7 @@ Our [full checklist](/resources/what-to-do-after-an-accident) covers the first d
 
 ## The courts and deadlines
 
-Most Dearborn truck cases are filed in the Third Judicial Circuit Court in Detroit; cases against out-of-state carriers may be removed to or filed in the U.S. District Court for the Eastern District of Michigan on diversity grounds; claims against the State go to the Court of Claims; smaller claims go to the 19th District Court on Michigan Avenue. **[ATTORNEY CHECK]** A fatal crash is brought by the estate; see our [Dearborn wrongful death page](/personal-injury/wrongful-death/dearborn).
+Most Dearborn truck cases are filed in the Third Judicial Circuit Court in Detroit; cases against out-of-state carriers may be removed to or filed in the U.S. District Court for the Eastern District of Michigan on diversity grounds; claims against the State go to the Court of Claims; smaller claims go to the 19th District Court on Michigan Avenue. A fatal crash is brought by the estate; see our [Dearborn wrongful death page](/personal-injury/wrongful-death/dearborn).
 
 | What | When | Source |
 | --- | --- | --- |

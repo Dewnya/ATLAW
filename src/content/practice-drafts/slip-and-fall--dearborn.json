@@ -378,7 +378,7 @@
       },
       {
        "t": "text",
-       "v": " Multi-family buildings along Michigan Avenue and Warren and the older east-side housing stock: broken porch steps, missing handrails, unlit stairwells, and ice on the only path from the lot to the door. Landlords must keep the premises and common areas fit for their intended use and in reasonable repair (MCL 554.139). A lot with an inch or two of snow is still “fit” for parking under "
+       "v": " Multi-family buildings along Michigan Avenue and Warren and the older east-side housing stock: broken porch steps, missing handrails, unlit stairwells, and ice on the only path from the lot to the door. Landlords must keep the premises and common areas fit for their intended use and in reasonable repair (MCL 554.139). Under "
       },
       {
        "t": "em",
@@ -391,21 +391,20 @@
       },
       {
        "t": "text",
-       "v": " (2008), so tenant snow cases depend on whether the accumulation actually prevented use. "
+       "v": " (2008), an inch or two of snow did not make a parking lot unfit for parking. In "
       },
       {
-       "t": "strong",
+       "t": "em",
        "c": [
         {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": ""
+         "t": "text",
+         "v": "Bowerman v Red Oak Management"
         }
        ]
       },
       {
        "t": "text",
-       "v": " Where the landlord is the "
+       "v": " (2026), the Supreme Court clarified that the question is whether the common area is fit for the use intended by the parties, considering the tenants it serves; that an obstacle is a mere inconvenience is relevant but not decisive. Where the landlord is the "
       },
       {
        "t": "strong",
@@ -418,17 +417,7 @@
       },
       {
        "t": "text",
-       "v": ", the claim must fit the public building exception with 120-day notice (MCL 691.1406). "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "DHC status"
-        }
-       ]
+       "v": ", the claim must fit the public building exception with 120-day notice (MCL 691.1406)."
       }
      ]
     },
@@ -464,17 +453,7 @@
       },
       {
        "t": "text",
-       "v": " The University of Michigan-Dearborn is a State institution; a fall in its buildings is a claim against the State in the Court of Claims with written notice within 120 days (MCL 691.1406); a fall on the grounds outside a building is usually barred by immunity. Henry Ford College is a community college district, a local governmental agency; a fall in its buildings proceeds under the public building exception with 120-day notice (MCL 691.1406). The two campuses adjoin along Evergreen, and the notice goes to a different place for each. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": ""
-        }
-       ]
+       "v": " The University of Michigan-Dearborn is a State institution; a fall in its buildings is a claim against the State in the Court of Claims with written notice within 120 days (MCL 691.1406); a fall on the grounds outside a building is usually barred by immunity. Henry Ford College is a community college district, a local governmental agency; a fall in its buildings proceeds under the public building exception with 120-day notice (MCL 691.1406). The two campuses adjoin along Evergreen, and the notice goes to a different place for each."
       }
      ]
     },
@@ -646,17 +625,7 @@
        },
        {
         "t": "text",
-        "v": " and tell the provider where and how you fell. Corewell Health Dearborn Hospital is where many of the city’s fall injuries are treated. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "hospital list"
-         }
-        ]
+        "v": " and tell the provider where and how you fell. Corewell Health Dearborn Hospital is where many of the city’s fall injuries are treated."
        }
       ],
       [
@@ -762,21 +731,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Fall suits over $25,000 are filed in the Third Judicial Circuit Court in Detroit; claims up to $25,000, which many fall cases with modest bills are, in the 19th District Court at 16077 Michigan Avenue, a short walk from the office "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "distance"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": "; claims against the State or UM-Dearborn in the Court of Claims. A fall that causes a "
+       "v": "Fall suits over $25,000 are filed in the Third Judicial Circuit Court in Detroit; claims up to $25,000, which many fall cases with modest bills are, in the 19th District Court at 16077 Michigan Avenue, a short drive from our office; claims against the State or UM-Dearborn in the Court of Claims. A fall that causes a "
       },
       {
        "t": "link",
@@ -1132,8 +1087,8 @@
    }
   ]
  },
- "wordCount": 2084,
- "openItems": 5,
+ "wordCount": 2103,
+ "openItems": 0,
  "source": {
   "file": "B2-77_Dearborn-Slip-and-Fall-Lawyer.docx",
   "delivered": "2026-10-16"

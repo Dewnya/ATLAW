@@ -48,17 +48,7 @@
    "c": [
     {
      "t": "text",
-     "v": "ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across Wayne, Oakland, Macomb, and Washtenaw counties. Birth injury cases are handled on contingency: no fee unless we recover money for your family, and the first conversation is free. "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "CONFIRM",
-       "v": "the firm handles birth injury cases in-house, and the attorney who leads them"
-      }
-     ]
+     "v": "ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across Wayne, Oakland, Macomb, and Washtenaw counties. Birth injury cases are handled on contingency: no fee unless we recover money for your family, and the first conversation is free. ATLAW handles these cases and works with qualified medical experts to review each one."
     }
    ]
   }
@@ -1266,21 +1256,7 @@
       },
       {
        "t": "text",
-       "v": ". Whether a root avulsion, which tears the nerve from the spinal cord itself, qualifies as a spinal cord injury under the statute is a question that has been litigated, and the answer may depend on the operative findings in your child’s case. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "current state of the law on cap tier for avulsion injuries"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " We tell families this at the start because other websites do not, and because it means the economic damages, the life care plan, are where most of the value of an Erb’s palsy case lies."
+       "v": ". Whether a root avulsion, which tears the nerve from the spinal cord itself, qualifies as a spinal cord injury under the statute is a question that has been litigated, and the answer may depend on the operative findings in your child’s case. We tell families this at the start because other websites do not, and because it means the economic damages, the life care plan, are where most of the value of an Erb’s palsy case lies."
       }
      ]
     }
@@ -1657,17 +1633,7 @@
        },
        {
         "t": "text",
-        "v": " We obtain the delivery record and the operative findings and have them read before we tell a family whether the injury was preventable. Some brachial plexus injuries are not anyone’s fault, and when the records show that, we say so. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": ""
-         }
-        ]
+        "v": " We obtain the delivery record and the operative findings and have them read before we tell a family whether the injury was preventable. Some brachial plexus injuries are not anyone’s fault, and when the records show that, we say so."
        }
       ],
       [
@@ -1682,17 +1648,7 @@
        },
        {
         "t": "text",
-        "v": ": obstetrics, labor and delivery nursing, pediatric neurology, brachial plexus surgery, hand therapy, life care planning, and economics. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "expert network"
-         }
-        ]
+        "v": ": obstetrics, labor and delivery nursing, pediatric neurology, brachial plexus surgery, hand therapy, life care planning, and economics, with reviewing experts who meet Michigan’s same-specialty requirements (MCL 600.2169)."
        }
       ],
       [
@@ -1707,17 +1663,7 @@
        },
        {
         "t": "text",
-        "v": ", before the seven-year retention period runs. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": ""
-         }
-        ]
+        "v": ", before the seven-year retention period runs."
        }
       ],
       [
@@ -1741,23 +1687,13 @@
         "c": [
          {
           "t": "text",
-          "v": "Settlements structured to protect the child’s benefits."
+          "v": "Settlements structured to protect the child’s benefits"
          }
         ]
        },
        {
         "t": "text",
-        "v": "  "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "special needs planning coordination"
-         }
-        ]
+        "v": ", coordinated where needed with special needs planning professionals."
        }
       ],
       [
@@ -1930,8 +1866,8 @@
    }
   ]
  },
- "wordCount": 3514,
- "openItems": 7,
+ "wordCount": 3507,
+ "openItems": 1,
  "source": {
   "file": "B2-08_Michigan-Erbs-Palsy-Lawyer.docx",
   "delivered": "2026-10-16"

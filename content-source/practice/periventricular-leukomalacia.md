@@ -20,7 +20,7 @@ Michigan’s preterm birth rate was 10.7 percent in 2024, worse than the year be
 
 Not every case of PVL is anyone’s fault. A baby born at 25 weeks has a brain that is vulnerable to injury from the ordinary stresses of being outside the womb too soon, and some white matter injury occurs despite careful care. But medicine knows a great deal about what causes PVL and what reduces it. Steroids given to the mother before a preterm delivery, magnesium sulfate given to protect the baby’s brain, antibiotics and prompt delivery for an infected uterus, a ventilator that does not blow off too much carbon dioxide, blood pressure that is kept in range, and a cranial ultrasound done on schedule so the injury is found and the child is treated early: each of these is a standard of care, each is documented, and each is sometimes missed. This page explains what PVL is, how it is diagnosed, the steps before and after birth that reduce it, when a Michigan malpractice claim exists, and the deadline that runs to the child’s tenth birthday.
 
-ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across Wayne, Oakland, Macomb, and Washtenaw counties. Birth injury cases are handled on contingency: no fee unless we recover money for your family, and the first conversation is free. **[CONFIRM: the firm handles birth injury cases in-house, and the attorney who leads them]**
+ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across Wayne, Oakland, Macomb, and Washtenaw counties. Birth injury cases are handled on contingency: no fee unless we recover money for your family, and the first conversation is free. ATLAW handles these cases and works with qualified medical experts to review each one.
 
 ## Prematurity and PVL in Michigan: the numbers
 
@@ -64,7 +64,6 @@ The causes of PVL are known, and so are the measures that reduce them. The table
 | **Delivery at the wrong hospital** | A mother in preterm labor before about 32 weeks should be transferred, when safe, to a hospital with a Level III or IV NICU before delivery rather than the baby transferred after | Transfer decisions and timing; the delivering hospital’s NICU level |
 | **Failure to screen and diagnose** | Cranial ultrasound at 7 to 10 days, 4 to 6 weeks, and term-equivalent age for infants at or below 30 weeks; MRI where indicated; referral to early intervention and follow-up clinics | NICU imaging orders and reports; discharge summary; follow-up referrals |
 
-**[ATTORNEY CHECK: ACOG Committee Opinion 713 (antenatal corticosteroids), 455 (magnesium sulfate neuroprotection), Practice Bulletin 217 (PPROM); AAP 2020 neuroimaging report, for medical consultant review]**
 
 The two interventions in the first rows matter most in litigation, because they are simple, cheap, and specifically recommended. A mother who arrived at a Michigan hospital at 28 weeks with contractions, was observed for a day, and delivered without ever receiving betamethasone or magnesium has a chart in which the omission is visible on a single page.
 
@@ -120,7 +119,7 @@ Michigan retains joint and several liability in medical malpractice where the pl
 | Step | Rule | Where it comes from |
 | --- | --- | --- |
 | Child’s deadline (injury before 8th birthday) | Any time before the child’s 10th birthday | MCL 600.5851(7) |
-| Parents' independently recoverable malpractice claims Generally two years from the malpractice, subject to the six-month discovery provision and other applicable rules. | Two years from the malpractice, six-month discovery rule | MCL 600.5805(8), 600.5838a **[ATTORNEY CHECK]** |
+| Parents' independently recoverable malpractice claims Generally two years from the malpractice, subject to the six-month discovery provision and other applicable rules. | Two years from the malpractice, six-month discovery rule | MCL 600.5805(8), 600.5838a |
 | Notice of intent | Served on every defendant 182 days before suit | MCL 600.2912b |
 | Affidavit of merit | Filed with the complaint | MCL 600.2912d |
 | Expert qualifications | Same specialty and board certification | MCL 600.2169 |
@@ -144,11 +143,11 @@ A NICU stay generates thousands of pages, and the records that decide a PVL case
 ## Why metro Detroit families call ATLAW for PVL cases
 
 - **Thirteen years, more than 10,000 cases, more than $100 million recovered.**
-- **An honest first answer.** We have the imaging and the NICU record read before we tell a family whether the injury was preventable. Prematurity injures some babies despite good care, and when the record shows that, we say so. **[CONFIRM]**
-- **The experts a PVL case requires**: obstetrics and maternal-fetal medicine, neonatology, NICU nursing, pediatric neurology, pediatric neuroradiology, life care planning, and economics. **[CONFIRM: expert network]**
-- **The records requested by name**, including the electronic blood gas and ventilator data, with a preservation letter on retention. **[CONFIRM]**
+- **An honest first answer.** We have the imaging and the NICU record read before we tell a family whether the injury was preventable. Prematurity injures some babies despite good care, and when the record shows that, we say so.
+- **The experts a PVL case requires**: obstetrics and maternal-fetal medicine, neonatology, NICU nursing, pediatric neurology, pediatric neuroradiology, life care planning, and economics, with reviewing experts who meet Michigan’s same-specialty requirements (MCL 600.2169).
+- **The records requested in full**, including the electronic blood gas and ventilator data, with preservation letters sent to the hospital.
 - **Both the obstetric and the NICU claims, and both deadlines**, calendared.
-- **Settlements structured to protect the child’s benefits.**  **[CONFIRM: special needs planning coordination]**
+- **Settlements structured to protect the child’s benefits**, coordinated where needed with special needs planning professionals.
 - **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Families come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 - **Languages.** Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish.
 - **No fee unless we recover.** Contingency fee ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs. No cost for the first conversation.

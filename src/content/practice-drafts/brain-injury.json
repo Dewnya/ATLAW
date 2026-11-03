@@ -535,17 +535,7 @@
        },
        {
         "t": "text",
-        "v": " where reasonably necessary to the injured person’s care. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "ATTORNEY CHECK",
-          "v": "compensability of guardian fees as allowable expenses"
-         }
-        ]
+        "v": " where reasonably necessary to the injured person’s care."
        }
       ]
      ]
@@ -593,17 +583,7 @@
      "c": [
       {
        "t": "text",
-       "v": "In Andary v USAA (July 31, 2023), the Michigan Supreme Court held that the fee schedule and the 56-hour cap do not apply to people injured before June 11, 2019, whose benefits are governed by the policy and law in effect when they were hurt. A person catastrophically injured in 2015 keeps uncapped attendant care and provider payment at reasonable charges; a person injured in 2020 does not. For catastrophic claims under policies with unlimited coverage, the insurer is reimbursed above a per-claim retention by the Michigan Catastrophic Claims Association, which is why unlimited coverage remains available at all. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "current MCCA retention and any post-Andary legislation"
-        }
-       ]
+       "v": "In Andary v USAA (July 31, 2023), the Michigan Supreme Court held that the fee schedule and the 56-hour cap do not apply to people injured before June 11, 2019, whose benefits are governed by the policy and law in effect when they were hurt. A person catastrophically injured in 2015 keeps uncapped attendant care and provider payment at reasonable charges; a person injured in 2020 does not. For catastrophic claims under policies with unlimited coverage, the insurer is reimbursed above a per-claim retention, $675,000 for policies issued or renewed from July 1, 2025 through June 30, 2027, by the Michigan Catastrophic Claims Association, which is why unlimited coverage remains available at all."
       }
      ]
     }
@@ -644,17 +624,7 @@
       },
       {
        "t": "text",
-       "v": " to manage property and settlements (MCL 700.5401), appointed by the probate court. A settlement for a legally incapacitated person must be approved by the court, and the funds are protected in a conservatorship or a special needs trust so that Medicaid and SSI eligibility are preserved. A lawyer handling a severe TBI case coordinates the probate petition, the no-fault claim, the lawsuit, and the public-benefits planning as one matter. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "the firm handles or coordinates guardianship and conservatorship petitions"
-        }
-       ]
+       "v": " to manage property and settlements (MCL 700.5401), appointed by the probate court. A settlement for a legally incapacitated person must be approved by the court, and the funds are protected in a conservatorship or a special needs trust so that Medicaid and SSI eligibility are preserved. ATLAW works with its probate team to coordinate guardianship and conservatorship petitions where they are needed, alongside the no-fault claim, the lawsuit, and the public-benefits planning."
       }
      ]
     },
@@ -732,17 +702,7 @@
        },
        {
         "t": "text",
-        "v": " Michigan’s youth sports concussion law requires removal from play and written clearance by a health professional before return (MCL 333.9155–333.9156). A second-impact injury after a coach ignored the rule is a negligence claim, subject to governmental immunity rules for public schools. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "ATTORNEY CHECK",
-          "v": ""
-         }
-        ]
+        "v": " Michigan’s youth sports concussion law requires removal from play and written clearance by a health professional before return (MCL 333.9155–333.9156). A second-impact injury after a coach ignored the rule is a negligence claim, subject to governmental immunity rules for public schools."
        }
       ],
       [
@@ -1071,17 +1031,7 @@
        [
         {
          "t": "text",
-         "v": "MCL 600.5851 "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "ATTORNEY CHECK",
-           "v": "current operation"
-          }
-         ]
+         "v": "MCL 600.5851"
         }
        ]
       ],
@@ -1199,17 +1149,7 @@
        },
        {
         "t": "text",
-        "v": " Neuropsychological evaluation, specialist referrals, and advanced imaging arranged early. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "the firm’s network of neuropsychologists and TBI specialists"
-         }
-        ]
+        "v": " Neuropsychological evaluation, specialist referrals, and advanced imaging where appropriate."
        }
       ],
       [
@@ -1224,17 +1164,7 @@
        },
        {
         "t": "text",
-        "v": " for the losses no-fault does not cover. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "use of life care planners and vocational economists"
-         }
-        ]
+        "v": ", where the case calls for it, for the losses no-fault does not cover."
        }
       ],
       [
@@ -1249,17 +1179,7 @@
        },
        {
         "t": "text",
-        "v": " coordinated with the injury case. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": ""
-         }
-        ]
+        "v": " coordinated with the injury case."
        }
       ],
       [
@@ -1447,8 +1367,8 @@
    }
   ]
  },
- "wordCount": 2777,
- "openItems": 8,
+ "wordCount": 2745,
+ "openItems": 0,
  "source": {
   "file": "B1-25_Michigan-Brain-Injury-Lawyer.docx",
   "delivered": "2026-10-12"

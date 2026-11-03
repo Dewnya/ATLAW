@@ -60,7 +60,7 @@
     },
     {
      "t": "link",
-     "href": "/personal-injury/personal-injury/dearborn",
+     "href": "/personal-injury/dearborn",
      "c": [
       {
        "t": "text",
@@ -387,17 +387,7 @@
       },
       {
        "t": "text",
-       "v": " Michigan Avenue, Ford Road, Telegraph, the Southfield Freeway, and I-94 are MDOT trunklines; a defect claim goes to the Court of Claims, with written notice filed there within 120 days (MCL 691.1404). Greenfield, Outer Drive, and Warren are Wayne County roads; Schaefer and the neighborhood streets are the City’s; both take written notice within 120 days (MCL 691.1402, 691.1404). Notice to the wrong agency is not notice. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "road jurisdiction list"
-        }
-       ]
+       "v": " Michigan Avenue, Ford Road, Telegraph, the Southfield Freeway, and I-94 are MDOT trunklines; a defect claim goes to the Court of Claims, with written notice filed there within 120 days (MCL 691.1404). Greenfield, Outer Drive, and Warren are Wayne County roads; Schaefer and the neighborhood streets are the City’s; both take written notice within 120 days (MCL 691.1402, 691.1404). Notice to the wrong agency is not notice."
       }
      ]
     }
@@ -540,17 +530,7 @@
       },
       {
        "t": "text",
-       "v": ". And medical expenses above your chosen PIP level become part of your claim against the at-fault driver (MCL 500.3135(3)(c)), which makes that driver’s limits, and your UIM, decisive. We read every policy in the household before we value a Dearborn claim. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "excess allowable expenses under 3135(3)(c)"
-        }
-       ]
+       "v": ". And medical expenses above your chosen PIP level become part of your claim against the at-fault driver (MCL 500.3135(3)(c)), which makes that driver’s limits, and your UIM, decisive. We read every policy in the household before we value a Dearborn claim."
       }
      ]
     },
@@ -637,21 +617,7 @@
        },
        {
         "t": "text",
-        "v": " Corewell Health Dearborn Hospital on Oakwood Boulevard is where many of the city’s seriously injured are treated; Henry Ford Medical Center Fairlane and the Detroit Level I centers treat the rest. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "hospital list and Corewell Dearborn’s trauma designation"
-         }
-        ]
-       },
-       {
-        "t": "text",
-        "v": " Tell the provider it was a car crash."
+        "v": " Corewell Health Dearborn Hospital on Oakwood Boulevard treats many of the city’s seriously injured; other area hospitals and the Detroit Level I trauma centers treat the rest. Tell the provider it was a car crash."
        }
       ],
       [
@@ -750,17 +716,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Claims up to $25,000, including mini tort claims, are filed in the 19th District Court at 16077 Michigan Avenue, a short drive from our office. Injury suits over $25,000 go to the Third Judicial Circuit Court at the Coleman A. Young Municipal Center in Detroit; road-defect claims against MDOT go to the Court of Claims. Where the defendant lives or does business elsewhere, venue may be available in another county (MCL 600.1629). "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": ""
-        }
-       ]
+       "v": "Claims up to $25,000, including mini tort claims, are filed in the 19th District Court at 16077 Michigan Avenue, a short drive from our office. Injury suits over $25,000 go to the Third Judicial Circuit Court at the Coleman A. Young Municipal Center in Detroit; road-defect claims against MDOT go to the Court of Claims. Where the defendant lives or does business elsewhere, venue may be available in another county (MCL 600.1629)."
       }
      ]
     }
@@ -909,17 +865,7 @@
        [
         {
          "t": "text",
-         "v": "MCL 600.5805(2) "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "ATTORNEY CHECK",
-           "v": ""
-          }
-         ]
+         "v": "MCL 600.5805(2)"
         }
        ]
       ]
@@ -1082,8 +1028,8 @@
    }
   ]
  },
- "wordCount": 1875,
- "openItems": 5,
+ "wordCount": 1845,
+ "openItems": 0,
  "source": {
   "file": "B2-72_Dearborn-Car-Accident-Lawyer.docx",
   "delivered": "2026-10-16"

@@ -144,7 +144,7 @@ See our [medical malpractice page](/personal-injury/medical-malpractice).
 - a child’s drowning in a subdivision pond or an unfenced pool, where the association, landowner, or homeowner may be responsible
 - a child’s death on a construction site near the family’s home
 
-See our [Macomb Township personal injury page](/personal-injury/personal-injury/macomb-township).
+See our [Macomb Township personal injury page](/personal-injury/macomb-township).
 
 **Deaths involving a government agency.** In a township, the road defendant is never the township:
 

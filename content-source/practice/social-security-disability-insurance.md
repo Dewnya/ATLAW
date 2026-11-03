@@ -20,7 +20,7 @@ Because SSDI is insurance, the claim has two parts that other disability pages t
 
 This page explains both. It covers the work-credit rules and the date last insured, how the benefit is calculated and what it pays in 2026, the five-month waiting period and retroactive benefits, Medicare, the benefits your family can draw on your record, how SSDI differs from SSI and from private disability insurance, what happens after approval, and what a Michigan SSDI lawyer does at each stage.
 
-ATLAW is a Dearborn law firm serving clients for 13 years, with more than 10,000 cases handled. The firm represents Michigan SSDI claimants from the application through the hearing and beyond. **[CONFIRM: the firm handles Social Security disability claims in-house and the attorney who leads the practice]** There is no fee unless you win, and the fee is set by federal law.
+ATLAW is a Dearborn law firm serving clients for 13 years, with more than 10,000 cases handled. The firm represents Michigan SSDI claimants from the application through the hearing and beyond. An ATLAW attorney is assigned to each case. There is no fee unless you win, and the fee is set by federal law.
 
 ## SSDI in Michigan: the numbers
 
@@ -49,7 +49,7 @@ You earn Social Security credits by working in jobs covered by Social Security t
 | 24 to 30 | Credits for half the quarters between age 21 and the onset of disability |
 | Under 24 | 6 credits earned in the 3 years before disability began |
 
-The 20/40 rule produces the **date last insured**: the last date on which you still had 20 credits in the preceding 40 quarters. For a worker who stops working, that date is typically about five years after the last substantial year of work. **To receive SSDI, you must prove your disability began on or before your date last insured.** A Michigan worker who left the line in 2019 because of her back and applies in 2026 might have had a date last insured around December 2024, depending on her earnings record; her claim may depend on establishing that her disability began before that date, however disabled she is today. This is one important reason an otherwise strong SSDI claim can fail, and it is why the medical records from the years *before* the application matter as much as the current ones. **[ATTORNEY CHECK]**
+The 20/40 rule produces the **date last insured**: the last date on which you still had 20 credits in the preceding 40 quarters. For a worker who stops working, that date is typically about five years after the last substantial year of work. **To receive SSDI, you must prove your disability began on or before your date last insured.** A Michigan worker who left the line in 2019 because of her back and applies in 2026 might have had a date last insured around December 2024, depending on her earnings record; her claim may depend on establishing that her disability began before that date, however disabled she is today. This is one important reason an otherwise strong SSDI claim can fail, and it is why the medical records from the years *before* the application matter as much as the current ones.
 
 Two consequences follow. First, a worker whose date last insured has passed may still qualify for SSI if income and resources are low, and should apply for both. Second, a worker who is still insured but stopped working years ago should apply **now**, before the window closes, even if the records are incomplete; the protective filing date can be secured while the evidence is gathered.
 
@@ -61,7 +61,7 @@ SSDI is not a flat amount and does not depend on how disabled you are. It is you
 
 1. Your lifetime covered earnings are indexed to current wage levels.
 2. The highest-earning years are averaged into **average indexed monthly earnings** (AIME); for a disability claim, the number of years used is reduced according to your age, so that a worker disabled at 40 is not penalized for the years she did not get to work.
-3. A progressive formula converts AIME to the primary insurance amount: 90 percent of the first portion, 32 percent of the next, and 15 percent above that, with the “bend points” between them adjusted each year. For workers first eligible in 2026, those bend points are $1,286 and $7,749. **[ATTORNEY CHECK: 2026 bend points]**
+3. A progressive formula converts AIME to the primary insurance amount: 90 percent of the first portion, 32 percent of the next, and 15 percent above that, with the “bend points” between them adjusted each year. For workers first eligible in 2026, those bend points are $1,286 and $7,749.
 
 The result is why the average Michigan benefit is about $1,650 while the maximum is $4,152: the formula replaces a larger share of earnings for lower-paid workers. Your own estimate is on your Social Security Statement at ssa.gov/myaccount, labeled as the disability benefit you would receive if you became disabled now. Benefits increase each January by the cost-of-living adjustment (2.8 percent for 2026).
 
@@ -76,11 +76,11 @@ The years you spend on SSDI are a **disability freeze**: they are excluded from 
 - **Back pay.** Benefits accrue from the first month of entitlement to the month of approval and are paid in a lump sum. A claim approved at a hearing two years after filing often produces a back-pay award of 30 months or more.
 - **Medicare.** The 24-month Medicare waiting period runs from the first month of entitlement, so the back-pay months count. A claimant approved after two years of appeals is usually eligible for Medicare immediately.
 
-Establishing the onset date requires evaluating the medical and work records to determine when the claimant met Social Security’s disability and insured-status requirements. An onset the evidence cannot support invites a **partially favorable** decision that moves the date later and can, in a date-last-insured case, defeat the claim entirely. **[ATTORNEY CHECK]**
+Establishing the onset date requires evaluating the medical and work records to determine when the claimant met Social Security’s disability and insured-status requirements. An onset the evidence cannot support invites a **partially favorable** decision that moves the date later and can, in a date-last-insured case, defeat the claim entirely.
 
 ## What else SSDI brings
 
-- **Medicare Parts A and B generally after 24 months of SSDI entitlement, without that waiting period for qualifying ALS cases; end-stage renal disease has separate Medicare eligibility rules**), with Part D drug coverage available. Part B’s premium is deducted from the benefit. Michigan’s Medicare Savings Programs can pay the premium for lower-income beneficiaries. **[ATTORNEY CHECK]**
+- **Medicare Parts A and B generally after 24 months of SSDI entitlement, without that waiting period for qualifying ALS cases; end-stage renal disease has separate Medicare eligibility rules**), with Part D drug coverage available. Part B’s premium is deducted from the benefit. Michigan’s Medicare Savings Programs can pay the premium for lower-income beneficiaries.
 - **Family benefits** on your record: children under 18 (or 19 in high school), a spouse caring for your child under 16, or a spouse age 62 or older, each up to 50 percent of your benefit within a family maximum of roughly 150 to 180 percent. Our [Social Security benefits page](/disability/social-security-benefits) covers family, survivor, and disabled-adult-child benefits in detail.
 - **Protection of your retirement benefit** through the disability freeze.
 - **Work incentives**: a nine-month trial work period, a 36-month extended period of eligibility, expedited reinstatement, and the Ticket to Work program, explained below.
@@ -103,7 +103,7 @@ Many Michigan claimants receive SSDI and SSI together when the SSDI benefit is b
 
 Insured status gets you in the door. The claim is then decided under the same five-step test as every Social Security disability claim, 20 CFR 404.1520: whether you are earning above $1,690 a month, whether your impairment is severe and will last 12 months, whether it meets or equals a Listing, whether you can do your past work (jobs in the last five years), and whether you can do any other work given your age, education, and experience. Our [conditions that qualify](/disability/qualifying-impairments) page covers the Listings and the grid rules, and our [how to win your claim](/disability/winning-your-disability-claim) page covers the evidence.
 
-One SSDI-specific point: because the question is whether you were disabled **as of the date last insured**, the evidence must speak to that period. A claimant with a 2024 date last insured and no medical records from 2022 to 2024 has an evidentiary gap that a current MRI alone may not resolve. Retrospective opinions from treating physicians, pharmacy records, employer attendance records, and lay statements from family and former coworkers are the tools for proving a disability that began before the records caught up with it. **[ATTORNEY CHECK: SSR 18-1p on establishing onset]**
+One SSDI-specific point: because the question is whether you were disabled **as of the date last insured**, the evidence must speak to that period. A claimant with a 2024 date last insured and no medical records from 2022 to 2024 has an evidentiary gap that a current MRI alone may not resolve. Retrospective opinions from treating physicians, pharmacy records, employer attendance records, and lay statements from family and former coworkers are the tools for proving a disability that began before the records caught up with it.
 
 ## The process and the deadlines
 
@@ -121,7 +121,7 @@ Our [how to apply](/disability/ssd-application-process) and [appeals](/disabilit
 
 - **Working.** You may test your ability to work for nine trial work months (any month over $1,210 in 2026) within a rolling 60-month period without losing benefits. For the following 36 months, benefits are paid for any month under the $1,690 substantial gainful activity level and suspended for months over it. If benefits end because of work and you become unable to work again within five years, expedited reinstatement restores them without a new application. Report earnings every month; unreported earnings are the leading cause of overpayments.
 - **Continuing disability reviews** every six to eighteen months, three years, or five to seven years, depending on the expectation of improvement at approval. Benefits continue unless Social Security shows medical improvement related to the ability to work.
-- **Overpayments.** For applicable new Title II overpayment notices issued beginning April 25, 2025, Social Security generally uses a default withholding rate of 50 percent of the monthly benefit, subject to exceptions and requests for reconsideration, waiver, or a lower repayment rate. **[ATTORNEY CHECK]**
+- **Overpayments.** For applicable new Title II overpayment notices issued beginning April 25, 2025, Social Security generally uses a default withholding rate of 50 percent of the monthly benefit, subject to exceptions and requests for reconsideration, waiver, or a lower repayment rate.
 - **Offsets.** Workers’ compensation and certain public disability benefits reduce SSDI so that the combined total does not exceed 80 percent of pre-disability earnings; a Michigan workers’ compensation redemption should be drafted with the offset in mind. The Windfall Elimination Provision and Government Pension Offset were repealed effective January 2025.
 - **Taxes.** Up to 85 percent of SSDI may be federally taxable above $25,000 (individual) or $32,000 (couple) in combined income; a lump-sum back payment can be allocated to prior years. Michigan does not tax Social Security benefits.
 - **Conversion.** At full retirement age, SSDI becomes a retirement benefit in the same amount.
@@ -135,14 +135,14 @@ Our [how to apply](/disability/ssd-application-process) and [appeals](/disabilit
 - **Reviews the award** for the correct onset date, back-pay calculation, and Medicare start, and claims family benefits on your record.
 - **Plans the aftermath**: work incentives, reviews, overpayments, and workers’ compensation or LTD offsets.
 
-Fees are set by federal law: the lesser of 25 percent of past-due benefits or $9,200, approved by Social Security and paid from the back pay, and nothing if the claim is not won. There is no fee on your ongoing monthly benefit. **[CONFIRM: fee agreement terms; who pays record-retrieval costs]**
+Fees are set by federal law: the lesser of 25 percent of past-due benefits or $9,200, approved by Social Security and paid from the back pay, and nothing if the claim is not won. There is no fee on your ongoing monthly benefit. Any out-of-pocket costs, such as charges for copies of medical records, are explained in the written fee agreement at the start of the case.
 
 ## Why Michigan workers call ATLAW for SSDI claims
 
 - **Thirteen years serving clients, more than 10,000 cases.**
-- **Insured status and the date last insured checked first**, so the claim is filed for the right program with the right onset date. **[CONFIRM]**
-- **The evidence built for the insured period**, not only for today. **[CONFIRM]**
-- **Michigan’s hearing offices.** We appear at **[CONFIRM: Detroit, Oak Park, Livonia, and the other offices the firm covers]**.
+- **Insured status and the date last insured checked first**, so the claim is filed for the right program with the right onset date.
+- **The evidence built for the insured period**, not only for today.
+- **Michigan’s hearing offices.** We appear at Michigan hearing offices across the state, including Detroit, Oak Park, and Livonia, and at hearings held by video or phone.
 - **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 - **Languages.** Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish.
 - **No fee unless you win**, federally capped at 25 percent of back pay or $9,200, whichever is less.

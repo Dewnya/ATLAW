@@ -21,7 +21,7 @@ Most township residents have an Ann Arbor, Ypsilanti, or Saline mailing address.
 
 In 2024, the Michigan State Police recorded 1,143 crashes in the township. Of those, 215 injured someone and 3 were fatal. Four of Washtenaw County’s ten highest-crash intersections that year were in Pittsfield Township, three of them on Carpenter Road.
 
-ATLAW is a personal injury firm in Dearborn, about 30 miles east on I-94. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across southeast Michigan. This page explains what is particular about a Pittsfield Township injury claim. Our [Washtenaw County page](/areas-served/washtenaw-county) covers the county, and our [Pittsfield Township personal injury lawyer page](/personal-injury/personal-injury) explains how a claim proceeds from the first week to the check. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
+ATLAW is a personal injury firm in Dearborn, about 30 miles east on I-94. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across southeast Michigan. This page explains what is particular about a Pittsfield Township injury claim. Our [Washtenaw County page](/areas-served/washtenaw-county) covers the county, and our [Pittsfield Township personal injury lawyer page](/personal-injury/pittsfield-township) explains how a claim proceeds from the first week to the check. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 
 ## Pittsfield Township at a glance
 
@@ -149,7 +149,7 @@ The Michigan claims follow the 182-day Notice of Intent, the Affidavit of Merit,
 | Medical malpractice (Michigan provider) | 2 years, 182-day Notice of Intent first | MCL 600.5805(8), 600.2912b |
 | VA medical care | Administrative claim within 2 years | 28 USC 2401(b) |
 | Dram shop | Notice within 120 days of hiring a lawyer; suit within 2 years | MCL 436.1801 |
-| Injured child | 3 years, or one year after the 18th birthday if later | MCL 600.5851(1) **[ATTORNEY CHECK]** |
+| Injured child | 3 years, or one year after the 18th birthday if later | MCL 600.5851(1) |
 
 ## Why Pittsfield Township clients call ATLAW
 
@@ -167,7 +167,7 @@ The Michigan claims follow the 182-day Notice of Intent, the Affidavit of Merit,
 
 **Can I sue over a dangerous intersection?** Sometimes. A road agency is liable only for failing to keep the roadway itself in reasonable repair, not for its design. The claim needs written notice within 120 days for a county road, or 120 days, filed with the Court of Claims, for a state highway.
 
-**I fell on a township sidewalk or pathway. Who is responsible?** Usually the township, which has the sidewalk duty along the roads. Written notice is due within 120 days, and a defect of less than two inches is generally presumed not to be actionable. **[ATTORNEY CHECK]**
+**I fell on a township sidewalk or pathway. Who is responsible?** Usually the township, which has the sidewalk duty along the roads. Written notice is due within 120 days (180 days for an injured child), and a defect of less than two inches is generally presumed not to be actionable, though the presumption can be rebutted.
 
 **Where would my Pittsfield Township case be filed?** - Claims up to $25,000 go to the 14A-1 District Court at 4133 Washtenaw Avenue. - Larger injury suits go to the Washtenaw County Trial Court in Ann Arbor. - Claims against MDOT or the State go to the Court of Claims.
 

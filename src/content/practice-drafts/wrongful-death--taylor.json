@@ -1253,21 +1253,7 @@
       },
       {
        "t": "text",
-       "v": " Taylor has apartment complexes along Telegraph, Eureka, and Northline, and several manufactured-home communities, and about a third of Taylor households rent. Deaths from fires, carbon monoxide, failed smoke detectors, and falls in rental homes, apartments, and manufactured homes follow premises law. For tenants, they also follow MCL 554.139, and for a manufactured-home community, the community owner’s duties for the common areas and utilities. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "manufactured-home community duties"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " See our "
+       "v": " Taylor has apartment complexes along Telegraph, Eureka, and Northline, and several manufactured-home communities, and about a third of Taylor households rent. Deaths from fires, carbon monoxide, failed smoke detectors, and falls in rental homes, apartments, and manufactured homes follow premises law. For tenants, they also follow MCL 554.139, and for a manufactured-home community, the community owner’s duties for the common areas and utilities. See our "
       },
       {
        "t": "link",
@@ -1857,8 +1843,8 @@
    }
   ]
  },
- "wordCount": 3012,
- "openItems": 1,
+ "wordCount": 3007,
+ "openItems": 0,
  "source": {
   "file": "B4-11_Taylor-Wrongful-Death-Lawyer.docx",
   "delivered": "October 25, 2026 [CONFIRM: Batch 4 delivery date]"

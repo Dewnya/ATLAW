@@ -156,7 +156,7 @@ The MIOSHA investigation file is one of the first records requested. See our [wo
 
 See our [Taylor medical malpractice page](/personal-injury/medical-malpractice/taylor).
 
-**Housing, nursing homes, and premises.** Taylor has apartment complexes along Telegraph, Eureka, and Northline, and several manufactured-home communities, and about a third of Taylor households rent. Deaths from fires, carbon monoxide, failed smoke detectors, and falls in rental homes, apartments, and manufactured homes follow premises law. For tenants, they also follow MCL 554.139, and for a manufactured-home community, the community owner’s duties for the common areas and utilities. **[ATTORNEY CHECK: manufactured-home community duties]** See our [tenant injury page](/personal-injury/tenant-injuries).
+**Housing, nursing homes, and premises.** Taylor has apartment complexes along Telegraph, Eureka, and Northline, and several manufactured-home communities, and about a third of Taylor households rent. Deaths from fires, carbon monoxide, failed smoke detectors, and falls in rental homes, apartments, and manufactured homes follow premises law. For tenants, they also follow MCL 554.139, and for a manufactured-home community, the community owner’s duties for the common areas and utilities. See our [tenant injury page](/personal-injury/tenant-injuries).
 
 A death from neglect in a nursing home may be ordinary negligence or malpractice, and that changes the deadline. See our [Taylor nursing home abuse page](/personal-injury/nursing-home-abuse/taylor).
 

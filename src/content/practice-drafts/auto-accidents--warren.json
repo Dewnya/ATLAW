@@ -365,17 +365,7 @@
       },
       {
        "t": "text",
-       "v": " Groesbeck crosses the east side on a diagonal, producing skewed intersections with poor sight lines at the mile roads. Eight Mile is the Detroit line, where coverage on the other side of the crash is often thinner. I-696 has interchanges at Dequindre, Mound, Van Dyke, Hoover, and Schoenherr within about six miles, where merging and lane-change crashes concentrate. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "current I-696 construction in Warren"
-        }
-       ]
+       "v": " Groesbeck crosses the east side on a diagonal, producing skewed intersections with poor sight lines at the mile roads. Eight Mile is the Detroit line, where coverage on the other side of the crash is often thinner. I-696 has interchanges at Dequindre, Mound, Van Dyke, Hoover, and Schoenherr within about six miles, where merging and lane-change crashes concentrate."
       }
      ]
     },
@@ -634,17 +624,7 @@
       },
       {
        "t": "text",
-       "v": ". "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "UIM consent-to-settle"
-        }
-       ]
+       "v": "."
       }
      ]
     },
@@ -708,12 +688,7 @@
       },
       {
        "t": "text",
-       "v": ". "
-      },
-      {
-       "t": "placeholder",
-       "kind": "ATTORNEY CHECK",
-       "v": "FTCA"
+       "v": "."
       }
      ]
     }
@@ -768,17 +743,7 @@
        },
        {
         "t": "text",
-        "v": " Henry Ford Warren Hospital on Twelve Mile (formerly Ascension Macomb-Oakland, Warren campus) treats many of Warren’s injured; Henry Ford Macomb in Clinton Township and McLaren Macomb in Mount Clemens treat others. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "hospital list and trauma designations"
-         }
-        ]
+        "v": " Henry Ford Warren Hospital on Twelve Mile (formerly Ascension Macomb-Oakland, Warren campus) treats many of Warren’s injured; Henry Ford Macomb in Clinton Township and McLaren Macomb in Mount Clemens treat others."
        }
       ],
       [
@@ -891,17 +856,7 @@
       },
       {
        "t": "text",
-       "v": ". "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "venue"
-        }
-       ]
+       "v": "."
       }
      ]
     }
@@ -1126,17 +1081,7 @@
       [
        {
         "t": "text",
-        "v": "Claims handled in the 37th District and the Sixteenth Circuit, and with MDOT, the Department of Roads, SMART, and the insurers that write Warren policies. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "the firm’s Macomb County caseload supports this line"
-         }
-        ]
+        "v": "Claims handled in the 37th District Court and the Sixteenth Circuit, and with MDOT, the Macomb County Department of Roads, SMART, and the insurers that write Warren policies."
        }
       ],
       [
@@ -1257,8 +1202,8 @@
    }
   ]
  },
- "wordCount": 2243,
- "openItems": 6,
+ "wordCount": 2215,
+ "openItems": 0,
  "source": {
   "file": "B3-11_Warren-Car-Accident-Lawyer.docx",
   "delivered": "October 23, 2026 [CONFIRM: Batch 3 delivery date]"

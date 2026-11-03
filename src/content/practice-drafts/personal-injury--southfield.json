@@ -310,17 +310,7 @@
       },
       {
        "t": "text",
-       "v": " When your condition has stabilized, we send a demand with the complete record and a valuation; the decision to accept any offer is yours (MRPC 1.2). If the insurer will not pay fair value, suit is filed: claims up to $25,000 in the 46th District Court at 26000 Evergreen Road; injury suits over $25,000 in the Sixth Judicial Circuit Court (Oakland County Circuit Court) at 1200 N. Telegraph Road in Pontiac, which may send injury cases to case evaluation (MCR 2.403) or facilitation before trial; and where a defendant lives or does business in Wayne County, or the crash was on Eight Mile, possibly the Third Circuit in Detroit (MCL 600.1629). At settlement we resolve the liens before you are paid; minors’ settlements and wrongful death distributions are approved by the Oakland County Probate Court or the trial court (MCR 2.420; MCL 600.2922(6)). Compensation for physical injury is not taxable income (26 USC 104(a)(2)). "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": ""
-        }
-       ]
+       "v": " When your condition has stabilized, we send a demand with the complete record and a valuation; the decision to accept any offer is yours (MRPC 1.2). If the insurer will not pay fair value, suit is filed: claims up to $25,000 in the 46th District Court at 26000 Evergreen Road; injury suits over $25,000 in the Sixth Judicial Circuit Court (Oakland County Circuit Court) at 1200 N. Telegraph Road in Pontiac, which may send injury cases to case evaluation (MCR 2.403) or facilitation before trial; and where a defendant lives or does business in Wayne County, or the crash was on Eight Mile, possibly the Third Circuit in Detroit (MCL 600.1629). At settlement we resolve the liens before you are paid; minors’ settlements and wrongful death distributions are approved by the Oakland County Probate Court or the trial court (MCR 2.420; MCL 600.2922(6)). Compensation for physical injury is not taxable income (26 USC 104(a)(2))."
       }
      ]
     }
@@ -617,17 +607,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Economic damages (medical expenses, lost wages, lost earning capacity, replacement services) and noneconomic damages (pain and suffering, loss of enjoyment of life, disfigurement), with no cap except in medical malpractice. Your share of fault reduces the recovery and, above 50 percent, bars noneconomic damages (MCL 600.2959). In most Southfield cases the practical limit is insurance: the at-fault driver’s policy, which ranges from an office commuter’s high limits and umbrella to an Eight Mile driver’s $50,000 opt-down minimum (MCL 500.3009(5)); your own underinsured motorist coverage; and, in a premises case, the building owner’s and management company’s commercial policies. Where UIM is involved, settling with the at-fault driver without your own insurer’s consent can forfeit the UIM claim. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": ""
-        }
-       ]
+       "v": "Economic damages (medical expenses, lost wages, lost earning capacity, replacement services) and noneconomic damages (pain and suffering, loss of enjoyment of life, disfigurement), with no cap except in medical malpractice. Your share of fault reduces the recovery and, above 50 percent, bars noneconomic damages (MCL 600.2959). In most Southfield cases the practical limit is insurance: the at-fault driver’s policy, which ranges from an office commuter’s high limits and umbrella to an Eight Mile driver’s $50,000 opt-down minimum (MCL 500.3009(5)); your own underinsured motorist coverage; and, in a premises case, the building owner’s and management company’s commercial policies. Where UIM is involved, settling with the at-fault driver without your own insurer’s consent can forfeit the UIM claim."
       }
      ]
     }
@@ -667,17 +647,21 @@
        },
        {
         "t": "text",
-        "v": "  "
+        "v": " Each case is assigned to an ATLAW attorney who oversees it, supported by a case team. You can reach your team through our office at (313) 406-7606 or "
        },
        {
-        "t": "strong",
+        "t": "link",
+        "href": "mailto:info@atlawgroup.com",
         "c": [
          {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "how the firm staffs cases"
+          "t": "text",
+          "v": "info@atlawgroup.com"
          }
         ]
+       },
+       {
+        "t": "text",
+        "v": "."
        }
       ],
       [
@@ -944,17 +928,7 @@
       [
        {
         "t": "text",
-        "v": "Claims handled in the 46th District, the Oakland County Circuit Court, and the Oakland County Probate Court, and with MDOT, the RCOC, SMART, and the insurers and property managers that defend Southfield claims. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": ""
-         }
-        ]
+        "v": "Claims handled in the 46th District, the Oakland County Circuit Court, and the Oakland County Probate Court, and with MDOT, the RCOC, SMART, and the insurers and property managers that defend Southfield claims."
        }
       ],
       [
@@ -1093,8 +1067,8 @@
    }
   ]
  },
- "wordCount": 1851,
- "openItems": 5,
+ "wordCount": 1866,
+ "openItems": 1,
  "source": {
   "file": "B3-02_Southfield-Personal-Injury-Lawyer.docx",
   "delivered": "October 23, 2026 [CONFIRM: Batch 3 delivery date]"

@@ -485,17 +485,7 @@
      "c": [
       {
        "t": "text",
-       "v": "A hospital will argue that a fall or a pressure injury is malpractice, to invoke the shorter deadline and the cap; the injured patient’s lawyer analyzes the facts under Bryant before the two-year mark passes, because a claim filed as ordinary negligence after two years will be dismissed if a court decides it was malpractice. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "current application of Bryant to nursing care claims"
-        }
-       ]
+       "v": "A hospital will argue that a fall or a pressure injury is malpractice, to invoke the shorter deadline and the cap; the injured patient’s lawyer analyzes the facts under Bryant before the two-year mark passes, because a claim filed as ordinary negligence after two years will be dismissed if a court decides it was malpractice."
       }
      ]
     }
@@ -1029,17 +1019,7 @@
        },
        {
         "t": "text",
-        "v": " (John D. Dingell VA Medical Center in Detroit, the Ann Arbor VA). Claims against the United States proceed under the Federal Tort Claims Act: an administrative claim, commonly submitted on Standard Form 95 or another qualifying written claim stating a sum certain, must be presented to the VA within two years after the federal claim accrues. Suit may be filed in federal court after a final denial or six months of agency inaction, with six months to sue after a final written denial (28 USC 2401(b), 2675). Michigan substantive law, including the damages cap, applies; there is no jury. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "ATTORNEY CHECK",
-          "v": "application of Michigan’s NOI and affidavit requirements in FTCA cases"
-         }
-        ]
+        "v": " (John D. Dingell VA Medical Center in Detroit, the Ann Arbor VA). Claims against the United States proceed under the Federal Tort Claims Act: an administrative claim, commonly submitted on Standard Form 95 or another qualifying written claim stating a sum certain, must be presented to the VA within two years after the federal claim accrues. Suit may be filed in federal court after a final denial or six months of agency inaction, with six months to sue after a final written denial (28 USC 2401(b), 2675). Michigan substantive law, including the damages cap, applies; there is no jury. Whether Michigan’s Notice of Intent and affidavit-of-merit rules also apply in federal court is a question we evaluate in each case."
        }
       ],
       [
@@ -1077,8 +1057,8 @@
        "c": [
         {
          "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "accuracy and currency of the system list"
+         "kind": "VERIFY",
+         "v": "accuracy and currency of the system list; the attorney did not verify this; check it against the source before publication"
         }
        ]
       }
@@ -1405,17 +1385,7 @@
        [
         {
          "t": "text",
-         "v": "MCL 600.5851(7) "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "ATTORNEY CHECK",
-           "v": ""
-          }
-         ]
+         "v": "MCL 600.5851(7)"
         }
        ]
       ],
@@ -1473,17 +1443,7 @@
        },
        {
         "t": "text",
-        "v": ": the hospital’s own negligence and its responsibility for employed and contracted physicians under Grewe and Markel. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": ""
-         }
-        ]
+        "v": ": the hospital’s own negligence and its responsibility for employed and contracted physicians under Grewe and Markel."
        }
       ],
       [
@@ -1498,17 +1458,7 @@
        },
        {
         "t": "text",
-        "v": ", so a fall or pressure-injury case is filed under the right rules before the two-year mark. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": ""
-         }
-        ]
+        "v": ", so a fall or pressure-injury case is filed under the right rules before the two-year mark."
        }
       ],
       [
@@ -1517,23 +1467,13 @@
         "c": [
          {
           "t": "text",
-          "v": "Same-specialty experts"
+          "v": "Reviewing experts who meet Michigan’s same-specialty requirements"
          }
         ]
        },
        {
         "t": "text",
-        "v": ", including nursing experts for nursing-care claims. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "expert network"
-         }
-        ]
+        "v": " (MCL 600.2169), including nursing experts for nursing-care claims."
        }
       ],
       [
@@ -1542,23 +1482,13 @@
         "c": [
          {
           "t": "text",
-          "v": "Court of Claims and FTCA cases handled"
+          "v": "U-M and VA claims evaluated"
          }
         ]
        },
        {
         "t": "text",
-        "v": ", for U-M and VA patients. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": ""
-         }
-        ]
+        "v": ", under the Court of Claims and Federal Tort Claims Act rules that govern them."
        }
       ],
       [
@@ -1731,8 +1661,8 @@
    }
   ]
  },
- "wordCount": 2908,
- "openItems": 8,
+ "wordCount": 2921,
+ "openItems": 1,
  "source": {
   "file": "B2-04_Michigan-Hospital-Negligence-Lawyer.docx",
   "delivered": "2026-10-16"

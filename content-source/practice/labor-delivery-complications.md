@@ -20,7 +20,7 @@ Most pages on this subject are about the baby. That is understandable, because a
 
 This page covers the complications of labor and delivery that most often become Michigan malpractice cases, the professional standard that applied to each, the records that show whether it was met, injuries to the baby and to the mother, who is liable, the damages and 2026 caps, and the deadlines, which differ for the mother and the child.
 
-ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across Wayne, Oakland, Macomb, and Washtenaw counties. Birth injury and maternal injury cases are handled on contingency: no fee unless we recover money for your family, and the first conversation is free. **[CONFIRM: the firm handles birth injury and maternal injury cases in-house, and the attorney who leads them]**
+ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across Wayne, Oakland, Macomb, and Washtenaw counties. Birth injury and maternal injury cases are handled on contingency: no fee unless we recover money for your family, and the first conversation is free. ATLAW handles these cases and works with qualified medical experts to review each one.
 
 ## Labor and delivery in Michigan: the numbers
 
@@ -56,7 +56,6 @@ Each row below is a complication with a published standard of care. The right-ha
 | **Infection** | Group B strep screening at 36 to 37 weeks and antibiotics in labor for carriers; maternal fever in labor treated as chorioamnionitis with antibiotics; newborn evaluated for sepsis | Prenatal GBS culture; antibiotic timing; maternal temperatures; newborn cultures |
 | **Anesthesia** | Epidural and spinal placement, dosing, and monitoring; management of a high block or aspiration under general anesthesia | Anesthesia record; see our [anesthesia errors page](/personal-injury/anesthesia-errors) |
 
-**[ATTORNEY CHECK: clinical standards for medical consultant review; ACOG Practice Bulletins 205 (VBAC), 219 (operative vaginal birth), 222 (hypertension), 183 (postpartum hemorrhage), 797 (GBS), 106/116 (monitoring)]**
 
 ## Injuries to the baby
 
@@ -81,7 +80,7 @@ The mother is a patient with her own claim, her own damages, and her own two-yea
 - **Sepsis** from untreated infection or retained placental tissue.
 - **Surgical injury** during cesarean: bowel, bladder, or ureter injury that was not recognized at the time.
 - **Anesthesia injury**: nerve damage from epidural placement, spinal headache that was not treated, high spinal block, aspiration.
-- **Maternal death**, brought as a wrongful death claim by the estate under MCL 600.2922, with the two-year period and the saving provision of MCL 600.5852. **[ATTORNEY CHECK]**
+- **Maternal death**, brought as a wrongful death claim by the estate under MCL 600.2922, with the two-year period and the saving provision of MCL 600.5852.
 
 One point of Michigan law matters particularly to injured mothers. The higher non-economic cap, $1,065,000 for 2026, applies not only to brain and spinal cord paralysis and permanent cognitive impairment but also to an injury to the reproductive system that leaves the patient unable to have children. A mother who lost her uterus because of negligent management of hemorrhage or uterine rupture may qualify for the higher cap when the injury resulted in an inability to procreate under MCL 600.1483(1)(c).
 
@@ -128,8 +127,8 @@ Non-economic caps for 2026 are $596,400 and $1,065,000 under MCL 600.1483 and ar
 | Step | Rule | Where it comes from |
 | --- | --- | --- |
 | Child’s deadline (injury before 8th birthday) | Any time before the child’s 10th birthday | MCL 600.5851(7) |
-| Mother's own malpractice claim; spouse's derivative consortium claim where legally available Generally two years from the malpractice, subject to applicable discovery and tolling provisions | Two years from the malpractice, six-month discovery rule | MCL 600.5805(8), 600.5838a **[ATTORNEY CHECK]** |
-| Wrongful death (mother or baby) | Generally two years, with the personal representative's additional filing period under MCL 600.5852 and applicable notice-of-intent tolling. | MCL 600.2922, 600.5852 **[ATTORNEY CHECK]** |
+| Mother's own malpractice claim; spouse's derivative consortium claim where legally available Generally two years from the malpractice, subject to applicable discovery and tolling provisions | Two years from the malpractice, six-month discovery rule | MCL 600.5805(8), 600.5838a |
+| Wrongful death (mother or baby) | Generally two years, with the personal representative's additional filing period under MCL 600.5852 and applicable notice-of-intent tolling. | MCL 600.2922, 600.5852 |
 | Notice of intent | Served on every defendant 182 days before suit | MCL 600.2912b |
 | Affidavit of merit | Filed with the complaint | MCL 600.2912d |
 | Expert qualifications | Same specialty and board certification | MCL 600.2169 |
@@ -152,11 +151,11 @@ The mother’s two-year clock is the one families miss. A family focused on a ne
 ## Why metro Detroit families call ATLAW after a difficult delivery
 
 - **Thirteen years, more than 10,000 cases, more than $100 million recovered.**
-- **Both patients, both claims.** The mother’s injuries are evaluated as carefully as the child’s, with both deadlines calendared. **[CONFIRM]**
+- **Both patients, both claims.** The mother’s injuries are evaluated as carefully as the child’s, with both deadlines calendared.
 - **Record preservation requests. For accepted cases, we send written requests to preserve relevant medical records, including electronic monitoring records.**
-- **An honest first answer.** When the records show the complication was managed properly, we say so. **[CONFIRM]**
-- **The experts the case requires**: obstetrics and maternal-fetal medicine, labor and delivery nursing, anesthesiology, neonatology, pediatric neurology, urogynecology, life care planning, and economics. **[CONFIRM: expert network]**
-- **Settlements structured to protect the child’s benefits.**  **[CONFIRM: special needs planning coordination]**
+- **An honest first answer.** When the records show the complication was managed properly, we say so.
+- **The experts the case requires**: obstetrics and maternal-fetal medicine, labor and delivery nursing, anesthesiology, neonatology, pediatric neurology, urogynecology, life care planning, and economics, with reviewing experts who meet Michigan’s same-specialty requirements (MCL 600.2169).
+- **Settlements structured to protect the child’s benefits**, coordinated where needed with special needs planning professionals.
 - **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Families come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 - **Languages.** Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish.
 - **No fee unless we recover.** Contingency fee ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs. No cost for the first conversation.

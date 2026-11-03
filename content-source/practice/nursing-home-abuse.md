@@ -118,7 +118,7 @@ ATLAW’s results: more than 10,000 cases and more than $100 million recovered f
 
 **More than 10,000 cases, more than $100 million recovered** in 13 years, across all injury practice areas. Every case is different; the figures show the firm has done this work in these counties.
 
-**Records first.** The facility’s chart, incident reports, staffing records, and LARA file are requested before the facility knows a claim is coming. **[CONFIRM: that this is the firm’s practice]**
+**Records first.** We request the facility’s chart, incident reports, staffing records, and LARA file early in the case.
 
 **No fee unless we win.** A contingency fee set in writing before we start; expert costs for malpractice claims are advanced. ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs.
 

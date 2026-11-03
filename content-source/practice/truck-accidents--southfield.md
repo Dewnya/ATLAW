@@ -30,11 +30,11 @@ A truck crash is not a car crash with a larger vehicle. The driver and the carri
 | Minimum carrier insurance | $750,000 general freight; $1 million oil; $5 million hazardous materials | 49 CFR 387.9 |
 | Maximum gross vehicle weight on designated Michigan routes | 164,000 lb (federal standard: 80,000 lb) | MCL 257.722 |
 
-The MSP count includes trucks over 10,000 pounds and buses, so SMART buses on Telegraph, Northwestern, and the mile roads are part of it; bus crashes are covered on our [bus accident page](/personal-injury/bus-accidents). **[ATTORNEY CHECK: weight statement]**
+The MSP count includes trucks over 10,000 pounds and buses, so SMART buses on Telegraph, Northwestern, and the mile roads are part of it; bus crashes are covered on our [bus accident page](/personal-injury/bus-accidents).
 
 ## Where Southfield truck crashes happen
 
-**I-696 and the work zone.** Merges at five interchanges in four miles, lane shifts and narrowed shoulders through the reconstruction, and stopped traffic at the end of each closure. Rear-end and underride crashes at the back of a queue, sideswipes in narrowed lanes, and crashes with construction trucks entering and leaving the work zone. A crash in a work zone carries enhanced penalties for the at-fault driver (MCL 257.601b), and a contractor whose traffic control did not meet the Michigan Manual of Uniform Traffic Control Devices can be a defendant alongside the carrier. **[ATTORNEY CHECK: 257.601b; contractor liability and MDOT immunity]**
+**I-696 and the work zone.** Merges at five interchanges in four miles, lane shifts and narrowed shoulders through the reconstruction, and stopped traffic at the end of each closure. Rear-end and underride crashes at the back of a queue, sideswipes in narrowed lanes, and crashes with construction trucks entering and leaving the work zone. A crash in a work zone carries enhanced penalties for the at-fault driver (MCL 257.601b), and a contractor whose traffic control did not meet the Michigan Manual of Uniform Traffic Control Devices can be a defendant alongside the carrier.
 
 **Telegraph, the Lodge, and Northwestern.** Through-trucks on Telegraph turning across four lanes at 10, 11, and 12 Mile; the Lodge’s stop-and-go where it meets Northwestern; and delivery trucks entering and leaving the office-tower driveways and loading docks along Northwestern and at the Town Center.
 

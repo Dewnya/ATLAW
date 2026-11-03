@@ -89,17 +89,7 @@
    "c": [
     {
      "t": "text",
-     "v": "ATLAW is a Dearborn law firm serving clients for 13 years, with more than 10,000 cases handled. The firm represents Michigan claimants in long-term disability appeals and litigation against group disability insurers. "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "CONFIRM",
-       "v": "the firm handles LTD/ERISA claims in-house, the attorney who leads the practice, whether the firm has handled claims against The Hartford, and the fee model"
-      }
-     ]
+     "v": "ATLAW is a Dearborn law firm serving clients for 13 years, with more than 10,000 cases handled. The firm represents Michigan claimants in long-term disability appeals and lawsuits against group disability insurers, including claims insured by The Hartford. Each case is assigned to an ATLAW attorney, and the fee is contingent: no fee unless benefits are recovered."
     }
    ]
   }
@@ -148,17 +138,7 @@
        [
         {
          "t": "text",
-         "v": "Policy forms "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "ATTORNEY CHECK",
-           "v": ""
-          }
-         ]
+         "v": "Policy forms"
         }
        ]
       ],
@@ -178,17 +158,7 @@
        [
         {
          "t": "text",
-         "v": "The Hartford news release; Insurance Journal, Oct. 23, 2017 "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "ATTORNEY CHECK",
-           "v": "closing date"
-          }
-         ]
+         "v": "The Hartford news release; Insurance Journal, Oct. 23, 2017"
         }
        ]
       ],
@@ -409,17 +379,7 @@
       },
       {
        "t": "text",
-       "v": ". "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "current Hartford form names"
-        }
-       ]
+       "v": "."
       }
      ]
     },
@@ -468,17 +428,7 @@
       },
       {
        "t": "text",
-       "v": ". "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "Calvert v. Firstar Finance, 409 F.3d 286 (6th Cir. 2005); Rose v. Hartford Financial Services Group, 268 F. App’x 444 (6th Cir. 2008), and any more recent Sixth Circuit or E.D. Mich. decisions involving Hartford"
-        }
-       ]
+       "v": "."
       }
      ]
     },
@@ -702,21 +652,6 @@
         }
        ]
       ]
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "the patterns above are drawn from Hartford’s published claim forms and from reported ERISA decisions involving Hartford; add Michigan federal decisions as examples if desired"
-        }
-       ]
-      }
      ]
     }
    ]
@@ -1001,17 +936,7 @@
       },
       {
        "t": "text",
-       "v": ". "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "typical Hartford limitation language and the Sixth Circuit’s treatment of it"
-        }
-       ]
+       "v": "."
       }
      ]
     }
@@ -1266,14 +1191,8 @@
      "t": "p",
      "c": [
       {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "the firm’s fee structure for LTD appeals and litigation; whether the initial review is free"
-        }
-       ]
+       "t": "text",
+       "v": "Long-term disability appeals and lawsuits are handled on a contingency basis: no fee unless benefits are recovered. ATLAW advances case-related expenses, and the fee terms are explained in a written fee agreement before work begins. There is no charge for the initial consultation."
       }
      ]
     }
@@ -1334,17 +1253,7 @@
        },
        {
         "t": "text",
-        "v": ": the capacity grid completed with clinical support, the Employability Analysis Report tested occupation by occupation. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": ""
-         }
-        ]
+        "v": ": the capacity grid completed with clinical support, the Employability Analysis Report tested occupation by occupation."
        }
       ],
       [
@@ -1359,17 +1268,7 @@
        },
        {
         "t": "text",
-        "v": ", including the estimated offset. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": ""
-         }
-        ]
+        "v": ", including the estimated offset."
        }
       ],
       [
@@ -1414,17 +1313,7 @@
        },
        {
         "t": "text",
-        "v": " "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "fee structure; free initial review"
-         }
-        ]
+        "v": " Long-term disability appeals and lawsuits are handled on contingency: no fee unless benefits are recovered. ATLAW advances case-related expenses, and the fee terms are explained in a written fee agreement before work begins. The initial consultation is free."
        }
       ]
      ]
@@ -1532,35 +1421,7 @@
    "answer": [
     {
      "t": "text",
-     "v": ""
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "CONFIRM",
-       "v": "fee structure for LTD appeals and litigation"
-      }
-     ]
-    },
-    {
-     "t": "text",
-     "v": " The initial review is "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "CONFIRM",
-       "v": "free"
-      }
-     ]
-    },
-    {
-     "t": "text",
-     "v": "."
+     "v": "Long-term disability appeals and lawsuits are handled on contingency: no fee unless benefits are recovered. ATLAW advances case-related expenses, and the fee terms are explained in a written fee agreement before work begins. The initial review is free."
     }
    ]
   }
@@ -1587,24 +1448,14 @@
      },
      {
       "t": "text",
-      "v": " or send the form on this page before your appeal deadline runs. We calculate both deadlines, obtain the claim file, build the appeal as the record the court will read, coordinate your Social Security claim, and litigate when the insurer does not relent. We respond within one business day. "
-     },
-     {
-      "t": "strong",
-      "c": [
-       {
-        "t": "placeholder",
-        "kind": "CONFIRM",
-        "v": "fee terms for the CTA"
-       }
-      ]
+      "v": " or send the form on this page before your appeal deadline runs. We calculate both deadlines, obtain the claim file, build the appeal as the record the court will read, coordinate your Social Security claim, and litigate when the insurer does not relent. We respond within one business day. There is no fee unless benefits are recovered, and the initial review is free; the fee terms are explained in a written agreement before any work begins."
      }
     ]
    }
   ]
  },
- "wordCount": 3194,
- "openItems": 15,
+ "wordCount": 3204,
+ "openItems": 1,
  "source": {
   "file": "B2-23_Hartford-Disability-Denial-Lawyer.docx",
   "delivered": "2026-10-16"

@@ -39,13 +39,13 @@ Source: Michigan Traffic Crash Facts 2024, Heavy Trucks and Buses report and fac
 
 ## Who pays a bus passenger’s medical bills
 
-Michigan no-fault covers bus passengers, but the usual rule for vehicles that carry passengers for hire, that the vehicle’s insurer pays, has a list of exceptions that covers most buses. Under MCL 500.3114(2), a passenger on a school bus, a bus run by a common carrier certified by the Michigan Department of Transportation, a bus in a government-sponsored transportation program (DDOT, SMART, the Ann Arbor Area Transportation Authority), or a bus run by or for a nonprofit claims PIP benefits first from their own or a household auto policy. The bus’s insurer pays only if the passenger has no other policy. Under the same section, a passenger on a private shuttle, a limousine bus, or another for-hire vehicle that is not on the exception list claims from that vehicle’s insurer. **[ATTORNEY CHECK: application of the 500.3114(2) exceptions to charter companies]**
+Michigan no-fault covers bus passengers, but the usual rule for vehicles that carry passengers for hire, that the vehicle’s insurer pays, has a list of exceptions that covers most buses. Under MCL 500.3114(2), a passenger on a school bus, a bus run by a common carrier certified by the Michigan Department of Transportation, a bus in a government-sponsored transportation program (DDOT, SMART, the Ann Arbor Area Transportation Authority), or a bus run by or for a nonprofit claims PIP benefits first from their own or a household auto policy. The bus’s insurer pays only if the passenger has no other policy. Under the same section, a passenger on a private shuttle, a limousine bus, or another for-hire vehicle that is not on the exception list claims from that vehicle’s insurer. Charter buses run by MDOT-certified carriers fall within the exception list, so their passengers claim from their own or a household policy first.
 
 The practical order for most bus passengers:
 
 1. Your own no-fault policy.
 2. A policy of a spouse or relative you live with (MCL 500.3114(1)).
-3. The bus operator’s insurer, or the operator itself: DDOT and SMART are self-insured, so the PIP claim is made directly to the agency’s claims office. **[ATTORNEY CHECK: self-insured status of DDOT and SMART]**
+3. The bus operator’s insurer, or the operator itself: DDOT and SMART are self-insured, so the PIP claim is made directly to the agency’s claims office. **[VERIFY: self-insured status of DDOT and SMART; the attorney did not verify this; check it against the source before publication]**
 4. The Michigan Assigned Claims Plan, if none of the above applies (MCL 500.3172).
 
 Benefits are the same whoever pays: medical expenses, 85% of lost wages up to $7,455 a month (crashes on or after October 1, 2026), $20 a day for replacement services, attendant care, and the one-year written notice rule (MCL 500.3145). See our [no-fault insurance claim](/personal-injury/car-accident-insurance) page for the full benefit schedule and the insurer’s 30-day payment duty.
@@ -56,20 +56,20 @@ Pain and suffering and economic losses PIP does not cover come from a claim agai
 
 | Bus | Who you sue | The rules that apply |
 | --- | --- | --- |
-| **DDOT** (Detroit Department of Transportation) | The City of Detroit | A city is immune from most negligence claims, but the motor vehicle exception makes it liable for its employees’ negligent operation of a city-owned vehicle (MCL 691.1405). The city is self-insured. **[ATTORNEY CHECK: any city charter or ordinance notice requirement for DDOT claims]** |
+| **DDOT** (Detroit Department of Transportation) | The City of Detroit | A city is immune from most negligence claims, but the motor vehicle exception makes it liable for its employees’ negligent operation of a city-owned vehicle (MCL 691.1405). The city is self-insured. |
 | **SMART** (Suburban Mobility Authority for Regional Transportation; also AAATA/TheRide, and other authorities under the Metropolitan Transportation Authorities Act) | The authority | Same motor vehicle exception, plus a statutory trap: written notice of any injury claim must be served on the authority within 60 days of the occurrence (MCL 124.419). The Michigan Supreme Court enforced the 60-day rule as written in Atkins v SMART (2012), where a no-fault benefits application sent to SMART’s insurer did not count as notice. Suit must be brought in a county where the authority operates |
 | **School buses** (districts, intermediate districts, and contractors such as private student-transportation companies) | The district (a governmental agency) or the private contractor | Districts fall under the motor vehicle exception (MCL 691.1405); private contractors are ordinary defendants. Drivers who pass a stopped school bus with its red lights flashing violate MCL 257.682. A child’s lawsuit deadline is extended to age 19, but the one-year no-fault notice is not |
 | **Charter and intercity buses** (Greyhound, Indian Trails, Megabus, casino, church, and tour charters) | The bus company, and often the driver | Federal motor carrier rules: a minimum of $5 million in liability coverage for buses seating 16 or more (49 CFR 387.33), commercial driver’s licenses with a passenger endorsement (Part 383), hours-of-service limits (Part 395), drug and alcohol testing (Part 382), and inspection and maintenance records (Part 396). A violation is evidence of negligence, and the records are discoverable |
 | **Shuttles, medical transport, senior and hotel buses, party buses** | The operator | Ordinary negligence; commercial auto policy; Michigan’s for-hire rules on PIP (MCL 500.3114(2)) often make the vehicle’s insurer the PIP payer |
-| **State-owned buses** (university transit such as University of Michigan buses, MDOT vehicles) | The state entity | Claims go to the Michigan Court of Claims, with a written notice of intention to file within six months of the injury (MCL 600.6431). **[ATTORNEY CHECK: current notice period under 600.6431 as amended]** |
+| **State-owned buses** (university transit such as University of Michigan buses, MDOT vehicles) | The state entity | Claims go to the Michigan Court of Claims, with a written notice of intention to file within six months of the injury (MCL 600.6431). |
 
 The 60-day and six-month notices are the reason the bus type is the first question. A person who waits for medical treatment to stabilize before calling a lawyer has, in a SMART case, usually waited too long.
 
 ## The bus operator’s duty of care, and the sudden-stop problem
 
-A bus is a common carrier, and Michigan measures its duty by the care a reasonably careful carrier would use given the hazards of carrying standing and seated passengers (Frederick v City of Detroit, 1963). **[ATTORNEY CHECK: current statement of the standard]** That duty covers how the bus is driven, how passengers are allowed to board and alight, wheelchair securement, and whether the driver waited for an elderly or disabled passenger to be seated.
+A bus is a common carrier, and Michigan measures its duty by the care a reasonably careful carrier would use given the hazards of carrying standing and seated passengers (Frederick v City of Detroit, 1963). That duty covers how the bus is driven, how passengers are allowed to board and alight, wheelchair securement, and whether the driver waited for an elderly or disabled passenger to be seated.
 
-Injuries from sudden stops and starts are the most common bus passenger claim and the hardest. Michigan courts have long held that an ordinary jerk or stop, of the kind bus passengers expect, is not negligence; the movement must be unusual or extraordinary, or caused by the driver’s own negligence, such as following too closely or braking late for a light. **[ATTORNEY CHECK: “jerk and jolt” case law]** The onboard video, the bus’s event recorder, and the driver’s prior incident history turn “the bus stopped suddenly” into a case or confirm that it is not one.
+Injuries from sudden stops and starts are the most common bus passenger claim and the hardest. Michigan courts have long held that an ordinary jerk or stop, of the kind bus passengers expect, is not negligence; the movement must be unnecessarily sudden or violent, or caused by the driver’s own negligence, such as following too closely or braking late for a light. The onboard video, the bus’s event recorder, and the driver’s prior incident history turn “the bus stopped suddenly” into a case or confirm that it is not one.
 
 ## When another driver caused the bus crash
 
@@ -81,7 +81,7 @@ Forty-eight pedestrians were hit by heavy trucks or buses in Michigan in 2024 an
 
 ## The evidence on a bus, and how fast it disappears
 
-A transit bus is one of the best-documented vehicles on the road, for a short time. DDOT and SMART buses carry multiple interior and exterior cameras, GPS and automatic vehicle location data, and event recorders that capture speed, braking, and door status. Charter buses carry electronic logging devices, dash cameras, and maintenance files required by federal rule. Drivers have training, discipline, and incident histories. Most of this is overwritten or routinely purged within days to weeks unless a written preservation demand reaches the operator. The first letter in a bus case is that demand. **[CONFIRM: the firm sends preservation letters to the operator within days of retention]**
+A transit bus is one of the best-documented vehicles on the road, for a short time. DDOT and SMART buses carry multiple interior and exterior cameras, GPS and automatic vehicle location data, and event recorders that capture speed, braking, and door status. Charter buses carry electronic logging devices, dash cameras, and maintenance files required by federal rule. Drivers have training, discipline, and incident histories. Most of this is overwritten or routinely purged within weeks unless a written preservation demand reaches the operator. The first letter in a bus case is that demand.
 
 ## What to do after a bus crash
 
@@ -104,7 +104,7 @@ Bus cases differ from car cases in the size and nature of the defendant. A trans
 | Deadline | Time | Source |
 | --- | --- | --- |
 | Written notice of claim to SMART, AAATA, or another transportation authority | 60 days from the occurrence | MCL 124.419; Atkins v SMART (2012) |
-| Notice of intention to file against the state or a state university (Court of Claims) | 6 months from the injury **[ATTORNEY CHECK]** | MCL 600.6431 |
+| Notice of intention to file against the state or a state university (Court of Claims) | 6 months from the injury | MCL 600.6431 |
 | Written notice to your no-fault insurer | 1 year from the crash | MCL 500.3145(1) |
 | Application to the Assigned Claims Plan | 1 year from the crash | MCL 500.3145, 500.3174 |
 | Lawsuit for unpaid PIP benefits | 1 year from each unpaid benefit | MCL 500.3145(2) |
@@ -116,9 +116,9 @@ Bus cases differ from car cases in the size and nature of the defendant. A trans
 ## Why metro Detroit bus passengers call ATLAW
 
 - **Thirteen years, more than 10,000 cases, more than $100 million recovered.**
-- **The bus type is identified on the first call**, and the 60-day or six-month notice goes out before anything else. **[CONFIRM]**
-- **Preservation letters within days** for video, vehicle data, and driver records. **[CONFIRM]**
-- **Government and federal-carrier cases handled in-house**: DDOT, SMART, school districts, and charter companies. **[CONFIRM: governmental-immunity cases handled in-house]**
+- **The bus operator is identified early**, so the required notice (60 days for SMART; six months for state entities) goes out on time.
+- **Preservation letters to the bus operator** for video, vehicle data, and driver records.
+- **Public transit and government vehicle claims handled**: DDOT, SMART, school districts, and charter bus companies.
 - **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 - **Languages.** Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish.
 - **No fee unless we recover.** ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs. No cost for the first conversation.

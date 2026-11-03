@@ -59,7 +59,7 @@
     },
     {
      "t": "link",
-     "href": "/personal-injury/personal-injury/dearborn",
+     "href": "/personal-injury/dearborn",
      "c": [
       {
        "t": "text",
@@ -325,21 +325,7 @@
       },
       {
        "t": "text",
-       "v": ", Mich App 2003). "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "the firm’s reading"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " Injuries from a dog that did not bite, a knockdown, a fall while fleeing, a bicycle crash caused by a chasing dog, are negligence claims where comparative fault does apply (see our "
+       "v": ", Mich App 2003). Injuries from a dog that did not bite, a knockdown, a fall while fleeing, a bicycle crash caused by a chasing dog, are negligence claims where comparative fault does apply (see our "
       },
       {
        "t": "link",
@@ -389,8 +375,8 @@
        "c": [
         {
          "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "cite the current Dearborn animal ordinance sections and confirm the rules"
+         "kind": "VERIFY",
+         "v": "cite the current Dearborn animal ordinance sections and confirm the rules; the attorney did not verify this; check it against the source before publication"
         }
        ]
       },
@@ -539,17 +525,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Dog bites cause puncture and crush wounds, torn tendons and nerves, hand and forearm fractures, and facial injuries; wounds are often left open and treated with antibiotics, and infection is a routine complication. The biting dog is observed for ten days, and if it cannot be found, the victim receives post-exposure rabies treatment. Corewell Health Dearborn is where many adult bites are treated; Children’s Hospital of Michigan in Detroit treats the serious pediatric facial injuries. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "hospital list"
-        }
-       ]
+       "v": "Dog bites cause puncture and crush wounds, torn tendons and nerves, hand and forearm fractures, and facial injuries; wounds are often left open and treated with antibiotics, and infection is a routine complication. The biting dog is observed for ten days, and if it cannot be found, the victim receives post-exposure rabies treatment. Corewell Health Dearborn treats many adult bite injuries; Children’s Hospital of Michigan in Detroit is the region’s major pediatric hospital."
       }
      ]
     },
@@ -1017,8 +993,8 @@
    }
   ]
  },
- "wordCount": 2015,
- "openItems": 3,
+ "wordCount": 2017,
+ "openItems": 1,
  "source": {
   "file": "B2-80_Dearborn-Dog-Bite-Lawyer.docx",
   "delivered": "2026-10-16"

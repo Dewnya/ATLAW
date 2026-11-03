@@ -29,7 +29,7 @@ ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parkla
 
 - Our [Michigan nursing home abuse lawyer page](/personal-injury/nursing-home-abuse) covers the regulations, the warning signs, and the deadlines in full.
 - Our [Taylor page](/areas-served/taylor) covers every kind of injury claim in the city.
-- Our [Taylor personal injury lawyer page](/personal-injury/personal-injury/taylor) explains how a claim proceeds.
+- Our [Taylor personal injury lawyer page](/personal-injury/taylor) explains how a claim proceeds.
 
 The first conversation is free and confidential, in English, Arabic, French, Mandarin, Urdu, or Spanish: (313) 406-7606.
 
@@ -78,7 +78,7 @@ Two points matter for a family:
 - **The State’s suit does not compensate any resident.** It seeks repayment and penalties for Medicaid. A resident who was harmed, or the estate of one who died, has a separate claim and a separate deadline.
 - **The State’s evidence is the same kind that proves an individual case.** The State relied on staffing records, including payroll-based staffing reports submitted to CMS. Those records also show what the staffing was on the day of the fall or the week the pressure sore developed.
 
-**[ATTORNEY CHECK: MCL 400.601 et seq. relationship to individual claims]**
+The Attorney General’s case does not itself create a claim for an individual resident.
 
 ## The rules a Taylor facility must follow
 
@@ -162,7 +162,7 @@ A resident who is competent brings the claim in their own name. Many residents w
 
 The court approves any settlement for a protected person. If the resident has died, the estate’s personal representative brings the claim (see below).
 
-Where a resident’s dementia was severe enough at the time of the injury that they could not understand their rights, Michigan law may extend the deadline (MCL 600.5851(1), (2)). That extension is fact-specific and contested, and a family should not rely on it. **[ATTORNEY CHECK]**
+Where a resident’s dementia was severe enough at the time of the injury that they could not understand their rights, Michigan law may extend the deadline (MCL 600.5851(1), (2)). That extension is fact-specific and contested, and a family should not rely on it.
 
 ## Negligence or malpractice: the question that sets the deadline
 

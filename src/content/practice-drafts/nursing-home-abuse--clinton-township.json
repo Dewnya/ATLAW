@@ -60,7 +60,7 @@
     },
     {
      "t": "link",
-     "href": "/personal-injury/personal-injury/clinton-township",
+     "href": "/personal-injury/clinton-township",
      "c": [
       {
        "t": "text",
@@ -303,17 +303,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Two points matter for a family. First, the State’s suit seeks repayment and penalties for Medicaid; it does not compensate any resident. A resident who was harmed, or the estate of one who died, has a separate claim and a separate deadline. Second, the staffing records the State relied on, including payroll-based staffing reports submitted to CMS, are the same kind of evidence that proves an individual case: what the staffing was on the day of the fall or the week the pressure sore developed. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "MCL 400.601 et seq. relationship to individual claims"
-        }
-       ]
+       "v": "Two points matter for a family. First, the State’s suit seeks repayment and penalties for Medicaid; it does not compensate any resident. A resident who was harmed, or the estate of one who died, has a separate claim and a separate deadline. The Attorney General’s case does not itself create a claim for an individual resident. Second, the staffing records the State relied on, including payroll-based staffing reports submitted to CMS, are the same kind of evidence that proves an individual case: what the staffing was on the day of the fall or the week the pressure sore developed."
       }
      ]
     }
@@ -1257,8 +1247,8 @@
    }
   ]
  },
- "wordCount": 2794,
- "openItems": 1,
+ "wordCount": 2798,
+ "openItems": 0,
  "source": {
   "file": "B3-74_Clinton-Township-Nursing-Home-Abuse-Lawyer.docx",
   "delivered": "October 25, 2026 [CONFIRM: Batch 3 delivery date]"

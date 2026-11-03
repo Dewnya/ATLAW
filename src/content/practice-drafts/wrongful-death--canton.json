@@ -815,17 +815,7 @@
        [
         {
          "t": "text",
-         "v": "MCL 600.5805(2), 600.5827, 600.2922 "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "ATTORNEY CHECK",
-           "v": ""
-          }
-         ]
+         "v": "MCL 600.5805(2), 600.5827, 600.2922"
         }
        ]
       ],
@@ -1226,8 +1216,8 @@
    }
   ]
  },
- "wordCount": 2614,
- "openItems": 2,
+ "wordCount": 2611,
+ "openItems": 1,
  "source": {
   "file": "B3-45_Canton-Wrongful-Death-Lawyer.docx",
   "delivered": "October 24, 2026 [CONFIRM: Batch 3 delivery date]"

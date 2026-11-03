@@ -8,7 +8,7 @@ seoDescription: Injured in Ann Arbor? 2,770 crashes in the city in 2024. Pedestr
 h1: Personal Injury Law Firm Serving Ann Arbor, MI
 tagline: A city of about 120,000 built around a university of more than 50,000 students, with two Level I trauma centers, a crosswalk rule stricter than the state’s, and a landlord, a hospital, and a stadium that are all the State of Michigan.
 primaryKeyword: personal injury law firm ann arbor (10/mo)
-secondaryKeywords: place terms (ann arbor injuries, ann arbor accident, injured in ann arbor); the lawyer/attorney cluster (about 1,280/mo) is served by /personal-injury/personal-injury/ann-arbor
+secondaryKeywords: place terms (ann arbor injuries, ann arbor accident, injured in ann arbor); the lawyer/attorney cluster (about 1,280/mo) is served by /personal-injury/ann-arbor
 source: B4-04_Ann-Arbor-Personal-Injury-Law-Firm.docx
 delivered: October 25, 2026 [CONFIRM: Batch 4 delivery date]
 ---
@@ -17,7 +17,7 @@ delivered: October 25, 2026 [CONFIRM: Batch 4 delivery date]
 
 Ann Arbor is a city of about 120,000 people and the home of the University of Michigan, whose students, staff, and visitors fill its streets, sidewalks, buses, and bike lanes. In 2024, according to the Michigan State Police, 2,770 crashes were reported in the city, more than in any other Washtenaw County community; 423 of them injured someone, 36 people were seriously injured, and 5 were killed. The city’s injuries follow its shape: pedestrian, bicycle, and scooter crashes around campus and downtown; intersection crashes on State Street, Washtenaw Avenue, Packard, Stadium, Huron Parkway, and Ellsworth; freeway crashes where I-94, US-23, and M-14 ring the city; falls in older rental houses and apartment buildings; and injuries in buildings, buses, and a stadium that belong to the State.
 
-ATLAW is a personal injury firm in Dearborn, about 35 miles east on I-94. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across southeast Michigan. This page explains what is particular about an Ann Arbor injury claim. Our [Washtenaw County page](/areas-served/washtenaw-county) covers the county, and our [Ann Arbor personal injury lawyer page](/personal-injury/personal-injury/ann-arbor) explains how a claim proceeds from the first week to the check. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
+ATLAW is a personal injury firm in Dearborn, about 35 miles east on I-94. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across southeast Michigan. This page explains what is particular about an Ann Arbor injury claim. Our [Washtenaw County page](/areas-served/washtenaw-county) covers the county, and our [Ann Arbor personal injury lawyer page](/personal-injury/ann-arbor) explains how a claim proceeds from the first week to the check. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 
 ## Ann Arbor injury numbers, 2024
 

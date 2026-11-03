@@ -124,7 +124,7 @@
      },
      {
       "t": "link",
-      "href": "/personal-injury/personal-injury/taylor",
+      "href": "/personal-injury/taylor",
       "c": [
        {
         "t": "text",
@@ -502,14 +502,8 @@
      "t": "p",
      "c": [
       {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "MCL 400.601 et seq. relationship to individual claims"
-        }
-       ]
+       "t": "text",
+       "v": "The Attorney General’s case does not itself create a claim for an individual resident."
       }
      ]
     }
@@ -1141,17 +1135,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Where a resident’s dementia was severe enough at the time of the injury that they could not understand their rights, Michigan law may extend the deadline (MCL 600.5851(1), (2)). That extension is fact-specific and contested, and a family should not rely on it. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": ""
-        }
-       ]
+       "v": "Where a resident’s dementia was severe enough at the time of the injury that they could not understand their rights, Michigan law may extend the deadline (MCL 600.5851(1), (2)). That extension is fact-specific and contested, and a family should not rely on it."
       }
      ]
     }
@@ -1747,8 +1731,8 @@
    }
   ]
  },
- "wordCount": 2872,
- "openItems": 2,
+ "wordCount": 2873,
+ "openItems": 0,
  "source": {
   "file": "B4-13_Taylor-Nursing-Home-Abuse-Lawyer.docx",
   "delivered": "October 25, 2026 [CONFIRM: Batch 4 delivery date]"

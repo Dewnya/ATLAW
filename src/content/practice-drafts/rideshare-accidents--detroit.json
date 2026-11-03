@@ -435,7 +435,7 @@
       },
       {
        "t": "text",
-       "v": " Uber and Lyft keep trip logs, GPS traces, and timestamps for every driver session. A "
+       "v": " Uber and Lyft keep trip logs, GPS traces, and timestamps for every driver session. We send a "
       },
       {
        "t": "strong",
@@ -448,17 +448,7 @@
       },
       {
        "t": "text",
-       "v": " to the company and its insurer in the first days, followed by a subpoena if necessary, obtains them. A driver who says “I was off the app” is confirmed or contradicted by the record. Screenshot the trip screen, the driver’s name and photo, the plate, the route, and the time before you leave the scene, if you can; it is the one piece of evidence the companies will not preserve for you. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "firm’s practice of sending the preservation request in the first days"
-        }
-       ]
+       "v": " to the company and its insurers for the trip data, followed by a subpoena if necessary. A driver who says “I was off the app” is confirmed or contradicted by the record. Screenshot the trip screen, the driver’s name and photo, the plate, the route, and the time before you leave the scene, if you can; it is the one piece of evidence the companies will not preserve for you."
       }
      ]
     }
@@ -482,21 +472,7 @@
       },
       {
        "t": "text",
-       "v": " Michigan no-fault pays your medical expenses and wage loss regardless of fault, but being a paying customer does not put Uber’s insurer first in line. In general, your own auto policy pays first, or a policy held by your spouse or a relative you live with; if there is none, you claim through the Michigan Assigned Claims Plan (MCL 500.3114, as amended by 2016 PA 345; MCL 500.3172). "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "PIP priority order for a TNC passenger, carried from the rideshare hub"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " In Detroit, where many passengers have no auto policy and no insured household member, the rideshare policy’s PIP is reached more often than in the suburbs, and the Assigned Claims Plan after it. Written notice to the responsible insurer is due within one year (MCL 500.3145(1)); see our "
+       "v": " Michigan no-fault pays your medical expenses and wage loss regardless of fault, but being a paying customer does not put Uber’s insurer first in line. In general, your own auto policy pays first, or a policy held by your spouse or a relative you live with; if there is none, you claim through the Michigan Assigned Claims Plan (MCL 500.3114, as amended by 2016 PA 345; MCL 500.3172). In Detroit, where many passengers have no auto policy and no insured household member, the rideshare policy’s PIP is reached more often than in the suburbs, and the Assigned Claims Plan after it. Written notice to the responsible insurer is due within one year (MCL 500.3145(1)); see our "
       },
       {
        "t": "link",
@@ -695,17 +671,7 @@
        },
        {
         "t": "text",
-        "v": " Uber’s and Lyft’s terms of service require passengers to arbitrate disputes with the company. Courts have generally enforced those clauses against claims brought against the companies themselves; they do not bind your claim against the driver’s insurer or the other driver, which proceed in the Third Judicial Circuit Court like any Detroit injury suit. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "ATTORNEY CHECK",
-          "v": "current enforceability and scope"
-         }
-        ]
+        "v": " Uber’s and Lyft’s terms of service require passengers to arbitrate disputes with the company. Courts have generally enforced those clauses against claims brought against the companies themselves; they do not bind your claim against the driver’s insurer or the other driver, which proceed in the Third Judicial Circuit Court like any Detroit injury suit."
        }
       ]
      ]
@@ -872,17 +838,7 @@
       },
       {
        "t": "text",
-       "v": " Trips to and from the tunnel and bridge carry Ontario residents, whose own coverage is under a different system and who generally have no Michigan PIP claim if their vehicle was not insured in Michigan (MCL 500.3113(c)); as rideshare passengers they claim through the chain above. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": ""
-        }
-       ]
+       "v": " Trips to and from the tunnel and bridge carry Ontario residents, whose own coverage is under a different system and who generally have no Michigan PIP claim if they were occupying a vehicle not registered in Michigan and not insured by a Michigan-certified insurer (MCL 500.3113(c)); as rideshare passengers they claim through the chain above."
       }
      ]
     }
@@ -1249,17 +1205,7 @@
    "answer": [
     {
      "t": "text",
-     "v": "Your no-fault benefits come from your own policy (or the company’s if yours excludes rideshare use). Your injury claim is a UM claim under whatever UM coverage applies in the waiting period; the Act does not require Uber or Lyft to carry UM, so your own policy’s UM coverage is what matters. "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "ATTORNEY CHECK",
-       "v": ""
-      }
-     ]
+     "v": "Your no-fault benefits come from your own policy (or the company’s if yours excludes rideshare use). Your injury claim is a UM claim under whatever UM coverage applies in the waiting period; the Act does not require Uber or Lyft to carry UM, so your own policy’s UM coverage is what matters."
     }
    ]
   },
@@ -1342,8 +1288,8 @@
    }
   ]
  },
- "wordCount": 2450,
- "openItems": 5,
+ "wordCount": 2421,
+ "openItems": 0,
  "source": {
   "file": "B2-69_Detroit-Uber-Lyft-Accident-Lawyer.docx",
   "delivered": "2026-10-16"

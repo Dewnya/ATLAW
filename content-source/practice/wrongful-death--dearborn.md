@@ -32,7 +32,7 @@ ATLAW was founded in Dearborn and has practiced here for 13 years, from an offic
 
 ## How a Dearborn wrongful death claim works
 
-**The estate.** Only the personal representative can bring the claim (MCL 600.2922(2)). If there is a will naming an executor, that person petitions the Wayne County Probate Court, in the Coleman A. Young Municipal Center in Detroit, for appointment; if not, a family member, usually the spouse or an adult child, petitions under Michigan’s priority rules (MCL 700.3203). The court issues letters of authority, and the personal representative then has standing to hire a lawyer for the estate and file. We file the petition as the first legal step. **[ATTORNEY CHECK: EPIC appointment summary]**
+**The estate.** Only the personal representative can bring the claim (MCL 600.2922(2)). If there is a will naming an executor, that person petitions the Wayne County Probate Court, in the Coleman A. Young Municipal Center in Detroit, for appointment; if not, a family member, usually the spouse or an adult child, petitions under Michigan’s priority rules (MCL 700.3203). The court issues letters of authority, and the personal representative then has standing to hire a lawyer for the estate and file. We file the petition as the first legal step.
 
 **Notice to the family.** Within 30 days after filing suit, the personal representative must notify in writing every person who may share: the spouse, children, descendants, parents, grandparents, brothers and sisters, the children of the deceased’s spouse, and anyone named in the will (MCL 600.2922(3), (4)).
 
@@ -72,7 +72,7 @@ The savings provision gives a personal representative time to be appointed and t
 
 ## What the family should do in the first weeks
 
-1. **Get the death certificate and request the Medical Examiner’s report.** Deaths from injury in Wayne County are investigated by the Wayne County Medical Examiner. Where the family’s customs call for burial within a day, the Medical Examiner’s office can usually be asked to complete its examination promptly; call the office or call us. **[CONFIRM: wording; verify current ME procedure]**
+1. **Get the death certificate and request the Medical Examiner’s report.** Deaths from injury in Wayne County are investigated by the Wayne County Medical Examiner. If the family’s customs call for prompt burial, contact the Medical Examiner’s office right away, or call us.
 2. **Keep everything**: the vehicle, the phone, the helmet, the clothing, the medication bottles, the device. Do not authorize repair or disposal of a vehicle until a lawyer has seen it.
 3. **Notify the no-fault insurer in writing** if a vehicle was involved; survivor’s loss benefits begin on the claim, not on the lawsuit.
 4. **Do not give a recorded statement** to any insurer and do not sign any document, however it is described. An insurer offering to “cover the funeral” in exchange for a signature is settling the claim for the price of a funeral.
@@ -100,7 +100,7 @@ The savings provision gives a personal representative time to be appointed and t
 
 **My family member died at work at the Rouge. Is that a wrongful death case?** The employer owes workers’ compensation death benefits and cannot otherwise be sued, but any contractor, vendor, property owner, or manufacturer whose negligence caused the death can be, and that suit is the wrongful death claim.
 
-**Does the family pay anything up front?** No. The case is handled on contingency, costs are advanced by the firm, and the fee and costs are approved by the probate court at the distribution hearing. **[CONFIRM]**
+**Does the family pay anything up front?** No. The case is handled on contingency and ATLAW advances the case costs; costs are deducted from the recovery first, the 33.3% fee is calculated on the remainder, and the fee and costs are approved by the probate court before the money is distributed. If there is no recovery, the family owes no fee and no costs.
 
 ## Talk to a Dearborn wrongful death lawyer
 

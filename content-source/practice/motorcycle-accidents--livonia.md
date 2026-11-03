@@ -84,7 +84,7 @@ Since 2012, Michigan has let riders 21 and older ride without a helmet if they c
 
 ## What to do after a Livonia motorcycle crash
 
-1. **Get medical care the same day.** Trinity Health Livonia Hospital on Five Mile treats many of the city’s seriously injured; Corewell Health Farmington Hills, Garden City Hospital, and the Detroit Level I trauma centers treat others. **[CONFIRM: hospital list and trauma designations]**
+1. **Get medical care the same day.** Trinity Health Livonia Hospital on Five Mile treats many of the city’s seriously injured; Corewell Health Farmington Hills, Garden City Hospital, and the Detroit Level I trauma centers treat others.
 2. **Get the police report** from Livonia Police (available through CLEMIS), or from the State Police on I-96, I-275, and M-14. If a car caused the crash without contact, make sure the report says so. **[VERIFY]**
 3. **Identify every vehicle involved**, including the one that never touched you.
 4. **Photograph the bike, the scene, the road surface, your gear, and your injuries.** Do not repair or sell the bike.

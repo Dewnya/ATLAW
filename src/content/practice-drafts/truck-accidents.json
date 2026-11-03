@@ -1169,23 +1169,13 @@
        "c": [
         {
          "t": "text",
-         "v": "Preservation letter in the first 48 hours."
+         "v": "Preservation letters sent promptly"
         }
        ]
       },
       {
        "t": "text",
-       "v": "  "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "that the firm commits to this; if the firm’s practice differs, say what it is"
-        }
-       ]
+       "v": " to the carrier and its insurer."
       }
      ]
     },
@@ -1348,8 +1338,8 @@
    }
   ]
  },
- "wordCount": 2885,
- "openItems": 1,
+ "wordCount": 2872,
+ "openItems": 0,
  "source": {
   "file": "B1-03_Michigan-Truck-Accident-Lawyer.docx",
   "delivered": "2026-10-12"

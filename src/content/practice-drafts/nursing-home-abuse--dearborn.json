@@ -59,7 +59,7 @@
     },
     {
      "t": "link",
-     "href": "/personal-injury/personal-injury/dearborn",
+     "href": "/personal-injury/dearborn",
      "c": [
       {
        "t": "text",
@@ -289,21 +289,7 @@
      "c": [
       {
        "t": "text",
-       "v": "The federal rules require more than physical safety. A resident has the right to be informed of their care and treatment in a language and manner they understand (42 CFR 483.10), and Medicaid-certified facilities must provide meaningful language access. A resident has the right to food that accommodates their preferences and religious and cultural needs, including halal meals where requested (42 CFR 483.60). "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "confirm 483.10 and 483.60 subsections and Title VI framing"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " A violation of these rights is not by itself a lawsuit. It becomes part of one when it causes harm: a resident who could not report pain and developed an untreated fracture or sepsis; a resident who refused meals that violated their faith and lost weight while the facility charted “poor appetite”; a medication error that a resident who understood the nurse would have caught. The care plan, the interpreter records, the dietary orders, and the weight charts are where that evidence is."
+       "v": "The federal rules require more than physical safety. A resident has the right to be informed of their care and treatment in a language and manner they understand (42 CFR 483.10), and Medicaid-certified facilities must provide meaningful language access. A resident has the right to food that accommodates their allergies, intolerances, and preferences, which can include religious and cultural dietary needs such as halal meals (42 CFR 483.60(d)). A violation of these rights is not by itself a lawsuit. It becomes part of one when it causes harm: a resident who could not report pain and developed an untreated fracture or sepsis; a resident who refused meals that violated their faith and lost weight while the facility charted “poor appetite”; a medication error that a resident who understood the nurse would have caught. The care plan, the interpreter records, the dietary orders, and the weight charts are where that evidence is."
       }
      ]
     }
@@ -452,35 +438,7 @@
      "c": [
       {
        "t": "text",
-       "v": "The proof is in the facility’s records: the care plan, nursing notes, incident reports, wound-care logs, weight charts, medication administration records, staffing schedules, and its report to the State. The resident or an authorized representative has the right to the full chart, and we request it in writing, with the incident reports and staffing records, before the facility knows a claim is coming. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "firm’s practice"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " A transfer to Corewell Health Dearborn produces the hospital’s admission note, which often describes the resident’s condition on arrival more frankly than the facility’s chart does. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "hospital wording"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " Where the hospital’s own care caused harm, see our "
+       "v": "The proof is in the facility’s records: the care plan, nursing notes, incident reports, wound-care logs, weight charts, medication administration records, staffing schedules, and its report to the State. The resident or an authorized representative has the right to the full chart, and we request it in writing, along with the incident reports and staffing records. A transfer to Corewell Health Dearborn produces the hospital’s admission note, which often describes the resident’s condition on arrival more frankly than the facility’s chart does. Where the hospital’s own care caused harm, see our "
       },
       {
        "t": "link",
@@ -787,17 +745,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Many admission packets include an agreement to arbitrate. A facility may not require it as a condition of admission, must explain it in a way the resident understands, and must allow rescission within 30 days (42 CFR 483.70(n)). An agreement signed by a family member without legal authority, a power of attorney or guardianship, to bind the resident is generally not enforceable against the resident or the estate; and an agreement explained only in a language the signer did not read raises its own question. An enforceable agreement changes the forum, not the claim. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": ""
-        }
-       ]
+       "v": "Many admission packets include an agreement to arbitrate. A facility may not require it as a condition of admission, must explain it in a way the resident understands, and must allow rescission within 30 days (42 CFR 483.70(n)). An agreement signed by a family member without legal authority, a power of attorney or guardianship, to bind the resident is generally not enforceable against the resident or the estate; and an agreement explained only in a language the signer did not read raises its own question. An enforceable agreement changes the forum, not the claim."
       }
      ]
     }
@@ -1074,8 +1022,8 @@
    }
   ]
  },
- "wordCount": 1883,
- "openItems": 4,
+ "wordCount": 1861,
+ "openItems": 0,
  "source": {
   "file": "B2-83_Dearborn-Nursing-Home-Abuse-Lawyer.docx",
   "delivered": "2026-10-16"

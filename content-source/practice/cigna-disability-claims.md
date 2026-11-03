@@ -14,13 +14,13 @@ delivered: 2026-10-16
 
 ## Cigna Long Term Disability Denial Lawyer
 
-If your long-term disability policy says Cigna on the cover and your denial letter says New York Life, you are not confused. Cigna sold its group disability and life insurance business to New York Life for $6.3 billion in a transaction announced in December 2019 and closed on December 31, 2020. The business now operates as New York Life Group Benefit Solutions. Life Insurance Company of North America (LINA), which issued many Cigna group disability policies, became a New York Life subsidiary. Another insurer acquired in the transaction, Cigna Life Insurance Company of New York, was renamed New York Life Group Insurance Company of NY in March 2021. Your policy and claim correspondence identify the insurer responsible for your benefits. **[ATTORNEY CHECK: current legal entity names and the status of LINA and Cigna Life Insurance Company of New York after the acquisition]**
+If your long-term disability policy says Cigna on the cover and your denial letter says New York Life, you are not confused. Cigna sold its group disability and life insurance business to New York Life for $6.3 billion in a transaction announced in December 2019 and closed on December 31, 2020. The business now operates as New York Life Group Benefit Solutions. Life Insurance Company of North America (LINA), which issued many Cigna group disability policies, became a New York Life subsidiary. Another insurer acquired in the transaction, Cigna Life Insurance Company of New York, was renamed New York Life Group Insurance Company of NY in March 2021. Your policy and claim correspondence identify the insurer responsible for your benefits.
 
 That history matters because LINA’s claims handling has been the subject of regulatory action. In 2013, after multistate market conduct examinations, LINA and two Cigna affiliates entered a Regulatory Settlement Agreement with insurance regulators in California, Connecticut, Maine, Massachusetts, and Pennsylvania. The agreement required enhanced claims-handling procedures, reassessment of certain previously denied or terminated disability claims, and two years of regulatory monitoring. The reforms addressed concerns involving Social Security disability awards, treating physicians' opinions, co-morbid conditions, medical reviews, and vocational assessments. Cigna reported a $77 million pretax charge related to the settlement, including costs and reserves for reassessed claims, regulatory payments, claims-handling expenses, and additional costs for open claims. Those historical findings identify issues worth examining in a disability claim file, but they do not establish how any particular claim is handled today.
 
 This page explains who your insurer is, how these claims are denied, the ERISA rules that govern the appeal, how the appeal is built against this insurer specifically, and what a Michigan disability insurance lawyer does. The general law of long-term disability claims, ERISA, the administrative record, standard of review, and the Michigan law that applies to non-ERISA policies, is covered on our [long-term disability page](/disability/short-long-term-disability); this page assumes it and goes to what is particular to Cigna and New York Life.
 
-ATLAW is a Dearborn law firm serving clients for 13 years, with more than 10,000 cases handled. The firm represents Michigan claimants in long-term disability appeals and litigation against group disability insurers. **[CONFIRM: the firm handles LTD/ERISA claims in-house, the attorney who leads the practice, whether the firm has handled claims against Cigna/LINA/New York Life Group Benefit Solutions, and the fee model]**
+ATLAW is a Dearborn law firm serving clients for 13 years, with more than 10,000 cases handled. The firm represents Michigan claimants in long-term disability appeals and lawsuits against group disability insurers, including claims insured by LINA and New York Life Group Benefit Solutions (formerly Cigna). Each case is assigned to an ATLAW attorney, and the fee is contingent: no fee unless benefits are recovered.
 
 ## Cigna, LINA, and New York Life: the facts
 
@@ -31,8 +31,8 @@ ATLAW is a Dearborn law firm serving clients for 13 years, with more than 10,000
 | Closing | December 31, 2020 | Cigna Form 10-K for 2020 |
 | Business sold | Group long-term and short-term disability, group life, accident, voluntary, and specialty insurance | Cigna press release |
 | Business now operates as | New York Life Group Benefit Solutions | New York Life |
-| Fact: Issuing entities before and after acquisition Detail: Life Insurance Company of North America (LINA) and Cigna Life Insurance Company of New York were acquired by New York Life. The latter was renamed New York Life Group Insurance Company of NY effective March 10, 2021. The insurer responsible for a particular claim depends on the policy. Source: New York Life; New York Department of Financial Services. | Life Insurance Company of North America (LINA), Philadelphia | Policy forms **[ATTORNEY CHECK]** |
-| Fact: 2013 Regulatory Settlement Agreement Detail: Five original monitoring states; reassessment of eligible historical disability claims; enhanced claims procedures; two-year monitoring. Cigna recorded a $77 million pretax charge covering multiple settlement-related costs. Source: Cigna 2013 Form 10-Q; Regulatory Settlement Agreement. | California, Connecticut, Maine, Massachusetts, Pennsylvania; fines paid; approximately $77 million reserved to reassess previously denied LTD claims; claims-handling reforms; two-year monitoring | Cigna 2013 SEC filings; state insurance department announcements **[ATTORNEY CHECK]** |
+| Fact: Issuing entities before and after acquisition Detail: Life Insurance Company of North America (LINA) and Cigna Life Insurance Company of New York were acquired by New York Life. The latter was renamed New York Life Group Insurance Company of NY effective March 10, 2021. The insurer responsible for a particular claim depends on the policy. Source: New York Life; New York Department of Financial Services. | Life Insurance Company of North America (LINA), Philadelphia | Policy forms |
+| Fact: 2013 Regulatory Settlement Agreement Detail: Five original monitoring states; reassessment of eligible historical disability claims; enhanced claims procedures; two-year monitoring. Cigna recorded a $77 million pretax charge covering multiple settlement-related costs. Source: Cigna 2013 Form 10-Q; Regulatory Settlement Agreement. | Agreement finalized in 2013 with Maine, Massachusetts, Pennsylvania, Connecticut, and California; about $1.6 million in fines and surcharges; a $77 million pre-tax charge covering reassessment of previously denied or closed LTD claims and claims-handling changes; two-year monitoring | Cigna 2013 SEC filings; state insurance department announcements |
 | Governing law for employer plans | ERISA; 29 CFR 2560.503-1 | Federal law |
 | Claimant’s appeal deadline | At least 180 days from receipt of the denial | 29 CFR 2560.503-1(h)(3)(i) |
 | Insurer’s appeal decision deadline | 45 days, one 45-day extension | 29 CFR 2560.503-1(i)(3) |
@@ -53,7 +53,6 @@ The denial letters follow patterns. Each pattern below is one that appeared in t
 | “Benefits are terminated because you did not provide requested information” | Serial requests for records, forms, or examinations, with short deadlines, during which the insurer treats the file as incomplete | A complete and documented response to every request, with proof of delivery; an objection to the record for any request not actually made |
 | “The independent medical examination found no impairment” | An examination arranged and paid for by the insurer, often brief | A detailed account of the examination; the examiner’s history; treating-physician response; comparison of the examiner’s findings with the objective record |
 
-**[ATTORNEY CHECK: the patterns above are drawn from the 2013 regulatory findings and from reported ERISA decisions involving LINA; the attorney may wish to add one or two Sixth Circuit or Eastern District of Michigan decisions involving LINA as examples]**
 
 ## The ERISA rules this insurer must follow
 
@@ -90,7 +89,7 @@ The administrative appeal is the trial. The federal judge who eventually reviews
 4. Set out the structural conflict of interest, the insurer both deciding and paying, and the history that makes it relevant.
 5. Write the argument that ties the evidence to the policy language and the law.
 
-**Preserving the litigation deadline. Some group disability policies contain contractual limitation periods for filing suit, which may begin running before the final appeal decision. Under Heimeshoff v. Hartford, a reasonable contractual limitation period may be enforceable unless a controlling statute provides otherwise. For ERISA disability claims governed by the enhanced claims regulation, a final adverse benefit determination must also state any applicable contractual limitation period and its expiration date. The deadline should be calculated from the policy and relevant notices as soon as the denial arrives, not after the appeal is completed.**. **[ATTORNEY CHECK]**
+**Preserving the litigation deadline. Some group disability policies contain contractual limitation periods for filing suit, which may begin running before the final appeal decision. Under Heimeshoff v. Hartford, a reasonable contractual limitation period may be enforceable unless a controlling statute provides otherwise. For ERISA disability claims governed by the enhanced claims regulation, a final adverse benefit determination must also state any applicable contractual limitation period and its expiration date. The deadline should be calculated from the policy and relevant notices as soon as the denial arrives, not after the appeal is completed.**.
 
 ## If the appeal is denied
 
@@ -122,17 +121,17 @@ Cigna and New York Life group policies require claimants to apply for Social Sec
 - Calendars the insurer’s decision deadlines and the contractual limitation period for suit.
 - Litigates in federal court on the record, or in Michigan court with a jury for non-ERISA policies, and seeks fees and penalty interest where available.
 
-**[CONFIRM: the firm’s fee structure for LTD appeals and litigation; whether the initial review is free]**
+Long-term disability appeals and lawsuits are handled on a contingency basis: no fee unless benefits are recovered. ATLAW advances case-related expenses, and the fee terms are explained in a written fee agreement before work begins. There is no charge for the initial consultation.
 
 ## Why Michigan claimants call ATLAW for Cigna and New York Life denials
 
 - **Thirteen years serving clients, more than 10,000 cases.**
-- **The claim file first**, and the appeal built as the record the federal court will read. **[CONFIRM: practice]**
-- **The insurer’s own history in the record**: the practices the 2013 settlement identified, documented where they recur. **[CONFIRM]**
-- **Social Security and LTD coordinated**, so the award does not become a repayment surprise. **[CONFIRM]**
+- **The complete claim file first**, and the appeal built with the record a court may later review in mind.
+- **The insurer’s own history in the record**: where relevant, we document the claim-handling practices identified in Cigna’s 2013 regulatory settlement.
+- **Social Security and LTD coordinated**, so the award does not become a repayment surprise.
 - **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 - **Languages.** Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish.
-- **Fees.** **[CONFIRM: fee structure; free initial review]**
+- **Fees.** Long-term disability appeals and lawsuits are handled on contingency: no fee unless benefits are recovered. ATLAW advances case-related expenses, and the fee terms are explained in a written fee agreement before work begins. The initial consultation is free.
 
 ## Frequently asked questions about Cigna and New York Life disability denials
 
@@ -154,10 +153,10 @@ Cigna and New York Life group policies require claimants to apply for Social Sec
 
 **Will my case be decided by a jury?** Not if ERISA governs. A federal judge decides on the insurer’s file. A jury is available only for individual, governmental, and church-plan policies under Michigan law.
 
-**What does a lawyer cost?** **[CONFIRM: fee structure for LTD appeals and litigation]** The initial review is **[CONFIRM: free]**.
+**What does a lawyer cost?** Long-term disability appeals and lawsuits are handled on contingency: no fee unless benefits are recovered. ATLAW advances case-related expenses, and the fee terms are explained in a written fee agreement before work begins. The initial review is free.
 
 ## Talk to a Michigan lawyer about your Cigna or New York Life disability denial
 
-If Cigna, Life Insurance Company of North America, or New York Life Group Benefit Solutions denied or terminated your long-term disability claim anywhere in Michigan, call **(313) 406-7606** or send the form on this page before your appeal deadline runs. We obtain the claim file, build the appeal as the record the court will read, coordinate your Social Security claim, and litigate when the insurer does not relent. We respond within one business day. **[CONFIRM: fee terms for the CTA]**
+If Cigna, Life Insurance Company of North America, or New York Life Group Benefit Solutions denied or terminated your long-term disability claim anywhere in Michigan, call **(313) 406-7606** or send the form on this page before your appeal deadline runs. We obtain the claim file, build the appeal as the record the court will read, coordinate your Social Security claim, and litigate when the insurer does not relent. We respond within one business day. There is no fee unless benefits are recovered, and the initial review is free; the fee terms are explained in a written agreement before any work begins.
 
 *Results depend on the facts of each case, and past results do not guarantee a future outcome. Cigna, Life Insurance Company of North America, and New York Life Group Benefit Solutions are referenced for identification; this firm is not affiliated with them. Statements about corporate transactions and regulatory actions are drawn from public filings and announcements cited in our records and are summarized; policy terms vary and the policy language controls. This page is general information about federal and Michigan law; it is not legal advice for your situation.*

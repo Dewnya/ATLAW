@@ -67,7 +67,7 @@ Rochester Hills’ crashes were less often fatal in 2024 than the county’s or 
 - **The person lived in Rochester Hills:** the estate is opened in the Oakland County Probate Court on the county campus at 1200 N. Telegraph Road in Pontiac.
 - The person lived elsewhere in Michigan but died in Rochester Hills: the estate is opened in the county where they lived. The suit can still be filed in Oakland County.
 
-If there is a will naming a personal representative, that person petitions for appointment. If not, a family member, usually the spouse or an adult child, petitions under Michigan’s priority rules (MCL 700.3203). The court issues letters of authority, and the personal representative then has standing to hire a lawyer for the estate and file. We file the petition as the first legal step. **[ATTORNEY CHECK: EPIC appointment summary]**
+If there is a will naming a personal representative, that person petitions for appointment. If not, a family member, usually the spouse or an adult child, petitions under Michigan’s priority rules (MCL 700.3203). The court issues letters of authority, and the personal representative then has standing to hire a lawyer for the estate and file. We file the petition as the first legal step.
 
 **Notice to the family.** Within 30 days after filing suit, the personal representative must notify in writing every person who may share in the recovery (MCL 600.2922(2)–(4)). That list includes:
 

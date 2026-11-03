@@ -452,17 +452,7 @@
       },
       {
        "t": "text",
-       "v": " Claims up to $25,000, including mini tort claims for vehicle damage (MCL 500.3135(3)(e), up to $3,000), are filed in the 19th District Court at 16077 Michigan Avenue, a few blocks from our office. Injury suits over $25,000 go to the Third Judicial Circuit Court at the Coleman A. Young Municipal Center in Detroit; wrongful death estates (MCL 600.2922) and minors’ settlements (MCR 2.420) to the Wayne County Probate Court in the same building. Where a defendant lives or does business outside Wayne County, venue may be available elsewhere (MCL 600.1629). "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": ""
-        }
-       ]
+       "v": " Claims up to $25,000, including mini tort claims for vehicle damage (MCL 500.3135(3)(e), up to $3,000), are filed in the 19th District Court at 16077 Michigan Avenue, a few blocks from our office. Injury suits over $25,000 go to the Third Judicial Circuit Court at the Coleman A. Young Municipal Center in Detroit; wrongful death estates (MCL 600.2922) and minors’ settlements (MCR 2.420) to the Wayne County Probate Court in the same building. Where a defendant lives or does business outside Wayne County, venue may be available elsewhere (MCL 600.1629)."
       }
      ]
     },
@@ -1205,8 +1195,8 @@
    }
   ]
  },
- "wordCount": 2050,
- "openItems": 1,
+ "wordCount": 2047,
+ "openItems": 0,
  "source": {
   "file": "areas-served__dearborn.docx",
   "delivered": "2026-10-16"

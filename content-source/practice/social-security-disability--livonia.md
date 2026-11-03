@@ -81,7 +81,7 @@ SSDI benefits begin five full months after the established onset date; SSI is no
 
 - **Union and employer disability benefits.** Automaker and supplier union contracts often provide sickness-and-accident and extended disability benefits, and hospital, engineering, and other salaried employees often have group long-term disability insurance. Many of these plans require you to apply for SSDI, reduce their benefit by the SSDI award, and may claim repayment from your back pay. An ERISA-governed plan denial has its own 180-day appeal deadline (29 CFR 2560.503-1), and the plan file and the Social Security file should tell the same story.
 - **Workers’ compensation** offsets SSDI (42 USC 424a), and a comp redemption should be written to limit the offset; see our [Livonia workers’ compensation page](/personal-injury/workers-compensation/livonia).
-- **A personal injury settlement** does not reduce SSDI but can affect SSI; see our [Livonia personal injury lawyer page](/personal-injury/personal-injury/livonia).
+- **A personal injury settlement** does not reduce SSDI but can affect SSI; see our [Livonia personal injury lawyer page](/personal-injury/livonia).
 - **VA disability** is evidence Social Security must consider but does not bind it.
 
 ## What to do if you are applying or were denied

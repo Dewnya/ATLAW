@@ -1040,17 +1040,7 @@
        },
        {
         "t": "text",
-        "v": " injuries that follow. A child injured before age eight has until the tenth birthday; the parents’ own claims do not get that extension. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "ATTORNEY CHECK",
-          "v": ""
-         }
-        ]
+        "v": " injuries that follow. A child injured before age eight has until the tenth birthday; the parents’ own claims do not get that extension."
        }
       ],
       [
@@ -1408,23 +1398,13 @@
        [
         {
          "t": "text",
-         "v": "Court of Claims notice within 6 months, plus the malpractice rules"
+         "v": "Court of Claims notice within 6 months, plus the malpractice rules; this applies to claims against the university itself, and claims against individual physicians may proceed in circuit court"
         }
        ],
        [
         {
          "t": "text",
-         "v": "MCL 600.6431 "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "ATTORNEY CHECK",
-           "v": ""
-          }
-         ]
+         "v": "MCL 600.6431"
         }
        ]
       ],
@@ -1670,8 +1650,8 @@
    }
   ]
  },
- "wordCount": 2740,
- "openItems": 5,
+ "wordCount": 2752,
+ "openItems": 3,
  "source": {
   "file": "B4-19_Rochester-Hills-Medical-Malpractice-Lawyer.docx",
   "delivered": "October 25, 2026 [CONFIRM: Batch 4 delivery date]"

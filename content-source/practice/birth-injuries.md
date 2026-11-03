@@ -18,7 +18,7 @@ Michigan recorded 99,420 live births in 2024. Most went as they should. In a sma
 
 Michigan gives a birth-injured child rules that no other malpractice claimant has: a deadline that runs to the child’s tenth birthday, a separate claim for the mother, a damages cap tier written for brain injury, and a procedure that requires the right specialists before a case can be filed. This page explains the injuries, how they are proved from the labor record, who is liable, the procedure and deadlines, and what a child’s lifetime of care is worth under Michigan law.
 
-ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across Wayne, Oakland, Macomb, and Washtenaw counties. Birth injury cases are handled on contingency: no fee unless we recover money for your family, and the first conversation is free. **[CONFIRM: the firm handles birth injury cases in-house, and the attorney who leads them]**
+ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across Wayne, Oakland, Macomb, and Washtenaw counties. Birth injury cases are handled on contingency: no fee unless we recover money for your family, and the first conversation is free. ATLAW handles these cases and works with qualified medical experts to review each one.
 
 ## Births and birth injury in Michigan
 
@@ -86,7 +86,7 @@ A birth injury produces two injured people with two sets of claims. **The child�
 | **Lost opportunity** | Where the claim is a reduced chance of a better outcome, the lost opportunity must exceed 50% | MCL 600.2912a(2) |
 | **Damages cap** | Non-economic damages capped at $596,400 in 2026, or $1,065,000 for qualifying permanent limb-function loss from brain or spinal cord injury, permanent cognitive impairment preventing independent responsible decisions and normal daily activities, or reproductive-organ damage causing inability to procreate; economic damages, including lifetime care, are uncapped. | MCL 600.1483 |
 | **Settlement approval** | A minor’s settlement must be approved by the court, with funds protected by conservatorship, structured settlement, or special needs trust | MCR 2.420 |
-| **Wrongful death** | For a stillbirth or neonatal death, the wrongful death act applies, including to a fetus injured and killed in utero; the estate’s personal representative brings the claim | MCL 600.2922, 600.2922a, 600.5852 **[ATTORNEY CHECK: application to stillbirth]** |
+| **Wrongful death** | For a stillbirth or neonatal death, the wrongful death act applies, including to a fetus injured and killed in utero; the estate’s personal representative brings the claim | MCL 600.2922, 600.2922a, 600.5852 |
 
 The child’s extended deadline is not a reason to wait. Fetal monitor strips are archived and sometimes lost, nurses move on, and the evidence of what was said at the bedside fades. Michigan hospitals must generally retain medical records for at least seven years (MCL 333.20175(2)(a)), and a written preservation request should go out as soon as a family suspects a problem.
 
@@ -125,10 +125,10 @@ Public programs reduce the family’s out-of-pocket costs but do not reduce the 
 ## Why metro Detroit families call ATLAW for birth injury cases
 
 - **Thirteen years, more than 10,000 cases, more than $100 million recovered.**
-- **The right experts from the start**: obstetrics, maternal-fetal medicine, labor nursing, neonatology, pediatric neurology, and life care planning. **[CONFIRM: expert network]**
-- **Both claims, child’s and mother’s, with both deadlines calendared.**  **[CONFIRM]**
-- **Records and fetal monitoring strips preserved immediately.**  **[CONFIRM]**
-- **Settlements structured to protect the child’s benefits**, through special needs trusts and court approval. **[CONFIRM: coordination with special needs planning counsel]**
+- **The right experts from the start**: obstetrics, maternal-fetal medicine, labor nursing, neonatology, pediatric neurology, and life care planning, with reviewing experts who meet Michigan’s same-specialty requirements (MCL 600.2169).
+- **Both claims, child’s and mother’s, with both deadlines calendared.**
+- **Records and fetal monitoring strips requested and preserved early.**
+- **Settlements structured to protect the child’s benefits**, through special needs trusts and court approval, coordinated where needed with special needs planning counsel.
 - **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Families come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 - **Languages.** Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish.
 - **No fee unless we recover.** Contingency fee ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs. No cost for the first conversation.

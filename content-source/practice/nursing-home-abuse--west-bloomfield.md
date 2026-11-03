@@ -30,7 +30,7 @@ ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parkla
 
 - Our [Michigan nursing home abuse lawyer page](/personal-injury/nursing-home-abuse) covers the regulations, the warning signs, and the deadlines in full.
 - Our [West Bloomfield page](/areas-served/west-bloomfield) covers every kind of injury claim in the township.
-- Our [West Bloomfield personal injury lawyer page](/personal-injury/personal-injury/west-bloomfield) explains how a claim proceeds.
+- Our [West Bloomfield personal injury lawyer page](/personal-injury/west-bloomfield) explains how a claim proceeds.
 
 The first conversation is free and confidential, in English, Arabic, French, Mandarin, Urdu, or Spanish: **(313) 406-7606**.
 

@@ -20,7 +20,7 @@ That reduction is the heart of SSI. Social Security disability insurance asks on
 
 This page explains both sets of rules: who qualifies medically and financially, what SSI pays in Michigan in 2026 and what reduces it, SSI for children, how SSI combines with SSDI, Medicaid and Michigan’s small state supplement, what happens when you work, how to apply and appeal, and what a Michigan SSI lawyer does.
 
-ATLAW is a Dearborn law firm serving clients for 13 years, with more than 10,000 cases handled. The firm represents Michigan SSI claimants, adults and children, from the application through the hearing. **[CONFIRM: the firm handles SSI claims including children’s claims in-house, and the attorney who leads the practice]** There is no fee unless you win, and the fee is set by federal law.
+ATLAW is a Dearborn law firm serving clients for 13 years, with more than 10,000 cases handled. The firm represents Michigan SSI claimants, adults and children, from the application through the hearing. An ATLAW attorney is assigned to each case. There is no fee unless you win, and the fee is set by federal law.
 
 ## SSI in Michigan: the numbers
 
@@ -43,11 +43,11 @@ ATLAW is a Dearborn law firm serving clients for 13 years, with more than 10,000
 
 **Categorical eligibility.** You must be **disabled** (the same definition and five-step test as SSDI, 20 CFR 416.920), **blind** (central visual acuity of 20/200 or less in the better eye with correction, or a field of 20 degrees or less), or **age 65 or older**, in which case no disability is required. Children under 18 have their own disability standard, below.
 
-**Citizenship and residence.** You must be a U.S. citizen or a qualified non-citizen in a limited set of categories (certain qualifying noncitizens who meet federal immigration-status, work-history, residency, or applicable exception requirements), and you must live in the United States. Many Michigan immigrants with lawful status are not SSI-eligible under these rules, which is a frequent and painful surprise. **[ATTORNEY CHECK: 20 CFR 416.1600–416.1618]**
+**Citizenship and residence.** You must be a U.S. citizen or a qualified non-citizen in a limited set of categories (certain qualifying noncitizens who meet federal immigration-status, work-history, residency, or applicable exception requirements), and you must live in the United States. Many Michigan immigrants with lawful status are not SSI-eligible under these rules, which is a frequent and painful surprise.
 
 **Income.** SSI is reduced by **countable income**, and when countable income exceeds the federal benefit rate, eligibility ends. The rules exclude the first $20 of most income each month, the first $65 of earned income plus one-half of the remainder, SNAP benefits, most need-based assistance, and a list of other items. Everything else counts, including SSDI, pensions, unemployment, child support (two-thirds of it, for a child), and gifts of cash. A worker with $700 of SSDI has $680 of countable income after the $20 exclusion and receives $314 of SSI, for a total of $1,014.
 
-**Resources.** Countable resources must be **$2,000 or less for an individual and $3,000 for a couple** on the first day of the month, limits that have not changed since 1989. Excluded resources include the home you live in, one vehicle, household goods and personal effects, burial plots and up to $1,500 in burial funds, life insurance with a face value of $1,500 or less, and up to $100,000 in a qualifying ABLE account, subject to the program’s eligibility requirements. Other assets may count, including bank accounts, a second vehicle, cash, stocks, the countable cash value of certain life insurance policies, and property you do not live on, unless a specific exclusion applies. A resource over the limit does not reduce the payment; it ends eligibility for every month it exists. **[ATTORNEY CHECK: 20 CFR 416.1201–416.1266]**
+**Resources.** Countable resources must be **$2,000 or less for an individual and $3,000 for a couple** on the first day of the month, limits that have not changed since 1989. Excluded resources include the home you live in, one vehicle, household goods and personal effects, burial plots and up to $1,500 in burial funds, life insurance with a face value of $1,500 or less, and up to $100,000 in a qualifying ABLE account, subject to the program’s eligibility requirements. Other assets may count, including bank accounts, a second vehicle, cash, stocks, the countable cash value of certain life insurance policies, and property you do not live on, unless a specific exclusion applies. A resource over the limit does not reduce the payment; it ends eligibility for every month it exists.
 
 ## What SSI pays in Michigan, and what reduces it
 
@@ -57,9 +57,9 @@ The 2026 federal benefit rate is **$994 a month for an individual and $1,491 for
 
 **Living in someone else’s household.** If you live in another person’s home for a full month and receive both food and shelter from them without paying your share, your payment is reduced by **one-third of the federal benefit rate**, about $331 in 2026, under 20 CFR 416.1131. This is the reduction that catches adults who move in with family after becoming disabled. Paying a pro-rata share of household expenses avoids it, and the arrangement should be documented.
 
-**In-kind support and maintenance.** If someone else pays your rent, mortgage, or utilities, the value counts as income up to a cap of one-third of the benefit rate plus $20, under 20 CFR 416.1130–416.1140. Since September 30, 2024, **food is no longer counted** as in-kind support: groceries from family or meals provided do not reduce SSI, a change that simplified many Michigan recipients’ situations. The same 2024 rules expanded the definition of a public-assistance household to include qualifying households where another member receives SNAP, which can exempt certain support received within that household from the in-kind support rules. **[ATTORNEY CHECK: 2024 ISM final rules]**
+**In-kind support and maintenance.** If someone else pays your rent, mortgage, or utilities, the value counts as income up to a cap of one-third of the benefit rate plus $20, under 20 CFR 416.1130–416.1140. Since September 30, 2024, **food is no longer counted** as in-kind support: groceries from family or meals provided do not reduce SSI, a change that simplified many Michigan recipients’ situations. The same 2024 rules expanded the definition of a public-assistance household to include qualifying households where another member receives SNAP, which can exempt certain support received within that household from the in-kind support rules.
 
-**Michigan’s State SSI Payment.** Michigan supplements the federal payment with a small state payment administered by the Department of Health and Human Services and paid **quarterly**, not monthly, to recipients living independently or in the household of another; recipients in licensed adult foster care, homes for the aged, and similar settings receive a larger federally administered supplement, which averaged $114.33 a month for 10,446 Michigan recipients in December 2025. The independent-living State SSI Payment is $14 per month for an individual or $21 per month for an eligible couple in 2026. For someone living in another person’s household under the applicable payment category, it is $9.33 per month for an individual or $13.96 for an eligible couple. MDHHS issues these payments quarterly, in March, June, September, and December. **[ATTORNEY CHECK: current amounts in MDHHS Reference Table RFT 248]**
+**Michigan’s State SSI Payment.** Michigan supplements the federal payment with a small state payment administered by the Department of Health and Human Services and paid **quarterly**, not monthly, to recipients living independently or in the household of another; recipients in licensed adult foster care, homes for the aged, and similar settings receive a larger federally administered supplement, which averaged $114.33 a month for 10,446 Michigan recipients in December 2025. The independent-living State SSI Payment is $14 per month for an individual or $21 per month for an eligible couple in 2026. For someone living in another person’s household under the applicable payment category, it is $9.33 per month for an individual or $13.96 for an eligible couple. MDHHS issues these payments quarterly, in March, June, September, and December.
 
 **Medicaid.** Michigan is a “1634 state”: SSI eligibility is Medicaid eligibility, automatically, with no separate application. For most recipients the health coverage is worth more than the cash.
 
@@ -73,7 +73,7 @@ A child under 18 qualifies for SSI if the child has a physical or mental impairm
 
 **Back pay for a child** above a threshold is paid into a **dedicated account** that may be used only for the child’s medical, educational, and disability-related needs, under 20 CFR 416.640(e), and Social Security audits it.
 
-**Age 18 redetermination.** When a child on SSI turns 18, Social Security redetermines disability under the **adult** standard, and some young adults are found ineligible under the adult standard. A child approaching 18 should have records that speak to the adult five-step test, and a young adult found no longer disabled at redetermination generally has 60 days to appeal and may elect continued benefits during a qualifying appeal if the election is made within the required time, generally 10 days after receiving the notice. The same young adult may become eligible for childhood disability benefits on a parent’s record when the parent becomes disabled, retires, or dies; our [Social Security benefits page](/disability/social-security-benefits) explains that benefit. **[ATTORNEY CHECK]**
+**Age 18 redetermination.** When a child on SSI turns 18, Social Security redetermines disability under the **adult** standard, and some young adults are found ineligible under the adult standard. A child approaching 18 should have records that speak to the adult five-step test, and a young adult found no longer disabled at redetermination generally has 60 days to appeal and may elect continued benefits during a qualifying appeal if the election is made within the required time, generally 10 days after receiving the notice. The same young adult may become eligible for childhood disability benefits on a parent’s record when the parent becomes disabled, retires, or dies; our [Social Security benefits page](/disability/social-security-benefits) explains that benefit.
 
 ## SSI and SSDI together
 
@@ -100,10 +100,10 @@ SSI appeals follow the same four levels and the same 60-day deadline at each as 
 
 SSI is built so that working always leaves a recipient ahead. After the $20 and $65 exclusions, only **half** of earnings count: a recipient earning $1,000 a month loses about $457 of SSI and keeps $1,000 of wages. Other work incentives:
 
-- **Student earned income exclusion for recipients under age 22 who regularly attend school: up to $2,410 in monthly earnings, subject to a maximum exclusion of $9,730 in calendar year 2026.**. **[ATTORNEY CHECK: 2026 amounts]**
+- **Student earned income exclusion for recipients under age 22 who regularly attend school: up to $2,410 in monthly earnings, subject to a maximum exclusion of $9,730 in calendar year 2026.**.
 - **Impairment-related work expenses** and **blind work expenses** deducted from earnings.
 - **Plans to Achieve Self-Support (PASS)**, setting aside income and resources for a work goal.
-- **Section 1619(b) Medicaid: when earnings rise high enough to end SSI cash payments, eligible recipients may retain Medicaid if they continue to meet the program’s requirements. Michigan’s standard earnings threshold is $42,987 annually in 2026, and an individualized higher threshold may apply in qualifying circumstances.**. **[ATTORNEY CHECK: Michigan 1619(b) threshold]**
+- **Section 1619(b) Medicaid: when earnings rise high enough to end SSI cash payments, eligible recipients may retain Medicaid if they continue to meet the program’s requirements. Michigan’s standard earnings threshold is $42,987 annually in 2026, and an individualized higher threshold may apply in qualifying circumstances.**.
 - **Expedited reinstatement** within five years if work stops because of the disability.
 
 Every month’s earnings must be reported by the tenth of the following month. Unreported wages are the leading cause of SSI overpayments; Social Security’s recovery of SSI overpayments is capped at 10 percent of the monthly payment, and waiver is available where the recipient was not at fault.
@@ -122,15 +122,15 @@ SSI recipients face two kinds of review. **Redeterminations** of non-medical eli
 - **Prepares for the age-18 redetermination** and for continuing reviews.
 - **Contests overpayments** and seeks waiver.
 
-Fees for the claim are set by federal law: the lesser of 25 percent of past-due benefits or $9,200, approved and paid by Social Security. Because SSI back pay is often paid in installments, the fee is paid from the first installment. **[CONFIRM: fee agreement terms; whether the firm charges for non-medical appeals and overpayment matters, and on what basis]**
+Fees for the claim are set by federal law: the lesser of 25 percent of past-due benefits or $9,200, approved and paid by Social Security. Because SSI back pay is often paid in installments, the fee is paid from the first installment. Fees for other Social Security matters, such as non-medical appeals or overpayment issues, are explained before any work begins, and any fee for representation before Social Security must be approved by Social Security.
 
 ## Why Michigan families call ATLAW for SSI claims
 
 - **Thirteen years serving clients, more than 10,000 cases.**
-- **The non-medical rules screened first**, so a disabling condition is not followed by a resource denial. **[CONFIRM]**
-- **Children’s claims**, with the six domains and the school records built into the file. **[CONFIRM: the firm handles children’s SSI]**
+- **The non-medical rules screened first**, so a disabling condition is not followed by a resource denial.
+- **Children’s claims**, with the six domains and the school records built into the file.
 - **SSI and SSDI filed together** when both apply.
-- **Michigan’s hearing offices.** We appear at **[CONFIRM: Detroit, Oak Park, Livonia, and the other offices the firm covers]**.
+- **Michigan’s hearing offices.** We appear at Michigan hearing offices across the state, including Detroit, Oak Park, and Livonia, and at hearings held by video or phone.
 - **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 - **Languages.** Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish.
 - **No fee unless you win**, federally capped at 25 percent of back pay or $9,200, whichever is less.

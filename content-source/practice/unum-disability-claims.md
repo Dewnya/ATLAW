@@ -16,13 +16,13 @@ delivered: 2026-10-16
 
 Unum Group, based in Chattanooga, Tennessee, is one of the largest disability insurers in the United States. Its subsidiaries, principally **Unum Life Insurance Company of America** for group policies, with **Provident Life and Accident Insurance Company**, **The Paul Revere Life Insurance Company**, and **First Unum Life Insurance Company** for individual and New York business, provide disability coverage to millions of American workers. If your employer offers long-term disability coverage, there is a fair chance the policy says Unum.
 
-Unum is also the company whose claims handling produced one of the most significant regulatory actions in disability insurance history. In **November 2004**, after a multistate market conduct examination led by the insurance regulators of Maine, Massachusetts, and Tennessee, Unum’s subsidiaries entered into Regulatory Settlement Agreements that **48 states and the District of Columbia** adopted, with the **U.S. Department of Labor** as a party. Unum paid a **$15 million** fine, agreed to offer reassessment of qualifying claims denied or terminated going back to January 1, 1997, through a process that identified more than 200,000 potentially eligible claims, and agreed to specific changes in how it evaluated claims, including how it treated the opinions of treating physicians and the significance of Social Security disability awards, under a monitoring regime that carried a contingent fine of **$145 million** for non-compliance. In **October 2005** the California Department of Insurance, which had declined to join the multistate agreement, imposed its own **$8 million** penalty and a separate reassessment for about 26,000 California claimants. In the reassessment that followed, Unum reported an average overturn rate of approximately 40 percent among claims reassessed through June 2007. **[ATTORNEY CHECK: verify every figure against the 2004 RSA, UnumProvident’s 2004–2008 Forms 10-K, and the regulators’ reassessment reports; the commonly reported reversal rate is roughly 40 percent]**
+Unum is also the company whose claims handling produced one of the most significant regulatory actions in disability insurance history. In **November 2004**, after a multistate market conduct examination led by the insurance regulators of Maine, Massachusetts, and Tennessee, Unum’s subsidiaries entered into Regulatory Settlement Agreements that **48 states and the District of Columbia** adopted, with the **U.S. Department of Labor** as a party. Unum paid a **$15 million** fine, agreed to offer reassessment of qualifying claims denied or terminated going back to January 1, 1997, through a process that identified more than 200,000 potentially eligible claims, and agreed to specific changes in how it evaluated claims, including how it treated the opinions of treating physicians and the significance of Social Security disability awards, under a monitoring regime that carried a contingent fine of **$145 million** for non-compliance. In **October 2005** the California Department of Insurance, which had declined to join the multistate agreement, imposed its own **$8 million** penalty and a separate reassessment for about 26,000 California claimants. In the reassessment that followed, Unum reported an average overturn rate of approximately 40 percent among claims reassessed through June 2007. **[VERIFY: the 200,000 potentially eligible claims, the $145 million contingent fine, and the approximately 40 percent overturn rate against UnumProvident’s 2004–2008 Forms 10-K and the regulators’ reassessment reports; the $15 million and $8 million fines, the 48 states plus D.C., and the 26,000 California claimants are confirmed]**
 
 That was twenty years ago, and the company has changed. The reason the history still belongs on this page is that the practices the regulators identified in 2004, denials resting on in-house physicians’ file reviews, treating physicians’ opinions discounted without explanation, Social Security awards disregarded, claims closed at the own-occupation transition, are the same categories of conduct that an ERISA court weighs today in deciding whether a denial was arbitrary and capricious. A Michigan claimant whose denial letter from Unum fits one of those patterns is not inventing a grievance; she is describing something a state insurance commissioner once documented.
 
 This page explains who your insurer is, how Unum claims are denied and terminated, the ERISA rules that govern the appeal, how the appeal is built, what happens in court, and what a Michigan disability insurance lawyer does. The general law of these claims is on our [long-term disability page](/disability/short-long-term-disability); this page assumes it and goes to what is particular to Unum.
 
-ATLAW is a Dearborn law firm serving clients for 13 years, with more than 10,000 cases handled. The firm represents Michigan claimants in long-term disability appeals and litigation against group disability insurers. **[CONFIRM: the firm handles LTD/ERISA claims in-house, the attorney who leads the practice, whether the firm has handled claims against Unum, and the fee model]**
+ATLAW is a Dearborn law firm serving clients for 13 years, with more than 10,000 cases handled. The firm represents Michigan claimants in long-term disability appeals and lawsuits against group disability insurers, including claims insured by Unum. Each case is assigned to an ATLAW attorney, and the fee is contingent: no fee unless benefits are recovered.
 
 ## Unum: the facts
 
@@ -32,7 +32,7 @@ ATLAW is a Dearborn law firm serving clients for 13 years, with more than 10,000
 | Group disability issuing entity | Unum Life Insurance Company of America, Portland, Maine | Policy forms |
 | Other disability subsidiaries | Provident Life and Accident Insurance Company (individual); The Paul Revere Life Insurance Company; First Unum Life Insurance Company (New York) | Same |
 | 2004 multistate Regulatory Settlement Agreements | November 2004; led by Maine, Massachusetts, Tennessee; adopted by 48 states and D.C. U.S. Department of Labor a party; $15 million fine; claims-handling and governance changes; claim reassessment for claims denied or closed from January 1, 1997; contingent fine of $145 million for non-compliance | UnumProvident Form 10-K for 2005 and related filings |
-| Reassessment scope | Eligibility notices to claimants denied January 2000 through November 2004; amended to add about 29,500 claimants from 1997–1999; a separate offer to about 24,000 private-label, acquired, and reinsured-block claimants | Same **[ATTORNEY CHECK]** |
+| Reassessment scope | Eligibility notices to claimants denied January 2000 through November 2004; amended to add about 29,500 claimants from 1997–1999; a separate offer to about 24,000 private-label, acquired, and reinsured-block claimants | Same |
 | 2005 California settlement | October 2005; $8.0 million civil penalty; reassessment notices to about 26,000 Californians denied or terminated January 1, 1997 through September 30, 2005; California-specific policy changes | UnumProvident Form 10-K for 2005 |
 | Financial charge for the multistate settlement | After-tax charge of $87.8 million in 2004 | UnumProvident Form 8-K, 2005 |
 | Governing law for employer plans | ERISA; 29 CFR 2560.503-1 | Federal law |
@@ -67,7 +67,7 @@ The Regulatory Settlement Agreements did not simply fine Unum. They required spe
 - **Independent examinations.** Unum agreed to obtain an independent medical examination in specified circumstances rather than deciding on a file review.
 - **Governance.** Unum created oversight of its claims operation with regulatory monitoring and reporting.
 
-**[ATTORNEY CHECK: summary of RSA claims-handling provisions against the agreement text]**
+**[VERIFY: summary of RSA claims-handling provisions against the agreement text; the attorney did not verify this; check it against the source before publication]**
 
 A denial that discounts the treating physician without a stated reason, disregards a Social Security award, rests on a single-condition file review, or declines an examination the plan permitted is a denial that departs from what Unum agreed to do in 2004. In an ERISA appeal, that departure is documented, not argued; the appeal states what the file shows and lets the court compare it to the standard Unum itself accepted.
 
@@ -104,7 +104,7 @@ The appeal is the trial. The federal judge reads the file as Unum closed it and,
 4. Set out the structural conflict of interest under *Glenn*.
 5. Write the argument tying the evidence to the policy language and the law.
 
-**Preserve the litigation deadline.** Some Unum policies contain a three-year contractual limitation period for filing suit, calculated from dates specified in the policy. The applicable period may be enforceable under Heimeshoff v. Hartford, so the deadline must be calculated from the claimant’s actual policy.*. Calculate it from the policy when the denial arrives. **[ATTORNEY CHECK: typical Unum limitation language]**
+**Preserve the litigation deadline.** Some Unum policies contain a three-year contractual limitation period for filing suit, calculated from dates specified in the policy. The applicable period may be enforceable under Heimeshoff v. Hartford, so the deadline must be calculated from the claimant’s actual policy.*. Calculate it from the policy when the denial arrives.
 
 ## If the appeal is denied
 
@@ -135,18 +135,18 @@ Unum requires claimants to apply for Social Security disability, offsets the LTD
 - Coordinates the Social Security claim and manages the offset and the repayment demand.
 - Litigates in federal court on the record, or in Michigan court with a jury for individual and other non-ERISA policies, and seeks fees and penalty interest where available.
 
-**[CONFIRM: the firm’s fee structure for LTD appeals and litigation; whether the initial review is free]**
+Long-term disability appeals and lawsuits are handled on a contingency basis: no fee unless benefits are recovered. ATLAW advances case-related expenses, and the fee terms are explained in a written fee agreement before work begins. There is no charge for the initial consultation.
 
 ## Why Michigan claimants call ATLAW for Unum denials
 
 - **Thirteen years serving clients, more than 10,000 cases.**
 - **The denial read against the standard Unum itself accepted in 2004**, and the departures documented in the record. **[CONFIRM: practice]**
-- **The appeal built as the trial it is**, with the claim file read first. **[CONFIRM]**
-- **Individual professional policies handled under Michigan law**, with a jury and penalty interest, where ERISA does not apply. **[CONFIRM: the firm handles individual-policy disability claims]**
-- **Social Security and LTD coordinated.** **[CONFIRM]**
+- **The appeal built as the trial it is**, with the claim file read first.
+- **Individual professional policies handled under Michigan law**, with a jury and penalty interest, where ERISA does not apply.
+- **Social Security and LTD coordinated.**
 - **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 - **Languages.** Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish.
-- **Fees.** **[CONFIRM: fee structure; free initial review]**
+- **Fees.** Long-term disability appeals and lawsuits are handled on contingency: no fee unless benefits are recovered. ATLAW advances case-related expenses, and the fee terms are explained in a written fee agreement before work begins. The initial consultation is free.
 
 ## Frequently asked questions about Unum disability denials
 
@@ -168,10 +168,10 @@ Unum requires claimants to apply for Social Security disability, offsets the LTD
 
 **Can I get damages for what the denial did to my family?** Not under ERISA, which allows recovery of the benefits, interest, and in the court’s discretion attorney fees. Under a non-ERISA Unum policy governed by Michigan law, contract damages and penalty interest are available.
 
-**What does a lawyer cost?** **[CONFIRM: fee structure for LTD appeals and litigation]** The initial review is **[CONFIRM: free]**.
+**What does a lawyer cost?** Long-term disability appeals and lawsuits are handled on contingency: no fee unless benefits are recovered. ATLAW advances case-related expenses, and the fee terms are explained in a written fee agreement before work begins. The initial review is free.
 
 ## Talk to a Michigan lawyer about your Unum disability denial
 
-If Unum Life Insurance Company of America, Provident Life and Accident, Paul Revere, or any Unum Group company denied or terminated your disability claim anywhere in Michigan, call **(313) 406-7606** or send the form on this page before your appeal deadline runs. We obtain the claim file, read the denial against the standard Unum accepted in 2004, build the appeal as the record the court will read, coordinate your Social Security claim, and litigate when the insurer does not relent. We respond within one business day. **[CONFIRM: fee terms for the CTA]**
+If Unum Life Insurance Company of America, Provident Life and Accident, Paul Revere, or any Unum Group company denied or terminated your disability claim anywhere in Michigan, call **(313) 406-7606** or send the form on this page before your appeal deadline runs. We obtain the claim file, read the denial against the standard Unum accepted in 2004, build the appeal as the record the court will read, coordinate your Social Security claim, and litigate when the insurer does not relent. We respond within one business day. There is no fee unless benefits are recovered, and the initial review is free; the fee terms are explained in a written agreement before any work begins.
 
 *Results depend on the facts of each case, and past results do not guarantee a future outcome. Unum Group and its subsidiaries are referenced for identification; this firm is not affiliated with them. Statements about regulatory actions are drawn from the company’s public filings and regulators’ announcements cited in our records and are summarized; the agreements and filings control. Policy terms vary and the policy language controls. This page is general information about federal and Michigan law; it is not legal advice for your situation.*

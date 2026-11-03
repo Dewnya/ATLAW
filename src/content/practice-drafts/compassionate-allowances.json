@@ -96,21 +96,7 @@
    "c": [
     {
      "t": "text",
-     "v": "ATLAW is a Dearborn law firm serving clients for 13 years, with more than 10,000 cases handled. The firm represents Michigan claimants with Compassionate Allowance conditions from the application forward. "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "CONFIRM",
-       "v": "the firm handles Social Security disability claims in-house and the attorney who leads the practice"
-      }
-     ]
-    },
-    {
-     "t": "text",
-     "v": " There is no fee unless you win, and the fee is set by federal law."
+     "v": "ATLAW is a Dearborn law firm serving clients for 13 years, with more than 10,000 cases handled. The firm represents Michigan claimants with Compassionate Allowance conditions from the application forward. An ATLAW attorney is assigned to each case. There is no fee unless you win, and the fee is set by federal law."
     }
    ]
   }
@@ -363,8 +349,8 @@
        "c": [
         {
          "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "verify every condition named below against the current SSA list before publication"
+         "kind": "VERIFY",
+         "v": "verify every condition named below against the current SSA list before publication; the attorney did not verify this; check it against the source before publication"
         }
        ]
       }
@@ -918,17 +904,7 @@
        },
        {
         "t": "text",
-        "v": " Under the ALS Disability Insurance Access Act, as amended, qualifying SSDI claims based on ALS are exempt from the five-month waiting period, including claims approved on or after July 23, 2020. Eligible SSDI beneficiaries with ALS also do not have the usual 24-month Medicare waiting period. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "ATTORNEY CHECK",
-          "v": ""
-         }
-        ]
+        "v": " Under the ALS Disability Insurance Access Act, as amended, qualifying SSDI claims based on ALS are exempt from the five-month waiting period, including claims approved on or after July 23, 2020. Eligible SSDI beneficiaries with ALS also do not have the usual 24-month Medicare waiting period."
        }
       ],
       [
@@ -971,17 +947,7 @@
        },
        {
         "t": "text",
-        "v": " payments for up to six months before the medical decision, under 20 CFR 416.934; qualifying examples include ALS; alleged total blindness or deafness; Down syndrome; cerebral palsy accompanied by marked functional limitations; certain spinal cord injuries causing severe mobility limitations; and terminal illness supported by appropriate medical or hospice confirmation. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "ATTORNEY CHECK",
-          "v": ""
-         }
-        ]
+        "v": " payments for up to six months before the medical decision, under 20 CFR 416.934; qualifying examples include ALS; alleged total blindness or deafness; Down syndrome; cerebral palsy accompanied by marked functional limitations; certain spinal cord injuries causing severe mobility limitations; and terminal illness supported by appropriate medical or hospice confirmation."
        }
       ]
      ]
@@ -1187,17 +1153,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Many Compassionate Allowance conditions are terminal, and some claimants die while the claim is pending. The claim may still be processed to determine whether benefits were owed before death. For SSDI, unpaid benefits may be payable to eligible surviving family members or, in certain circumstances, the estate’s legal representative, under 20 CFR 404.503. SSI has different and more restrictive rules under 20 CFR 416.542, and unpaid SSI benefits generally cannot be paid to the estate. A spouse or dependent child may also qualify separately for Social Security survivors’ benefits. Notify Social Security promptly, because continuing the claim and obtaining any unpaid benefits depends on the applicable eligibility and payment rules. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": ""
-        }
-       ]
+       "v": "Many Compassionate Allowance conditions are terminal, and some claimants die while the claim is pending. The claim may still be processed to determine whether benefits were owed before death. For SSDI, unpaid benefits may be payable to eligible surviving family members or, in certain circumstances, the estate’s legal representative, under 20 CFR 404.503. SSI has different and more restrictive rules under 20 CFR 416.542, and unpaid SSI benefits generally cannot be paid to the estate. A spouse or dependent child may also qualify separately for Social Security survivors’ benefits. Notify Social Security promptly, because continuing the claim and obtaining any unpaid benefits depends on the applicable eligibility and payment rules."
       }
      ]
     }
@@ -1331,17 +1287,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Fees are set by federal law: the lesser of 25 percent of past-due benefits or $9,200, approved and paid by Social Security from the back pay, and nothing if the claim is not won. In a Compassionate Allowance case decided quickly, past-due benefits are often small and the fee is correspondingly small; there is no fee on ongoing monthly benefits. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "fee agreement terms; who pays record-retrieval costs"
-        }
-       ]
+       "v": "Fees are set by federal law: the lesser of 25 percent of past-due benefits or $9,200, approved and paid by Social Security from the back pay, and nothing if the claim is not won. In a Compassionate Allowance case decided quickly, past-due benefits are often small and the fee is correspondingly small; there is no fee on ongoing monthly benefits. Any out-of-pocket costs, such as charges for copies of medical records, are explained in the written fee agreement at the start of the case."
       }
      ]
     }
@@ -1402,17 +1348,7 @@
        },
        {
         "t": "text",
-        "v": ", so a terminal diagnosis is not followed by a technical denial. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": ""
-         }
-        ]
+        "v": ", so a terminal diagnosis is not followed by a technical denial."
        }
       ],
       [
@@ -1427,17 +1363,7 @@
        },
        {
         "t": "text",
-        "v": ": substitution of party and survivors’ benefits arranged if the worst happens. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": ""
-         }
-        ]
+        "v": ": substitution of party and survivors’ benefits arranged if the worst happens."
        }
       ],
       [
@@ -1591,21 +1517,7 @@
    "answer": [
     {
      "t": "text",
-     "v": "Nothing unless you win, and then the lesser of 25 percent of your back pay or $9,200, paid by Social Security. In a claim approved in weeks, the back pay and the fee are both small. Record-retrieval costs are "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "CONFIRM",
-       "v": ""
-      }
-     ]
-    },
-    {
-     "t": "text",
-     "v": "."
+     "v": "Nothing unless you win, and then the lesser of 25 percent of your back pay or $9,200, paid by Social Security. In a claim approved in weeks, the back pay and the fee are both small. Record-retrieval costs are explained in the written fee agreement at the start of the case."
     }
    ]
   }
@@ -1638,8 +1550,8 @@
    }
   ]
  },
- "wordCount": 2890,
- "openItems": 10,
+ "wordCount": 2907,
+ "openItems": 2,
  "source": {
   "file": "B2-15_Compassionate-Allowance-List-Lawyer.docx",
   "delivered": "2026-10-16"

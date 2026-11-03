@@ -38,9 +38,9 @@ ATLAW was founded in Dearborn and has practiced here for 13 years. The office is
 
 **The first month.** We identify every policy that may pay: your own auto policy for no-fault benefits, household policies, the at-fault party’s liability coverage, your uninsured and underinsured motorist coverage, the property owner’s policy, umbrella policies, and, where no auto policy exists, the Michigan Assigned Claims Plan (MCL 500.3172). We file your Application for No-Fault Benefits inside the one-year window (MCL 500.3145(1)) and handle the insurer’s requests for statements, records, and examinations (MCL 500.3151). You stop talking to adjusters; we do that, in English or Arabic.
 
-**The treatment period.** The value of the claim is set mostly by the medical record, so we make sure it is complete and the bills are paid while you treat, collecting records from Corewell Health Dearborn, Henry Ford Medical Center Fairlane, the Detroit hospitals, and your own physicians and therapists, and documenting lost wages with your employer, whether that is Ford, the Rouge, a Michigan Avenue business, or a hospital. **[CONFIRM: hospital list]**
+**The treatment period.** The value of the claim is set mostly by the medical record, so we make sure it is complete and the bills are paid while you treat, collecting records from Corewell Health Dearborn, other area hospitals, the Detroit hospitals, and your own physicians and therapists, and documenting lost wages with your employer, whether that is Ford, the Rouge, a Michigan Avenue business, or a hospital.
 
-**The demand, the suit, and the resolution.** When your condition has stabilized, we send a demand with the complete record and a valuation; the decision to accept any offer is yours (MRPC 1.2). If the insurer will not pay fair value, suit is filed: claims up to $25,000 in the 19th District Court at 16077 Michigan Avenue, a short drive from the office; injury suits over $25,000 in the Third Judicial Circuit Court in Detroit, which may send injury cases to case evaluation (MCR 2.403) or facilitation before trial. At settlement we resolve the liens (Medicaid, Medicare, health plan) before you are paid; minors’ settlements and wrongful death distributions are approved by the court (MCR 2.420; MCL 600.2922(6)). Compensation for physical injury is not taxable income (26 USC 104(a)(2)). **[ATTORNEY CHECK]**
+**The demand, the suit, and the resolution.** When your condition has stabilized, we send a demand with the complete record and a valuation; the decision to accept any offer is yours (MRPC 1.2). If the insurer will not pay fair value, suit is filed: claims up to $25,000 in the 19th District Court at 16077 Michigan Avenue, a short drive from the office; injury suits over $25,000 in the Third Judicial Circuit Court in Detroit, which may send injury cases to case evaluation (MCR 2.403) or facilitation before trial. At settlement we resolve the liens (Medicaid, Medicare, health plan) before you are paid; minors’ settlements and wrongful death distributions are approved by the court (MCR 2.420; MCL 600.2922(6)). Compensation for physical injury is not taxable income (26 USC 104(a)(2)).
 
 ## The cases a Dearborn personal injury lawyer handles
 
@@ -73,7 +73,7 @@ Michigan caps contingency fees in injury cases at one-third of the net recovery 
 2. How many cases like mine have you handled in the 19th District and the Third Circuit?
 3. What are the deadlines in my case, and when will the notices go out?
 4. **What is your fee, and how are costs handled if we lose?**
-5. **Can my family and I work with you in Arabic?**  **[CONFIRM]**
+5. **Can my family and I work with you in Arabic?** Yes. Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish.
 6. Will you try the case if the insurer will not pay fair value?
 ## Deadlines in Dearborn personal injury cases
 
@@ -100,7 +100,7 @@ Michigan caps contingency fees in injury cases at one-third of the net recovery 
 
 **How long do I have to file a personal injury claim in Dearborn?** Three years for most claims, but one year to notify your no-fault insurer after a crash, 120 days to notify the City or County of a sidewalk or road claim, 120 days for a defect on a state road, and a 182-day notice before any malpractice suit.
 
-**What does a Dearborn personal injury lawyer charge?** One-third of the recovery, the Michigan cap for injury cases, with no fee if there is no recovery. Ask how costs are handled. **[CONFIRM]**
+**What does a Dearborn personal injury lawyer charge?** One-third of the recovery after case costs, the Michigan cap for injury cases, with no fee and no costs owed if there is no recovery. ATLAW advances the case costs, so you pay nothing up front; costs are deducted from the recovery first and the 33.3% fee is calculated on the remainder.
 
 **Where would my case be filed?** Claims up to $25,000 in the 19th District Court on Michigan Avenue; injury suits over $25,000 in the Third Judicial Circuit Court in Detroit.
 

@@ -357,21 +357,7 @@
       },
       {
        "t": "text",
-       "v": " Injury suits over $25,000 are filed in the Third Judicial Circuit Court at the Coleman A. Young Municipal Center; claims up to $25,000 go to the 36th District Court. Discovery may include interrogatories, document requests, depositions, and medical examinations. The length of discovery depends on the court’s schedule and the complexity of the case. The Third Circuit may refer qualifying civil cases to case evaluation under MCR 2.403, where a three-person panel evaluates the claim. Other cases may proceed through mediation or another court-approved dispute resolution process. Since January 1, 2022, rejection of a case-evaluation award no longer automatically triggers the former MCR 2.403(O) sanctions. Cases that do not resolve through negotiation or alternative dispute resolution may proceed to trial. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "current MCR 2.403 practice in the Third Circuit"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " Most cases settle at or after one of these steps. The ones that do not are tried to a Wayne County jury."
+       "v": " Injury suits over $25,000 are filed in the Third Judicial Circuit Court at the Coleman A. Young Municipal Center; claims up to $25,000 go to the 36th District Court. Discovery may include interrogatories, document requests, depositions, and medical examinations. The length of discovery depends on the court’s schedule and the complexity of the case. The Third Circuit may refer qualifying civil cases to case evaluation under MCR 2.403, where a three-person panel evaluates the claim. Other cases may proceed through mediation or another court-approved dispute resolution process. Since January 1, 2022, rejection of a case-evaluation award no longer automatically triggers the former MCR 2.403(O) sanctions. Cases that do not resolve through negotiation or alternative dispute resolution may proceed to trial. Most cases settle at or after one of these steps. The ones that do not are tried to a Wayne County jury."
       }
      ]
     },
@@ -389,17 +375,7 @@
       },
       {
        "t": "text",
-       "v": " Before settlement funds are distributed, we review and address any applicable liens, reimbursement claims, litigation expenses, and other required deductions. These may involve Medicare, Medicaid, health insurers, ERISA plans, or other entities, depending on the case. Settlements involving minors generally require court approval under MCR 2.420. Wrongful death settlements and distributions may also require approval and distribution proceedings under MCL 600.2922. Compensatory damages received on account of personal physical injuries or physical sickness are generally excluded from federal taxable income under 26 USC 104(a)(2), subject to statutory exceptions. Interest, punitive damages, and compensation for certain nonphysical injuries may be taxable. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": ""
-        }
-       ]
+       "v": " Before settlement funds are distributed, we review and address any applicable liens, reimbursement claims, litigation expenses, and other required deductions. These may involve Medicare, Medicaid, health insurers, ERISA plans, or other entities, depending on the case. Settlements involving minors generally require court approval under MCR 2.420. Wrongful death settlements and distributions may also require approval and distribution proceedings under MCL 600.2922. Compensatory damages received on account of personal physical injuries or physical sickness are generally excluded from federal taxable income under 26 USC 104(a)(2), subject to statutory exceptions. Interest, punitive damages, and compensation for certain nonphysical injuries may be taxable."
       }
      ]
     }
@@ -821,17 +797,7 @@
        },
        {
         "t": "text",
-        "v": " Nursing home injuries may involve ordinary negligence or medical malpractice, depending on whether the alleged wrongdoing requires professional medical judgment. The classification affects applicable deadlines, notice requirements, and potentially damages limitations. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "ATTORNEY CHECK",
-          "v": ""
-         }
-        ]
+        "v": " Nursing home injuries may involve ordinary negligence or medical malpractice, depending on whether the alleged wrongdoing requires professional medical judgment. The classification affects applicable deadlines, notice requirements, and potentially damages limitations."
        }
       ],
       [
@@ -978,17 +944,7 @@
       },
       {
        "t": "text",
-       "v": " Economic damages: medical expenses past and future, lost wages, lost earning capacity, replacement services, and in a wrongful death case the funeral expenses and the lost financial support. Noneconomic damages: pain and suffering, mental anguish, loss of enjoyment of life, disfigurement, and in a wrongful death case the loss of society and companionship. Michigan generally does not award damages designed solely to punish a defendant in ordinary negligence cases; exemplary damages may be available in appropriate circumstances as compensation for certain injuries. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": ""
-        }
-       ]
+       "v": " Economic damages: medical expenses past and future, lost wages, lost earning capacity, replacement services, and in a wrongful death case the funeral expenses and the lost financial support. Noneconomic damages: pain and suffering, mental anguish, loss of enjoyment of life, disfigurement, and in a wrongful death case the loss of society and companionship. Michigan generally does not award damages designed solely to punish a defendant in ordinary negligence cases; exemplary damages may be available in appropriate circumstances as compensation for certain injuries."
       }
      ]
     },
@@ -1438,17 +1394,7 @@
    "answer": [
     {
      "t": "text",
-     "v": "One-third of the recovery, which is the Michigan cap for injury cases, with no fee if there is no recovery. Ask how costs are handled. "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "CONFIRM",
-       "v": ""
-      }
-     ]
+     "v": "One-third of the recovery after case costs, which is the Michigan cap for injury cases, with no fee and no costs owed if there is no recovery. ATLAW advances the case costs, so you pay nothing up front; costs are deducted from the recovery first and the 33.3% fee is calculated on the remainder."
     }
    ]
   },
@@ -1558,8 +1504,8 @@
    }
   ]
  },
- "wordCount": 3200,
- "openItems": 5,
+ "wordCount": 3208,
+ "openItems": 0,
  "source": {
   "file": "B2-61_Detroit-Personal-Injury-Lawyer.docx",
   "delivered": "2026-10-16"

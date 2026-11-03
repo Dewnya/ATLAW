@@ -284,17 +284,7 @@
       },
       {
        "t": "text",
-       "v": ". "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "weight statement"
-        }
-       ]
+       "v": "."
       }
      ]
     }
@@ -318,17 +308,7 @@
       },
       {
        "t": "text",
-       "v": " Merges at five interchanges in four miles, lane shifts and narrowed shoulders through the reconstruction, and stopped traffic at the end of each closure. Rear-end and underride crashes at the back of a queue, sideswipes in narrowed lanes, and crashes with construction trucks entering and leaving the work zone. A crash in a work zone carries enhanced penalties for the at-fault driver (MCL 257.601b), and a contractor whose traffic control did not meet the Michigan Manual of Uniform Traffic Control Devices can be a defendant alongside the carrier. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "257.601b; contractor liability and MDOT immunity"
-        }
-       ]
+       "v": " Merges at five interchanges in four miles, lane shifts and narrowed shoulders through the reconstruction, and stopped traffic at the end of each closure. Rear-end and underride crashes at the back of a queue, sideswipes in narrowed lanes, and crashes with construction trucks entering and leaving the work zone. A crash in a work zone carries enhanced penalties for the at-fault driver (MCL 257.601b), and a contractor whose traffic control did not meet the Michigan Manual of Uniform Traffic Control Devices can be a defendant alongside the carrier."
       }
      ]
     },
@@ -1141,8 +1121,8 @@
    }
   ]
  },
- "wordCount": 2033,
- "openItems": 3,
+ "wordCount": 2021,
+ "openItems": 1,
  "source": {
   "file": "B3-03_Southfield-Truck-Accident-Lawyer.docx",
   "delivered": "October 23, 2026 [CONFIRM: Batch 3 delivery date]"

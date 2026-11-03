@@ -278,17 +278,7 @@
        [
         {
          "t": "text",
-         "v": "An abutting owner has no general duty to pedestrians for a public sidewalk, and a city ordinance requiring owners to repair or shovel does not by itself create one (Levendoski v Geisenhaver, 1965). The owner can be liable for a defect it created, such as a driveway cut, a tree-root heave it caused, or a hazard it placed. "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "ATTORNEY CHECK",
-           "v": ""
-          }
-         ]
+         "v": "An abutting owner has no general duty to pedestrians for a public sidewalk, and a city ordinance requiring owners to repair or shovel does not by itself create one (Levendoski v Geisenhaver, 1965). The owner can be liable for a defect it created, such as a driveway cut, a tree-root heave it caused, or a hazard it placed."
         }
        ]
       ]
@@ -363,21 +353,7 @@
       },
       {
        "t": "text",
-       "v": " You must prove that at least 30 days before the injury the city knew, or in the exercise of reasonable diligence should have known, of the defect (691.1402a(2)). Photographs taken after the fall, by themselves, do not prove how long the defect existed (Bernardoni v City of Saginaw, 2021). "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": ""
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " What does: prior complaints to the city’s 311 line or Improve Detroit app, prior work orders, prior falls at the same spot, Google Street View images dated months or years earlier, and expert testimony on how long a heave of that size takes to form. Those records are obtained by Freedom of Information Act request, and the request goes out in the first week."
+       "v": " You must prove that at least 30 days before the injury the city knew, or in the exercise of reasonable diligence should have known, of the defect (691.1402a(2)). Photographs taken after the fall, by themselves, do not prove how long the defect existed (Bernardoni v City of Saginaw, 2016). What does: prior complaints to the city’s 311 line or Improve Detroit app, prior work orders, prior falls at the same spot, Google Street View images dated months or years earlier, and expert testimony on how long a heave of that size takes to form. Those records are obtained by Freedom of Information Act request, and the request goes out in the first week."
       }
      ]
     },
@@ -422,17 +398,7 @@
      "c": [
       {
        "t": "text",
-       "v": "The city may also raise ordinary premises defenses, and the statute specifically preserves the open and obvious defense for sidewalk claims (691.1402a(5)). How that provision operates after the Supreme Court’s 2023 decision converting open and obvious into a comparative fault question is a live issue. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "current treatment of 691.1402a(5) after Kandil-Elsayed"
-        }
-       ]
+       "v": "The city may also raise ordinary premises defenses, and the statute specifically preserves the open and obvious defense for sidewalk claims (691.1402a(5)). How that provision operates after the Supreme Court’s 2023 decision converting open and obvious into a comparative fault question is a live issue."
       }
      ]
     }
@@ -447,21 +413,7 @@
      "c": [
       {
        "t": "text",
-       "v": "A fall on an icy public sidewalk is usually not a claim against the city. The sidewalk exception covers defects in the sidewalk itself, and Michigan courts have held that a natural accumulation of ice or snow is not such a defect (Haliw v City of Sterling Heights, 2001). "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": ""
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " The exception is a defect in the sidewalk that caused the ice, such as a depression that holds and freezes water, which is argued as a condition “in the sidewalk itself.”"
+       "v": "A fall on an icy public sidewalk is usually not a claim against the city. The sidewalk exception covers defects in the sidewalk itself, and Michigan courts have held that a natural accumulation of ice or snow is not such a defect (Haliw v City of Sterling Heights, 2001). The exception is a defect in the sidewalk that caused the ice, such as a depression that holds and freezes water, which is argued as a condition “in the sidewalk itself.”"
       }
      ]
     },
@@ -507,17 +459,7 @@
      "c": [
       {
        "t": "text",
-       "v": "An abutting homeowner or business that fails to shovel a public sidewalk in violation of a city ordinance may be ticketed by the city, but Michigan courts have held that the ordinance does not create a duty to the pedestrian who falls. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": ""
-        }
-       ]
+       "v": "An abutting homeowner or business that fails to shovel a public sidewalk in violation of a city ordinance may be ticketed by the city, but Michigan courts have held that the ordinance does not create a duty to the pedestrian who falls."
       }
      ]
     }
@@ -953,17 +895,7 @@
        [
         {
          "t": "text",
-         "v": "3 years, with saving provisions; 2 years for the claim against a city "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "ATTORNEY CHECK",
-           "v": ""
-          }
-         ]
+         "v": "3 years, with saving provisions; 2 years for the claim against a city"
         }
        ],
        [
@@ -983,23 +915,13 @@
        [
         {
          "t": "text",
-         "v": "Tolled until the child’s 19th birthday, but the 120-day notice is not extended "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "ATTORNEY CHECK",
-           "v": ""
-          }
-         ]
+         "v": "The limitations period runs to one year after the 18th birthday, but the written notice must be served within 180 days of the injury (it may be filed by a parent, attorney, next friend, or guardian)"
         }
        ],
        [
         {
          "t": "text",
-         "v": "MCL 600.5851"
+         "v": "MCL 600.5851(1); MCL 691.1404(3)"
         }
        ]
       ],
@@ -1087,17 +1009,7 @@
        },
        {
         "t": "text",
-        "v": " of the defect before the city repairs it. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "site inspection practice"
-         }
-        ]
+        "v": " of the defect as early as possible, because cities often repair a defect after a fall is reported."
        }
       ],
       [
@@ -1270,8 +1182,8 @@
    }
   ]
  },
- "wordCount": 2642,
- "openItems": 8,
+ "wordCount": 2647,
+ "openItems": 0,
  "source": {
   "file": "B1-22_Michigan-Sidewalk-Injury-Lawyer.docx",
   "delivered": "2026-10-12"

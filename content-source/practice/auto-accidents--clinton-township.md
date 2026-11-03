@@ -98,7 +98,7 @@ Claims up to $25,000, including mini tort claims, are filed in the 41B District 
 | Defect on Hall Road, Gratiot, Groesbeck, or I-94 (MDOT) | Notice filed with the Court of Claims within 120 days | MCL 691.1404 |
 | Dram shop claim against a bar | Notice within 120 days of hiring a lawyer; suit within 2 years | MCL 436.1801(3) |
 | Suit against the at-fault driver | 3 years | MCL 600.5805(2) |
-| Injured child | 3 years, or one year after the 18th birthday if later | MCL 600.5851(1) **[ATTORNEY CHECK]** |
+| Injured child | 3 years, or one year after the 18th birthday if later | MCL 600.5851(1) |
 
 ## Why Clinton Township crash victims call ATLAW
 

@@ -52,7 +52,7 @@ What it affects is everything PIP does not pay: pain and suffering, wage loss ab
 ## When an uninsured motorist claim applies
 
 - **The at-fault driver had no insurance.** Michigan requires proof of insurance to register a car, but policies lapse, and the 2024 crash reports show it. The police report’s insurance field, a letter from the driver’s listed insurer, and a Secretary of State record establish “uninsured.”
-- **Hit-and-run.** Most policies cover a crash caused by an unidentified vehicle, with conditions: a prompt police report, and often “physical contact” between the vehicles. Michigan courts have read physical contact to include indirect contact, such as an object propelled by the fleeing vehicle, but a swerve-to-avoid crash with no contact fails under many policies. **[ATTORNEY CHECK: current case law on physical-contact clauses]** Report the crash to police immediately, and note anything that touched your car.
+- **Hit-and-run.** Most policies cover a crash caused by an unidentified vehicle, with conditions: a prompt police report, and often “physical contact” between the vehicles. Michigan courts have read physical contact to include indirect contact, such as an object propelled by the fleeing vehicle, but a swerve-to-avoid crash with no contact fails under many policies. Report the crash to police immediately, and note anything that touched your car.
 - **The at-fault driver’s insurer denies coverage or is insolvent.** A policy rescinded for misrepresentation, or an insurer in liquidation, can turn an insured driver into an uninsured one. Policy definitions differ on this.
 
 ## When an underinsured motorist claim applies, and how it is calculated
@@ -69,7 +69,7 @@ Two consequences people learn too late. If your UIM limit equals the at-fault dr
 
 ## The serious impairment threshold
 
-A UM/UIM policy pays what you are “legally entitled to recover” from the at-fault driver, and most Michigan policies write the no-fault threshold into the coverage: pain and suffering is recoverable only for death, permanent serious disfigurement, or a serious impairment of body function (MCL 500.3135). Comparative fault applies as well, so a recovery is reduced by your share of fault and barred above 50% (MCL 600.2959). The policy language controls. **[ATTORNEY CHECK: threshold language in common Michigan UM endorsements]**
+A UM/UIM policy pays what you are “legally entitled to recover” from the at-fault driver, and most Michigan policies write the no-fault threshold into the coverage: pain and suffering is recoverable only for death, permanent serious disfigurement, or a serious impairment of body function (MCL 500.3135). Comparative fault applies as well, so a recovery is reduced by your share of fault and barred above 50% (MCL 600.2959). The policy language controls.
 
 ## The policy conditions that void UM/UIM claims
 
@@ -96,9 +96,9 @@ Michigan gives you one specific lever. Under the Uniform Trade Practices Act, a 
 
 ## Suing the uninsured driver personally
 
-Michigan’s no-fault law abolishes most lawsuits against insured drivers, but the abolition applies only to drivers who carried the required insurance (MCL 500.3135(3)). An uninsured at-fault driver has no such protection: they can be sued personally for all of your damages, including pain and suffering without the serious impairment threshold and vehicle damage beyond the $3,000 mini-tort limit. **[ATTORNEY CHECK]**
+Michigan’s no-fault law abolishes most lawsuits against insured drivers, but the abolition applies only to drivers who carried the required insurance (MCL 500.3135(3)). An uninsured at-fault driver loses no-fault’s protection against economic-loss claims: they can be sued personally for medical expenses, wage loss, and other economic losses beyond no-fault benefits, and for vehicle damage beyond the $3,000 mini-tort limit. A claim for pain and suffering against them still requires death, serious impairment of body function, or permanent serious disfigurement (MCL 500.3135(1)).
 
-The obstacle is collection. Most uninsured drivers are uninsured because they could not afford insurance, and a judgment against them is paid slowly or not at all. Two tools help: Michigan suspends the driver’s license of a person who fails to pay a judgment arising from a motor vehicle crash (MCL 257.512, 257.513), which motivates payment plans, and a judgment can be renewed and enforced against wages and assets for years. Whether to pursue the driver personally is a judgment call made with the client, after the UM/UIM and no-fault claims are secured. **[CONFIRM: the firm pursues judgments against uninsured drivers where collectible]**
+The obstacle is collection. Most uninsured drivers are uninsured because they could not afford insurance, and a judgment against them is paid slowly or not at all. Two tools help: Michigan suspends the driver’s license of a person who fails to pay a judgment arising from a motor vehicle crash (MCL 257.512, 257.513), which motivates payment plans, and a judgment can be renewed and enforced against wages and assets for years. Whether to pursue the driver personally is a judgment call made with the client, after the UM/UIM and no-fault claims are secured.
 
 ## Passengers, pedestrians, and family members
 
@@ -161,7 +161,7 @@ The recovery is the same category of damages you would have recovered from an in
 
 **Do I have three years to make a UM claim?** Not necessarily. The three-year statute applies to the lawsuit against the driver. The UM/UIM claim is governed by the policy, and Michigan courts have upheld one-year contractual periods (Rory v Continental, 2005). Read the policy.
 
-**Will my rates go up for using my own UM coverage?** Michigan law prohibits insurers from raising rates or refusing renewal based on a claim for which you were not at fault (MCL 500.2118(2)(a)). **[ATTORNEY CHECK: citation]**
+**Will my rates go up for using my own UM coverage?** Michigan law prohibits insurers from raising rates or refusing renewal based on a claim for which you were not at fault (MCL 500.2118(2)(a)). **[VERIFY: citation; the attorney did not verify this; check it against the source before publication]**
 
 **Can I sue the uninsured driver?** Yes. An uninsured driver has no no-fault tort immunity (MCL 500.3135(3)) and can be sued for all damages. Collection is the practical problem; a license suspension for an unpaid judgment (MCL 257.512) is one tool.
 

@@ -102,7 +102,7 @@ The injuries ATLAW sees most: back and shoulder injuries from lifting and repeti
 
 ## Why injured workers in metro Detroit call ATLAW
 
-**A Dearborn firm that looks for the third-party case.** Every work injury is reviewed for a claim beyond workers’ comp, because that is where pain and suffering is compensated. **[CONFIRM: that the firm handles workers’ comp claims before the agency itself, as opposed to the third-party injury claim only; if the firm refers comp hearings to a comp specialist, the page should say so]**
+**A Dearborn firm that handles the comp claim and looks for the third-party case.** ATLAW handles workers’ compensation claims and reviews every work injury for a claim beyond workers’ comp, because that is where pain and suffering is compensated.
 
 **More than 10,000 cases, more than $100 million recovered** in 13 years, across all injury practice areas. Every case is different; the figures show the firm has done this work against these employers and insurers.
 

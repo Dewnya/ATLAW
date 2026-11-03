@@ -66,7 +66,7 @@
     },
     {
      "t": "link",
-     "href": "/personal-injury/personal-injury",
+     "href": "/personal-injury/pittsfield-township",
      "c": [
       {
        "t": "text",
@@ -1562,17 +1562,7 @@
        [
         {
          "t": "text",
-         "v": "MCL 600.5851(1) "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "ATTORNEY CHECK",
-           "v": ""
-          }
-         ]
+         "v": "MCL 600.5851(1)"
         }
        ]
       ]
@@ -1661,17 +1651,7 @@
    "answer": [
     {
      "t": "text",
-     "v": "Usually the township, which has the sidewalk duty along the roads. Written notice is due within 120 days, and a defect of less than two inches is generally presumed not to be actionable. "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "ATTORNEY CHECK",
-       "v": ""
-      }
-     ]
+     "v": "Usually the township, which has the sidewalk duty along the roads. Written notice is due within 120 days (180 days for an injured child), and a defect of less than two inches is generally presumed not to be actionable, though the presumption can be rebutted."
     }
    ]
   },
@@ -1745,8 +1725,8 @@
    }
   ]
  },
- "wordCount": 2525,
- "openItems": 3,
+ "wordCount": 2531,
+ "openItems": 1,
  "source": {
   "file": "B4-06_Pittsfield-Township-Personal-Injury-Law-Firm.docx",
   "delivered": "October 25, 2026 [CONFIRM: Batch 4 delivery date]"

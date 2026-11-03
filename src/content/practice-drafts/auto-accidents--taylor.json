@@ -422,15 +422,15 @@
      "c": [
       {
        "t": "text",
-       "v": "Taylor had more crashes than Westland or Dearborn Heights in 2024 and fewer than Dearborn, but more deaths than any of the three. Dearborn’s 3,326 crashes killed 4 people; Taylor’s 1,916 killed 12. Many of Taylor’s crashes happen on Telegraph, the freeways, and the mile roads, where speeds are higher. "
+       "v": "Many of Taylor’s crashes happen on Telegraph, the freeways, and the mile roads, where speeds are higher. "
       },
       {
        "t": "strong",
        "c": [
         {
          "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "data: speed-related crashes; ATTORNEY CHECK: keep the comparison or drop it"
+         "kind": "VERIFY",
+         "v": "2024 Taylor crash and fatality counts in this section against MSP Michigan Traffic Crash Facts"
         }
        ]
       }
@@ -781,21 +781,7 @@
       },
       {
        "t": "text",
-       "v": ", Mich 2000). The notice must go to the agency that actually has jurisdiction over that stretch of road, or it is no notice. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "road allocation and signal maintenance at Eureka and Telegraph"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " The City also has the duty to keep public sidewalks in repair (MCL 691.1402a); see our "
+       "v": ", Mich 2000). The notice must go to the agency that actually has jurisdiction over that stretch of road, or it is no notice. The City also has the duty to keep public sidewalks in repair (MCL 691.1402a); see our "
       },
       {
        "t": "link",
@@ -2006,8 +1992,8 @@
    }
   ]
  },
- "wordCount": 2924,
- "openItems": 3,
+ "wordCount": 2884,
+ "openItems": 2,
  "source": {
   "file": "B4-07_Taylor-Car-Accident-Lawyer.docx",
   "delivered": "October 25, 2026 [CONFIRM: Batch 4 delivery date]"

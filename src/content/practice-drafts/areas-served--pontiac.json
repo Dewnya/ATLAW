@@ -331,7 +331,7 @@
       },
       {
        "t": "text",
-       "v": " Pontiac’s housing is older than its neighbors’, with a renter share above half, large apartment complexes, Pontiac Housing Commission properties, and scattered vacant structures. Falls on deteriorated stairs and porches, rental-housing injuries under MCL 554.139, fires and carbon monoxide, lead exposure from pre-1978 paint, dog bites under MCL 287.351, and sidewalk injuries under the two-inch rule (MCL 691.1402a). Where the landlord is the Pontiac Housing Commission, governmental immunity and special notice rules must be considered. MCL 125.663 may require written notice within 60 days, depending on the housing commission’s governing arrangements. See our "
+       "v": " Pontiac’s housing is older than its neighbors’, with large apartment complexes, Pontiac Housing Commission properties, and scattered vacant structures. Falls on deteriorated stairs and porches, rental-housing injuries under MCL 554.139, fires and carbon monoxide, lead exposure from pre-1978 paint, dog bites under MCL 287.351, and sidewalk injuries under the two-inch rule (MCL 691.1402a). Where the landlord is the Pontiac Housing Commission, governmental immunity and special notice rules must be considered. MCL 125.663 may require written notice within 60 days, depending on the housing commission’s governing arrangements. See our "
       },
       {
        "t": "link",
@@ -373,17 +373,7 @@
       },
       {
        "t": "text",
-       "v": " pages. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "renter share, ACS"
-        }
-       ]
+       "v": " pages."
       }
      ]
     }
@@ -1242,8 +1232,8 @@
    }
   ]
  },
- "wordCount": 2009,
- "openItems": 1,
+ "wordCount": 2000,
+ "openItems": 0,
  "source": {
   "file": "areas-served__pontiac.docx",
   "delivered": "2026-10-16"

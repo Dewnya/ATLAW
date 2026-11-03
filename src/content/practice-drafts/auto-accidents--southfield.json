@@ -76,7 +76,7 @@
     },
     {
      "t": "link",
-     "href": "/personal-injury/personal-injury/southfield",
+     "href": "/personal-injury/southfield",
      "c": [
       {
        "t": "text",
@@ -505,17 +505,7 @@
       },
       {
        "t": "text",
-       "v": " Two kinds of drivers share Southfield’s roads. Commuters to the Northwestern towers and residents of the northern neighborhoods more often carry high liability limits and umbrella policies; drivers crossing Eight Mile more often carry the $50,000 minimum or nothing. Since the 2019 reform, many drivers on both sides also chose reduced PIP medical levels, so medical bills above your chosen level become part of your claim against the at-fault driver (MCL 500.3135(3)(c)). Your own uninsured and underinsured motorist coverage often decides what a Southfield claim is worth. Where the other driver carries high limits and you carry UIM, the sequence of settlement and your insurer’s consent matter; settling with the at-fault driver without your UIM insurer’s consent can forfeit the UIM claim. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "UIM consent-to-settle"
-        }
-       ]
+       "v": " Two kinds of drivers share Southfield’s roads. Commuters to the Northwestern towers and residents of the northern neighborhoods more often carry high liability limits and umbrella policies; drivers crossing Eight Mile more often carry the $50,000 minimum or nothing. Since the 2019 reform, many drivers on both sides also chose reduced PIP medical levels, so medical bills above your chosen level become part of your claim against the at-fault driver (MCL 500.3135(3)(c)). Your own uninsured and underinsured motorist coverage often decides what a Southfield claim is worth. Where the other driver carries high limits and you carry UIM, the sequence of settlement and your insurer’s consent matter; settling with the at-fault driver without your UIM insurer’s consent can forfeit the UIM claim."
       }
      ]
     },
@@ -747,17 +737,7 @@
       },
       {
        "t": "text",
-       "v": ". "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "venue"
-        }
-       ]
+       "v": "."
       }
      ]
     }
@@ -1089,8 +1069,8 @@
    }
   ]
  },
- "wordCount": 2046,
- "openItems": 4,
+ "wordCount": 2039,
+ "openItems": 2,
  "source": {
   "file": "B3-01_Southfield-Car-Accident-Lawyer.docx",
   "delivered": "October 23, 2026 [CONFIRM: Batch 3 delivery date for the status line]"

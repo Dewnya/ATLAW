@@ -20,7 +20,7 @@ Neonatal brachial plexus palsy occurs in about 1.5 of every 1,000 births, accord
 
 Whether a permanent brachial plexus injury was preventable is one of the most contested questions in birth injury law, because ACOG’s own report concludes that the forces of labor alone can, in some cases, stretch the nerves enough to injure them. Hospitals rely on that conclusion in every case. It is not the end of the inquiry. The same report says the injury results from excess force, and the delivery record shows how the shoulder dystocia was managed: which maneuvers were used and in what order, how long the head-to-body interval ran, whether anyone pushed on the fundus, whether the known risk factors were acted on before labor, and whether the injury pattern, an avulsion with Horner’s syndrome in a large baby after a documented dystocia, is one that maternal forces alone produce. This page explains the injury, the grades, the timeline for treatment that decides a child’s outcome, how a Michigan case is proved and defended, and the deadline that runs to the child’s tenth birthday.
 
-ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across Wayne, Oakland, Macomb, and Washtenaw counties. Birth injury cases are handled on contingency: no fee unless we recover money for your family, and the first conversation is free. **[CONFIRM: the firm handles birth injury cases in-house, and the attorney who leads them]**
+ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across Wayne, Oakland, Macomb, and Washtenaw counties. Birth injury cases are handled on contingency: no fee unless we recover money for your family, and the first conversation is free. ATLAW handles these cases and works with qualified medical experts to review each one.
 
 ## Brachial plexus birth injury: the numbers
 
@@ -119,7 +119,7 @@ Michigan requires proof of the standard of care, a breach, causation more probab
 
 **Economic damages are uncapped**: surgeries, therapy, equipment, future medical care over the child’s lifetime, and lost earning capacity, which for a child whose dominant arm is permanently impaired is real and provable.
 
-**Non-economic damages** are capped under MCL 600.1483. Michigan’s higher cap, $1,065,000 for 2026, applies where the injury is to the brain or spinal cord and results in paralysis with permanent loss of function of a limb, or in a permanent inability to live independently, or in loss of reproductive capacity. A brachial plexus injury is an injury to peripheral nerves, and most Erb’s palsy cases fall under the **lower cap, $596,400 for 2026**. Whether a root avulsion, which tears the nerve from the spinal cord itself, qualifies as a spinal cord injury under the statute is a question that has been litigated, and the answer may depend on the operative findings in your child’s case. **[ATTORNEY CHECK: current state of the law on cap tier for avulsion injuries]** We tell families this at the start because other websites do not, and because it means the economic damages, the life care plan, are where most of the value of an Erb’s palsy case lies.
+**Non-economic damages** are capped under MCL 600.1483. Michigan’s higher cap, $1,065,000 for 2026, applies where the injury is to the brain or spinal cord and results in paralysis with permanent loss of function of a limb, or in a permanent inability to live independently, or in loss of reproductive capacity. A brachial plexus injury is an injury to peripheral nerves, and most Erb’s palsy cases fall under the **lower cap, $596,400 for 2026**. Whether a root avulsion, which tears the nerve from the spinal cord itself, qualifies as a spinal cord injury under the statute is a question that has been litigated, and the answer may depend on the operative findings in your child’s case. We tell families this at the start because other websites do not, and because it means the economic damages, the life care plan, are where most of the value of an Erb’s palsy case lies.
 
 ## Michigan’s procedure and deadlines
 
@@ -150,11 +150,11 @@ The seven-year retention rule matters here as it does in every birth injury case
 ## Why metro Detroit families call ATLAW for brachial plexus injury cases
 
 - **Thirteen years, more than 10,000 cases, more than $100 million recovered.**
-- **An honest first answer.** We obtain the delivery record and the operative findings and have them read before we tell a family whether the injury was preventable. Some brachial plexus injuries are not anyone’s fault, and when the records show that, we say so. **[CONFIRM]**
-- **The experts a brachial plexus case requires**: obstetrics, labor and delivery nursing, pediatric neurology, brachial plexus surgery, hand therapy, life care planning, and economics. **[CONFIRM: expert network]**
-- **The records preserved first**, before the seven-year retention period runs. **[CONFIRM]**
+- **An honest first answer.** We obtain the delivery record and the operative findings and have them read before we tell a family whether the injury was preventable. Some brachial plexus injuries are not anyone’s fault, and when the records show that, we say so.
+- **The experts a brachial plexus case requires**: obstetrics, labor and delivery nursing, pediatric neurology, brachial plexus surgery, hand therapy, life care planning, and economics, with reviewing experts who meet Michigan’s same-specialty requirements (MCL 600.2169).
+- **The records preserved first**, before the seven-year retention period runs.
 - **Both the delivery claim and any delayed-referral claim**, with both deadlines calendared.
-- **Settlements structured to protect the child’s benefits.**  **[CONFIRM: special needs planning coordination]**
+- **Settlements structured to protect the child’s benefits**, coordinated where needed with special needs planning professionals.
 - **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Families come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 - **Languages.** Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish.
 - **No fee unless we recover.** Contingency fee ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs. No cost for the first conversation.

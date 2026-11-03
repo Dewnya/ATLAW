@@ -30,7 +30,7 @@ ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parkla
 
 - Our [Michigan nursing home abuse lawyer page](/personal-injury/nursing-home-abuse) covers the regulations, the warning signs, and the deadlines in full.
 - Our [Dearborn Heights page](/areas-served/dearborn-heights) covers every kind of injury claim in the city.
-- Our [Dearborn Heights personal injury lawyer page](/personal-injury/personal-injury/dearborn-heights) explains how a claim proceeds.
+- Our [Dearborn Heights personal injury lawyer page](/personal-injury/dearborn-heights) explains how a claim proceeds.
 
 The first conversation is free and confidential, in English, Arabic, French, Mandarin, Urdu, or Spanish: **(313) 406-7606**.
 

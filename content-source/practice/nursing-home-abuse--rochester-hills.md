@@ -29,7 +29,7 @@ ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parkla
 
 - Our [Michigan nursing home abuse lawyer page](/personal-injury/nursing-home-abuse) covers the regulations, the warning signs, and the deadlines in full.
 - Our [Rochester Hills page](/areas-served/rochester-hills) covers every kind of injury claim in the city.
-- Our [Rochester Hills personal injury lawyer page](/personal-injury/personal-injury/rochester-hills) explains how a claim proceeds.
+- Our [Rochester Hills personal injury lawyer page](/personal-injury/rochester-hills) explains how a claim proceeds.
 
 The first conversation is free and confidential, in English, Arabic, French, Mandarin, Urdu, or Spanish: (313) 406-7606.
 
@@ -78,7 +78,7 @@ Two points matter for a family:
 - **The State’s suit does not compensate any resident.** It seeks repayment and penalties for Medicaid. A resident who was harmed, or the estate of one who died, has a separate claim and a separate deadline.
 - **The State’s evidence is the same kind that proves an individual case.** The State relied on staffing records, including payroll-based staffing reports submitted to CMS. Those records also show what the staffing was on the day of the fall or the week the pressure sore developed.
 
-**[ATTORNEY CHECK: MCL 400.601 et seq.; relationship to individual claims]**
+The Attorney General’s case does not itself create a claim for an individual resident.
 
 ## The rules a Rochester Hills facility must follow
 

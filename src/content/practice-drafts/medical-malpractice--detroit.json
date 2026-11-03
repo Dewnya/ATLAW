@@ -28,21 +28,7 @@
    "c": [
     {
      "t": "text",
-     "v": "ATLAW is a personal injury firm at 3 Parklane Boulevard in Dearborn, minutes from the Detroit Medical Center and Henry Ford campuses. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients. "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "CONFIRM",
-       "v": "that the firm handles medical malpractice cases in-house, including expert retention, or co-counsels; adjust the page accordingly"
-      }
-     ]
-    },
-    {
-     "t": "text",
-     "v": " Our "
+     "v": "ATLAW is a personal injury firm at 3 Parklane Boulevard in Dearborn, minutes from the Detroit Medical Center and Henry Ford campuses. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients. ATLAW handles medical malpractice claims and works with qualified medical experts, as Michigan law requires, to review each case before it is filed. Our "
     },
     {
      "t": "link",
@@ -394,31 +380,7 @@
       },
       {
        "t": "text",
-       "v": " Detroit Receiving (Level I trauma), Harper University Hospital, Hutzel Women’s Hospital, Children’s Hospital of Michigan (Level I pediatric trauma), Sinai-Grace on the west side, and the Rehabilitation Institute of Michigan, owned by Tenet Healthcare. Kresge is a Wayne State University institute, not a Tenet-owned DMC hospital. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "verify current ownership and names"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " Many DMC physicians are Wayne State University School of Medicine faculty or residents. A claim against a physician employed by a state university can raise Court of Claims questions that do not arise with a private physician (MCL 691.1407(4) provides that the GTLA does not grant immunity for medical care), and the employer must be identified before the Notice of Intent is served. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "WSU faculty and resident physicians; immunity and forum"
-        }
-       ]
+       "v": " Detroit Receiving (Level I trauma), Harper University Hospital, Hutzel Women’s Hospital, Children’s Hospital of Michigan (Level I pediatric trauma), Sinai-Grace on the west side, and the Rehabilitation Institute of Michigan, owned by Tenet Healthcare. Kresge is a Wayne State University institute, not a Tenet-owned DMC hospital. Many DMC physicians are Wayne State University School of Medicine faculty or residents. A claim against a physician employed by a state university can raise Court of Claims questions that do not arise with a private physician (MCL 691.1407(4) provides that the GTLA does not grant immunity for medical care), and the employer must be identified before the Notice of Intent is served."
       }
      ]
     },
@@ -443,8 +405,8 @@
        "c": [
         {
          "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "names and designations"
+         "kind": "VERIFY",
+         "v": "Henry Ford Hospital “Level I trauma” against the current Michigan state trauma facility list; remove the designation if not confirmed"
         }
        ]
       }
@@ -482,21 +444,7 @@
       },
       {
        "t": "text",
-       "v": " A federal hospital on John R Street. Malpractice by VA employees is a claim against the United States under the Federal Tort Claims Act, not a Michigan malpractice suit: an administrative claim on Standard Form 95 must be presented to the VA within two years (28 USC 2401(b)), the VA has six months to act, and suit is then filed in the U.S. District Court for the Eastern District of Michigan, tried to a judge without a jury, with Michigan substantive law and the Michigan caps applied. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "application of Michigan caps and procedural rules under the FTCA"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " A veteran harmed by VA care may also claim disability compensation under 38 USC 1151 regardless of fault."
+       "v": " A federal hospital on John R Street. Malpractice by VA employees is a claim against the United States under the Federal Tort Claims Act, not a Michigan malpractice suit: an administrative claim on Standard Form 95 must be presented to the VA within two years (28 USC 2401(b)), the VA has six months to act, and suit is then filed in the U.S. District Court for the Eastern District of Michigan, tried to a judge without a jury, with Michigan substantive law and the Michigan caps applied. Whether Michigan’s Notice of Intent and affidavit-of-merit rules also apply in federal court is a question we evaluate in each case. A veteran harmed by VA care may also claim disability compensation under 38 USC 1151 regardless of fault."
       }
      ]
     },
@@ -514,17 +462,7 @@
       },
       {
        "t": "text",
-       "v": " Several Detroit community health centers receive federal Health Center Program funding, and their employed providers are deemed federal employees for malpractice purposes, so a claim against them also follows the FTCA path, with its two-year administrative deadline and no Notice of Intent. Identifying a deemed clinic early is the difference between a timely claim and none. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "FSHCAA deeming; identify Detroit deemed centers at intake"
-        }
-       ]
+       "v": " Several Detroit community health centers receive federal Health Center Program funding, and their employed providers are deemed federal employees for malpractice purposes, so a claim against them also follows the FTCA path, with its two-year administrative deadline; the federal administrative claim (Standard Form 95) is filed with the agency, and whether Michigan’s Notice of Intent and affidavit-of-merit rules also apply in federal court is a question we evaluate in each case. Identifying a deemed clinic early is the difference between a timely claim and none."
       }
      ]
     },
@@ -1320,8 +1258,8 @@
    }
   ]
  },
- "wordCount": 2454,
- "openItems": 7,
+ "wordCount": 2488,
+ "openItems": 2,
  "source": {
   "file": "B2-66_Detroit-Medical-Malpractice-Lawyer.docx",
   "delivered": "2026-10-16"

@@ -50,7 +50,7 @@ The first conversation is free, in English, Arabic, French, Mandarin, Urdu, or S
 | Wayne County trucks and buses in crashes | 3,916 vehicles | Same |
 | Michigan liability limits for the at-fault driver | $250,000 / $500,000 unless the driver chose lower limits; minimum $50,000 / $100,000 | MCL 500.3009(1), (5) |
 
-Taylor had more crashes than Westland or Dearborn Heights in 2024 and fewer than Dearborn, but more deaths than any of the three. Dearborn’s 3,326 crashes killed 4 people; Taylor’s 1,916 killed 12. Many of Taylor’s crashes happen on Telegraph, the freeways, and the mile roads, where speeds are higher. **[CONFIRM: data: speed-related crashes; ATTORNEY CHECK: keep the comparison or drop it]**
+Many of Taylor’s crashes happen on Telegraph, the freeways, and the mile roads, where speeds are higher. **[VERIFY: 2024 Taylor crash and fatality counts in this section against MSP Michigan Traffic Crash Facts]**
 
 Eureka at Telegraph had 36 injuries in 2024. That ties it with 7 Mile at I-75 in Detroit for the most injuries of any intersection on Wayne County’s top-ten list.
 
@@ -92,7 +92,7 @@ Freeway crashes are often worked by the Michigan State Police. See our [Taylor t
 - Wayne County: Eureka, Allen, and other mile roads, through its Department of Public Services. A claim against the county takes written notice within 120 days (MCL 691.1402, 691.1404).
 - **The City of Taylor:** the subdivision streets, with the same 120-day notice.
 
-A pothole or other defect in the road can make the agency a defendant alongside the other driver; on State and county roads, signals, signs, and sight obstructions generally fall outside the highway exception (*Nawrocki v Macomb County Road Commission*, Mich 2000). The notice must go to the agency that actually has jurisdiction over that stretch of road, or it is no notice. **[ATTORNEY CHECK: road allocation and signal maintenance at Eureka and Telegraph]** The City also has the duty to keep public sidewalks in repair (MCL 691.1402a); see our [sidewalk injury page](/personal-injury/sidewalk-injuries).
+A pothole or other defect in the road can make the agency a defendant alongside the other driver; on State and county roads, signals, signs, and sight obstructions generally fall outside the highway exception (*Nawrocki v Macomb County Road Commission*, Mich 2000). The notice must go to the agency that actually has jurisdiction over that stretch of road, or it is no notice. The City also has the duty to keep public sidewalks in repair (MCL 691.1402a); see our [sidewalk injury page](/personal-injury/sidewalk-injuries).
 
 ## Fault is the case
 

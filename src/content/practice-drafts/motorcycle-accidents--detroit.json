@@ -129,8 +129,8 @@
          "c": [
           {
            "t": "placeholder",
-           "kind": "CONFIRM",
-           "v": "data"
+           "kind": "VERIFY",
+           "v": "pull the 2024 figures from MSP Michigan Traffic Crash Facts (city or county profile) or delete this row"
           }
          ]
         }
@@ -155,8 +155,8 @@
          "c": [
           {
            "t": "placeholder",
-           "kind": "CONFIRM",
-           "v": "data"
+           "kind": "VERIFY",
+           "v": "pull the 2024 figures from MSP Michigan Traffic Crash Facts (city or county profile) or delete this row"
           }
          ]
         }
@@ -319,17 +319,7 @@
       },
       {
        "t": "text",
-       "v": " Woodward, Gratiot, Grand River, Michigan Avenue, Jefferson, Fort, Van Dyke, Livernois, Seven Mile, and Eight Mile: wide, multi-lane, with long signal spacing and a car turning left across the rider’s lane at nearly every block. A driver who says they did not see an approaching motorcycle may still have failed to yield. Michigan law requires drivers making left turns to yield to qualifying oncoming traffic under MCL 257.650. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": ""
-        }
-       ]
+       "v": " Woodward, Gratiot, Grand River, Michigan Avenue, Jefferson, Fort, Van Dyke, Livernois, Seven Mile, and Eight Mile: wide, multi-lane, with long signal spacing and a car turning left across the rider’s lane at nearly every block. A driver who says they did not see an approaching motorcycle may still have failed to yield. Michigan law requires drivers making left turns to yield to qualifying oncoming traffic under MCL 257.650(2)."
       }
      ]
     },
@@ -379,17 +369,7 @@
       },
       {
        "t": "text",
-       "v": " Detroit’s streets produce the single-vehicle crashes that no-fault does not cover at all: potholes, pavement drop-offs at resurfacing edges, steel plates, loose gravel, and manhole covers below grade. A rider injured by a qualifying defect in the traveled roadway may have a claim against the responsible road agency under the highway exception to governmental immunity, MCL 691.1402. For a state highway claim, the notice must be filed in the Court of Claims. The exception covers the traveled portion of the road and requires that the agency knew or should have known of the defect in time to repair it. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "road jurisdiction within Detroit; highway exception standard"
-        }
-       ]
+       "v": " Detroit’s streets produce the single-vehicle crashes that no-fault does not cover at all: potholes, pavement drop-offs at resurfacing edges, steel plates, loose gravel, and manhole covers below grade. A rider injured by a qualifying defect in the traveled roadway may have a claim against the responsible road agency under the highway exception to governmental immunity, MCL 691.1402. For a state highway claim, the notice must be filed in the Court of Claims. The exception covers the traveled portion of the road and requires that the agency knew or should have known of the defect in time to repair it."
       }
      ]
     },
@@ -454,17 +434,7 @@
      "c": [
       {
        "t": "text",
-       "v": "If a car or truck was involved, you may qualify for no-fault benefits under Michigan’s special motorcycle priority rules. These benefits generally come from an applicable automobile policy, not ordinary motorcycle liability insurance. Under MCL 500.3114(5), your Personal Injury Protection benefits come, in this order, from the insurer of the owner of the motor vehicle involved, then the insurer of that vehicle’s driver, then your own auto insurer if you have a car policy, then the insurer of your motorcycle. “Involved” does not require contact; a car that cut you off and caused you to go down is involved even if it never touched you, which is why identifying that car matters. If no applicable PIP coverage is available under the statutory priority rules, an eligible motorcyclist may claim benefits through the Michigan Assigned Claims Plan, generally subject to a $250,000 PIP medical limit. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "MACP eligibility for motorcyclists"
-        }
-       ]
+       "v": "If a car or truck was involved, you may qualify for no-fault benefits under Michigan’s special motorcycle priority rules. These benefits generally come from an applicable automobile policy, not ordinary motorcycle liability insurance. Under MCL 500.3114(5), your Personal Injury Protection benefits come, in this order, from the insurer of the owner of the motor vehicle involved, then the insurer of that vehicle’s driver, then your own auto insurer if you have a car policy, then the motor vehicle insurer of the motorcycle’s owner or registrant. “Involved” does not require contact; a car that cut you off and caused you to go down is involved even if it never touched you, which is why identifying that car matters. If no applicable PIP coverage is available under the statutory priority rules, an eligible motorcyclist may claim benefits through the Michigan Assigned Claims Plan, generally subject to a $250,000 PIP medical limit."
       }
      ]
     },
@@ -615,17 +585,7 @@
       },
       {
        "t": "text",
-       "v": " If you were more than 50 percent at fault you recover no noneconomic damages; below that your award is reduced by your share (MCL 500.3135(2)(b), 600.2959). Detroit insurers argue speed, lane position, lane splitting (illegal in Michigan), and “came out of nowhere.” The answer is evidence: the UD-10, witnesses, the other driver’s phone records, Project Green Light and business camera footage, and the rider’s own helmet or bike camera. A person struck after dismounting a motorcycle may fall under different no-fault priority rules than someone operating or riding the motorcycle. Whether the person is treated as a motorcycle occupant or a pedestrian depends on the circumstances. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "dismounted rider under 3114(5) vs 3115"
-        }
-       ]
+       "v": " If you were more than 50 percent at fault you recover no noneconomic damages; below that your award is reduced by your share (MCL 500.3135(2)(b), 600.2959). Detroit insurers argue speed, lane position, lane splitting (illegal in Michigan), and “came out of nowhere.” The answer is evidence: the UD-10, witnesses, the other driver’s phone records, Project Green Light and business camera footage, and the rider’s own helmet or bike camera. A person struck after dismounting a motorcycle may fall under different no-fault priority rules than someone operating or riding the motorcycle. Whether the person is treated as a motorcycle occupant or a pedestrian depends on the circumstances."
       }
      ]
     }
@@ -640,17 +600,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Since 2012, Michigan has let riders 21 and older ride without a helmet if the applicable first-party medical coverage requirements are satisfied, generally at least $20,000 for the operator and additional coverage for a passenger when required and have either held a motorcycle endorsement for two years or passed an approved safety course (MCL 257.658). If you lawfully rode without a helmet under Michigan’s exemption, the lack of a helmet is not itself a violation of the helmet statute. Insurers may nevertheless dispute whether helmet use affected the nature or severity of an injury. Such arguments require case-specific legal and medical evidence and do not automatically defeat the claim. If you rode without a helmet when the law required one, the violation may become relevant to the case. Whether it affects damages depends on the applicable legal rules and evidence connecting the violation to the injury; it does not automatically bar recovery. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": ""
-        }
-       ]
+       "v": "Since 2012, Michigan has let riders 21 and older ride without a helmet if the applicable first-party medical coverage requirements are satisfied, generally at least $20,000 for the operator and additional coverage for a passenger when required and have either held a motorcycle endorsement for two years or passed an approved safety course (MCL 257.658). If you lawfully rode without a helmet under Michigan’s exemption, the lack of a helmet is not itself a violation of the helmet statute. Insurers may nevertheless dispute whether helmet use affected the nature or severity of an injury. Such arguments require case-specific legal and medical evidence and do not automatically defeat the claim. If you rode without a helmet when the law required one, the violation may become relevant to the case. Whether it affects damages depends on the applicable legal rules and evidence connecting the violation to the injury; it does not automatically bar recovery."
       }
      ]
     }
@@ -675,21 +625,7 @@
        },
        {
         "t": "text",
-        "v": " Detroit Receiving Hospital and Henry Ford Hospital are Level I adult trauma centers. DMC Sinai-Grace is a Level II trauma center, while Harper University Hospital and Henry Ford St. John Hospital are additional regional treatment options. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "hospital list"
-         }
-        ]
-       },
-       {
-        "t": "text",
-        "v": " Tell the provider it was a motorcycle crash."
+        "v": " Detroit Receiving Hospital, Henry Ford Hospital, DMC Sinai-Grace, Harper University Hospital, and Henry Ford St. John Hospital are where many of the city’s seriously injured riders are treated. Tell the provider it was a motorcycle crash."
        }
       ],
       [
@@ -1064,8 +1000,8 @@
      "c": [
       {
        "t": "placeholder",
-       "kind": "CONFIRM",
-       "v": "data: Detroit and Wayne County 2024 motorcycle figures"
+       "kind": "VERIFY",
+       "v": "check the 2024 statewide figures in MSP Michigan Traffic Crash Facts; add Detroit and Wayne County motorcycle figures from the same source or remove this question"
       }
      ]
     },
@@ -1130,17 +1066,7 @@
    "answer": [
     {
      "t": "text",
-     "v": "It depends on the policy. Some automobile UM/UIM policies exclude injuries sustained while riding an owned motorcycle, while other endorsements may provide different coverage. Motorcycle UM/UIM coverage may also be available. Review both policies, including their definitions of covered persons and vehicles, exclusions, and endorsements. Read both policies; we will read them with you. "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "ATTORNEY CHECK",
-       "v": ""
-      }
-     ]
+     "v": "It depends on the policy. Some automobile UM/UIM policies exclude injuries sustained while riding an owned motorcycle, while other endorsements may provide different coverage. Motorcycle UM/UIM coverage may also be available. Review both policies, including their definitions of covered persons and vehicles, exclusions, and endorsements. Read both policies; we will read them with you."
     }
    ]
   },
@@ -1149,17 +1075,7 @@
    "answer": [
     {
      "t": "text",
-     "v": "It depends on what the vehicle is under the statute and whether a car was involved. Coverage depends on how the vehicle is classified under Michigan law and whether a motor vehicle was involved. A moped, motorcycle, and electric scooter may fall under different statutory definitions. The applicable no-fault priority and available benefits must be determined from the particular vehicle’s characteristics and the circumstances of the crash. "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "ATTORNEY CHECK",
-       "v": ""
-      }
-     ]
+     "v": "It depends on what the vehicle is under the statute and whether a car was involved. Coverage depends on how the vehicle is classified under Michigan law and whether a motor vehicle was involved. A moped, motorcycle, and electric scooter may fall under different statutory definitions. The applicable no-fault priority and available benefits must be determined from the particular vehicle’s characteristics and the circumstances of the crash."
     }
    ]
   },
@@ -1215,8 +1131,8 @@
    }
   ]
  },
- "wordCount": 3029,
- "openItems": 11,
+ "wordCount": 3040,
+ "openItems": 3,
  "source": {
   "file": "B2-63_Detroit-Motorcycle-Accident-Lawyer.docx",
   "delivered": "2026-10-16"

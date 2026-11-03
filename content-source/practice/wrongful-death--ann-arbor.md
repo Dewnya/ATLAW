@@ -159,7 +159,7 @@ The MIOSHA investigation file is one of the first records requested. See our [An
 - falls from balconies, porches, and stairs
 - drowning in a pool or on the Huron River, where an owner, operator, or livery may be responsible
 
-See our [Ann Arbor personal injury page](/personal-injury/personal-injury/ann-arbor).
+See our [Ann Arbor personal injury page](/personal-injury/ann-arbor).
 
 **Deaths involving a government agency.**
 

@@ -652,17 +652,7 @@
      "c": [
       {
        "t": "text",
-       "v": "If the driver is later identified, which happens through license plate readers, Detroit’s Project Green Light and business cameras, and body-shop reports, the claims convert to ordinary ones against the driver and owner. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "the firm requests camera footage and canvasses for witnesses in hit-and-run cases"
-        }
-       ]
+       "v": "If the driver is later identified, which happens through license plate readers, Detroit’s Project Green Light and business cameras, and body-shop reports, the claims convert to ordinary ones against the driver and owner. Where appropriate, we request available camera footage and look for witnesses."
       }
      ]
     }
@@ -1215,17 +1205,7 @@
        },
        {
         "t": "text",
-        "v": " Camera canvass, witness canvass, and police follow-up; Assigned Claims Plan application filed while the search continues. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": ""
-         }
-        ]
+        "v": " Where available, camera footage, witnesses, and police follow-up; an Assigned Claims Plan application filed while the search continues."
        }
       ],
       [
@@ -1413,8 +1393,8 @@
    }
   ]
  },
- "wordCount": 3047,
- "openItems": 2,
+ "wordCount": 3045,
+ "openItems": 0,
  "source": {
   "file": "B1-17_Michigan-Pedestrian-Accident-Lawyer.docx",
   "delivered": "2026-10-12"

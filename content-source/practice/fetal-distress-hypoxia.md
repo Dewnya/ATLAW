@@ -20,7 +20,7 @@ Nearly every Michigan hospital birth is continuously monitored. That is what mak
 
 This page explains what the monitor shows and how the profession classifies it, what the standard of care required of the nurses and the physician at each step, the 30-minute standard for an emergency cesarean, the complications fetal distress produces, who is liable, the procedure Michigan requires, and how a family makes sure the strip is preserved before anyone has a reason to lose it.
 
-ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across Wayne, Oakland, Macomb, and Washtenaw counties. Birth injury cases are handled on contingency: no fee unless we recover money for your family, and the first conversation is free. **[CONFIRM: the firm handles birth injury cases in-house, and the attorney who leads them]**
+ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across Wayne, Oakland, Macomb, and Washtenaw counties. Birth injury cases are handled on contingency: no fee unless we recover money for your family, and the first conversation is free. ATLAW handles these cases and works with qualified medical experts to review each one.
 
 ## Fetal distress in Michigan: the numbers
 
@@ -119,8 +119,8 @@ A stillbirth or neonatal death from unrecognized fetal distress is brought under
 | Step | Rule | Where it comes from |
 | --- | --- | --- |
 | Child’s deadline (injury before 8th birthday) | Any time before the child’s 10th birthday | MCL 600.5851(7) |
-| Parents’ own claims; mother’s injuries | Two years from the malpractice, six-month discovery rule | MCL 600.5805(8), 600.5838a **[ATTORNEY CHECK]** |
-| Wrongful death of the baby | Two years; saving provision for the personal representative | MCL 600.2922, 600.5852 **[ATTORNEY CHECK]** |
+| Parents’ own claims; mother’s injuries | Two years from the malpractice, six-month discovery rule | MCL 600.5805(8), 600.5838a |
+| Wrongful death of the baby | Two years; saving provision for the personal representative | MCL 600.2922, 600.5852 |
 | Notice of intent | Served on every defendant 182 days before suit | MCL 600.2912b |
 | Affidavit of merit | Filed with the complaint | MCL 600.2912d |
 | Expert qualifications | Same specialty and board certification | MCL 600.2169 |
@@ -142,11 +142,11 @@ A stillbirth or neonatal death from unrecognized fetal distress is brought under
 ## Why metro Detroit families call ATLAW for fetal distress cases
 
 - **Thirteen years, more than 10,000 cases, more than $100 million recovered.**
-- **The strip first.** We request the electronic monitoring archive by name and send a preservation letter the day we are retained. **[CONFIRM]**
-- **An honest first answer.** We have the strip, the gases, and the MRI read before we tell a family whether the injury was preventable, and when it was not, we say so. **[CONFIRM]**
-- **The experts the case requires**: obstetrics and maternal-fetal medicine, labor and delivery nursing, neonatology, pediatric neurology, pediatric neuroradiology, life care planning, and economics. **[CONFIRM: expert network]**
+- **The strip first.** We request the complete electronic fetal monitoring archive and send preservation letters to the hospital.
+- **An honest first answer.** We have the strip, the gases, and the MRI read before we tell a family whether the injury was preventable, and when it was not, we say so.
+- **The experts the case requires**: obstetrics and maternal-fetal medicine, labor and delivery nursing, neonatology, pediatric neurology, pediatric neuroradiology, life care planning, and economics, with reviewing experts who meet Michigan’s same-specialty requirements (MCL 600.2169).
 - **Every claim, every clock**: the child’s, the mother’s, the parents’, and the estate’s if the baby died, each calendared.
-- **Settlements structured to protect the child’s benefits.**  **[CONFIRM: special needs planning coordination]**
+- **Settlements structured to protect the child’s benefits**, coordinated where needed with special needs planning professionals.
 - **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Families come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 - **Languages.** Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish.
 - **No fee unless we recover.** Contingency fee ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs. No cost for the first conversation.

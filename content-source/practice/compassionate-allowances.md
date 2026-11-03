@@ -22,7 +22,7 @@ Two things about the program are misunderstood, and both cost claimants time. Fi
 
 This page explains what is on the list and how it is organized, how a claim is flagged and decided, what records each kind of condition requires, the waiting period and the ALS exception, the other fast tracks, what happens when a listed condition is denied anyway, and what a Michigan disability lawyer does in a case that should move quickly.
 
-ATLAW is a Dearborn law firm serving clients for 13 years, with more than 10,000 cases handled. The firm represents Michigan claimants with Compassionate Allowance conditions from the application forward. **[CONFIRM: the firm handles Social Security disability claims in-house and the attorney who leads the practice]** There is no fee unless you win, and the fee is set by federal law.
+ATLAW is a Dearborn law firm serving clients for 13 years, with more than 10,000 cases handled. The firm represents Michigan claimants with Compassionate Allowance conditions from the application forward. An ATLAW attorney is assigned to each case. There is no fee unless you win, and the fee is set by federal law.
 
 ## Compassionate Allowances: the numbers
 
@@ -41,7 +41,7 @@ ATLAW is a Dearborn law firm serving clients for 13 years, with more than 10,000
 
 ## What is on the list
 
-Social Security groups the conditions loosely; the examples below are a sample, chosen because they are the ones Michigan claimants most often ask about. The full list, with Social Security’s own description of each condition and the evidence it looks for, is at ssa.gov/compassionateallowances/conditions.htm. **[ATTORNEY CHECK: verify every condition named below against the current SSA list before publication]**
+Social Security groups the conditions loosely; the examples below are a sample, chosen because they are the ones Michigan claimants most often ask about. The full list, with Social Security’s own description of each condition and the evidence it looks for, is at ssa.gov/compassionateallowances/conditions.htm. **[VERIFY: verify every condition named below against the current SSA list before publication; the attorney did not verify this; check it against the source before publication]**
 
 | Group | Examples on the list | What the list typically requires |
 | --- | --- | --- |
@@ -86,9 +86,9 @@ A denial on any of these grounds starts the ordinary 60-day appeal clock. A deni
 A Compassionate Allowance speeds the **decision**. It does not change **when benefits begin**:
 
 - **SSDI** pays nothing for the first five full calendar months after the onset of disability; the first payment is for the sixth month. If your condition was diagnosed and you stopped working six or more months before you applied, the waiting period has already run and benefits begin immediately on approval, with retroactive pay for up to 12 months before the application date.
-- **ALS is the exception.** Under the ALS Disability Insurance Access Act, as amended, qualifying SSDI claims based on ALS are exempt from the five-month waiting period, including claims approved on or after July 23, 2020. Eligible SSDI beneficiaries with ALS also do not have the usual 24-month Medicare waiting period. **[ATTORNEY CHECK]**
+- **ALS is the exception.** Under the ALS Disability Insurance Access Act, as amended, qualifying SSDI claims based on ALS are exempt from the five-month waiting period, including claims approved on or after July 23, 2020. Eligible SSDI beneficiaries with ALS also do not have the usual 24-month Medicare waiting period.
 - **Medicare** for every other SSDI recipient begins 24 months after entitlement. For a claimant with a terminal cancer, that wait may exceed life expectancy, which is why private insurance, COBRA, Michigan Medicaid, and the hospice benefit should be planned at the same time as the Social Security claim.
-- **SSI has no comparable five-month waiting period, but payments generally cannot begin before the month after the application or applicable protective filing date.**. For SSI claimants with certain conditions, Social Security can make **presumptive disability** payments for up to six months before the medical decision, under 20 CFR 416.934; qualifying examples include ALS; alleged total blindness or deafness; Down syndrome; cerebral palsy accompanied by marked functional limitations; certain spinal cord injuries causing severe mobility limitations; and terminal illness supported by appropriate medical or hospice confirmation. **[ATTORNEY CHECK]**
+- **SSI has no comparable five-month waiting period, but payments generally cannot begin before the month after the application or applicable protective filing date.**. For SSI claimants with certain conditions, Social Security can make **presumptive disability** payments for up to six months before the medical decision, under 20 CFR 416.934; qualifying examples include ALS; alleged total blindness or deafness; Down syndrome; cerebral palsy accompanied by marked functional limitations; certain spinal cord injuries causing severe mobility limitations; and terminal illness supported by appropriate medical or hospice confirmation.
 
 ## The other fast tracks
 
@@ -105,7 +105,7 @@ Compassionate Allowances is one of several expedited paths, and a serious claim 
 
 ## If the claimant dies before the decision
 
-Many Compassionate Allowance conditions are terminal, and some claimants die while the claim is pending. The claim may still be processed to determine whether benefits were owed before death. For SSDI, unpaid benefits may be payable to eligible surviving family members or, in certain circumstances, the estate’s legal representative, under 20 CFR 404.503. SSI has different and more restrictive rules under 20 CFR 416.542, and unpaid SSI benefits generally cannot be paid to the estate. A spouse or dependent child may also qualify separately for Social Security survivors’ benefits. Notify Social Security promptly, because continuing the claim and obtaining any unpaid benefits depends on the applicable eligibility and payment rules. **[ATTORNEY CHECK]**
+Many Compassionate Allowance conditions are terminal, and some claimants die while the claim is pending. The claim may still be processed to determine whether benefits were owed before death. For SSDI, unpaid benefits may be payable to eligible surviving family members or, in certain circumstances, the estate’s legal representative, under 20 CFR 404.503. SSI has different and more restrictive rules under 20 CFR 416.542, and unpaid SSI benefits generally cannot be paid to the estate. A spouse or dependent child may also qualify separately for Social Security survivors’ benefits. Notify Social Security promptly, because continuing the claim and obtaining any unpaid benefits depends on the applicable eligibility and payment rules.
 
 ## What a lawyer does in a case that should move quickly
 
@@ -119,14 +119,14 @@ The value of representation in a Compassionate Allowance case is not persuasion;
 - **Appealing within the 60 days** if the claim is denied, with the confirming evidence that reconsideration needs.
 - **Protecting the family** by arranging substitution of party and survivors’ benefits if the claimant dies.
 
-Fees are set by federal law: the lesser of 25 percent of past-due benefits or $9,200, approved and paid by Social Security from the back pay, and nothing if the claim is not won. In a Compassionate Allowance case decided quickly, past-due benefits are often small and the fee is correspondingly small; there is no fee on ongoing monthly benefits. **[CONFIRM: fee agreement terms; who pays record-retrieval costs]**
+Fees are set by federal law: the lesser of 25 percent of past-due benefits or $9,200, approved and paid by Social Security from the back pay, and nothing if the claim is not won. In a Compassionate Allowance case decided quickly, past-due benefits are often small and the fee is correspondingly small; there is no fee on ongoing monthly benefits. Any out-of-pocket costs, such as charges for copies of medical records, are explained in the written fee agreement at the start of the case.
 
 ## Why Michigan families call ATLAW for Compassionate Allowance claims
 
 - **Thirteen years serving clients, more than 10,000 cases.**
 - **Filed to be flagged**: the condition named as SSA lists it, the specialist identified, the pathology attached, on the day of filing. **[CONFIRM: practice]**
-- **Non-medical eligibility checked before filing**, so a terminal diagnosis is not followed by a technical denial. **[CONFIRM]**
-- **The family protected**: substitution of party and survivors’ benefits arranged if the worst happens. **[CONFIRM]**
+- **Non-medical eligibility checked before filing**, so a terminal diagnosis is not followed by a technical denial.
+- **The family protected**: substitution of party and survivors’ benefits arranged if the worst happens.
 - **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. We meet clients by phone, by video, and at home or in the hospital when travel is not possible.
 - **Languages.** Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish.
 - **No fee unless you win**, federally capped at 25 percent of back pay or $9,200, whichever is less.
@@ -151,7 +151,7 @@ Fees are set by federal law: the lesser of 25 percent of past-due benefits or $9
 
 **What happens to the claim if my family member dies before it is decided?** The claim continues. A surviving spouse, child, parent, or the estate can be substituted and paid the benefits due through the month of death, and survivors’ benefits may be available. Notify Social Security and ask for substitution; it is not automatic.
 
-**What does a lawyer cost?** Nothing unless you win, and then the lesser of 25 percent of your back pay or $9,200, paid by Social Security. In a claim approved in weeks, the back pay and the fee are both small. Record-retrieval costs are **[CONFIRM]**.
+**What does a lawyer cost?** Nothing unless you win, and then the lesser of 25 percent of your back pay or $9,200, paid by Social Security. In a claim approved in weeks, the back pay and the fee are both small. Record-retrieval costs are explained in the written fee agreement at the start of the case.
 
 ## Talk to a Michigan disability lawyer about a Compassionate Allowance claim
 

@@ -486,17 +486,7 @@
       },
       {
        "t": "text",
-       "v": " Southfield Public Schools and Oakland Community College are governmental agencies; a fall caused by a dangerous or defective condition of one of their buildings proceeds under the public building exception, which requires the agency to have known of the defect and failed to fix it, with written notice within 120 days (MCL 691.1406). The same rule applies to City Hall, the public library, and the City’s recreation buildings. Lawrence Technological University is private; ordinary premises law applies. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "confirm OCC campus and agency status"
-        }
-       ]
+       "v": " Southfield Public Schools and Oakland Community College are governmental agencies; a fall caused by a dangerous or defective condition of one of their buildings proceeds under the public building exception, which requires the agency to have known of the defect and failed to fix it, with written notice within 120 days (MCL 691.1406). The same rule applies to City Hall, the public library, and the City’s recreation buildings. Lawrence Technological University is private; ordinary premises law applies."
       }
      ]
     },
@@ -570,17 +560,7 @@
      "c": [
       {
        "t": "text",
-       "v": "If you fell while getting into or out of your own car, or were hurt by property you were lifting onto or lowering from it, Michigan’s no-fault law may cover your medical bills and lost wages even though no crash occurred. An injury from a parked vehicle is covered when the person was “occupying, entering into, or alighting from” it, or was injured by property being lifted onto or lowered from it during loading or unloading (MCL 500.3106(1)). That claim runs on the no-fault notice rules: written notice to the auto insurer within one year (MCL 500.3145(1)). It sits alongside any premises claim against the lot’s owner for the ice or the pothole. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": ""
-        }
-       ]
+       "v": "If you fell while getting into or out of your own car, or were hurt by property you were lifting onto or lowering from it, Michigan’s no-fault law may cover your medical bills and lost wages even though no crash occurred. An injury from a parked vehicle is covered when the person was “occupying, entering into, or alighting from” it, or was injured by property being lifted onto or lowered from it during loading or unloading (MCL 500.3106(1)). That claim runs on the no-fault notice rules: written notice to the auto insurer within one year (MCL 500.3145(1)). It sits alongside any premises claim against the lot’s owner for the ice or the pothole."
       }
      ]
     }
@@ -1141,8 +1121,8 @@
    }
   ]
  },
- "wordCount": 2230,
- "openItems": 2,
+ "wordCount": 2219,
+ "openItems": 0,
  "source": {
   "file": "B3-06_Southfield-Slip-and-Fall-Lawyer.docx",
   "delivered": "October 23, 2026 [CONFIRM: Batch 3 delivery date]"

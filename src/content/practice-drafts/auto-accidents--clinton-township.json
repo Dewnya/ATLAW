@@ -1068,17 +1068,7 @@
        [
         {
          "t": "text",
-         "v": "MCL 600.5851(1) "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "ATTORNEY CHECK",
-           "v": ""
-          }
-         ]
+         "v": "MCL 600.5851(1)"
         }
        ]
       ]
@@ -1251,8 +1241,8 @@
    }
   ]
  },
- "wordCount": 2551,
- "openItems": 3,
+ "wordCount": 2548,
+ "openItems": 2,
  "source": {
   "file": "B3-67_Clinton-Township-Car-Accident-Lawyer.docx",
   "delivered": "October 25, 2026 [CONFIRM: Batch 3 delivery date]"

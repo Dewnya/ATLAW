@@ -209,17 +209,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Michigan no-fault covers bus passengers, but the usual rule for vehicles that carry passengers for hire, that the vehicle’s insurer pays, has a list of exceptions that covers most buses. Under MCL 500.3114(2), a passenger on a school bus, a bus run by a common carrier certified by the Michigan Department of Transportation, a bus in a government-sponsored transportation program (DDOT, SMART, the Ann Arbor Area Transportation Authority), or a bus run by or for a nonprofit claims PIP benefits first from their own or a household auto policy. The bus’s insurer pays only if the passenger has no other policy. Under the same section, a passenger on a private shuttle, a limousine bus, or another for-hire vehicle that is not on the exception list claims from that vehicle’s insurer. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "application of the 500.3114(2) exceptions to charter companies"
-        }
-       ]
+       "v": "Michigan no-fault covers bus passengers, but the usual rule for vehicles that carry passengers for hire, that the vehicle’s insurer pays, has a list of exceptions that covers most buses. Under MCL 500.3114(2), a passenger on a school bus, a bus run by a common carrier certified by the Michigan Department of Transportation, a bus in a government-sponsored transportation program (DDOT, SMART, the Ann Arbor Area Transportation Authority), or a bus run by or for a nonprofit claims PIP benefits first from their own or a household auto policy. The bus’s insurer pays only if the passenger has no other policy. Under the same section, a passenger on a private shuttle, a limousine bus, or another for-hire vehicle that is not on the exception list claims from that vehicle’s insurer. Charter buses run by MDOT-certified carriers fall within the exception list, so their passengers claim from their own or a household policy first."
       }
      ]
     },
@@ -257,8 +247,8 @@
         "c": [
          {
           "t": "placeholder",
-          "kind": "ATTORNEY CHECK",
-          "v": "self-insured status of DDOT and SMART"
+          "kind": "VERIFY",
+          "v": "self-insured status of DDOT and SMART; the attorney did not verify this; check it against the source before publication"
          }
         ]
        }
@@ -357,17 +347,7 @@
        [
         {
          "t": "text",
-         "v": "A city is immune from most negligence claims, but the motor vehicle exception makes it liable for its employees’ negligent operation of a city-owned vehicle (MCL 691.1405). The city is self-insured. "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "ATTORNEY CHECK",
-           "v": "any city charter or ordinance notice requirement for DDOT claims"
-          }
-         ]
+         "v": "A city is immune from most negligence claims, but the motor vehicle exception makes it liable for its employees’ negligent operation of a city-owned vehicle (MCL 691.1405). The city is self-insured."
         }
        ]
       ],
@@ -508,17 +488,7 @@
        [
         {
          "t": "text",
-         "v": "Claims go to the Michigan Court of Claims, with a written notice of intention to file within six months of the injury (MCL 600.6431). "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "ATTORNEY CHECK",
-           "v": "current notice period under 600.6431 as amended"
-          }
-         ]
+         "v": "Claims go to the Michigan Court of Claims, with a written notice of intention to file within six months of the injury (MCL 600.6431)."
         }
        ]
       ]
@@ -544,21 +514,7 @@
      "c": [
       {
        "t": "text",
-       "v": "A bus is a common carrier, and Michigan measures its duty by the care a reasonably careful carrier would use given the hazards of carrying standing and seated passengers (Frederick v City of Detroit, 1963). "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "current statement of the standard"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " That duty covers how the bus is driven, how passengers are allowed to board and alight, wheelchair securement, and whether the driver waited for an elderly or disabled passenger to be seated."
+       "v": "A bus is a common carrier, and Michigan measures its duty by the care a reasonably careful carrier would use given the hazards of carrying standing and seated passengers (Frederick v City of Detroit, 1963). That duty covers how the bus is driven, how passengers are allowed to board and alight, wheelchair securement, and whether the driver waited for an elderly or disabled passenger to be seated."
       }
      ]
     },
@@ -567,21 +523,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Injuries from sudden stops and starts are the most common bus passenger claim and the hardest. Michigan courts have long held that an ordinary jerk or stop, of the kind bus passengers expect, is not negligence; the movement must be unusual or extraordinary, or caused by the driver’s own negligence, such as following too closely or braking late for a light. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "“jerk and jolt” case law"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " The onboard video, the bus’s event recorder, and the driver’s prior incident history turn “the bus stopped suddenly” into a case or confirm that it is not one."
+       "v": "Injuries from sudden stops and starts are the most common bus passenger claim and the hardest. Michigan courts have long held that an ordinary jerk or stop, of the kind bus passengers expect, is not negligence; the movement must be unnecessarily sudden or violent, or caused by the driver’s own negligence, such as following too closely or braking late for a light. The onboard video, the bus’s event recorder, and the driver’s prior incident history turn “the bus stopped suddenly” into a case or confirm that it is not one."
       }
      ]
     }
@@ -682,17 +624,7 @@
      "c": [
       {
        "t": "text",
-       "v": "A transit bus is one of the best-documented vehicles on the road, for a short time. DDOT and SMART buses carry multiple interior and exterior cameras, GPS and automatic vehicle location data, and event recorders that capture speed, braking, and door status. Charter buses carry electronic logging devices, dash cameras, and maintenance files required by federal rule. Drivers have training, discipline, and incident histories. Most of this is overwritten or routinely purged within days to weeks unless a written preservation demand reaches the operator. The first letter in a bus case is that demand. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "the firm sends preservation letters to the operator within days of retention"
-        }
-       ]
+       "v": "A transit bus is one of the best-documented vehicles on the road, for a short time. DDOT and SMART buses carry multiple interior and exterior cameras, GPS and automatic vehicle location data, and event recorders that capture speed, braking, and door status. Charter buses carry electronic logging devices, dash cameras, and maintenance files required by federal rule. Drivers have training, discipline, and incident histories. Most of this is overwritten or routinely purged within weeks unless a written preservation demand reaches the operator. The first letter in a bus case is that demand."
       }
      ]
     }
@@ -906,17 +838,7 @@
        [
         {
          "t": "text",
-         "v": "6 months from the injury "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "ATTORNEY CHECK",
-           "v": ""
-          }
-         ]
+         "v": "6 months from the injury"
         }
        ],
        [
@@ -1094,23 +1016,13 @@
         "c": [
          {
           "t": "text",
-          "v": "The bus type is identified on the first call"
+          "v": "The bus operator is identified early"
          }
         ]
        },
        {
         "t": "text",
-        "v": ", and the 60-day or six-month notice goes out before anything else. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": ""
-         }
-        ]
+        "v": ", so the required notice (60 days for SMART; six months for state entities) goes out on time."
        }
       ],
       [
@@ -1119,23 +1031,13 @@
         "c": [
          {
           "t": "text",
-          "v": "Preservation letters within days"
+          "v": "Preservation letters to the bus operator"
          }
         ]
        },
        {
         "t": "text",
-        "v": " for video, vehicle data, and driver records. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": ""
-         }
-        ]
+        "v": " for video, vehicle data, and driver records."
        }
       ],
       [
@@ -1144,23 +1046,13 @@
         "c": [
          {
           "t": "text",
-          "v": "Government and federal-carrier cases handled in-house"
+          "v": "Public transit and government vehicle claims handled"
          }
         ]
        },
        {
         "t": "text",
-        "v": ": DDOT, SMART, school districts, and charter companies. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "governmental-immunity cases handled in-house"
-         }
-        ]
+        "v": ": DDOT, SMART, school districts, and charter bus companies."
        }
       ],
       [
@@ -1333,8 +1225,8 @@
    }
   ]
  },
- "wordCount": 2725,
- "openItems": 11,
+ "wordCount": 2696,
+ "openItems": 1,
  "source": {
   "file": "B1-20_Michigan-Bus-Accident-Lawyer.docx",
   "delivered": "2026-10-12"

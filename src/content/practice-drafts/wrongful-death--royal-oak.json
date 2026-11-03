@@ -1537,17 +1537,7 @@
        [
         {
          "t": "text",
-         "v": "MCL 600.5805(2), 600.5827, 600.2922 "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "ATTORNEY CHECK",
-           "v": ""
-          }
-         ]
+         "v": "MCL 600.5805(2), 600.5827, 600.2922"
         }
        ]
       ],
@@ -2174,8 +2164,8 @@
    }
   ]
  },
- "wordCount": 3624,
- "openItems": 2,
+ "wordCount": 3621,
+ "openItems": 1,
  "source": {
   "file": "B4-25_Royal-Oak-Wrongful-Death-Lawyer.docx",
   "delivered": "October 25, 2026 [CONFIRM: Batch 4 delivery date]"

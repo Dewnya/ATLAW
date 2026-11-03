@@ -8,7 +8,7 @@ seoDescription: Injured in Ypsilanti? The city and the township had 1,907 crashe
 h1: Personal Injury Law Firm Serving Ypsilanti, MI
 tagline: Two governments that share one name: a city of about 20,600 around Eastern Michigan University, and a township of about 55,700 around it. Each has its own roads, police, and court, so it matters which one you were hurt in.
 primaryKeyword: personal injury law firm ypsilanti (no Semrush volume)
-secondaryKeywords: ypsilanti accident (20/mo); injured in ypsilanti; ypsilanti township injury. The lawyer/attorney cluster (about 280/mo) is served by /personal-injury/personal-injury/ypsilanti
+secondaryKeywords: ypsilanti accident (20/mo); injured in ypsilanti; ypsilanti township injury. The lawyer/attorney cluster (about 280/mo) is served by /personal-injury/ypsilanti
 source: B4-05_Ypsilanti-Personal-Injury-Law-Firm.docx
 delivered: October 25, 2026 [CONFIRM: Batch 4 delivery date]
 ---
@@ -22,7 +22,7 @@ In 2024, the Michigan State Police recorded 838 crashes in the city and 1,069 in
 ATLAW is a personal injury firm in Dearborn, about 25 miles east of Ypsilanti on I-94. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across southeast Michigan. This page explains what is particular about an Ypsilanti injury claim, starting with which Ypsilanti it happened in.
 
 - Our [Washtenaw County page](/areas-served/washtenaw-county) covers the county.
-- Our [Ypsilanti personal injury lawyer page](/personal-injury/personal-injury/ypsilanti) explains how a claim proceeds from the first week to the check.
+- Our [Ypsilanti personal injury lawyer page](/personal-injury/ypsilanti) explains how a claim proceeds from the first week to the check.
 
 We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 

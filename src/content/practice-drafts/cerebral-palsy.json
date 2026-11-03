@@ -48,17 +48,7 @@
    "c": [
     {
      "t": "text",
-     "v": "ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across Wayne, Oakland, Macomb, and Washtenaw counties. Cerebral palsy cases are handled on contingency: no fee unless we recover money for your family, and the first conversation is free. "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "CONFIRM",
-       "v": "the firm handles birth injury cases in-house, and the attorney who leads them"
-      }
-     ]
+     "v": "ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across Wayne, Oakland, Macomb, and Washtenaw counties. Cerebral palsy cases are handled on contingency: no fee unless we recover money for your family, and the first conversation is free. ATLAW handles these cases and works with qualified medical experts to review each one."
     }
    ]
   }
@@ -1221,17 +1211,7 @@
        [
         {
          "t": "text",
-         "v": "MCL 600.5805(8), 600.5838a "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "ATTORNEY CHECK",
-           "v": ""
-          }
-         ]
+         "v": "MCL 600.5805(8), 600.5838a"
         }
        ]
       ],
@@ -1700,26 +1680,7 @@
       },
       {
        "t": "text",
-       "v": " that pays fixed, tax-free amounts for the child’s lifetime. The trust pays for what Medicaid does not: therapies beyond the covered limits, a vehicle, a home, respite care, and quality of life. Where Medicaid has paid qualifying medical expenses, Michigan’s Medicaid agency may assert reimbursement rights against the settlement under MCL 400.106. Any valid claim must be evaluated under applicable state and federal rules. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "the firm coordinates special needs trust and structured settlement planning; names of planners used"
-        },
-        {
-         "t": "text",
-         "v": " "
-        },
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "lien and trust statements"
-        }
-       ]
+       "v": " that pays fixed, tax-free amounts for the child’s lifetime. The trust pays for what Medicaid does not: therapies beyond the covered limits, a vehicle, a home, respite care, and quality of life. Where Medicaid has paid qualifying medical expenses, Michigan’s Medicaid agency may assert reimbursement rights against the settlement under MCL 400.106. Any valid claim must be evaluated under applicable state and federal rules. ATLAW coordinates with special needs planning and structured settlement professionals where a settlement must protect a client’s public benefits."
       }
      ]
     }
@@ -1755,17 +1716,7 @@
        },
        {
         "t": "text",
-        "v": " We obtain the MRI and the birth records and have them read before we tell a family whether their child’s CP was preventable. When it was not, we say so. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": ""
-         }
-        ]
+        "v": " We obtain the MRI and the birth records and have them read before we tell a family whether their child’s CP was preventable. When it was not, we say so."
        }
       ],
       [
@@ -1780,17 +1731,7 @@
        },
        {
         "t": "text",
-        "v": ": obstetrics and maternal-fetal medicine, labor nursing, neonatology, pediatric neurology, pediatric neuroradiology, life care planning, and economics. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "expert network"
-         }
-        ]
+        "v": ": obstetrics and maternal-fetal medicine, labor nursing, neonatology, pediatric neurology, pediatric neuroradiology, life care planning, and economics, with reviewing experts who meet Michigan’s same-specialty requirements (MCL 600.2169)."
        }
       ],
       [
@@ -1805,17 +1746,7 @@
        },
        {
         "t": "text",
-        "v": ", including the electronic fetal monitoring data, before the seven-year retention period runs. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": ""
-         }
-        ]
+        "v": ", including the electronic fetal monitoring data, before the seven-year retention period runs."
        }
       ],
       [
@@ -1835,23 +1766,13 @@
         "c": [
          {
           "t": "text",
-          "v": "Settlements structured to protect Medicaid, SSI, and waiver services."
+          "v": "Settlements structured to protect Medicaid, SSI, and waiver services"
          }
         ]
        },
        {
         "t": "text",
-        "v": "  "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "special needs planning coordination"
-         }
-        ]
+        "v": ", coordinated where needed with special needs planning professionals."
        }
       ],
       [
@@ -2050,8 +1971,8 @@
    }
   ]
  },
- "wordCount": 3740,
- "openItems": 8,
+ "wordCount": 3741,
+ "openItems": 0,
  "source": {
   "file": "B2-07_Michigan-Cerebral-Palsy-Lawyer.docx",
   "delivered": "2026-10-16"

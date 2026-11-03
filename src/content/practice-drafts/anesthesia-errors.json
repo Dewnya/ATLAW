@@ -291,8 +291,8 @@
         "c": [
          {
           "t": "placeholder",
-          "kind": "ATTORNEY CHECK",
-          "v": "current dental anesthesia permit rules"
+          "kind": "VERIFY",
+          "v": "current dental anesthesia permit rules; the attorney did not verify this; check it against the source before publication"
          }
         ]
        }
@@ -498,17 +498,7 @@
        [
         {
          "t": "text",
-         "v": "MCL 600.1483 "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "ATTORNEY CHECK",
-           "v": "2026 Treasury figures"
-          }
-         ]
+         "v": "MCL 600.1483"
         }
        ]
       ],
@@ -1045,17 +1035,7 @@
        [
         {
          "t": "text",
-         "v": "MCL 600.5851(7) "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "ATTORNEY CHECK",
-           "v": ""
-          }
-         ]
+         "v": "MCL 600.5851(7)"
         }
        ]
       ],
@@ -1107,23 +1087,13 @@
         "c": [
          {
           "t": "text",
-          "v": "Board-certified anesthesiologists and CRNAs as reviewing experts"
+          "v": "Anesthesiologists and CRNAs as reviewing experts"
          }
         ]
        },
        {
         "t": "text",
-        "v": ", as Michigan’s same-specialty rule requires. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "expert network"
-         }
-        ]
+        "v": ", meeting Michigan’s same-specialty requirements (MCL 600.2169)."
        }
       ],
       [
@@ -1138,17 +1108,7 @@
        },
        {
         "t": "text",
-        "v": ", so the hospital’s “independent contractor” defense is met with the ostensible agency rule. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": ""
-         }
-        ]
+        "v": ", so the hospital’s “independent contractor” defense is met with the ostensible agency rule."
        }
       ],
       [
@@ -1336,8 +1296,8 @@
    }
   ]
  },
- "wordCount": 2639,
- "openItems": 5,
+ "wordCount": 2638,
+ "openItems": 1,
  "source": {
   "file": "B2-03_Michigan-Anesthesia-Error-Lawyer.docx",
   "delivered": "2026-10-16"

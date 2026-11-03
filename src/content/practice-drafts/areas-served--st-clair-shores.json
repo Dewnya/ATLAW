@@ -711,17 +711,7 @@
       [
        {
         "t": "text",
-        "v": "Boating, jet-ski, dock, and marina injuries on Lake St. Clair "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "whether to name"
-         }
-        ]
+        "v": "Boating, jet-ski, dock, and marina injuries on Lake St. Clair"
        }
       ],
       [
@@ -1275,8 +1265,8 @@
    }
   ]
  },
- "wordCount": 2320,
- "openItems": 1,
+ "wordCount": 2316,
+ "openItems": 0,
  "source": {
   "file": "areas-served__st-clair-shores.docx",
   "delivered": "2026-10-16"

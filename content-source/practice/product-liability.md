@@ -39,14 +39,14 @@ Michigan’s rules are in the Revised Judicature Act, MCL 600.2945 through 600.2
 | Provision | What it says | Statute |
 | --- | --- | --- |
 | **Design defect standard** | A manufacturer or seller is not liable for a design defect unless the product was not reasonably safe when it left the defendant’s control and a practical and technically feasible alternative design was available that would have prevented the harm without significantly impairing the product’s usefulness or desirability and without creating equal or greater risk | MCL 600.2946(2) |
-| **Compliance with government standards** | Compliance with federal or state safety standards, or agency approval, relevant to the harm is a defense in production-defect claims that the plaintiff must overcome | MCL 600.2946(4) **[ATTORNEY CHECK: current text and whether the presumption is rebuttable]** |
+| **Compliance with government standards** | Compliance with relevant federal or state safety standards, or agency approval, creates a rebuttable presumption that the manufacturer or seller is not liable, in any product liability action | MCL 600.2946(4) |
 | **Warnings** | No duty to warn of a risk that is or should be obvious to a reasonably prudent user or is a matter of common knowledge; a manufacturer’s duty to warn runs to foreseeable users; a sophisticated user may be presumed to know the risk | MCL 600.2947(4), 600.2948(2) |
 | **Misuse** | No liability for harm caused by misuse that was not reasonably foreseeable; whether misuse was foreseeable is a question of law for the judge | MCL 600.2947(2) |
 | **Alteration** | No liability for harm caused by an alteration or modification that was not reasonably foreseeable | MCL 600.2947(1) |
 | **Non-manufacturing sellers** | A seller other than the manufacturer is liable only if it failed to exercise reasonable care (including a breach of implied warranty) or breached an express warranty | MCL 600.2947(6) |
-| **Non-economic damages cap** | Pain and suffering and other non-economic damages are capped at $280,000 adjusted for inflation, or $500,000 adjusted where the defect caused death or permanent loss of a vital bodily function; the 2026 figures set by the State Treasurer are $596,400 and $1,065,000 | MCL 600.2946a **[ATTORNEY CHECK: 2026 Treasury notice]** |
+| **Non-economic damages cap** | Pain and suffering and other non-economic damages are capped at $280,000 adjusted for inflation, or $500,000 adjusted where the defect caused death or permanent loss of a vital bodily function; the 2026 figures set by the State Treasurer are $596,400 and $1,065,000 | MCL 600.2946a |
 | **Gross misconduct exception** | If the court finds the defendant had actual knowledge the product was defective and that there was a substantial likelihood it would cause the injury, and willfully disregarded that knowledge, the design-defect standard, the cap, and the misuse and alteration defenses do not apply | MCL 600.2949a |
-| **Products more than ten years old** | For a product in use ten years or more, the plaintiff must prove the case without the benefit of any presumption | MCL 600.5805(12) **[ATTORNEY CHECK: subsection number]** |
+| **Products more than ten years old** | For a product in use ten years or more, the plaintiff must prove the case without the benefit of any presumption | MCL 600.5805(12) |
 | **Intoxication** | If the injured person was impaired by alcohol or drugs and, as a result, was 50% or more the cause of the injury, the defendant is not liable | MCL 600.2955a |
 | **Comparative fault** | Damages are reduced by the plaintiff’s percentage of fault; non-economic damages are barred above 50% | MCL 600.2959 |
 
@@ -56,7 +56,7 @@ Michigan’s design-defect rule, which requires proof of a feasible alternative 
 
 From 1996 to February 2024, MCL 600.2946(5) provided that a drug approved by the FDA and labeled in compliance with FDA requirements was not defective or unreasonably dangerous, with narrow exceptions for fraud on the FDA and bribery. Michigan was the only state with such a rule, and it barred Michigan residents from claims other Americans brought over opioids, diabetes drugs, antipsychotics, and contraceptives. The legislature repealed the provision in 2023 Public Act 309, effective February 13, 2024.
 
-Michigan residents injured by a prescription or over-the-counter drug can now bring product liability claims under the same statute that governs other products, subject to its design-defect standard, its cap, and federal preemption rules that apply to drug labeling. **[ATTORNEY CHECK: application of the repeal to injuries before February 13, 2024]** Medical devices were never covered by the drug immunity; device claims are governed by the Michigan statute and by federal preemption for devices approved through the FDA’s premarket approval process.
+Michigan residents injured by a prescription or over-the-counter drug can now bring product liability claims under the same statute that governs other products, subject to its design-defect standard, its cap, and federal preemption rules that apply to drug labeling. The repeal took effect February 13, 2024, and courts have treated it as applying to injuries on or after that date. Medical devices were never covered by the drug immunity; device claims are governed by the Michigan statute and by federal preemption for devices approved through the FDA’s premarket approval process.
 
 ## The three kinds of product defect
 
@@ -90,7 +90,7 @@ Product liability cases are won and lost on physical evidence, and the defendant
 | **Identify the model, serial number, lot number, and date of manufacture** | Recall status, the ten-year rule, and the applicable design |
 | **Search recalls**: NHTSA for vehicles, CPSC for consumer products, FDA for drugs and devices | A recall is evidence the manufacturer knew; it is not required for a claim |
 
-**[CONFIRM: the firm arranges storage and expert inspection of the product, and sends preservation letters to the manufacturer and the insurer]**
+We arrange for the product to be stored and inspected by qualified experts, and we send preservation letters to the manufacturer and its insurer.
 
 ## Children’s products, e-bikes, and household hazards
 
@@ -100,8 +100,8 @@ Michigan families see the same product injuries the national recall data shows: 
 
 | Deadline | Time | Statute |
 | --- | --- | --- |
-| Product liability action for injury | 3 years from the injury | MCL 600.5805(12) **[ATTORNEY CHECK: subsection]** |
-| Discovery rule | Michigan does not apply a general discovery rule to product claims; the period runs from the injury, with narrow exceptions | Trentadue v Gorton (2007) **[ATTORNEY CHECK]** |
+| Product liability action for injury | 3 years from the injury | MCL 600.5805(12) |
+| Discovery rule | Michigan does not apply a general discovery rule to product claims; the period runs from the injury, with narrow exceptions | Trentadue v Buckler Automatic Lawn Sprinkler Co, 479 Mich 378 (2007) |
 | Wrongful death from a defective product | 3 years, with saving provisions for the estate | MCL 600.5805, 600.5852 |
 | Breach of warranty (economic loss, commercial buyers) | 4 years from delivery | MCL 440.2725 |
 | Child’s claim | Until the child’s 19th birthday | MCL 600.5851 |
@@ -111,9 +111,9 @@ Michigan families see the same product injuries the national recall data shows: 
 ## Why metro Detroit product-injury clients call ATLAW
 
 - **Thirteen years, more than 10,000 cases, more than $100 million recovered.**
-- **The product is secured first.** Storage, chain of custody, preservation letters, and a joint inspection protocol before any defendant touches it. **[CONFIRM]**
-- **Engineering experts for the alternative-design proof** Michigan requires. **[CONFIRM: the firm retains engineering and human-factors experts in product cases]**
-- **Vehicle defect cases alongside crash cases**, so the product claim is not lost when the insurer salvages the car. **[CONFIRM]**
+- **The product is secured first.** We arrange for the product to be secured and preserved, with chain-of-custody records, preservation letters, and a joint inspection protocol before any testing.
+- **Engineering and human-factors experts** where a product case requires them, including for the alternative-design proof Michigan requires.
+- **Vehicle defect cases alongside crash cases**, so the product claim is not lost when the insurer salvages the car.
 - **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 - **Languages.** Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish.
 - **No fee unless we recover.** ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs. No cost for the first conversation.

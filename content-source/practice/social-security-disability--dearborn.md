@@ -38,7 +38,7 @@ ATLAW is a personal injury and disability firm at 3 Parklane Boulevard in Dearbo
 
 **Supplemental Security Income (SSI)** is for people with little income and few assets, whether or not they worked: $994 a month for an individual in 2026, reduced by other income, with a $2,000 asset limit (home and one vehicle excluded) and Michigan Medicaid. Many claimants qualify for both, and the applications are filed together. See our [SSDI page](/disability/social-security-disability-insurance) and [SSI page](/disability/supplemental-security-income).
 
-**Work history abroad and citizenship.** Work performed outside the United States generally does not earn U.S. work credits for SSDI; the U.S. has totalization agreements that count foreign credits with only a limited list of countries. Work history abroad still matters to the disability decision: Social Security considers the skills and exertion of past work wherever it was done. SSI eligibility for noncitizens is limited to certain categories under federal law. Where either issue applies, it is the first question we answer, before the application is filed. **[ATTORNEY CHECK: totalization summary; noncitizen SSI eligibility summary; confirm the firm wants this paragraph]**
+**Work history abroad and citizenship.** Work performed outside the United States generally does not earn U.S. work credits for SSDI; the U.S. has totalization agreements that count foreign credits with only a limited list of countries. Work history abroad still matters to the disability decision: Social Security considers the skills and exertion of past work wherever it was done. SSI eligibility for noncitizens is limited to certain categories under federal law. Where either issue applies, it is the first question we answer, before the application is filed.
 
 ## The five-step test, as it is applied to a Dearborn claim
 
@@ -48,9 +48,9 @@ Social Security uses a five-step sequential evaluation (20 CFR 404.1520), decidi
 2. **Is your impairment severe and expected to last 12 months or result in death?** A diagnosis is not enough; the record must show functional limits.
 3. **Does your condition meet or equal a Listing?** Meeting one wins the claim here. See our [qualifying impairments page](/disability/qualifying-impairments); some conditions are fast-tracked under [Compassionate Allowances](/disability/compassionate-allowances).
 4. **Can you do your past relevant work?** Social Security assesses your residual functional capacity and compares it to the jobs you held in the past five years, including jobs held abroad.
-5. **Can you do any other work?** Using your RFC, age, education, and work experience under the Medical-Vocational Guidelines (the “grids”). A 55-year-old former line worker limited to sedentary work is generally found disabled under the grids; a 45-year-old with the same limits generally is not. **[ATTORNEY CHECK: grid summary]**
+5. **Can you do any other work?** Using your RFC, age, education, and work experience under the Medical-Vocational Guidelines (the “grids”). A 55-year-old former line worker limited to sedentary work is generally found disabled under the grids; a 45-year-old with the same limits generally is not.
 
-**Language and education.** Since April 2020, Social Security no longer treats inability to communicate in English as a separate education category at step five; education is evaluated by the claimant’s formal schooling and abilities, wherever obtained. **[ATTORNEY CHECK: 85 Fed. Reg. 10586 and current application]** For a Dearborn claimant who does not speak English well, that change makes the medical and vocational evidence carry more of the claim, and makes it more important that the record describes the claimant’s actual limitations accurately.
+**Language and education.** Since April 2020, Social Security no longer treats inability to communicate in English as a separate education category at step five; education is evaluated by the claimant’s formal schooling and abilities, wherever obtained. For a Dearborn claimant who does not speak English well, that change makes the medical and vocational evidence carry more of the claim, and makes it more important that the record describes the claimant’s actual limitations accurately.
 
 ## Your right to an interpreter
 
@@ -58,7 +58,7 @@ Social Security provides a free interpreter at every stage, at the field office,
 
 ## Where the evidence comes from in Dearborn
 
-The claim is the record. We obtain and organize it from every source: Corewell Health Dearborn Hospital and its clinics; Henry Ford Medical Center Fairlane; the independent and hospital-owned practices on Michigan Avenue, Ford Road, and Outer Drive; community health centers that serve Dearborn patients; mental health treatment providers, often the core of a claim and the hardest records to obtain; the plant medical department for Rouge and Ford workers; the John D. Dingell VA Medical Center for veterans; and the Michigan Disability Determination Services consultative examination, which a claimant should attend but should never rely on. **[CONFIRM: provider list wording]** A treating physician’s opinion on your specific functional limits, in a form the regulations recognize (20 CFR 404.1520c), is often the difference at the hearing. Where records from before you came to the United States exist, they can establish onset and severity; translated records are part of the file.
+The claim is the record. We obtain and organize it from every source: Corewell Health Dearborn Hospital and its clinics; Henry Ford Medical Center Fairlane; the independent and hospital-owned practices on Michigan Avenue, Ford Road, and Outer Drive; community health centers that serve Dearborn patients; mental health treatment providers, often the core of a claim and the hardest records to obtain; the plant medical department for Rouge and Ford workers; the John D. Dingell VA Medical Center for veterans; and the Michigan Disability Determination Services consultative examination, which a claimant should attend but should never rely on. A treating physician’s opinion on your specific functional limits, in a form the regulations recognize (20 CFR 404.1520c), is often the difference at the hearing. Where records from before you came to the United States exist, they can establish onset and severity; translated records are part of the file.
 
 ## The stages, and the offices that serve Dearborn
 
@@ -74,12 +74,12 @@ Hearings for Dearborn claimants are scheduled at the Detroit or Livonia hearing 
 
 ## Back pay and the fee
 
-SSDI benefits begin five full months after the established onset date; SSI is not paid for months before the application. Back pay reaches to the onset date (SSDI up to 12 months before the application), and the onset date your lawyer proves sets the amount. The fee is set by federal law: 25 percent of back benefits, capped at the current limit, and nothing if the claim is not approved (42 USC 406(a)). Social Security pays it directly from back pay; ongoing monthly benefits are not subject to it. **[CONFIRM: whether the firm advances record and translation costs]**
+SSDI benefits begin five full months after the established onset date; SSI is not paid for months before the application. Back pay reaches to the onset date (SSDI up to 12 months before the application), and the onset date your lawyer proves sets the amount. The fee is set by federal law: 25 percent of back benefits, capped at the current limit, and nothing if the claim is not approved (42 USC 406(a)). Social Security pays it directly from back pay; ongoing monthly benefits are not subject to it. Any costs for obtaining records or translations are explained in the written fee agreement at the start of the case.
 
 ## How a Dearborn disability claim interacts with other claims
 
-- **Workers’ compensation** for a Rouge, plant, or restaurant injury offsets SSDI (42 USC 424a); see our [Dearborn workers’ compensation page](/personal-injury/workers-compensation/dearborn). **[ATTORNEY CHECK]**
-- **A personal injury settlement** does not reduce SSDI but can affect SSI; see our [Dearborn personal injury lawyer page](/personal-injury/personal-injury/dearborn).
+- **Workers’ compensation** for a Rouge, plant, or restaurant injury offsets SSDI (42 USC 424a); see our [Dearborn workers’ compensation page](/personal-injury/workers-compensation/dearborn).
+- **A personal injury settlement** does not reduce SSDI but can affect SSI; see our [Dearborn personal injury lawyer page](/personal-injury/dearborn).
 - **An employer’s long-term disability plan**, including the automakers’ plans, usually requires you to apply for SSDI and offsets the award, with its own 180-day ERISA appeal deadline (29 CFR 2560.503-1).
 - **VA disability** is evidence Social Security must consider but does not bind it.
 

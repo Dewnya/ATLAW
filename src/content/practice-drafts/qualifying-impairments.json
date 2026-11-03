@@ -74,21 +74,7 @@
    "c": [
     {
      "t": "text",
-     "v": "ATLAW is a Dearborn law firm serving clients for 13 years, with more than 10,000 cases handled. The firm represents Michigan claimants at every stage of the Social Security process. "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "CONFIRM",
-       "v": "the firm handles Social Security disability claims in-house and the attorney who leads the practice"
-      }
-     ]
-    },
-    {
-     "t": "text",
-     "v": " There is no fee unless you win, and the fee is set by federal law."
+     "v": "ATLAW is a Dearborn law firm serving clients for 13 years, with more than 10,000 cases handled. The firm represents Michigan claimants at every stage of the Social Security process. An ATLAW attorney is assigned to each case. There is no fee unless you win, and the fee is set by federal law."
     }
    ]
   }
@@ -224,8 +210,8 @@
          "c": [
           {
            "t": "placeholder",
-           "kind": "ATTORNEY CHECK",
-           "v": "verify against Table 24"
+           "kind": "VERIFY",
+           "v": "verify against Table 24; the attorney did not verify this; check it against the source before publication"
           }
          ]
         }
@@ -254,8 +240,8 @@
          "c": [
           {
            "t": "placeholder",
-           "kind": "ATTORNEY CHECK",
-           "v": ""
+           "kind": "VERIFY",
+           "v": "the attorney did not verify this; check it against the source before publication"
           }
          ]
         }
@@ -425,8 +411,8 @@
        "c": [
         {
          "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "each summary against the current listing text before publication"
+         "kind": "VERIFY",
+         "v": "each summary against the current listing text before publication; the attorney did not verify this; check it against the source before publication"
         }
        ]
       }
@@ -1347,17 +1333,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Two consequences follow. A 52-year-old warehouse worker with a bad back who can no longer lift 20 pounds and has no skills that transfer to a desk job is disabled under the grids even though his MRI does not meet listing 1.15. And a 38-year-old with the same back and the same RFC is not, unless non-exertional limitations (the need to lie down, absences, pain-related loss of concentration) are documented and eliminate the sedentary jobs the vocational expert would otherwise name. Social Security considers the age categories applicable during the period being evaluated. In a borderline situation within a few days to a few months of an older category, SSA considers whether to apply that older category rather than applying age mechanically, under 20 CFR 404.1563(b).). "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": ""
-        }
-       ]
+       "v": "Two consequences follow. A 52-year-old warehouse worker with a bad back who can no longer lift 20 pounds and has no skills that transfer to a desk job is disabled under the grids even though his MRI does not meet listing 1.15. And a 38-year-old with the same back and the same RFC is not, unless non-exertional limitations (the need to lie down, absences, pain-related loss of concentration) are documented and eliminate the sedentary jobs the vocational expert would otherwise name. Social Security considers the age categories applicable during the period being evaluated. In a borderline situation within a few days to a few months of an older category, SSA considers whether to apply that older category rather than applying age mechanically, under 20 CFR 404.1563(b).)."
       }
      ]
     },
@@ -1873,17 +1849,7 @@
        },
        {
         "t": "text",
-        "v": ": function-by-function statements from your treating sources, written to the regulation. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": ""
-         }
-        ]
+        "v": ": function-by-function statements from your treating sources, written to the regulation."
        }
       ],
       [
@@ -1898,21 +1864,7 @@
        },
        {
         "t": "text",
-        "v": " We appear at "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "Detroit, Oak Park, Livonia, and the other offices the firm covers"
-         }
-        ]
-       },
-       {
-        "t": "text",
-        "v": "."
+        "v": " We appear at Michigan hearing offices across the state, including Detroit, Oak Park, and Livonia, and at hearings held by video or phone."
        }
       ],
       [
@@ -1957,17 +1909,7 @@
        },
        {
         "t": "text",
-        "v": ", federally capped at 25 percent of back pay or $9,200, whichever is less. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "fee agreement terms"
-         }
-        ]
+        "v": ", federally capped at 25 percent of back pay or $9,200, whichever is less. The fee agreement is filed with Social Security for approval, and the fee is paid by Social Security from the back pay."
        }
       ]
      ]
@@ -2053,17 +1995,7 @@
    "answer": [
     {
      "t": "text",
-     "v": "No. The Listings, the five-step test, and the grid rules are federal and apply identically in every state. What varies is the hearing office handling the case, its workload, and processing times. Michigan has seven SSA hearing offices, but federal disability eligibility standards remain the same. "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "ATTORNEY CHECK",
-       "v": ""
-      }
-     ]
+     "v": "No. The Listings, the five-step test, and the grid rules are federal and apply identically in every state. What varies is the hearing office handling the case, its workload, and processing times. Michigan has seven SSA hearing offices, but federal disability eligibility standards remain the same."
     }
    ]
   },
@@ -2105,8 +2037,8 @@
    }
   ]
  },
- "wordCount": 3772,
- "openItems": 10,
+ "wordCount": 3817,
+ "openItems": 4,
  "source": {
   "file": "B2-16_Conditions-That-Qualify-for-Disability-Michigan.docx",
   "delivered": "2026-10-16"

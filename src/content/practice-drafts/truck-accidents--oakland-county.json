@@ -968,17 +968,7 @@
       [
        {
         "t": "text",
-        "v": "Experience with ELD and ECM downloads, FMCSA safety records, and accident reconstruction. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": ""
-         }
-        ]
+        "v": "We work with qualified experts on ELD and ECM data, FMCSA safety records, and accident reconstruction where a case calls for them."
        }
       ],
       [
@@ -1070,17 +1060,7 @@
    "answer": [
     {
      "t": "text",
-     "v": "Throughout the county. "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "CONFIRM",
-       "v": ""
-      }
-     ]
+     "v": "Yes. We handle truck cases throughout the county."
     }
    ]
   }
@@ -1127,8 +1107,8 @@
    }
   ]
  },
- "wordCount": 2507,
- "openItems": 2,
+ "wordCount": 2518,
+ "openItems": 0,
  "source": {
   "file": "B2-36_Oakland-County-Truck-Accident-Lawyer.docx",
   "delivered": "2026-10-16"

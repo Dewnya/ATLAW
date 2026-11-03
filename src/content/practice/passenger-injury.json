@@ -1,7 +1,7 @@
 {
  "slug": "passenger-injury",
  "section": "personal-injury",
- "status": "draft",
+ "status": "approved",
  "seoTitle": "Michigan Passenger Injury Lawyer – Injured as a Passenger? Your Rights",
  "seoDescription": "Injured as a passenger in a Michigan crash? Learn whose insurance pays your medical bills, who you can sue (including your own driver), and the one-year deadline. Free review.",
  "h1": "Michigan Passenger Injury Lawyer",
@@ -399,17 +399,7 @@
        },
        {
         "t": "text",
-        "v": ", if they were at fault, through theirs. A passenger is not required to choose. Michigan abolished the rule that once barred passengers from suing the driver who gave them a ride, and nothing in the law prevents a passenger from suing a friend, a spouse, or a parent who was driving negligently. The claim is paid by the driver’s insurer, not by the driver. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "ATTORNEY CHECK",
-          "v": "policy “family member” or “household” exclusions; Michigan courts have limited their enforceability"
-         }
-        ]
+        "v": ", if they were at fault, through theirs. A passenger is not required to choose. Michigan abolished the rule that once barred passengers from suing the driver who gave them a ride, and nothing in the law prevents a passenger from suing a friend, a spouse, or a parent who was driving negligently. The claim is usually paid by the driver’s liability insurer, up to the policy’s limits."
        }
       ],
       [
@@ -1374,8 +1364,8 @@
    }
   ]
  },
- "wordCount": 2847,
- "openItems": 1,
+ "wordCount": 2836,
+ "openItems": 0,
  "source": {
   "file": "B1-16_Michigan-Passenger-Injury-Lawyer.docx",
   "delivered": "2026-10-12"

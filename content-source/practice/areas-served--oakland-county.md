@@ -68,7 +68,7 @@ Source: Michigan State Police, Michigan Traffic Crash Facts 2024, county profile
 
 ## The hospitals
 
-Corewell Health William Beaumont University Hospital in Royal Oak is the county’s Level I trauma center; Corewell Health Troy and Farmington Hills, Henry Ford West Bloomfield, McLaren Oakland and Trinity Health Oakland in Pontiac, Henry Ford Providence Southfield Hospital and Henry Ford Providence Novi Hospital, and DMC Huron Valley-Sinai in Commerce Township are where most Oakland County clients are treated. **[CONFIRM: verify current trauma designations and that the list reflects where the firm’s clients are treated]** We obtain the complete record from each, including the EMS run sheet, which often contains the first account of how the injury happened.
+Corewell Health William Beaumont University Hospital in Royal Oak and Corewell Health Beaumont Troy Hospital treat many Oakland County patients; Corewell Health Farmington Hills, Henry Ford West Bloomfield, McLaren Oakland and Trinity Health Oakland in Pontiac, Henry Ford Providence Southfield Hospital and Henry Ford Providence Novi Hospital, and DMC Huron Valley-Sinai in Commerce Township are where most other Oakland County clients are treated. We obtain the complete record from each, including the EMS run sheet, which often contains the first account of how the injury happened.
 
 ## The cases we handle in Oakland County
 

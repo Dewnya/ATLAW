@@ -433,15 +433,15 @@
        },
        {
         "t": "text",
-        "v": " Michigan law allows sidewalk riding unless a local ordinance prohibits it, and a cyclist on a sidewalk must yield to pedestrians and give an audible signal before passing (MCL 257.660). A cyclist riding across a crosswalk has the protections of a pedestrian in many cities’ ordinances, and the driver’s duty to yield at crosswalks applies. "
+        "v": " Michigan law allows sidewalk riding unless a local ordinance prohibits it, and a cyclist on a sidewalk must yield to pedestrians and give an audible signal before passing (MCL 257.660(2)). A cyclist riding across a crosswalk has the protections of a pedestrian in many cities’ ordinances, and the driver’s duty to yield at crosswalks applies. "
        },
        {
         "t": "strong",
         "c": [
          {
           "t": "placeholder",
-          "kind": "ATTORNEY CHECK",
-          "v": "local ordinance variation"
+          "kind": "VERIFY",
+          "v": "attorney said to correct the citation but did not give it; confirm the sidewalk/crosswalk rule is MCL 257.660(2)"
          }
         ]
        }
@@ -558,17 +558,7 @@
        [
         {
          "t": "text",
-         "v": "Michigan has no bicycle helmet law for adults. A helmet does not prevent the crash; the argument goes to the head injury’s severity and is contested with medical evidence. "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "ATTORNEY CHECK",
-           "v": "e-bike helmet rule for riders under 18"
-          }
-         ]
+         "v": "Michigan has no bicycle helmet law for adults. Riders under 18 on a Class 3 e-bike must wear a helmet. A helmet does not prevent the crash; the argument goes to the head injury’s severity and is contested with medical evidence."
         }
        ]
       ],
@@ -670,35 +660,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Michigan defines three classes of electric bicycle and treats them as bicycles, not motor vehicles (MCL 257.4, 257.13e). An e-bike rider hit by a car therefore has the same no-fault claim as a conventional cyclist. Class 3 e-bikes (assisted to 28 mph) carry age and helmet rules for younger riders. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "current e-bike age and helmet provisions"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " Shared electric scooters, which operate in Detroit, Ann Arbor, and Dearborn, are treated differently in the Vehicle Code, and a scooter rider’s no-fault coverage depends on how the device is classified and on the policies involved. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "e-scooter classification under the no-fault act"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " Call before assuming a scooter crash is uncovered."
+       "v": "Michigan defines three classes of electric bicycle and treats them as bicycles, not motor vehicles (MCL 257.4, 257.13e). An e-bike rider hit by a car therefore has the same no-fault claim as a conventional cyclist. Class 3 e-bikes (assisted to 28 mph) carry age and helmet rules for younger riders. Shared electric scooters, which operate in Detroit, Ann Arbor, and Dearborn, are treated differently in the Vehicle Code, and a scooter rider’s no-fault coverage depends on how the device is classified and on the policies involved. Call before assuming a scooter crash is uncovered."
       }
      ]
     }
@@ -713,21 +675,7 @@
      "c": [
       {
        "t": "text",
-       "v": "A cyclist thrown by a pothole, a longitudinal grate, or a broken pavement edge has a possible claim against the government that maintains the road, under the highway exception to governmental immunity (MCL 691.1402). The exception is narrow: it covers the improved portion of the highway designed for vehicular travel, the government must have had notice of the defect, and written notice of the injury must be given within 120 days (MCL 691.1404). Whether a bike lane or shoulder is “designed for vehicular travel” is a contested question. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "current case law on bike lanes and shoulders under the highway exception"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " Photograph the defect and the location the same day; repairs follow crashes quickly."
+       "v": "A cyclist thrown by a pothole, a longitudinal grate, or a broken pavement edge has a possible claim against the government that maintains the road, under the highway exception to governmental immunity (MCL 691.1402). The exception is narrow: it covers the improved portion of the highway designed for vehicular travel, the government must have had notice of the defect, and written notice of the injury must be given within 120 days (MCL 691.1404). Whether a bike lane or shoulder is “designed for vehicular travel” is a contested question. Photograph the defect and the location the same day; repairs follow crashes quickly."
       }
      ]
     }
@@ -826,17 +774,7 @@
        },
        {
         "t": "text",
-        "v": " Do not repair the bike. The damage pattern shows where and how you were struck. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "the firm arranges storage or inspection of the bicycle"
-         }
-        ]
+        "v": " Do not repair the bike. The damage pattern shows where and how you were struck. If needed, we can help arrange for the bicycle to be stored and inspected."
        }
       ],
       [
@@ -1189,17 +1127,7 @@
        },
        {
         "t": "text",
-        "v": " Three-foot passing, ride-right exceptions, turning rules, and phone records, with the bicycle preserved as evidence. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "bicycle preservation practice"
-         }
-        ]
+        "v": " Three-foot passing, ride-right exceptions, turning rules, and phone records, with the bicycle preserved as evidence."
        }
       ],
       [
@@ -1387,8 +1315,8 @@
    }
   ]
  },
- "wordCount": 2858,
- "openItems": 7,
+ "wordCount": 2845,
+ "openItems": 1,
  "source": {
   "file": "B1-19_Michigan-Bicycle-Accident-Lawyer.docx",
   "delivered": "2026-10-12"

@@ -1932,17 +1932,7 @@
    "answer": [
     {
      "t": "text",
-     "v": "It may be partly or wholly. Trailers must carry rear impact guards built to federal standards. A guard that is missing, bent, or too high to stop a car is evidence against the carrier and the trailer’s owner. The trailer has to be inspected before it is repaired. "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "ATTORNEY CHECK",
-       "v": ""
-      }
-     ]
+     "v": "It may be partly or wholly. Trailers must carry rear impact guards built to federal standards. A guard that is missing, bent, or too high to stop a car is evidence against the carrier and the trailer’s owner. The trailer has to be inspected before it is repaired."
     }
    ]
   },
@@ -2016,8 +2006,8 @@
    }
   ]
  },
- "wordCount": 2883,
- "openItems": 1,
+ "wordCount": 2880,
+ "openItems": 0,
  "source": {
   "file": "B4-16_Rochester-Hills-Truck-Accident-Lawyer.docx",
   "delivered": "October 25, 2026 [CONFIRM: Batch 4 delivery date]"

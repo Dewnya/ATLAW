@@ -491,17 +491,7 @@
        },
        {
         "t": "text",
-        "v": ": ramps, widened doors, accessible bathrooms, lifts, and in some cases a different residence, where reasonably necessary for the injured person’s care and recovery. Michigan courts have addressed how far this extends. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "ATTORNEY CHECK",
-          "v": "current case law on housing as an allowable expense"
-         }
-        ]
+        "v": ": ramps, widened doors, accessible bathrooms, lifts, and in some cases a different residence, where reasonably necessary for the injured person’s care and recovery. Michigan courts have addressed how far this extends."
        }
       ],
       [
@@ -516,17 +506,7 @@
        },
        {
         "t": "text",
-        "v": ": hand controls, lifts, and wheelchair-accessible van conversions; the base vehicle itself has been treated differently. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "ATTORNEY CHECK",
-          "v": ""
-         }
-        ]
+        "v": ": hand controls, lifts, and wheelchair-accessible van conversions; the base vehicle itself is not an allowable expense, but the modifications are (Admire v Auto-Owners Ins Co, 494 Mich 10 (2013))."
        }
       ],
       [
@@ -607,21 +587,7 @@
      "c": [
       {
        "t": "text",
-       "v": "The 2019 fee schedule pays providers without a Medicare code, which includes agency attendant care and many rehabilitation services, 52.5% of their 2019 charges (500.3157(7)). In Andary v USAA (2023), the Michigan Supreme Court held that neither the fee schedule nor the 56-hour cap applies to people injured before June 11, 2019. For unlimited policies, the Michigan Catastrophic Claims Association reimburses the insurer above a per-claim retention, which is what makes lifetime coverage of a $6 million injury possible. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "current MCCA retention"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " Our "
+       "v": "The 2019 fee schedule pays providers without a Medicare code, which includes agency attendant care and many rehabilitation services, 52.5% of their 2019 charges (500.3157(7)). In Andary v USAA (2023), the Michigan Supreme Court held that neither the fee schedule nor the 56-hour cap applies to people injured before June 11, 2019. For unlimited policies, the Michigan Catastrophic Claims Association reimburses the insurer above a per-claim retention, $675,000 for policies issued or renewed from July 1, 2025 through June 30, 2027, which is what makes lifetime coverage of a $6 million injury possible. Our "
       },
       {
        "t": "link",
@@ -973,17 +939,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Settlements in catastrophic cases are often structured, with annuities funding future care and a special needs trust preserving Medicaid and SSI eligibility, and a settlement for a legally incapacitated adult or a child requires court approval (MCR 2.420). "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "the firm coordinates structured settlements and special needs trusts"
-        }
-       ]
+       "v": "Settlements in catastrophic cases are often structured, with annuities funding future care and a special needs trust preserving Medicaid and SSI eligibility, and a settlement for a legally incapacitated adult or a child requires court approval (MCR 2.420). We coordinate with structured settlement and special needs trust professionals where appropriate."
       }
      ]
     }
@@ -1259,17 +1215,7 @@
        },
        {
         "t": "text",
-        "v": " Life care planning and economic projection begin as soon as the prognosis allows, so that no policy is settled for less than the need. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "use of life care planners and economists"
-         }
-        ]
+        "v": " Where a case calls for them, life care planners and economists project the lifetime need, so that no policy is settled for less than it."
        }
       ],
       [
@@ -1299,17 +1245,7 @@
        },
        {
         "t": "text",
-        "v": ": attendant care hours, home modifications, equipment denials, and fee-schedule disputes. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": ""
-         }
-        ]
+        "v": ": attendant care hours, home modifications, and medical equipment denials."
        }
       ],
       [
@@ -1324,17 +1260,7 @@
        },
        {
         "t": "text",
-        "v": " coordinated with the recovery. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": ""
-         }
-        ]
+        "v": " coordinated with the recovery."
        }
       ],
       [
@@ -1507,8 +1433,8 @@
    }
   ]
  },
- "wordCount": 2668,
- "openItems": 7,
+ "wordCount": 2667,
+ "openItems": 0,
  "source": {
   "file": "B1-26_Michigan-Spinal-Cord-Injury-Lawyer.docx",
   "delivered": "2026-10-12"

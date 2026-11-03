@@ -62,7 +62,7 @@
       },
       {
        "t": "text",
-       "v": " Under MCL 500.3114(5), your Personal Injury Protection (PIP) benefits come, in order, from: the insurer of the owner of the motor vehicle involved; then the insurer of that vehicle’s driver; then your own auto insurer if you have a car policy; then the insurer of your motorcycle. “Involved” does not require contact. A car that cut you off and caused you to lay the bike down is involved even if it never touched you, which is why identifying that vehicle matters."
+       "v": " Under MCL 500.3114(5), your Personal Injury Protection (PIP) benefits come, in order, from: the insurer of the owner of the motor vehicle involved; then the insurer of that vehicle’s driver; then your own auto insurer if you have a car policy; then the motor vehicle insurer of the motorcycle’s owner or registrant. “Involved” does not require contact. A car that cut you off and caused you to lay the bike down is involved even if it never touched you, which is why identifying that vehicle matters."
       }
      ]
     },
@@ -89,21 +89,7 @@
       },
       {
        "t": "text",
-       "v": " Since the 2019 reform, the PIP medical limit that applies to a rider is tied to the coverage level on the car policy that is first in priority. If the driver who hit you chose a $250,000 medical level, that is what you have, even if you would have chosen unlimited. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "confirm the current rule on the PIP medical limit that applies to a motorcyclist under MCL 500.3107c and 500.3114(5), including what applies when the priority insurer’s policy is a Medicare opt-out"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " This is the strongest argument for buying optional first-party medical coverage on your motorcycle policy, and we tell every rider who calls us to check whether they have it."
+       "v": " Since the 2019 reform, the PIP medical limit that applies to a rider is tied to the coverage level on the car policy that is first in priority. If the driver who hit you chose a $250,000 medical level, that is what you have, even if you would have chosen unlimited. This is the strongest argument for buying optional first-party medical coverage on your motorcycle policy, and we tell every rider who calls us to check whether they have it."
       }
      ]
     },
@@ -819,7 +805,7 @@
    "answer": [
     {
      "t": "text",
-     "v": "The insurer of the car’s owner, then the car’s driver, then your own auto insurer, then your motorcycle insurer, in that order (MCL 500.3114(5)). The medical limit on the car owner’s policy generally sets how much is available."
+     "v": "The insurer of the car’s owner, then the car’s driver, then your own auto insurer, then the motor vehicle insurer of the motorcycle’s owner or registrant, in that order (MCL 500.3114(5)). The medical limit on the car owner’s policy generally sets how much is available."
     }
    ]
   },
@@ -937,8 +923,8 @@
    }
   ]
  },
- "wordCount": 2248,
- "openItems": 1,
+ "wordCount": 2227,
+ "openItems": 0,
  "source": {
   "file": "B1-04_Michigan-Motorcycle-Accident-Lawyer.docx",
   "delivered": "2026-10-12"

@@ -71,7 +71,7 @@ The MIOSHA investigation file is one of the first records requested. See our [Ca
 
 | Claim | Deadline | Statute |
 | --- | --- | --- |
-| Crash, fall, fire, product, and premises claims | 3 years, generally from the injury that caused the death | MCL 600.5805(2), 600.5827, 600.2922 **[ATTORNEY CHECK]** |
+| Crash, fall, fire, product, and premises claims | 3 years, generally from the injury that caused the death | MCL 600.5805(2), 600.5827, 600.2922 |
 | Medical malpractice | Notice of Intent, then 2 years, with a 6-month discovery rule and 6-year repose | MCL 600.2912b, 600.5805(8), 600.5838a |
 | Savings provision for the estate | Up to 2 years after letters of authority, but no more than 3 years after the ordinary period ran | MCL 600.5852 |
 | No-fault survivor’s loss benefits | Written notice within 1 year | MCL 500.3145(1) |

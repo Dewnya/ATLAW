@@ -261,23 +261,13 @@
        [
         {
          "t": "text",
-         "v": "Compliance with federal or state safety standards, or agency approval, relevant to the harm is a defense in production-defect claims that the plaintiff must overcome"
+         "v": "Compliance with relevant federal or state safety standards, or agency approval, creates a rebuttable presumption that the manufacturer or seller is not liable, in any product liability action"
         }
        ],
        [
         {
          "t": "text",
-         "v": "MCL 600.2946(4) "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "ATTORNEY CHECK",
-           "v": "current text and whether the presumption is rebuttable"
-          }
-         ]
+         "v": "MCL 600.2946(4)"
         }
        ]
       ],
@@ -402,17 +392,7 @@
        [
         {
          "t": "text",
-         "v": "MCL 600.2946a "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "ATTORNEY CHECK",
-           "v": "2026 Treasury notice"
-          }
-         ]
+         "v": "MCL 600.2946a"
         }
        ]
       ],
@@ -462,17 +442,7 @@
        [
         {
          "t": "text",
-         "v": "MCL 600.5805(12) "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "ATTORNEY CHECK",
-           "v": "subsection number"
-          }
-         ]
+         "v": "MCL 600.5805(12)"
         }
        ]
       ],
@@ -557,21 +527,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Michigan residents injured by a prescription or over-the-counter drug can now bring product liability claims under the same statute that governs other products, subject to its design-defect standard, its cap, and federal preemption rules that apply to drug labeling. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "application of the repeal to injuries before February 13, 2024"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " Medical devices were never covered by the drug immunity; device claims are governed by the Michigan statute and by federal preemption for devices approved through the FDA’s premarket approval process."
+       "v": "Michigan residents injured by a prescription or over-the-counter drug can now bring product liability claims under the same statute that governs other products, subject to its design-defect standard, its cap, and federal preemption rules that apply to drug labeling. The repeal took effect February 13, 2024, and courts have treated it as applying to injuries on or after that date. Medical devices were never covered by the drug immunity; device claims are governed by the Michigan statute and by federal preemption for devices approved through the FDA’s premarket approval process."
       }
      ]
     }
@@ -950,14 +906,8 @@
      "t": "p",
      "c": [
       {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "the firm arranges storage and expert inspection of the product, and sends preservation letters to the manufacturer and the insurer"
-        }
-       ]
+       "t": "text",
+       "v": "We arrange for the product to be stored and inspected by qualified experts, and we send preservation letters to the manufacturer and its insurer."
       }
      ]
     }
@@ -1021,17 +971,7 @@
        [
         {
          "t": "text",
-         "v": "MCL 600.5805(12) "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "ATTORNEY CHECK",
-           "v": "subsection"
-          }
-         ]
+         "v": "MCL 600.5805(12)"
         }
        ]
       ],
@@ -1051,17 +991,7 @@
        [
         {
          "t": "text",
-         "v": "Trentadue v Gorton (2007) "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "ATTORNEY CHECK",
-           "v": ""
-          }
-         ]
+         "v": "Trentadue v Buckler Automatic Lawn Sprinkler Co, 479 Mich 378 (2007)"
         }
        ]
       ],
@@ -1199,17 +1129,7 @@
        },
        {
         "t": "text",
-        "v": " Storage, chain of custody, preservation letters, and a joint inspection protocol before any defendant touches it. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": ""
-         }
-        ]
+        "v": " We arrange for the product to be secured and preserved, with chain-of-custody records, preservation letters, and a joint inspection protocol before any testing."
        }
       ],
       [
@@ -1218,23 +1138,13 @@
         "c": [
          {
           "t": "text",
-          "v": "Engineering experts for the alternative-design proof"
+          "v": "Engineering and human-factors experts"
          }
         ]
        },
        {
         "t": "text",
-        "v": " Michigan requires. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "the firm retains engineering and human-factors experts in product cases"
-         }
-        ]
+        "v": " where a product case requires them, including for the alternative-design proof Michigan requires."
        }
       ],
       [
@@ -1249,17 +1159,7 @@
        },
        {
         "t": "text",
-        "v": ", so the product claim is not lost when the insurer salvages the car. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": ""
-         }
-        ]
+        "v": ", so the product claim is not lost when the insurer salvages the car."
        }
       ],
       [
@@ -1432,8 +1332,8 @@
    }
   ]
  },
- "wordCount": 2447,
- "openItems": 10,
+ "wordCount": 2445,
+ "openItems": 0,
  "source": {
   "file": "B1-24_Michigan-Product-Liability-Lawyer.docx",
   "delivered": "2026-10-12"

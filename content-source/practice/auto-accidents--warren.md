@@ -41,7 +41,7 @@ Macomb County recorded two more deaths than Oakland County in 2024 on about 14,0
 
 **Mound Road.** The plant corridor, rebuilt north of I-696 in the Innovate Mound project, finished in December 2023, with new signals and turn lanes; the stretch from Eight Mile to I-696 is still awaiting funding. Tractor-trailers enter and leave the Tech Center, Warren Truck, and the Arsenal at shift changes. Turning-truck crashes at the plant gates, trucks stopped in lanes, and rear-end crashes into slowing trucks are Mound’s cases; see our [Warren truck accident page](/personal-injury/truck-accidents/warren).
 
-**Groesbeck (M-97), Eight Mile (M-102), and I-696.** Groesbeck crosses the east side on a diagonal, producing skewed intersections with poor sight lines at the mile roads. Eight Mile is the Detroit line, where coverage on the other side of the crash is often thinner. I-696 has interchanges at Dequindre, Mound, Van Dyke, Hoover, and Schoenherr within about six miles, where merging and lane-change crashes concentrate. **[CONFIRM: current I-696 construction in Warren]**
+**Groesbeck (M-97), Eight Mile (M-102), and I-696.** Groesbeck crosses the east side on a diagonal, producing skewed intersections with poor sight lines at the mile roads. Eight Mile is the Detroit line, where coverage on the other side of the crash is often thinner. I-696 has interchanges at Dequindre, Mound, Van Dyke, Hoover, and Schoenherr within about six miles, where merging and lane-change crashes concentrate.
 
 **The mile roads and city streets.** Nine through Fourteen Mile, Ryan, Hoover, Schoenherr, and Hayes: signal crashes, and pedestrian and bicycle crashes near schools and senior housing (see our [bicycle accident page](/personal-injury/bicycle-accidents)).
 
@@ -65,17 +65,17 @@ We move promptly to request the camera footage, signal data, and vehicle data.
 
 **Your claim against the at-fault driver.** For pain and suffering, you need a threshold injury: death, serious impairment of body function, or permanent serious disfigurement (MCL 500.3135(1)). A serious impairment is an objectively manifested impairment of an important body function that affects your general ability to lead your normal life; it does not have to be permanent (MCL 500.3135(5); *McCormick v Carrier*, 2010). You can also recover lost wages beyond the three years and medical bills above your chosen PIP level (MCL 500.3135(3)(c)). The suit must be filed within three years (MCL 600.5805(2)). The mini tort recovers up to $3,000 in vehicle damage not covered by your policy (MCL 500.3135(3)(e)), filed in the 37th District Court if the insurer will not pay it.
 
-**Coverage on the other side.** Many Warren drivers carry the $50,000 minimum, and since the 2019 reform many chose reduced PIP medical levels, which moves more of the bill into the claim against the at-fault driver. Your own **uninsured and underinsured motorist coverage** often decides what the claim is worth; we read every policy in the household before valuing the claim. Settling with the at-fault driver without your UIM insurer’s consent can forfeit the UIM claim. See our [uninsured motorist page](/personal-injury/uninsured-motorist-claims). **[ATTORNEY CHECK: UIM consent-to-settle]**
+**Coverage on the other side.** Many Warren drivers carry the $50,000 minimum, and since the 2019 reform many chose reduced PIP medical levels, which moves more of the bill into the claim against the at-fault driver. Your own **uninsured and underinsured motorist coverage** often decides what the claim is worth; we read every policy in the household before valuing the claim. Settling with the at-fault driver without your UIM insurer’s consent can forfeit the UIM claim. See our [uninsured motorist page](/personal-injury/uninsured-motorist-claims).
 
 **Drunk drivers and dram shop.** A crash caused by a drunk driver adds a claim against the bar or store that served a visibly intoxicated person or a minor. Written notice must go to the retailer within 120 days after you hire a lawyer, the drunk driver must be named and kept in the suit, and the suit must be filed within two years, not three (MCL 436.1801(3), (4)). See our [drunk driving accident page](/personal-injury/drunk-driving-accidents).
 
-**Government vehicles.** Warren Police and Fire, SMART buses on Van Dyke, Mound, Eight Mile, and the mile roads, school buses, and Department of Roads trucks fall under the motor vehicle exception to governmental immunity (MCL 691.1405). A crash with a federal vehicle from the Arsenal is a claim against the United States under the Federal Tort Claims Act, with an administrative claim due within two years (28 USC 2401(b), 2675). See our [bus accident page](/personal-injury/bus-accidents). [ATTORNEY CHECK: FTCA]
+**Government vehicles.** Warren Police and Fire, SMART buses on Van Dyke, Mound, Eight Mile, and the mile roads, school buses, and Department of Roads trucks fall under the motor vehicle exception to governmental immunity (MCL 691.1405). A crash with a federal vehicle from the Arsenal is a claim against the United States under the Federal Tort Claims Act, with an administrative claim due within two years (28 USC 2401(b), 2675). See our [bus accident page](/personal-injury/bus-accidents).
 
 ## What to do after a Warren crash
 
 1. **Call 911 and get the police report.** Michigan requires a report for any crash with injury or $1,000 in damage (MCL 257.622). Warren Police crash reports (UD-10s) are purchased online through CLEMIS.
 2. **Photograph the vehicles, plates, the other driver’s license and insurance card, the signals, and the lanes.** Note every business and plant gate with a camera facing the intersection.
-3. **Get medical care the same day.** Henry Ford Warren Hospital on Twelve Mile (formerly Ascension Macomb-Oakland, Warren campus) treats many of Warren’s injured; Henry Ford Macomb in Clinton Township and McLaren Macomb in Mount Clemens treat others. **[CONFIRM: hospital list and trauma designations]**
+3. **Get medical care the same day.** Henry Ford Warren Hospital on Twelve Mile (formerly Ascension Macomb-Oakland, Warren campus) treats many of Warren’s injured; Henry Ford Macomb in Clinton Township and McLaren Macomb in Mount Clemens treat others.
 4. **Report to your own insurer and file the Application for No-Fault Benefits** within the first week.
 5. **Read your declarations page** for PIP level, UM/UIM, and collision coverage.
 6. **Do not give a recorded statement** to the other driver’s insurer or sign a release.
@@ -85,7 +85,7 @@ Our [full checklist](/resources/what-to-do-after-an-accident) covers the first d
 
 ## The courts
 
-Claims up to $25,000, including mini tort claims, are filed in the 37th District Court at 8300 Common Road, which serves Warren and Center Line. Injury suits over $25,000 go to the Sixteenth Judicial Circuit Court at 40 N. Main Street in Mount Clemens. A crash on Eight Mile or Dequindre, or with a Wayne or Oakland County defendant, may allow filing in those counties instead (MCL 600.1629). Defect claims against MDOT go to the Court of Claims. A fatal crash is brought by the estate through the Macomb County Probate Court; see our [wrongful death page](/personal-injury/wrongful-death). **[ATTORNEY CHECK: venue]**
+Claims up to $25,000, including mini tort claims, are filed in the 37th District Court at 8300 Common Road, which serves Warren and Center Line. Injury suits over $25,000 go to the Sixteenth Judicial Circuit Court at 40 N. Main Street in Mount Clemens. A crash on Eight Mile or Dequindre, or with a Wayne or Oakland County defendant, may allow filing in those counties instead (MCL 600.1629). Defect claims against MDOT go to the Court of Claims. A fatal crash is brought by the estate through the Macomb County Probate Court; see our [wrongful death page](/personal-injury/wrongful-death).
 
 ## Deadlines for Warren crash claims
 
@@ -105,7 +105,7 @@ Claims up to $25,000, including mini tort claims, are filed in the 37th District
 - 13 years of Michigan injury practice; more than 10,000 cases; more than $100 million recovered.
 - Prompt attention to preserving camera footage, signal data, and vehicle data, because Warren’s intersection cases are won on evidence that disappears.
 - Every household policy, including UM/UIM and umbrella coverage, read before the claim is valued.
-- Claims handled in the 37th District and the Sixteenth Circuit, and with MDOT, the Department of Roads, SMART, and the insurers that write Warren policies. **[CONFIRM: the firm’s Macomb County caseload supports this line]**
+- Claims handled in the 37th District Court and the Sixteenth Circuit, and with MDOT, the Macomb County Department of Roads, SMART, and the insurers that write Warren policies.
 - No attorney fee or case costs unless we recover money for you. The first conversation is free.
 
 ## Frequently asked questions

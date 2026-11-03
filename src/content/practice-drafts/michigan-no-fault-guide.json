@@ -1350,17 +1350,7 @@
       },
       {
        "t": "text",
-       "v": ". Providers may not bill the injured person for the difference. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "current percentages under 500.3157(2)–(7) and any 2025–2026 amendments"
-        }
-       ]
+       "v": ". Providers may not bill the injured person for the difference."
       }
      ]
     },
@@ -1480,17 +1470,7 @@
       },
       {
        "t": "text",
-       "v": " for every other PIP option, including opt-outs, because the deficit recoupment applies to all vehicles. The prior year’s figures were $82 and $23. The assessment is itemized on your premium and changes each July; the reform’s promise of lower premiums came in large part from the drop in this fee from $220 per vehicle in 2019–2020 to $100 in 2020–2021 and the refund checks of 2022. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "historical figures"
-        }
-       ]
+       "v": " for every other PIP option, including opt-outs, because the deficit recoupment applies to all vehicles. The prior year’s figures were $82 and $23. The assessment is itemized on your premium and changes each July; the reform’s promise of lower premiums came in large part from the drop in this fee from $220 per vehicle in 2019–2020 to $100 in 2020–2021 and the refund checks of 2022."
       }
      ]
     }
@@ -1952,17 +1932,7 @@
        [
         {
          "t": "text",
-         "v": "Those factors prohibited under MCL 500.2111 (territory still permitted within limits) "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "ATTORNEY CHECK",
-           "v": ""
-          }
-         ]
+         "v": "Those factors prohibited under MCL 500.2111 (territory still permitted within limits)"
         }
        ]
       ],
@@ -2353,8 +2323,8 @@
    }
   ]
  },
- "wordCount": 4302,
- "openItems": 3,
+ "wordCount": 4285,
+ "openItems": 0,
  "source": {
   "file": "B2-26_Michigan-No-Fault-Insurance-Guide-2026.docx",
   "delivered": "2026-10-16"

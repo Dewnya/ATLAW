@@ -210,7 +210,7 @@ The agreement is in writing. Read how costs are handled if the case is lost, bec
 
 **I fell on the Oakland University campus. Who do I claim against?** The State of Michigan, in the Court of Claims, with written notice within 120 days if a defect in a building or campus road caused the fall. Governmental immunity limits these claims, and the notice period is much shorter than the ordinary three years. A fall at a private apartment complex near campus is an ordinary claim against the owner.
 
-**I was hurt on the Paint Creek Trail. Do I have a case?** If a car hit you at a road crossing, yes, as in any crash. If the trail surface or another trail user caused the injury, the claim is harder. Governmental immunity and the Recreational Land Use Act can limit it. Photograph the location and report it the same day. **[ATTORNEY CHECK]**
+**I was hurt on the Paint Creek Trail. Do I have a case?** If a car hit you at a road crossing, yes, as in any crash. If the trail surface or another trail user caused the injury, the claim is harder. Governmental immunity and the Recreational Land Use Act can limit it. Photograph the location and report it the same day.
 
 **The other driver’s insurer offered its policy limit. Should I take it?** Not before checking your own underinsured motorist coverage and getting your insurer’s written consent to settle. Accepting without consent can forfeit the UIM claim.
 

@@ -20,7 +20,7 @@ The reason is a federal statute. Most employer-sponsored disability plans are go
 
 This page explains the system: short-term and long-term benefits and how they connect, the policy terms that decide claims (own occupation, any occupation, pre-existing conditions, the mental health limit, the SSDI offset), the ERISA claims rules and deadlines that bind the insurer and the claimant, how the administrative appeal is built, what happens in federal court, the Michigan law that applies when ERISA does not, and what a Michigan disability insurance lawyer does at each stage.
 
-ATLAW is a Dearborn law firm serving clients for 13 years, with more than 10,000 cases handled. The firm represents Michigan claimants in long-term and short-term disability insurance claims, administrative appeals, and litigation under ERISA and Michigan law. **[CONFIRM: the firm handles LTD/ERISA claims in-house, the attorney who leads the practice, and the fee basis (contingency on past-due benefits, hourly, or hybrid)]**
+ATLAW is a Dearborn law firm serving clients for 13 years, with more than 10,000 cases handled. The firm represents Michigan claimants in long-term and short-term disability insurance claims, administrative appeals, and litigation under ERISA and Michigan law. Each case is assigned to an ATLAW attorney. Appeals and lawsuits are handled on contingency: no fee unless benefits are recovered. ATLAW advances case-related expenses, and the fee terms are explained in a written fee agreement before work begins.
 
 ## Disability insurance claims: the numbers
 
@@ -40,7 +40,7 @@ ATLAW is a Dearborn law firm serving clients for 13 years, with more than 10,000
 
 ## Short-term and long-term disability: how they connect
 
-**Short-term disability** replaces part of your wages, commonly 60 to 70 percent, for a limited period, usually 13 to 26 weeks, after a short waiting period of a week or two. It is typically funded by the employer, sometimes through an insurer and sometimes self-insured. Michigan has no state short-term disability program, unlike New York, New Jersey, or California; a Michigan worker’s short-term coverage is whatever the employer provides, plus the Earned Sick Time Act, which took effect February 21, 2025, and generally permits employers to limit annual use of paid sick time to 72 hours, or 40 hours for qualifying small businesses, and the federal Family and Medical Leave Act, which provides eligible employees of covered employers up to 12 workweeks of generally unpaid, job-protected leave. **[ATTORNEY CHECK: ESTA as amended by 2025 PA 6]**
+**Short-term disability** replaces part of your wages, commonly 60 to 70 percent, for a limited period, usually 13 to 26 weeks, after a short waiting period of a week or two. It is typically funded by the employer, sometimes through an insurer and sometimes self-insured. Michigan has no state short-term disability program, unlike New York, New Jersey, or California; a Michigan worker’s short-term coverage is whatever the employer provides, plus the Earned Sick Time Act, which took effect February 21, 2025, and generally permits employers to limit annual use of paid sick time to 72 hours, or 40 hours for qualifying small businesses, and the federal Family and Medical Leave Act, which provides eligible employees of covered employers up to 12 workweeks of generally unpaid, job-protected leave.
 
 **Long-term disability** begins when short-term benefits end, after an **elimination period** that usually matches the short-term duration, 90 or 180 days, and continues as long as you remain disabled under the policy’s definition, to age 65 or Social Security retirement age for a disability that begins before about age 60, and for a shorter schedule for later-onset disabilities.
 
@@ -58,7 +58,7 @@ Every claim is decided under the policy’s own language, and five provisions ac
 
 **The Social Security offset.** Nearly every group policy reduces the LTD benefit by the amount of Social Security disability you receive or are **estimated** to be eligible for, and most require you to apply for SSDI and appeal a denial. When SSDI is awarded with back pay, the insurer demands repayment of the overlapping months, which can be tens of thousands of dollars; the demand letter usually arrives within weeks of the award. The policy also typically offsets workers’ compensation, Michigan no-fault wage loss, and employer-paid pensions. Our [SSDI page](/disability/social-security-disability-insurance) covers the Social Security side; a claimant with both claims needs them coordinated from the start.
 
-**Other limits and exclusions**: self-reported symptom limitations (fibromyalgia, chronic fatigue, headache claims capped at 24 months in some policies), substance abuse limits, the requirement of “regular care” by a physician, and the policy’s own contractual limitation period for filing suit, which the Supreme Court has held may be enforceable even when it begins running before the administrative process ends, provided the period is reasonable and no controlling law prohibits it. **[ATTORNEY CHECK: Heimeshoff v. Hartford Life & Accident Ins. Co., 571 U.S. 99 (2013)]**
+**Other limits and exclusions**: self-reported symptom limitations (fibromyalgia, chronic fatigue, headache claims capped at 24 months in some policies), substance abuse limits, the requirement of “regular care” by a physician, and the policy’s own contractual limitation period for filing suit, which the Supreme Court has held may be enforceable even when it begins running before the administrative process ends, provided the period is reasonable and no controlling law prohibits it.
 
 ## ERISA: the rules the insurer must follow
 
@@ -73,7 +73,7 @@ ERISA’s claims regulation, 29 CFR 2560.503-1, sets procedural rules for every 
 - Decide the appeal within **45 days**, extendable once by 45 days.
 - Not pay or incentivize reviewers in a way that rewards denials.
 
-When a disability plan fails to follow the required claims procedures, the claimant may be deemed to have exhausted administrative remedies and may pursue judicial review. The regulation generally treats such a denial as made without the exercise of fiduciary discretion, subject to a narrow exception for qualifying minor, nonprejudicial violations. **[ATTORNEY CHECK: 29 CFR 2560.503-1(l)(2)]**
+When a disability plan fails to follow the required claims procedures, the claimant may be deemed to have exhausted administrative remedies and may pursue judicial review. The regulation generally treats such a denial as made without the exercise of fiduciary discretion, subject to a narrow exception for qualifying minor, nonprejudicial violations.
 
 The rules bind the claimant too. **The appeal must be filed within the 180 days**, and a claimant who misses it has, in nearly every case, lost the right to sue, because ERISA requires exhaustion of the plan’s appeal procedure before court.
 
@@ -101,7 +101,7 @@ Insurers investigate long-term claims. The tools, and how to meet them:
 
 - **Surveillance.** Video of a claimant carrying groceries or driving is used to argue inconsistency with claimed limitations. The answer is accuracy from the start: describe your limitations as they are, including good days, so that ordinary activity on film is consistent with the claim.
 - **Independent medical examinations.** The policy allows the insurer to require an examination by a physician it selects and pays. Attend, bring a companion if permitted, keep notes of the duration and what was examined, and provide the examiner your records. A twenty-minute examination that produces a ten-page report is a record the appeal can confront.
-- **Paper reviews.** Some denials rely on a physician who reviewed the file without examining the claimant. The Sixth Circuit has recognized that file reviews are not inherently improper, but their thoroughness and treatment of contrary medical evidence can matter, particularly when the insurer chose not to examine the claimant despite having the right to do so. **[ATTORNEY CHECK: Sixth Circuit authority, e.g, Calvert v. Firstar Finance, 409 F.3d 286 (6th Cir. 2005); Shaw v. AT&T Umbrella Benefit Plan No. 1, 795 F.3d 538 (6th Cir. 2015)]**
+- **Paper reviews.** Some denials rely on a physician who reviewed the file without examining the claimant. The Sixth Circuit has recognized that file reviews are not inherently improper, but their thoroughness and treatment of contrary medical evidence can matter, particularly when the insurer chose not to examine the claimant despite having the right to do so.
 - **Vocational reviews** and **transferable skills analyses** that identify occupations the claimant can supposedly perform; these are tested against the policy’s earnings threshold and the claimant’s actual restrictions.
 - **Social media.** Public posts are collected and used. Assume the insurer reads them.
 
@@ -109,11 +109,11 @@ Insurers investigate long-term claims. The tools, and how to meet them:
 
 If the appeal is denied, the claimant sues under **29 USC 1132(a)(1)(B)** to recover benefits due under the plan, in federal court, usually the Eastern or Western District of Michigan. The case is decided on the administrative record, typically on cross-motions for judgment, without a jury.
 
-**The standard of review** is the central question. Under *Firestone*, if the plan document grants the administrator discretion to interpret the plan and decide eligibility, the court reviews for **arbitrary and capricious** decision-making, asking whether the decision was the result of a deliberate, principled reasoning process supported by substantial evidence, with the insurer’s conflict of interest as a factor under *Glenn*. If the plan does not grant discretion, or if the insurer forfeited deference through procedural violations, the court reviews **de novo** and decides for itself whether the claimant is disabled. Michigan prohibits discretionary clauses in covered insurance policies under Mich. Admin. Code R 500.2201–500.2202, a prohibition upheld by the Sixth Circuit in American Council of Life Insurers v. Ross. This can require de novo review even when the policy contains language granting discretion. Whether the prohibition applies depends on the policy and funding arrangement. **[ATTORNEY CHECK: current status of Michigan discretionary-clause regulation]**
+**The standard of review** is the central question. Under *Firestone*, if the plan document grants the administrator discretion to interpret the plan and decide eligibility, the court reviews for **arbitrary and capricious** decision-making, asking whether the decision was the result of a deliberate, principled reasoning process supported by substantial evidence, with the insurer’s conflict of interest as a factor under *Glenn*. If the plan does not grant discretion, or if the insurer forfeited deference through procedural violations, the court reviews **de novo** and decides for itself whether the claimant is disabled. Michigan prohibits discretionary clauses in covered insurance policies under Mich. Admin. Code R 500.2201–500.2202, a prohibition upheld by the Sixth Circuit in American Council of Life Insurers v. Ross. This can require de novo review even when the policy contains language granting discretion. Whether the prohibition applies depends on the policy and funding arrangement.
 
 **Remedies** are the benefits owed, with interest, and, in the court’s discretion under **29 USC 1132(g)(1)**, attorney fees to a claimant who achieves some degree of success on the merits (*Hardt v. Reliance Standard*, 560 U.S. 242 (2010)). There are no compensatory or punitive damages under ERISA, however badly the claim was handled. A common outcome is a **remand** to the insurer for a new decision on a corrected record, which the claimant may then have to appeal and litigate again.
 
-**The deadline to sue may be governed by an enforceable contractual limitation period in the plan. If no enforceable period applies, courts look to the most analogous state limitations statute; Michigan generally allows six years for ordinary contract claims under MCL 600.5807. A plan’s contractual period may begin running before the final administrative denial, so the applicable deadline must be identified early.**. **[ATTORNEY CHECK]**
+**The deadline to sue may be governed by an enforceable contractual limitation period in the plan. If no enforceable period applies, courts look to the most analogous state limitations statute; Michigan generally allows six years for ordinary contract claims under MCL 600.5807(9). A plan’s contractual period may begin running before the final administrative denial, so the applicable deadline must be identified early.**.
 
 ## When Michigan law applies instead of ERISA
 
@@ -124,7 +124,7 @@ ERISA does not govern every disability policy. It does not apply to:
 - **Church plans**, including many religiously affiliated hospitals and schools.
 - Certain **voluntary plans** with minimal employer involvement, under the Department of Labor’s safe harbor.
 
-For many policies outside ERISA, Michigan insurance and contract law applies, although some governmental and other arrangements are subject to separate rules, and it is a different world: a jury, discovery, witnesses, the ordinary rules of contract and insurance law, and, under MCL 500.2006, 12 percent annual interest may apply to qualifying late-paid insurance benefits, generally calculated beginning 60 days after the insurer receives satisfactory proof of loss, subject to the statute’s requirements. Michigan does not recognize a freestanding tort of bad faith against a first-party insurer, but the Uniform Trade Practices Act’s interest penalty and contract damages are substantial, and the claimant is not confined to the insurer’s file. Determining which law governs is the first step in every disability insurance case, and the answer is not always obvious from the policy’s cover. **[ATTORNEY CHECK]**
+For many policies outside ERISA, Michigan insurance and contract law applies, although some governmental and other arrangements are subject to separate rules, and it is a different world: a jury, discovery, witnesses, the ordinary rules of contract and insurance law, and, under MCL 500.2006, 12 percent annual interest may apply to qualifying late-paid insurance benefits, generally calculated beginning 60 days after the insurer receives satisfactory proof of loss, subject to the statute’s requirements. Michigan does not recognize a freestanding tort of bad faith against a first-party insurer, but the Uniform Trade Practices Act’s interest penalty and contract damages are substantial, and the claimant is not confined to the insurer’s file. Determining which law governs is the first step in every disability insurance case, and the answer is not always obvious from the policy’s cover.
 
 ## What to do when your claim is denied or terminated
 
@@ -147,18 +147,18 @@ For many policies outside ERISA, Michigan insurance and contract law applies, al
 - **Litigates in federal court** on the record, or in Michigan court with a jury, and seeks fees and penalty interest where available.
 - **Protects ongoing benefits** through the any-occupation transition, continuing reviews, and buyout offers.
 
-Fees in disability insurance cases are not set by federal law as Social Security fees are. **[CONFIRM: the firm’s fee structure for LTD administrative appeals and litigation; whether contingency on past-due benefits, hourly, or hybrid; whether the firm advances costs]**
+Fees in disability insurance cases are not set by federal law as Social Security fees are. ATLAW handles long-term disability appeals and lawsuits on a contingency basis: no fee unless benefits are recovered. The firm advances case-related expenses, the fee terms are explained in a written fee agreement before work begins, and there is no charge for the initial consultation.
 
 ## Why Michigan workers call ATLAW for disability insurance claims
 
 - **Thirteen years serving clients, more than 10,000 cases.**
-- **The appeal built as the trial it is**, with the claim file read first and the record completed before the insurer closes it. **[CONFIRM: practice]**
-- **ERISA and Michigan law both**, with the governing law identified at the first meeting. **[CONFIRM]**
-- **Social Security and LTD coordinated**, so the award does not become a repayment surprise. **[CONFIRM]**
-- **Experience with the carriers**: see our pages on [Cigna](/disability/cigna-disability-claims), [Hartford](/disability/hartford-disability-claims), and [Lincoln Financial](/disability/lincoln-financial-disability-claims) claims. **[CONFIRM: carriers the firm has handled claims against]**
+- **The appeal built as the trial it is**, with the complete claim file requested first and the record a court may later review completed before the insurer closes it.
+- **ERISA and Michigan law both**, with the governing law identified at the first meeting.
+- **Social Security and LTD coordinated**, so the award does not become a repayment surprise.
+- **Experience with the carriers**: see our pages on [Cigna](/disability/cigna-disability-claims), [Hartford](/disability/hartford-disability-claims), and [Lincoln Financial](/disability/lincoln-financial-disability-claims) claims.
 - **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 - **Languages.** Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish.
-- **Fees.** **[CONFIRM: fee structure; free initial review]**
+- **Fees.** Long-term disability appeals and lawsuits are handled on contingency: no fee unless benefits are recovered. ATLAW advances case-related expenses, and the fee terms are explained in a written fee agreement before work begins. The initial consultation is free.
 
 ## Frequently asked questions about long-term disability claims in Michigan
 
@@ -184,6 +184,6 @@ Fees in disability insurance cases are not set by federal law as Social Security
 
 ## Talk to a Michigan long-term disability lawyer
 
-If your short-term or long-term disability claim was denied, terminated, or reduced anywhere in Michigan, call **(313) 406-7606** or send the form on this page before your appeal deadline runs. We identify the governing law, obtain the claim file, build the appeal as the record the court will read, coordinate your Social Security claim, and litigate when the insurer does not relent. We respond within one business day. **[CONFIRM: fee terms for the CTA]**
+If your short-term or long-term disability claim was denied, terminated, or reduced anywhere in Michigan, call **(313) 406-7606** or send the form on this page before your appeal deadline runs. We identify the governing law, obtain the claim file, build the appeal as the record the court will read, coordinate your Social Security claim, and litigate when the insurer does not relent. We respond within one business day. There is no fee unless benefits are recovered, and the initial review is free; the fee terms are explained in a written agreement before any work begins.
 
 *Results depend on the facts of each case, and past results do not guarantee a future outcome. Policy terms vary and the policy language controls; deadlines stated are the regulatory minimums and your policy or denial letter may differ. This page is general information about federal and Michigan law; it is not legal advice for your situation.*

@@ -49,21 +49,7 @@
    "c": [
     {
      "t": "text",
-     "v": "ATLAW is a Dearborn law firm serving clients for 13 years, with more than 10,000 cases handled. The firm represents Michigan SSI claimants, adults and children, from the application through the hearing. "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "CONFIRM",
-       "v": "the firm handles SSI claims including children’s claims in-house, and the attorney who leads the practice"
-      }
-     ]
-    },
-    {
-     "t": "text",
-     "v": " There is no fee unless you win, and the fee is set by federal law."
+     "v": "ATLAW is a Dearborn law firm serving clients for 13 years, with more than 10,000 cases handled. The firm represents Michigan SSI claimants, adults and children, from the application through the hearing. An ATLAW attorney is assigned to each case. There is no fee unless you win, and the fee is set by federal law."
     }
    ]
   }
@@ -415,17 +401,7 @@
       },
       {
        "t": "text",
-       "v": " You must be a U.S. citizen or a qualified non-citizen in a limited set of categories (certain qualifying noncitizens who meet federal immigration-status, work-history, residency, or applicable exception requirements), and you must live in the United States. Many Michigan immigrants with lawful status are not SSI-eligible under these rules, which is a frequent and painful surprise. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "20 CFR 416.1600–416.1618"
-        }
-       ]
+       "v": " You must be a U.S. citizen or a qualified non-citizen in a limited set of categories (certain qualifying noncitizens who meet federal immigration-status, work-history, residency, or applicable exception requirements), and you must live in the United States. Many Michigan immigrants with lawful status are not SSI-eligible under these rules, which is a frequent and painful surprise."
       }
      ]
     },
@@ -487,17 +463,7 @@
       },
       {
        "t": "text",
-       "v": " on the first day of the month, limits that have not changed since 1989. Excluded resources include the home you live in, one vehicle, household goods and personal effects, burial plots and up to $1,500 in burial funds, life insurance with a face value of $1,500 or less, and up to $100,000 in a qualifying ABLE account, subject to the program’s eligibility requirements. Other assets may count, including bank accounts, a second vehicle, cash, stocks, the countable cash value of certain life insurance policies, and property you do not live on, unless a specific exclusion applies. A resource over the limit does not reduce the payment; it ends eligibility for every month it exists. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "20 CFR 416.1201–416.1266"
-        }
-       ]
+       "v": " on the first day of the month, limits that have not changed since 1989. Excluded resources include the home you live in, one vehicle, household goods and personal effects, burial plots and up to $1,500 in burial funds, life insurance with a face value of $1,500 or less, and up to $100,000 in a qualifying ABLE account, subject to the program’s eligibility requirements. Other assets may count, including bank accounts, a second vehicle, cash, stocks, the countable cash value of certain life insurance policies, and property you do not live on, unless a specific exclusion applies. A resource over the limit does not reduce the payment; it ends eligibility for every month it exists."
       }
      ]
     }
@@ -605,17 +571,7 @@
       },
       {
        "t": "text",
-       "v": " as in-kind support: groceries from family or meals provided do not reduce SSI, a change that simplified many Michigan recipients’ situations. The same 2024 rules expanded the definition of a public-assistance household to include qualifying households where another member receives SNAP, which can exempt certain support received within that household from the in-kind support rules. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "2024 ISM final rules"
-        }
-       ]
+       "v": " as in-kind support: groceries from family or meals provided do not reduce SSI, a change that simplified many Michigan recipients’ situations. The same 2024 rules expanded the definition of a public-assistance household to include qualifying households where another member receives SNAP, which can exempt certain support received within that household from the in-kind support rules."
       }
      ]
     },
@@ -646,17 +602,7 @@
       },
       {
        "t": "text",
-       "v": ", not monthly, to recipients living independently or in the household of another; recipients in licensed adult foster care, homes for the aged, and similar settings receive a larger federally administered supplement, which averaged $114.33 a month for 10,446 Michigan recipients in December 2025. The independent-living State SSI Payment is $14 per month for an individual or $21 per month for an eligible couple in 2026. For someone living in another person’s household under the applicable payment category, it is $9.33 per month for an individual or $13.96 for an eligible couple. MDHHS issues these payments quarterly, in March, June, September, and December. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "current amounts in MDHHS Reference Table RFT 248"
-        }
-       ]
+       "v": ", not monthly, to recipients living independently or in the household of another; recipients in licensed adult foster care, homes for the aged, and similar settings receive a larger federally administered supplement, which averaged $114.33 a month for 10,446 Michigan recipients in December 2025. The independent-living State SSI Payment is $14 per month for an individual or $21 per month for an eligible couple in 2026. For someone living in another person’s household under the applicable payment category, it is $9.33 per month for an individual or $13.96 for an eligible couple. MDHHS issues these payments quarterly, in March, June, September, and December."
       }
      ]
     },
@@ -840,17 +786,7 @@
       },
       {
        "t": "text",
-       "v": " explains that benefit. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": ""
-        }
-       ]
+       "v": " explains that benefit."
       }
      ]
     }
@@ -1090,17 +1026,7 @@
        },
        {
         "t": "text",
-        "v": ". "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "ATTORNEY CHECK",
-          "v": "2026 amounts"
-         }
-        ]
+        "v": "."
        }
       ],
       [
@@ -1158,17 +1084,7 @@
        },
        {
         "t": "text",
-        "v": ". "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "ATTORNEY CHECK",
-          "v": "Michigan 1619(b) threshold"
-         }
-        ]
+        "v": "."
        }
       ],
       [
@@ -1369,17 +1285,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Fees for the claim are set by federal law: the lesser of 25 percent of past-due benefits or $9,200, approved and paid by Social Security. Because SSI back pay is often paid in installments, the fee is paid from the first installment. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "fee agreement terms; whether the firm charges for non-medical appeals and overpayment matters, and on what basis"
-        }
-       ]
+       "v": "Fees for the claim are set by federal law: the lesser of 25 percent of past-due benefits or $9,200, approved and paid by Social Security. Because SSI back pay is often paid in installments, the fee is paid from the first installment. Fees for other Social Security matters, such as non-medical appeals or overpayment issues, are explained before any work begins, and any fee for representation before Social Security must be approved by Social Security."
       }
      ]
     }
@@ -1415,17 +1321,7 @@
        },
        {
         "t": "text",
-        "v": ", so a disabling condition is not followed by a resource denial. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": ""
-         }
-        ]
+        "v": ", so a disabling condition is not followed by a resource denial."
        }
       ],
       [
@@ -1440,17 +1336,7 @@
        },
        {
         "t": "text",
-        "v": ", with the six domains and the school records built into the file. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "the firm handles children’s SSI"
-         }
-        ]
+        "v": ", with the six domains and the school records built into the file."
        }
       ],
       [
@@ -1480,21 +1366,7 @@
        },
        {
         "t": "text",
-        "v": " We appear at "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "Detroit, Oak Park, Livonia, and the other offices the firm covers"
-         }
-        ]
-       },
-       {
-        "t": "text",
-        "v": "."
+        "v": " We appear at Michigan hearing offices across the state, including Detroit, Oak Park, and Livonia, and at hearings held by video or phone."
        }
       ],
       [
@@ -1667,8 +1539,8 @@
    }
   ]
  },
- "wordCount": 3140,
- "openItems": 13,
+ "wordCount": 3108,
+ "openItems": 1,
  "source": {
   "file": "B2-19_Michigan-SSI-Lawyer.docx",
   "delivered": "2026-10-16"

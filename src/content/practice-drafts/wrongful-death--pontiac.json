@@ -585,17 +585,7 @@
       },
       {
        "t": "text",
-       "v": ". "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": ""
-        }
-       ]
+       "v": "."
       }
      ]
     },
@@ -794,17 +784,7 @@
       },
       {
        "t": "text",
-       "v": " Pontiac is a city, so the road defendant can be the State, the City, or the Road Commission. Woodward, the Loop, Telegraph, M-59, and I-75 are MDOT’s, with written notice of a road defect filed with the Court of Claims within 120 days (MCL 691.1404); most city streets are the City of Pontiac’s and some roads are the Road Commission for Oakland County’s, each with written notice within 120 days (MCL 691.1402, 691.1404). The City answers for its sidewalks and buildings with the same 120-day notice (MCL 691.1402a, 691.1406). A crash with a Sheriff’s patrol car is a claim against Oakland County, which polices Pontiac under contract; a fire engine answering a Pontiac call is usually Waterford Township’s, because the Waterford Regional Fire Department serves the city under contract; and SMART and City vehicles fall under the motor vehicle exception (MCL 691.1405). An individual government employee is liable only for gross negligence (MCL 691.1407(2)). "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": ""
-        }
-       ]
+       "v": " Pontiac is a city, so the road defendant can be the State, the City, or the Road Commission. Woodward, the Loop, Telegraph, M-59, and I-75 are MDOT’s, with written notice of a road defect filed with the Court of Claims within 120 days (MCL 691.1404); most city streets are the City of Pontiac’s and some roads are the Road Commission for Oakland County’s, each with written notice within 120 days (MCL 691.1402, 691.1404). The City answers for its sidewalks and buildings with the same 120-day notice (MCL 691.1402a, 691.1406). A crash with a Sheriff’s patrol car is a claim against Oakland County, which polices Pontiac under contract; a fire engine answering a Pontiac call is usually Waterford Township’s, because the Waterford Regional Fire Department serves the city under contract; and SMART and City vehicles fall under the motor vehicle exception (MCL 691.1405). An individual government employee is liable only for gross negligence (MCL 691.1407(2))."
       }
      ]
     }
@@ -853,17 +833,7 @@
        [
         {
          "t": "text",
-         "v": "MCL 600.5805(2), 600.5827, 600.2922 "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "ATTORNEY CHECK",
-           "v": ""
-          }
-         ]
+         "v": "MCL 600.5805(2), 600.5827, 600.2922"
         }
        ]
       ],
@@ -1299,8 +1269,8 @@
    }
   ]
  },
- "wordCount": 2971,
- "openItems": 3,
+ "wordCount": 2962,
+ "openItems": 0,
  "source": {
   "file": "B3-87_Pontiac-Wrongful-Death-Lawyer.docx",
   "delivered": "October 25, 2026 [CONFIRM: Batch 3 delivery date]"

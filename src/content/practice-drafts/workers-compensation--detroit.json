@@ -30,21 +30,7 @@
    "c": [
     {
      "t": "text",
-     "v": "ATLAW is a personal injury firm at 3 Parklane Boulevard in Dearborn, minutes from downtown Detroit. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients. "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "CONFIRM",
-       "v": "scope of the comp practice; see note"
-      }
-     ]
-    },
-    {
-     "t": "text",
-     "v": " Our "
+     "v": "ATLAW is a personal injury firm at 3 Parklane Boulevard in Dearborn, minutes from downtown Detroit. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients. ATLAW helps injured workers with workers’ compensation claims and reviews every work injury for a possible claim against a third party. Our "
     },
     {
      "t": "link",
@@ -353,17 +339,7 @@
       },
       {
        "t": "text",
-       "v": " Stellantis Jefferson North and Mack, General Motors’ Factory Zero on the Hamtramck line, and the suppliers and stamping, logistics, and tooling operations around them. Repetitive-motion and lifting injuries, crush and amputation injuries from presses and robotics, falls, and chemical exposures. The automakers are self-insured and have plant medical departments; the first 28 days of care are typically there. Union contracts add grievance rights and sickness-and-accident benefits that interact with comp. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "S&A coordination under MCL 418.354"
-        }
-       ]
+       "v": " Stellantis Jefferson North and Mack, General Motors’ Factory Zero on the Hamtramck line, and the suppliers and stamping, logistics, and tooling operations around them. Repetitive-motion and lifting injuries, crush and amputation injuries from presses and robotics, falls, and chemical exposures. The automakers are self-insured and have plant medical departments; the first 28 days of care are typically there. Union contracts add grievance rights and sickness-and-accident benefits that interact with comp."
       }
      ]
     },
@@ -399,17 +375,7 @@
       },
       {
        "t": "text",
-       "v": " Police, fire, EMS, DDOT drivers and mechanics, Public Works, and Water and Sewerage. The City is self-insured. Firefighters have a statutory presumption that certain cancers arose from employment (MCL 418.405). Police and firefighters also have duty-disability and pension provisions under the City’s retirement systems and bargaining agreements that run alongside comp and must be coordinated. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "418.405 presumption; City duty-disability coordination"
-        }
-       ]
+       "v": " Police, fire, EMS, DDOT drivers and mechanics, Public Works, and Water and Sewerage. The City is self-insured. Firefighters have a statutory presumption that certain cancers arose from employment (MCL 418.405). The presumption applies to members of fully paid fire departments with at least 60 months of service, is rebuttable, and is paid through the First Responder Presumed Coverage Fund. Police and firefighters also have duty-disability and pension provisions under the City’s retirement systems and bargaining agreements that run alongside comp and must be coordinated."
       }
      ]
     },
@@ -495,17 +461,7 @@
       },
       {
        "t": "text",
-       "v": " A worker placed by a staffing agency is the agency’s employee for comp purposes, and the host employer may also be treated as an employer entitled to the exclusive-remedy bar. Who the employer is, and who can be sued, is decided under Michigan’s economic-reality test and should be analyzed in the first week. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": ""
-        }
-       ]
+       "v": " A worker placed by a staffing agency is the agency’s employee for comp purposes, and the host employer may also be treated as an employer entitled to the exclusive-remedy bar. Who the employer is, and who can be sued, is decided under Michigan’s economic-reality test and should be analyzed in the first week."
       }
      ]
     },
@@ -523,21 +479,7 @@
       },
       {
        "t": "text",
-       "v": " Michigan courts have held that medical benefits are owed regardless of immigration status, but that wage-loss benefits may be suspended while a worker cannot lawfully accept employment. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "current state of the law after Sanchez v Eagle Alloy and its progeny; confirm the firm wants this paragraph"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " Call before speaking to the adjuster."
+       "v": " Michigan courts have held that medical benefits are owed regardless of immigration status, but that wage-loss benefits may be suspended while a worker cannot lawfully accept employment. Call before speaking to the adjuster."
       }
      ]
     }
@@ -716,17 +658,7 @@
       },
       {
        "t": "text",
-       "v": " is a total-and-permanent-disability claim and, where a third party is at fault, a catastrophic injury suit. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "SSD/comp offset under 42 USC 424a"
-        }
-       ]
+       "v": " is a total-and-permanent-disability claim and, where a third party is at fault, a catastrophic injury suit."
       }
      ]
     }
@@ -957,17 +889,7 @@
        },
        {
         "t": "text",
-        "v": ". "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "ATTORNEY CHECK",
-          "v": "3109 coordination"
-         }
-        ]
+        "v": "."
        }
       ],
       [
@@ -1388,49 +1310,19 @@
       [
        {
         "t": "text",
-        "v": "Experience against the self-insured employers and third-party administrators that handle Detroit claims. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": ""
-         }
-        ]
+        "v": "Claims handled involving self-insured employers and the third-party administrators that manage many Detroit claims."
        }
       ],
       [
        {
         "t": "text",
-        "v": "Both claims coordinated: the comp claim before the agency and the third-party suit in the Third Circuit, with the lien negotiated at the end. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "scope"
-         }
-        ]
+        "v": "Both claims coordinated: the comp claim before the agency and the third-party suit in the Third Circuit, with the lien negotiated at the end."
        }
       ],
       [
        {
         "t": "text",
-        "v": "Fees set by state rule and approved by the magistrate; nothing up front, nothing unless benefits are recovered. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "fee structure for contested claims and redemptions"
-         }
-        ]
+        "v": "Fees are contingent and limited by state rule, paid only from benefits recovered and approved by the magistrate; nothing up front, nothing unless benefits are recovered."
        }
       ],
       [
@@ -1513,17 +1405,7 @@
    "answer": [
     {
      "t": "text",
-     "v": "Nothing up front. Fees are limited by state rule to a percentage of the benefits recovered and must be approved by the magistrate. You owe nothing if no benefits are recovered. "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "CONFIRM",
-       "v": ""
-      }
-     ]
+     "v": "Nothing up front. Fees are limited by state rule to a percentage of the benefits recovered and must be approved by the magistrate. You owe nothing if no benefits are recovered."
     }
    ]
   },
@@ -1532,17 +1414,7 @@
    "answer": [
     {
      "t": "text",
-     "v": "Medical benefits, yes. Wage-loss benefits are more complicated under current Michigan law. Call before you speak to the adjuster. "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "ATTORNEY CHECK",
-       "v": "keep or remove"
-      }
-     ]
+     "v": "Medical benefits, yes. Wage-loss benefits are more complicated under current Michigan law. Call before you speak to the adjuster."
     }
    ]
   }
@@ -1589,8 +1461,8 @@
    }
   ]
  },
- "wordCount": 2696,
- "openItems": 14,
+ "wordCount": 2679,
+ "openItems": 2,
  "source": {
   "file": "B2-67_Detroit-Workers-Compensation-Lawyer.docx",
   "delivered": "2026-10-16"

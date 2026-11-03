@@ -309,17 +309,7 @@
       },
       {
        "t": "text",
-       "v": " The value of the claim is set mostly by the medical record, so we make sure it is complete and the bills are paid while you treat, collecting records from Corewell Health Dearborn, Henry Ford Medical Center Fairlane, the Detroit hospitals, and your own physicians and therapists, and documenting lost wages with your employer, whether that is Ford, the Rouge, a Michigan Avenue business, or a hospital. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "hospital list"
-        }
-       ]
+       "v": " The value of the claim is set mostly by the medical record, so we make sure it is complete and the bills are paid while you treat, collecting records from Corewell Health Dearborn, other area hospitals, the Detroit hospitals, and your own physicians and therapists, and documenting lost wages with your employer, whether that is Ford, the Rouge, a Michigan Avenue business, or a hospital."
       }
      ]
     },
@@ -337,17 +327,7 @@
       },
       {
        "t": "text",
-       "v": " When your condition has stabilized, we send a demand with the complete record and a valuation; the decision to accept any offer is yours (MRPC 1.2). If the insurer will not pay fair value, suit is filed: claims up to $25,000 in the 19th District Court at 16077 Michigan Avenue, a short drive from the office; injury suits over $25,000 in the Third Judicial Circuit Court in Detroit, which may send injury cases to case evaluation (MCR 2.403) or facilitation before trial. At settlement we resolve the liens (Medicaid, Medicare, health plan) before you are paid; minors’ settlements and wrongful death distributions are approved by the court (MCR 2.420; MCL 600.2922(6)). Compensation for physical injury is not taxable income (26 USC 104(a)(2)). "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": ""
-        }
-       ]
+       "v": " When your condition has stabilized, we send a demand with the complete record and a valuation; the decision to accept any offer is yours (MRPC 1.2). If the insurer will not pay fair value, suit is filed: claims up to $25,000 in the 19th District Court at 16077 Michigan Avenue, a short drive from the office; injury suits over $25,000 in the Third Judicial Circuit Court in Detroit, which may send injury cases to case evaluation (MCR 2.403) or facilitation before trial. At settlement we resolve the liens (Medicaid, Medicare, health plan) before you are paid; minors’ settlements and wrongful death distributions are approved by the court (MCR 2.420; MCL 600.2922(6)). Compensation for physical injury is not taxable income (26 USC 104(a)(2))."
       }
      ]
     }
@@ -759,17 +739,7 @@
        },
        {
         "t": "text",
-        "v": "  "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": ""
-         }
-        ]
+        "v": " Yes. Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish."
        }
       ],
       [
@@ -1030,17 +1000,7 @@
    "answer": [
     {
      "t": "text",
-     "v": "One-third of the recovery, the Michigan cap for injury cases, with no fee if there is no recovery. Ask how costs are handled. "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "CONFIRM",
-       "v": ""
-      }
-     ]
+     "v": "One-third of the recovery after case costs, the Michigan cap for injury cases, with no fee and no costs owed if there is no recovery. ATLAW advances the case costs, so you pay nothing up front; costs are deducted from the recovery first and the 33.3% fee is calculated on the remainder."
     }
    ]
   },
@@ -1141,8 +1101,8 @@
    }
   ]
  },
- "wordCount": 1799,
- "openItems": 4,
+ "wordCount": 1830,
+ "openItems": 0,
  "source": {
   "file": "B2-73_Dearborn-Personal-Injury-Lawyer.docx",
   "delivered": "2026-10-16"

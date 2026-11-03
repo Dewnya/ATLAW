@@ -192,7 +192,7 @@ The agreement is in writing. Read how costs are handled if the case is lost, suc
 
 **I was hit by a Taylor Police car. Who do I claim against?** The City of Taylor, under the motor vehicle exception to governmental immunity. The patrol car’s video and the dispatch records should be requested right away.
 
-**I fell on a broken sidewalk on a county road. Is that Wayne County’s claim?** Usually not. The City of Taylor has the duty to keep public sidewalks in repair, including those beside county and state roads. Written notice is due to the City within 120 days. **[ATTORNEY CHECK]**
+**I fell on a broken sidewalk on a county road. Is that Wayne County’s claim?** Usually not. The City of Taylor has the duty to keep public sidewalks in repair, including those beside county and state roads. Written notice is due to the City within 120 days.
 
 **I don’t have car insurance and was hit while walking. Who pays my medical bills?** If no one in your household has an auto policy, the Michigan Assigned Claims Plan pays your PIP benefits (MCL 500.3115). You also have a claim against the driver if your injury meets the threshold.
 

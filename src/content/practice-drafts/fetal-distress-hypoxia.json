@@ -48,17 +48,7 @@
    "c": [
     {
      "t": "text",
-     "v": "ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across Wayne, Oakland, Macomb, and Washtenaw counties. Birth injury cases are handled on contingency: no fee unless we recover money for your family, and the first conversation is free. "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "CONFIRM",
-       "v": "the firm handles birth injury cases in-house, and the attorney who leads them"
-      }
-     ]
+     "v": "ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across Wayne, Oakland, Macomb, and Washtenaw counties. Birth injury cases are handled on contingency: no fee unless we recover money for your family, and the first conversation is free. ATLAW handles these cases and works with qualified medical experts to review each one."
     }
    ]
   }
@@ -1143,17 +1133,7 @@
        [
         {
          "t": "text",
-         "v": "MCL 600.5805(8), 600.5838a "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "ATTORNEY CHECK",
-           "v": ""
-          }
-         ]
+         "v": "MCL 600.5805(8), 600.5838a"
         }
        ]
       ],
@@ -1173,17 +1153,7 @@
        [
         {
          "t": "text",
-         "v": "MCL 600.2922, 600.5852 "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "ATTORNEY CHECK",
-           "v": ""
-          }
-         ]
+         "v": "MCL 600.2922, 600.5852"
         }
        ]
       ],
@@ -1482,17 +1452,7 @@
        },
        {
         "t": "text",
-        "v": " We request the electronic monitoring archive by name and send a preservation letter the day we are retained. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": ""
-         }
-        ]
+        "v": " We request the complete electronic fetal monitoring archive and send preservation letters to the hospital."
        }
       ],
       [
@@ -1507,17 +1467,7 @@
        },
        {
         "t": "text",
-        "v": " We have the strip, the gases, and the MRI read before we tell a family whether the injury was preventable, and when it was not, we say so. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": ""
-         }
-        ]
+        "v": " We have the strip, the gases, and the MRI read before we tell a family whether the injury was preventable, and when it was not, we say so."
        }
       ],
       [
@@ -1532,17 +1482,7 @@
        },
        {
         "t": "text",
-        "v": ": obstetrics and maternal-fetal medicine, labor and delivery nursing, neonatology, pediatric neurology, pediatric neuroradiology, life care planning, and economics. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "expert network"
-         }
-        ]
+        "v": ": obstetrics and maternal-fetal medicine, labor and delivery nursing, neonatology, pediatric neurology, pediatric neuroradiology, life care planning, and economics, with reviewing experts who meet Michigan’s same-specialty requirements (MCL 600.2169)."
        }
       ],
       [
@@ -1566,23 +1506,13 @@
         "c": [
          {
           "t": "text",
-          "v": "Settlements structured to protect the child’s benefits."
+          "v": "Settlements structured to protect the child’s benefits"
          }
         ]
        },
        {
         "t": "text",
-        "v": "  "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "special needs planning coordination"
-         }
-        ]
+        "v": ", coordinated where needed with special needs planning professionals."
        }
       ],
       [
@@ -1755,8 +1685,8 @@
    }
   ]
  },
- "wordCount": 3483,
- "openItems": 8,
+ "wordCount": 3480,
+ "openItems": 1,
  "source": {
   "file": "B2-09_Michigan-Fetal-Distress-Lawsuit.docx",
   "delivered": "2026-10-16"

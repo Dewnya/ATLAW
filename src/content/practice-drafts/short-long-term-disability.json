@@ -88,17 +88,7 @@
    "c": [
     {
      "t": "text",
-     "v": "ATLAW is a Dearborn law firm serving clients for 13 years, with more than 10,000 cases handled. The firm represents Michigan claimants in long-term and short-term disability insurance claims, administrative appeals, and litigation under ERISA and Michigan law. "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "CONFIRM",
-       "v": "the firm handles LTD/ERISA claims in-house, the attorney who leads the practice, and the fee basis (contingency on past-due benefits, hourly, or hybrid)"
-      }
-     ]
+     "v": "ATLAW is a Dearborn law firm serving clients for 13 years, with more than 10,000 cases handled. The firm represents Michigan claimants in long-term and short-term disability insurance claims, administrative appeals, and litigation under ERISA and Michigan law. Each case is assigned to an ATLAW attorney. Appeals and lawsuits are handled on contingency: no fee unless benefits are recovered. ATLAW advances case-related expenses, and the fee terms are explained in a written fee agreement before work begins."
     }
    ]
   }
@@ -382,17 +372,7 @@
       },
       {
        "t": "text",
-       "v": " replaces part of your wages, commonly 60 to 70 percent, for a limited period, usually 13 to 26 weeks, after a short waiting period of a week or two. It is typically funded by the employer, sometimes through an insurer and sometimes self-insured. Michigan has no state short-term disability program, unlike New York, New Jersey, or California; a Michigan worker’s short-term coverage is whatever the employer provides, plus the Earned Sick Time Act, which took effect February 21, 2025, and generally permits employers to limit annual use of paid sick time to 72 hours, or 40 hours for qualifying small businesses, and the federal Family and Medical Leave Act, which provides eligible employees of covered employers up to 12 workweeks of generally unpaid, job-protected leave. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "ESTA as amended by 2025 PA 6"
-        }
-       ]
+       "v": " replaces part of your wages, commonly 60 to 70 percent, for a limited period, usually 13 to 26 weeks, after a short waiting period of a week or two. It is typically funded by the employer, sometimes through an insurer and sometimes self-insured. Michigan has no state short-term disability program, unlike New York, New Jersey, or California; a Michigan worker’s short-term coverage is whatever the employer provides, plus the Earned Sick Time Act, which took effect February 21, 2025, and generally permits employers to limit annual use of paid sick time to 72 hours, or 40 hours for qualifying small businesses, and the federal Family and Medical Leave Act, which provides eligible employees of covered employers up to 12 workweeks of generally unpaid, job-protected leave."
       }
      ]
     },
@@ -616,17 +596,7 @@
       },
       {
        "t": "text",
-       "v": ": self-reported symptom limitations (fibromyalgia, chronic fatigue, headache claims capped at 24 months in some policies), substance abuse limits, the requirement of “regular care” by a physician, and the policy’s own contractual limitation period for filing suit, which the Supreme Court has held may be enforceable even when it begins running before the administrative process ends, provided the period is reasonable and no controlling law prohibits it. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "Heimeshoff v. Hartford Life & Accident Ins. Co., 571 U.S. 99 (2013)"
-        }
-       ]
+       "v": ": self-reported symptom limitations (fibromyalgia, chronic fatigue, headache claims capped at 24 months in some policies), substance abuse limits, the requirement of “regular care” by a physician, and the policy’s own contractual limitation period for filing suit, which the Supreme Court has held may be enforceable even when it begins running before the administrative process ends, provided the period is reasonable and no controlling law prohibits it."
       }
      ]
     }
@@ -820,17 +790,7 @@
      "c": [
       {
        "t": "text",
-       "v": "When a disability plan fails to follow the required claims procedures, the claimant may be deemed to have exhausted administrative remedies and may pursue judicial review. The regulation generally treats such a denial as made without the exercise of fiduciary discretion, subject to a narrow exception for qualifying minor, nonprejudicial violations. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "29 CFR 2560.503-1(l)(2)"
-        }
-       ]
+       "v": "When a disability plan fails to follow the required claims procedures, the claimant may be deemed to have exhausted administrative remedies and may pursue judicial review. The regulation generally treats such a denial as made without the exercise of fiduciary discretion, subject to a narrow exception for qualifying minor, nonprejudicial violations."
       }
      ]
     },
@@ -1128,17 +1088,7 @@
        },
        {
         "t": "text",
-        "v": " Some denials rely on a physician who reviewed the file without examining the claimant. The Sixth Circuit has recognized that file reviews are not inherently improper, but their thoroughness and treatment of contrary medical evidence can matter, particularly when the insurer chose not to examine the claimant despite having the right to do so. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "ATTORNEY CHECK",
-          "v": "Sixth Circuit authority, e.g, Calvert v. Firstar Finance, 409 F.3d 286 (6th Cir. 2005); Shaw v. AT&T Umbrella Benefit Plan No. 1, 795 F.3d 538 (6th Cir. 2015)"
-         }
-        ]
+        "v": " Some denials rely on a physician who reviewed the file without examining the claimant. The Sixth Circuit has recognized that file reviews are not inherently improper, but their thoroughness and treatment of contrary medical evidence can matter, particularly when the insurer chose not to examine the claimant despite having the right to do so."
        }
       ],
       [
@@ -1280,17 +1230,7 @@
       },
       {
        "t": "text",
-       "v": " and decides for itself whether the claimant is disabled. Michigan prohibits discretionary clauses in covered insurance policies under Mich. Admin. Code R 500.2201–500.2202, a prohibition upheld by the Sixth Circuit in American Council of Life Insurers v. Ross. This can require de novo review even when the policy contains language granting discretion. Whether the prohibition applies depends on the policy and funding arrangement. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "current status of Michigan discretionary-clause regulation"
-        }
-       ]
+       "v": " and decides for itself whether the claimant is disabled. Michigan prohibits discretionary clauses in covered insurance policies under Mich. Admin. Code R 500.2201–500.2202, a prohibition upheld by the Sixth Circuit in American Council of Life Insurers v. Ross. This can require de novo review even when the policy contains language granting discretion. Whether the prohibition applies depends on the policy and funding arrangement."
       }
      ]
     },
@@ -1359,23 +1299,13 @@
        "c": [
         {
          "t": "text",
-         "v": "The deadline to sue may be governed by an enforceable contractual limitation period in the plan. If no enforceable period applies, courts look to the most analogous state limitations statute; Michigan generally allows six years for ordinary contract claims under MCL 600.5807. A plan’s contractual period may begin running before the final administrative denial, so the applicable deadline must be identified early."
+         "v": "The deadline to sue may be governed by an enforceable contractual limitation period in the plan. If no enforceable period applies, courts look to the most analogous state limitations statute; Michigan generally allows six years for ordinary contract claims under MCL 600.5807(9). A plan’s contractual period may begin running before the final administrative denial, so the applicable deadline must be identified early."
         }
        ]
       },
       {
        "t": "text",
-       "v": ". "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": ""
-        }
-       ]
+       "v": "."
       }
      ]
     }
@@ -1468,17 +1398,7 @@
      "c": [
       {
        "t": "text",
-       "v": "For many policies outside ERISA, Michigan insurance and contract law applies, although some governmental and other arrangements are subject to separate rules, and it is a different world: a jury, discovery, witnesses, the ordinary rules of contract and insurance law, and, under MCL 500.2006, 12 percent annual interest may apply to qualifying late-paid insurance benefits, generally calculated beginning 60 days after the insurer receives satisfactory proof of loss, subject to the statute’s requirements. Michigan does not recognize a freestanding tort of bad faith against a first-party insurer, but the Uniform Trade Practices Act’s interest penalty and contract damages are substantial, and the claimant is not confined to the insurer’s file. Determining which law governs is the first step in every disability insurance case, and the answer is not always obvious from the policy’s cover. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": ""
-        }
-       ]
+       "v": "For many policies outside ERISA, Michigan insurance and contract law applies, although some governmental and other arrangements are subject to separate rules, and it is a different world: a jury, discovery, witnesses, the ordinary rules of contract and insurance law, and, under MCL 500.2006, 12 percent annual interest may apply to qualifying late-paid insurance benefits, generally calculated beginning 60 days after the insurer receives satisfactory proof of loss, subject to the statute’s requirements. Michigan does not recognize a freestanding tort of bad faith against a first-party insurer, but the Uniform Trade Practices Act’s interest penalty and contract damages are substantial, and the claimant is not confined to the insurer’s file. Determining which law governs is the first step in every disability insurance case, and the answer is not always obvious from the policy’s cover."
       }
      ]
     }
@@ -1734,17 +1654,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Fees in disability insurance cases are not set by federal law as Social Security fees are. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "the firm’s fee structure for LTD administrative appeals and litigation; whether contingency on past-due benefits, hourly, or hybrid; whether the firm advances costs"
-        }
-       ]
+       "v": "Fees in disability insurance cases are not set by federal law as Social Security fees are. ATLAW handles long-term disability appeals and lawsuits on a contingency basis: no fee unless benefits are recovered. The firm advances case-related expenses, the fee terms are explained in a written fee agreement before work begins, and there is no charge for the initial consultation."
       }
      ]
     }
@@ -1780,17 +1690,7 @@
        },
        {
         "t": "text",
-        "v": ", with the claim file read first and the record completed before the insurer closes it. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "practice"
-         }
-        ]
+        "v": ", with the complete claim file requested first and the record a court may later review completed before the insurer closes it."
        }
       ],
       [
@@ -1805,17 +1705,7 @@
        },
        {
         "t": "text",
-        "v": ", with the governing law identified at the first meeting. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": ""
-         }
-        ]
+        "v": ", with the governing law identified at the first meeting."
        }
       ],
       [
@@ -1830,17 +1720,7 @@
        },
        {
         "t": "text",
-        "v": ", so the award does not become a repayment surprise. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": ""
-         }
-        ]
+        "v": ", so the award does not become a repayment surprise."
        }
       ],
       [
@@ -1897,17 +1777,7 @@
        },
        {
         "t": "text",
-        "v": " claims. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "carriers the firm has handled claims against"
-         }
-        ]
+        "v": " claims."
        }
       ],
       [
@@ -1952,17 +1822,7 @@
        },
        {
         "t": "text",
-        "v": " "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "fee structure; free initial review"
-         }
-        ]
+        "v": " Long-term disability appeals and lawsuits are handled on contingency: no fee unless benefits are recovered. ATLAW advances case-related expenses, and the fee terms are explained in a written fee agreement before work begins. The initial consultation is free."
        }
       ]
      ]
@@ -2084,24 +1944,14 @@
      },
      {
       "t": "text",
-      "v": " or send the form on this page before your appeal deadline runs. We identify the governing law, obtain the claim file, build the appeal as the record the court will read, coordinate your Social Security claim, and litigate when the insurer does not relent. We respond within one business day. "
-     },
-     {
-      "t": "strong",
-      "c": [
-       {
-        "t": "placeholder",
-        "kind": "CONFIRM",
-        "v": "fee terms for the CTA"
-       }
-      ]
+      "v": " or send the form on this page before your appeal deadline runs. We identify the governing law, obtain the claim file, build the appeal as the record the court will read, coordinate your Social Security claim, and litigate when the insurer does not relent. We respond within one business day. There is no fee unless benefits are recovered, and the initial review is free; the fee terms are explained in a written agreement before any work begins."
      }
     ]
    }
   ]
  },
- "wordCount": 3970,
- "openItems": 15,
+ "wordCount": 3978,
+ "openItems": 0,
  "source": {
   "file": "B2-21_Michigan-Long-Term-Disability-Lawyer.docx",
   "delivered": "2026-10-16"

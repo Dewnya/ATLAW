@@ -45,7 +45,7 @@ We obtain the police report (the UD-10, purchased through CLEMIS), the Warren Fi
 
 **The first month.** We identify every policy that may pay: your own auto policy for no-fault benefits, household policies, the at-fault party’s liability coverage, your uninsured and underinsured motorist coverage, a property owner’s commercial policy, umbrella policies, and the Michigan Assigned Claims Plan where no auto policy exists (MCL 500.3172). For a workplace injury, we identify whether a third party, such as a contractor, a vendor’s driver, or an equipment manufacturer, caused it, because the employer itself usually cannot be sued (MCL 418.131). We file your Application for No-Fault Benefits inside the one-year window (MCL 500.3145(1)) and handle the insurer’s requests for statements, records, and examinations (MCL 500.3151). You stop talking to adjusters; we do that.
 
-**The treatment period.** The claim’s value is set mostly by the medical record, so we make sure it is complete and the bills are paid while you treat. We collect records from Henry Ford Warren Hospital on Twelve Mile (formerly Ascension Macomb-Oakland, Warren campus), Henry Ford Macomb, McLaren Macomb, and your own physicians and therapists **[CONFIRM: hospital list]**, and document lost wages with your employer, including overtime and shift premiums that plant workers often lose.
+**The treatment period.** The claim’s value is set mostly by the medical record, so we make sure it is complete and the bills are paid while you treat. We collect records from Henry Ford Warren Hospital on Twelve Mile (formerly Ascension Macomb-Oakland, Warren campus), Henry Ford Macomb, McLaren Macomb, and your own physicians and therapists, and document lost wages with your employer, including overtime and shift premiums that plant workers often lose.
 
 **The demand, the suit, and the resolution.** When your condition has stabilized, we send a demand with the complete record and a valuation. The decision to accept any offer is yours (MRPC 1.2). If the insurer will not pay fair value, suit is filed in the right court:
 
@@ -103,7 +103,7 @@ Michigan caps contingency fees in injury cases at one-third of the net recovery 
 | Medical malpractice | Notice of Intent, then 2 years | MCL 600.2912b, 600.5805(8) |
 | Most other injury claims | 3 years | MCL 600.5805(2)f |
 | Wrongful death | 3 years, with the estate’s savings provision | MCL 600.5805(2), 600.5852 |
-| Injured child | 3 years, or one year after the 18th birthday if later | MCL 600.5851(1) **[ATTORNEY CHECK]** |
+| Injured child | 3 years, or one year after the 18th birthday if later | MCL 600.5851(1) |
 
 ## Why Warren residents call ATLAW
 

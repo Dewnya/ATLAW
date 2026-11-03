@@ -39,17 +39,7 @@
    "c": [
     {
      "t": "text",
-     "v": "ATLAW is a Dearborn law firm serving clients across Wayne, Oakland, Macomb, and Washtenaw counties. Conversations about abuse are confidential, free, and on your terms; you decide whether anything happens next. "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "CONFIRM",
-       "v": "the firm handles sexual abuse claims and the attorney who leads them"
-      }
-     ]
+     "v": "ATLAW is a Dearborn law firm serving clients across Wayne, Oakland, Macomb, and Washtenaw counties and handles sexual abuse claims. Conversations about abuse are confidential, free, and on your terms; you decide whether anything happens next."
     }
    ]
   }
@@ -831,17 +821,7 @@
        [
         {
          "t": "text",
-         "v": "MCL 600.5805 "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "ATTORNEY CHECK",
-           "v": ""
-          }
-         ]
+         "v": "MCL 600.5805"
         }
        ]
       ],
@@ -948,17 +928,7 @@
        },
        {
         "t": "text",
-        "v": ", with a lawyer, about whether a claim exists and what pursuing it would involve, with no obligation and no pressure. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "attorney who handles these conversations"
-         }
-        ]
+        "v": ", with an ATLAW attorney, about whether a claim exists and what pursuing it would involve, with no obligation and no pressure."
        }
       ],
       [
@@ -1054,8 +1024,8 @@
      "c": [
       {
        "t": "placeholder",
-       "kind": "CONFIRM",
-       "v": "update if the firm knows otherwise"
+       "kind": "VERIFY",
+       "v": "redo the public-record check for a filed lawsuit right before publishing and add the date of that check to this answer"
       }
      ]
     }
@@ -1185,8 +1155,8 @@
    }
   ]
  },
- "wordCount": 2635,
- "openItems": 4,
+ "wordCount": 2634,
+ "openItems": 1,
  "source": {
   "file": "B2-02_Cranbrook-Sexual-Abuse-Claims.docx",
   "delivered": "2026-10-16"

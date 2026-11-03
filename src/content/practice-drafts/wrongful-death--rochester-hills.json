@@ -487,17 +487,7 @@
      "c": [
       {
        "t": "text",
-       "v": "If there is a will naming a personal representative, that person petitions for appointment. If not, a family member, usually the spouse or an adult child, petitions under Michigan’s priority rules (MCL 700.3203). The court issues letters of authority, and the personal representative then has standing to hire a lawyer for the estate and file. We file the petition as the first legal step. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "EPIC appointment summary"
-        }
-       ]
+       "v": "If there is a will naming a personal representative, that person petitions for appointment. If not, a family member, usually the spouse or an adult child, petitions under Michigan’s priority rules (MCL 700.3203). The court issues letters of authority, and the personal representative then has standing to hire a lawyer for the estate and file. We file the petition as the first legal step."
       }
      ]
     },
@@ -2124,8 +2114,8 @@
    }
   ]
  },
- "wordCount": 3217,
- "openItems": 1,
+ "wordCount": 3212,
+ "openItems": 0,
  "source": {
   "file": "B4-18_Rochester-Hills-Wrongful-Death-Lawyer.docx",
   "delivered": "October 25, 2026 [CONFIRM: Batch 4 delivery date]"

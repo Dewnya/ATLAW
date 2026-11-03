@@ -87,7 +87,7 @@ Leaving the scene of a crash that injures a person is a felony in Michigan (MCL 
 1. **No-fault benefits through the Assigned Claims Plan.** If the vehicle is never identified, the MACP assigns an insurer to pay your medical bills and wage loss, up to the $250,000 medical cap, unless you have your own or a household policy, which pays first (MCL 500.3172).
 2. **Uninsured motorist (UM) coverage for pain and suffering.** If you or a household member carries UM coverage, it stands in for the fleeing driver’s liability insurance. Policies impose conditions: a police report within a set time, sometimes evidence of physical contact. Report the crash immediately and read the policy early.
 
-If the driver is later identified, which happens through license plate readers, Detroit’s Project Green Light and business cameras, and body-shop reports, the claims convert to ordinary ones against the driver and owner. **[CONFIRM: the firm requests camera footage and canvasses for witnesses in hit-and-run cases]**
+If the driver is later identified, which happens through license plate readers, Detroit’s Project Green Light and business cameras, and body-shop reports, the claims convert to ordinary ones against the driver and owner. Where appropriate, we request available camera footage and look for witnesses.
 
 ## Pedestrians hurt by sidewalks, roads, and government vehicles
 
@@ -139,7 +139,7 @@ Pedestrian cases are valued high relative to other crash cases because the injur
 
 - **Thirteen years, more than 10,000 cases, more than $100 million recovered.**
 - **The right insurer, the first time.** We identify the responsible no-fault insurer under MCL 500.3114 and 500.3115 and give notice in the first week.
-- **Hit-and-run investigation.** Camera canvass, witness canvass, and police follow-up; Assigned Claims Plan application filed while the search continues. **[CONFIRM]**
+- **Hit-and-run investigation.** Where available, camera footage, witnesses, and police follow-up; an Assigned Claims Plan application filed while the search continues.
 - **Both claims, one firm.** The no-fault claim and the claim against the driver are coordinated so that one does not undercut the other.
 - **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 - **Languages.** Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish.

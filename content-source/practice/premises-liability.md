@@ -78,7 +78,7 @@ Michigan’s comparative fault statute (MCL 600.2959) reduces your pain-and-suff
 | **Slip, trip, and fall** on spills, debris, worn flooring, and changes in elevation | Invitee duty, notice, and comparative fault. See our [slip and fall](/personal-injury/slip-and-fall) page |
 | **Snow and ice** on walkways, steps, and parking lots | The same duty applies to natural accumulations; the owner must take reasonable steps within a reasonable time after the storm. A landlord’s statutory duty to keep common areas fit for their intended use requires more than a lot that is merely passable (MCL 554.139; Allison v AEW Capital Management, 2008) |
 | **Stairs, handrails, lighting, and building code violations** | Violation of a building code or ordinance is evidence of negligence; violation of a statute creates a rebuttable presumption of negligence (Candelaria v BC General Contractors, 1999). Code inspection reports and permits are discoverable |
-| **Negligent security**: assaults, shootings, and robberies in parking lots, apartment buildings, bars, and stores | A merchant has no duty to anticipate the criminal acts of third parties, but must respond reasonably to a situation occurring on the premises, which ordinarily means calling the police (MacDonald v PKT, 2001). A landlord’s duty is the same with respect to common areas (Bailey v Schaaf, 2013). Prior crimes on the property, broken locks and gates, non-functioning cameras, and unanswered complaints are the evidence. **[ATTORNEY CHECK: current scope of the merchant and landlord duty]** |
+| **Negligent security**: assaults, shootings, and robberies in parking lots, apartment buildings, bars, and stores | A merchant has no duty to anticipate the criminal acts of third parties, but must respond reasonably to a situation occurring on the premises, which ordinarily means calling the police (MacDonald v PKT, 2001). A landlord’s duty is the same with respect to common areas (Bailey v Schaaf, 2013). Prior crimes on the property, broken locks and gates, non-functioning cameras, and unanswered complaints are the evidence. |
 | **Apartment and rental injuries** | Landlord duties under the lease and MCL 554.139; see our [tenant injury](/personal-injury/tenant-injuries) page |
 | **Dog bites and animal attacks** on the owner’s or a landlord’s property | Strict liability under MCL 287.351 for the owner; a landlord is liable only with knowledge and control. See our [dog bite](/personal-injury/dog-bites) page |
 | **Elevators and escalators** | State inspection and licensing rules (MCL 408.801 and following); maintenance contractor records; the building owner and the elevator company are both defendants |
@@ -94,8 +94,8 @@ Government agencies are immune from most negligence claims, with exceptions that
 
 - **Public buildings.** A government is liable for injury from a dangerous or defective condition of a public building it owns if it knew or should have known of the defect and failed to remedy it in a reasonable time (MCL 691.1406). The exception covers the building itself, not its design or the activities inside it (Renny v Michigan Department of Transportation, 2007), and requires written notice to the agency within 120 days of the injury.
 - **Sidewalks.** A city is liable for a sidewalk defect only with notice, and only for a vertical discontinuity of two inches or more or another unreasonably dangerous condition (MCL 691.1402a), with 120-day notice (MCL 691.1404). See our [sidewalk injury](/personal-injury/sidewalk-injuries) page.
-- **Parks, pools, and recreation.** Most injuries in public parks fall outside the exceptions unless a building or a highway is involved. **[ATTORNEY CHECK]**
-- **State property.** Claims against the state and state universities go to the Court of Claims with a notice of intention within six months (MCL 600.6431). **[ATTORNEY CHECK: current notice period]**
+- **Parks, pools, and recreation.** Most injuries in public parks fall outside the exceptions unless a building or a highway is involved.
+- **State property.** Claims against the state and state universities go to the Court of Claims with a notice of intention within six months (MCL 600.6431).
 
 The 120-day notice is the deadline that ends more government premises claims than any other rule. It runs from the injury, not from when you learn the owner was a government.
 
@@ -115,7 +115,7 @@ Michigan’s trespass liability statute (MCL 554.581–554.585) limits an owner�
 | Photographs of the condition | Your phone, the same day | Taken or not |
 | Your footwear and clothing | Your home | Keep them unwashed and unrepaired |
 
-A written preservation demand to the property owner and its insurer within days is the single most important step in a premises case. **[CONFIRM: the firm sends preservation letters within days of retention]**
+A written preservation demand to the property owner and its insurer, sent as early as possible, is one of the most important steps in a premises case.
 
 ## Who pays: insurance in premises cases
 
@@ -142,16 +142,16 @@ Medical expenses, lost wages and earning capacity, pain and suffering, loss of e
 | Lawsuit for injury on private property | 3 years from the injury | MCL 600.5805(2) |
 | Wrongful death | 3 years, with saving provisions for the estate | MCL 600.5805, 600.5852 |
 | Written notice of a public building or sidewalk claim against a city, county, or the state | 120 days from the injury | MCL 691.1404, 691.1406 |
-| Notice of intention to file against the state (Court of Claims) | 6 months from the injury **[ATTORNEY CHECK]** | MCL 600.6431 |
+| Notice of intention to file against the state (Court of Claims) | 6 months from the injury | MCL 600.6431 |
 | Child’s claim | Until the child’s 19th birthday | MCL 600.5851 |
 | Preservation of video | Days; a written demand should go out in the first week | Practice |
 
 ## Why metro Detroit property-injury clients call ATLAW
 
 - **Thirteen years, more than 10,000 cases, more than $100 million recovered.**
-- **Preservation letters in the first week**, to the owner, the manager, the insurer, and any contractor. **[CONFIRM]**
+- **Preservation letters** to the owner, the manager, the insurer, and any contractor.
 - **Post-2023 law applied.** Every “open and obvious” denial is answered with Kandil-Elsayed.
-- **Government notices calendared on intake.** The 120-day and six-month notices are identified and sent. **[CONFIRM]**
+- **Government notices tracked from the start.** The 120-day and six-month notices are identified and sent.
 - **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 - **Languages.** Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish.
 - **No fee unless we recover.** ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs. No cost for the first conversation.

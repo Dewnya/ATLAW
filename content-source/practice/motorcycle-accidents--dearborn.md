@@ -23,8 +23,8 @@ ATLAW is a personal injury firm at 3 Parklane Boulevard in Dearborn. In 13 years
 
 | Measure | Figure | Source |
 | --- | --- | --- |
-| Motorcycle crashes in Dearborn / riders injured / killed | **[CONFIRM: data]** | MSP Michigan Traffic Crash Facts, city profile |
-| Motorcycle crashes in Wayne County / riders injured / killed | **[CONFIRM: data]** | MSP, county profile |
+| Motorcycle crashes in Dearborn / riders injured / killed | **[VERIFY: pull the 2024 figures from MSP Michigan Traffic Crash Facts (city or county profile) or delete this row]** | MSP Michigan Traffic Crash Facts, city profile |
+| Motorcycle crashes in Wayne County / riders injured / killed | **[VERIFY: pull the 2024 figures from MSP Michigan Traffic Crash Facts (city or county profile) or delete this row]** | MSP, county profile |
 | Michigan motorcycle crashes / riders injured / killed | 3,187 / 2,460 / 168 | MSP, 2024 Motorcycle Crash Facts |
 | Share of Michigan rider deaths involving alcohol | 31 percent | MSP 2024 |
 | Wayne County crashes / injured / killed, all vehicles | 50,355 / 16,458 / 177 | MSP 2024 |
@@ -33,17 +33,17 @@ ATLAW is a personal injury firm at 3 Parklane Boulevard in Dearborn. In 13 years
 
 ## Where Dearborn motorcycle crashes happen
 
-**The left-turn crash on the arterials.** Michigan Avenue, Ford Road, Telegraph, Greenfield, Schaefer, Warren, and Outer Drive: wide, multi-lane, with a car turning left across the rider’s lane at every signal and every driveway along the east-side business district and Fairlane. “I didn’t see the motorcycle” is a recurring account, and under Michigan law a driver must yield to oncoming traffic before turning left (MCL 257.650). **[ATTORNEY CHECK]**
+**The left-turn crash on the arterials.** Michigan Avenue, Ford Road, Telegraph, Greenfield, Schaefer, Warren, and Outer Drive: wide, multi-lane, with a car turning left across the rider’s lane at every signal and every driveway along the east-side business district and Fairlane. “I didn’t see the motorcycle” is a recurring account, and under Michigan law a driver must yield to oncoming traffic before turning left (MCL 257.650(2)).
 
 **The freeways.** I-94 across the south of the city and its interchanges with the Southfield Freeway, Rotunda, Oakwood, and Greenfield; M-39 with its short ramps. Lane-change crashes by drivers who did not check the mirror, rear-end crashes in stopped traffic, and single-vehicle crashes on grooved pavement, expansion joints, and the ramps.
 
-**The road itself.** Potholes, pavement drop-offs, steel plates, and gravel produce the single-vehicle crashes no-fault does not cover. A rider thrown by a road defect has a claim against whichever agency has jurisdiction, under the highway exception to governmental immunity (MCL 691.1402). In Dearborn that split matters: Michigan Avenue, Ford Road, Telegraph, the Southfield Freeway, and I-94 are MDOT’s, with written notice filed in the Court of Claims within 120 days (MCL 691.1404); Greenfield, Outer Drive, and Warren are Wayne County’s and Schaefer and the neighborhood streets are the City’s, with 120 days’ written notice (MCL 691.1404). The agency must have known, or be presumed to have known, of the defect; a defect that was readily apparent for 30 days or more is presumed known (MCL 691.1403). Notice to the wrong agency is not notice. **[ATTORNEY CHECK: jurisdiction list; 1403 presumption]**
+**The road itself.** Potholes, pavement drop-offs, steel plates, and gravel produce the single-vehicle crashes no-fault does not cover. A rider thrown by a road defect has a claim against whichever agency has jurisdiction, under the highway exception to governmental immunity (MCL 691.1402). In Dearborn that split matters: Michigan Avenue, Ford Road, Telegraph, the Southfield Freeway, and I-94 are MDOT’s, with written notice filed in the Court of Claims within 120 days (MCL 691.1404); Greenfield, Outer Drive, and Warren are Wayne County’s and Schaefer and the neighborhood streets are the City’s, with 120 days’ written notice (MCL 691.1404). The agency must have known, or be presumed to have known, of the defect; a defect that was readily apparent for 30 days or more is presumed known (MCL 691.1403). Notice to the wrong agency is not notice.
 
 **The industrial south.** Rotunda, Oakwood, and Miller Road, shared with heavy trucks to the Rouge; a rider struck by a truck has the federal-rules case described on our [Dearborn truck accident page](/personal-injury/truck-accidents/dearborn).
 
 ## Who pays a Dearborn rider’s medical bills
 
-**If a car or truck was involved, you have no-fault benefits, but not from your motorcycle insurer.** Under MCL 500.3114(5), your Personal Injury Protection benefits come, in this order, from the insurer of the owner of the motor vehicle involved, then the insurer of that vehicle’s driver, then your own auto insurer if you have a car policy, then the auto insurer of the motorcycle’s owner if someone else owns it. “Involved” does not require contact; a car that cut you off and caused you to go down is involved even if it never touched you. If no insurer in that chain exists, the Michigan Assigned Claims Plan pays (MCL 500.3172), with its $250,000 medical cap. **[ATTORNEY CHECK: the fourth position in 3114(5) is the motor vehicle insurer of the motorcycle’s owner, not the motorcycle policy itself; the motorcycle hub and the Detroit motorcycle page say “the insurer of your motorcycle” and should be aligned; MACP eligibility for riders]**
+**If a car or truck was involved, you have no-fault benefits, but not from your motorcycle insurer.** Under MCL 500.3114(5), your Personal Injury Protection benefits come, in this order, from the insurer of the owner of the motor vehicle involved, then the insurer of that vehicle’s driver, then your own auto insurer if you have a car policy, then the motor vehicle insurer of the motorcycle’s owner or registrant. “Involved” does not require contact; a car that cut you off and caused you to go down is involved even if it never touched you. If no insurer in that chain exists, the Michigan Assigned Claims Plan pays (MCL 500.3172), with its $250,000 medical cap.
 
 The benefits are the ones a driver would get under MCL 500.3107: medical expenses up to the PIP limit on the policy that pays, 85 percent of lost wages for up to three years up to the monthly cap DIFS sets each October, $20 a day in replacement services, attendant care, and mileage. Written notice to the responsible insurer is due within one year (MCL 500.3145(1)). See our [no-fault insurance claim page](/personal-injury/car-accident-insurance).
 
@@ -63,11 +63,11 @@ For pain and suffering and economic losses beyond no-fault, you sue the at-fault
 
 ## The helmet question
 
-Since 2012, Michigan has let riders 21 and older ride without a helmet if they carry at least $20,000 in first-party medical coverage and have either held a motorcycle endorsement for two years or passed an approved safety course (MCL 257.658). If you met those conditions, riding helmetless was legal, so it was not a traffic violation. The insurer will still raise it: in a head-injury case as a damages argument for the jury, not a bar; in a leg or shoulder case it is irrelevant, and we say so. Riding helmetless without meeting the conditions is a civil infraction the insurer will use for comparative fault; it does not end the claim. **[ATTORNEY CHECK]**
+Since 2012, Michigan has let riders 21 and older ride without a helmet if they carry at least $20,000 in first-party medical coverage and have either held a motorcycle endorsement for two years or passed an approved safety course (MCL 257.658). If you met those conditions, riding helmetless was legal, so it was not a traffic violation. The insurer will still raise it: in a head-injury case as a damages argument for the jury, not a bar; in a leg or shoulder case it is irrelevant, and we say so. Riding helmetless without meeting the conditions is a civil infraction the insurer will use for comparative fault; it does not end the claim.
 
 ## What to do after a Dearborn motorcycle crash
 
-1. **Get medical care the same day.** Corewell Health Dearborn Hospital on Oakwood Boulevard, or the Detroit Level I trauma centers for the most serious injuries. **[CONFIRM: hospital list]**
+1. **Get medical care the same day.** Corewell Health Dearborn Hospital on Oakwood Boulevard, or the Detroit Level I trauma centers for the most serious injuries.
 2. **Get the Dearborn Police report.** The UD-10 is purchased online through CLEMIS. If a car caused the crash without contact, make sure the report says so.
 3. **Identify every vehicle involved**, including the one that never touched you; its insurer is first in line.
 4. **Photograph the bike, the scene, the road surface, your gear, and your injuries.** Do not repair or sell the bike.

@@ -768,23 +768,13 @@
        "c": [
         {
          "t": "text",
-         "v": "A Dearborn firm that looks for the third-party case."
+         "v": "A Dearborn firm that handles the comp claim and looks for the third-party case."
         }
        ]
       },
       {
        "t": "text",
-       "v": " Every work injury is reviewed for a claim beyond workers’ comp, because that is where pain and suffering is compensated. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "that the firm handles workers’ comp claims before the agency itself, as opposed to the third-party injury claim only; if the firm refers comp hearings to a comp specialist, the page should say so"
-        }
-       ]
+       "v": " ATLAW handles workers’ compensation claims and reviews every work injury for a claim beyond workers’ comp, because that is where pain and suffering is compensated."
       }
      ]
     },
@@ -974,8 +964,8 @@
    }
   ]
  },
- "wordCount": 2441,
- "openItems": 2,
+ "wordCount": 2416,
+ "openItems": 1,
  "source": {
   "file": "B1-08_Michigan-Workers-Compensation-Lawyer.docx",
   "delivered": "2026-10-12"

@@ -71,7 +71,7 @@ Michigan’s no-fault act is the reason the state developed a dense network of p
 - **Attendant care**: in-home supervision and assistance, which a person with a moderate or severe TBI may need around the clock. Care by family members is capped at 56 hours a week (MCL 500.3157(10)); hours beyond that must be provided by an agency, which is paid under the fee schedule.
 - **Wage loss**: 85% of lost income up to $7,455 a month for crashes on or after October 1, 2026, for three years (MCL 500.3107(1)(b)). Brain injuries end careers; losses beyond the cap and the three years are claimed from the at-fault driver.
 - **Replacement services**: $20 a day for three years for household tasks.
-- **Case management and guardianship costs** where reasonably necessary to the injured person’s care. **[ATTORNEY CHECK: compensability of guardian fees as allowable expenses]**
+- **Case management and guardianship costs** where reasonably necessary to the injured person’s care.
 
 The claim is made to your own insurer, a household insurer, or the Assigned Claims Plan (capped at $250,000), with written notice within one year (MCL 500.3145). Our [no-fault insurance claim](/personal-injury/car-accident-insurance) page covers the insurer’s 30-day payment duty and the penalties for delay.
 
@@ -79,11 +79,11 @@ The claim is made to your own insurer, a household insurer, or the Assigned Clai
 
 The 2019 amendments did two things that fell hardest on brain injury survivors. They capped family attendant care at 56 hours a week, and they imposed a fee schedule that pays providers of services without a Medicare code, which includes most residential brain injury programs and agency attendant care, 52.5% of their 2019 charges (MCL 500.3157(7)). Programs closed and patients were discharged.
 
-In Andary v USAA (July 31, 2023), the Michigan Supreme Court held that the fee schedule and the 56-hour cap do not apply to people injured before June 11, 2019, whose benefits are governed by the policy and law in effect when they were hurt. A person catastrophically injured in 2015 keeps uncapped attendant care and provider payment at reasonable charges; a person injured in 2020 does not. For catastrophic claims under policies with unlimited coverage, the insurer is reimbursed above a per-claim retention by the Michigan Catastrophic Claims Association, which is why unlimited coverage remains available at all. **[ATTORNEY CHECK: current MCCA retention and any post-Andary legislation]**
+In Andary v USAA (July 31, 2023), the Michigan Supreme Court held that the fee schedule and the 56-hour cap do not apply to people injured before June 11, 2019, whose benefits are governed by the policy and law in effect when they were hurt. A person catastrophically injured in 2015 keeps uncapped attendant care and provider payment at reasonable charges; a person injured in 2020 does not. For catastrophic claims under policies with unlimited coverage, the insurer is reimbursed above a per-claim retention, $675,000 for policies issued or renewed from July 1, 2025 through June 30, 2027, by the Michigan Catastrophic Claims Association, which is why unlimited coverage remains available at all.
 
 ## When the injured person cannot manage their own claim
 
-A moderate or severe brain injury often leaves an adult unable to make medical, financial, or legal decisions. Michigan law provides for a **guardian** to make personal and medical decisions for an incapacitated adult (MCL 700.5306) and a **conservator** to manage property and settlements (MCL 700.5401), appointed by the probate court. A settlement for a legally incapacitated person must be approved by the court, and the funds are protected in a conservatorship or a special needs trust so that Medicaid and SSI eligibility are preserved. A lawyer handling a severe TBI case coordinates the probate petition, the no-fault claim, the lawsuit, and the public-benefits planning as one matter. **[CONFIRM: the firm handles or coordinates guardianship and conservatorship petitions]**
+A moderate or severe brain injury often leaves an adult unable to make medical, financial, or legal decisions. Michigan law provides for a **guardian** to make personal and medical decisions for an incapacitated adult (MCL 700.5306) and a **conservator** to manage property and settlements (MCL 700.5401), appointed by the probate court. A settlement for a legally incapacitated person must be approved by the court, and the funds are protected in a conservatorship or a special needs trust so that Medicaid and SSI eligibility are preserved. ATLAW works with its probate team to coordinate guardianship and conservatorship petitions where they are needed, alongside the no-fault claim, the lawsuit, and the public-benefits planning.
 
 Deadlines are not automatically extended. Michigan tolls the three-year lawsuit period for a person who is “insane,” meaning unable to comprehend their rights, at the time the claim accrues (MCL 600.5851), but the Supreme Court has held that no such tolling applies to the no-fault one-year notice and one-year-back rules (Joseph v ACIA, 2012). The PIP claim must be filed within a year even for a person in a coma, by family or a guardian.
 
@@ -91,7 +91,7 @@ Deadlines are not automatically extended. Michigan tolls the three-year lawsuit 
 
 - **Falls** are Michigan’s leading cause of TBI death. A fall on unsafe property is a premises claim, with no threshold requirement and, since 2023, no “open and obvious” dismissal (Kandil-Elsayed v F & E Oil). See our [premises liability](/personal-injury/premises-liability) page.
 - **Assaults** in negligently secured apartments, bars, and parking lots; see the negligent security discussion on the same page, and the Crime Victim Services Commission for compensation when the assailant is uninsured.
-- **Sports and school.** Michigan’s youth sports concussion law requires removal from play and written clearance by a health professional before return (MCL 333.9155–333.9156). A second-impact injury after a coach ignored the rule is a negligence claim, subject to governmental immunity rules for public schools. **[ATTORNEY CHECK]**
+- **Sports and school.** Michigan’s youth sports concussion law requires removal from play and written clearance by a health professional before return (MCL 333.9155–333.9156). A second-impact injury after a coach ignored the rule is a negligence claim, subject to governmental immunity rules for public schools.
 - **Workplace** brain injuries are workers’ compensation claims against the employer and product or premises claims against third parties; see our [workers’ compensation](/personal-injury/workers-compensation) page.
 - **Medical errors**: a missed brain bleed, a delayed CT, an anesthesia event, or a birth injury causing hypoxic brain damage. See our [medical malpractice](/personal-injury/medical-malpractice) page; the two-year period and the notice of intent apply.
 - **Defective products**: airbags that fail to deploy, helmets, car seats, and seat backs. See our [product liability](/personal-injury/product-liability) page.
@@ -115,7 +115,7 @@ The constraint, as in every Michigan case, is coverage: the at-fault driver’s 
 | Written notice to the no-fault insurer | 1 year from the crash, not extended for incapacity | MCL 500.3145(1); Joseph v ACIA (2012) |
 | Lawsuit for unpaid PIP benefits | 1 year from each unpaid benefit | MCL 500.3145(2) |
 | Lawsuit against the at-fault driver, property owner, or assailant | 3 years from the injury | MCL 600.5805(2) |
-| Tolling for an incapacitated (“insane”) adult or a minor | Period extended; 1 year after the disability is removed, or to age 19 | MCL 600.5851 **[ATTORNEY CHECK: current operation]** |
+| Tolling for an incapacitated (“insane”) adult or a minor | Period extended; 1 year after the disability is removed, or to age 19 | MCL 600.5851 |
 | Medical malpractice (missed bleed, birth injury) | 2 years, with a 182-day notice of intent | MCL 600.5805(8), 600.2912b |
 | Product liability | 3 years | MCL 600.5805 |
 | Government notice (bus, city vehicle, sidewalk, school) | 60 days to 120 days depending on the defendant | MCL 124.419, 691.1404 |
@@ -124,9 +124,9 @@ The constraint, as in every Michigan case, is coverage: the at-fault driver’s 
 ## Why metro Detroit brain injury clients call ATLAW
 
 - **Thirteen years, more than 10,000 cases, more than $100 million recovered.**
-- **The medical record is built, not assumed.** Neuropsychological evaluation, specialist referrals, and advanced imaging arranged early. **[CONFIRM: the firm’s network of neuropsychologists and TBI specialists]**
-- **Life care planning and economic projection** for the losses no-fault does not cover. **[CONFIRM: use of life care planners and vocational economists]**
-- **Guardianship, settlement approval, and benefits protection** coordinated with the injury case. **[CONFIRM]**
+- **The medical record is built, not assumed.** Neuropsychological evaluation, specialist referrals, and advanced imaging where appropriate.
+- **Life care planning and economic projection**, where the case calls for it, for the losses no-fault does not cover.
+- **Guardianship, settlement approval, and benefits protection** coordinated with the injury case.
 - **Both claims, one firm.** The no-fault claim, including attendant care and residential rehabilitation disputes, and the claim against the at-fault party, run together.
 - **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home, hospital, or rehabilitation facility visits can be arranged as needed.
 - **Languages.** Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish.

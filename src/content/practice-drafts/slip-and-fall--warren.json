@@ -359,21 +359,7 @@
       },
       {
        "t": "text",
-       "v": " Warren has a large stock of older apartment complexes and senior housing along Van Dyke, Twelve Mile, and Hoover. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "corridors"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " Landlords must keep the premises and common areas fit for their intended use and in reasonable repair (MCL 554.139): broken stairs, loose handrails, dark stairwells and parking lots, and failed lighting are the usual claims. A lot with an inch or two of snow is still “fit” for parking under "
+       "v": " Warren has a large stock of older apartment complexes and senior housing along Van Dyke, Twelve Mile, and Hoover. Landlords must keep the premises and common areas fit for their intended use and in reasonable repair (MCL 554.139): broken stairs, loose handrails, dark stairwells and parking lots, and failed lighting are the usual claims. A lot with an inch or two of snow is still “fit” for parking under "
       },
       {
        "t": "em",
@@ -445,17 +431,7 @@
       },
       {
        "t": "text",
-       "v": ". "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "owner and general-contractor duty to a contractor’s employee"
-        }
-       ]
+       "v": "."
       }
      ]
     },
@@ -509,21 +485,7 @@
       },
       {
        "t": "text",
-       "v": " Warren is served by several public school districts, including Warren Consolidated, Fitzgerald, Van Dyke, Warren Woods, and Center Line, and Macomb Community College’s South Campus is in Warren. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "district list; campus location"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " Each is a governmental agency: a fall caused by a dangerous or defective condition of one of their buildings proceeds under the public building exception, which requires the agency to have known of the defect and failed to fix it, with written notice within 120 days (MCL 691.1406). The same rule applies to City Hall, the Civic Center, the libraries, and the City’s community centers."
+       "v": " Warren is served by several public school districts, including Warren Consolidated, Fitzgerald, Van Dyke, Warren Woods, and Center Line, and Macomb Community College’s South Campus is in Warren. Each is a governmental agency: a fall caused by a dangerous or defective condition of one of their buildings proceeds under the public building exception, which requires the agency to have known of the defect and failed to fix it, with written notice within 120 days (MCL 691.1406). The same rule applies to City Hall, the Civic Center, the libraries, and the City’s community centers."
       }
      ]
     },
@@ -830,17 +792,7 @@
       },
       {
        "t": "text",
-       "v": ", or a death, go to the Sixteenth Judicial Circuit Court in Mount Clemens. Claims against the United States go to the U.S. District Court for the Eastern District of Michigan. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": ""
-        }
-       ]
+       "v": ", or a death, go to the Sixteenth Judicial Circuit Court in Mount Clemens. Claims against the United States go to the U.S. District Court for the Eastern District of Michigan."
       }
      ]
     },
@@ -1208,8 +1160,8 @@
    }
   ]
  },
- "wordCount": 2319,
- "openItems": 4,
+ "wordCount": 2299,
+ "openItems": 0,
  "source": {
   "file": "B3-16_Warren-Slip-and-Fall-Lawyer.docx",
   "delivered": "October 23, 2026 [CONFIRM: Batch 3 delivery date]"

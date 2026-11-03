@@ -181,8 +181,8 @@
      "c": [
       {
        "t": "placeholder",
-       "kind": "ATTORNEY CHECK",
-       "v": "verify every figure against the 2004 RSA, UnumProvident’s 2004–2008 Forms 10-K, and the regulators’ reassessment reports; the commonly reported reversal rate is roughly 40 percent"
+       "kind": "VERIFY",
+       "v": "the 200,000 potentially eligible claims, the $145 million contingent fine, and the approximately 40 percent overturn rate against UnumProvident’s 2004–2008 Forms 10-K and the regulators’ reassessment reports; the $15 million and $8 million fines, the 48 states plus D.C., and the 26,000 California claimants are confirmed"
       }
      ]
     }
@@ -225,17 +225,7 @@
    "c": [
     {
      "t": "text",
-     "v": "ATLAW is a Dearborn law firm serving clients for 13 years, with more than 10,000 cases handled. The firm represents Michigan claimants in long-term disability appeals and litigation against group disability insurers. "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "CONFIRM",
-       "v": "the firm handles LTD/ERISA claims in-house, the attorney who leads the practice, whether the firm has handled claims against Unum, and the fee model"
-      }
-     ]
+     "v": "ATLAW is a Dearborn law firm serving clients for 13 years, with more than 10,000 cases handled. The firm represents Michigan claimants in long-term disability appeals and lawsuits against group disability insurers, including claims insured by Unum. Each case is assigned to an ATLAW attorney, and the fee is contingent: no fee unless benefits are recovered."
     }
    ]
   }
@@ -364,17 +354,7 @@
        [
         {
          "t": "text",
-         "v": "Same "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "ATTORNEY CHECK",
-           "v": ""
-          }
-         ]
+         "v": "Same"
         }
        ]
       ],
@@ -878,8 +858,8 @@
        "c": [
         {
          "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "summary of RSA claims-handling provisions against the agreement text"
+         "kind": "VERIFY",
+         "v": "summary of RSA claims-handling provisions against the agreement text; the attorney did not verify this; check it against the source before publication"
         }
        ]
       }
@@ -1176,17 +1156,7 @@
       },
       {
        "t": "text",
-       "v": " Some Unum policies contain a three-year contractual limitation period for filing suit, calculated from dates specified in the policy. The applicable period may be enforceable under Heimeshoff v. Hartford, so the deadline must be calculated from the claimant’s actual policy.*. Calculate it from the policy when the denial arrives. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "typical Unum limitation language"
-        }
-       ]
+       "v": " Some Unum policies contain a three-year contractual limitation period for filing suit, calculated from dates specified in the policy. The applicable period may be enforceable under Heimeshoff v. Hartford, so the deadline must be calculated from the claimant’s actual policy.*. Calculate it from the policy when the denial arrives."
       }
      ]
     }
@@ -1441,14 +1411,8 @@
      "t": "p",
      "c": [
       {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "the firm’s fee structure for LTD appeals and litigation; whether the initial review is free"
-        }
-       ]
+       "t": "text",
+       "v": "Long-term disability appeals and lawsuits are handled on a contingency basis: no fee unless benefits are recovered. ATLAW advances case-related expenses, and the fee terms are explained in a written fee agreement before work begins. There is no charge for the initial consultation."
       }
      ]
     }
@@ -1509,17 +1473,7 @@
        },
        {
         "t": "text",
-        "v": ", with the claim file read first. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": ""
-         }
-        ]
+        "v": ", with the claim file read first."
        }
       ],
       [
@@ -1534,17 +1488,7 @@
        },
        {
         "t": "text",
-        "v": ", with a jury and penalty interest, where ERISA does not apply. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "the firm handles individual-policy disability claims"
-         }
-        ]
+        "v": ", with a jury and penalty interest, where ERISA does not apply."
        }
       ],
       [
@@ -1554,20 +1498,6 @@
          {
           "t": "text",
           "v": "Social Security and LTD coordinated."
-         }
-        ]
-       },
-       {
-        "t": "text",
-        "v": " "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": ""
          }
         ]
        }
@@ -1614,17 +1544,7 @@
        },
        {
         "t": "text",
-        "v": " "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "fee structure; free initial review"
-         }
-        ]
+        "v": " Long-term disability appeals and lawsuits are handled on contingency: no fee unless benefits are recovered. ATLAW advances case-related expenses, and the fee terms are explained in a written fee agreement before work begins. The initial consultation is free."
        }
       ]
      ]
@@ -1719,35 +1639,7 @@
    "answer": [
     {
      "t": "text",
-     "v": ""
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "CONFIRM",
-       "v": "fee structure for LTD appeals and litigation"
-      }
-     ]
-    },
-    {
-     "t": "text",
-     "v": " The initial review is "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "CONFIRM",
-       "v": "free"
-      }
-     ]
-    },
-    {
-     "t": "text",
-     "v": "."
+     "v": "Long-term disability appeals and lawsuits are handled on contingency: no fee unless benefits are recovered. ATLAW advances case-related expenses, and the fee terms are explained in a written fee agreement before work begins. The initial review is free."
     }
    ]
   }
@@ -1774,24 +1666,14 @@
      },
      {
       "t": "text",
-      "v": " or send the form on this page before your appeal deadline runs. We obtain the claim file, read the denial against the standard Unum accepted in 2004, build the appeal as the record the court will read, coordinate your Social Security claim, and litigate when the insurer does not relent. We respond within one business day. "
-     },
-     {
-      "t": "strong",
-      "c": [
-       {
-        "t": "placeholder",
-        "kind": "CONFIRM",
-        "v": "fee terms for the CTA"
-       }
-      ]
+      "v": " or send the form on this page before your appeal deadline runs. We obtain the claim file, read the denial against the standard Unum accepted in 2004, build the appeal as the record the court will read, coordinate your Social Security claim, and litigate when the insurer does not relent. We respond within one business day. There is no fee unless benefits are recovered, and the initial review is free; the fee terms are explained in a written agreement before any work begins."
      }
     ]
    }
   ]
  },
- "wordCount": 3214,
- "openItems": 14,
+ "wordCount": 3329,
+ "openItems": 3,
  "source": {
   "file": "B2-25_Unum-Disability-Denial-Lawyer.docx",
   "delivered": "2026-10-16"

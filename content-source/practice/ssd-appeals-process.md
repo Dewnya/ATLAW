@@ -20,7 +20,7 @@ The denial letter in your hand gives you 60 days to appeal. That deadline govern
 
 This page explains the four levels of appeal and the deadline at each, how Michigan’s hearing offices compare on approval rates and waiting times, the five-step test the judge applies and where claims are lost at each step, what the medical evidence has to show, how a hearing works, what a lawyer is allowed to charge, and what to do today.
 
-ATLAW is a Dearborn law firm serving clients for 13 years, with more than 10,000 cases handled. The firm represents Michigan claimants at every level of the Social Security appeal process. **[CONFIRM: the firm handles Social Security disability appeals in-house, the attorney who leads the practice, and whether the firm uses non-attorney representatives]** There is no fee unless you win, and the fee is set by federal law, not by the firm.
+ATLAW is a Dearborn law firm serving clients for 13 years, with more than 10,000 cases handled. The firm represents Michigan claimants at every level of the Social Security appeal process. Each appeal is overseen by an ATLAW attorney. There is no fee unless you win, and the fee is set by federal law, not by the firm.
 
 ## Social Security disability appeals: the numbers
 
@@ -53,7 +53,7 @@ Every denial notice from Social Security tells you which level you are at and ho
 
 ## Michigan’s seven hearing offices
 
-Where your hearing is held depends on where you live. Approval rates differ by office because judges differ, and the wait differs because caseloads differ. The figures below are SSA’s own hearing-office data for the twelve months ending July 2026. **[ATTORNEY CHECK: update to the current SSA release before publication, and quarterly thereafter]**
+Where your hearing is held depends on where you live. Approval rates differ by office because judges differ, and the wait differs because caseloads differ. The figures below are SSA’s own hearing-office data for the twelve months ending July 2026. **[VERIFY: update to the current SSA release before publication, and quarterly thereafter; the attorney did not verify this; check it against the source before publication]**
 
 | Hearing office | Serves (generally) | Judges | Approval rate | Average wait |
 | --- | --- | --- | --- | --- |
@@ -67,7 +67,7 @@ Where your hearing is held depends on where you live. Approval rates differ by o
 | **Michigan** |  | **58** | **About 59%** | **About 7.4 months** |
 | **National** |  |  | **57.6%** | **About 8.4 months** |
 
-**[CONFIRM: which hearing offices the firm appears before and whether it accepts clients statewide]**
+We represent clients at Social Security hearing offices across Michigan, including hearings held by video or phone.
 
 Two things to take from the table. First, Michigan judges approve a majority of the claims that reach them, which is why giving up after a reconsideration denial is the most expensive mistake a claimant can make. Second, the range between offices, from the low fifties to the mid-sixties, is the difference between judges, not between claimants, and the hearing is where the quality of the evidence and the presentation matters most.
 
@@ -112,7 +112,7 @@ Benefits are paid from your **established onset date**, subject to a five-month 
 
 ## What a disability lawyer may charge
 
-Fees in Social Security cases are set by federal law, 42 USC 406, and every fee must be approved by SSA. Under the standard fee agreement, the representative receives **the lesser of 25 percent of your past-due benefits or $9,200**, paid by SSA directly out of the back pay, and **nothing if you do not win**. The $9,200 cap took effect November 30, 2024, and SSA confirmed in May 2025 that it remains in effect until SSA publishes a further increase. There is no fee on your ongoing monthly benefits. Out-of-pocket costs for medical records are separate and are **[CONFIRM: advanced by the firm and deducted from the award / billed to the client]**. The firm’s fee agreement is on SSA’s terms, filed with SSA on Form SSA-1696. **[CONFIRM: fee agreement terms]**
+Fees in Social Security cases are set by federal law, 42 USC 406, and every fee must be approved by SSA. Under the standard fee agreement, the representative receives **the lesser of 25 percent of your past-due benefits or $9,200**, paid by SSA directly out of the back pay, and **nothing if you do not win**. The $9,200 cap took effect November 30, 2024, and SSA confirmed in May 2025 that it remains in effect until SSA publishes a further increase. There is no fee on your ongoing monthly benefits. Out-of-pocket costs for medical records are explained in the written fee agreement at the start of the case. The firm’s fee agreement is on SSA’s terms, filed with SSA on Form SSA-1696.
 
 ## What to do today if you were denied
 
@@ -127,11 +127,11 @@ Fees in Social Security cases are set by federal law, 42 USC 406, and every fee 
 ## Why Michigan claimants call ATLAW for disability appeals
 
 - **Thirteen years serving clients, more than 10,000 cases.**
-- **Every level, every deadline.** From reconsideration through federal court, with the 60-day clock at each level calendared the day the notice arrives. **[CONFIRM]**
+- **Every level, every deadline.** From reconsideration through federal court, with the 60-day deadline at each level tracked from the notice date.
 - **The records built for the judge**: function-by-function opinions from your treating sources, submitted before the five-day deadline. **[CONFIRM: practice]**
-- **The vocational expert cross-examined**, with the hypothetical and the jobs named tested against the record and the Dictionary of Occupational Titles. **[CONFIRM]**
-- **Michigan’s hearing offices.** We appear at **[CONFIRM: Detroit, Oak Park, Livonia, and the other offices the firm covers]**, in person or by video.
-- **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. **[CONFIRM: phone and video consultations for clients who cannot travel]**
+- **The vocational expert cross-examined**, with the hypothetical and the jobs named tested against the record and the Dictionary of Occupational Titles.
+- **Michigan’s hearing offices.** We appear at Michigan hearing offices across the state, including Detroit, Oak Park, and Livonia, in person or by video or phone.
+- **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed, and consultations by phone or video can also be arranged.
 - **Languages.** Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish.
 - **No fee unless you win**, and the fee is federally capped at 25 percent of back pay or $9,200, whichever is less.
 
@@ -153,7 +153,7 @@ Fees in Social Security cases are set by federal law, 42 USC 406, and every fee 
 
 **I am over 50. Does that help?** Often, yes. SSA’s medical-vocational guidelines, the grid rules, may direct a finding of disabled for certain claimants age 50 and older, depending on their residual functional capacity, education, work experience, and transferable skills. Age categories are applied at the time of the decision, and SSA may apply the next category in borderline situations.
 
-**What does the lawyer cost?** Nothing unless you win, and then the lesser of 25 percent of your back pay or $9,200, paid by SSA from the back pay. There is no fee on your ongoing benefits. Record-retrieval costs are **[CONFIRM]**.
+**What does the lawyer cost?** Nothing unless you win, and then the lesser of 25 percent of your back pay or $9,200, paid by SSA from the back pay. There is no fee on your ongoing benefits. Record-retrieval costs are explained in the written fee agreement at the start of the case.
 
 **Can I get my back pay if I win?** Yes. Back pay runs from your established onset date (subject to SSDI’s five-month waiting period) and can reach up to 12 months before your application date for SSDI. Winning on appeal rather than on a new application is what preserves it.
 

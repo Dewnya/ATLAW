@@ -38,7 +38,7 @@ ATLAW is a personal injury firm at 3 Parklane Boulevard in Dearborn, about 20 mi
 
 **The treatment period.** The claim’s value is set mostly by the medical record, so we make sure it is complete and the bills are paid while you treat, collecting records from Henry Ford Providence Southfield Hospital (formerly Ascension Providence), Corewell Health’s Royal Oak and Farmington Hills hospitals, and documenting lost wages with your employer, including the office-tower employers along Northwestern.
 
-**The demand, the suit, and the resolution.** When your condition has stabilized, we send a demand with the complete record and a valuation; the decision to accept any offer is yours (MRPC 1.2). If the insurer will not pay fair value, suit is filed: claims up to $25,000 in the 46th District Court at 26000 Evergreen Road; injury suits over $25,000 in the Sixth Judicial Circuit Court (Oakland County Circuit Court) at 1200 N. Telegraph Road in Pontiac, which may send injury cases to case evaluation (MCR 2.403) or facilitation before trial; and where a defendant lives or does business in Wayne County, or the crash was on Eight Mile, possibly the Third Circuit in Detroit (MCL 600.1629). At settlement we resolve the liens before you are paid; minors’ settlements and wrongful death distributions are approved by the Oakland County Probate Court or the trial court (MCR 2.420; MCL 600.2922(6)). Compensation for physical injury is not taxable income (26 USC 104(a)(2)). **[ATTORNEY CHECK]**
+**The demand, the suit, and the resolution.** When your condition has stabilized, we send a demand with the complete record and a valuation; the decision to accept any offer is yours (MRPC 1.2). If the insurer will not pay fair value, suit is filed: claims up to $25,000 in the 46th District Court at 26000 Evergreen Road; injury suits over $25,000 in the Sixth Judicial Circuit Court (Oakland County Circuit Court) at 1200 N. Telegraph Road in Pontiac, which may send injury cases to case evaluation (MCR 2.403) or facilitation before trial; and where a defendant lives or does business in Wayne County, or the crash was on Eight Mile, possibly the Third Circuit in Detroit (MCL 600.1629). At settlement we resolve the liens before you are paid; minors’ settlements and wrongful death distributions are approved by the Oakland County Probate Court or the trial court (MCR 2.420; MCL 600.2922(6)). Compensation for physical injury is not taxable income (26 USC 104(a)(2)).
 
 ## The cases a Southfield personal injury lawyer handles
 
@@ -57,7 +57,7 @@ ATLAW is a personal injury firm at 3 Parklane Boulevard in Dearborn, about 20 mi
 
 ## What a Southfield claim is worth, and what reduces it
 
-Economic damages (medical expenses, lost wages, lost earning capacity, replacement services) and noneconomic damages (pain and suffering, loss of enjoyment of life, disfigurement), with no cap except in medical malpractice. Your share of fault reduces the recovery and, above 50 percent, bars noneconomic damages (MCL 600.2959). In most Southfield cases the practical limit is insurance: the at-fault driver’s policy, which ranges from an office commuter’s high limits and umbrella to an Eight Mile driver’s $50,000 opt-down minimum (MCL 500.3009(5)); your own underinsured motorist coverage; and, in a premises case, the building owner’s and management company’s commercial policies. Where UIM is involved, settling with the at-fault driver without your own insurer’s consent can forfeit the UIM claim. **[ATTORNEY CHECK]**
+Economic damages (medical expenses, lost wages, lost earning capacity, replacement services) and noneconomic damages (pain and suffering, loss of enjoyment of life, disfigurement), with no cap except in medical malpractice. Your share of fault reduces the recovery and, above 50 percent, bars noneconomic damages (MCL 600.2959). In most Southfield cases the practical limit is insurance: the at-fault driver’s policy, which ranges from an office commuter’s high limits and umbrella to an Eight Mile driver’s $50,000 opt-down minimum (MCL 500.3009(5)); your own underinsured motorist coverage; and, in a premises case, the building owner’s and management company’s commercial policies. Where UIM is involved, settling with the at-fault driver without your own insurer’s consent can forfeit the UIM claim.
 
 ## What it costs
 
@@ -65,7 +65,7 @@ Michigan caps contingency fees in injury cases at one-third of the net recovery 
 
 ## Questions to ask before you hire a Southfield personal injury lawyer
 
-1. **Who will handle my case day to day, and how do I reach them?**  **[CONFIRM: how the firm staffs cases]**
+1. **Who will handle my case day to day, and how do I reach them?** Each case is assigned to an ATLAW attorney who oversees it, supported by a case team. You can reach your team through our office at (313) 406-7606 or info@atlawgroup.com.
 2. How many cases like mine have you handled in the 46th District and the Oakland County Circuit Court?
 3. **What are the deadlines in my case, and when will the notices go out?** A Southfield case can involve the City, the RCOC, MDOT, and a bar, each with its own clock.
 4. **What is your fee, and how are costs handled if we lose?**
@@ -88,7 +88,7 @@ Michigan caps contingency fees in injury cases at one-third of the net recovery 
 ## Why Southfield residents call ATLAW
 
 - 13 years, more than 10,000 cases, more than $100 million recovered.
-- Claims handled in the 46th District, the Oakland County Circuit Court, and the Oakland County Probate Court, and with MDOT, the RCOC, SMART, and the insurers and property managers that defend Southfield claims. **[CONFIRM]**
+- Claims handled in the 46th District, the Oakland County Circuit Court, and the Oakland County Probate Court, and with MDOT, the RCOC, SMART, and the insurers and property managers that defend Southfield claims.
 - Prompt attention to preservation letters and notices.
 - Every household policy read before the claim is valued.
 - We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.

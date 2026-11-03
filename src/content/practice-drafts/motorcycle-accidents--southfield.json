@@ -321,17 +321,7 @@
       },
       {
        "t": "text",
-       "v": " A single-vehicle crash caused by a pothole, a pavement drop-off, or gravel is a claim against the agency with jurisdiction under the highway exception to governmental immunity (MCL 691.1402), and in Southfield that means three possible defendants: MDOT for Telegraph, Northwestern, the Lodge, Eight Mile, and I-696 (Court of Claims, written notice within 120 days, MCL 691.1404); the RCOC for the mile roads from Nine to Thirteen and for Lahser; and the City for Evergreen and the local streets (120 days’ written notice, MCL 691.1404). A defect that was readily apparent for 30 days or more is presumed known to the agency (MCL 691.1403). Notice to the wrong agency is not notice. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "jurisdiction list; 1403 presumption"
-        }
-       ]
+       "v": " A single-vehicle crash caused by a pothole, a pavement drop-off, or gravel is a claim against the agency with jurisdiction under the highway exception to governmental immunity (MCL 691.1402), and in Southfield that means three possible defendants: MDOT for Telegraph, Northwestern, the Lodge, Eight Mile, and I-696 (Court of Claims, written notice within 120 days, MCL 691.1404); the RCOC for the mile roads from Nine to Thirteen and for Lahser; and the City for Evergreen and the local streets (120 days’ written notice, MCL 691.1404). A defect that was readily apparent for 30 days or more is presumed known to the agency (MCL 691.1403). Notice to the wrong agency is not notice."
       }
      ]
     },
@@ -387,17 +377,7 @@
       },
       {
        "t": "text",
-       "v": " Under MCL 500.3114(5), your Personal Injury Protection benefits come, in order, from the insurer of the owner or registrant of the motor vehicle involved; then the insurer of that vehicle’s operator; then the motor vehicle insurer of the motorcycle’s operator; then the motor vehicle insurer of the motorcycle’s owner or registrant. “Involved” does not require contact; a car that cut you off is involved even if it never touched you. If no insurer in that chain exists, the Michigan Assigned Claims Plan pays (MCL 500.3172), with its $250,000 medical cap. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "3114(5) wording; MACP eligibility for riders"
-        }
-       ]
+       "v": " Under MCL 500.3114(5), your Personal Injury Protection benefits come, in order, from the insurer of the owner or registrant of the motor vehicle involved; then the insurer of that vehicle’s operator; then the motor vehicle insurer of the motorcycle’s operator; then the motor vehicle insurer of the motorcycle’s owner or registrant. “Involved” does not require contact; a car that cut you off is involved even if it never touched you. If no insurer in that chain exists, the Michigan Assigned Claims Plan pays (MCL 500.3172), with its $250,000 medical cap."
       }
      ]
     },
@@ -638,17 +618,7 @@
        },
        {
         "t": "text",
-        "v": " Henry Ford Providence Southfield Hospital (formerly Ascension Providence) on Nine Mile and Corewell Health William Beaumont University Hospital in Royal Oak treat many of the area’s seriously injured. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "hospital names"
-         }
-        ]
+        "v": " Henry Ford Providence Southfield Hospital (formerly Ascension Providence) on Nine Mile and Corewell Health William Beaumont University Hospital in Royal Oak treat many of the area’s seriously injured."
        }
       ],
       [
@@ -1027,8 +997,8 @@
    }
   ]
  },
- "wordCount": 2104,
- "openItems": 4,
+ "wordCount": 2087,
+ "openItems": 1,
  "source": {
   "file": "B3-04_Southfield-Motorcycle-Accident-Lawyer.docx",
   "delivered": "October 23, 2026 [CONFIRM: Batch 3 delivery date]"

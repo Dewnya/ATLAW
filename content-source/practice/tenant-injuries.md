@@ -54,7 +54,7 @@ In Bowerman, a 75-year-old resident of an apartment building for elderly and dis
 - **Liberal construction means what it says.** The Court applied 554.139(3) in the tenant’s favor.
 - **The contractor is liable too.** The company that dug the trench and left it unmarked could be sued for ordinary negligence even after it left the site, and the tenant’s own knowledge of the trench goes to comparative fault, not to whether the contractor breached its duty.
 
-The Court left open whether a 554.139 breach supports personal injury damages as a contract claim or only through negligence. **[ATTORNEY CHECK: Bowerman footnote 8 and the pleading of 554.139 claims]** For a tenant injured in a common area in Michigan today, the practical effect is that a case dismissed under Allison in 2024 is a jury question in 2026.
+The Court declined to decide whether the remedy for a breach of MCL 554.139 is limited to contract remedies and left that question for the trial court on remand. For a tenant injured in a common area in Michigan today, the practical effect is that a case dismissed under Allison in 2024 is a jury question in 2026.
 
 ## The 2023 decision: open and obvious is no longer a bar
 
@@ -71,17 +71,17 @@ Inside the leased unit, the landlord is not in possession, so its liability depe
 
 ## Negligent security in apartment buildings
 
-A landlord is not an insurer against crime, but it has duties in the common areas it controls. Michigan’s Supreme Court has held that a landlord must respond reasonably to an ongoing criminal act in a common area of which it has notice, which ordinarily means calling the police (Bailey v Schaaf, 2013), and that landlords and merchants are not required to anticipate crime in general (MacDonald v PKT, 2001). The cases that succeed involve a specific failure: a broken entry door or gate the landlord was told about and left unrepaired, security cameras that were advertised but not working, a guard contracted for but absent, lighting out for weeks, or a history of the same crime on the property that the landlord ignored. Police calls-for-service records, prior incident reports, and your own complaints are the evidence. **[ATTORNEY CHECK: current scope of the landlord security duty]**
+A landlord is not an insurer against crime, and Michigan imposes no general duty on landlords or merchants to provide security against it. Michigan’s Supreme Court has held that landlords and merchants are not required to anticipate crime in general (MacDonald v PKT, 2001), and that a landlord’s duty is the narrow one to respond reasonably to an imminent criminal act in a common area of which it has notice, which ordinarily means calling the police (Bailey v Schaaf, 2013). Security measures a landlord chooses to provide, such as cameras, a guard, or a gate, generally do not create a broader duty. The claims that remain are narrow: a landlord that had notice of an attack under way in a lobby or hallway and did nothing, or a common-area condition that breached the 554.139 covenants, such as a broken entry door or lock the landlord was told about and left unrepaired, or lighting out for weeks. Police calls-for-service records, prior incident reports, and your own complaints are the evidence.
 
 ## Lead paint, carbon monoxide, and fire
 
-- **Lead.** Most of metro Detroit’s rental housing predates the 1978 lead paint ban. Federal law requires landlords to disclose known lead hazards and provide the EPA pamphlet before a lease (42 USC 4852d), and Michigan’s lead abatement law and local ordinances regulate lead-safe conditions in rentals (MCL 333.5451 and following). A child’s elevated blood lead level traced to deteriorated paint, dust, or soil at a rental is a negligence and 554.139 claim against the landlord, with lifelong damages. **[ATTORNEY CHECK: current Michigan lead-safe rental requirements, including Detroit’s ordinance]**
-- **Carbon monoxide and smoke detectors.** State and local codes require working smoke alarms in rental units and carbon monoxide detection where there are fuel-burning appliances or attached garages. A furnace, water heater, or space heater that leaks carbon monoxide, or a fire in a unit without working alarms, is a 554.139(1)(b) and code-violation case. **[ATTORNEY CHECK: specific code citations]**
+- **Lead.** Most of metro Detroit’s rental housing predates the 1978 lead paint ban. Federal law requires landlords to disclose known lead hazards and provide the EPA pamphlet before a lease (42 USC 4852d), and Michigan’s lead abatement law and local ordinances regulate lead-safe conditions in rentals (MCL 333.5451 and following). A child’s elevated blood lead level traced to deteriorated paint, dust, or soil at a rental is a negligence and 554.139 claim against the landlord, with lifelong damages.
+- **Carbon monoxide and smoke detectors.** State and local codes require working smoke alarms in rental units and carbon monoxide detection where there are fuel-burning appliances or attached garages. A furnace, water heater, or space heater that leaks carbon monoxide, or a fire in a unit without working alarms, is a 554.139(1)(b) and code-violation case. **[VERIFY: specific code citations; the attorney did not verify this; check it against the source before publication]**
 - **Bedbugs, mold, and sewage.** Habitability conditions that cause illness are claims under the fitness and repair covenants and the Housing Law, proved with medical records, inspection reports, and the repair-request history.
 
 ## Guests and visitors of tenants
 
-A tenant’s guest injured in a common area has the same claim against the landlord as the tenant; the landlord’s duty in common areas runs to the people it should expect there, and a tenant’s visitors are among them. **[ATTORNEY CHECK: status of tenant’s guests in common areas]** A guest injured inside the unit by a condition the tenant controlled may have a claim against the tenant’s renters insurance; a guest injured by a condition the landlord was obligated to repair has a claim against the landlord.
+A tenant’s guest cannot sue under MCL 554.139, which runs to the tenant, but has a premises-liability claim against the landlord for common areas the landlord controls. A guest injured inside the unit by a condition the tenant controlled may have a claim against the tenant’s renters insurance; a guest injured by a condition the landlord was obligated to repair has a claim against the landlord.
 
 ## Public housing and subsidized housing
 
@@ -89,7 +89,7 @@ If your landlord is a housing commission (the Detroit Housing Commission, for ex
 
 ## Your landlord cannot retaliate for your complaint
 
-Tenants hesitate to report hazards or pursue claims because they fear eviction. Michigan law prohibits a landlord from evicting a tenant in retaliation for complaining to a government agency about conditions, for exercising rights under the lease or the law, or for membership in a tenant organization, and an eviction within 90 days of such an act is presumed retaliatory (MCL 600.5720). **[ATTORNEY CHECK: current text of 600.5720]** Reporting a dangerous condition to the city and to the landlord in writing is protected, and it is also the notice the injury case will need.
+Tenants hesitate to report hazards or pursue claims because they fear eviction. Michigan law prohibits a landlord from evicting a tenant in retaliation for complaining to a government agency about conditions, for exercising rights under the lease or the law, or for membership in a tenant organization, and an eviction within 90 days of such an act is presumed retaliatory (MCL 600.5720). **[VERIFY: current text of 600.5720; the attorney did not verify this; check it against the source before publication]** Reporting a dangerous condition to the city and to the landlord in writing is protected, and it is also the notice the injury case will need.
 
 ## Your own fault
 
@@ -129,17 +129,17 @@ Medical expenses, lost wages and earning capacity, pain and suffering, loss of e
 | --- | --- | --- |
 | Personal injury lawsuit against a landlord, manager, or contractor | 3 years from the injury | MCL 600.5805(2) |
 | Wrongful death | 3 years, with saving provisions for the estate | MCL 600.5805, 600.5852 |
-| Claim against a housing commission (public building exception) | Written notice within 120 days; suit within 2 years **[ATTORNEY CHECK]** | MCL 691.1406, 691.1411 |
+| Claim against a housing commission (public building exception) | Written notice within 120 days; suit within 2 years | MCL 691.1406, 691.1411 |
 | Child’s claim (lead exposure, injuries to minors) | Until the child’s 19th birthday | MCL 600.5851 |
-| Breach of the statutory covenant pleaded in contract | 6 years **[ATTORNEY CHECK: availability of injury damages on this theory after Bowerman]** | MCL 600.5807 |
+| Breach of the statutory covenant pleaded in contract | 6 years; whether personal-injury damages are available on a contract theory remains open after Bowerman (2026) | MCL 600.5807 |
 | Retaliatory eviction presumption | 90 days after the protected act | MCL 600.5720 |
 
 ## Why metro Detroit tenants call ATLAW
 
 - **Thirteen years, more than 10,000 cases, more than $100 million recovered.**
 - **Current law.** Every tenant case is evaluated under Bowerman (2026) and Kandil-Elsayed (2023), not under the dismissal rules landlords’ insurers still cite.
-- **Every responsible party.** Owner, management company, and contractors identified from the lease, the county register of deeds, and the city’s rental registration. **[CONFIRM]**
-- **Protection from retaliation.** We advise on your rights as a tenant while the injury case proceeds. **[CONFIRM: the firm advises on retaliation issues or refers to housing counsel]**
+- **Every responsible party.** Owner, management company, and contractors identified from the lease, the county register of deeds, and the city’s rental registration.
+- **Protection from retaliation.** We advise on your rights as a tenant while the injury case proceeds and, where needed, refer housing matters to housing counsel.
 - **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 - **Languages.** Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish.
 - **No fee unless we recover.** ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs. No cost for the first conversation.

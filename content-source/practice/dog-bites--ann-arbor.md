@@ -34,7 +34,7 @@ ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parkla
 
 - Our [Michigan dog bite lawyer page](/personal-injury/dog-bites) covers the statute, the defenses, and the insurance in full.
 - Our [Ann Arbor page](/areas-served/ann-arbor) covers every kind of injury claim in the city.
-- Our [Ann Arbor personal injury lawyer page](/personal-injury/personal-injury/ann-arbor) explains how a claim proceeds from the first week to the check.
+- Our [Ann Arbor personal injury lawyer page](/personal-injury/ann-arbor) explains how a claim proceeds from the first week to the check.
 
 The first conversation is free, in English, Arabic, French, Mandarin, Urdu, or Spanish: **(313) 406-7606**.
 

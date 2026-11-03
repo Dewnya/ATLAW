@@ -125,7 +125,7 @@
      },
      {
       "t": "link",
-      "href": "/personal-injury/personal-injury/rochester-hills",
+      "href": "/personal-injury/rochester-hills",
       "c": [
        {
         "t": "text",
@@ -503,14 +503,8 @@
      "t": "p",
      "c": [
       {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "MCL 400.601 et seq.; relationship to individual claims"
-        }
-       ]
+       "t": "text",
+       "v": "The Attorney General’s case does not itself create a claim for an individual resident."
       }
      ]
     }
@@ -1765,8 +1759,8 @@
    }
   ]
  },
- "wordCount": 2985,
- "openItems": 1,
+ "wordCount": 2989,
+ "openItems": 0,
  "source": {
   "file": "B4-20_Rochester-Hills-Nursing-Home-Abuse-Lawyer.docx",
   "delivered": "October 25, 2026 [CONFIRM: Batch 4 delivery date]"

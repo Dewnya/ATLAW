@@ -237,17 +237,7 @@
       },
       {
        "t": "text",
-       "v": ". Michigan’s weight allowance, roughly double the federal standard, applies to the steel and automotive freight moving through Dearborn. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "weight statement"
-        }
-       ]
+       "v": ". Michigan’s weight allowance, roughly double the federal standard, applies to the steel and automotive freight moving through Dearborn."
       }
      ]
     }
@@ -325,17 +315,7 @@
       },
       {
        "t": "text",
-       "v": " Michigan Avenue, Ford Road, Telegraph, M-39, and I-94 are MDOT’s; a road-defect claim goes to the Court of Claims, with written notice filed there within 120 days (MCL 691.1404). Rotunda, Oakwood, and the neighborhood streets are the City’s or the County’s, with 120 days’ notice (MCL 691.1404). "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "jurisdiction of Rotunda and Oakwood"
-        }
-       ]
+       "v": " Michigan Avenue, Ford Road, Telegraph, M-39, and I-94 are MDOT’s; a road-defect claim goes to the Court of Claims, with written notice filed there within 120 days (MCL 691.1404). Rotunda, Oakwood, and the neighborhood streets are the City’s or the County’s, with 120 days’ notice (MCL 691.1404)."
       }
      ]
     }
@@ -635,7 +615,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Carriers must keep hours-of-service records for six months (49 CFR 395.8) and driver inspection reports for three months (49 CFR 396.11); after that they may lawfully be destroyed. Plant-gate, MDOT freeway, and business camera footage is overwritten in days to weeks. The truck’s engine control module and event data recorder can be cleared when the truck is repaired and returned to service. The first act in a Dearborn truck case is a "
+       "v": "Carriers must keep hours-of-service records for six months (49 CFR 395.8) and driver inspection reports for three months (49 CFR 396.11); after that they may lawfully be destroyed. Plant-gate, MDOT freeway, and business camera footage is overwritten in days to weeks. The truck’s engine control module and event data recorder can be cleared when the truck is repaired and returned to service. We send a "
       },
       {
        "t": "strong",
@@ -648,17 +628,7 @@
       },
       {
        "t": "text",
-       "v": " to the carrier, its insurer, the trailer owner, and the shipper, demanding that they keep the ELD data, the ECM and EDR data, the dash camera footage, the driver’s qualification file and post-crash test results, the dispatch and bill-of-lading records, the maintenance file, and the truck itself for inspection. A carrier that destroys evidence after receiving the letter faces spoliation sanctions. We also request the Michigan State Police Commercial Vehicle Enforcement Division’s post-crash inspection and the Dearborn Police report, and the plant’s gate footage before it cycles. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "firm’s preservation-letter practice"
-        }
-       ]
+       "v": " to the carrier, its insurer, the trailer owner, and the shipper, demanding that they keep the ELD data, the ECM and EDR data, the dash camera footage, the driver’s qualification file and post-crash test results, the dispatch and bill-of-lading records, the maintenance file, and the truck itself for inspection. A carrier that destroys evidence after receiving the letter faces spoliation sanctions. We also request the Michigan State Police Commercial Vehicle Enforcement Division’s post-crash inspection and the Dearborn Police report, and any available plant gate footage."
       }
      ]
     }
@@ -683,21 +653,7 @@
        },
        {
         "t": "text",
-        "v": " Corewell Health Dearborn Hospital on Oakwood Boulevard is where many of the city’s seriously injured are treated. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "hospital list"
-         }
-        ]
-       },
-       {
-        "t": "text",
-        "v": " Truck-crash injuries to the neck, back, and brain often present days later."
+        "v": " Corewell Health Dearborn Hospital on Oakwood Boulevard is where many of the city’s seriously injured are treated. Truck-crash injuries to the neck, back, and brain often present days later."
        }
       ],
       [
@@ -811,21 +767,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Most Dearborn truck cases are filed in the Third Judicial Circuit Court in Detroit; cases against out-of-state carriers may be removed to or filed in the U.S. District Court for the Eastern District of Michigan on diversity grounds; claims against the State go to the Court of Claims; smaller claims go to the 19th District Court on Michigan Avenue. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": ""
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " A fatal crash is brought by the estate; see our "
+       "v": "Most Dearborn truck cases are filed in the Third Judicial Circuit Court in Detroit; cases against out-of-state carriers may be removed to or filed in the U.S. District Court for the Eastern District of Michigan on diversity grounds; claims against the State go to the Court of Claims; smaller claims go to the 19th District Court on Michigan Avenue. A fatal crash is brought by the estate; see our "
       },
       {
        "t": "link",
@@ -1136,8 +1078,8 @@
    }
   ]
  },
- "wordCount": 2097,
- "openItems": 5,
+ "wordCount": 2067,
+ "openItems": 0,
  "source": {
   "file": "B2-74_Dearborn-Truck-Accident-Lawyer.docx",
   "delivered": "2026-10-16"

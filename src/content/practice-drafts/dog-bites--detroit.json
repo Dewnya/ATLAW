@@ -74,7 +74,7 @@
     },
     {
      "t": "link",
-     "href": "/personal-injury/personal-injury/detroit",
+     "href": "/personal-injury/detroit",
      "c": [
       {
        "t": "text",
@@ -368,21 +368,7 @@
       },
       {
        "t": "text",
-       "v": ", Mich App 2003). "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "the firm’s reading of Hill v Sacka"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " Injuries from a dog that did not bite, a knockdown, a "
+       "v": ", Mich App 2003). Injuries from a dog that did not bite, a knockdown, a "
       },
       {
        "t": "link",
@@ -497,21 +483,7 @@
       },
       {
        "t": "text",
-       "v": ", Mich App 1988). Prior complaints to the landlord or to the Detroit Housing Commission are the evidence; the Housing Commission’s status as a public body brings governmental immunity into the analysis, and a tenant’s dog is not a building defect the public building exception covers. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "landlord liability standard; DHC status"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " See our "
+       "v": ", Mich App 1988). Prior complaints to the landlord or to the Detroit Housing Commission are the evidence; the Housing Commission’s status as a public body brings governmental immunity into the analysis, and a tenant’s dog is not a building defect the public building exception covers. See our "
       },
       {
        "t": "link",
@@ -543,21 +515,7 @@
       },
       {
        "t": "text",
-       "v": " A dog with no identifiable owner has no insurer, and the statute requires an owner. Detroit Animal Care and Control, a City agency, is immune from most suits over how it handles strays under the Governmental Tort Liability Act. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": ""
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " The practical path is identification: animal control’s pickup records, neighbors, and the dog’s microchip often establish an owner who let the dog roam, and an owner whose dog was loose in violation of Detroit’s leash and licensing ordinance is liable under the statute like any other owner (Detroit City Code, Chapter 6). If no owner is ever found, the victim’s own health insurance pays the medical bills and there is usually no civil claim."
+       "v": " A dog with no identifiable owner has no insurer, and the statute requires an owner. Detroit Animal Care and Control, a City agency, is immune from most suits over how it handles strays under the Governmental Tort Liability Act. The practical path is identification: animal control’s pickup records, neighbors, and the dog’s microchip often establish an owner who let the dog roam, and an owner whose dog was loose in violation of Detroit’s leash and licensing ordinance is liable under the statute like any other owner (Detroit City Code, Chapter 6). If no owner is ever found, the victim’s own health insurance pays the medical bills and there is usually no civil claim."
       }
      ]
     },
@@ -619,17 +577,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Dog bites cause puncture and crush wounds, torn tendons and nerves, hand and forearm fractures, and facial injuries. Bite wounds are often left open and treated with antibiotics rather than closed, and infection is a routine complication. Michigan requires rabies risk to be assessed; the biting dog is observed for ten days, and if it cannot be found, the victim receives post-exposure treatment. Children’s Hospital of Michigan, Detroit Receiving, and Henry Ford are where many of the city’s serious bite injuries are treated. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "hospital list"
-        }
-       ]
+       "v": "Dog bites cause puncture and crush wounds, torn tendons and nerves, hand and forearm fractures, and facial injuries. Bite wounds are often left open and treated with antibiotics rather than closed, and infection is a routine complication. Michigan requires rabies risk to be assessed; the biting dog is observed for ten days, and if it cannot be found, the victim receives post-exposure treatment. Children’s Hospital of Michigan is the region’s major pediatric hospital; Detroit Receiving and Henry Ford are where many of the city’s serious adult bite injuries are treated."
       }
      ]
     },
@@ -887,17 +835,7 @@
        [
         {
          "t": "text",
-         "v": "Written notice within 120 days "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "ATTORNEY CHECK",
-           "v": ""
-          }
-         ]
+         "v": "Written notice within 120 days, for qualifying public-building claims"
         }
        ],
        [
@@ -1129,8 +1067,8 @@
    }
   ]
  },
- "wordCount": 2399,
- "openItems": 5,
+ "wordCount": 2385,
+ "openItems": 0,
  "source": {
   "file": "B2-68_Detroit-Dog-Bite-Lawyer.docx",
   "delivered": "2026-10-16"

@@ -142,7 +142,7 @@ ATLAW’s results: more than 10,000 cases and more than $100 million recovered f
 
 **More than 10,000 cases, more than $100 million recovered** in 13 years, across all injury practice areas. Every case is different; the figures show the firm has done this work against these insurers.
 
-**Preservation letter in the first 48 hours.**  **[CONFIRM: that the firm commits to this; if the firm’s practice differs, say what it is]**
+**Preservation letters sent promptly** to the carrier and its insurer.
 
 **No fee unless we win.** Truck cases are expensive to investigate (accident reconstruction, ELD downloads, expert review). ATLAW advances those costs, and they are deducted only from a recovery; the 33.3% attorney fee is calculated on what remains.
 

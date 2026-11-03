@@ -61,7 +61,7 @@ Not every injury in a hospital is medical malpractice. Michigan’s Supreme Cour
 | Non-economic damages | Capped (MCL 600.1483) | Uncapped |
 | Examples | A fall involving negligent medical assessment of a patient's fall risk or clinically necessary precautions; a pressure injury from failure to reposition; a medication dose error; a missed diagnosis | A fall on a wet hallway floor; a bed that collapsed; a visitor’s injury |
 
-A hospital will argue that a fall or a pressure injury is malpractice, to invoke the shorter deadline and the cap; the injured patient’s lawyer analyzes the facts under Bryant before the two-year mark passes, because a claim filed as ordinary negligence after two years will be dismissed if a court decides it was malpractice. **[ATTORNEY CHECK: current application of Bryant to nursing care claims]**
+A hospital will argue that a fall or a pressure injury is malpractice, to invoke the shorter deadline and the cap; the injured patient’s lawyer analyzes the facts under Bryant before the two-year mark passes, because a claim filed as ordinary negligence after two years will be dismissed if a court decides it was malpractice.
 
 ## Common hospital negligence claims in Michigan
 
@@ -98,12 +98,12 @@ Michigan’s governmental immunity act does not shield a public hospital from li
 
 - **University of Michigan Health (Michigan Medicine, Ann Arbor) and other state-university hospitals.** Claims against the state and its universities are heard in the Michigan Court of Claims, without a jury, and require the claim itself or a qualifying notice of intention to be filed with the Court of Claims within six months after the event giving rise to the claim, in addition to compliance with the medical malpractice notice-of-intent requirements (MCL 600.6431, 600.2912b).
 - **City- and county-owned hospitals** (Hurley Medical Center in Flint, for example) are sued in circuit court under the malpractice rules; governmental immunity does not apply to the medical care itself.
-- **Veterans Affairs hospitals** (John D. Dingell VA Medical Center in Detroit, the Ann Arbor VA). Claims against the United States proceed under the Federal Tort Claims Act: an administrative claim, commonly submitted on Standard Form 95 or another qualifying written claim stating a sum certain, must be presented to the VA within two years after the federal claim accrues. Suit may be filed in federal court after a final denial or six months of agency inaction, with six months to sue after a final written denial (28 USC 2401(b), 2675). Michigan substantive law, including the damages cap, applies; there is no jury. **[ATTORNEY CHECK: application of Michigan’s NOI and affidavit requirements in FTCA cases]**
+- **Veterans Affairs hospitals** (John D. Dingell VA Medical Center in Detroit, the Ann Arbor VA). Claims against the United States proceed under the Federal Tort Claims Act: an administrative claim, commonly submitted on Standard Form 95 or another qualifying written claim stating a sum certain, must be presented to the VA within two years after the federal claim accrues. Suit may be filed in federal court after a final denial or six months of agency inaction, with six months to sue after a final written denial (28 USC 2401(b), 2675). Michigan substantive law, including the damages cap, applies; there is no jury. Whether Michigan’s Notice of Intent and affidavit-of-merit rules also apply in federal court is a question we evaluate in each case.
 - **Federally funded community health centers** are also covered by the FTCA under the Federally Supported Health Centers Assistance Act, a trap for the unwary: a claim against what looks like a private clinic may have a two-year federal presentment deadline.
 
 ## The hospitals of metro Detroit
 
-The firm’s clients are treated in the systems that dominate southeast Michigan: Corewell Health (formerly Beaumont, with hospitals in Royal Oak, Troy, Dearborn, Farmington Hills, Taylor, Trenton, Wayne, and Grosse Pointe), Henry Ford Health (Detroit, West Bloomfield, Wyandotte, Macomb, Jackson, and the former Ascension southeast Michigan hospitals brought into its 2024 joint venture, Detroit Medical Center (Detroit Receiving, Harper, Hutzel, Sinai-Grace, Children’s), Trinity Health (Ann Arbor, Livonia, Oakland, Pontiac), McLaren (Oakland, Macomb, Flint), University of Michigan Health, and the VA. Each has its own employment structure for physicians, its own admission forms, and, for U-M and the VA, its own court. **[ATTORNEY CHECK: accuracy and currency of the system list]**
+The firm’s clients are treated in the systems that dominate southeast Michigan: Corewell Health (formerly Beaumont, with hospitals in Royal Oak, Troy, Dearborn, Farmington Hills, Taylor, Trenton, Wayne, and Grosse Pointe), Henry Ford Health (Detroit, West Bloomfield, Wyandotte, Macomb, Jackson, and the former Ascension southeast Michigan hospitals brought into its 2024 joint venture, Detroit Medical Center (Detroit Receiving, Harper, Hutzel, Sinai-Grace, Children’s), Trinity Health (Ann Arbor, Livonia, Oakland, Pontiac), McLaren (Oakland, Macomb, Flint), University of Michigan Health, and the VA. Each has its own employment structure for physicians, its own admission forms, and, for U-M and the VA, its own court. **[VERIFY: accuracy and currency of the system list; the attorney did not verify this; check it against the source before publication]**
 
 ## What to do if you suspect hospital negligence
 
@@ -130,16 +130,16 @@ Economic damages, uncapped: past and future medical care, including care made ne
 | Court of Claims notice (U-M and state hospitals) | 6 months from the injury | MCL 600.6431 |
 | Federal Tort Claims Act (VA, federally funded clinics) | Administrative claim within 2 years; suit within 6 months of denial | 28 USC 2401(b), 2675 |
 | Wrongful death | 2 years, with the estate’s saving provision | MCL 600.5805, 600.5852 |
-| Child’s malpractice claim | For a claim arising before age 8: until the child's 10th birthday or within the applicable period under MCL 600.5838a, whichever is later. A separate rule applies to qualifying reproductive-system injuries under MCL 600.5851(8). | MCL 600.5851(7) **[ATTORNEY CHECK]** |
+| Child’s malpractice claim | For a claim arising before age 8: until the child's 10th birthday or within the applicable period under MCL 600.5838a, whichever is later. A separate rule applies to qualifying reproductive-system injuries under MCL 600.5851(8). | MCL 600.5851(7) |
 | Medical records request | Generally within 30 days; up to 60 days for off-site records, subject to statutory extensions. | MCL 333.26265 |
 
 ## Why metro Detroit patients call ATLAW for hospital cases
 
 - **Thirteen years, more than 10,000 cases, more than $100 million recovered.**
-- **Both liability theories built**: the hospital’s own negligence and its responsibility for employed and contracted physicians under Grewe and Markel. **[CONFIRM]**
-- **The Bryant analysis done early**, so a fall or pressure-injury case is filed under the right rules before the two-year mark. **[CONFIRM]**
-- **Same-specialty experts**, including nursing experts for nursing-care claims. **[CONFIRM: expert network]**
-- **Court of Claims and FTCA cases handled**, for U-M and VA patients. **[CONFIRM]**
+- **Both liability theories built**: the hospital’s own negligence and its responsibility for employed and contracted physicians under Grewe and Markel.
+- **The Bryant analysis done early**, so a fall or pressure-injury case is filed under the right rules before the two-year mark.
+- **Reviewing experts who meet Michigan’s same-specialty requirements** (MCL 600.2169), including nursing experts for nursing-care claims.
+- **U-M and VA claims evaluated**, under the Court of Claims and Federal Tort Claims Act rules that govern them.
 - **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 - **Languages.** Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish.
 - **No fee unless we recover.** ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs. No cost for the first conversation.

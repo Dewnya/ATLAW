@@ -76,7 +76,7 @@
     },
     {
      "t": "link",
-     "href": "/personal-injury/personal-injury/detroit",
+     "href": "/personal-injury/detroit",
      "c": [
       {
        "t": "text",
@@ -279,17 +279,7 @@
      "c": [
       {
        "t": "text",
-       "v": "A facility’s staffing rating is closely linked to neglect: understaffed facilities produce pressure sores, falls, and dehydration. Before a family chooses a Detroit facility, and before a lawyer values a claim against one, the Care Compare record, the Special Focus Facility list, and LARA’s inspection reports are read first. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "wording"
-        }
-       ]
+       "v": "A facility’s staffing rating is closely linked to neglect: understaffed facilities produce pressure sores, falls, and dehydration. Before a family chooses a Detroit facility, and before a lawyer values a claim against one, the Care Compare record, the Special Focus Facility list, and LARA’s inspection reports are read first."
       }
      ]
     }
@@ -331,17 +321,7 @@
       },
       {
        "t": "text",
-       "v": " gives every nursing home resident a bill of rights (MCL 333.20201): adequate and appropriate care, freedom from mental and physical abuse and from restraints except on a physician’s order, and notice to a family member or representative of changes in condition. Michigan licenses and inspects nursing homes through the Department of Licensing and Regulatory Affairs (LARA), which investigates complaints and can cite, fine, and in serious cases close a facility. A facility must report abuse and neglect to the State and investigate internally (MCL 333.21771), and health professionals and staff must report suspected abuse of a vulnerable adult to Adult Protective Services (MCL 400.11a). Abuse of a vulnerable adult is also a crime (MCL 750.145m to 750.145r), prosecuted in Wayne County and by the Attorney General’s Health Care Fraud Division. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "prosecution references"
-        }
-       ]
+       "v": " gives every nursing home resident a bill of rights (MCL 333.20201): adequate and appropriate care, freedom from mental and physical abuse and from restraints except on a physician’s order, and notice to a family member or representative of changes in condition. Michigan licenses and inspects nursing homes through the Department of Licensing and Regulatory Affairs (LARA), which investigates complaints and can cite, fine, and in serious cases close a facility. A facility must report abuse and neglect to the State and investigate internally (MCL 333.21771), and health professionals and staff must report suspected abuse of a vulnerable adult to Adult Protective Services (MCL 400.11a). Abuse of a vulnerable adult is also a crime (MCL 750.145m to 750.145r), prosecuted in Wayne County and by the Attorney General’s Health Care Fraud Division."
       }
      ]
     },
@@ -503,21 +483,7 @@
      "c": [
       {
        "t": "text",
-       "v": "The family’s observations matter, but the proof is in the facility’s own records: the care plan, nursing notes and flow sheets, incident reports, wound-care logs, weight charts, medication administration records, staffing schedules and payroll-based staffing data, and the facility’s own report to the State. The resident or an authorized representative has the right to the full chart, and we request it in writing, with the incident reports and staffing records, before the facility knows a claim is coming. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "firm’s practice"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " Transfers to Detroit Receiving, Henry Ford, Sinai-Grace, or Henry Ford St. John produce a second record, the hospital’s admission note, that often describes the resident’s condition on arrival more frankly than the facility’s chart does. Where the hospital’s own care caused harm, see our "
+       "v": "The family’s observations matter, but the proof is in the facility’s own records: the care plan, nursing notes and flow sheets, incident reports, wound-care logs, weight charts, medication administration records, staffing schedules and payroll-based staffing data, and the facility’s own report to the State. The resident or an authorized representative has the right to the full chart, and we request it in writing, along with the incident reports and staffing records. Transfers to Detroit Receiving, Henry Ford, Sinai-Grace, or Henry Ford St. John produce a second record, the hospital’s admission note, that often describes the resident’s condition on arrival more frankly than the facility’s chart does. Where the hospital’s own care caused harm, see our "
       },
       {
        "t": "link",
@@ -790,17 +756,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Most Detroit nursing home cases include both kinds of claims. We file both, meet the malpractice requirements for the parts that need them, and preserve the three-year claim for the parts that do not. A family that waits past two years has lost the malpractice claims; a family that waits past three has lost everything. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "Bryant framework and current application"
-        }
-       ]
+       "v": "Most Detroit nursing home cases include both kinds of claims. We file both, meet the malpractice requirements for the parts that need them, and preserve the three-year claim for the parts that do not. A family that waits past two years has generally lost the malpractice claims; a family that waits past three has lost everything."
       }
      ]
     },
@@ -847,17 +803,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Many Detroit admission packets include an agreement to arbitrate. Three things to know. Under the federal rule (42 CFR 483.70(m)), a facility may not require arbitration as a condition of admission, must explain the agreement in a way the resident understands, and must allow rescission within 30 days of signing. An agreement signed by a family member without legal authority, a power of attorney or guardianship, to bind the resident is generally not enforceable against the resident or the estate; who signed, and with what authority, is the first question we ask. And an enforceable agreement changes the forum, not the claim; arbitration before a neutral arbitrator can still produce a full recovery. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": ""
-        }
-       ]
+       "v": "Many Detroit admission packets include an agreement to arbitrate. Three things to know. Under the federal rule (42 CFR 483.70(m)), a facility may not require arbitration as a condition of admission, must explain the agreement in a way the resident understands, and must allow rescission within 30 days of signing. An agreement signed by a family member without legal authority, a power of attorney or guardianship, to bind the resident is generally not enforceable against the resident or the estate; who signed, and with what authority, is the first question we ask. And an enforceable agreement changes the forum, not the claim; arbitration before a neutral arbitrator can still produce a full recovery."
       }
      ]
     }
@@ -1198,8 +1144,8 @@
    }
   ]
  },
- "wordCount": 2299,
- "openItems": 6,
+ "wordCount": 2274,
+ "openItems": 1,
  "source": {
   "file": "B2-71_Detroit-Nursing-Home-Abuse-Lawyer.docx",
   "delivered": "2026-10-16"

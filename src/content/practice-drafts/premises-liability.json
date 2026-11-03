@@ -516,17 +516,7 @@
        [
         {
          "t": "text",
-         "v": "A merchant has no duty to anticipate the criminal acts of third parties, but must respond reasonably to a situation occurring on the premises, which ordinarily means calling the police (MacDonald v PKT, 2001). A landlord’s duty is the same with respect to common areas (Bailey v Schaaf, 2013). Prior crimes on the property, broken locks and gates, non-functioning cameras, and unanswered complaints are the evidence. "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "ATTORNEY CHECK",
-           "v": "current scope of the merchant and landlord duty"
-          }
-         ]
+         "v": "A merchant has no duty to anticipate the criminal acts of third parties, but must respond reasonably to a situation occurring on the premises, which ordinarily means calling the police (MacDonald v PKT, 2001). A landlord’s duty is the same with respect to common areas (Bailey v Schaaf, 2013). Prior crimes on the property, broken locks and gates, non-functioning cameras, and unanswered complaints are the evidence."
         }
        ]
       ],
@@ -818,17 +808,7 @@
        },
        {
         "t": "text",
-        "v": " Most injuries in public parks fall outside the exceptions unless a building or a highway is involved. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "ATTORNEY CHECK",
-          "v": ""
-         }
-        ]
+        "v": " Most injuries in public parks fall outside the exceptions unless a building or a highway is involved."
        }
       ],
       [
@@ -843,17 +823,7 @@
        },
        {
         "t": "text",
-        "v": " Claims against the state and state universities go to the Court of Claims with a notice of intention within six months (MCL 600.6431). "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "ATTORNEY CHECK",
-          "v": "current notice period"
-         }
-        ]
+        "v": " Claims against the state and state universities go to the Court of Claims with a notice of intention within six months (MCL 600.6431)."
        }
       ]
      ]
@@ -1058,17 +1028,7 @@
      "c": [
       {
        "t": "text",
-       "v": "A written preservation demand to the property owner and its insurer within days is the single most important step in a premises case. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "the firm sends preservation letters within days of retention"
-        }
-       ]
+       "v": "A written preservation demand to the property owner and its insurer, sent as early as possible, is one of the most important steps in a premises case."
       }
      ]
     }
@@ -1317,17 +1277,7 @@
        [
         {
          "t": "text",
-         "v": "6 months from the injury "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "ATTORNEY CHECK",
-           "v": ""
-          }
-         ]
+         "v": "6 months from the injury"
         }
        ],
        [
@@ -1405,23 +1355,13 @@
         "c": [
          {
           "t": "text",
-          "v": "Preservation letters in the first week"
+          "v": "Preservation letters"
          }
         ]
        },
        {
         "t": "text",
-        "v": ", to the owner, the manager, the insurer, and any contractor. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": ""
-         }
-        ]
+        "v": " to the owner, the manager, the insurer, and any contractor."
        }
       ],
       [
@@ -1445,23 +1385,13 @@
         "c": [
          {
           "t": "text",
-          "v": "Government notices calendared on intake."
+          "v": "Government notices tracked from the start."
          }
         ]
        },
        {
         "t": "text",
-        "v": " The 120-day and six-month notices are identified and sent. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": ""
-         }
-        ]
+        "v": " The 120-day and six-month notices are identified and sent."
        }
       ],
       [
@@ -1634,8 +1564,8 @@
    }
   ]
  },
- "wordCount": 3017,
- "openItems": 7,
+ "wordCount": 2983,
+ "openItems": 0,
  "source": {
   "file": "B1-21_Michigan-Premises-Liability-Lawyer.docx",
   "delivered": "2026-10-12"

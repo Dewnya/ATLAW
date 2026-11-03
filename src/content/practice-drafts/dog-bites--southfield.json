@@ -60,7 +60,7 @@
     },
     {
      "t": "link",
-     "href": "/personal-injury/personal-injury/southfield",
+     "href": "/personal-injury/southfield",
      "c": [
       {
        "t": "text",
@@ -301,17 +301,7 @@
       },
       {
        "t": "text",
-       "v": ", Mich App 2003). "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "the firm’s reading"
-        }
-       ]
+       "v": ", Mich App 2003)."
       }
      ]
     },
@@ -538,17 +528,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Dog bites cause puncture and crush wounds, torn tendons and nerves, hand and forearm fractures, and facial injuries. Wounds are often left open and treated with antibiotics, and infection is a routine complication. The biting dog is observed for ten days; if it cannot be found, the victim receives post-exposure rabies treatment. In Southfield, adults are often treated at Henry Ford Providence Southfield Hospital (formerly Ascension Providence) or Corewell Health William Beaumont University Hospital in Royal Oak; serious facial injuries in children are often treated by pediatric plastic surgeons in Royal Oak or Detroit. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "hospital list"
-        }
-       ]
+       "v": "Dog bites cause puncture and crush wounds, torn tendons and nerves, hand and forearm fractures, and facial injuries. Wounds are often left open and treated with antibiotics, and infection is a routine complication. The biting dog is observed for ten days; if it cannot be found, the victim receives post-exposure rabies treatment. In Southfield, adults are often treated at Henry Ford Providence Southfield Hospital (formerly Ascension Providence) or Corewell Health William Beaumont University Hospital in Royal Oak; serious injuries in children are often treated at Children’s Hospital of Michigan in Detroit, the region’s major pediatric hospital."
       }
      ]
     },
@@ -994,8 +974,8 @@
    }
   ]
  },
- "wordCount": 2156,
- "openItems": 2,
+ "wordCount": 2150,
+ "openItems": 0,
  "source": {
   "file": "B3-08_Southfield-Dog-Bite-Lawyer.docx",
   "delivered": "October 23, 2026 [CONFIRM: Batch 3 delivery date]"

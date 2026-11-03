@@ -2,7 +2,7 @@
 slug: medical-malpractice
 section: personal-injury
 city: west-bloomfield
-status: draft
+status: approved
 seoTitle: West Bloomfield, MI Medical Malpractice Lawyer: Henry Ford West Bloomfield Hospital, the Medical Center, Transfers to Detroit, the Two-Year Deadline, Notice of Intent, and 2026 Caps
 seoDescription: Harmed by a doctor, hospital, or clinic in West Bloomfield? Michigan malpractice law has a two-year deadline, a 182-day notice before suit, a sworn expert affidavit, and a cap on pain-and-suffering damages ($596,400 or $1,065,000 in 2026). This page explains how the rules apply to Henry Ford West Bloomfield Hospital and the medical center attached to it, the physician group, transfers to Detroit, births and newborn care, urgent care, federally funded health centers, the VA, and the township’s nursing and senior communities. Free review. (313) 406-7606.
 h1: West Bloomfield, MI Medical Malpractice Lawyer

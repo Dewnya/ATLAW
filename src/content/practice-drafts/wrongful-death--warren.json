@@ -260,17 +260,7 @@
       },
       {
        "t": "text",
-       "v": " Only the personal representative can bring the claim (MCL 600.2922(2)). Where the person lived in Warren, the estate is opened in the Macomb County Probate Court at 40 N. Main Street in Mount Clemens. If there is a will naming a personal representative, that person petitions for appointment; if not, a family member, usually the spouse or an adult child, petitions under Michigan’s priority rules (MCL 700.3203). The court issues letters of authority, and the personal representative then has standing to hire a lawyer for the estate and file. We file the petition as the first legal step. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "EPIC appointment summary"
-        }
-       ]
+       "v": " Only the personal representative can bring the claim (MCL 600.2922(2)). Where the person lived in Warren, the estate is opened in the Macomb County Probate Court at 40 N. Main Street in Mount Clemens. If there is a will naming a personal representative, that person petitions for appointment; if not, a family member, usually the spouse or an adult child, petitions under Michigan’s priority rules (MCL 700.3203). The court issues letters of authority, and the personal representative then has standing to hire a lawyer for the estate and file. We file the petition as the first legal step."
       }
      ]
     },
@@ -306,17 +296,7 @@
       },
       {
        "t": "text",
-       "v": " The suit is the injury claim the person would have had, brought by the estate against whoever caused the death. Death claims are filed in circuit court, not the 37th District Court on Common Road, which hears civil cases only up to $25,000. For a death in Warren that is usually the Sixteenth Judicial Circuit Court in Mount Clemens. Where the crash was on Eight Mile or Dequindre, or a defendant is in Wayne or Oakland County, those counties’ courts may also be a proper venue (MCL 600.1629). Claims against the State go to the Court of Claims, and claims against the United States to the Eastern District of Michigan. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "venue"
-        }
-       ]
+       "v": " The suit is the injury claim the person would have had, brought by the estate against whoever caused the death. Death claims are filed in circuit court, not the 37th District Court on Common Road, which hears civil cases only up to $25,000. For a death in Warren that is usually the Sixteenth Judicial Circuit Court in Mount Clemens. Where the crash was on Eight Mile or Dequindre, or a defendant is in Wayne or Oakland County, those counties’ courts may also be a proper venue (MCL 600.1629). Claims against the State go to the Court of Claims, and claims against the United States to the Eastern District of Michigan."
       }
      ]
     },
@@ -655,17 +635,7 @@
       },
       {
        "t": "text",
-       "v": ". "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "intentional tort standard; FTCA"
-        }
-       ]
+       "v": "."
       }
      ]
     },
@@ -1005,17 +975,7 @@
        },
        {
         "t": "text",
-        "v": ", along with the EMS run sheet and the hospital record. If the family’s customs call for prompt burial, tell the Medical Examiner’s office at once, or call us. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "verify current Macomb County ME procedure"
-         }
-        ]
+        "v": ", along with the EMS run sheet and the hospital record. If the family’s customs call for prompt burial, contact the Medical Examiner’s office right away, or call us."
        }
       ],
       [
@@ -1231,8 +1191,8 @@
    }
   ]
  },
- "wordCount": 2376,
- "openItems": 4,
+ "wordCount": 2355,
+ "openItems": 0,
  "source": {
   "file": "B3-15_Warren-Wrongful-Death-Lawyer.docx",
   "delivered": "October 23, 2026 [CONFIRM: Batch 3 delivery date]"

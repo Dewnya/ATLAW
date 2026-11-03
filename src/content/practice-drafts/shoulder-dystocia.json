@@ -48,17 +48,7 @@
    "c": [
     {
      "t": "text",
-     "v": "ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across Wayne, Oakland, Macomb, and Washtenaw counties. Birth injury cases are handled on contingency: no fee unless we recover money for your family, and the first conversation is free. "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "CONFIRM",
-       "v": "the firm handles birth injury cases in-house, and the attorney who leads them"
-      }
-     ]
+     "v": "ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across Wayne, Oakland, Macomb, and Washtenaw counties. Birth injury cases are handled on contingency: no fee unless we recover money for your family, and the first conversation is free. ATLAW handles these cases and works with qualified medical experts to review each one."
     }
    ]
   }
@@ -1401,17 +1391,7 @@
        [
         {
          "t": "text",
-         "v": "MCL 600.5805(8), 600.5838a "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "ATTORNEY CHECK",
-           "v": ""
-          }
-         ]
+         "v": "MCL 600.5805(8), 600.5838a"
         }
        ]
       ],
@@ -1431,17 +1411,7 @@
        [
         {
          "t": "text",
-         "v": "MCL 600.2922, 600.5852 "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "ATTORNEY CHECK",
-           "v": ""
-          }
-         ]
+         "v": "MCL 600.2922, 600.5852"
         }
        ]
       ],
@@ -1740,17 +1710,7 @@
        },
        {
         "t": "text",
-        "v": " A shoulder dystocia that was handled correctly and still injured a baby is not a case, and we say so after reading the records, not before. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": ""
-         }
-        ]
+        "v": " A shoulder dystocia that was handled correctly and still injured a baby is not a case, and we say so after reading the records, not before."
        }
       ],
       [
@@ -1765,17 +1725,7 @@
        },
        {
         "t": "text",
-        "v": ": obstetrics and maternal-fetal medicine, labor and delivery nursing, pediatric neurology, brachial plexus surgery, neonatology, life care planning, and economics. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "expert network"
-         }
-        ]
+        "v": ": obstetrics and maternal-fetal medicine, labor and delivery nursing, pediatric neurology, brachial plexus surgery, neonatology, life care planning, and economics, with reviewing experts who meet Michigan’s same-specialty requirements (MCL 600.2169)."
        }
       ],
       [
@@ -1790,17 +1740,7 @@
        },
        {
         "t": "text",
-        "v": ", with the mother’s two-year deadline and the child’s calendared together. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": ""
-         }
-        ]
+        "v": ", with the mother’s two-year deadline and the child’s calendared together."
        }
       ],
       [
@@ -1809,23 +1749,13 @@
         "c": [
          {
           "t": "text",
-          "v": "The records requested by name"
+          "v": "The records requested in full"
          }
         ]
        },
        {
         "t": "text",
-        "v": ", including the monitoring archive, the nursing notes, and the hospital’s shoulder dystocia protocol and training records. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": ""
-         }
-        ]
+        "v": ", including the monitoring archive, the nursing notes, and, where available, the hospital’s shoulder dystocia protocol and training records."
        }
       ],
       [
@@ -1834,23 +1764,13 @@
         "c": [
          {
           "t": "text",
-          "v": "Settlements structured to protect the child’s benefits."
+          "v": "Settlements structured to protect the child’s benefits"
          }
         ]
        },
        {
         "t": "text",
-        "v": "  "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "special needs planning coordination"
-         }
-        ]
+        "v": ", coordinated where needed with special needs planning professionals."
        }
       ],
       [
@@ -1963,17 +1883,7 @@
    "answer": [
     {
      "t": "text",
-     "v": "Michigan hospitals are expected to train for shoulder dystocia, and many run drills. Whether protocols and training records are discoverable depends on the hospital’s privilege claims, which the attorney will address. "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "ATTORNEY CHECK",
-       "v": ""
-      }
-     ]
+     "v": "Michigan hospitals are expected to train for shoulder dystocia, and many run drills. Whether protocols and training records are discoverable depends on the hospital’s privilege claims, which the attorney will address."
     }
    ]
   },
@@ -2033,8 +1943,8 @@
    }
   ]
  },
- "wordCount": 3446,
- "openItems": 9,
+ "wordCount": 3443,
+ "openItems": 0,
  "source": {
   "file": "B2-12_Michigan-Shoulder-Dystocia-Lawyer.docx",
   "delivered": "2026-10-16"

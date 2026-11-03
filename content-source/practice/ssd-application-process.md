@@ -18,7 +18,7 @@ About 36 percent of initial Social Security disability applications were approve
 
 This page walks through the Michigan application from beginning to end: who qualifies for SSDI and SSI and the 2026 dollar limits, the documents to gather before you start, the three ways to file, what happens to your claim at Michigan’s Disability Determination Service, how long an initial decision takes, the fast-track programs for the most serious conditions, the five-month waiting period and back pay, and the mistakes that produce denials. It also explains what Michigan’s own interim assistance program pays while you wait.
 
-ATLAW is a Dearborn law firm serving clients for 13 years, with more than 10,000 cases handled. The firm represents Michigan claimants from the initial application forward, not only after a denial. **[CONFIRM: the firm handles Social Security disability claims in-house from the application stage, and the attorney who leads the practice]** There is no fee unless you win, and the fee is set by federal law.
+ATLAW is a Dearborn law firm serving clients for 13 years, with more than 10,000 cases handled. The firm represents Michigan claimants from the initial application forward, not only after a denial. Each case is overseen by an ATLAW attorney. There is no fee unless you win, and the fee is set by federal law.
 
 ## Social Security disability in 2026: the numbers
 
@@ -68,9 +68,9 @@ There are three ways to apply, and all three produce the same application.
 | **By phone** | 1-800-772-1213 (TTY 1-800-325-0778), weekdays | A representative takes the application or schedules an appointment; the forms are mailed for signature |
 | **In person** | At a Social Security field office, by appointment | Michigan field offices serve metro Detroit from Detroit, Dearborn, Southfield, Pontiac, Warren, Sterling Heights, Livonia, Ann Arbor, and other locations; call ahead to check office hours and appointment options. Some walk-in service may also be available. |
 
-A lawyer or appointed representative can file the application for you once you have signed Form SSA-1696 appointing them. **[CONFIRM: the firm files initial applications for clients]**
+ATLAW can file the initial application for you once you have signed Form SSA-1696 appointing us as your representative.
 
-**The protective filing date.** A qualifying written statement, online submission, or documented SSI inquiry expressing your intent to apply can establish a protective filing date if you complete the application within SSA’s required period, generally six months for SSDI or 60 days for SSI after the applicable notice. That date, not the date you finish the forms, is the one that determines how far back your benefits reach. Make the contact as soon as you stop working, even if you need weeks to gather the documents. **[ATTORNEY CHECK: 20 CFR 404.630, 416.340]**
+**The protective filing date.** A qualifying written statement, online submission, or documented SSI inquiry expressing your intent to apply can establish a protective filing date if you complete the application within SSA’s required period, generally six months for SSDI or 60 days for SSI after the applicable notice. That date, not the date you finish the forms, is the one that determines how far back your benefits reach. Make the contact as soon as you stop working, even if you need weeks to gather the documents.
 
 **The alleged onset date.** The application asks when your disability began. Choose it carefully: it should be the date you stopped working at the substantial gainful level or the date the medical records show you could no longer do so, whichever is later and supportable. An onset date the records cannot support invites a partially favorable decision with a later onset and less back pay; one that is later than necessary gives up months you were entitled to.
 
@@ -117,15 +117,15 @@ Michigan’s Department of Health and Human Services runs State Disability Assis
 
 Most people apply on their own, and some are approved. The value of a lawyer at the application stage is in the record: identifying the Listing your condition may meet and obtaining the physician statement that addresses each criterion, describing your past work in the terms the regulations use, setting an onset date the records support, flagging a Compassionate Allowance condition, and making sure nothing is left blank or inconsistent. A lawyer also calendars the deadlines from day one, so that a denial becomes an appeal rather than a lost filing date.
 
-Fees are set by federal law and approved by Social Security: the lesser of 25 percent of your past-due benefits or $9,200, paid from the back pay, and nothing if you do not win. There is no fee on your ongoing benefits and no charge for the first conversation. **[CONFIRM: fee agreement terms; who pays record-retrieval costs]**
+Fees are set by federal law and approved by Social Security: the lesser of 25 percent of your past-due benefits or $9,200, paid from the back pay, and nothing if you do not win. There is no fee on your ongoing benefits and no charge for the first conversation. Any out-of-pocket costs, such as charges for copies of medical records, are explained in the written fee agreement at the start of the case.
 
 ## Why Michigan claimants call ATLAW to apply
 
 - **Thirteen years serving clients, more than 10,000 cases.**
-- **Representation from the application, not after the denial.** The record that wins at a hearing is built in the application. **[CONFIRM]**
+- **Representation from the application, not after the denial.** The record that wins at a hearing is built in the application.
 - **The Listing identified and the physician statement obtained** before the claim reaches the examiner. **[CONFIRM: practice]**
 - **Every deadline calendared** from the protective filing date forward.
-- **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. **[CONFIRM: phone and video consultations]**
+- **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed, and consultations by phone or video can also be arranged.
 - **Languages.** Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish.
 - **No fee unless you win**, federally capped at 25 percent of back pay or $9,200, whichever is less.
 

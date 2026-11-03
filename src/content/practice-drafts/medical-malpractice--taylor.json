@@ -961,17 +961,7 @@
        },
        {
         "t": "text",
-        "v": " injuries that follow. A child injured before age eight has until the tenth birthday to file. The parents’ own claims do not get that extension. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "ATTORNEY CHECK",
-          "v": "; verify: whether Corewell Health Taylor delivers babies"
-         }
-        ]
+        "v": " injuries that follow. A child injured before age eight has until the tenth birthday to file. The parents’ own claims do not get that extension."
        }
       ],
       [
@@ -1561,8 +1551,8 @@
    }
   ]
  },
- "wordCount": 2485,
- "openItems": 3,
+ "wordCount": 2475,
+ "openItems": 2,
  "source": {
   "file": "B4-12_Taylor-Medical-Malpractice-Lawyer.docx",
   "delivered": "October 25, 2026 [CONFIRM: Batch 4 delivery date]"

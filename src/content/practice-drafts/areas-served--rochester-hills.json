@@ -322,7 +322,7 @@
       },
       {
        "t": "text",
-       "v": " FANUC America, the automotive-technology and engineering campuses along M-59 and Hamlin, Henry Ford Rochester Hospital, and the retail along Rochester Road and Adams. Parking-structure crashes, falls, and workplace injuries, where workers’ compensation is generally the exclusive remedy against the employer (MCL 418.131) but a third-party claim survives. See our "
+       "v": " The automotive-technology and engineering campuses along M-59 and Hamlin, the hospital campus, and the retail along Rochester Road and Adams. Parking-structure crashes, falls, and workplace injuries, where workers’ compensation is generally the exclusive remedy against the employer (MCL 418.131) but a third-party claim survives. See our "
       },
       {
        "t": "link",
@@ -350,17 +350,7 @@
       },
       {
        "t": "text",
-       "v": " pages. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "current major employers"
-        }
-       ]
+       "v": " pages."
       }
      ]
     },
@@ -1300,8 +1290,8 @@
    }
   ]
  },
- "wordCount": 2321,
- "openItems": 1,
+ "wordCount": 2314,
+ "openItems": 0,
  "source": {
   "file": "areas-served__rochester-hills.docx",
   "delivered": "2026-10-16"

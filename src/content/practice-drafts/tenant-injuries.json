@@ -422,21 +422,7 @@
      "c": [
       {
        "t": "text",
-       "v": "The Court left open whether a 554.139 breach supports personal injury damages as a contract claim or only through negligence. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "Bowerman footnote 8 and the pleading of 554.139 claims"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " For a tenant injured in a common area in Michigan today, the practical effect is that a case dismissed under Allison in 2024 is a jury question in 2026."
+       "v": "The Court declined to decide whether the remedy for a breach of MCL 554.139 is limited to contract remedies and left that question for the trial court on remand. For a tenant injured in a common area in Michigan today, the practical effect is that a case dismissed under Allison in 2024 is a jury question in 2026."
       }
      ]
     }
@@ -546,17 +532,7 @@
      "c": [
       {
        "t": "text",
-       "v": "A landlord is not an insurer against crime, but it has duties in the common areas it controls. Michigan’s Supreme Court has held that a landlord must respond reasonably to an ongoing criminal act in a common area of which it has notice, which ordinarily means calling the police (Bailey v Schaaf, 2013), and that landlords and merchants are not required to anticipate crime in general (MacDonald v PKT, 2001). The cases that succeed involve a specific failure: a broken entry door or gate the landlord was told about and left unrepaired, security cameras that were advertised but not working, a guard contracted for but absent, lighting out for weeks, or a history of the same crime on the property that the landlord ignored. Police calls-for-service records, prior incident reports, and your own complaints are the evidence. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "current scope of the landlord security duty"
-        }
-       ]
+       "v": "A landlord is not an insurer against crime, and Michigan imposes no general duty on landlords or merchants to provide security against it. Michigan’s Supreme Court has held that landlords and merchants are not required to anticipate crime in general (MacDonald v PKT, 2001), and that a landlord’s duty is the narrow one to respond reasonably to an imminent criminal act in a common area of which it has notice, which ordinarily means calling the police (Bailey v Schaaf, 2013). Security measures a landlord chooses to provide, such as cameras, a guard, or a gate, generally do not create a broader duty. The claims that remain are narrow: a landlord that had notice of an attack under way in a lobby or hallway and did nothing, or a common-area condition that breached the 554.139 covenants, such as a broken entry door or lock the landlord was told about and left unrepaired, or lighting out for weeks. Police calls-for-service records, prior incident reports, and your own complaints are the evidence."
       }
      ]
     }
@@ -581,17 +557,7 @@
        },
        {
         "t": "text",
-        "v": " Most of metro Detroit’s rental housing predates the 1978 lead paint ban. Federal law requires landlords to disclose known lead hazards and provide the EPA pamphlet before a lease (42 USC 4852d), and Michigan’s lead abatement law and local ordinances regulate lead-safe conditions in rentals (MCL 333.5451 and following). A child’s elevated blood lead level traced to deteriorated paint, dust, or soil at a rental is a negligence and 554.139 claim against the landlord, with lifelong damages. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "ATTORNEY CHECK",
-          "v": "current Michigan lead-safe rental requirements, including Detroit’s ordinance"
-         }
-        ]
+        "v": " Most of metro Detroit’s rental housing predates the 1978 lead paint ban. Federal law requires landlords to disclose known lead hazards and provide the EPA pamphlet before a lease (42 USC 4852d), and Michigan’s lead abatement law and local ordinances regulate lead-safe conditions in rentals (MCL 333.5451 and following). A child’s elevated blood lead level traced to deteriorated paint, dust, or soil at a rental is a negligence and 554.139 claim against the landlord, with lifelong damages."
        }
       ],
       [
@@ -613,8 +579,8 @@
         "c": [
          {
           "t": "placeholder",
-          "kind": "ATTORNEY CHECK",
-          "v": "specific code citations"
+          "kind": "VERIFY",
+          "v": "specific code citations; the attorney did not verify this; check it against the source before publication"
          }
         ]
        }
@@ -647,21 +613,7 @@
      "c": [
       {
        "t": "text",
-       "v": "A tenant’s guest injured in a common area has the same claim against the landlord as the tenant; the landlord’s duty in common areas runs to the people it should expect there, and a tenant’s visitors are among them. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "status of tenant’s guests in common areas"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " A guest injured inside the unit by a condition the tenant controlled may have a claim against the tenant’s renters insurance; a guest injured by a condition the landlord was obligated to repair has a claim against the landlord."
+       "v": "A tenant’s guest cannot sue under MCL 554.139, which runs to the tenant, but has a premises-liability claim against the landlord for common areas the landlord controls. A guest injured inside the unit by a condition the tenant controlled may have a claim against the tenant’s renters insurance; a guest injured by a condition the landlord was obligated to repair has a claim against the landlord."
       }
      ]
     }
@@ -698,8 +650,8 @@
        "c": [
         {
          "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "current text of 600.5720"
+         "kind": "VERIFY",
+         "v": "current text of 600.5720; the attorney did not verify this; check it against the source before publication"
         }
        ]
       },
@@ -1085,17 +1037,7 @@
        [
         {
          "t": "text",
-         "v": "Written notice within 120 days; suit within 2 years "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "ATTORNEY CHECK",
-           "v": ""
-          }
-         ]
+         "v": "Written notice within 120 days; suit within 2 years"
         }
        ],
        [
@@ -1135,17 +1077,7 @@
        [
         {
          "t": "text",
-         "v": "6 years "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "ATTORNEY CHECK",
-           "v": "availability of injury damages on this theory after Bowerman"
-          }
-         ]
+         "v": "6 years; whether personal-injury damages are available on a contract theory remains open after Bowerman (2026)"
         }
        ],
        [
@@ -1224,17 +1156,7 @@
        },
        {
         "t": "text",
-        "v": " Owner, management company, and contractors identified from the lease, the county register of deeds, and the city’s rental registration. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": ""
-         }
-        ]
+        "v": " Owner, management company, and contractors identified from the lease, the county register of deeds, and the city’s rental registration."
        }
       ],
       [
@@ -1249,17 +1171,7 @@
        },
        {
         "t": "text",
-        "v": " We advise on your rights as a tenant while the injury case proceeds. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "the firm advises on retaliation issues or refers to housing counsel"
-         }
-        ]
+        "v": " We advise on your rights as a tenant while the injury case proceeds and, where needed, refer housing matters to housing counsel."
        }
       ],
       [
@@ -1432,8 +1344,8 @@
    }
   ]
  },
- "wordCount": 3115,
- "openItems": 10,
+ "wordCount": 3124,
+ "openItems": 2,
  "source": {
   "file": "B1-23_Michigan-Tenant-Injury-Lawyer.docx",
   "delivered": "2026-10-12"

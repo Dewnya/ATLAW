@@ -60,7 +60,7 @@
     },
     {
      "t": "link",
-     "href": "/personal-injury/personal-injury/pontiac",
+     "href": "/personal-injury/pontiac",
      "c": [
       {
        "t": "text",
@@ -519,8 +519,8 @@
        "c": [
         {
          "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "verify the current text and section numbers"
+         "kind": "VERIFY",
+         "v": "verify the current text and section numbers; the attorney did not verify this; check it against the source before publication"
         }
        ]
       },
@@ -1319,7 +1319,7 @@
    }
   ]
  },
- "wordCount": 2979,
+ "wordCount": 2991,
  "openItems": 5,
  "source": {
   "file": "B3-89_Pontiac-Dog-Bite-Lawyer.docx",

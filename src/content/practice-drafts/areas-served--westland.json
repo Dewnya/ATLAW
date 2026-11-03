@@ -1158,17 +1158,7 @@
    "answer": [
     {
      "t": "text",
-     "v": "Potentially the landlord, management company, or maintenance contractor, under Michigan’s rental-housing statute (MCL 554.139) and premises liability law; since Kandil-Elsayed (2023), the obviousness of the hazard is considered when evaluating breach of duty and comparative fault rather than automatically ending the claim. Prior complaints, work orders, and incident reports are the evidence; request them early. "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "ATTORNEY CHECK",
-       "v": ""
-      }
-     ]
+     "v": "Potentially the landlord, management company, or maintenance contractor, under Michigan’s rental-housing statute (MCL 554.139) and premises liability law; since Kandil-Elsayed (2023), the obviousness of the hazard is considered when evaluating breach of duty and comparative fault rather than automatically ending the claim. Prior complaints, work orders, and incident reports are the evidence; request them early."
     }
    ]
   },
@@ -1186,17 +1176,7 @@
    "answer": [
     {
      "t": "text",
-     "v": "For a crash with another driver, the driver, through no-fault and a threshold claim. For a road defect on Hines Drive, Wayne County, with written notice within 120 days. For an injury in the park itself, the county, subject to the recreational-use and governmental-immunity defenses that make park claims difficult. "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "ATTORNEY CHECK",
-       "v": ""
-      }
-     ]
+     "v": "For a crash with another driver, the driver, through no-fault and a threshold claim. For a road defect on Hines Drive, Wayne County, with written notice within 120 days. For an injury in the park itself, the county, subject to the recreational-use and governmental-immunity defenses that make park claims difficult."
     }
    ]
   },
@@ -1279,8 +1259,8 @@
    }
   ]
  },
- "wordCount": 2155,
- "openItems": 2,
+ "wordCount": 2149,
+ "openItems": 0,
  "source": {
   "file": "areas-served__westland.docx",
   "delivered": "2026-10-16"

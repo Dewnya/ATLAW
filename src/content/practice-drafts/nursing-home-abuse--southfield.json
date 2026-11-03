@@ -60,7 +60,7 @@
     },
     {
      "t": "link",
-     "href": "/personal-injury/personal-injury/southfield",
+     "href": "/personal-injury/southfield",
      "c": [
       {
        "t": "text",
@@ -449,21 +449,7 @@
      "c": [
       {
        "t": "text",
-       "v": "The proof is in the facility’s records: the care plan, nursing notes, incident reports, wound-care logs, weight charts, medication administration records, staffing schedules, and its report to the State. The resident or an authorized representative has the right to the full chart, and we request it in writing, with the incident reports and staffing records, early. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "firm’s practice"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " A transfer to Henry Ford Providence Southfield Hospital (formerly Ascension Providence) or Corewell Health William Beaumont University Hospital in Royal Oak produces the hospital’s admission note, which often describes the resident’s condition on arrival more plainly than the facility’s chart does. Where the hospital’s own care caused harm, see our "
+       "v": "The proof is in the facility’s records: the care plan, nursing notes, incident reports, wound-care logs, weight charts, medication administration records, staffing schedules, and its report to the State. The resident or an authorized representative has the right to the full chart, and we request it in writing, along with the incident reports and staffing records. A transfer to Henry Ford Providence Southfield Hospital (formerly Ascension Providence) or Corewell Health William Beaumont University Hospital in Royal Oak produces the hospital’s admission note, which often describes the resident’s condition on arrival more plainly than the facility’s chart does. Where the hospital’s own care caused harm, see our "
       },
       {
        "t": "link",
@@ -1139,8 +1125,8 @@
    }
   ]
  },
- "wordCount": 2018,
- "openItems": 2,
+ "wordCount": 2015,
+ "openItems": 1,
  "source": {
   "file": "B3-10_Southfield-Nursing-Home-Abuse-Lawyer.docx",
   "delivered": "October 23, 2026 [CONFIRM: Batch 3 delivery date]"

@@ -540,17 +540,7 @@
       },
       {
        "t": "text",
-       "v": " Automotive freight in Macomb County runs on just-in-time schedules set by the plants and their logistics providers. Delivery schedules that cannot reasonably be met within federal hours-of-service limits may raise safety and compliance concerns. Under 49 CFR 390.6, motor carriers, shippers, receivers, and transportation intermediaries are prohibited from coercing drivers to violate applicable safety regulations, including through threats or adverse work-related actions after a driver identifies the violation. Dispatch records, load tenders, and gate logs show whether the schedule left room to comply. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": ""
-        }
-       ]
+       "v": " Automotive freight in Macomb County runs on just-in-time schedules set by the plants and their logistics providers. Delivery schedules that cannot reasonably be met within federal hours-of-service limits may raise safety and compliance concerns. Under 49 CFR 390.6, motor carriers, shippers, receivers, and transportation intermediaries are prohibited from coercing drivers to violate applicable safety regulations, including through threats or adverse work-related actions after a driver identifies the violation. Dispatch records, load tenders, and gate logs show whether the schedule left room to comply."
       }
      ]
     },
@@ -952,17 +942,7 @@
       [
        {
         "t": "text",
-        "v": "Experience with ELD and ECM downloads, FMCSA safety records, and accident reconstruction. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": ""
-         }
-        ]
+        "v": "We work with qualified experts on ELD and ECM data, FMCSA safety records, and accident reconstruction where a case calls for them."
        }
       ],
       [
@@ -1101,8 +1081,8 @@
    }
   ]
  },
- "wordCount": 2513,
- "openItems": 2,
+ "wordCount": 2518,
+ "openItems": 0,
  "source": {
   "file": "B2-38_Macomb-County-Truck-Accident-Lawyer.docx",
   "delivered": "2026-10-16"

@@ -126,7 +126,7 @@ See our [Rochester Hills nursing home abuse page](/personal-injury/nursing-home-
 
 - **Emergency department errors:** missed stroke, heart attack, sepsis, pulmonary embolism, and bleeds; discharge without a needed test; triage delays; and a delayed transfer from a Level III center to a higher-level one.
 - **Urgent care and clinic errors:** chest pain, abdominal pain, or a head injury sent home as minor; missed fractures, infections, and high-risk pregnancies.
-- **Birth injuries:** delayed response to fetal distress, mismanaged shoulder dystocia, a delayed cesarean, and the [cerebral palsy](/personal-injury/cerebral-palsy), [brachial plexus](/personal-injury/erbs-palsy), and [hypoxic](/personal-injury/birth-asphyxia) injuries that follow. A child injured before age eight has until the tenth birthday; the parents’ own claims do not get that extension. **[ATTORNEY CHECK]**
+- **Birth injuries:** delayed response to fetal distress, mismanaged shoulder dystocia, a delayed cesarean, and the [cerebral palsy](/personal-injury/cerebral-palsy), [brachial plexus](/personal-injury/erbs-palsy), and [hypoxic](/personal-injury/birth-asphyxia) injuries that follow. A child injured before age eight has until the tenth birthday; the parents’ own claims do not get that extension.
 - **Surgical and anesthesia errors,** including at outpatient surgery centers: wrong site, retained objects (which extend the limitations period), perforations, and airway and dosing failures causing [brain injury](/personal-injury/brain-injury).
 - **Medication errors** in hospitals, pharmacies, and nursing homes.
 - **Cancer misdiagnosis and delayed diagnosis** in office practices and imaging centers, where the “better outcome” causation standard is argued hardest.
@@ -155,7 +155,7 @@ Malpractice cases are expensive to bring. The same-specialty expert’s review, 
 | Injury not discoverable within 2 years | 6 months from discovery, within 6 years (exceptions) | MCL 600.5838a(2) |
 | Notice of Intent | At least 182 days before filing; pauses the period if timely | MCL 600.2912b, 600.5856(c) |
 | Affidavit of Merit | With the complaint | MCL 600.2912d |
-| Oakland University provider | Court of Claims notice within 6 months, plus the malpractice rules | MCL 600.6431 **[ATTORNEY CHECK]** |
+| Oakland University provider | Court of Claims notice within 6 months, plus the malpractice rules; this applies to claims against the university itself, and claims against individual physicians may proceed in circuit court | MCL 600.6431 |
 | Child injured before age 8 | 10th birthday | MCL 600.5851(7) |
 | Death from malpractice | 2 years, with the estate’s savings provision; no later than 3 years after the 2-year period ends | MCL 600.5805(8), 600.5852(4) |
 | Deemed health center or VA | SF-95 within 2 years; suit within 6 months of denial | 28 USC 2401(b), 2675 |

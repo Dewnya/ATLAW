@@ -75,21 +75,7 @@
    "c": [
     {
      "t": "text",
-     "v": "ATLAW is a Dearborn law firm serving clients for 13 years, with more than 10,000 cases handled. The firm represents Michigan SSDI claimants from the application through the hearing and beyond. "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "CONFIRM",
-       "v": "the firm handles Social Security disability claims in-house and the attorney who leads the practice"
-      }
-     ]
-    },
-    {
-     "t": "text",
-     "v": " There is no fee unless you win, and the fee is set by federal law."
+     "v": "ATLAW is a Dearborn law firm serving clients for 13 years, with more than 10,000 cases handled. The firm represents Michigan SSDI claimants from the application through the hearing and beyond. An ATLAW attorney is assigned to each case. There is no fee unless you win, and the fee is set by federal law."
     }
    ]
   }
@@ -510,17 +496,7 @@
       },
       {
        "t": "text",
-       "v": " the application matter as much as the current ones. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": ""
-        }
-       ]
+       "v": " the application matter as much as the current ones."
       }
      ]
     },
@@ -627,17 +603,7 @@
       [
        {
         "t": "text",
-        "v": "A progressive formula converts AIME to the primary insurance amount: 90 percent of the first portion, 32 percent of the next, and 15 percent above that, with the “bend points” between them adjusted each year. For workers first eligible in 2026, those bend points are $1,286 and $7,749. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "ATTORNEY CHECK",
-          "v": "2026 bend points"
-         }
-        ]
+        "v": "A progressive formula converts AIME to the primary insurance amount: 90 percent of the first portion, 32 percent of the next, and 15 percent above that, with the “bend points” between them adjusted each year. For workers first eligible in 2026, those bend points are $1,286 and $7,749."
        }
       ]
      ]
@@ -806,17 +772,7 @@
       },
       {
        "t": "text",
-       "v": " decision that moves the date later and can, in a date-last-insured case, defeat the claim entirely. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": ""
-        }
-       ]
+       "v": " decision that moves the date later and can, in a date-last-insured case, defeat the claim entirely."
       }
      ]
     }
@@ -841,17 +797,7 @@
        },
        {
         "t": "text",
-        "v": "), with Part D drug coverage available. Part B’s premium is deducted from the benefit. Michigan’s Medicare Savings Programs can pay the premium for lower-income beneficiaries. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "ATTORNEY CHECK",
-          "v": ""
-         }
-        ]
+        "v": "), with Part D drug coverage available. Part B’s premium is deducted from the benefit. Michigan’s Medicare Savings Programs can pay the premium for lower-income beneficiaries."
        }
       ],
       [
@@ -1227,17 +1173,7 @@
       },
       {
        "t": "text",
-       "v": ", the evidence must speak to that period. A claimant with a 2024 date last insured and no medical records from 2022 to 2024 has an evidentiary gap that a current MRI alone may not resolve. Retrospective opinions from treating physicians, pharmacy records, employer attendance records, and lay statements from family and former coworkers are the tools for proving a disability that began before the records caught up with it. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "SSR 18-1p on establishing onset"
-        }
-       ]
+       "v": ", the evidence must speak to that period. A claimant with a 2024 date last insured and no medical records from 2022 to 2024 has an evidentiary gap that a current MRI alone may not resolve. Retrospective opinions from treating physicians, pharmacy records, employer attendance records, and lay statements from family and former coworkers are the tools for proving a disability that began before the records caught up with it."
       }
      ]
     }
@@ -1460,17 +1396,7 @@
        },
        {
         "t": "text",
-        "v": " For applicable new Title II overpayment notices issued beginning April 25, 2025, Social Security generally uses a default withholding rate of 50 percent of the monthly benefit, subject to exceptions and requests for reconsideration, waiver, or a lower repayment rate. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "ATTORNEY CHECK",
-          "v": ""
-         }
-        ]
+        "v": " For applicable new Title II overpayment notices issued beginning April 25, 2025, Social Security generally uses a default withholding rate of 50 percent of the monthly benefit, subject to exceptions and requests for reconsideration, waiver, or a lower repayment rate."
        }
       ],
       [
@@ -1636,17 +1562,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Fees are set by federal law: the lesser of 25 percent of past-due benefits or $9,200, approved by Social Security and paid from the back pay, and nothing if the claim is not won. There is no fee on your ongoing monthly benefit. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "fee agreement terms; who pays record-retrieval costs"
-        }
-       ]
+       "v": "Fees are set by federal law: the lesser of 25 percent of past-due benefits or $9,200, approved by Social Security and paid from the back pay, and nothing if the claim is not won. There is no fee on your ongoing monthly benefit. Any out-of-pocket costs, such as charges for copies of medical records, are explained in the written fee agreement at the start of the case."
       }
      ]
     }
@@ -1682,17 +1598,7 @@
        },
        {
         "t": "text",
-        "v": ", so the claim is filed for the right program with the right onset date. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": ""
-         }
-        ]
+        "v": ", so the claim is filed for the right program with the right onset date."
        }
       ],
       [
@@ -1707,17 +1613,7 @@
        },
        {
         "t": "text",
-        "v": ", not only for today. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": ""
-         }
-        ]
+        "v": ", not only for today."
        }
       ],
       [
@@ -1732,21 +1628,7 @@
        },
        {
         "t": "text",
-        "v": " We appear at "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "Detroit, Oak Park, Livonia, and the other offices the firm covers"
-         }
-        ]
-       },
-       {
-        "t": "text",
-        "v": "."
+        "v": " We appear at Michigan hearing offices across the state, including Detroit, Oak Park, and Livonia, and at hearings held by video or phone."
        }
       ],
       [
@@ -1919,8 +1801,8 @@
    }
   ]
  },
- "wordCount": 3035,
- "openItems": 12,
+ "wordCount": 3023,
+ "openItems": 1,
  "source": {
   "file": "B2-18_Michigan-SSDI-Lawyer.docx",
   "delivered": "2026-10-16"

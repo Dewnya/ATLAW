@@ -91,7 +91,7 @@ Since 2012, Michigan has let riders 21 and older ride without a helmet if they c
 
 ## The courts and deadlines
 
-Rider injury suits over $25,000 go to the Third Judicial Circuit Court in Detroit, or in some cases with a Washtenaw or Oakland County defendant to that county’s circuit court (MCL 600.1629); smaller claims to the 35th District Court at 660 Plymouth Road in Plymouth; claims against MDOT to the Court of Claims. **[ATTORNEY CHECK]**
+Rider injury suits over $25,000 go to the Third Judicial Circuit Court in Detroit, or in some cases with a Washtenaw or Oakland County defendant to that county’s circuit court (MCL 600.1629); smaller claims to the 35th District Court at 660 Plymouth Road in Plymouth; claims against MDOT to the Court of Claims.
 
 | What | When | Statute |
 | --- | --- | --- |

@@ -68,7 +68,7 @@ ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled mo
 - [Bus accidents](/personal-injury/bus-accidents) involving the school districts
 - [Rideshare accidents](/personal-injury/rideshare-accidents)
 - [Drunk driving](/personal-injury/drunk-driving-accidents) crashes and dram shop claims
-- Boating, jet-ski, dock, and lake injuries **[CONFIRM: whether to name]**
+- Boating, jet-ski, dock, and lake injuries
 - [Slip and fall](/personal-injury/slip-and-fall) and [premises liability](/personal-injury/premises-liability) at the retail strips, the clubs, and the condominium complexes
 - [Tenant injuries](/personal-injury/tenant-injuries)
 - [Dog bites](/personal-injury/dog-bites)

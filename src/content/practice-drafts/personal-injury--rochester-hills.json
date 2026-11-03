@@ -1939,17 +1939,7 @@
    "answer": [
     {
      "t": "text",
-     "v": "If a car hit you at a road crossing, yes, as in any crash. If the trail surface or another trail user caused the injury, the claim is harder. Governmental immunity and the Recreational Land Use Act can limit it. Photograph the location and report it the same day. "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "ATTORNEY CHECK",
-       "v": ""
-      }
-     ]
+     "v": "If a car hit you at a road crossing, yes, as in any crash. If the trail surface or another trail user caused the injury, the claim is harder. Governmental immunity and the Recreational Land Use Act can limit it. Photograph the location and report it the same day."
     }
    ]
   },
@@ -2080,8 +2070,8 @@
    }
   ]
  },
- "wordCount": 3622,
- "openItems": 1,
+ "wordCount": 3619,
+ "openItems": 0,
  "source": {
   "file": "B4-15_Rochester-Hills-Personal-Injury-Lawyer.docx",
   "delivered": "October 25, 2026 [CONFIRM: Batch 4 delivery date]"

@@ -1801,17 +1801,7 @@
    "answer": [
     {
      "t": "text",
-     "v": "Usually not. The City of Taylor has the duty to keep public sidewalks in repair, including those beside county and state roads. Written notice is due to the City within 120 days. "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "ATTORNEY CHECK",
-       "v": ""
-      }
-     ]
+     "v": "Usually not. The City of Taylor has the duty to keep public sidewalks in repair, including those beside county and state roads. Written notice is due to the City within 120 days."
     }
    ]
   },
@@ -1912,8 +1902,8 @@
    }
   ]
  },
- "wordCount": 3120,
- "openItems": 1,
+ "wordCount": 3117,
+ "openItems": 0,
  "source": {
   "file": "B4-08_Taylor-Personal-Injury-Lawyer.docx",
   "delivered": "October 25, 2026 [CONFIRM: Batch 4 delivery date]"

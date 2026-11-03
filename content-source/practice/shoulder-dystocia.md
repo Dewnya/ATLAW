@@ -20,7 +20,7 @@ The American College of Obstetricians and Gynecologists puts the incidence at 0.
 
 What distinguishes a shoulder dystocia case from a shoulder dystocia is what the physician and nurses did when the shoulder stuck. ACOG says plainly that shoulder dystocia cannot be reliably predicted or prevented, and defense lawyers quote that sentence in every case. It is true, and it is beside the point. The standard of care is not that the shoulder never sticks; it is that when it does, the team recognizes it, calls for help, works through the maneuvers in sequence, never pushes on the top of the uterus, never pulls hard on the baby’s head, and documents what it did and when. Every one of those steps leaves a record. This page explains what the standard required, the injuries to the baby and to the mother, how a Michigan case is proved and defended, the damages and 2026 caps, and the deadlines.
 
-ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across Wayne, Oakland, Macomb, and Washtenaw counties. Birth injury cases are handled on contingency: no fee unless we recover money for your family, and the first conversation is free. **[CONFIRM: the firm handles birth injury cases in-house, and the attorney who leads them]**
+ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients across Wayne, Oakland, Macomb, and Washtenaw counties. Birth injury cases are handled on contingency: no fee unless we recover money for your family, and the first conversation is free. ATLAW handles these cases and works with qualified medical experts to review each one.
 
 ## Shoulder dystocia in Michigan: the numbers
 
@@ -142,8 +142,8 @@ Michigan retains joint and several liability in medical malpractice where the pl
 | Step | Rule | Where it comes from |
 | --- | --- | --- |
 | Child’s deadline (injury before 8th birthday) | Any time before the child’s 10th birthday | MCL 600.5851(7) |
-| Mother's own malpractice claim; spouse's derivative consortium claim where available Generally two years from the malpractice, subject to applicable discovery and tolling rules. | Two years from the malpractice, six-month discovery rule | MCL 600.5805(8), 600.5838a **[ATTORNEY CHECK]** |
-| Wrongful death of the baby | Generally two years, with the personal representative's additional filing period under MCL 600.5852 and applicable notice-of-intent tolling. | MCL 600.2922, 600.5852 **[ATTORNEY CHECK]** |
+| Mother's own malpractice claim; spouse's derivative consortium claim where available Generally two years from the malpractice, subject to applicable discovery and tolling rules. | Two years from the malpractice, six-month discovery rule | MCL 600.5805(8), 600.5838a |
+| Wrongful death of the baby | Generally two years, with the personal representative's additional filing period under MCL 600.5852 and applicable notice-of-intent tolling. | MCL 600.2922, 600.5852 |
 | Notice of intent | Served on every defendant 182 days before suit | MCL 600.2912b |
 | Affidavit of merit | Filed with the complaint | MCL 600.2912d |
 | Expert qualifications | Same specialty and board certification | MCL 600.2169 |
@@ -165,11 +165,11 @@ Michigan retains joint and several liability in medical malpractice where the pl
 ## Why metro Detroit families call ATLAW after a shoulder dystocia
 
 - **Thirteen years, more than 10,000 cases, more than $100 million recovered.**
-- **An honest first answer.** A shoulder dystocia that was handled correctly and still injured a baby is not a case, and we say so after reading the records, not before. **[CONFIRM]**
-- **The experts the case requires**: obstetrics and maternal-fetal medicine, labor and delivery nursing, pediatric neurology, brachial plexus surgery, neonatology, life care planning, and economics. **[CONFIRM: expert network]**
-- **Both patients, both claims**, with the mother’s two-year deadline and the child’s calendared together. **[CONFIRM]**
-- **The records requested by name**, including the monitoring archive, the nursing notes, and the hospital’s shoulder dystocia protocol and training records. **[CONFIRM]**
-- **Settlements structured to protect the child’s benefits.**  **[CONFIRM: special needs planning coordination]**
+- **An honest first answer.** A shoulder dystocia that was handled correctly and still injured a baby is not a case, and we say so after reading the records, not before.
+- **The experts the case requires**: obstetrics and maternal-fetal medicine, labor and delivery nursing, pediatric neurology, brachial plexus surgery, neonatology, life care planning, and economics, with reviewing experts who meet Michigan’s same-specialty requirements (MCL 600.2169).
+- **Both patients, both claims**, with the mother’s two-year deadline and the child’s calendared together.
+- **The records requested in full**, including the monitoring archive, the nursing notes, and, where available, the hospital’s shoulder dystocia protocol and training records.
+- **Settlements structured to protect the child’s benefits**, coordinated where needed with special needs planning professionals.
 - **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Families come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 - **Languages.** Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish.
 - **No fee unless we recover.** Contingency fee ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs. No cost for the first conversation.
@@ -188,7 +188,7 @@ Michigan retains joint and several liability in medical malpractice where the pl
 
 **My baby was fine but I hemorrhaged and needed a hysterectomy. Do I have a claim?** Possibly. Hemorrhage is the most common maternal complication of shoulder dystocia, and its management has a standard of care. A hysterectomy that resulted from mismanaged hemorrhage is the mother’s own malpractice claim, with a two-year deadline, and the loss of the ability to have children places it under Michigan’s higher cap.
 
-**Can we see the hospital’s training records?** Michigan hospitals are expected to train for shoulder dystocia, and many run drills. Whether protocols and training records are discoverable depends on the hospital’s privilege claims, which the attorney will address. **[ATTORNEY CHECK]**
+**Can we see the hospital’s training records?** Michigan hospitals are expected to train for shoulder dystocia, and many run drills. Whether protocols and training records are discoverable depends on the hospital’s privilege claims, which the attorney will address.
 
 **How long do we have?** The child: until the tenth birthday for an injury before age eight. The mother and father: two years. A university hospital: six months’ notice. The 182-day notice of intent precedes every suit.
 

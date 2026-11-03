@@ -152,21 +152,7 @@
    "c": [
     {
      "t": "text",
-     "v": "ATLAW is a Dearborn law firm serving clients for 13 years, with more than 10,000 cases handled. The firm represents Michigan claimants in Social Security disability, SSI, and related family benefit claims at every stage. "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "CONFIRM",
-       "v": "the firm handles Social Security claims in-house, the attorney who leads the practice, and which benefit types the firm takes"
-      }
-     ]
-    },
-    {
-     "t": "text",
-     "v": " There is no fee unless you win, and the fee is set by federal law."
+     "v": "ATLAW is a Dearborn law firm serving clients for 13 years, with more than 10,000 cases handled. The firm represents Michigan claimants in Social Security disability, SSI, and related family benefit claims at every stage. An ATLAW attorney is assigned to each case. There is no fee unless you win, and the fee is set by federal law."
     }
    ]
   }
@@ -630,17 +616,7 @@
      "c": [
       {
        "t": "text",
-       "v": "These benefits are not automatic. Eligible family members must be identified on the application or claim benefits separately, so it is important to ask about every potentially qualifying dependent. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "20 CFR 404.330–404.352, 404.403"
-        }
-       ]
+       "v": "These benefits are not automatic. Eligible family members must be identified on the application or claim benefits separately, so it is important to ask about every potentially qualifying dependent."
       }
      ]
     },
@@ -671,17 +647,7 @@
       },
       {
        "t": "text",
-       "v": " record when the parent becomes disabled, retires, or dies, without ever having worked, under 42 USC 402(d) and 20 CFR 404.350. The adult child must be unmarried (with exceptions for marriage to another Social Security beneficiary) and must meet the adult definition of disability. This benefit is often worth far more than SSI to an adult with a lifelong intellectual or developmental disability, because it is based on the parent’s earnings record and carries Medicare after 24 months, and it is routinely missed: a 35-year-old with Down syndrome receiving SSI becomes eligible for childhood disability benefits the month his father starts SSDI or retirement, and no one at Social Security is obligated to notice. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": ""
-        }
-       ]
+       "v": " record when the parent becomes disabled, retires, or dies, without ever having worked, under 42 USC 402(d) and 20 CFR 404.350. The adult child must be unmarried (with exceptions for marriage to another Social Security beneficiary) and must meet the adult definition of disability. This benefit is often worth far more than SSI to an adult with a lifelong intellectual or developmental disability, because it is based on the parent’s earnings record and carries Medicare after 24 months, and it is routinely missed: a 35-year-old with Down syndrome receiving SSI becomes eligible for childhood disability benefits the month his father starts SSDI or retirement, and it is often missed."
       }
      ]
     },
@@ -712,17 +678,7 @@
       },
       {
        "t": "text",
-       "v": ", rather than the usual 60, if the disability began before the worker’s death or within seven years after it, under 42 USC 402(e)–(f) and 20 CFR 404.335–404.336. The benefit is 71.5 percent of the worker’s primary insurance amount. The seven-year window, and the fact that the surviving spouse’s own work record may be thin, make this a benefit worth checking in every case involving a disabled person whose spouse has died. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": ""
-        }
-       ]
+       "v": ", rather than the usual 60, if the disability began before the worker’s death or within seven years after it, under 42 USC 402(e)–(f) and 20 CFR 404.335–404.336. The benefit is 71.5 percent of the worker’s primary insurance amount. The seven-year window, and the fact that the surviving spouse’s own work record may be thin, make this a benefit worth checking in every case involving a disabled person whose spouse has died."
       }
      ]
     },
@@ -794,17 +750,7 @@
       },
       {
        "t": "text",
-       "v": " comes with SSI in Michigan and is also available to many SSDI recipients through Michigan’s Medicaid programs for the disabled, including Michigan’s Freedom to Work program for qualifying employed adults with disabilities ages 16 through 64, subject to income and other eligibility requirements. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "current MDHHS program names and eligibility"
-        }
-       ]
+       "v": " comes with SSI in Michigan and is also available to many SSDI recipients through Michigan’s Medicaid programs for the disabled, including Michigan’s Freedom to Work program for qualifying employed adults with disabilities ages 16 through 64, subject to income and other eligibility requirements."
       }
      ]
     },
@@ -835,17 +781,7 @@
       },
       {
        "t": "text",
-       "v": " that keeps zero-earning years out of the retirement calculation. A worker between 62 and full retirement age who takes early retirement while a disability claim is pending receives the reduced retirement benefit and, if the disability claim is later approved, Social Security recalculates the applicable benefits. Early retirement taken before disability entitlement may still cause a reduction, depending on the timing. The order and timing of these claims affect the lifetime benefit, and they are a question for the attorney at the first meeting. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": ""
-        }
-       ]
+       "v": " that keeps zero-earning years out of the retirement calculation. A worker between 62 and full retirement age who takes early retirement while a disability claim is pending receives the reduced retirement benefit and, if the disability claim is later approved, Social Security recalculates the applicable benefits. Early retirement taken before disability entitlement may still cause a reduction, depending on the timing. The order and timing of these claims affect the lifetime benefit, and they are a question for the attorney at the first meeting."
       }
      ]
     }
@@ -930,17 +866,7 @@
       },
       {
        "t": "text",
-       "v": " program provides employment services and protects against a continuing disability review while you are using it. Impairment-related work expenses, subsidies, and unsuccessful work attempts can reduce countable earnings. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "20 CFR 404.1592, 404.1592a, 404.1592c"
-        }
-       ]
+       "v": " program provides employment services and protects against a continuing disability review while you are using it. Impairment-related work expenses, subsidies, and unsuccessful work attempts can reduce countable earnings."
       }
      ]
     },
@@ -958,17 +884,7 @@
       },
       {
        "t": "text",
-       "v": ". The student earned income exclusion, Plans to Achieve Self-Support, and Michigan’s Medicaid continuation under section 1619(b) protect SSI recipients who work. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": ""
-        }
-       ]
+       "v": ". The student earned income exclusion, Plans to Achieve Self-Support, and Michigan’s Medicaid continuation under section 1619(b) protect SSI recipients who work."
       }
      ]
     },
@@ -1038,17 +954,7 @@
       },
       {
        "t": "text",
-       "v": ", so the question at a review is not whether you are disabled today but whether you have improved since the last favorable decision. The review begins with a mailed form (SSA-455 short form or SSA-454 long form); a long form or a request for a consultative examination signals a full review. A beneficiary whose benefits are stopped because SSA finds that the medical disability has ended generally has 60 days to appeal. Continued benefits may be available during qualifying medical cessation appeals if the beneficiary makes a timely election, generally within 10 days after receiving the notice. SSA ordinarily presumes receipt five days after the notice date. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": ""
-        }
-       ]
+       "v": ", so the question at a review is not whether you are disabled today but whether you have improved since the last favorable decision. The review begins with a mailed form (SSA-455 short form or SSA-454 long form); a long form or a request for a consultative examination signals a full review. A beneficiary whose benefits are stopped because SSA finds that the medical disability has ended generally has 60 days to appeal. Continued benefits may be available during qualifying medical cessation appeals if the beneficiary makes a timely election, generally within 10 days after receiving the notice. SSA ordinarily presumes receipt five days after the notice date."
       }
      ]
     },
@@ -1092,17 +998,7 @@
       },
       {
        "t": "text",
-       "v": ", up from 10 percent, unless the beneficiary requests reconsideration, a waiver, or a lower rate; SSI recovery remains capped at 10 percent. Overpayments under $2,000 can often be waived administratively. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "current default withholding rates and administrative waiver threshold"
-        }
-       ]
+       "v": ", up from 10 percent, unless the beneficiary requests reconsideration, a waiver, or a lower rate; SSI recovery remains capped at 10 percent. Overpayments under $2,000 can often be waived administratively."
       }
      ]
     },
@@ -1130,17 +1026,7 @@
        },
        {
         "t": "text",
-        "v": " SSDI may be reduced when combined qualifying benefits exceed the applicable federal limit, generally the higher of 80 percent of average current earnings or the total family benefit, under 20 CFR 404.408. A Michigan workers’ compensation settlement should account for Social Security’s offset and lump-sum proration rules. The terms of a redemption agreement may affect the offset calculation when consistent with applicable law and SSA requirements. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "ATTORNEY CHECK",
-          "v": ""
-         }
-        ]
+        "v": " SSDI may be reduced when combined qualifying benefits exceed the applicable federal limit, generally the higher of 80 percent of average current earnings or the total family benefit, under 20 CFR 404.408. A Michigan workers’ compensation settlement should account for Social Security’s offset and lump-sum proration rules. The terms of a redemption agreement may affect the offset calculation when consistent with applicable law and SSA requirements."
        }
       ],
       [
@@ -1155,17 +1041,7 @@
        },
        {
         "t": "text",
-        "v": " The Social Security Fairness Act, signed January 5, 2025, repealed the Windfall Elimination Provision and the Government Pension Offset. Michigan workers who spent part of their careers in public employment that did not pay into Social Security, including some municipal, police, and fire positions, are no longer penalized, and qualifying beneficiaries may have received or be entitled to adjustments for benefits payable beginning January 2024. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "ATTORNEY CHECK",
-          "v": ""
-         }
-        ]
+        "v": " The Social Security Fairness Act, signed January 5, 2025, repealed the Windfall Elimination Provision and the Government Pension Offset. Michigan workers who spent part of their careers in public employment that did not pay into Social Security, including some municipal, police, and fire positions, are no longer penalized, and qualifying beneficiaries may have received or be entitled to adjustments for benefits payable beginning January 2024."
        }
       ],
       [
@@ -1509,21 +1385,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Fees for the claim itself are set by federal law: the lesser of 25 percent of past-due benefits or $9,200, approved and paid by Social Security from the back pay, and nothing if the claim is not won. Post-entitlement work (overpayment waivers, continuing disability reviews) is handled "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "on what fee basis; fee petition under 20 CFR 404.1725 where applicable"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": "."
+       "v": "Fees for the claim itself are set by federal law: the lesser of 25 percent of past-due benefits or $9,200, approved and paid by Social Security from the back pay, and nothing if the claim is not won. Post-entitlement work (overpayment waivers, continuing disability reviews) is handled under a separate fee agreement explained at the start, and any fee for representation before Social Security must be authorized by Social Security (20 CFR 404.1720, 404.1725)."
       }
      ]
     }
@@ -1599,17 +1461,7 @@
        },
        {
         "t": "text",
-        "v": ": reviews, overpayments, work incentives, and offsets. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "the firm handles post-entitlement matters"
-         }
-        ]
+        "v": ": reviews, overpayments, work incentives, and offsets."
        }
       ],
       [
@@ -1624,21 +1476,7 @@
        },
        {
         "t": "text",
-        "v": " We appear at "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "Detroit, Oak Park, Livonia, and the other offices the firm covers"
-         }
-        ]
-       },
-       {
-        "t": "text",
-        "v": "."
+        "v": " We appear at Michigan hearing offices across the state, including Detroit, Oak Park, and Livonia, and at hearings held by video or phone."
        }
       ],
       [
@@ -1811,8 +1649,8 @@
    }
   ]
  },
- "wordCount": 3031,
- "openItems": 16,
+ "wordCount": 2977,
+ "openItems": 1,
  "source": {
   "file": "B2-17_Michigan-Social-Security-Benefits-Lawyer.docx",
   "delivered": "2026-10-16"

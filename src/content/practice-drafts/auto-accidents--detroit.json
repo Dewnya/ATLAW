@@ -31,21 +31,7 @@
    "c": [
     {
      "t": "text",
-     "v": "ATLAW is a personal injury firm with an office at 3 Parklane Boulevard in Dearborn, a short drive from downtown Detroit. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients, including clients with Detroit crash claims involving insurers, uninsured drivers, and government agencies. "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "CONFIRM",
-       "v": "Detroit share of the firm’s crash cases, or soften"
-      }
-     ]
-    },
-    {
-     "t": "text",
-     "v": " Our "
+     "v": "ATLAW is a personal injury firm with an office at 3 Parklane Boulevard in Dearborn, a short drive from downtown Detroit. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients, including clients with Detroit crash claims involving insurers, uninsured drivers, and government agencies. Our "
     },
     {
      "t": "link",
@@ -396,17 +382,7 @@
       },
       {
        "t": "text",
-       "v": " Gratiot, Woodward, Grand River, Michigan Avenue, Fort Street, Jefferson, Van Dyke, Livernois, Warren, Davison, McNichols, Seven Mile, Eight Mile, and Telegraph. They are wide, multi-lane, posted at 35 to 45 miles an hour and driven faster, signalized at long intervals, and crossed on foot by residents of neighborhoods with limited transit. The result is the city’s left-turn, red-light, and pedestrian crashes, and high-crash intersections such as Southfield Freeway at Warren and Livernois at Davison, both wide arterial crossings on the west side. Many of these roads are state trunklines (Woodward is M-1, Gratiot M-3, Grand River M-5, Fort M-85, Eight Mile M-102, Michigan Avenue US-12, Telegraph US-24), which matters when the road itself contributed to the crash; see below. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "trunkline designations within city limits"
-        }
-       ]
+       "v": " Gratiot, Woodward, Grand River, Michigan Avenue, Fort Street, Jefferson, Van Dyke, Livernois, Warren, Davison, McNichols, Seven Mile, Eight Mile, and Telegraph. They are wide, multi-lane, posted at 35 to 45 miles an hour and driven faster, signalized at long intervals, and crossed on foot by residents of neighborhoods with limited transit. The result is the city’s left-turn, red-light, and pedestrian crashes, and high-crash intersections such as Southfield Freeway at Warren and Livernois at Davison, both wide arterial crossings on the west side. Many of these roads are state trunklines (Woodward is M-1, Gratiot M-3, Grand River M-5, Fort M-85, Eight Mile M-102, Michigan Avenue US-12, Telegraph US-24), which matters when the road itself contributed to the crash; see below."
       }
      ]
     },
@@ -592,17 +568,7 @@
       },
       {
        "t": "text",
-       "v": " Under Michigan’s reformed no-fault law, available PIP medical options include unlimited coverage, $500,000, $250,000, $250,000 with qualifying exclusions, $50,000 for eligible Medicaid households, and medical PIP opt-out for qualifying Medicare households. A Detroit driver who chose $50,000 or $250,000 to afford the policy can exhaust it in a single hospitalization. Qualifying medical expenses above an applicable PIP medical limit may be recoverable from a legally responsible at-fault driver as excess economic damages under MCL 500.3135(3)(c). "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "excess allowable expenses under 3135(3)(c)"
-        }
-       ]
+       "v": " Under Michigan’s reformed no-fault law, available PIP medical options include unlimited coverage, $500,000, $250,000, $250,000 with qualifying exclusions, $50,000 for eligible Medicaid households, and medical PIP opt-out for qualifying Medicare households. A Detroit driver who chose $50,000 or $250,000 to afford the policy can exhaust it in a single hospitalization. Qualifying medical expenses above an applicable PIP medical limit may be recoverable from a legally responsible at-fault driver as excess economic damages under MCL 500.3135(3)(c)."
       }
      ]
     }
@@ -626,21 +592,7 @@
       },
       {
        "t": "text",
-       "v": " Michigan’s 2019 no-fault reform was driven largely by Detroit’s premiums and its uninsured rate; before the reform, state regulators estimated that about 60 percent of Detroit drivers were driving without insurance. Michigan’s 2019 no-fault reform introduced lower-cost coverage options and was followed by a statewide decrease in uninsured driving. In Detroit, identifying available liability, PIP, and UM/UIM coverage remains especially important. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "DIFS figure and wording"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " For your claim this means three things. An injured person without an applicable PIP insurer may need to seek benefits through the Michigan Assigned Claims Plan. Michigan permits drivers to select bodily-injury liability limits as low as $50,000 per person and $100,000 per accident, rather than the default $250,000/$500,000 limits. And your own "
+       "v": " Michigan’s 2019 no-fault reform was driven largely by Detroit’s premiums and its uninsured rate; before the reform, state regulators estimated that about 60 percent of Detroit drivers were driving without insurance. Michigan’s 2019 no-fault reform introduced lower-cost coverage options and was followed by a statewide decrease in uninsured driving. In Detroit, identifying available liability, PIP, and UM/UIM coverage remains especially important. For your claim this means three things. An injured person without an applicable PIP insurer may need to seek benefits through the Michigan Assigned Claims Plan. Michigan permits drivers to select bodily-injury liability limits as low as $50,000 per person and $100,000 per accident, rather than the default $250,000/$500,000 limits. And your own "
       },
       {
        "t": "strong",
@@ -685,17 +637,7 @@
       },
       {
        "t": "text",
-       "v": " When the other driver leaves the scene, identifying available coverage can be difficult. An eligible injured person may still pursue applicable no-fault benefits, subject to Michigan’s priority rules and exclusions. Your injury claim depends on your uninsured motorist coverage, and UM policies carry their own conditions: some policies require prompt police reporting, written notice within a specified period, or evidence of physical contact with the unidentified vehicle. Report the crash to Detroit Police the same day, get the report number, and notify your insurer in writing that week. Whether your policy requires contact, and what its notice period is, depends on the policy, not on a statute. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": ""
-        }
-       ]
+       "v": " When the other driver leaves the scene, identifying available coverage can be difficult. An eligible injured person may still pursue applicable no-fault benefits, subject to Michigan’s priority rules and exclusions. Your injury claim depends on your uninsured motorist coverage, and UM policies carry their own conditions: some policies require prompt police reporting, written notice within a specified period, or evidence of physical contact with the unidentified vehicle. Report the crash to Detroit Police the same day, get the report number, and notify your insurer in writing that week. Whether your policy requires contact, and what its notice period is, depends on the policy, not on a statute."
       }
      ]
     },
@@ -727,17 +669,7 @@
       },
       {
        "t": "text",
-       "v": ". "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "GTLA summary; emergency-vehicle standard"
-        }
-       ]
+       "v": "."
       }
      ]
     },
@@ -755,21 +687,7 @@
       },
       {
        "t": "text",
-       "v": " A crash caused by a qualifying defect in the traveled roadway may implicate the highway exception to governmental immunity. Missing signs, malfunctioning signals, lighting, and roadway design require separate legal analysis. On MDOT-maintained freeways and state trunklines, a qualifying highway-defect claim generally requires written notice within 120 days, filed in the Court of Claims under MCL 691.1404. Some Detroit roads remain under Wayne County jurisdiction. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "road jurisdiction within Detroit; which roads are county"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " The highway exception covers the traveled portion of the roadbed, not the surrounding area, and the notice must state the exact location, the nature of the defect, the injury, and the known witnesses. Notice to the wrong agency is not notice. On Belle Isle, a state park since 2014, road and premises claims are against the Michigan Department of Natural Resources in the Court of Claims."
+       "v": " A crash caused by a qualifying defect in the traveled roadway may implicate the highway exception to governmental immunity. Missing signs, malfunctioning signals, lighting, and roadway design require separate legal analysis. On MDOT-maintained freeways and state trunklines, a qualifying highway-defect claim generally requires written notice within 120 days, filed in the Court of Claims under MCL 691.1404. Some Detroit roads remain under Wayne County jurisdiction. The highway exception covers the traveled portion of the roadbed, not the surrounding area, and the notice must state the exact location, the nature of the defect, the injury, and the known witnesses. Notice to the wrong agency is not notice. On Belle Isle, a state park since 2014, road and premises claims are against the Michigan Department of Natural Resources in the Court of Claims."
       }
      ]
     },
@@ -897,31 +815,7 @@
       },
       {
        "t": "text",
-       "v": " Injury suits over $25,000 are filed in the Third Judicial Circuit Court at the Coleman A. Young Municipal Center, 2 Woodward Avenue, which has its own case evaluation and facilitation practices. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "against SCAO caseload data"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " Claims up to $25,000, including mini tort claims, go to the 36th District Court at 421 Madison Street. Wrongful death matters may require estate proceedings in Wayne County Probate Court, while the wrongful-death lawsuit itself proceeds in the court with jurisdiction. Settlements involving minors require court approval under MCR 2.420. Where the defendant lives or does business elsewhere, venue may be available in another county (MCL 600.1629). "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": ""
-        }
-       ]
+       "v": " Injury suits over $25,000 are filed in the Third Judicial Circuit Court at the Coleman A. Young Municipal Center, 2 Woodward Avenue, which has its own case evaluation and facilitation practices. Claims up to $25,000, including mini tort claims, go to the 36th District Court at 421 Madison Street. Wrongful death matters may require estate proceedings in Wayne County Probate Court, while the wrongful-death lawsuit itself proceeds in the court with jurisdiction. Settlements involving minors require court approval under MCR 2.420. Where the defendant lives or does business elsewhere, venue may be available in another county (MCL 600.1629)."
       }
      ]
     },
@@ -939,17 +833,7 @@
       },
       {
        "t": "text",
-       "v": " A crash with no report becomes a dispute about what happened. Michigan requires a police report for any crash with injury or at least $1,000 in damage (MCL 257.622). If no officer responds, contact Detroit Police promptly about the applicable process for making a crash report. If the report contains an error, contact the reporting police agency promptly to ask about its correction or supplemental-report procedure. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "precinct filing; soften if preferred"
-        }
-       ]
+       "v": " A crash with no report becomes a dispute about what happened. Michigan requires a police report for any crash with injury or at least $1,000 in damage (MCL 257.622). If no officer responds, contact Detroit Police promptly about the applicable process for making a crash report. If the report contains an error, contact the reporting police agency promptly to ask about its correction or supplemental-report procedure."
       }
      ]
     },
@@ -967,21 +851,7 @@
       },
       {
        "t": "text",
-       "v": " DMC Sinai-Grace on the west side, Harper University Hospital in Midtown, and Henry Ford St. John Hospital on the east side are additional regional treatment facilities. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "verify designations and current names"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " We obtain the complete record from each, including the Detroit EMS run sheet, which often contains the first account of how the crash happened and what the injured person said at the scene."
+       "v": " DMC Sinai-Grace on the west side, Harper University Hospital in Midtown, and Henry Ford St. John Hospital on the east side are additional regional treatment facilities. We obtain the complete record from each, including the Detroit EMS run sheet, which often contains the first account of how the crash happened and what the injured person said at the scene."
       }
      ]
     }
@@ -1338,17 +1208,7 @@
        [
         {
          "t": "text",
-         "v": "MCL 600.5805(2) "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "ATTORNEY CHECK",
-           "v": ""
-          }
-         ]
+         "v": "MCL 600.5805(2)"
         }
        ]
       ],
@@ -1572,8 +1432,8 @@
    }
   ]
  },
- "wordCount": 3482,
- "openItems": 14,
+ "wordCount": 3409,
+ "openItems": 2,
  "source": {
   "file": "B2-60_Detroit-Car-Accident-Lawyer.docx",
   "delivered": "2026-10-16"

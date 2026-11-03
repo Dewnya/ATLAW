@@ -18,7 +18,7 @@ In April 2022, Cranbrook Schools in Bloomfield Hills sent a letter to about 13,0
 
 If you attended Cranbrook, Kingswood, or Brookside and something happened to you there, this page is for you. It explains, without pressure, what Michigan law allows a survivor to do today, why the deadlines are the hardest part of these cases, what a pending change in the law would mean, how claims against a private school are built, and where confidential support is available whether or not you ever decide to make a claim.
 
-ATLAW is a Dearborn law firm serving clients across Wayne, Oakland, Macomb, and Washtenaw counties. Conversations about abuse are confidential, free, and on your terms; you decide whether anything happens next. **[CONFIRM: the firm handles sexual abuse claims and the attorney who leads them]**
+ATLAW is a Dearborn law firm serving clients across Wayne, Oakland, Macomb, and Washtenaw counties and handles sexual abuse claims. Conversations about abuse are confidential, free, and on your terms; you decide whether anything happens next.
 
 ## What has been reported about Cranbrook
 
@@ -103,7 +103,7 @@ Michigan law allows a survivor to recover for the psychological injury and its c
 | Deadline | Time | Source |
 | --- | --- | --- |
 | Civil claim for abuse as a minor, current law | Before age 28, or 3 years after discovering the injury and its cause, whichever is later | MCL 600.5851b |
-| Civil claim for abuse as an adult | 10 years for damages sustained because of criminal sexual conduct under MCL 600.5805(6); other personal injury claims may have a 3-year period. | MCL 600.5805 **[ATTORNEY CHECK]** |
+| Civil claim for abuse as an adult | 10 years for damages sustained because of criminal sexual conduct under MCL 600.5805(6); other personal injury claims may have a 3-year period. | MCL 600.5805 |
 | Fraudulent concealment | 2 years after discovery of the claim | MCL 600.5855 |
 | Pending: SB 257 (if enacted) | 10 years, age 42, or 7 years after discovery; one-year revival window from the effective date | SB 257 of 2025, passed Senate May 20, 2025; pending in the House |
 | Criminal prosecution, first-degree CSC | No limit (the Cranbrook letter concerns a deceased former employee) | MCL 767.24 |
@@ -111,7 +111,7 @@ Michigan law allows a survivor to recover for the psychological injury and its c
 
 ## Why survivors call ATLAW
 
-- **A confidential first conversation**, with a lawyer, about whether a claim exists and what pursuing it would involve, with no obligation and no pressure. **[CONFIRM: attorney who handles these conversations]**
+- **A confidential first conversation**, with an ATLAW attorney, about whether a claim exists and what pursuing it would involve, with no obligation and no pressure.
 - **A candid answer on the deadlines**, including when current law bars a claim and what the pending bills would change.
 - **Thirteen years serving clients in metro Detroit**, more than 10,000 cases, more than $100 million recovered across the firm’s practice.
 - **Dearborn, and the whole metro area**, including Bloomfield Hills and Oakland County. Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Meetings away from the office, by video, or at the client’s choice of place can be accommodated. Office visits are preferred when possible, and home or hospital visits are available as needed.
@@ -120,7 +120,7 @@ Michigan law allows a survivor to recover for the psychological injury and its c
 
 ## Frequently asked questions about Cranbrook sexual abuse claims
 
-**Has a lawsuit been filed against Cranbrook?** Not that we have found in the public record as of this writing. The school disclosed a graduate’s report in April 2022, retained an investigator, and asked alumni to come forward. **[CONFIRM: update if the firm knows otherwise]**
+**Has a lawsuit been filed against Cranbrook?** Not that we have found in the public record as of this writing. The school disclosed a graduate’s report in April 2022, retained an investigator, and asked alumni to come forward. **[VERIFY: redo the public-record check for a filed lawsuit right before publishing and add the date of that check to this answer]**
 
 **The abuse happened in the 1960s. Can I still sue?** Under current Michigan law, usually not, unless a doctrine such as fraudulent concealment applies to your facts. The Senate-passed bills would open a one-year revival window if enacted. A lawyer can tell you where your facts fall under both.
 

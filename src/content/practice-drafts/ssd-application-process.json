@@ -39,21 +39,7 @@
    "c": [
     {
      "t": "text",
-     "v": "ATLAW is a Dearborn law firm serving clients for 13 years, with more than 10,000 cases handled. The firm represents Michigan claimants from the initial application forward, not only after a denial. "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "CONFIRM",
-       "v": "the firm handles Social Security disability claims in-house from the application stage, and the attorney who leads the practice"
-      }
-     ]
-    },
-    {
-     "t": "text",
-     "v": " There is no fee unless you win, and the fee is set by federal law."
+     "v": "ATLAW is a Dearborn law firm serving clients for 13 years, with more than 10,000 cases handled. The firm represents Michigan claimants from the initial application forward, not only after a denial. Each case is overseen by an ATLAW attorney. There is no fee unless you win, and the fee is set by federal law."
     }
    ]
   }
@@ -640,17 +626,7 @@
      "c": [
       {
        "t": "text",
-       "v": "A lawyer or appointed representative can file the application for you once you have signed Form SSA-1696 appointing them. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "the firm files initial applications for clients"
-        }
-       ]
+       "v": "ATLAW can file the initial application for you once you have signed Form SSA-1696 appointing us as your representative."
       }
      ]
     },
@@ -668,17 +644,7 @@
       },
       {
        "t": "text",
-       "v": " A qualifying written statement, online submission, or documented SSI inquiry expressing your intent to apply can establish a protective filing date if you complete the application within SSA’s required period, generally six months for SSDI or 60 days for SSI after the applicable notice. That date, not the date you finish the forms, is the one that determines how far back your benefits reach. Make the contact as soon as you stop working, even if you need weeks to gather the documents. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "20 CFR 404.630, 416.340"
-        }
-       ]
+       "v": " A qualifying written statement, online submission, or documented SSI inquiry expressing your intent to apply can establish a protective filing date if you complete the application within SSA’s required period, generally six months for SSDI or 60 days for SSI after the applicable notice. That date, not the date you finish the forms, is the one that determines how far back your benefits reach. Make the contact as soon as you stop working, even if you need weeks to gather the documents."
       }
      ]
     },
@@ -1127,17 +1093,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Fees are set by federal law and approved by Social Security: the lesser of 25 percent of your past-due benefits or $9,200, paid from the back pay, and nothing if you do not win. There is no fee on your ongoing benefits and no charge for the first conversation. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "fee agreement terms; who pays record-retrieval costs"
-        }
-       ]
+       "v": "Fees are set by federal law and approved by Social Security: the lesser of 25 percent of your past-due benefits or $9,200, paid from the back pay, and nothing if you do not win. There is no fee on your ongoing benefits and no charge for the first conversation. Any out-of-pocket costs, such as charges for copies of medical records, are explained in the written fee agreement at the start of the case."
       }
      ]
     }
@@ -1173,17 +1129,7 @@
        },
        {
         "t": "text",
-        "v": " The record that wins at a hearing is built in the application. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": ""
-         }
-        ]
+        "v": " The record that wins at a hearing is built in the application."
        }
       ],
       [
@@ -1238,17 +1184,7 @@
        },
        {
         "t": "text",
-        "v": " Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "phone and video consultations"
-         }
-        ]
+        "v": " Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed, and consultations by phone or video can also be arranged."
        }
       ],
       [
@@ -1406,8 +1342,8 @@
    }
   ]
  },
- "wordCount": 3004,
- "openItems": 7,
+ "wordCount": 3022,
+ "openItems": 1,
  "source": {
   "file": "B2-14_How-to-Apply-Social-Security-Disability-Michigan.docx",
   "delivered": "2026-10-16"

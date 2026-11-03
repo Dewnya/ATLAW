@@ -49,21 +49,7 @@
    "c": [
     {
      "t": "text",
-     "v": "ATLAW is a Dearborn law firm serving clients for 13 years, with more than 10,000 cases handled. The firm represents Michigan claimants at every level of the Social Security appeal process. "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "CONFIRM",
-       "v": "the firm handles Social Security disability appeals in-house, the attorney who leads the practice, and whether the firm uses non-attorney representatives"
-      }
-     ]
-    },
-    {
-     "t": "text",
-     "v": " There is no fee unless you win, and the fee is set by federal law, not by the firm."
+     "v": "ATLAW is a Dearborn law firm serving clients for 13 years, with more than 10,000 cases handled. The firm represents Michigan claimants at every level of the Social Security appeal process. Each appeal is overseen by an ATLAW attorney. There is no fee unless you win, and the fee is set by federal law, not by the firm."
     }
    ]
   }
@@ -558,8 +544,8 @@
        "c": [
         {
          "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "update to the current SSA release before publication, and quarterly thereafter"
+         "kind": "VERIFY",
+         "v": "update to the current SSA release before publication, and quarterly thereafter; the attorney did not verify this; check it against the source before publication"
         }
        ]
       }
@@ -914,14 +900,8 @@
      "t": "p",
      "c": [
       {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "which hearing offices the firm appears before and whether it accepts clients statewide"
-        }
-       ]
+       "t": "text",
+       "v": "We represent clients at Social Security hearing offices across Michigan, including hearings held by video or phone."
       }
      ]
     },
@@ -1467,31 +1447,7 @@
       },
       {
        "t": "text",
-       "v": ". The $9,200 cap took effect November 30, 2024, and SSA confirmed in May 2025 that it remains in effect until SSA publishes a further increase. There is no fee on your ongoing monthly benefits. Out-of-pocket costs for medical records are separate and are "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "advanced by the firm and deducted from the award / billed to the client"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": ". The firm’s fee agreement is on SSA’s terms, filed with SSA on Form SSA-1696. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "fee agreement terms"
-        }
-       ]
+       "v": ". The $9,200 cap took effect November 30, 2024, and SSA confirmed in May 2025 that it remains in effect until SSA publishes a further increase. There is no fee on your ongoing monthly benefits. Out-of-pocket costs for medical records are explained in the written fee agreement at the start of the case. The firm’s fee agreement is on SSA’s terms, filed with SSA on Form SSA-1696."
       }
      ]
     }
@@ -1643,17 +1599,7 @@
        },
        {
         "t": "text",
-        "v": " From reconsideration through federal court, with the 60-day clock at each level calendared the day the notice arrives. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": ""
-         }
-        ]
+        "v": " From reconsideration through federal court, with the 60-day deadline at each level tracked from the notice date."
        }
       ],
       [
@@ -1693,17 +1639,7 @@
        },
        {
         "t": "text",
-        "v": ", with the hypothetical and the jobs named tested against the record and the Dictionary of Occupational Titles. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": ""
-         }
-        ]
+        "v": ", with the hypothetical and the jobs named tested against the record and the Dictionary of Occupational Titles."
        }
       ],
       [
@@ -1718,21 +1654,7 @@
        },
        {
         "t": "text",
-        "v": " We appear at "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "Detroit, Oak Park, Livonia, and the other offices the firm covers"
-         }
-        ]
-       },
-       {
-        "t": "text",
-        "v": ", in person or by video."
+        "v": " We appear at Michigan hearing offices across the state, including Detroit, Oak Park, and Livonia, in person or by video or phone."
        }
       ],
       [
@@ -1747,17 +1669,7 @@
        },
        {
         "t": "text",
-        "v": " Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "phone and video consultations for clients who cannot travel"
-         }
-        ]
+        "v": " Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed, and consultations by phone or video can also be arranged."
        }
       ],
       [
@@ -1901,21 +1813,7 @@
    "answer": [
     {
      "t": "text",
-     "v": "Nothing unless you win, and then the lesser of 25 percent of your back pay or $9,200, paid by SSA from the back pay. There is no fee on your ongoing benefits. Record-retrieval costs are "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "CONFIRM",
-       "v": ""
-      }
-     ]
-    },
-    {
-     "t": "text",
-     "v": "."
+     "v": "Nothing unless you win, and then the lesser of 25 percent of your back pay or $9,200, paid by SSA from the back pay. There is no fee on your ongoing benefits. Record-retrieval costs are explained in the written fee agreement at the start of the case."
     }
    ]
   },
@@ -1957,8 +1855,8 @@
    }
   ]
  },
- "wordCount": 3250,
- "openItems": 11,
+ "wordCount": 3273,
+ "openItems": 2,
  "source": {
   "file": "B2-13_Michigan-Social-Security-Disability-Appeal-Lawyer.docx",
   "delivered": "2026-10-16"

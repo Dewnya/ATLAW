@@ -17,7 +17,7 @@ delivered: 2026-10-16
 
 A worker hurt on the job in Detroit is owed benefits under Michigan’s Workers’ Disability Compensation Act regardless of who was at fault: medical care in full, 80 percent of after-tax wages while unable to work, retraining, and scheduled payments for the loss of a body part. What makes Detroit different is who is on the other side. The city’s major employers, the automakers, the hospital systems, and the City of Detroit itself, are self-insured and administer claims through their own adjusters and third-party administrators, with their own clinics for the first 28 days of treatment. They know the Act in detail, and they deny claims in the places where it is narrow: the definition of disability, pre-existing conditions, the reasonable-employment rule, and the 90-day notice. The claim can be won at every one of those points, with the right evidence, in front of a magistrate at the agency’s Detroit hearing office.
 
-ATLAW is a personal injury firm at 3 Parklane Boulevard in Dearborn, minutes from downtown Detroit. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients. **[CONFIRM: scope of the comp practice; see note]** Our [Michigan workers’ compensation lawyer page](/personal-injury/workers-compensation) covers the Act in full and our [Detroit page](/areas-served/detroit) covers every kind of injury claim in the city; this page covers what is particular about a Detroit work injury (suburban and Downriver workplaces are covered on our [Wayne County page](/areas-served/wayne-county)), including the lawsuit against a third party that comp does not bar. The first conversation is free: **(313) 406-7606**.
+ATLAW is a personal injury firm at 3 Parklane Boulevard in Dearborn, minutes from downtown Detroit. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients. ATLAW helps injured workers with workers’ compensation claims and reviews every work injury for a possible claim against a third party. Our [Michigan workers’ compensation lawyer page](/personal-injury/workers-compensation) covers the Act in full and our [Detroit page](/areas-served/detroit) covers every kind of injury claim in the city; this page covers what is particular about a Detroit work injury (suburban and Downriver workplaces are covered on our [Wayne County page](/areas-served/wayne-county)), including the lawsuit against a third party that comp does not bar. The first conversation is free: **(313) 406-7606**.
 
 ## Michigan workers’ compensation by the numbers
 
@@ -37,11 +37,11 @@ Michigan’s crash data does not count work injuries, and the agency’s claim c
 
 ## Where Detroit workers are hurt, and who handles the claim
 
-**The plants.** Stellantis Jefferson North and Mack, General Motors’ Factory Zero on the Hamtramck line, and the suppliers and stamping, logistics, and tooling operations around them. Repetitive-motion and lifting injuries, crush and amputation injuries from presses and robotics, falls, and chemical exposures. The automakers are self-insured and have plant medical departments; the first 28 days of care are typically there. Union contracts add grievance rights and sickness-and-accident benefits that interact with comp. **[ATTORNEY CHECK: S&A coordination under MCL 418.354]**
+**The plants.** Stellantis Jefferson North and Mack, General Motors’ Factory Zero on the Hamtramck line, and the suppliers and stamping, logistics, and tooling operations around them. Repetitive-motion and lifting injuries, crush and amputation injuries from presses and robotics, falls, and chemical exposures. The automakers are self-insured and have plant medical departments; the first 28 days of care are typically there. Union contracts add grievance rights and sickness-and-accident benefits that interact with comp.
 
 **The hospitals.** The Detroit Medical Center, Henry Ford Health, and the nursing homes: patient-handling back and shoulder injuries, needlesticks and exposures, assaults by patients, and slips in clinical areas. The health systems are self-insured, and the injured worker’s treating clinic is often the employer’s own occupational health department.
 
-**The City of Detroit.** Police, fire, EMS, DDOT drivers and mechanics, Public Works, and Water and Sewerage. The City is self-insured. Firefighters have a statutory presumption that certain cancers arose from employment (MCL 418.405). Police and firefighters also have duty-disability and pension provisions under the City’s retirement systems and bargaining agreements that run alongside comp and must be coordinated. **[ATTORNEY CHECK: 418.405 presumption; City duty-disability coordination]**
+**The City of Detroit.** Police, fire, EMS, DDOT drivers and mechanics, Public Works, and Water and Sewerage. The City is self-insured. Firefighters have a statutory presumption that certain cancers arose from employment (MCL 418.405). The presumption applies to members of fully paid fire departments with at least 60 months of service, is rebuttable, and is paid through the First Responder Presumed Coverage Fund. Police and firefighters also have duty-disability and pension provisions under the City’s retirement systems and bargaining agreements that run alongside comp and must be coordinated.
 
 **Construction.** Downtown and Midtown projects, the Gordie Howe bridge approaches, the I-94 and I-375 reconstructions, and demolition across the neighborhoods. Falls, struck-by, electrocution, trench collapses, and workers struck by traffic in work zones (see our [pedestrian accident page](/personal-injury/pedestrian-accidents)). On a multi-employer site the injured worker’s claim is against their own employer’s comp insurer, and the general contractor, other subcontractors, and the property owner are potential third-party defendants whose negligence can be sued for. The MIOSHA investigation file and citations are the first evidence requested.
 
@@ -49,9 +49,9 @@ Michigan’s crash data does not count work injuries, and the agency’s claim c
 
 **Casinos, stadiums, restaurants, and retail.** Repetitive-motion, slip and fall, burns, and lifting injuries in high-turnover workforces where injuries often go unreported past the 90 days.
 
-**Temporary and staffing workers.** A worker placed by a staffing agency is the agency’s employee for comp purposes, and the host employer may also be treated as an employer entitled to the exclusive-remedy bar. Who the employer is, and who can be sued, is decided under Michigan’s economic-reality test and should be analyzed in the first week. **[ATTORNEY CHECK]**
+**Temporary and staffing workers.** A worker placed by a staffing agency is the agency’s employee for comp purposes, and the host employer may also be treated as an employer entitled to the exclusive-remedy bar. Who the employer is, and who can be sued, is decided under Michigan’s economic-reality test and should be analyzed in the first week.
 
-**Undocumented workers.** Michigan courts have held that medical benefits are owed regardless of immigration status, but that wage-loss benefits may be suspended while a worker cannot lawfully accept employment. **[ATTORNEY CHECK: current state of the law after Sanchez v Eagle Alloy and its progeny; confirm the firm wants this paragraph]** Call before speaking to the adjuster.
+**Undocumented workers.** Michigan courts have held that medical benefits are owed regardless of immigration status, but that wage-loss benefits may be suspended while a worker cannot lawfully accept employment. Call before speaking to the adjuster.
 
 ## What a Detroit worker is owed
 
@@ -63,7 +63,7 @@ Michigan’s crash data does not count work injuries, and the agency’s claim c
 
 **Vocational rehabilitation** (MCL 418.319) and **death benefits** to dependents for 500 weeks plus burial (MCL 418.321, 418.345); a death case also raises the third-party wrongful death claim described on our [Detroit wrongful death page](/personal-injury/wrongful-death/detroit).
 
-**When the injury is permanent.** A Detroit worker whose injury keeps them from any work for a year or more may also qualify for Social Security Disability, which is coordinated with comp benefits and has its own application and appeal process; see our [Detroit Social Security Disability page](/disability/social-security-disability/detroit). Employer-provided short- and long-term disability plans pay alongside comp under their own terms; see our [long term disability page](/disability/short-long-term-disability). A work injury that causes a [brain injury](/personal-injury/brain-injury) or [spinal cord injury](/personal-injury/spinal-cord-injury) is a total-and-permanent-disability claim and, where a third party is at fault, a catastrophic injury suit. **[ATTORNEY CHECK: SSD/comp offset under 42 USC 424a]**
+**When the injury is permanent.** A Detroit worker whose injury keeps them from any work for a year or more may also qualify for Social Security Disability, which is coordinated with comp benefits and has its own application and appeal process; see our [Detroit Social Security Disability page](/disability/social-security-disability/detroit). Employer-provided short- and long-term disability plans pay alongside comp under their own terms; see our [long term disability page](/disability/short-long-term-disability). A work injury that causes a [brain injury](/personal-injury/brain-injury) or [spinal cord injury](/personal-injury/spinal-cord-injury) is a total-and-permanent-disability claim and, where a third party is at fault, a catastrophic injury suit.
 
 ## Where Detroit claims are denied, and how they are won
 
@@ -87,7 +87,7 @@ When a Detroit employer or insurer denies a claim or stops paying, the worker fi
 
 Workers’ compensation is your exclusive remedy against your employer (MCL 418.131); you cannot sue the employer for pain and suffering except for a deliberate intent to injure. You can sue **anyone else** whose negligence caused the injury (MCL 418.827), and that suit recovers what comp does not: pain and suffering, full lost wages, and future losses. In Detroit the third party is often:
 
-- **The other driver**, when the injury is a crash on the job. A DDOT driver, a delivery driver, a home health aide between patients. Michigan no-fault applies to the crash, and workers’ compensation is primary for the medical and wage benefits it covers, with no-fault paying the difference (MCL 500.3109(1)); the pain-and-suffering claim against the at-fault driver proceeds under MCL 500.3135. See our [Detroit car accident page](/personal-injury/auto-accidents/detroit) and [Detroit truck accident page](/personal-injury/truck-accidents/detroit). **[ATTORNEY CHECK: 3109 coordination]**
+- **The other driver**, when the injury is a crash on the job. A DDOT driver, a delivery driver, a home health aide between patients. Michigan no-fault applies to the crash, and workers’ compensation is primary for the medical and wage benefits it covers, with no-fault paying the difference (MCL 500.3109(1)); the pain-and-suffering claim against the at-fault driver proceeds under MCL 500.3135. See our [Detroit car accident page](/personal-injury/auto-accidents/detroit) and [Detroit truck accident page](/personal-injury/truck-accidents/detroit).
 - **The general contractor, another subcontractor, or the property owner** on a construction or industrial site.
 - **The manufacturer** of a defective press, lift, saw, or scaffold; see our [product liability page](/personal-injury/product-liability).
 - **A property owner** whose hazard caused a fall while you were working; see our [Detroit slip and fall page](/personal-injury/slip-and-fall/detroit).
@@ -120,9 +120,9 @@ The comp insurer has a lien on the third-party recovery for the benefits it paid
 ## Why Detroit workers call ATLAW
 
 - An office at 3 Parklane Boulevard in Dearborn, with free surface parking and consultations available by appointment; 13 years, more than 10,000 cases, more than $100 million recovered.
-- Experience against the self-insured employers and third-party administrators that handle Detroit claims. **[CONFIRM]**
-- Both claims coordinated: the comp claim before the agency and the third-party suit in the Third Circuit, with the lien negotiated at the end. **[CONFIRM: scope]**
-- Fees set by state rule and approved by the magistrate; nothing up front, nothing unless benefits are recovered. **[CONFIRM: fee structure for contested claims and redemptions]**
+- Claims handled involving self-insured employers and the third-party administrators that manage many Detroit claims.
+- Both claims coordinated: the comp claim before the agency and the third-party suit in the Third Circuit, with the lien negotiated at the end.
+- Fees are contingent and limited by state rule, paid only from benefits recovered and approved by the magistrate; nothing up front, nothing unless benefits are recovered.
 - Consultations can be accommodated in English, Arabic, French, Mandarin, Urdu, and Spanish. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 ## Frequently asked questions
 
@@ -140,9 +140,9 @@ The comp insurer has a lien on the third-party recovery for the benefits it paid
 
 **Can I be fired for filing a workers’ comp claim?** Not lawfully. Retaliation is prohibited and is a separate lawsuit with its own damages.
 
-**What does a Detroit workers’ comp lawyer cost?** Nothing up front. Fees are limited by state rule to a percentage of the benefits recovered and must be approved by the magistrate. You owe nothing if no benefits are recovered. **[CONFIRM]**
+**What does a Detroit workers’ comp lawyer cost?** Nothing up front. Fees are limited by state rule to a percentage of the benefits recovered and must be approved by the magistrate. You owe nothing if no benefits are recovered.
 
-**I am undocumented. Can I still get benefits?** Medical benefits, yes. Wage-loss benefits are more complicated under current Michigan law. Call before you speak to the adjuster. **[ATTORNEY CHECK: keep or remove]**
+**I am undocumented. Can I still get benefits?** Medical benefits, yes. Wage-loss benefits are more complicated under current Michigan law. Call before you speak to the adjuster.
 
 ## Talk to a Detroit workers’ compensation lawyer
 

@@ -230,17 +230,7 @@
       },
       {
        "t": "text",
-       "v": " Only the personal representative can bring the claim (MCL 600.2922(2)). If there is a will naming an executor, that person petitions the Wayne County Probate Court, in the Coleman A. Young Municipal Center in Detroit, for appointment; if not, a family member, usually the spouse or an adult child, petitions under Michigan’s priority rules (MCL 700.3203). The court issues letters of authority, and the personal representative then has standing to hire a lawyer for the estate and file. We file the petition as the first legal step. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": "EPIC appointment summary"
-        }
-       ]
+       "v": " Only the personal representative can bring the claim (MCL 600.2922(2)). If there is a will naming an executor, that person petitions the Wayne County Probate Court, in the Coleman A. Young Municipal Center in Detroit, for appointment; if not, a family member, usually the spouse or an adult child, petitions under Michigan’s priority rules (MCL 700.3203). The court issues letters of authority, and the personal representative then has standing to hire a lawyer for the estate and file. We file the petition as the first legal step."
       }
      ]
     },
@@ -795,17 +785,7 @@
        },
        {
         "t": "text",
-        "v": " Deaths from injury in Wayne County are investigated by the Wayne County Medical Examiner. Where the family’s customs call for burial within a day, the Medical Examiner’s office can usually be asked to complete its examination promptly; call the office or call us. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "wording; verify current ME procedure"
-         }
-        ]
+        "v": " Deaths from injury in Wayne County are investigated by the Wayne County Medical Examiner. If the family’s customs call for prompt burial, contact the Medical Examiner’s office right away, or call us."
        }
       ],
       [
@@ -986,17 +966,7 @@
    "answer": [
     {
      "t": "text",
-     "v": "No. The case is handled on contingency, costs are advanced by the firm, and the fee and costs are approved by the probate court at the distribution hearing. "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "CONFIRM",
-       "v": ""
-      }
-     ]
+     "v": "No. The case is handled on contingency and ATLAW advances the case costs; costs are deducted from the recovery first, the 33.3% fee is calculated on the remainder, and the fee and costs are approved by the probate court before the money is distributed. If there is no recovery, the family owes no fee and no costs."
     }
    ]
   }
@@ -1043,8 +1013,8 @@
    }
   ]
  },
- "wordCount": 2045,
- "openItems": 3,
+ "wordCount": 2050,
+ "openItems": 0,
  "source": {
   "file": "B2-76_Dearborn-Wrongful-Death-Lawyer.docx",
   "delivered": "2026-10-16"
