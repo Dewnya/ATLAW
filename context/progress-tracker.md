@@ -886,6 +886,11 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - Southfield slip and fall (B3-06, `/personal-injury/slip-and-fall/southfield`), Ann Arbor personal injury (B4-60, `/personal-injury/ann-arbor`) and Ypsilanti personal injury (B4-70, `/personal-injury/ypsilanti`) set to `status: approved`; all three had no open items left after the Nov 3 answers. Import now 276 pages, 14 approved; the production build prerenders 21 pages (the two city personal injury pages at `/personal-injury/<city>`), with no draft markers and no in-copy links to unpublished pages. Typecheck clean
   - Totals the sheet now shows: 14 Approved, `/case-results` Ready for attorney, the rest Returned. No new Drive files and no new answers in the firm or attorney tabs since Nov 3
 
+- [x] Released `mo-dev` to `Yahia-Dev` (Nov 4, 2026) — the three new approved pages and the SPA fallback fix go live
+  - Fast-forward push `62d1452..106da41` (the Nov 3 tracker notes, the `vercel.json` rewrite to `/`, B2-01 dropped, the three approvals). Pushed by Sam over SSH after a GitHub Git Operations incident (09:49 UTC) rejected the first attempts; an HTTPS retry picked the wrong keychain login (`SamSparkle716`), so note for next time: `git -c credential.helper= -c credential.helper='!gh auth git-credential' push https://github.com/Dewnya/ATLAW.git mo-dev:Yahia-Dev` if SSH is down
+  - Verified on atlaw-five.vercel.app: `/personal-injury/ann-arbor`, `/personal-injury/ypsilanti`, `/personal-injury/slip-and-fall/southfield` 200 with the right H1; `/contact`, `/team`, `/news`, `/areas-served` now load the app (they were Vercel NOT_FOUND since Oct 10); `/personal-injury/personal-injury/detroit` 301s; `/case-results` and unknown routes render the site's own 404 page. The fallback answers HTTP 200 for those (a soft 404, same as any SPA); the host is noindex, so it does not matter until the domain moves, but a real 404 status would need prerendered 404 handling later
+  - Production now serves 21 prerendered pages. `atlawgroup.com` still points at the old Webflow site
+
 ### Open Questions
 
 - [ ] **PRE-LAUNCH — Text Us number.** Confirm with the firm whether (313) 406-7606 can receive SMS, or get a dedicated SMS number. Then set `SMS_NUMBER` in `src/data/contact.ts` (the Text buttons in the header and mobile bar appear automatically).
