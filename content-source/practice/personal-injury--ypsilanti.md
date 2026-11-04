@@ -2,7 +2,7 @@
 slug: personal-injury
 section: personal-injury
 city: ypsilanti
-status: draft
+status: approved
 seoTitle: Ypsilanti Personal Injury Attorney: How a Claim Works, City or Township, EMU Claims in the Court of Claims, Rentals, Bars, Ford Lake, the Hospitals, and What It Costs
 seoDescription: Injured in Ypsilanti? How a personal injury claim works from the first week to the check; why it matters whether you were hurt in the city or the township; claims against Eastern Michigan University and the six-month notice; landlords, bars, and Ford Lake; Trinity Health, U-M, and VA claims; the 14A-1 and 14B District Courts; the one-third fee cap; and the deadlines. Free review. (313) 406-7606.
 h1: Ypsilanti Personal Injury Lawyer

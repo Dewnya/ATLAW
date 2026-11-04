@@ -2,7 +2,7 @@
 slug: slip-and-fall
 section: personal-injury
 city: southfield
-status: draft
+status: approved
 seoTitle: Southfield Slip and Fall Lawyer: Office Towers, Apartments, Sidewalks, and Michigan Law After 2023
 seoDescription: Hurt in a fall in Southfield? Since 2023, an “obvious” hazard no longer ends a Michigan fall case. Who is liable in an office tower, apartment complex, store, or school, the 120-day notice to the City, snow and ice, and when a parking-lot fall is covered by no-fault. Free review. (313) 406-7606.
 h1: Southfield Slip and Fall Lawyer
