@@ -2,7 +2,7 @@
 slug: truck-accidents
 section: personal-injury
 city: warren
-status: draft
+status: approved
 seoTitle: Warren Truck Accident Lawyer: Mound Road, the Plant Gates, I-696, and the Federal Trucking Rules
 seoDescription: Hit by a semi or delivery truck in Warren? 1,257 heavy trucks and buses were involved in Macomb County crashes in 2024. How the federal trucking rules, the carrier’s insurance, the evidence that expires, and Michigan no-fault apply to a crash on Mound, Van Dyke, or I-696. Free review. (313) 406-7606.
 h1: Warren Truck Accident Lawyer

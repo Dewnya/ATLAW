@@ -2,7 +2,7 @@
 slug: areas-served
 section: areas-served
 city: st-clair-shores
-status: draft
+status: approved
 seoTitle: St. Clair Shores Personal Injury Lawyers: Jefferson, Harper, I-94, the Nautical Mile, and the 40th District Court
 seoDescription: Injured in St. Clair Shores? ATLAW’s personal injury lawyers handle Jefferson, Harper, and I-94 crashes, Nautical Mile drunk-driving and dram shop claims, boating and marina injuries on Lake St. Clair, falls, and no-fault claims, with the 40th District and Sixteenth Circuit courts, Henry Ford St. John and Henry Ford Macomb, and the deadlines that apply. The city had the highest share of alcohol-involved crashes of the 24 cities ATLAW serves in 2024.
 h1: Personal Injury Law Firm Serving St. Clair Shores, MI

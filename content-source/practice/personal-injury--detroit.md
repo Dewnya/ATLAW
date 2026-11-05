@@ -2,7 +2,7 @@
 slug: personal-injury
 section: personal-injury
 city: detroit
-status: draft
+status: approved
 seoTitle: Detroit Personal Injury Lawyer: How a Detroit Injury Claim Works, What It Is Worth, and What It Costs
 seoDescription: A Detroit personal injury lawyer explains how an injury claim works in Detroit: the first week, the insurers and city agencies involved, how damages are valued under Michigan law, how a case moves through the Third Circuit, the deadlines, and the one-third contingency fee. ATLAW, Dearborn. Free review. (313) 406-7606.
 h1: Detroit Personal Injury Lawyer

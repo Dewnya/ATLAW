@@ -1,7 +1,7 @@
 ---
 slug: pedestrian-accidents
 section: personal-injury
-status: draft
+status: approved
 seoTitle: Michigan Pedestrian Accident Lawyer – Hit by a Car? Your Rights
 seoDescription: Hit by a car in Michigan? Your medical bills are paid by no-fault insurance even if you don’t own a car. ATLAW explains who pays, hit-and-run claims, and the one-year deadline. Free review.
 h1: Michigan Pedestrian Accident Lawyer

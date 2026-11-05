@@ -1,7 +1,7 @@
 ---
 slug: auto-accidents
 section: personal-injury
-status: draft
+status: approved
 seoTitle: Michigan Car Accident Lawyer – No-Fault & Injury Claims
 seoDescription: Hurt in a Michigan car accident? ATLAW explains your no-fault benefits, when you can sue the at-fault driver, and what your claim is worth. Free case review, no fee unless we win.
 h1: Michigan Car Accident Lawyer

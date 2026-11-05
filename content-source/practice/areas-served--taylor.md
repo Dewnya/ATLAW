@@ -2,7 +2,7 @@
 slug: areas-served
 section: areas-served
 city: taylor
-status: draft
+status: approved
 seoTitle: Taylor, MI Personal Injury Lawyers: Telegraph and Eureka, I-75 and I-94, and the 23rd District Court
 seoDescription: Injured in Taylor? ATLAW’s personal injury lawyers handle Telegraph, Eureka, I-75, and I-94 crashes, Southland-corridor falls, airport-hotel and rideshare injuries, and no-fault claims Downriver, with the 23rd District and Third Circuit courts, Corewell Health Taylor, and the deadlines that apply. Dearborn office, fifteen minutes up Telegraph.
 h1: Personal Injury Law Firm Serving Taylor, MI

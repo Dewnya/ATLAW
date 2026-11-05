@@ -2,7 +2,7 @@
 slug: areas-served
 section: areas-served
 city: warren
-status: draft
+status: approved
 seoTitle: Warren Personal Injury Lawyers: Van Dyke, Mound, the Tech Center Corridor, and the 37th District Court
 seoDescription: Injured in Warren? 11 Mile Road/I-696 at Van Dyke recorded 185 crashes in 2024, the highest intersection total in Michigan. ATLAW’s personal injury lawyers handle Warren’s car, truck, and plant-corridor crashes, falls, dog bites, and no-fault claims, with the 37th District and Sixteenth Circuit courts, Henry Ford Warren Hospital, and the deadlines that apply.
 h1: Personal Injury Law Firm Serving Warren, MI

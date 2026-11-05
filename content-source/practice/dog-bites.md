@@ -1,7 +1,7 @@
 ---
 slug: dog-bites
 section: personal-injury
-status: draft
+status: approved
 seoTitle: Michigan Dog Bite Lawyer – Strict Liability Claims
 seoDescription: Bitten by a dog in Michigan? The owner is liable even if the dog never bit before. ATLAW explains the statute, who pays, and the deadlines for adults and children. Free review.
 h1: Michigan Dog Bite Lawyer

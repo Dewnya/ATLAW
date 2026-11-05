@@ -1,7 +1,7 @@
 ---
 slug: slip-and-fall
 section: personal-injury
-status: draft
+status: approved
 seoTitle: Michigan Slip and Fall Lawyer – Premises Injury Claims
 seoDescription: Fell on someone else’s property in Michigan? The 2023 open-and-obvious change means more cases win. ATLAW explains the rules, deadlines, and what to do. Free review.
 h1: Michigan Slip and Fall Lawyer

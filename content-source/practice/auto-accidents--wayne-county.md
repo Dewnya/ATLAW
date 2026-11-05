@@ -2,7 +2,7 @@
 slug: auto-accidents
 section: personal-injury
 city: wayne-county
-status: draft
+status: approved
 seoTitle: Wayne County Car Accident Lawyer: No-Fault Benefits, Uninsured Drivers, and the Three-Year Deadline
 seoDescription: Injured in a crash in Wayne County? ATLAW’s Dearborn car accident lawyers explain who pays your bills under Michigan no-fault, what to do when the other driver is uninsured, which Detroit courts hear the case, and the one-year and three-year deadlines. 50,355 Wayne County crashes in 2024. Free review.
 h1: Wayne County Car Accident Lawyer

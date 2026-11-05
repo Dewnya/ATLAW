@@ -2,7 +2,7 @@
 slug: areas-served
 section: areas-served
 city: clinton-township
-status: draft
+status: approved
 seoTitle: Clinton Township Personal Injury Lawyers: Gratiot, Hall Road, Henry Ford Macomb, and the 41B District Court
 seoDescription: Injured in Clinton Township? ATLAW’s personal injury lawyers handle Gratiot, Hall Road, and Groesbeck crashes, falls at Partridge Creek and the apartment complexes, nursing home neglect, and no-fault claims, and explain why a township crash changes who you sue: the roads are Macomb County’s and MDOT’s. 41B District and Sixteenth Circuit courts; Henry Ford Macomb.
 h1: Personal Injury Law Firm Serving Clinton Township, MI

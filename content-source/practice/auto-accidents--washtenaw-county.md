@@ -2,7 +2,7 @@
 slug: auto-accidents
 section: personal-injury
 city: washtenaw-county
-status: draft
+status: approved
 seoTitle: Washtenaw County Car Accident Lawyer: No-Fault Benefits, I-94 and US-23, Washtenaw Avenue, Deer Crashes, and University Vehicles
 seoDescription: Hurt in a crash in Washtenaw County? 9,844 crashes and 35 deaths in 2024. Who pays your bills under no-fault, how fault is decided on I-94, US-23, Washtenaw Avenue, and the roundabouts, deer crashes, what changes when a University of Michigan vehicle is involved, which agency owns the road, the Ann Arbor courts, and the deadlines. Free review. (313) 406-7606.
 h1: Washtenaw County Car Accident Lawyer

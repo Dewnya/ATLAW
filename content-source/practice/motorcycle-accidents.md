@@ -1,7 +1,7 @@
 ---
 slug: motorcycle-accidents
 section: personal-injury
-status: draft
+status: approved
 seoTitle: Michigan Motorcycle Accident Lawyer – No-Fault Rules for Riders
 seoDescription: Hurt on a motorcycle in Michigan? Riders are treated differently under no-fault. ATLAW explains who pays your bills, the helmet law, and when you can sue. Free review.
 h1: Michigan Motorcycle Accident Lawyer

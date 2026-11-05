@@ -1,7 +1,7 @@
 ---
 slug: product-liability
 section: personal-injury
-status: draft
+status: approved
 seoTitle: Michigan Product Liability Lawyer – Defective Product Injury Claims
 seoDescription: Injured by a defective product in Michigan? State law sets strict defect standards, a damages cap, and a 3-year deadline, and the 2024 repeal reopened drug cases. ATLAW explains them. Free review.
 h1: Michigan Product Liability Lawyer

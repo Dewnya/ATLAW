@@ -2,7 +2,7 @@
 slug: areas-served
 section: areas-served
 city: pontiac
-status: draft
+status: approved
 seoTitle: Pontiac, MI Personal Injury Lawyers: Woodward, Telegraph, M-59, and the County Courts Downtown
 seoDescription: Injured in Pontiac? ATLAW’s personal injury lawyers handle Woodward Loop, Telegraph, and M-59 crashes, uninsured-driver claims, Sheriff and county-vehicle claims, falls, and no-fault claims in the county seat, where the Sixth Circuit, Probate, and 50th District courts sit downtown. McLaren Oakland and Trinity Health Oakland.
 h1: Personal Injury Law Firm Serving Pontiac, MI

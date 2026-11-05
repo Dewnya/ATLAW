@@ -2,7 +2,7 @@
 slug: areas-served
 section: areas-served
 city: waterford
-status: draft
+status: approved
 seoTitle: Waterford, MI Personal Injury Lawyers: M-59, Dixie Highway, the Lakes, and the 51st District Court
 seoDescription: Injured in Waterford? ATLAW’s personal injury lawyers handle M-59, Dixie Highway, and Walton crashes, boating and lake injuries, falls, and no-fault claims, and explain why a township crash changes who you sue: Waterford’s roads are the Road Commission’s and MDOT’s. 51st District and Sixth Circuit courts; McLaren Oakland and Trinity Health Oakland.
 h1: Personal Injury Law Firm Serving Waterford, MI

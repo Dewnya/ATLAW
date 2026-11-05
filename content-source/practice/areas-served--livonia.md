@@ -2,7 +2,7 @@
 slug: areas-served
 section: areas-served
 city: livonia
-status: draft
+status: approved
 seoTitle: Livonia Personal Injury Lawyers: I-96, I-275, the Plymouth Road Corridor, and the 16th District Court
 seoDescription: Injured in Livonia? ATLAW’s personal injury lawyers handle Livonia car and truck crashes at the I-96/I-275 interchange and on the mile roads, falls at Laurel Park and the retail strips, nursing home neglect at the city’s five facilities, and no-fault claims, with the 16th District and Third Circuit courts, Trinity Health Livonia, and the deadlines that apply.
 h1: Personal Injury Law Firm Serving Livonia, MI

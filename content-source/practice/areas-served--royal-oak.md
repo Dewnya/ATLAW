@@ -2,7 +2,7 @@
 slug: areas-served
 section: areas-served
 city: royal-oak
-status: draft
+status: approved
 seoTitle: Royal Oak Personal Injury Lawyers: Woodward, the Downtown Bar District, Corewell Royal Oak, and the 44th District Court
 seoDescription: Injured in Royal Oak? ATLAW’s personal injury lawyers handle Woodward and I-696 crashes, downtown pedestrian and drunk-driving injuries, dram shop claims against the Main Street bars, falls, and medical and birth-injury claims at Corewell Health Royal Oak, the county’s Level I trauma center. 44th District and Sixth Circuit courts. Four alcohol-related traffic deaths in Royal Oak in 2024.
 h1: Personal Injury Law Firm Serving Royal Oak, MI

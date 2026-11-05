@@ -1,7 +1,7 @@
 ---
 slug: labor-delivery-complications
 section: personal-injury
-status: draft
+status: approved
 seoTitle: Michigan Labor & Delivery Negligence Lawyer – Injuries to Mother or Baby
 seoDescription: Labor and delivery negligence in Michigan: Pitocin, delayed C-section, VBAC rupture, cord prolapse, forceps and vacuum, hemorrhage, preeclampsia, infection. The standard for each, the records that show it, both parents’ deadlines, and the 2026 caps. Free review.
 h1: Labor and Delivery Negligence Lawyer Michigan

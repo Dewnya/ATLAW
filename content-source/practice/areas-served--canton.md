@@ -2,7 +2,7 @@
 slug: areas-served
 section: areas-served
 city: canton
-status: draft
+status: approved
 seoTitle: Canton, MI Personal Injury Lawyers: Ford Road, I-275, and Why a Township Changes Your Claim
 seoDescription: Injured in Canton? ATLAW’s personal injury lawyers handle Ford Road and I-275 crashes, falls at the Ford Road retail corridor, and no-fault claims, and explain what no competitor does: Canton is a charter township, so its roads belong to Wayne County and MDOT, and the road-defect claim goes to them, with a 120-day or six-month notice. 35th District and Third Circuit courts; Trinity Health Ann Arbor and Livonia.
 h1: Personal Injury Law Firm Serving Canton, MI

@@ -2,7 +2,7 @@
 slug: wrongful-death
 section: personal-injury
 city: rochester-hills
-status: draft
+status: approved
 seoTitle: Rochester Hills, MI Wrongful Death Lawyer: Who Files, What the Family Recovers, and the Oakland County Probate Step
 seoDescription: When a family member dies in Rochester Hills because of someone’s negligence, Michigan law gives the claim to the estate, not to the family directly. This page explains how the Oakland County Probate Court appointment works, what the family can recover, no-fault survivor’s loss benefits, underinsured coverage, workplace and hospital deaths, which agency owns the road, and the deadlines, including the shorter ones. Free, confidential consultation. (313) 406-7606.
 h1: Rochester Hills, MI Wrongful Death Lawyer

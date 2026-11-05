@@ -1,7 +1,7 @@
 ---
 slug: brain-injury
 section: personal-injury
-status: draft
+status: approved
 seoTitle: Michigan Brain Injury Lawyer – TBI & Concussion Claims
 seoDescription: A brain injury in a Michigan crash or fall can mean lifetime care. ATLAW explains no-fault benefits for TBI, the 56-hour attendant care cap, the threshold, and how a mild TBI is proved. Free review.
 h1: Michigan Brain Injury Lawyer

@@ -2,7 +2,7 @@
 slug: areas-served
 section: areas-served
 city: detroit
-status: draft
+status: approved
 seoTitle: Detroit Personal Injury Lawyers: Car, Truck, Pedestrian, Premises, and Wrongful Death Claims in the City
 seoDescription: ATLAW represents injured Detroiters from its Dearborn office on Michigan Avenue: car and truck crashes on I-94, I-75, and the Lodge, pedestrian injuries on the city’s arterials, falls, dog bites, DDOT and city-vehicle claims, and wrongful death, with the Third Circuit and 36th District courts, the trauma centers, and the deadlines that apply.
 h1: Personal Injury Law Firm Serving Detroit, MI

@@ -2,7 +2,7 @@
 slug: areas-served
 section: areas-served
 city: sterling-heights
-status: draft
+status: approved
 seoTitle: Sterling Heights Personal Injury Lawyers: Van Dyke, Hall Road, the Plant Corridor, and the 41A District Court
 seoDescription: Injured in Sterling Heights? 18½ Mile at Van Dyke recorded 162 crashes in 2024, the second-highest intersection total in Michigan. ATLAW’s personal injury lawyers handle Sterling Heights car, truck, and plant-corridor crashes, Hall Road falls, and no-fault claims, with the 41A District and Sixteenth Circuit courts, Henry Ford Macomb, and the deadlines that apply.
 h1: Personal Injury Law Firm Serving Sterling Heights, MI

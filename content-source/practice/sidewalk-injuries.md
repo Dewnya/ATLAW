@@ -1,7 +1,7 @@
 ---
 slug: sidewalk-injuries
 section: personal-injury
-status: draft
+status: approved
 seoTitle: Michigan Sidewalk Injury Lawyer – Trip and Fall on a Sidewalk
 seoDescription: Tripped on a broken sidewalk in Michigan? Claims against a city need written notice in 120 days, a two-inch defect, and proof the city knew 30 days before. ATLAW explains each rule. Free review.
 h1: Sidewalk Injury Lawyer Michigan

@@ -1,7 +1,7 @@
 ---
 slug: distracted-driving-accidents
 section: personal-injury
-status: draft
+status: approved
 seoTitle: Michigan Distracted Driving Accident Lawyer – Hands-Free Law
 seoDescription: Hit by a driver on their phone in Michigan? Since 2023, holding a phone while driving is illegal. ATLAW explains how the violation proves fault and how phone records are obtained. Free review.
 h1: Michigan Distracted Driving Accident Lawyer

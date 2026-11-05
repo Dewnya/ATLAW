@@ -1,7 +1,7 @@
 ---
 slug: short-long-term-disability
 section: disability
-status: draft
+status: approved
 seoTitle: Michigan Long-Term Disability Lawyer – ERISA Denials, the 180-Day Appeal, SSDI Offsets
 seoDescription: Long-term and short-term disability claims in Michigan: the ERISA rules insurers must follow, the 180-day appeal that decides your case, own-occupation vs. any-occupation, the SSDI offset, the 24-month mental health limit, and when Michigan law applies instead. Free review.
 h1: Long Term Disability Lawyer Michigan

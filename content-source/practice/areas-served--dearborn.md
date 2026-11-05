@@ -2,7 +2,7 @@
 slug: areas-served
 section: areas-served
 city: dearborn
-status: draft
+status: approved
 seoTitle: Dearborn Personal Injury Lawyers: ATLAW’s Home Office in Dearborn
 seoDescription: ATLAW is a personal injury firm based in Dearborn: car and truck crashes on Michigan Avenue, Ford Road, Telegraph, and I-94, pedestrian injuries, falls, dog bites, and workplace injuries at the Rouge, with the 19th District and Third Circuit courts, Corewell Health Dearborn, and the deadlines that apply. 13 years, more than 10,000 cases.
 h1: Personal Injury Law Firm Serving Dearborn, MI

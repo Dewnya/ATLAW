@@ -1,7 +1,7 @@
 ---
 slug: birth-asphyxia
 section: personal-injury
-status: draft
+status: approved
 seoTitle: Michigan Birth Asphyxia & HIE Lawyer – Oxygen Deprivation at Birth
 seoDescription: Was your baby deprived of oxygen at birth in Michigan? How HIE is diagnosed, the 6-hour cooling window, how intrapartum injury is proved against the “it happened before labor” defense, and the child’s deadline. Free review.
 h1: Birth Asphyxia Lawyer Michigan

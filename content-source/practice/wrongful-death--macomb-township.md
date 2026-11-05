@@ -2,7 +2,7 @@
 slug: wrongful-death
 section: personal-injury
 city: macomb-township
-status: draft
+status: approved
 seoTitle: Macomb Township, MI Wrongful Death Lawyer: Who Files, What the Family Recovers, the Macomb County Probate Step, and the Deadlines
 seoDescription: When a family member dies in Macomb Township, or anywhere with a Macomb, MI address, because of someone’s negligence, Michigan law gives the claim to the estate, not the family directly. How the Macomb County Probate Court appointment works, who shares, what the family can recover, no-fault survivor’s loss benefits, crash, construction, workplace, hospital, and nursing home deaths, why the township is never the road defendant, and the deadlines, including the shorter ones. Free, confidential consultation. (313) 406-7606.
 h1: Macomb Township, MI Wrongful Death Lawyer

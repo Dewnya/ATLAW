@@ -2,7 +2,7 @@
 slug: areas-served
 section: areas-served
 city: farmington-hills
-status: draft
+status: approved
 seoTitle: Farmington Hills Personal Injury Lawyers: I-696, the Twelve Mile Office Corridor, and the 47th District Court
 seoDescription: Injured in Farmington Hills? ATLAW’s personal injury lawyers handle crashes at the I-696/I-96/I-275/M-5 interchange and on Orchard Lake, Twelve Mile, and Grand River, falls at the office campuses and senior communities, and no-fault claims, with the 47th District and Sixth Circuit courts, Corewell Health Farmington Hills, and the deadlines that apply.
 h1: Personal Injury Law Firm Serving Farmington Hills, MI

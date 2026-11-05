@@ -1,7 +1,7 @@
 ---
 slug: birth-injuries
 section: personal-injury
-status: draft
+status: approved
 seoTitle: Michigan Birth Injury Lawyer – HIE, Cerebral Palsy & Erb’s Palsy Claims
 seoDescription: Was your baby injured at birth in Michigan? Learn how fetal monitoring errors and delayed C-sections are proved, the child’s deadline (10th birthday), and the $1,065,000 cap tier for qualifying permanent injuries. Free review.
 h1: Michigan Birth Injury Lawyer

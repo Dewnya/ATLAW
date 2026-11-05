@@ -1,7 +1,7 @@
 ---
 slug: periventricular-leukomalacia
 section: personal-injury
-status: draft
+status: approved
 seoTitle: Michigan Periventricular Leukomalacia (PVL) Lawyer – Preterm Brain Injury
 seoDescription: Your premature baby was diagnosed with PVL. What it is, cystic vs. diffuse, when the ultrasound should have been done, which steps before and after birth reduce it (steroids, magnesium, ventilation, blood pressure), and when a Michigan claim exists. Free review.
 h1: Periventricular Leukomalacia Lawyer Michigan

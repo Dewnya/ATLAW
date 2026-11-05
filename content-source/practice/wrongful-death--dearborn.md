@@ -2,7 +2,7 @@
 slug: wrongful-death
 section: personal-injury
 city: dearborn
-status: draft
+status: approved
 seoTitle: Dearborn Wrongful Death Lawyer: Who Can File, What the Family Recovers, and the Probate Step
 seoDescription: When a family member dies in Dearborn because of someone’s negligence, Michigan law gives the estate a claim, not the family directly. ATLAW’s Dearborn office explains the personal representative, the Wayne County Probate Court, the damages, no-fault survivor’s loss benefits, and the deadlines, and works the legal steps around the family’s burial customs. Free, confidential consultation. (313) 406-7606.
 h1: Dearborn Wrongful Death Lawyer

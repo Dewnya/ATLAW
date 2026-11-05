@@ -2,7 +2,7 @@
 slug: auto-accidents
 section: personal-injury
 city: macomb-county
-status: draft
+status: approved
 seoTitle: Macomb County Car Accident Lawyer: Van Dyke, Hall Road, No-Fault Benefits, and the Mount Clemens Courts
 seoDescription: Injured in a crash in Macomb County? The state’s two highest-crash intersections in 2024 were both on Van Dyke. ATLAW’s car accident lawyers explain who pays your bills under Michigan no-fault, what a Van Dyke or Hall Road intersection crash turns on, which Mount Clemens courts hear the case, and the one-year and three-year deadlines. Free review.
 h1: Macomb County Car Accident Lawyer

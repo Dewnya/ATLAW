@@ -1,7 +1,7 @@
 ---
 slug: premises-liability
 section: personal-injury
-status: draft
+status: approved
 seoTitle: Michigan Premises Liability Lawyer – Injured on Someone’s Property
 seoDescription: Hurt on unsafe property in Michigan? The 2023 Supreme Court change ended “open and obvious” as a defense that dismisses cases. ATLAW explains owner duties, notice, and deadlines. Free review.
 h1: Michigan Premises Liability Lawyer

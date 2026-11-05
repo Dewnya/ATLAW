@@ -1,7 +1,7 @@
 ---
 slug: personal-injury
 section: personal-injury
-status: draft
+status: approved
 seoTitle: Michigan Personal Injury Lawyer – Dearborn Injury Attorneys
 seoDescription: Injured in Michigan? ATLAW explains whether you have a case, what you can recover, the deadlines, and what it costs. Serving clients for 13 years. Free consultation.
 h1: Michigan Personal Injury Lawyer

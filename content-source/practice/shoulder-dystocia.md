@@ -1,7 +1,7 @@
 ---
 slug: shoulder-dystocia
 section: personal-injury
-status: draft
+status: approved
 seoTitle: Michigan Shoulder Dystocia Lawyer – Was the Delivery Handled Properly?
 seoDescription: Shoulder dystocia in a Michigan delivery: the maneuver sequence, the two things a physician must never do, how long is too long, the injuries to baby and mother, and what the delivery note must show. Deadlines and 2026 caps. Free review.
 h1: Shoulder Dystocia Lawyer Michigan

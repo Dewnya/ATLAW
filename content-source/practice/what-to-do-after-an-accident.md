@@ -1,7 +1,7 @@
 ---
 slug: what-to-do-after-an-accident
 section: resources
-status: draft
+status: approved
 seoTitle: What to Do After a Car Accident in Michigan: Checklist, Deadlines, and the Mistakes That Cost You
 seoDescription: Step by step after a Michigan crash: when the law requires police, how to get the UD-10 report ($15, michigan.gov/tcps), the one-year no-fault deadline, what to say to insurers and what not to, hit-and-run and minor-crash rules, and the three-year limit to sue.
 h1: What to Do After a Car Accident in Michigan

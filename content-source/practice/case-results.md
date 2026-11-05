@@ -80,9 +80,9 @@ Each practice page explains how that kind of case works in Michigan: [car accide
 
 **Why do truck cases recover more than car cases?** Mostly coverage: federal law requires interstate carriers to carry at least $750,000 in liability coverage, and many carry $1 million or more, while Michigan’s minimum for a car is $50,000 per person.
 
-**How long did these cases take?** From a few months for a policy-limits settlement to three years or more for a case tried to verdict. **[CONFIRM: the firm may add the time to resolution for each result if it wishes]**
+**How long did these cases take?** Every case is different. How long a case takes depends on the injuries, the insurance involved, and whether the case settles or goes to trial.
 
-**Can I talk to a former client?** **[CONFIRM: whether the firm offers references; Google reviews can be linked here with the permission already obtained]**
+**Can I talk to a former client?** We do not share former clients’ contact information, to protect their privacy. You can read [reviews from our clients on Google](https://www.google.com/maps/search/?api=1&query=3+Park+Lane+Blvd+Suite+400W%2C+Dearborn%2C+MI+48126).
 
 ## Talk to us about your case
 

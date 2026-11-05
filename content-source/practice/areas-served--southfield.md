@@ -2,7 +2,7 @@
 slug: areas-served
 section: areas-served
 city: southfield
-status: draft
+status: approved
 seoTitle: Southfield Personal Injury Lawyers: Telegraph, Northwestern, I-696, and the 46th District Court
 seoDescription: Injured in Southfield? ATLAW’s personal injury lawyers handle car and truck crashes on Telegraph, Northwestern Highway, the Lodge, and the I-696 work zone, falls at the office towers and apartment complexes, and no-fault claims, with the 46th District and Sixth Circuit courts, Providence Hospital, and the deadlines that apply. Telegraph at 12 Mile ranked among Oakland County’s highest-crash intersections in 2024.
 h1: Personal Injury Law Firm Serving Southfield, MI

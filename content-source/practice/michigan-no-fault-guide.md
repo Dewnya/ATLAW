@@ -1,7 +1,7 @@
 ---
 slug: michigan-no-fault-guide
 section: resources
-status: draft
+status: approved
 seoTitle: Michigan No-Fault Insurance Guide (2026): PIP Choices, What’s Covered, Who Pays, When You Can Sue
 seoDescription: The 2026 guide to Michigan no-fault: the six PIP medical options and who qualifies, what PIP pays (work loss max $7,201/month), who pays first, the fee schedule and 56-hour cap, the MCCA fee ($84 from July 2026), mini tort, and when you can sue the other driver.
 h1: Michigan No-Fault Insurance Guide (2026)

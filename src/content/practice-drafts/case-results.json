@@ -789,17 +789,7 @@
    "answer": [
     {
      "t": "text",
-     "v": "From a few months for a policy-limits settlement to three years or more for a case tried to verdict. "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "CONFIRM",
-       "v": "the firm may add the time to resolution for each result if it wishes"
-      }
-     ]
+     "v": "Every case is different. How long a case takes depends on the injuries, the insurance involved, and whether the case settles or goes to trial."
     }
    ]
   },
@@ -808,17 +798,21 @@
    "answer": [
     {
      "t": "text",
-     "v": ""
+     "v": "We do not share former clients’ contact information, to protect their privacy. You can read "
     },
     {
-     "t": "strong",
+     "t": "link",
+     "href": "https://www.google.com/maps/search/?api=1&query=3+Park+Lane+Blvd+Suite+400W%2C+Dearborn%2C+MI+48126",
      "c": [
       {
-       "t": "placeholder",
-       "kind": "CONFIRM",
-       "v": "whether the firm offers references; Google reviews can be linked here with the permission already obtained"
+       "t": "text",
+       "v": "reviews from our clients on Google"
       }
      ]
+    },
+    {
+     "t": "text",
+     "v": "."
     }
    ]
   }
@@ -865,8 +859,8 @@
    }
   ]
  },
- "wordCount": 1970,
- "openItems": 11,
+ "wordCount": 1965,
+ "openItems": 9,
  "source": {
   "file": "B2-28_Case-Results-and-Settlements.docx",
   "delivered": "2026-10-16"

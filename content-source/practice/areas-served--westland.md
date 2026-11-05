@@ -2,7 +2,7 @@
 slug: areas-served
 section: areas-served
 city: westland
-status: draft
+status: approved
 seoTitle: Westland Personal Injury Lawyers: Ford Road, Wayne Road, Warren, and the 18th District Court
 seoDescription: Injured in Westland? ATLAW’s personal injury lawyers handle Ford Road, Wayne Road, and Warren crashes, Westland Shopping Center and apartment-complex falls, nursing home neglect at the city’s four facilities, Hines Drive injuries, and no-fault claims, with the 18th District and Third Circuit courts, Garden City Hospital, and the deadlines that apply. Dearborn office, twenty minutes east on Ford Road.
 h1: Personal Injury Law Firm Serving Westland, MI

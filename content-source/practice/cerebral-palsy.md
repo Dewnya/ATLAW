@@ -1,7 +1,7 @@
 ---
 slug: cerebral-palsy
 section: personal-injury
-status: draft
+status: approved
 seoTitle: Michigan Cerebral Palsy Lawyer – Was Your Child’s CP Preventable?
 seoDescription: Most cerebral palsy is not malpractice. Some is. How Michigan cases tell the difference: CP types, the MRI, the birth records, the 10th-birthday deadline, the 2026 caps, and protecting your child’s Medicaid. Free review.
 h1: Cerebral Palsy Lawyer Michigan

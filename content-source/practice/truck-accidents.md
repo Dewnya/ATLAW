@@ -1,7 +1,7 @@
 ---
 slug: truck-accidents
 section: personal-injury
-status: draft
+status: approved
 seoTitle: Michigan Truck Accident Lawyer – Semi & Commercial Crashes
 seoDescription: Hit by a semi or commercial truck in Michigan? ATLAW explains who is liable, the federal rules that decide fault, and the evidence that disappears in weeks. Free review.
 h1: Michigan Truck Accident Lawyer

@@ -1,7 +1,7 @@
 ---
 slug: rideshare-accidents
 section: personal-injury
-status: draft
+status: approved
 seoTitle: Michigan Uber & Lyft Accident Lawyer – Which Policy Pays
 seoDescription: Hurt in an Uber or Lyft crash in Michigan, as a passenger, driver, or the other car? ATLAW explains which of three insurance policies applies and who pays your bills. Free review.
 h1: Michigan Uber & Lyft Accident Lawyer

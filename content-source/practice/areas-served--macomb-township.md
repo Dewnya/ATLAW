@@ -2,7 +2,7 @@
 slug: areas-served
 section: areas-served
 city: macomb-township
-status: draft
+status: approved
 seoTitle: Macomb Township Personal Injury Lawyers: Hall Road, Romeo Plank, the Mile Roads, and the 41A District Court
 seoDescription: Injured in Macomb Township? ATLAW’s personal injury lawyers handle Hall Road, Romeo Plank, and 21–26 Mile crashes, construction and subdivision-growth injuries, falls, and no-fault claims, and explain why a township crash changes who you sue: the roads are Macomb County’s and MDOT’s, and the police are the Sheriff. 41A District and Sixteenth Circuit courts; Henry Ford Macomb.
 h1: Personal Injury Law Firm Serving Macomb Township, MI

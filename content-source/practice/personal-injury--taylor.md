@@ -2,7 +2,7 @@
 slug: personal-injury
 section: personal-injury
 city: taylor
-status: draft
+status: approved
 seoTitle: Taylor, MI Personal Injury Lawyer: How a Taylor Injury Claim Works, Who You Claim Against, the 23rd District Court, and What It Costs
 seoDescription: Hurt in Taylor? How an injury claim works here: the deadlines; the insurers and the Assigned Claims Plan; uninsured and out-of-state drivers; MDOT, Wayne County, and City roads; Taylor Police and school claims; the 23rd District and Third Circuit courts; how damages are valued; and the one-third fee cap. ATLAW: 13 years, more than 10,000 cases. Free review. (313) 406-7606.
 h1: Taylor, MI Personal Injury Lawyer

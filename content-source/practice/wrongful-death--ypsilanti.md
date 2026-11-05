@@ -2,7 +2,7 @@
 slug: wrongful-death
 section: personal-injury
 city: ypsilanti
-status: draft
+status: approved
 seoTitle: Ypsilanti Wrongful Death Lawyer: Who Files, What the Family Recovers, the Washtenaw County Probate Step, EMU and Hospital Deaths, Crashes in the City and Township, and the Deadlines
 seoDescription: When a family member dies in Ypsilanti because of someone’s negligence, Michigan law gives the claim to the estate, not the family directly. How the Washtenaw County Probate Court appointment works, who shares, what the family can recover after the 2024 Daher decision, no-fault survivor’s loss, crash, truck, pedestrian, EMU, hospital, workplace, Ford Lake, and nursing home deaths, and the deadlines, from 120 days to three years. Free, confidential consultation. (313) 406-7606.
 h1: Ypsilanti Wrongful Death Lawyer

@@ -2,7 +2,7 @@
 slug: faq
 section: resources
 format: faq
-status: draft
+status: approved
 seoTitle: Michigan Personal Injury FAQ: Deadlines, Fees, No-Fault, and What Your Claim Is Worth
 seoDescription: Answers to the questions injured people in Michigan ask: how long you have to file, what a lawyer costs, how no-fault works, who is at fault, what a case is worth, how long it takes, and whether a settlement is taxed, with the statute behind each answer.
 h1: Personal Injury FAQ: Michigan Injury Claims

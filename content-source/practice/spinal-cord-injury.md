@@ -1,7 +1,7 @@
 ---
 slug: spinal-cord-injury
 section: personal-injury
-status: draft
+status: approved
 seoTitle: Michigan Spinal Cord Injury Lawyer – Paralysis & Spine Injury Claims
 seoDescription: A spinal cord injury costs $2 million to $6 million over a lifetime. Michigan no-fault can pay for it, within limits set in 2019. ATLAW explains benefits, the threshold, and disc-injury defenses. Free review.
 h1: Michigan Spinal Cord Injury Lawyer

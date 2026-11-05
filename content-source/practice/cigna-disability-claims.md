@@ -1,7 +1,7 @@
 ---
 slug: cigna-disability-claims
 section: disability
-status: draft
+status: approved
 seoTitle: Cigna / New York Life Long-Term Disability Denial Lawyer – Michigan Appeals
 seoDescription: Cigna’s group disability business is now New York Life Group Benefit Solutions, and the policies are still issued by Life Insurance Company of North America. What the 2013 regulatory settlement required, how these claims are denied, and how a Michigan claimant builds the 180-day appeal.
 h1: Cigna Long Term Disability Denial Lawyer
