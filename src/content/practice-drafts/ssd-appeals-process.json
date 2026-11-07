@@ -397,7 +397,7 @@
        [
         {
          "t": "text",
-         "v": "Held at one of Michigan’s seven hearing offices, by video, or by phone; a vocational expert and sometimes a medical expert testify; about half of decisions nationally are favorable; the wait in Michigan is about seven to eight months"
+         "v": "Held at one of Michigan’s seven hearing offices, by video, or by phone; a vocational expert and sometimes a medical expert testify; about 58 percent of decisions nationally are favorable; the wait in Michigan is about eight months"
         }
        ]
       ],
@@ -537,17 +537,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Where your hearing is held depends on where you live. Approval rates differ by office because judges differ, and the wait differs because caseloads differ. The figures below are SSA’s own hearing-office data for the twelve months ending July 2026. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "VERIFY",
-         "v": "update to the current SSA release before publication, and quarterly thereafter; the attorney did not verify this; check it against the source before publication"
-        }
-       ]
+       "v": "Where your hearing is held depends on where you live. Approval rates differ by office because judges differ, and the wait differs because caseloads differ. The figures below are SSA’s own hearing-office data for fiscal year 2026 through August 28, 2026; the approval rate is the share of judges’ decisions that were fully or partially favorable, excluding dismissals."
       }
      ]
     },
@@ -602,19 +592,19 @@
        [
         {
          "t": "text",
-         "v": "14"
+         "v": "10"
         }
        ],
        [
         {
          "t": "text",
-         "v": "64.3%"
+         "v": "66.2%"
         }
        ],
        [
         {
          "t": "text",
-         "v": "About 7 months"
+         "v": "About 8 months (244 days)"
         }
        ]
       ],
@@ -634,19 +624,19 @@
        [
         {
          "t": "text",
-         "v": "10"
+         "v": "9"
         }
        ],
        [
         {
          "t": "text",
-         "v": "60.5%"
+         "v": "57.8%"
         }
        ],
        [
         {
          "t": "text",
-         "v": "About 7 months"
+         "v": "About 8 months (241 days)"
         }
        ]
       ],
@@ -666,19 +656,19 @@
        [
         {
          "t": "text",
-         "v": "10"
+         "v": "8"
         }
        ],
        [
         {
          "t": "text",
-         "v": "57.0%"
+         "v": "57.9%"
         }
        ],
        [
         {
          "t": "text",
-         "v": "About 8 months"
+         "v": "About 8 months (247 days)"
         }
        ]
       ],
@@ -698,19 +688,19 @@
        [
         {
          "t": "text",
-         "v": "6"
+         "v": "4"
         }
        ],
        [
         {
          "t": "text",
-         "v": "58.6%"
+         "v": "59.5%"
         }
        ],
        [
         {
          "t": "text",
-         "v": "About 8 months"
+         "v": "About 9 months (273 days)"
         }
        ]
       ],
@@ -730,19 +720,19 @@
        [
         {
          "t": "text",
-         "v": "6"
+         "v": "5"
         }
        ],
        [
         {
          "t": "text",
-         "v": "52.5%"
+         "v": "53.1%"
         }
        ],
        [
         {
          "t": "text",
-         "v": "About 7 months"
+         "v": "About 7.5 months (228 days)"
         }
        ]
       ],
@@ -768,13 +758,13 @@
        [
         {
          "t": "text",
-         "v": "60.2%"
+         "v": "60.1%"
         }
        ],
        [
         {
          "t": "text",
-         "v": "About 7.5 months"
+         "v": "About 8 months (241 days)"
         }
        ]
       ],
@@ -800,13 +790,13 @@
        [
         {
          "t": "text",
-         "v": "59.2%"
+         "v": "64.9%"
         }
        ],
        [
         {
          "t": "text",
-         "v": "About 7 months"
+         "v": "About 8 months (240 days)"
         }
        ]
       ],
@@ -829,7 +819,7 @@
          "c": [
           {
            "t": "text",
-           "v": "58"
+           "v": "48"
           }
          ]
         }
@@ -840,7 +830,7 @@
          "c": [
           {
            "t": "text",
-           "v": "About 59%"
+           "v": "About 60%"
           }
          ]
         }
@@ -851,7 +841,7 @@
          "c": [
           {
            "t": "text",
-           "v": "About 7.4 months"
+           "v": "About 8 months (244 days)"
           }
          ]
         }
@@ -888,7 +878,7 @@
          "c": [
           {
            "t": "text",
-           "v": "About 8.4 months"
+           "v": "About 9 months (268 days)"
           }
          ]
         }
@@ -1731,7 +1721,7 @@
    "answer": [
     {
      "t": "text",
-     "v": "Reconsideration typically takes several months. After a hearing request, Michigan’s hearing offices have averaged about seven to eight months to a decision, somewhat faster than the national average. A decision then takes one to three months to arrive. From initial application to a hearing decision, two years is common."
+     "v": "Reconsideration typically takes several months. After a hearing request, Michigan’s hearing offices have averaged about eight months to a decision, somewhat faster than the national average of about nine. A decision then takes one to three months to arrive. From initial application to a hearing decision, two years is common."
     }
    ]
   },
@@ -1740,7 +1730,7 @@
    "answer": [
     {
      "t": "text",
-     "v": "Nationally about half of judge decisions are favorable; in Michigan’s offices the rate over the past year ran from the low fifties to the mid-sixties depending on the office. Your chances depend most on the medical evidence and on whether the vocational testimony is tested."
+     "v": "Nationally about 58 percent of judge decisions are favorable; in Michigan’s offices the rate in fiscal year 2026 ran from the low fifties to the mid-sixties depending on the office. Your chances depend most on the medical evidence and on whether the vocational testimony is tested."
     }
    ]
   },
@@ -1855,8 +1845,8 @@
    }
   ]
  },
- "wordCount": 3273,
- "openItems": 2,
+ "wordCount": 3285,
+ "openItems": 1,
  "source": {
   "file": "B2-13_Michigan-Social-Security-Disability-Appeal-Lawyer.docx",
   "delivered": "2026-10-16"

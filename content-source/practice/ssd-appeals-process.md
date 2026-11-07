@@ -43,7 +43,7 @@ Every denial notice from Social Security tells you which level you are at and ho
 | Level | What it is | Deadline | Form | What happens |
 | --- | --- | --- | --- | --- |
 | **1. Reconsideration** | A fresh review of the file by a different examiner and medical consultant at Michigan’s Disability Determination Service, the state agency that decides claims for SSA | 60 days from receipt of the initial denial | SSA-561, with SSA-3441 (disability report, appeal) and SSA-827 (medical release) | Paper review; no hearing; about 16 percent approved nationally; a chance to add new medical evidence. Michigan eliminated this step from 1999 to 2019 as a test state and reinstated it in October 2019 |
-| **2. Hearing before an administrative law judge** | Your first chance to appear before a decision-maker, testify, present witnesses, and have a lawyer question the experts | 60 days from receipt of the reconsideration denial | HA-501 | Held at one of Michigan’s seven hearing offices, by video, or by phone; a vocational expert and sometimes a medical expert testify; about half of decisions nationally are favorable; the wait in Michigan is about seven to eight months |
+| **2. Hearing before an administrative law judge** | Your first chance to appear before a decision-maker, testify, present witnesses, and have a lawyer question the experts | 60 days from receipt of the reconsideration denial | HA-501 | Held at one of Michigan’s seven hearing offices, by video, or by phone; a vocational expert and sometimes a medical expert testify; about 58 percent of decisions nationally are favorable; the wait in Michigan is about eight months |
 | **3. Appeals Council** | Review of the judge’s decision for legal error, lack of substantial evidence, or abuse of discretion | 60 days from receipt of the judge’s decision | HA-520 | Paper review in Falls Church, Virginia; most requests are denied; about 15 percent of outcomes are remands back to a judge for a new hearing; the Council can also review a favorable decision on its own motion |
 | **4. Federal court** | A civil action in the United States District Court for the Eastern or Western District of Michigan | 60 days from receipt of the Appeals Council’s notice | Complaint filed by an attorney | The court reviews the record for legal error and substantial evidence; it almost never awards benefits directly, but about two-thirds of decisions are remands for a new hearing |
 
@@ -53,19 +53,19 @@ Every denial notice from Social Security tells you which level you are at and ho
 
 ## Michigan’s seven hearing offices
 
-Where your hearing is held depends on where you live. Approval rates differ by office because judges differ, and the wait differs because caseloads differ. The figures below are SSA’s own hearing-office data for the twelve months ending July 2026. **[VERIFY: update to the current SSA release before publication, and quarterly thereafter; the attorney did not verify this; check it against the source before publication]**
+Where your hearing is held depends on where you live. Approval rates differ by office because judges differ, and the wait differs because caseloads differ. The figures below are SSA’s own hearing-office data for fiscal year 2026 through August 28, 2026; the approval rate is the share of judges’ decisions that were fully or partially favorable, excluding dismissals.
 
 | Hearing office | Serves (generally) | Judges | Approval rate | Average wait |
 | --- | --- | --- | --- | --- |
-| Oak Park | Oakland County and northern Wayne County | 14 | 64.3% | About 7 months |
-| Detroit | Detroit and Wayne County | 10 | 60.5% | About 7 months |
-| Livonia | Western Wayne County and surrounding areas | 10 | 57.0% | About 8 months |
-| Flint | Genesee County and the Thumb | 6 | 58.6% | About 8 months |
-| Lansing | Mid-Michigan | 6 | 52.5% | About 7 months |
-| Grand Rapids | West Michigan | 6 | 60.2% | About 7.5 months |
-| Mount Pleasant | Northern Lower Peninsula and the Upper Peninsula | 6 | 59.2% | About 7 months |
-| **Michigan** |  | **58** | **About 59%** | **About 7.4 months** |
-| **National** |  |  | **57.6%** | **About 8.4 months** |
+| Oak Park | Oakland County and northern Wayne County | 10 | 66.2% | About 8 months (244 days) |
+| Detroit | Detroit and Wayne County | 9 | 57.8% | About 8 months (241 days) |
+| Livonia | Western Wayne County and surrounding areas | 8 | 57.9% | About 8 months (247 days) |
+| Flint | Genesee County and the Thumb | 4 | 59.5% | About 9 months (273 days) |
+| Lansing | Mid-Michigan | 5 | 53.1% | About 7.5 months (228 days) |
+| Grand Rapids | West Michigan | 6 | 60.1% | About 8 months (241 days) |
+| Mount Pleasant | Northern Lower Peninsula and the Upper Peninsula | 6 | 64.9% | About 8 months (240 days) |
+| **Michigan** |  | **48** | **About 60%** | **About 8 months (244 days)** |
+| **National** |  |  | **57.6%** | **About 9 months (268 days)** |
 
 We represent clients at Social Security hearing offices across Michigan, including hearings held by video or phone.
 
@@ -141,9 +141,9 @@ Fees in Social Security cases are set by federal law, 42 USC 406, and every fee 
 
 **How long do I have?** Sixty days from receiving the notice, and SSA presumes you received it five days after the date on it. If you missed it, a good-cause extension may be available under 20 CFR 404.911, but call immediately.
 
-**How long will the whole process take in Michigan?** Reconsideration typically takes several months. After a hearing request, Michigan’s hearing offices have averaged about seven to eight months to a decision, somewhat faster than the national average. A decision then takes one to three months to arrive. From initial application to a hearing decision, two years is common.
+**How long will the whole process take in Michigan?** Reconsideration typically takes several months. After a hearing request, Michigan’s hearing offices have averaged about eight months to a decision, somewhat faster than the national average of about nine. A decision then takes one to three months to arrive. From initial application to a hearing decision, two years is common.
 
-**What are my chances at the hearing?** Nationally about half of judge decisions are favorable; in Michigan’s offices the rate over the past year ran from the low fifties to the mid-sixties depending on the office. Your chances depend most on the medical evidence and on whether the vocational testimony is tested.
+**What are my chances at the hearing?** Nationally about 58 percent of judge decisions are favorable; in Michigan’s offices the rate in fiscal year 2026 ran from the low fifties to the mid-sixties depending on the office. Your chances depend most on the medical evidence and on whether the vocational testimony is tested.
 
 **Do I have to go to the hearing in person?** No. Michigan hearings are held in person, by video, or by phone. You may object to video or phone and request in person. We discuss which format suits your case.
 

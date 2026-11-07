@@ -449,19 +449,19 @@
        [
         {
          "t": "text",
-         "v": "Livonia hearing office: approval rate and wait, 12 months ending July 2026"
+         "v": "Livonia hearing office: approval rate and wait, fiscal year 2026 through August 2026"
         }
        ],
        [
         {
          "t": "text",
-         "v": "57 percent; about 8 months"
+         "v": "57.9 percent of decisions; about 8 months"
         }
        ],
        [
         {
          "t": "text",
-         "v": "SSA hearing office data"
+         "v": "SSA Hearing Office Workload Data and ALJ disposition data"
         }
        ]
       ],
@@ -475,7 +475,7 @@
        [
         {
          "t": "text",
-         "v": "52.5 percent; about 7 months"
+         "v": "53.1 percent; about 7.5 months"
         }
        ],
        [
@@ -1119,7 +1119,7 @@
        [
         {
          "t": "text",
-         "v": "About 7 to 8 months in Michigan (year to July 2026)"
+         "v": "About 8 months in Michigan (fiscal year 2026)"
         }
        ]
       ],
@@ -1182,7 +1182,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Michigan has seven Social Security hearing offices: Detroit, Oak Park, Livonia, Flint, Lansing, Grand Rapids, and Mount Pleasant. There is no hearing office in Ann Arbor. Hearings may be held in person, by video, or by phone, and you may ask to appear in person. In the year to July 2026, the Livonia office approved about 57 percent of the cases its judges decided and the Lansing office about 52.5 percent. The judge assigned to the case, and the record in front of that judge, matter more than the office average."
+       "v": "Michigan has seven Social Security hearing offices: Detroit, Oak Park, Livonia, Flint, Lansing, Grand Rapids, and Mount Pleasant. There is no hearing office in Ann Arbor. Hearings may be held in person, by video, or by phone, and you may ask to appear in person. In fiscal year 2026 through August, the Livonia office approved about 58 percent of the cases its judges decided and the Lansing office about 53 percent. The judge assigned to the case, and the record in front of that judge, matter more than the office average."
       }
      ]
     },
@@ -1786,7 +1786,7 @@
       "c": [
        {
         "t": "text",
-        "v": "This page is general information about federal disability law as of October 2026 and is not legal advice. Program figures are from the Social Security Administration’s 2027 cost-of-living fact sheet; hearing office figures are SSA data for the 12 months ending July 2026. Results depend on the facts of each case, and past results do not guarantee a future outcome."
+        "v": "This page is general information about federal disability law as of October 2026 and is not legal advice. Program figures are from the Social Security Administration’s 2027 cost-of-living fact sheet; hearing office figures are SSA data for fiscal year 2026 through August 28, 2026. Results depend on the facts of each case, and past results do not guarantee a future outcome."
        }
       ]
      }
@@ -1794,7 +1794,7 @@
    }
   ]
  },
- "wordCount": 2706,
+ "wordCount": 2712,
  "openItems": 0,
  "source": {
   "file": "B4-67_Ann-Arbor-Social-Security-Disability-Lawyer.docx",

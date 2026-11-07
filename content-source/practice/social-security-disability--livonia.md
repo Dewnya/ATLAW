@@ -4,9 +4,9 @@ section: disability
 city: livonia
 status: approved
 seoTitle: Livonia Social Security Disability Lawyer: The Field Office, the Livonia Hearing Office, Denials, and 2027 Figures
-seoDescription: Looking for the Social Security office in Livonia, or denied disability benefits? Where to apply, the Livonia hearing office (57% approval, about 8 months’ wait), the 60-day appeal deadlines, how the five-step test treats physical work, union and LTD offsets, and the fee set by federal law. 2026 and 2027 figures. Free review. (313) 406-7606.
+seoDescription: Looking for the Social Security office in Livonia, or denied disability benefits? Where to apply, the Livonia hearing office (58% approval, about 8 months’ wait), the 60-day appeal deadlines, how the five-step test treats physical work, union and LTD offsets, and the fee set by federal law. 2026 and 2027 figures. Free review. (313) 406-7606.
 h1: Livonia Social Security Disability Lawyer
-tagline: Social Security does not ask whether you are sick. It asks whether you can do any job that exists in significant numbers in the national economy. In Livonia the question is answered by an administrative law judge at the city’s own hearing office, where about 57 percent of decided cases were approved in the year to July 2026.
+tagline: Social Security does not ask whether you are sick. It asks whether you can do any job that exists in significant numbers in the national economy. In Livonia the question is answered by an administrative law judge at the city’s own hearing office, where about 58 percent of decided cases were approved in fiscal year 2026.
 primaryKeyword: social security office livonia (480/mo; informational) · livonia social security office (210/mo)
 secondaryKeywords: livonia social security disability lawyer, social security disability attorney livonia, disability lawyer livonia mi (no measurable volume)
 source: B3-39_Livonia-Social-Security-Disability-Lawyer.docx
@@ -34,9 +34,9 @@ ATLAW has practiced in Michigan for 13 years from its office at 3 Parklane Boule
 
 | Measure | Figure | Source |
 | --- | --- | --- |
-| Livonia hearing office: approval rate, 12 months ending July 2026 | 57 percent (national: 57.6 percent); 6th of Michigan’s 7 offices | SSA hearing office data, via Chronicle Legal |
-| Livonia hearing office: average wait for a hearing; judges | About 8 months (national: 8.4); 9 administrative law judges | Same |
-| Oak Park hearing office, for comparison | 64.3 percent; about 7 months | Same |
+| Livonia hearing office: approval rate, fiscal year 2026 through August 2026 | 57.9 percent of decisions (national: 57.6 percent); 5th of Michigan’s 7 offices | SSA Hearing Office Workload Data and ALJ disposition data |
+| Livonia hearing office: average wait for a hearing; judges | About 8 months (247 days; national about 9); 8 administrative law judges | Same |
+| Oak Park hearing office, for comparison | 66.2 percent; about 8 months | Same |
 | Attorney fee | 25 percent of back benefits, capped ($9,200 for agreements approved on or after November 30, 2024) | 42 USC 406(a) |
 | Appeal deadline at every stage | 60 days from the notice, plus 5 days for mailing | 20 CFR 404.909, 404.933, 404.968 |
 | Livonia residents reporting a disability | 12.0 percent (11,183 residents) | U.S. Census Bureau, ACS 2019–2023, Table S1810 |
@@ -67,11 +67,11 @@ The claim is the record. We obtain and organize it from every source: Trinity He
 | --- | --- | --- | --- |
 | Initial application | Online at ssa.gov, by phone, or at the Livonia field office; Michigan DDS reviews the medical evidence | — | Several months |
 | Reconsideration | A different DDS examiner reviews the file; a large share are denied | 60 days | Several months |
-| ALJ hearing | Before an administrative law judge at the Livonia hearing office; you testify, a vocational expert testifies, your lawyer cross-examines | 60 days | About 8 months at Livonia (year to July 2026) |
+| ALJ hearing | Before an administrative law judge at the Livonia hearing office; you testify, a vocational expert testifies, your lawyer cross-examines | 60 days | About 8 months at Livonia (fiscal year 2026) |
 | Appeals Council | Review for legal error | 60 days | Often 6–12 months |
 | Federal court | Civil action in the U.S. District Court for the Eastern District of Michigan, Detroit | 60 days | 12+ months |
 
-Livonia is one of seven Social Security hearing offices in Michigan, with Detroit, Oak Park, Flint, Lansing, Grand Rapids, and Mount Pleasant. Its judges hear appeals for western Wayne County and surrounding areas, in person, by video, or by phone; you may ask to appear in person. The office is at 19575 Victor Parkway, third floor. In the year to July 2026, the Livonia office approved about 57 percent of the cases its judges decided, close to the national rate but below Oak Park’s 64.3 percent; the judge assigned to the case, and the record in front of that judge, matter more than the office average. Missing a 60-day deadline usually means starting over with a new application and can cost back pay. Appeal; do not reapply.
+Livonia is one of seven Social Security hearing offices in Michigan, with Detroit, Oak Park, Flint, Lansing, Grand Rapids, and Mount Pleasant. Its judges hear appeals for western Wayne County and surrounding areas, in person, by video, or by phone; you may ask to appear in person. The office is at 19575 Victor Parkway, third floor. In fiscal year 2026 through August, the Livonia office approved about 58 percent of the cases its judges decided, close to the national rate but below Oak Park’s 66.2 percent; the judge assigned to the case, and the record in front of that judge, matter more than the office average. Missing a 60-day deadline usually means starting over with a new application and can cost back pay. Appeal; do not reapply.
 
 ## Back pay and the fee
 
@@ -113,7 +113,7 @@ SSDI benefits begin five full months after the established onset date; SSI is no
 
 **Where will my hearing be?** For most Livonia claimants, at the Livonia hearing office, in person, by video, or by phone. You can ask to appear in person.
 
-**What are my chances at the Livonia hearing office?** In the 12 months ending July 2026, Livonia’s judges approved about 57 percent of the cases they decided, with an average wait of about 8 months. The office average matters less than the record: the medical opinions, the vocational evidence, and how the hearing is presented.
+**What are my chances at the Livonia hearing office?** In fiscal year 2026 through August, Livonia’s judges approved about 58 percent of the cases they decided, with an average wait of about 8 months. The office average matters less than the record: the medical opinions, the vocational evidence, and how the hearing is presented.
 
 **What changes in 2027?** From January 2027, the SGA limit rises to $1,770 a month, the trial work month to $1,270, and the SSI federal benefit to $1,029 for an individual, with a 3.6 percent increase in benefits.
 
@@ -123,4 +123,4 @@ SSDI benefits begin five full months after the established onset date; SSI is no
 
 If you are applying for Social Security Disability in Livonia or have been denied, call **(313) 406-7606** or send the form on this page. We will tell you where your claim stands, what the record needs, and what the deadline is. The review is free, and the fee is paid only from back benefits if you win.
 
-*This page is general information about federal disability law as of October 2026 and is not legal advice. Program figures are from the Social Security Administration’s 2027 cost-of-living fact sheet; hearing office figures are SSA data as published by Chronicle Legal. Results depend on the facts of each case, and past results do not guarantee a future outcome.*
+*This page is general information about federal disability law as of October 2026 and is not legal advice. Program figures are from the Social Security Administration’s 2027 cost-of-living fact sheet; hearing office figures are SSA’s Hearing Office Workload and ALJ disposition data for fiscal year 2026 through August 28, 2026. Results depend on the facts of each case, and past results do not guarantee a future outcome.*

@@ -112,7 +112,7 @@ One SSDI-specific point: because the question is whether you were disabled **as 
 | Application | Online, by phone (1-800-772-1213), or at a field office; the field office verifies insured status, then Michigan’s Disability Determination Service decides the medical question | None, but retroactive pay is limited to 12 months before filing |
 | Initial decision | About 36% approved nationally in FY 2025; several months | 60 days to request reconsideration |
 | Reconsideration | Paper review; about 16% approved | 60 days to request a hearing |
-| Hearing | One of Michigan’s seven hearing offices; about 59% of decisions favorable in the year to July 2026; about 7 to 8 months’ wait | 60 days to the Appeals Council |
+| Hearing | One of Michigan’s seven hearing offices; about 60% of decisions favorable in fiscal year 2026; about 8 months’ wait | 60 days to the Appeals Council |
 | Appeals Council, federal court | Review for legal error | 60 days each |
 
 Our [how to apply](/disability/ssd-application-process) and [appeals](/disability/ssd-appeals-process) pages cover each stage in detail. The deadline at every level is 60 days from receipt of the notice, presumed five days after its date.

@@ -34,7 +34,7 @@ ATLAW has practiced in Michigan for 13 years from its office at 3 Parklane Boule
 
 | Measure | Figure | Source |
 | --- | --- | --- |
-| Oak Park hearing office (serves the Sterling Heights field office): approval rate and wait | 64.3 percent; about 7 months (12 months ending July 2026) | SSA hearing office data, via Chronicle Legal |
+| Oak Park hearing office (serves the Sterling Heights field office): approval rate and wait | 66.2 percent of decisions; about 8 months (244 days), fiscal year 2026 through August 2026 | SSA Hearing Office Workload Data and ALJ disposition data |
 | Attorney fee | 25 percent of back benefits, capped ($9,200 for agreements approved on or after November 30, 2024) | 42 USC 406(a) |
 | Appeal deadline at every stage | 60 days from the notice, plus 5 days for mailing | 20 CFR 404.909, 404.933, 404.968 |
 | Sterling Heights residents reporting a disability | 13.6 percent (18,029 residents) | U.S. Census Bureau, ACS 2019–2023, Table S1810 |
@@ -65,7 +65,7 @@ The claim is the record. We obtain and organize it from every source: Henry Ford
 | --- | --- | --- | --- |
 | Initial application | Online at ssa.gov, by phone, or at the Sterling Heights field office; Michigan DDS reviews the medical evidence | — | Several months |
 | Reconsideration | A different DDS examiner reviews the file; a large share are denied | 60 days | Several months |
-| ALJ hearing | Before an administrative law judge; you testify, a vocational expert testifies, your lawyer cross-examines | 60 days | About 7 months at Oak Park (year to July 2026) |
+| ALJ hearing | Before an administrative law judge; you testify, a vocational expert testifies, your lawyer cross-examines | 60 days | About 8 months at Oak Park (fiscal year 2026) |
 | Appeals Council | Review for legal error | 60 days | Often 6–12 months |
 | Federal court | Civil action in the U.S. District Court for the Eastern District of Michigan, Detroit | 60 days | 12+ months |
 

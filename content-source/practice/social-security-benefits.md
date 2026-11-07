@@ -113,7 +113,7 @@ Up to 85 percent of Social Security benefits are subject to federal income tax w
 | Application | Online, by phone, or at a field office; Michigan’s Disability Determination Service decides the medical question | Protective filing date fixes back pay | [How to apply](/disability/ssd-application-process) |
 | Initial decision | About 36 percent approved nationally in FY 2025; several months | 60 days to appeal | [Conditions that qualify](/disability/qualifying-impairments) |
 | Reconsideration | Paper review; about 16 percent approved | 60 days | [Appeals](/disability/ssd-appeals-process) |
-| Hearing | Michigan’s seven hearing offices; about 59 percent approved in the year to July 2026; about 7 to 8 months’ wait | 60 days | Same |
+| Hearing | Michigan’s seven hearing offices; about 60 percent of decisions approved in fiscal year 2026; about 8 months’ wait | 60 days | Same |
 | Appeals Council and federal court | Review for legal error | 60 days each | Same |
 | Expedited paths | Compassionate Allowances (314 conditions), terminal illness, Quick Disability Determination | None; flagged at filing | [Compassionate Allowances](/disability/compassionate-allowances) |
 

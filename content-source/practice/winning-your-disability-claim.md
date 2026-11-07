@@ -14,7 +14,7 @@ delivered: 2026-10-16
 
 ## How to Win Your Social Security Disability Claim
 
-About 36 percent of Social Security disability applications were approved at the first step in fiscal year 2025. At the hearing level, Michigan’s seven hearing offices approved about 59 percent of the claims that reached them. The claimants in the second group were not more disabled than the ones denied in the first. In most cases they had better evidence, presented in the form the regulations require, to a decision-maker who could see them and hear them.
+About 36 percent of Social Security disability applications were approved at the first step in fiscal year 2025. At the hearing level, Michigan’s seven hearing offices approved about 60 percent of the claims their judges decided in fiscal year 2026. The claimants in the second group were not more disabled than the ones denied in the first. In most cases they had better evidence, presented in the form the regulations require, to a decision-maker who could see them and hear them.
 
 This page is about that difference. It is written for the Michigan claimant at any stage, from the first application to the morning of the hearing, and it covers what the evidence has to show and why, how the 2017 rules changed what a doctor’s opinion is worth, what the examiner reads in your own forms, what happens in the hearing room and how to answer the judge, what the vocational expert is there to do and how a representative tests it, and the mistakes that lose claims that should have been won. It is specific because the rules are specific: a claim is decided under 20 CFR 404.1520, the evidence is weighed under 404.1520c and 404.1529, the hearing is run under HALLEX, and the vocational testimony is governed by Social Security Rulings that changed in 2025.
 
@@ -158,7 +158,7 @@ Fees are set by federal law: the lesser of 25 percent of past-due benefits or $9
 
 **How do I get approved the first time?** File a complete application with every provider listed, a work history that describes the physical and mental demands of each job in the last five years, a Function Report that describes limitations rather than diagnoses, and, where possible, a function-by-function opinion from your treating physician. Keep treating. If your condition is on the [Compassionate Allowances list](/disability/compassionate-allowances), name it exactly. Our [how to apply](/disability/ssd-application-process) page walks through the application. About 36 percent of first applications were approved in FY 2025; complete ones do better.
 
-**What are my chances at a hearing in Michigan?** Michigan’s seven hearing offices approved about 59 percent of decisions in the twelve months to July 2026, ranging from the low fifties to the mid-sixties by office. Your own chances depend on the evidence and the preparation.
+**What are my chances at a hearing in Michigan?** Michigan’s seven hearing offices approved about 60 percent of decisions in fiscal year 2026 through August, ranging from the low fifties to the mid-sixties by office. Your own chances depend on the evidence and the preparation.
 
 **What questions will the judge ask?** Your age and education; each job in the last five years and what it required; why you stopped working; your conditions, treatment, and medications; how long you can sit, stand, walk, and lift; a typical day and a bad day; and why you cannot work. The table above explains what each question is for.
 

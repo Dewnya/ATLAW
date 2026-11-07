@@ -52,8 +52,8 @@ The first conversation is free, in English, Arabic, French, Mandarin, Urdu, or S
 | Measure | Figure | Source |
 | --- | --- | --- |
 | Hearing office for Ann Arbor appeals | Assigned by your address; there is no hearing office in Ann Arbor | SSA Office of Hearings Operations |
-| Livonia hearing office: approval rate and wait, 12 months ending July 2026 | 57 percent; about 8 months | SSA hearing office data |
-| Lansing hearing office: approval rate and wait, same period | 52.5 percent; about 7 months | Same |
+| Livonia hearing office: approval rate and wait, fiscal year 2026 through August 2026 | 57.9 percent of decisions; about 8 months | SSA Hearing Office Workload Data and ALJ disposition data |
+| Lansing hearing office: approval rate and wait, same period | 53.1 percent; about 7.5 months | Same |
 | National approval rate at hearings, same period | 57.6 percent | Same |
 | Attorney fee | 25 percent of back benefits, capped ($9,200 for agreements approved on or after November 30, 2024) | 42 USC 406(a) |
 | Appeal deadline at every stage | 60 days from the notice, plus 5 days for mailing | 20 CFR 404.909, 404.933, 404.968 |
@@ -111,11 +111,11 @@ A treating provider’s opinion on your specific functional limits, in a form th
 | --- | --- | --- | --- |
 | Initial application | Online at ssa.gov, by phone, or at the Ann Arbor field office; Michigan DDS reviews the medical evidence | — | Several months |
 | Reconsideration | A different DDS examiner reviews the file; a large share are denied | 60 days | Several months |
-| ALJ hearing | Before an administrative law judge at the hearing office assigned to Ann Arbor; you testify, a vocational expert testifies, your lawyer cross-examines | 60 days | About 7 to 8 months in Michigan (year to July 2026) |
+| ALJ hearing | Before an administrative law judge at the hearing office assigned to Ann Arbor; you testify, a vocational expert testifies, your lawyer cross-examines | 60 days | About 8 months in Michigan (fiscal year 2026) |
 | Appeals Council | Review for legal error | 60 days | Often 6 to 12 months |
 | Federal court | Civil action in the U.S. District Court for the Eastern District of Michigan, which sits in Ann Arbor as well as Detroit | 60 days | 12+ months |
 
-Michigan has seven Social Security hearing offices: Detroit, Oak Park, Livonia, Flint, Lansing, Grand Rapids, and Mount Pleasant. There is no hearing office in Ann Arbor. Hearings may be held in person, by video, or by phone, and you may ask to appear in person. In the year to July 2026, the Livonia office approved about 57 percent of the cases its judges decided and the Lansing office about 52.5 percent. The judge assigned to the case, and the record in front of that judge, matter more than the office average.
+Michigan has seven Social Security hearing offices: Detroit, Oak Park, Livonia, Flint, Lansing, Grand Rapids, and Mount Pleasant. There is no hearing office in Ann Arbor. Hearings may be held in person, by video, or by phone, and you may ask to appear in person. In fiscal year 2026 through August, the Livonia office approved about 58 percent of the cases its judges decided and the Lansing office about 53 percent. The judge assigned to the case, and the record in front of that judge, matter more than the office average.
 
 Missing a 60-day deadline usually means starting over with a new application and can cost back pay. Appeal; do not reapply.
 
@@ -195,4 +195,4 @@ Ann Arbor has many young adults, including students, whose disability began befo
 
 If you are applying for Social Security Disability in Ann Arbor or have been denied, call **(313) 406-7606** or send the form on this page. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed. We will tell you where your claim stands, what the record needs, and what the deadline is. The review is free, and the fee is paid only from back benefits if you win.
 
-*This page is general information about federal disability law as of October 2026 and is not legal advice. Program figures are from the Social Security Administration’s 2027 cost-of-living fact sheet; hearing office figures are SSA data for the 12 months ending July 2026. Results depend on the facts of each case, and past results do not guarantee a future outcome.*
+*This page is general information about federal disability law as of October 2026 and is not legal advice. Program figures are from the Social Security Administration’s 2027 cost-of-living fact sheet; hearing office figures are SSA data for fiscal year 2026 through August 28, 2026. Results depend on the facts of each case, and past results do not guarantee a future outcome.*
