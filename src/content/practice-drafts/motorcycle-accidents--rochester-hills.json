@@ -1641,7 +1641,7 @@
    "answer": [
     {
      "t": "text",
-     "v": "- One year to notify the responsible no-fault insurer. - Three years to sue the at-fault driver. - Two years to sue a bar. - 120 days for a notice to the City or the Road Commission. - Six months for a claim against MDOT or the university."
+     "v": "- One year to notify the responsible no-fault insurer. - Three years to sue the at-fault driver. - Two years to sue a bar. - 120 days for a notice to the City or the Road Commission. - 120 days for a road-defect notice against MDOT or the university."
     }
    ]
   }
@@ -1688,7 +1688,7 @@
    }
   ]
  },
- "wordCount": 2638,
+ "wordCount": 2639,
  "openItems": 1,
  "source": {
   "file": "B4-17_Rochester-Hills-Motorcycle-Accident-Lawyer.docx",

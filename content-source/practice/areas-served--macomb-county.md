@@ -63,7 +63,7 @@ Source: Michigan State Police, Michigan Traffic Crash Facts 2024, county profile
 | Sixteenth Judicial Circuit Court (Macomb County Circuit Court), Civil Division | 40 N. Main Street, Mount Clemens | Personal injury and no-fault suits over $25,000; jury trials; case evaluation and facilitation |
 | Macomb County Probate Court | 21850 Dunham Road, Clinton Township | Opening estates for wrongful death claims (MCL 600.2922); approval of settlements for minors and incapacitated adults (MCR 2.420); guardianships after catastrophic injury |
 | District courts (37th Warren, Center Line; 38th Eastpointe; 39th Roseville, Fraser; 40th St. Clair Shores; 41A Sterling Heights and Shelby Township divisions; 41B Clinton Township, Harrison Township, Mount Clemens; 42nd District, Division 1 Romeo and Division 2 New Baltimore) | Each community | Claims up to $25,000, including most mini tort claims (small claims division up to $7,000, MCL 600.8401) |
-| Michigan Court of Claims | Court of Appeals judges | Claims against the State of Michigan and MDOT; notice within 6 months (MCL 600.6431) |
+| Michigan Court of Claims | Court of Appeals judges | Road-defect claims against MDOT, with written notice filed with the Court of Claims within 120 days (MCL 691.1404); other injury claims against the State of Michigan, with notice within 6 months (MCL 600.6431) |
 | U.S. District Court, Eastern District of Michigan | Detroit (Theodore Levin Courthouse) | Federal Tort Claims Act suits (Selfridge, Detroit Arsenal, VA); ERISA long-term disability suits; Social Security appeals from the Detroit and Oak Park hearing offices |
 
 ## The hospitals
@@ -104,7 +104,8 @@ We also represent clients from Armada, Bruce Township, Center Line, Chesterfield
 | Written notice to your no-fault insurer | 1 year from the crash | MCL 500.3145(1) |
 | Suit for unpaid no-fault benefits | Recovers only the year before suit | MCL 500.3145(2) |
 | Road defect against the county or a city | Written notice within 120 days | MCL 691.1404 |
-| Claim against MDOT or the State | Court of Claims notice within 6 months | MCL 600.6431 |
+| Road defect against MDOT | Written notice filed with the Court of Claims within 120 days | MCL 691.1404 |
+| Other injury claim against the State | Court of Claims notice within 6 months | MCL 600.6431 |
 | Claim against the United States (Selfridge, Detroit Arsenal, VA) | Administrative claim within 2 years | 28 USC 2401(b) |
 | Medical malpractice | 2 years, 182-day notice of intent first | MCL 600.5805(8), 600.2912b |
 | Dram shop (bar that served a drunk driver) | Suit generally within two years; written notice to defendants within 120 days after entering an attorney-client relationship to pursue a dram shop claim, subject to statutory exceptions | MCL 436.1801 |

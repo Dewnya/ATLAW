@@ -83,6 +83,8 @@ A disabled worker whose SSDI benefit is below the SSI rate receives both: SSDI f
 
 SSI applications are filed online (started at ssa.gov and completed by phone), by phone at 1-800-772-1213, or at a field office by appointment. The field office verifies the non-medical eligibility, income, resources, living arrangement, and citizenship, in an interview that is itself part of the decision, and then sends the medical question to Michigan’s Disability Determination Service. Our [how to apply](/disability/ssd-application-process) page covers the application in detail.
 
+The non-medical rules are best screened before filing: resources counted and excluded, living arrangement and the one-third rule, in-kind support, deeming for a child, and citizenship category. A claim that will fail the resource test is better fixed before it is filed (spending down on exempt items, opening an ABLE account) than denied and appealed.
+
 Two SSI-specific timing rules:
 
 - **SSI pays nothing for months before the application.** There is no retroactivity. Eligibility begins the month **after** the month of application (or after the month all requirements are met), under 20 CFR 416.335. A protective filing date, established by a phone call or written statement of intent to file, can secure the earlier month if the application is completed within 60 days.
@@ -114,7 +116,6 @@ SSI recipients face two kinds of review. **Redeterminations** of non-medical eli
 
 ## What an SSI lawyer does
 
-- **Screens the non-medical rules before filing**: resources counted and excluded, living arrangement and the one-third rule, in-kind support, deeming for a child, citizenship category. A claim that will fail the resource test is better fixed before it is filed (spending down on exempt items, opening an ABLE account) than denied and appealed. **[CONFIRM: practice]**
 - **Files SSI and SSDI together** when the work record supports both, and secures the protective filing date.
 - **Requests presumptive disability** where the condition qualifies.
 - **Builds the medical record** for the adult five-step test or, for a child, the six domains, including school records and teacher questionnaires.

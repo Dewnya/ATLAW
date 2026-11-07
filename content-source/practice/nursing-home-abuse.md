@@ -82,7 +82,7 @@ Because many nursing home cases include both kinds of claims, a lawyer files bot
 
 Most Michigan nursing home admission packets include an agreement to arbitrate disputes instead of going to court. Families sign them under pressure, often without reading them. Three things to know:
 
-- Under federal rule (42 CFR 483.70(n)), a facility may not require arbitration as a condition of admission, must explain the agreement in a way the resident understands, and must allow the resident to rescind it within 30 days of signing.
+- Under federal rule (42 CFR 483.70(m)), a facility may not require arbitration as a condition of admission, must explain the agreement in a way the resident understands, and must allow the resident to rescind it within 30 days of signing.
 - An arbitration agreement signed by a family member who did not have legal authority (a power of attorney or guardianship) to bind the resident is generally not enforceable against the resident or the estate. Who signed, and with what authority, is the first question we ask.
 - Even an enforceable agreement does not eliminate the claim; it changes the forum. Arbitration before a neutral arbitrator can still produce a full recovery.
 
@@ -107,7 +107,7 @@ ATLAW’s results: more than 10,000 cases and more than $100 million recovered f
 | Deadline | Applies to | Source |
 | --- | --- | --- |
 | Today | APS, LARA, and Ombudsman reports; photographs; records request | MCL 400.11a, 333.21771 |
-| 30 days from signing | Rescinding an arbitration agreement | 42 CFR 483.70(n) |
+| 30 days from signing | Rescinding an arbitration agreement | 42 CFR 483.70(m) |
 | 2 years | Malpractice claims (nursing and physician judgment), with the Notice of Intent 182 days before filing | MCL 600.5805(8), 600.2912b |
 | 3 years | Ordinary negligence claims (care plan not followed, supervision, staffing) | MCL 600.5805(2) |
 | Per the underlying claim | Wrongful death | MCL 600.2922, 600.5852 |

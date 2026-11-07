@@ -87,7 +87,7 @@ Two rule changes matter for appeals filed now. Since June 2024, SSA looks back o
 
 ## What the medical evidence has to show
 
-Claims are won on records, and a denial at reconsideration is most often a records problem rather than a merits problem.
+Claims are won on records, and a denial at reconsideration is most often a records problem rather than a merits problem. The record the judge reads is built in the months before the hearing: function-by-function opinions from your treating sources, submitted before the five-day deadline.
 
 - **A longitudinal treatment history** from the alleged onset date forward. Gaps in treatment are read against you. If cost or lack of insurance caused a gap, that must be explained and documented; SSR 16-3p requires the judge to consider the reasons.
 - **Objective findings**: imaging, laboratory results, pulmonary function tests, cardiac testing, neuropsychological testing, and physical examination findings that correspond to the limitations you describe.
@@ -128,7 +128,6 @@ Fees in Social Security cases are set by federal law, 42 USC 406, and every fee 
 
 - **Thirteen years serving clients, more than 10,000 cases.**
 - **Every level, every deadline.** From reconsideration through federal court, with the 60-day deadline at each level tracked from the notice date.
-- **The records built for the judge**: function-by-function opinions from your treating sources, submitted before the five-day deadline. **[CONFIRM: practice]**
 - **The vocational expert cross-examined**, with the hypothetical and the jobs named tested against the record and the Dictionary of Occupational Titles.
 - **Michigan’s hearing offices.** We appear at Michigan hearing offices across the state, including Detroit, Oak Park, and Livonia, in person or by video or phone.
 - **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed, and consultations by phone or video can also be arranged.

@@ -814,8 +814,8 @@
    ]
   },
   {
-   "id": "whose-road-it-is-the-city-mdot-or-the-university",
-   "heading": "Whose road it is: the City, MDOT, or the University",
+   "id": "whose-road-it-is-the-city-mdot-the-university-or-the-washtenaw-county-road-commission",
+   "heading": "Whose road it is: the City, MDOT, the University, or the Washtenaw County Road Commission",
    "blocks": [
     {
      "t": "p",
@@ -872,6 +872,21 @@
        {
         "t": "text",
         "v": " owns its campus roads, drives, and parking structures. A claim against it is a claim against the State (see below)."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The Washtenaw County Road Commission"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " owns the county’s primary and local roads outside the city limits."
        }
       ]
      ]
@@ -2230,7 +2245,7 @@
    }
   ]
  },
- "wordCount": 3389,
+ "wordCount": 3409,
  "openItems": 0,
  "source": {
   "file": "B4-59_Ann-Arbor-Car-Accident-Lawyer.docx",

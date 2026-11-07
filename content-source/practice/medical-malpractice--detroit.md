@@ -70,7 +70,7 @@ A bad outcome is not malpractice. Malpractice is a bad outcome caused by a provi
 
 1. **The records.** We obtain the complete chart, including the audit trail that shows when each entry was made, from every provider involved. Michigan gives you a right to your records (MCL 333.26261 et seq.); we request them under it in the first week.
 2. **Expert review.** A physician in the same specialty as the defendant reviews the records and tells us in writing whether the standard of care was breached and whether the breach caused the harm. Many cases end here, and we tell clients so directly.
-3. **Identify the defendants and the forum.** Private hospital and physician group: the Third Circuit. State university employee: possible Court of Claims. VA or deemed clinic: SF-95 and the Eastern District. City EMS: the GTLA. Serving a Notice of Intent on the wrong entity, or serving one on a federal provider that does not require it while the FTCA clock runs, loses the case.
+3. **Identify the defendants and the forum.** Private hospital and physician group: the Third Circuit. State university employee: possible Court of Claims. VA or deemed clinic: SF-95 and the Eastern District. City EMS: the EMS Act’s gross-negligence standard (MCL 333.20965). The GTLA does not grant immunity for medical care (MCL 691.1407(4)). Serving a Notice of Intent on the wrong entity, or serving one on a federal provider that does not require it while the FTCA clock runs, loses the case.
 4. **The Notice of Intent** (MCL 600.2912b), served on each provider at least 182 days before suit, stating the facts, the standard of care, the breach, what should have been done, and causation. Serving it tolls the two-year period during the notice period (MCL 600.5856(c)), but only if served before the period runs, so the firm must be retained well inside the two years.
 5. **The complaint and Affidavit of Merit** (MCL 600.2912d), filed in the Third Judicial Circuit Court at the Coleman A. Young Municipal Center for Detroit care, with the expert’s sworn affidavit. The defendant files an affidavit of meritorious defense.
 6. **Discovery, case evaluation, and facilitation.** Depositions of the providers and the experts on both sides; the Third Circuit’s case evaluation and facilitation practices; and, for the cases that do not settle, trial to a Wayne County jury. Two to four years from retention to resolution is typical.
@@ -92,7 +92,7 @@ Malpractice cases are expensive to bring: the same-specialty expert’s review, 
 | Death from malpractice | 2 years, with the estate’s savings provision; no later than 3 years after the 2-year period ends | MCL 600.5805(8), 600.5852 |
 | VA or federally funded clinic | SF-95 to the agency within 2 years; suit within 6 months of denial | 28 USC 2401(b), 2675 |
 | State university provider | Court of Claims notice within 6 months | MCL 600.6431 |
-| Detroit EMS or City provider | GTLA procedures; gross negligence standard | MCL 691.1407, 333.20965 |
+| Detroit EMS or City provider | EMS Act gross-negligence standard (MCL 333.20965); the GTLA does not grant immunity for medical care (MCL 691.1407(4)) | MCL 691.1407, 333.20965 |
 
 ## Why Detroit patients call ATLAW
 

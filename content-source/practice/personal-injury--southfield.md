@@ -114,4 +114,4 @@ Michigan caps contingency fees in injury cases at one-third of the net recovery 
 
 If you were injured in Southfield, call **(313) 406-7606** or send the form on this page. We will tell you what deadlines apply, which insurers and agencies are involved, and what to do first. The review is free, and there is no fee unless we recover money for you.
 
-*This page is general information about Michigan law as of October 2026 and is not legal advice. Crash figures are from the Michigan State Police, Michigan Traffic Crash Facts 2024. Results depend on the facts of each case, and past results do not guarantee a future outcome.*
+*This page is general information about Michigan law as of October 2026 and is not legal advice. Crash figures are from the Michigan State Police, Michigan Traffic Crash Facts 2024; the Telegraph at 12 Mile figure is 2025 data. Results depend on the facts of each case, and past results do not guarantee a future outcome.*

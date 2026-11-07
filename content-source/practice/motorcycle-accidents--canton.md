@@ -121,7 +121,7 @@ Rider injury suits over $25,000 go to the Third Judicial Circuit Court in Detroi
 
 **I wasn’t wearing a helmet. Can I still recover?** Yes, if you were 21 or older with the required $20,000 medical coverage and either two years of endorsement or a safety course. The insurer can argue a helmet would have reduced a head injury, which goes to damages, not to whether you have a claim.
 
-**How long do I have?** One year to notify the responsible no-fault insurer, three years to sue the at-fault driver, two years to sue a bar, 120 days for a notice to Wayne County, and six months for a claim against MDOT.
+**How long do I have?** One year to notify the responsible no-fault insurer, three years to sue the at-fault driver, two years to sue a bar, 120 days for a notice to Wayne County, and 120 days to file notice of a road-defect claim against MDOT.
 
 ## Talk to a lawyer about a Canton motorcycle crash
 

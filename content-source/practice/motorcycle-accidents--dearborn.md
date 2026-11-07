@@ -4,7 +4,7 @@ section: personal-injury
 city: dearborn
 status: approved
 seoTitle: Dearborn Motorcycle Accident Lawyer: Who Pays a Rider’s Bills, the Helmet Law, and Dearborn’s Roads
-seoDescription: Hurt on a motorcycle in Dearborn? Michigan no-fault treats riders differently: the car’s insurer pays, not yours, and a crash with no car involved has no PIP at all. ATLAW’s Michigan Avenue office explains the priority rule, the helmet law, pothole claims against MDOT and the City, and the deadlines. Free review. (313) 406-7606.
+seoDescription: Hurt on a motorcycle in Dearborn? Michigan no-fault treats riders differently: the car’s insurer pays, not yours, and a crash with no car involved has no PIP at all. ATLAW’s Dearborn office explains the priority rule, the helmet law, pothole claims against MDOT and the City, and the deadlines. Free review. (313) 406-7606.
 h1: Dearborn Motorcycle Accident Lawyer
 tagline: 168 riders killed and 2,460 injured on Michigan roads in 2024. In Dearborn, the questions are which car’s insurer pays, whose road the pothole was on, and what the other driver’s $50,000 policy is worth against a rider’s injuries.
 primaryKeyword: dearborn motorcycle accident lawyer (140/mo)

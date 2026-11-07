@@ -1166,7 +1166,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Claims are won on records, and a denial at reconsideration is most often a records problem rather than a merits problem."
+       "v": "Claims are won on records, and a denial at reconsideration is most often a records problem rather than a merits problem. The record the judge reads is built in the months before the hearing: function-by-function opinions from your treating sources, submitted before the five-day deadline."
       }
      ]
     },
@@ -1598,31 +1598,6 @@
         "c": [
          {
           "t": "text",
-          "v": "The records built for the judge"
-         }
-        ]
-       },
-       {
-        "t": "text",
-        "v": ": function-by-function opinions from your treating sources, submitted before the five-day deadline. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "practice"
-         }
-        ]
-       }
-      ],
-      [
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "text",
           "v": "The vocational expert cross-examined"
          }
         ]
@@ -1845,8 +1820,8 @@
    }
   ]
  },
- "wordCount": 3285,
- "openItems": 1,
+ "wordCount": 3291,
+ "openItems": 0,
  "source": {
   "file": "B2-13_Michigan-Social-Security-Disability-Appeal-Lawyer.docx",
   "delivered": "2026-10-16"

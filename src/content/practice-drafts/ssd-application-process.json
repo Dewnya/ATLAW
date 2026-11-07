@@ -740,7 +740,7 @@
       },
       {
        "t": "text",
-       "v": " page explains the evidence each step requires."
+       "v": " page explains the evidence each step requires. When a condition may meet a Listing, the claim is strongest if the Listing is identified, and a physician statement addressing its criteria obtained, before the claim reaches the examiner."
       }
      ]
     },
@@ -1138,31 +1138,6 @@
         "c": [
          {
           "t": "text",
-          "v": "The Listing identified and the physician statement obtained"
-         }
-        ]
-       },
-       {
-        "t": "text",
-        "v": " before the claim reaches the examiner. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "practice"
-         }
-        ]
-       }
-      ],
-      [
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "text",
           "v": "Every deadline calendared"
          }
         ]
@@ -1342,8 +1317,8 @@
    }
   ]
  },
- "wordCount": 3022,
- "openItems": 1,
+ "wordCount": 3037,
+ "openItems": 0,
  "source": {
   "file": "B2-14_How-to-Apply-Social-Security-Disability-Michigan.docx",
   "delivered": "2026-10-16"

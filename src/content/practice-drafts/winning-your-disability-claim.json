@@ -715,6 +715,15 @@
      "t": "p",
      "c": [
       {
+       "t": "text",
+       "v": "The record is built before the hearing, not at it: function-by-function opinions from your treating sources, submitted before the five-day deadline, with a pre-hearing brief."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
        "t": "strong",
        "c": [
         {
@@ -1434,31 +1443,6 @@
         "c": [
          {
           "t": "text",
-          "v": "The record built before the hearing"
-         }
-        ]
-       },
-       {
-        "t": "text",
-        "v": ": function-by-function opinions from your treating sources, submitted before the five-day deadline, with a pre-hearing brief. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "practice"
-         }
-        ]
-       }
-      ],
-      [
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "text",
           "v": "The vocational expert cross-examined"
          }
         ]
@@ -1696,8 +1680,8 @@
    }
   ]
  },
- "wordCount": 3727,
- "openItems": 2,
+ "wordCount": 3729,
+ "openItems": 1,
  "source": {
   "file": "B2-20_How-to-Win-Social-Security-Disability-Claim.docx",
   "delivered": "2026-10-16"

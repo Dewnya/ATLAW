@@ -80,6 +80,8 @@ Two forms you complete yourself are read closely by the examiner and later by th
 
 If the claim is denied at the initial and reconsideration levels, the hearing before an administrative law judge is the first time a decision-maker sees and hears you. In Michigan it is held at one of seven hearing offices (Detroit, Oak Park, Livonia, Flint, Lansing, Grand Rapids, Mount Pleasant), by video, by telephone, or by online video; you receive a Notice of Ways to Attend and may object to the formats you do not want. The notice of hearing arrives at least 75 days before the date. The hearing is informal, recorded, under oath, and usually lasts 45 minutes to an hour. Present are the judge, a hearing reporter, you, your representative, and, usually by phone, a vocational expert and sometimes a medical expert.
 
+The record is built before the hearing, not at it: function-by-function opinions from your treating sources, submitted before the five-day deadline, with a pre-hearing brief.
+
 **Before the hearing**, a representative does four things: obtains and reviews the exhibit file, identifies and fills the gaps in the medical record, submits the treating-source opinions and updated records at least five business days before the hearing (evidence submitted later may be excluded under 404.935 unless an exception applies), and files a **pre-hearing brief** that tells the judge which Listing or grid rule applies, what RFC the evidence supports, and why the claimant cannot work. A strong brief occasionally produces a favorable decision **on the record** without a hearing at all, which a representative can request.
 
 **The judge’s questions** follow a pattern, and the pattern has a purpose:
@@ -146,7 +148,6 @@ Fees are set by federal law: the lesser of 25 percent of past-due benefits or $9
 ## Why Michigan claimants call ATLAW to win their claim
 
 - **Thirteen years serving clients, more than 10,000 cases.**
-- **The record built before the hearing**: function-by-function opinions from your treating sources, submitted before the five-day deadline, with a pre-hearing brief. **[CONFIRM: practice]**
 - **The vocational expert cross-examined** on the omitted limitations, the job numbers, and the Dictionary.
 - **Hearing preparation with you**, so the judge’s questions are not a surprise.
 - **Michigan’s hearing offices.** We appear at Michigan hearing offices across the state, including Detroit, Oak Park, and Livonia, and at hearings held by video or phone.

@@ -69,7 +69,7 @@ An insurer that violates these rules in more than a minor way loses the deferenc
 
 ## Building the appeal against Cigna and New York Life
 
-The administrative appeal is the trial. The federal judge who eventually reviews the claim will read the file as the insurer closed it and, in most cases, ask only whether the denial was arbitrary and capricious. The appeal therefore has to do two things at once: prove the disability, and prove that the insurer’s process was unreasonable.
+The administrative appeal is the trial. The federal judge who eventually reviews the claim will read the file as the insurer closed it and, in most cases, ask only whether the denial was arbitrary and capricious. The appeal therefore has to do two things at once: prove the disability, and prove that the insurer’s process was unreasonable. The complete claim file should be requested first, before the appeal is written, and the appeal built with the record a court may later review in mind.
 
 **Proving the disability**
 
@@ -126,7 +126,6 @@ Long-term disability appeals and lawsuits are handled on a contingency basis: no
 ## Why Michigan claimants call ATLAW for Cigna and New York Life denials
 
 - **Thirteen years serving clients, more than 10,000 cases.**
-- **The complete claim file first**, and the appeal built with the record a court may later review in mind.
 - **The insurer’s own history in the record**: where relevant, we document the claim-handling practices identified in Cigna’s 2013 regulatory settlement.
 - **Social Security and LTD coordinated**, so the award does not become a repayment surprise.
 - **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.

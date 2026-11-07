@@ -1071,7 +1071,7 @@
    "answer": [
     {
      "t": "text",
-     "v": "One year to notify the responsible no-fault insurer, three years to sue the at-fault driver, two years to sue a bar, 120 days for a notice to Wayne County, and six months for a claim against MDOT."
+     "v": "One year to notify the responsible no-fault insurer, three years to sue the at-fault driver, two years to sue a bar, 120 days for a notice to Wayne County, and 120 days to file notice of a road-defect claim against MDOT."
     }
    ]
   }
@@ -1118,7 +1118,7 @@
    }
   ]
  },
- "wordCount": 2287,
+ "wordCount": 2291,
  "openItems": 1,
  "source": {
   "file": "B3-44_Canton-Motorcycle-Accident-Lawyer.docx",

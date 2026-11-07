@@ -53,6 +53,8 @@ The 20/40 rule produces the **date last insured**: the last date on which you st
 
 Two consequences follow. First, a worker whose date last insured has passed may still qualify for SSI if income and resources are low, and should apply for both. Second, a worker who is still insured but stopped working years ago should apply **now**, before the window closes, even if the records are incomplete; the protective filing date can be secured while the evidence is gathered.
 
+Insured status and the date last insured are checked from the earnings record before anything else, so that the claim is filed as SSDI, SSI, or both, with no technical denial in between.
+
 The exception is **statutory blindness**, for which the 20/40 recency requirement does not apply; a blind worker need only be fully insured.
 
 ## How the benefit is calculated
@@ -128,7 +130,6 @@ Our [how to apply](/disability/ssd-application-process) and [appeals](/disabilit
 
 ## What an SSDI lawyer does
 
-- **Confirms insured status and the date last insured before anything else**, from your earnings record, so that the claim is filed as SSDI, SSI, or both, with no technical denial in between. **[CONFIRM: practice]**
 - **Sets the onset date** the records can support, clearing the date last insured and maximizing back pay.
 - **Builds the evidence for the insured period**, including retrospective treating-source opinions and lay evidence, when the application comes years after the work stopped.
 - **Calendars every 60-day deadline** and represents you at the hearing, including cross-examination of the vocational expert.

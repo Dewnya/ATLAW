@@ -3,10 +3,10 @@ slug: dog-bites
 section: personal-injury
 city: pontiac
 status: draft
-seoTitle: Pontiac, MI Dog Bite Lawyer: Michigan’s Strict Liability Statute, Oakland County Animal Control, Pontiac’s Ordinance, Who Pays, and Children’s Claims
-seoDescription: Bitten by a dog in Pontiac? The owner is liable even if the dog never bit before, and the claim is usually paid by homeowner’s or renter’s insurance. Who to call (Oakland County Animal Control, on the county campus in Pontiac), MCL 287.351, the provocation defense, what Pontiac’s animal ordinance adds, landlords and the Housing Commission, delivery workers, children’s claims, and the deadlines. Free review. (313) 406-7606.
+seoTitle: Pontiac, MI Dog Bite Lawyer: Michigan’s Strict Liability Statute, Oakland County Animal Control, Local Animal Rules, Who Pays, and Children’s Claims
+seoDescription: Bitten by a dog in Pontiac? The owner is liable even if the dog never bit before, and the claim is usually paid by homeowner’s or renter’s insurance. Who to call (Oakland County Animal Control, on the county campus in Pontiac), MCL 287.351, the provocation defense, what local animal rules add, landlords and the Housing Commission, delivery workers, children’s claims, and the deadlines. Free review. (313) 406-7606.
 h1: Pontiac, MI Dog Bite Lawyer
-tagline: Michigan’s dog bite statute is one sentence: the owner is liable for a bite without provocation on public property or where the victim is lawfully present, regardless of the dog’s history. In Pontiac the questions are who the owner is, whether they or their landlord are insured, and what the City’s ordinance adds when the injury was not a bite.
+tagline: Michigan’s dog bite statute is one sentence: the owner is liable for a bite without provocation on public property or where the victim is lawfully present, regardless of the dog’s history. In Pontiac the questions are who the owner is, whether they or their landlord are insured, and what local animal rules add when the injury was not a bite.
 primaryKeyword: pontiac dog bite lawyer (20/mo)
 secondaryKeywords: pontiac dog bite attorney (20), pontiac animal control (90; informational), dog bite lawyer pontiac mi (long tail)
 source: B3-89_Pontiac-Dog-Bite-Lawyer.docx
@@ -54,20 +54,21 @@ The national figures matter for one reason: dog bite claims are a routine, insur
 
 **Licensing.** Michigan law requires dogs four months or older to be vaccinated against rabies and licensed (MCL 287.266(1), (8)). Pontiac residents can license a dog through the City Treasurer or Oakland County Animal Control.
 
-## What Pontiac’s animal ordinance adds
+## What local animal rules add
 
-Pontiac’s animal rules are in Chapter 6 of the City Code, with nuisance provisions in Chapter 18. **[VERIFY: verify the current text and section numbers; the attorney did not verify this; check it against the source before publication]** As described in published summaries of the code:
+Michigan’s statute decides a bite case, but local animal-control rules, whether a city’s own ordinance or the county rules enforced in it, add requirements of their own. We check the current text of the rules that applied where the bite happened. Rules of this kind typically cover:
 
-- **A broad definition of “owner.”** The ordinance treats as an owner anyone who has a property right in the dog, keeps it on property they own or occupy, has custody or care of it, or knowingly lets the dog and its owner live on their property. That can reach a householder or landlord who is not the dog’s legal owner, for purposes of the ordinance. Under the bite statute, Michigan courts read “owner” more narrowly: the Dog Law’s broader definition, which includes a keeper or harborer, does not apply to the bite statute (*Trager v Thor*, Mich App 1993).
-- **Responsibility for known behavior.** An owner can be held responsible for the dog’s prohibited acts where the owner knew or reasonably should have known the dog was likely to engage in them.
-- **Prohibited acts.** Running at large, chasing vehicles, injuring or annoying a person, and bringing a dog onto school grounds.
+- **Leash and at-large rules.** A dog off its owner’s property must usually be leashed or under control, and a dog running loose is “at large.”
+- **Licensing and vaccination.** Local rules build on the state requirement that a dog four months or older be vaccinated against rabies and licensed (MCL 287.266), and the license record identifies an owner who denies the dog is theirs.
+- **Bite reporting and quarantine.** A bite must be reported, and the biting dog is confined for the rabies observation period, which creates the official record and surfaces prior complaints.
+- **A broader definition of “owner.”** Local rules often treat a person who keeps or harbors a dog as its owner. Under the bite statute, Michigan courts read “owner” more narrowly: the Dog Law’s broader definition, which includes a keeper or harborer, does not apply to the bite statute (*Trager v Thor*, Mich App 1993).
 
-For a bite victim, the ordinance matters in the same way any local rule does:
+For a bite victim, those rules matter in the same way any local rule does:
 
-- **It does not change the statute.** The owner of any dog is strictly liable under MCL 287.351 for a bite, whatever the ordinance says.
-- **It is evidence in a non-bite case.** A dog running at large, a dog with a history of complaints, or an owner who should have known, is evidence of negligence in a knockdown or chase injury.
-- **It can identify another responsible person.** A householder who kept the dog, or a landlord who knowingly allowed a dangerous dog to stay, may be a defendant under ordinary negligence even when the statute reaches only the owner.
-- **It can produce a dangerous-animal finding.** A finding under Michigan’s Dangerous Animals Act (MCL 287.321 to 287.323) is strong evidence in the civil case, but the civil case does not depend on it.
+- **They do not change the statute.** The owner of any dog is strictly liable under MCL 287.351 for a bite, whatever the local rules say.
+- **A violation is evidence in a non-bite case.** A dog running at large in violation of the leash rules, a dog with a history of complaints, or an owner who should have known the dog was dangerous, is evidence of negligence in a knockdown or chase injury. The violation does not create the claim; it helps prove it.
+- **They can identify another responsible person.** A householder who kept the dog, or a landlord who knowingly allowed a dangerous dog to stay, may be a defendant under ordinary negligence even when the statute reaches only the owner.
+- **They can produce a dangerous-animal finding.** A finding under Michigan’s Dangerous Animals Act (MCL 287.321 to 287.323) is strong evidence in the civil case, but the civil case does not depend on it.
 
 ## Who pays in Pontiac
 

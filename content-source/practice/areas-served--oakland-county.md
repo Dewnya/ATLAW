@@ -63,7 +63,7 @@ Source: Michigan State Police, Michigan Traffic Crash Facts 2024, county profile
 | Sixth Judicial Circuit Court (Oakland County Circuit Court), Civil Division | 1200 N. Telegraph Road, Pontiac | Personal injury and no-fault suits over $25,000; jury trials; case evaluation and facilitation |
 | Oakland County Probate Court | 1200 N. Telegraph Road, Pontiac | Opening estates for wrongful death claims (MCL 600.2922); approval of settlements for minors and incapacitated adults (MCR 2.420); guardianships after catastrophic injury |
 | District courts (43rd Ferndale, Hazel Park, Madison Heights; 44th Royal Oak; 45th Oak Park, Berkley, Huntington Woods, Pleasant Ridge; 46th Southfield, Lathrup Village; 47th Farmington, Farmington Hills; 48th Birmingham, Bloomfield, West Bloomfield, Keego Harbor, Orchard Lake, Sylvan Lake; 50th Pontiac; 51st Waterford; 52nd District, four divisions: Novi, Clarkston, Rochester Hills, Troy) | Each community | Claims up to $25,000, including most mini tort claims (small claims division up to $7,000, MCL 600.8401) |
-| Michigan Court of Claims | Court of Appeals judges | Claims against the State of Michigan and MDOT; notice within 6 months (MCL 600.6431) |
+| Michigan Court of Claims | Court of Appeals judges | Road-defect claims against MDOT, with written notice filed with the Court of Claims within 120 days (MCL 691.1404); other injury claims against the State of Michigan, with notice within 6 months (MCL 600.6431) |
 | U.S. District Court, Eastern District of Michigan | Detroit (Theodore Levin Courthouse) and Flint | ERISA long-term disability suits; Social Security appeals from the Oak Park and Livonia hearing offices; cases against out-of-state defendants |
 
 ## The hospitals
@@ -102,7 +102,8 @@ We also represent clients from Auburn Hills, Berkley, Beverly Hills, Bingham Far
 | Written notice to your no-fault insurer | 1 year from the crash | MCL 500.3145(1) |
 | Suit for unpaid no-fault benefits | Recovers only the year before suit | MCL 500.3145(2) |
 | Road defect against the RCOC or a city | Written notice within 120 days | MCL 691.1404 |
-| Claim against MDOT or the State | Court of Claims notice within 6 months | MCL 600.6431 |
+| Road defect against MDOT | Written notice filed with the Court of Claims within 120 days | MCL 691.1404 |
+| Other injury claim against the State | Court of Claims notice within 6 months | MCL 600.6431 |
 | Medical malpractice | 2 years, 182-day notice of intent first | MCL 600.5805(8), 600.2912b |
 | Dram shop (bar that served a drunk driver) | Suit generally within two years; written notice to defendants within 120 days after entering an attorney-client relationship to pursue a dram shop claim, subject to statutory exceptions | MCL 436.1801 |
 | Injured person under 18 | Generally, one year after turning 18 if the ordinary limitations period has expired; special rules apply | MCL 600.5851(1) |

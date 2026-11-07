@@ -698,6 +698,15 @@
      "c": [
       {
        "t": "text",
+       "v": "A claim filed to be flagged has all of this in place on the day of filing: the condition named as SSA lists it, the specialist identified, and the pathology or imaging attached."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
        "v": "A claim that was not flagged at filing can be flagged later. If you applied without naming the condition correctly, call Social Security, or have your representative call the DDS examiner, and identify it."
       }
      ]
@@ -1317,31 +1326,6 @@
         "c": [
          {
           "t": "text",
-          "v": "Filed to be flagged"
-         }
-        ]
-       },
-       {
-        "t": "text",
-        "v": ": the condition named as SSA lists it, the specialist identified, the pathology attached, on the day of filing. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "practice"
-         }
-        ]
-       }
-      ],
-      [
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "text",
           "v": "Non-medical eligibility checked before filing"
          }
         ]
@@ -1550,8 +1534,8 @@
    }
   ]
  },
- "wordCount": 2907,
- "openItems": 2,
+ "wordCount": 2916,
+ "openItems": 1,
  "source": {
   "file": "B2-15_Compassionate-Allowance-List-Lawyer.docx",
   "delivered": "2026-10-16"

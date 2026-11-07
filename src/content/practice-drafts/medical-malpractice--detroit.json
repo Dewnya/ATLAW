@@ -795,7 +795,7 @@
        },
        {
         "t": "text",
-        "v": " Private hospital and physician group: the Third Circuit. State university employee: possible Court of Claims. VA or deemed clinic: SF-95 and the Eastern District. City EMS: the GTLA. Serving a Notice of Intent on the wrong entity, or serving one on a federal provider that does not require it while the FTCA clock runs, loses the case."
+        "v": " Private hospital and physician group: the Third Circuit. State university employee: possible Court of Claims. VA or deemed clinic: SF-95 and the Eastern District. City EMS: the EMS Act’s gross-negligence standard (MCL 333.20965). The GTLA does not grant immunity for medical care (MCL 691.1407(4)). Serving a Notice of Intent on the wrong entity, or serving one on a federal provider that does not require it while the FTCA clock runs, loses the case."
        }
       ],
       [
@@ -1074,7 +1074,7 @@
        [
         {
          "t": "text",
-         "v": "GTLA procedures; gross negligence standard"
+         "v": "EMS Act gross-negligence standard (MCL 333.20965); the GTLA does not grant immunity for medical care (MCL 691.1407(4))"
         }
        ],
        [
@@ -1258,7 +1258,7 @@
    }
   ]
  },
- "wordCount": 2488,
+ "wordCount": 2516,
  "openItems": 2,
  "source": {
   "file": "B2-66_Detroit-Medical-Malpractice-Lawyer.docx",

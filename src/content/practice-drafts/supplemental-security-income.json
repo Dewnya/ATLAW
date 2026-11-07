@@ -853,6 +853,15 @@
      "c": [
       {
        "t": "text",
+       "v": "The non-medical rules are best screened before filing: resources counted and excluded, living arrangement and the one-third rule, in-kind support, deeming for a child, and citizenship category. A claim that will fail the resource test is better fixed before it is filed (spending down on exempt items, opening an ABLE account) than denied and appealed."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
        "v": "Two SSI-specific timing rules:"
       }
      ]
@@ -1163,31 +1172,6 @@
     {
      "t": "ul",
      "items": [
-      [
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "text",
-          "v": "Screens the non-medical rules before filing"
-         }
-        ]
-       },
-       {
-        "t": "text",
-        "v": ": resources counted and excluded, living arrangement and the one-third rule, in-kind support, deeming for a child, citizenship category. A claim that will fail the resource test is better fixed before it is filed (spending down on exempt items, opening an ABLE account) than denied and appealed. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "practice"
-         }
-        ]
-       }
-      ],
       [
        {
         "t": "strong",
@@ -1539,8 +1523,8 @@
    }
   ]
  },
- "wordCount": 3108,
- "openItems": 1,
+ "wordCount": 3109,
+ "openItems": 0,
  "source": {
   "file": "B2-19_Michigan-SSI-Lawyer.docx",
   "delivered": "2026-10-16"

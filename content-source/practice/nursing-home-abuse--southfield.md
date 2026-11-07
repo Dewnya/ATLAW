@@ -88,14 +88,14 @@ Many nursing home cases include both. We plead both, meet the malpractice requir
 
 ## The arbitration clause
 
-Many admission packets include an agreement to arbitrate. A certified facility may not require it as a condition of admission, must explain it in a way the resident or representative understands, and must allow rescission within 30 days (42 CFR 483.70(n)). An agreement signed by a family member without legal authority to bind the resident, such as a power of attorney or guardianship, is generally not enforceable against the resident or the estate. Assisted living agreements are not covered by the federal rule and must be read on their own terms. An enforceable agreement changes the forum, not the claim.
+Many admission packets include an agreement to arbitrate. A certified facility may not require it as a condition of admission, must explain it in a way the resident or representative understands, and must allow rescission within 30 days (42 CFR 483.70(m)). An agreement signed by a family member without legal authority to bind the resident, such as a power of attorney or guardianship, is generally not enforceable against the resident or the estate. Assisted living agreements are not covered by the federal rule and must be read on their own terms. An enforceable agreement changes the forum, not the claim.
 
 ## Deadlines for Southfield nursing home claims
 
 | What | When | Source |
 | --- | --- | --- |
 | APS, LARA, and Ombudsman reports; photographs; records request | Today | MCL 400.11a, 333.21771 |
-| Rescinding an arbitration agreement (certified facility) | 30 days from signing | 42 CFR 483.70(n) |
+| Rescinding an arbitration agreement (certified facility) | 30 days from signing | 42 CFR 483.70(m) |
 | Malpractice claims | 2 years, with Notice of Intent 182 days before filing | MCL 600.5805(8), 600.2912b |
 | Ordinary negligence claims | 3 years | MCL 600.5805(2) |
 | Wrongful death | Per the underlying claim, with the estate’s savings provision | MCL 600.2922, 600.5852 |

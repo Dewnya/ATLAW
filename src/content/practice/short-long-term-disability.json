@@ -840,7 +840,7 @@
       },
       {
        "t": "text",
-       "v": ": the claim file as it stood when the insurer made its final decision. With narrow exceptions, no new evidence is admitted in court, no witnesses testify, and there is no discovery into the merits. Everything the judge will ever read about your disability must be in the file before the insurer closes it."
+       "v": ": the claim file as it stood when the insurer made its final decision. With narrow exceptions, no new evidence is admitted in court, no witnesses testify, and there is no discovery into the merits. Everything the judge will ever read about your disability must be in the file before the insurer closes it. The appeal is therefore built as the trial it is: the complete claim file is requested first, and the record a court may later review is completed before the insurer closes it."
       }
      ]
     },
@@ -1684,21 +1684,6 @@
         "c": [
          {
           "t": "text",
-          "v": "The appeal built as the trial it is"
-         }
-        ]
-       },
-       {
-        "t": "text",
-        "v": ", with the complete claim file requested first and the record a court may later review completed before the insurer closes it."
-       }
-      ],
-      [
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "text",
           "v": "ERISA and Michigan law both"
          }
         ]
@@ -1950,7 +1935,7 @@
    }
   ]
  },
- "wordCount": 3978,
+ "wordCount": 3982,
  "openItems": 0,
  "source": {
   "file": "B2-21_Michigan-Long-Term-Disability-Lawyer.docx",

@@ -835,7 +835,7 @@
        [
         {
          "t": "text",
-         "v": "Written notice within 120 days, for qualifying public-building claims"
+         "v": "Usually barred by governmental immunity"
         }
        ],
        [
@@ -1020,7 +1020,7 @@
    "answer": [
     {
      "t": "text",
-     "v": "Yes, to Detroit Animal Care and Control. The report starts the rabies observation and creates the record of the dog’s history. Your doctor is also required to report it."
+     "v": "Yes, to Detroit Animal Care and Control. The report starts the rabies observation and creates the record of the dog’s history. Your doctor must also report it if rabies is suspected."
     }
    ]
   }
@@ -1067,7 +1067,7 @@
    }
   ]
  },
- "wordCount": 2385,
+ "wordCount": 2383,
  "openItems": 0,
  "source": {
   "file": "B2-68_Detroit-Dog-Bite-Lawyer.docx",

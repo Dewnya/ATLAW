@@ -111,7 +111,7 @@ Many admission packets include an agreement to arbitrate. A certified facility m
 | What | When | Source |
 | --- | --- | --- |
 | APS, LARA, and Ombudsman reports; photographs; records request | Today | MCL 400.11a, 333.21771 |
-| Rescinding an arbitration agreement (certified facility) | 30 days from signing | 42 CFR 483.70(n) |
+| Rescinding an arbitration agreement (certified facility) | 30 days from signing | 42 CFR 483.70(m) |
 | Malpractice claims | 2 years, with Notice of Intent 182 days before filing | MCL 600.5805(8), 600.2912b |
 | Ordinary negligence claims | 3 years | MCL 600.5805(2) |
 | Wrongful death | Per the underlying claim, with the estate’s savings provision | MCL 600.2922, 600.5852 |

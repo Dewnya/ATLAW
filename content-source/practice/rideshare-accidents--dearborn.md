@@ -108,7 +108,7 @@ Our [full checklist](/resources/what-to-do-after-an-accident) covers the first d
 
 **I was a passenger in an Uber that crashed on I-94 in Dearborn. Who pays my medical bills?** Your own auto insurer first, or a policy held by your spouse or a relative you live with; if there is none, the Assigned Claims Plan. Being a paying passenger does not put Uber’s insurer first for your medical bills; it does make the $1 million policy available for your injury claim.
 
-**I drive for Uber from Dearborn and was hit while waiting for a ride on Michigan Avenue. What applies?** In the waiting period the rideshare coverage is only Michigan’s minimum limits, and the Act does not require UM coverage, so your no-fault benefits come from your own policy (or the company’s if yours excludes rideshare use) and your injury claim depends on the other driver’s policy and your own UM coverage.
+**I drive for Uber from Dearborn and was hit while waiting for a ride on Michigan Avenue. What applies?** In the waiting period the rideshare coverage is only the minimum limits the Act requires, and the Act does not require UM coverage, so your no-fault benefits come from your own policy (or the company’s if yours excludes rideshare use) and your injury claim depends on the other driver’s policy and your own UM coverage.
 
 **Does Uber or Lyft have to carry insurance in Michigan?** Yes: $1 million while a ride is accepted or a passenger is on board; $50,000 / $100,000 / $25,000 while the app is on with no ride; nothing while the app is off, when the driver’s personal policy applies.
 

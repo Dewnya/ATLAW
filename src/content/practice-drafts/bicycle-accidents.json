@@ -433,17 +433,7 @@
        },
        {
         "t": "text",
-        "v": " Michigan law allows sidewalk riding unless a local ordinance prohibits it, and a cyclist on a sidewalk must yield to pedestrians and give an audible signal before passing (MCL 257.660(2)). A cyclist riding across a crosswalk has the protections of a pedestrian in many cities’ ordinances, and the driver’s duty to yield at crosswalks applies. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "VERIFY",
-          "v": "attorney said to correct the citation but did not give it; confirm the sidewalk/crosswalk rule is MCL 257.660(2)"
-         }
-        ]
+        "v": " Michigan law allows sidewalk riding unless a local ordinance prohibits it, and a cyclist on a sidewalk must yield to pedestrians and give an audible signal before passing (MCL 257.660c(1)). A cyclist lawfully riding on a sidewalk or across a crosswalk has the rights and responsibilities of a pedestrian (MCL 257.660c(3)), and the driver’s duty to yield at crosswalks applies."
        }
       ],
       [
@@ -1315,8 +1305,8 @@
    }
   ]
  },
- "wordCount": 2845,
- "openItems": 1,
+ "wordCount": 2831,
+ "openItems": 0,
  "source": {
   "file": "B1-19_Michigan-Bicycle-Accident-Lawyer.docx",
   "delivered": "2026-10-12"

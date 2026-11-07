@@ -381,7 +381,7 @@
       },
       {
        "t": "text",
-       "v": " A knockdown by a jumping dog, a fall while fleeing, or a bicycle crash caused by a chasing dog is not covered by the statute. It is a negligence claim, and comparative fault applies. The owner’s knowledge of the dog’s tendencies, a dog off its leash in violation of the City’s ordinance, or a broken fence are the evidence. See our "
+       "v": " A knockdown by a jumping dog, a fall while fleeing, or a bicycle crash caused by a chasing dog is not covered by the statute. It is a negligence claim, and comparative fault applies. The owner’s knowledge of the dog’s tendencies, a dog off its leash in violation of the leash rules, or a broken fence are the evidence. See our "
       },
       {
        "t": "link",
@@ -483,7 +483,7 @@
      "c": [
       {
        "t": "text",
-       "v": "A violation does not create the claim, the statute does that, but a dog loose in violation of the ordinance is evidence in a negligence claim for a non-bite injury, and the County’s license and vaccination records identify an owner who denies the dog is theirs."
+       "v": "A violation does not create the claim, the statute does that, but a dog loose in violation of the leash rules is evidence in a negligence claim for a non-bite injury, and the County’s license and vaccination records identify an owner who denies the dog is theirs."
       }
      ]
     },
@@ -501,7 +501,7 @@
       },
       {
        "t": "text",
-       "v": " Michigan’s Dangerous Animals Act (MCL 287.321 to 287.323) allows a sworn complaint asking the district court to declare a dog that has caused serious injury dangerous. In Troy, Oakland County Animal Control enforces it. A finding is strong evidence in the civil case, but the civil case does not depend on it."
+       "v": " Michigan’s Dangerous Animals Act (MCL 287.321 to 287.323) allows a sworn complaint asking the district court to declare a dog that has caused serious injury dangerous. A finding is strong evidence in the civil case, but the civil case does not depend on it."
       }
      ]
     }
@@ -1132,7 +1132,7 @@
    }
   ]
  },
- "wordCount": 2501,
+ "wordCount": 2494,
  "openItems": 3,
  "source": {
   "file": "B3-66_Troy-Dog-Bite-Lawyer.docx",

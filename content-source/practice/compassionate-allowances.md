@@ -68,6 +68,8 @@ What this means in practice:
 4. **Attach what you have.** You are not required to supply records, but a pathology report, an oncologist’s letter stating the diagnosis and stage, or a genetic test result submitted with the application can turn a weeks-long claim into a days-long one.
 5. **Tell the field office** when you apply that the condition is on the Compassionate Allowances list. The flag can be set manually.
 
+A claim filed to be flagged has all of this in place on the day of filing: the condition named as SSA lists it, the specialist identified, and the pathology or imaging attached.
+
 A claim that was not flagged at filing can be flagged later. If you applied without naming the condition correctly, call Social Security, or have your representative call the DDS examiner, and identify it.
 
 ## Why a listed condition is still sometimes denied
@@ -124,7 +126,6 @@ Fees are set by federal law: the lesser of 25 percent of past-due benefits or $9
 ## Why Michigan families call ATLAW for Compassionate Allowance claims
 
 - **Thirteen years serving clients, more than 10,000 cases.**
-- **Filed to be flagged**: the condition named as SSA lists it, the specialist identified, the pathology attached, on the day of filing. **[CONFIRM: practice]**
 - **Non-medical eligibility checked before filing**, so a terminal diagnosis is not followed by a technical denial.
 - **The family protected**: substitution of party and survivors’ benefits arranged if the worst happens.
 - **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. We meet clients by phone, by video, and at home or in the hospital when travel is not possible.

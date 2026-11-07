@@ -57,7 +57,7 @@ The first conversation is free, in English, Arabic, French, Mandarin, Urdu, or S
 | Minimum carrier insurance | $750,000 general freight; $1 million oil; $5 million hazardous materials | 49 CFR 387.9 |
 | Maximum gross vehicle weight on designated Michigan routes | 164,000 lb (federal Interstate standard: 80,000 lb) | MCL 257.722 |
 
-The State Police count includes trucks over 10,000 pounds and buses. SMART buses on Ford Road, Wayne Road, and Michigan Avenue, and school buses, are part of it. Bus crashes are covered on our [bus accident page](/personal-injury/bus-accidents).
+The State Police count includes trucks over 10,000 pounds and buses. SMART buses on Ford Road and Michigan Avenue, and school buses, are part of it. Bus crashes are covered on our [bus accident page](/personal-injury/bus-accidents).
 
 ## Where Westland truck crashes happen
 

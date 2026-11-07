@@ -616,7 +616,7 @@
      "c": [
       {
        "t": "text",
-       "v": "These benefits are not automatic. Eligible family members must be identified on the application or claim benefits separately, so it is important to ask about every potentially qualifying dependent."
+       "v": "These benefits are not automatic. Eligible family members must be identified on the application or claim benefits separately, so it is important to ask about every potentially qualifying dependent. A disability claim is the occasion to review the whole family’s benefits, not only the worker’s own: children, a spouse, a disabled adult child, and, where a spouse has died, a disabled widow(er) may each have a separate claim."
       }
      ]
     },
@@ -1415,31 +1415,6 @@
         "c": [
          {
           "t": "text",
-          "v": "The whole family’s benefits reviewed"
-         }
-        ]
-       },
-       {
-        "t": "text",
-        "v": ", not only the disability claim: children, spouse, disabled adult child, disabled widow(er). "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "practice"
-         }
-        ]
-       }
-      ],
-      [
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "text",
           "v": "Every level and every deadline"
          }
         ]
@@ -1649,8 +1624,8 @@
    }
   ]
  },
- "wordCount": 2975,
- "openItems": 1,
+ "wordCount": 2996,
+ "openItems": 0,
  "source": {
   "file": "B2-17_Michigan-Social-Security-Benefits-Lawyer.docx",
   "delivered": "2026-10-16"

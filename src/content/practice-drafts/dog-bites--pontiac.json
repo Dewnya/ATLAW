@@ -3,10 +3,10 @@
  "section": "personal-injury",
  "city": "pontiac",
  "status": "draft",
- "seoTitle": "Pontiac, MI Dog Bite Lawyer: Michigan’s Strict Liability Statute, Oakland County Animal Control, Pontiac’s Ordinance, Who Pays, and Children’s Claims",
- "seoDescription": "Bitten by a dog in Pontiac? The owner is liable even if the dog never bit before, and the claim is usually paid by homeowner’s or renter’s insurance. Who to call (Oakland County Animal Control, on the county campus in Pontiac), MCL 287.351, the provocation defense, what Pontiac’s animal ordinance adds, landlords and the Housing Commission, delivery workers, children’s claims, and the deadlines. Free review. (313) 406-7606.",
+ "seoTitle": "Pontiac, MI Dog Bite Lawyer: Michigan’s Strict Liability Statute, Oakland County Animal Control, Local Animal Rules, Who Pays, and Children’s Claims",
+ "seoDescription": "Bitten by a dog in Pontiac? The owner is liable even if the dog never bit before, and the claim is usually paid by homeowner’s or renter’s insurance. Who to call (Oakland County Animal Control, on the county campus in Pontiac), MCL 287.351, the provocation defense, what local animal rules add, landlords and the Housing Commission, delivery workers, children’s claims, and the deadlines. Free review. (313) 406-7606.",
  "h1": "Pontiac, MI Dog Bite Lawyer",
- "tagline": "Michigan’s dog bite statute is one sentence: the owner is liable for a bite without provocation on public property or where the victim is lawfully present, regardless of the dog’s history. In Pontiac the questions are who the owner is, whether they or their landlord are insured, and what the City’s ordinance adds when the injury was not a bite.",
+ "tagline": "Michigan’s dog bite statute is one sentence: the owner is liable for a bite without provocation on public property or where the victim is lawfully present, regardless of the dog’s history. In Pontiac the questions are who the owner is, whether they or their landlord are insured, and what local animal rules add when the injury was not a bite.",
  "primaryKeyword": "pontiac dog bite lawyer (20/mo)",
  "secondaryKeywords": [
   "pontiac dog bite attorney (20)",
@@ -504,29 +504,15 @@
    ]
   },
   {
-   "id": "what-pontiacs-animal-ordinance-adds",
-   "heading": "What Pontiac’s animal ordinance adds",
+   "id": "what-local-animal-rules-add",
+   "heading": "What local animal rules add",
    "blocks": [
     {
      "t": "p",
      "c": [
       {
        "t": "text",
-       "v": "Pontiac’s animal rules are in Chapter 6 of the City Code, with nuisance provisions in Chapter 18. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "VERIFY",
-         "v": "verify the current text and section numbers; the attorney did not verify this; check it against the source before publication"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " As described in published summaries of the code:"
+       "v": "Michigan’s statute decides a bite case, but local animal-control rules, whether a city’s own ordinance or the county rules enforced in it, add requirements of their own. We check the current text of the rules that applied where the bite happened. Rules of this kind typically cover:"
       }
      ]
     },
@@ -539,13 +525,58 @@
         "c": [
          {
           "t": "text",
-          "v": "A broad definition of “owner.”"
+          "v": "Leash and at-large rules."
          }
         ]
        },
        {
         "t": "text",
-        "v": " The ordinance treats as an owner anyone who has a property right in the dog, keeps it on property they own or occupy, has custody or care of it, or knowingly lets the dog and its owner live on their property. That can reach a householder or landlord who is not the dog’s legal owner, for purposes of the ordinance. Under the bite statute, Michigan courts read “owner” more narrowly: the Dog Law’s broader definition, which includes a keeper or harborer, does not apply to the bite statute ("
+        "v": " A dog off its owner’s property must usually be leashed or under control, and a dog running loose is “at large.”"
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Licensing and vaccination."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Local rules build on the state requirement that a dog four months or older be vaccinated against rabies and licensed (MCL 287.266), and the license record identifies an owner who denies the dog is theirs."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Bite reporting and quarantine."
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " A bite must be reported, and the biting dog is confined for the rabies observation period, which creates the official record and surfaces prior complaints."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "A broader definition of “owner.”"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " Local rules often treat a person who keeps or harbors a dog as its owner. Under the bite statute, Michigan courts read “owner” more narrowly: the Dog Law’s broader definition, which includes a keeper or harborer, does not apply to the bite statute ("
        },
        {
         "t": "em",
@@ -560,36 +591,6 @@
         "t": "text",
         "v": ", Mich App 1993)."
        }
-      ],
-      [
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "text",
-          "v": "Responsibility for known behavior."
-         }
-        ]
-       },
-       {
-        "t": "text",
-        "v": " An owner can be held responsible for the dog’s prohibited acts where the owner knew or reasonably should have known the dog was likely to engage in them."
-       }
-      ],
-      [
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "text",
-          "v": "Prohibited acts."
-         }
-        ]
-       },
-       {
-        "t": "text",
-        "v": " Running at large, chasing vehicles, injuring or annoying a person, and bringing a dog onto school grounds."
-       }
       ]
      ]
     },
@@ -598,7 +599,7 @@
      "c": [
       {
        "t": "text",
-       "v": "For a bite victim, the ordinance matters in the same way any local rule does:"
+       "v": "For a bite victim, those rules matter in the same way any local rule does:"
       }
      ]
     },
@@ -611,13 +612,13 @@
         "c": [
          {
           "t": "text",
-          "v": "It does not change the statute."
+          "v": "They do not change the statute."
          }
         ]
        },
        {
         "t": "text",
-        "v": " The owner of any dog is strictly liable under MCL 287.351 for a bite, whatever the ordinance says."
+        "v": " The owner of any dog is strictly liable under MCL 287.351 for a bite, whatever the local rules say."
        }
       ],
       [
@@ -626,13 +627,13 @@
         "c": [
          {
           "t": "text",
-          "v": "It is evidence in a non-bite case."
+          "v": "A violation is evidence in a non-bite case."
          }
         ]
        },
        {
         "t": "text",
-        "v": " A dog running at large, a dog with a history of complaints, or an owner who should have known, is evidence of negligence in a knockdown or chase injury."
+        "v": " A dog running at large in violation of the leash rules, a dog with a history of complaints, or an owner who should have known the dog was dangerous, is evidence of negligence in a knockdown or chase injury. The violation does not create the claim; it helps prove it."
        }
       ],
       [
@@ -641,7 +642,7 @@
         "c": [
          {
           "t": "text",
-          "v": "It can identify another responsible person."
+          "v": "They can identify another responsible person."
          }
         ]
        },
@@ -656,7 +657,7 @@
         "c": [
          {
           "t": "text",
-          "v": "It can produce a dangerous-animal finding."
+          "v": "They can produce a dangerous-animal finding."
          }
         ]
        },
@@ -1319,8 +1320,8 @@
    }
   ]
  },
- "wordCount": 2991,
- "openItems": 5,
+ "wordCount": 3010,
+ "openItems": 4,
  "source": {
   "file": "B3-89_Pontiac-Dog-Bite-Lawyer.docx",
   "delivered": "October 25, 2026 [CONFIRM: Batch 3 delivery date]"

@@ -58,7 +58,7 @@ When a worker receives SSDI, members of the family may receive **auxiliary benef
 - **A spouse** caring for the worker’s child under 16 or disabled, at any age; or a spouse age 62 or older.
 - **A divorced spouse** married to the worker for at least ten years, age 62 or older and unmarried.
 
-These benefits are not automatic. Eligible family members must be identified on the application or claim benefits separately, so it is important to ask about every potentially qualifying dependent.
+These benefits are not automatic. Eligible family members must be identified on the application or claim benefits separately, so it is important to ask about every potentially qualifying dependent. A disability claim is the occasion to review the whole family’s benefits, not only the worker’s own: children, a spouse, a disabled adult child, and, where a spouse has died, a disabled widow(er) may each have a separate claim.
 
 ### Childhood disability benefits (disabled adult child)
 
@@ -129,7 +129,6 @@ Fees for the claim itself are set by federal law: the lesser of 25 percent of pa
 ## Why Michigan families call ATLAW for Social Security benefits
 
 - **Thirteen years serving clients, more than 10,000 cases.**
-- **The whole family’s benefits reviewed**, not only the disability claim: children, spouse, disabled adult child, disabled widow(er). **[CONFIRM: practice]**
 - **Every level and every deadline**, from application to federal court.
 - **After approval too**: reviews, overpayments, work incentives, and offsets.
 - **Michigan’s hearing offices.** We appear at Michigan hearing offices across the state, including Detroit, Oak Park, and Livonia, and at hearings held by video or phone.

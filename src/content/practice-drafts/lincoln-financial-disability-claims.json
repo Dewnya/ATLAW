@@ -654,6 +654,15 @@
      "c": [
       {
        "t": "text",
+       "v": "The second-level question, mandatory or voluntary, should be answered before the first appeal is filed, because the answer determines whether the record stays open after the first decision and when suit can be brought."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
        "v": "Whichever path is taken, the first appeal is built as if it were the only one: the complete record, the treating-physician responses, the vocational evidence, the procedural objections. A thin first appeal that relies on the second to fix it is a gamble on the insurer’s generosity."
       }
      ]
@@ -1195,31 +1204,6 @@
         "c": [
          {
           "t": "text",
-          "v": "The second-level question answered before the first appeal is filed."
-         }
-        ]
-       },
-       {
-        "t": "text",
-        "v": " "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "practice"
-         }
-        ]
-       }
-      ],
-      [
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "text",
           "v": "The first appeal built as the only one"
          }
         ]
@@ -1427,8 +1411,8 @@
    }
   ]
  },
- "wordCount": 3255,
- "openItems": 1,
+ "wordCount": 3277,
+ "openItems": 0,
  "source": {
   "file": "B2-24_Lincoln-Financial-Disability-Denial-Lawyer.docx",
   "delivered": "2026-10-16"

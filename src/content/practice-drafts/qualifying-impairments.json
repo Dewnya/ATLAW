@@ -1701,6 +1701,15 @@
      "t": "p",
      "c": [
       {
+       "t": "text",
+       "v": "Both paths should be evaluated from the start of a claim: whether the records meet or can equal a listing, and what RFC and grid rule would apply if they do not. The two paths call for different evidence, and a claim that cannot meet a listing is still won or lost on the second."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
        "t": "strong",
        "c": [
         {
@@ -1808,31 +1817,6 @@
          {
           "t": "text",
           "v": "Thirteen years serving clients, more than 10,000 cases."
-         }
-        ]
-       }
-      ],
-      [
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "text",
-          "v": "Both paths evaluated from the start"
-         }
-        ]
-       },
-       {
-        "t": "text",
-        "v": ": whether your records meet or can equal a listing, and what RFC and grid rule apply if they do not. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "practice"
          }
         ]
        }
@@ -2037,8 +2021,8 @@
    }
   ]
  },
- "wordCount": 3817,
- "openItems": 4,
+ "wordCount": 3844,
+ "openItems": 3,
  "source": {
   "file": "B2-16_Conditions-That-Qualify-for-Disability-Michigan.docx",
   "delivered": "2026-10-16"

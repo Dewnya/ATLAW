@@ -63,6 +63,8 @@ Lincoln’s letters commonly offer a second review. The questions, in order:
 2. **If voluntary, is it worth taking?** A voluntary second appeal is another chance to add evidence to the record before court, and the limitation period is tolled while it is pending. It also costs months. It is usually worth taking when there is significant evidence still to add, and not when the record is complete and the insurer’s position is fixed.
 3. **What does the contractual limitation period say?** Lincoln’s policies, like most, set a period for filing suit measured from when proof of claim was due. Under *Heimeshoff*, it is enforceable. The period is calculated at the first denial, and the appeal strategy is built around it.
 
+The second-level question, mandatory or voluntary, should be answered before the first appeal is filed, because the answer determines whether the record stays open after the first decision and when suit can be brought.
+
 Whichever path is taken, the first appeal is built as if it were the only one: the complete record, the treating-physician responses, the vocational evidence, the procedural objections. A thin first appeal that relies on the second to fix it is a gamble on the insurer’s generosity.
 
 ## The ERISA rules Lincoln must follow
@@ -130,7 +132,6 @@ Long-term disability appeals and lawsuits are handled on a contingency basis: no
 ## Why Michigan claimants call ATLAW for Lincoln and Liberty Mutual denials
 
 - **Thirteen years serving clients, more than 10,000 cases.**
-- **The second-level question answered before the first appeal is filed.** **[CONFIRM: practice]**
 - **The first appeal built as the only one**, with the record complete before Lincoln closes it.
 - **Social Security and LTD coordinated**, including the estimated offset.
 - **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.

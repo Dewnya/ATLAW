@@ -870,7 +870,7 @@
      "c": [
       {
        "t": "text",
-       "v": "A denial that discounts the treating physician without a stated reason, disregards a Social Security award, rests on a single-condition file review, or declines an examination the plan permitted is a denial that departs from what Unum agreed to do in 2004. In an ERISA appeal, that departure is documented, not argued; the appeal states what the file shows and lets the court compare it to the standard Unum itself accepted."
+       "v": "A denial that discounts the treating physician without a stated reason, disregards a Social Security award, rests on a single-condition file review, or declines an examination the plan permitted is a denial that departs from what Unum agreed to do in 2004. The denial letter is read against the standard Unum itself accepted in 2004, and each departure is documented in the record. In an ERISA appeal, that departure is documented, not argued; the appeal states what the file shows and lets the court compare it to the standard Unum itself accepted."
       }
      ]
     }
@@ -1442,31 +1442,6 @@
         "c": [
          {
           "t": "text",
-          "v": "The denial read against the standard Unum itself accepted in 2004"
-         }
-        ]
-       },
-       {
-        "t": "text",
-        "v": ", and the departures documented in the record. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "practice"
-         }
-        ]
-       }
-      ],
-      [
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "text",
           "v": "The appeal built as the trial it is"
          }
         ]
@@ -1672,8 +1647,8 @@
    }
   ]
  },
- "wordCount": 3329,
- "openItems": 3,
+ "wordCount": 3331,
+ "openItems": 2,
  "source": {
   "file": "B2-25_Unum-Disability-Denial-Lawyer.docx",
   "delivered": "2026-10-16"

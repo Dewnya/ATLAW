@@ -101,7 +101,7 @@ Fall suits over $25,000 are filed in the Third Judicial Circuit Court in Detroit
 
 **I fell on the stairs at my apartment. Can I sue my landlord?** Michigan landlords must keep common areas fit for their intended use and the premises in reasonable repair. A broken step, a missing handrail, or an unlit stairwell the landlord knew about is a claim.
 
-**How long do I have?** Three years to sue a private owner; 120 days for written notice to the City, the Housing Commission, or Henry Ford College; six months for UM-Dearborn or the State. The footage disappears far sooner.
+**How long do I have?** Three years to sue a private owner; 120 days for written notice to the City, the Housing Commission, or Henry Ford College; 120 days for UM-Dearborn or the State. The footage disappears far sooner.
 
 ## Talk to a Dearborn slip and fall lawyer
 

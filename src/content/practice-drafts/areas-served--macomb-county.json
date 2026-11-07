@@ -665,7 +665,7 @@
        [
         {
          "t": "text",
-         "v": "Claims against the State of Michigan and MDOT; notice within 6 months (MCL 600.6431)"
+         "v": "Road-defect claims against MDOT, with written notice filed with the Court of Claims within 120 days (MCL 691.1404); other injury claims against the State of Michigan, with notice within 6 months (MCL 600.6431)"
         }
        ]
       ],
@@ -1243,7 +1243,27 @@
        [
         {
          "t": "text",
-         "v": "Claim against MDOT or the State"
+         "v": "Road defect against MDOT"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Written notice filed with the Court of Claims within 120 days"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 691.1404"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Other injury claim against the State"
         }
        ],
        [
@@ -1510,7 +1530,7 @@
    }
   ]
  },
- "wordCount": 2383,
+ "wordCount": 2416,
  "openItems": 0,
  "source": {
   "file": "B2-32_Macomb-County-Personal-Injury-Lawyers.docx",

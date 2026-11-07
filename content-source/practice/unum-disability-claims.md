@@ -69,7 +69,7 @@ The Regulatory Settlement Agreements did not simply fine Unum. They required spe
 
 **[VERIFY: summary of RSA claims-handling provisions against the agreement text; the attorney did not verify this; check it against the source before publication]**
 
-A denial that discounts the treating physician without a stated reason, disregards a Social Security award, rests on a single-condition file review, or declines an examination the plan permitted is a denial that departs from what Unum agreed to do in 2004. In an ERISA appeal, that departure is documented, not argued; the appeal states what the file shows and lets the court compare it to the standard Unum itself accepted.
+A denial that discounts the treating physician without a stated reason, disregards a Social Security award, rests on a single-condition file review, or declines an examination the plan permitted is a denial that departs from what Unum agreed to do in 2004. The denial letter is read against the standard Unum itself accepted in 2004, and each departure is documented in the record. In an ERISA appeal, that departure is documented, not argued; the appeal states what the file shows and lets the court compare it to the standard Unum itself accepted.
 
 ## The ERISA rules Unum must follow
 
@@ -140,7 +140,6 @@ Long-term disability appeals and lawsuits are handled on a contingency basis: no
 ## Why Michigan claimants call ATLAW for Unum denials
 
 - **Thirteen years serving clients, more than 10,000 cases.**
-- **The denial read against the standard Unum itself accepted in 2004**, and the departures documented in the record. **[CONFIRM: practice]**
 - **The appeal built as the trial it is**, with the claim file read first.
 - **Individual professional policies handled under Michigan law**, with a jury and penalty interest, where ERISA does not apply.
 - **Social Security and LTD coordinated.**

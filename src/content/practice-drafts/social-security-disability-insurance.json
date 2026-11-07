@@ -527,6 +527,15 @@
      "c": [
       {
        "t": "text",
+       "v": "Insured status and the date last insured are checked from the earnings record before anything else, so that the claim is filed as SSDI, SSI, or both, with no technical denial in between."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
        "v": "The exception is "
       },
       {
@@ -1461,31 +1470,6 @@
         "c": [
          {
           "t": "text",
-          "v": "Confirms insured status and the date last insured before anything else"
-         }
-        ]
-       },
-       {
-        "t": "text",
-        "v": ", from your earnings record, so that the claim is filed as SSDI, SSI, or both, with no technical denial in between. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "CONFIRM",
-          "v": "practice"
-         }
-        ]
-       }
-      ],
-      [
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "text",
           "v": "Sets the onset date"
          }
         ]
@@ -1801,8 +1785,8 @@
    }
   ]
  },
- "wordCount": 3019,
- "openItems": 1,
+ "wordCount": 3018,
+ "openItems": 0,
  "source": {
   "file": "B2-18_Michigan-SSDI-Lawyer.docx",
   "delivered": "2026-10-16"

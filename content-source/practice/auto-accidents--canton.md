@@ -25,7 +25,7 @@ ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parkla
 | --- | --- | --- |
 | Canton Township crashes / people injured / killed | 1,961 / 550 / 4 | MSP Michigan Traffic Crash Facts, community profile |
 | Ford Road at Lilley, Canton | 64 crashes, 12 injuries in 2025; seventh among Wayne County intersections | MSP 2025 crash data, as compiled and reported September 2026 |
-| Wayne County crashes / injured / killed | 50,355 / 16,458 / 177 | MSP, Michigan Traffic Crash Facts 2024 |
+| Wayne County crashes / injured / killed | 50,355 / 16,458 / 177 | Michigan Traffic Crash Facts 2024, Wayne County |
 | Wayne County deaths per 1,000 crashes | 3.5 (Michigan: 3.8) | Calculated from MSP 2024 figures |
 | Wayne County pedestrian-involved crashes | 637 (40 fatal) | MSP, Pedestrian Crash Report 2020–2024 |
 | Wayne County crashes involving trucks and buses | 3,916 | MSP, Heavy Trucks and Buses 2024 |

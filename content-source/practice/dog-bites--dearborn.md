@@ -107,7 +107,7 @@ Dog bite suits over $25,000 are filed in the Third Judicial Circuit Court in Det
 
 **What counts as provocation?** Conduct that would provoke a dog, judged objectively: hitting, teasing, cornering, stepping on it. Petting a dog, walking past it, or entering a yard with permission is not provocation.
 
-**Do I have to report the bite?** Yes, to Dearborn Animal Control through the Police Department. The report starts the rabies observation and creates the record of the dog’s history. Your doctor is also required to report it.
+**Do I have to report the bite?** Yes, to Dearborn Animal Control through the City at 311. The report starts the rabies observation and creates the record of the dog’s history. Your doctor must also report it if rabies is suspected.
 
 ## Talk to a Dearborn dog bite lawyer
 

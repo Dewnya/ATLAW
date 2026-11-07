@@ -94,13 +94,14 @@ See our [Ann Arbor truck accident page](/personal-injury/truck-accidents/ann-arb
 
 **Football Saturdays and big events.** Home games at Michigan Stadium bring crowds of more than 100,000 people into the stadium neighborhood. Streets close, shuttles run, and pedestrians fill roads not built for them. The crashes are pedestrians struck in the crowds, drivers leaving tailgates and bars after drinking, and congestion crashes on Main, Stadium, and the freeways.
 
-## Whose road it is: the City, MDOT, or the University
+## Whose road it is: the City, MDOT, the University, or the Washtenaw County Road Commission
 
 Ann Arbor is a city and owns its streets, but four public owners share the roads:
 
 - **The City of Ann Arbor** owns the city streets and sidewalks. A claim for a road, signal, or sidewalk defect requires written notice within 120 days (MCL 691.1402, 691.1402a, 691.1404).
 - **MDOT** owns I-94, US-23, M-14, and any state trunkline routes through the city. A road-defect claim goes to the Court of Claims, with written notice filed there within 120 days (MCL 691.1404).
 - **The University of Michigan** owns its campus roads, drives, and parking structures. A claim against it is a claim against the State (see below).
+- **The Washtenaw County Road Commission** owns the county’s primary and local roads outside the city limits.
 
 ## When the other vehicle belongs to the University of Michigan
 

@@ -85,7 +85,7 @@ Dog bite suits over $25,000 are filed in the Third Judicial Circuit Court at the
 | --- | --- | --- |
 | Medical care and animal control report | Same day | Public health rules; the evidence |
 | FOIA request for the animal control bite report and prior complaints | Within weeks | Practice |
-| Claim against the Detroit Housing Commission as landlord | Written notice within 120 days, for qualifying public-building claims | MCL 691.1406 |
+| Claim against the Detroit Housing Commission as landlord | Usually barred by governmental immunity | MCL 691.1406 |
 | Workers’ compensation notice (bitten on the job) | 90 days | MCL 418.381(1) |
 | Suit against the owner or landlord, adult victim | 3 years from the bite | MCL 600.5805(2) |
 | Suit for a child bitten as a minor | 19th birthday | MCL 600.5851(1) |
@@ -113,7 +113,7 @@ Dog bite suits over $25,000 are filed in the Third Judicial Circuit Court at the
 
 **I was bitten delivering packages in Detroit. Is that a comp case or a dog bite case?** Both. Workers’ compensation pays your medical bills and wage loss; the owner is liable under the statute for your pain, suffering, and scarring; and the comp insurer is reimbursed from the recovery.
 
-**Do I have to report the bite?** Yes, to Detroit Animal Care and Control. The report starts the rabies observation and creates the record of the dog’s history. Your doctor is also required to report it.
+**Do I have to report the bite?** Yes, to Detroit Animal Care and Control. The report starts the rabies observation and creates the record of the dog’s history. Your doctor must also report it if rabies is suspected.
 
 ## Talk to a Detroit dog bite lawyer
 

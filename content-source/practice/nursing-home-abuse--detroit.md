@@ -3,10 +3,10 @@ slug: nursing-home-abuse
 section: personal-injury
 city: detroit
 status: draft
-seoTitle: Detroit Nursing Home Abuse Lawyer: Neglect, Bedsores, Falls, and the Two Deadlines in Detroit’s 28 Nursing Homes
+seoTitle: Detroit Nursing Home Abuse Lawyer: Neglect, Bedsores, Falls, and the Two Deadlines in Detroit’s 23 Nursing Homes
 seoDescription: Suspect abuse or neglect in a Detroit nursing home? ATLAW’s Dearborn nursing home abuse lawyers explain the federal and Michigan rules facilities must follow, where to report today (APS, LARA, the Ombudsman), how to read a Detroit facility’s inspection record, the two-year and three-year deadlines, and what the arbitration clause means. Free review. (313) 406-7606.
 h1: Detroit Nursing Home Abuse Lawyer
-tagline: Detroit has 28 Medicare-certified nursing homes, and every one of them documents its own failures in a chart the family rarely sees. Michigan gives the family two years for some claims and three for others; the difference is a year, and it is decided by the facts.
+tagline: Detroit has 23 Medicare-certified nursing homes, and every one of them documents its own failures in a chart the family rarely sees. Michigan gives the family two years for some claims and three for others; the difference is a year, and it is decided by the facts.
 primaryKeyword: detroit nursing home abuse lawyer (30/mo)
 secondaryKeywords: nursing home abuse lawyer detroit (20), detroit nursing home abuse attorney (20), detroit nursing home neglect lawyer (20), nursing home neglect lawyer detroit (20), detroit nursing home lawyer (20)
 source: B2-71_Detroit-Nursing-Home-Abuse-Lawyer.docx
@@ -15,7 +15,7 @@ delivered: 2026-10-16
 
 ## Detroit Nursing Home Abuse Lawyer
 
-A Detroit nursing home resident who develops a stage 4 pressure sore, falls three times in a month, loses twenty pounds, or is found outside the building in January was not unlucky. Each of those events is one that federal and Michigan regulations require the facility to prevent, and each is documented, by the facility itself, in a chart the family rarely sees until a lawyer asks for it. Detroit’s 28 Medicare-certified nursing homes are inspected by the State, rated by Medicare, and sued in the Third Judicial Circuit Court like any other defendant, with two complications: the claim may be medical malpractice, with a shorter deadline and a cap, or ordinary negligence, with neither; and the admission packet the family signed probably contained an arbitration clause.
+A Detroit nursing home resident who develops a stage 4 pressure sore, falls three times in a month, loses twenty pounds, or is found outside the building in January was not unlucky. Each of those events is one that federal and Michigan regulations require the facility to prevent, and each is documented, by the facility itself, in a chart the family rarely sees until a lawyer asks for it. Detroit’s 23 Medicare-certified nursing homes are inspected by the State, rated by Medicare, and sued in the Third Judicial Circuit Court like any other defendant, with two complications: the claim may be medical malpractice, with a shorter deadline and a cap, or ordinary negligence, with neither; and the admission packet the family signed probably contained an arbitration clause.
 
 ATLAW is a personal injury firm at 3 Parklane Boulevard in Dearborn, minutes from downtown Detroit. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients. Our [Michigan nursing home abuse lawyer page](/personal-injury/nursing-home-abuse) covers the regulations, the warning signs, and the two deadlines in full, and our [Detroit page](/areas-served/detroit) covers every kind of injury claim in the city; this page covers what is particular about a Detroit facility and a Detroit claim; suburban facilities are covered on our [Wayne County page](/areas-served/wayne-county), and the claim process generally on our [Detroit personal injury lawyer page](/personal-injury/detroit). The first conversation is free: **(313) 406-7606**.
 
@@ -29,13 +29,13 @@ ATLAW is a personal injury firm at 3 Parklane Boulevard in Dearborn, minutes fro
 | Deadline, medical malpractice claims | 2 years, with a 182-day Notice of Intent | MCL 600.5805(8), 600.2912b |
 | Deadline, ordinary negligence claims | 3 years | MCL 600.5805(2) |
 | 2026 cap on noneconomic damages, malpractice claims only | $596,400 / $1,065,000 | MCL 600.1483 |
-| Window to rescind an arbitration agreement | 30 days from signing | 42 CFR 483.70(n) |
+| Window to rescind an arbitration agreement | 30 days from signing | 42 CFR 483.70(m) |
 
 A facility’s staffing rating is closely linked to neglect: understaffed facilities produce pressure sores, falls, and dehydration. Before a family chooses a Detroit facility, and before a lawyer values a claim against one, the Care Compare record, the Special Focus Facility list, and LARA’s inspection reports are read first.
 
 ## The rules a Detroit facility must follow
 
-**Federal regulations** (42 CFR Part 483) set the standard of care for every Medicare- and Medicaid-certified facility, which includes all 28 in Detroit. A resident has the right to be free from abuse, neglect, exploitation, and restraints used for discipline or convenience (483.12). The facility must ensure that a resident who enters without pressure sores does not develop them unless clinically unavoidable, and that existing sores are treated (483.25(b)); keep the environment free of accident hazards and provide the supervision and devices needed to prevent falls (483.25(d)); maintain nutrition and hydration (483.25(g)); manage medications without significant error (483.45); and have sufficient staff to meet residents’ needs (483.35). The facility’s own care plan for each resident (483.21) is the measure of whether it did.
+**Federal regulations** (42 CFR Part 483) set the standard of care for every Medicare- and Medicaid-certified facility, which includes all 23 in Detroit. A resident has the right to be free from abuse, neglect, exploitation, and restraints used for discipline or convenience (483.12). The facility must ensure that a resident who enters without pressure sores does not develop them unless clinically unavoidable, and that existing sores are treated (483.25(b)); keep the environment free of accident hazards and provide the supervision and devices needed to prevent falls (483.25(d)); maintain nutrition and hydration (483.25(g)); manage medications without significant error (483.45); and have sufficient staff to meet residents’ needs (483.35). The facility’s own care plan for each resident (483.21) is the measure of whether it did.
 
 **Michigan’s Public Health Code** gives every nursing home resident a bill of rights (MCL 333.20201): adequate and appropriate care, freedom from mental and physical abuse and from restraints except on a physician’s order, and notice to a family member or representative of changes in condition. Michigan licenses and inspects nursing homes through the Department of Licensing and Regulatory Affairs (LARA), which investigates complaints and can cite, fine, and in serious cases close a facility. A facility must report abuse and neglect to the State and investigate internally (MCL 333.21771), and health professionals and staff must report suspected abuse of a vulnerable adult to Adult Protective Services (MCL 400.11a). Abuse of a vulnerable adult is also a crime (MCL 750.145m to 750.145r), prosecuted in Wayne County and by the Attorney General’s Health Care Fraud Division.
 
@@ -97,7 +97,7 @@ The injury (a stage 4 sore requiring surgery, a hip fracture, sepsis, death); wh
 | What | When | Source |
 | --- | --- | --- |
 | APS, LARA, and Ombudsman reports; photographs; records request | Today | MCL 400.11a, 333.21771 |
-| Rescinding an arbitration agreement | 30 days from signing | 42 CFR 483.70(n) |
+| Rescinding an arbitration agreement | 30 days from signing | 42 CFR 483.70(m) |
 | Malpractice claims (nursing and physician judgment) | 2 years, with Notice of Intent 182 days before filing | MCL 600.5805(8), 600.2912b |
 | Ordinary negligence claims (care plan not followed, supervision, staffing) | 3 years | MCL 600.5805(2) |
 | Wrongful death | Per the underlying claim, with the estate’s savings provision | MCL 600.2922, 600.5852 |

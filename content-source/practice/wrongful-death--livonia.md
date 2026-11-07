@@ -26,7 +26,7 @@ ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parkla
 | People killed in Livonia crashes, 2024 | 10 | MSP, Michigan Traffic Crash Facts 2024, Wayne County |
 | People killed in Wayne County crashes, 2024 | 177 (Oakland: 68; Macomb: 70) | MSP, Michigan Traffic Crash Facts 2024 |
 | Wayne County deaths per 1,000 crashes, 2024 | 3.5 (Michigan: 3.8; Oakland: 1.9) | Calculated from MSP 2024 figures |
-| Wayne County pedestrian-involved crashes, 2020–2024 | 637, 40 of them fatal | MSP, Pedestrian Crash Report |
+| Wayne County pedestrian-involved crashes, 2024 | 637, 40 of them fatal | MSP, Pedestrian Crash Report |
 | Wayne County crashes involving trucks and buses, 2024 | 3,916 | MSP 2024 |
 | People killed in heavy truck and bus crashes, Michigan, 2024 | 110 | MSP, Heavy Trucks and Buses 2024 |
 | Middlebelt at Schoolcraft, Livonia, 2024 | 95 crashes; second among Wayne County intersections | MSP 2024 crash data, as compiled and reported |

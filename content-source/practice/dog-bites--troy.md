@@ -43,7 +43,7 @@ The national figures matter for one reason: dog bite claims are a routine, insur
 
 **Comparative fault.** Michigan courts have held that the general comparative-fault rule does not reduce a claim under the dog bite statute; the owner’s defenses are limited to trespass and provocation (*Hill v Sacka*, Mich App 2003).
 
-**Injuries without a bite.** A knockdown by a jumping dog, a fall while fleeing, or a bicycle crash caused by a chasing dog is not covered by the statute. It is a negligence claim, and comparative fault applies. The owner’s knowledge of the dog’s tendencies, a dog off its leash in violation of the City’s ordinance, or a broken fence are the evidence. See our [bicycle accident page](/personal-injury/bicycle-accidents) and [Troy slip and fall page](/personal-injury/slip-and-fall/troy).
+**Injuries without a bite.** A knockdown by a jumping dog, a fall while fleeing, or a bicycle crash caused by a chasing dog is not covered by the statute. It is a negligence claim, and comparative fault applies. The owner’s knowledge of the dog’s tendencies, a dog off its leash in violation of the leash rules, or a broken fence are the evidence. See our [bicycle accident page](/personal-injury/bicycle-accidents) and [Troy slip and fall page](/personal-injury/slip-and-fall/troy).
 
 ## Who handles a Troy dog bite: Oakland County, not the City
 
@@ -53,9 +53,9 @@ The report starts the rabies observation, creates the official record, and surfa
 
 **Licensing and the City’s rules.** Michigan law requires dogs four months or older to be vaccinated against rabies and licensed (MCL 287.266(1), (8)). Troy’s animal ordinance is Chapter 90 of the City Code.
 
-A violation does not create the claim, the statute does that, but a dog loose in violation of the ordinance is evidence in a negligence claim for a non-bite injury, and the County’s license and vaccination records identify an owner who denies the dog is theirs.
+A violation does not create the claim, the statute does that, but a dog loose in violation of the leash rules is evidence in a negligence claim for a non-bite injury, and the County’s license and vaccination records identify an owner who denies the dog is theirs.
 
-**Dangerous dogs.** Michigan’s Dangerous Animals Act (MCL 287.321 to 287.323) allows a sworn complaint asking the district court to declare a dog that has caused serious injury dangerous. In Troy, Oakland County Animal Control enforces it. A finding is strong evidence in the civil case, but the civil case does not depend on it.
+**Dangerous dogs.** Michigan’s Dangerous Animals Act (MCL 287.321 to 287.323) allows a sworn complaint asking the district court to declare a dog that has caused serious injury dangerous. A finding is strong evidence in the civil case, but the civil case does not depend on it.
 
 ## Who pays in Troy
 

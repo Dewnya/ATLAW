@@ -342,7 +342,7 @@
       },
       {
        "t": "text",
-       "v": ", the claim proceeds under the public building exception to governmental immunity (MCL 691.1406), with written notice within 120 days of hiring a lawyer; suit within 2 years. Where the property is owned by the Detroit Land Bank Authority, the agency’s public status and the specific property conditions must be considered when determining whether a claim is available and what notice requirements may apply."
+       "v": ", the claim must fit the public building exception to governmental immunity (MCL 691.1406), with written notice within 120 days of hiring a lawyer; suit within 2 years. Where the property is owned by the Detroit Land Bank Authority, the agency’s public status and the specific property conditions must be considered when determining whether a claim is available and what notice requirements may apply."
       }
      ]
     },
@@ -373,7 +373,7 @@
       },
       {
        "t": "text",
-       "v": ", owed the highest duty: the owner must inspect, fix what it finds, and warn of what it cannot fix. The case is decided on "
+       "v": ", owed the highest duty: the owner must exercise reasonable care under the circumstances. The case is decided on "
       },
       {
        "t": "strong",
@@ -404,7 +404,7 @@
       },
       {
        "t": "text",
-       "v": " Ford Field, Comerica Park, Little Caesars Arena, the Fox, the three casinos, Huntington Place, the Riverwalk, and the bars of Greektown and Corktown. These are high-traffic premises with extensive surveillance, which cuts both ways: the footage exists, and it is overwritten on a schedule. Some Detroit venues involve public authorities and private operators. Comerica Park is associated with the Detroit-Wayne County Stadium Authority, while the Detroit Regional Convention Facility Authority oversees Huntington Place under a long-term lease from the City. When a fall occurs at one of these venues, the responsible property owner, operator, and applicable governmental-immunity rules must be identified before determining whether a claim is available. Falls at bars that over-served the patron who fell, or who caused the fall, can add a dram shop claim (MCL 436.1801). See our "
+       "v": " Ford Field, Comerica Park, Little Caesars Arena, the Fox, the three casinos, Huntington Place, the Riverwalk, and the bars of Greektown and Corktown. These are high-traffic premises with extensive surveillance, which cuts both ways: the footage exists, and it is overwritten on a schedule. Some Detroit venues involve public authorities and private operators. Comerica Park is associated with the Detroit-Wayne County Stadium Authority, while the Detroit Regional Convention Facility Authority oversees Huntington Place under a long-term lease from the City. When a fall occurs at one of these venues, the responsible property owner, operator, and applicable governmental-immunity rules must be identified before determining whether a claim is available. Falls at bars that over-served the patron who caused the fall can add a dram shop claim (MCL 436.1801). See our "
       },
       {
        "t": "link",
@@ -454,7 +454,7 @@
       },
       {
        "t": "text",
-       "v": " Recreation centers, libraries, the Coleman A. Young Municipal Center, DDOT terminals, and the People Mover stations. A fall caused by a dangerous condition of a public building is a claim under MCL 691.1406 with 120-day notice. Belle Isle has been a state park since 2014, so a fall there is a claim against the Michigan Department of Natural Resources in the Court of Claims, with written notice within 120 days (MCL 691.1406); a claim against the State also needs the Court of Claims notice within six months (MCL 600.6431(4)). Parks and open land are generally not “buildings,” and the exceptions are read narrowly."
+       "v": " Recreation centers, libraries, the Coleman A. Young Municipal Center, DDOT terminals, and the People Mover stations. A fall caused by a dangerous condition of a public building is a claim under MCL 691.1406 with 120-day notice. Belle Isle has been a state park since 2014, so a fall there is a claim against the Michigan Department of Natural Resources in the Court of Claims, with written notice within 120 days (MCL 691.1406); a claim against the State is filed in the Court of Claims, with the same 120-day written notice. Parks and open land are generally not “buildings,” and the exceptions are read narrowly."
       }
      ]
     },
@@ -712,7 +712,7 @@
        },
        {
         "t": "text",
-        "v": " Surveillance footage is commonly overwritten in 7 to 30 days; a preservation letter stops that. If the City, the Housing Commission, a public authority, or the State may be involved, the 120-day or six-month clock is already running."
+        "v": " Surveillance footage is commonly overwritten in 7 to 30 days; a preservation letter stops that. If the City, the Housing Commission, a public authority, or the State may be involved, the 120-day clock is already running."
        }
       ]
      ]
@@ -876,13 +876,13 @@
        [
         {
          "t": "text",
-         "v": "Court of Claims notice within 6 months"
+         "v": "Written notice within 120 days, filed with the Court of Claims"
         }
        ],
        [
         {
          "t": "text",
-         "v": "MCL 600.6431"
+         "v": "MCL 691.1406"
         }
        ]
       ],
@@ -1030,7 +1030,7 @@
    "answer": [
     {
      "t": "text",
-     "v": "Possibly. Since the Michigan Supreme Court’s 2023 decision, an obvious hazard no longer ends the case. The questions are whether the store should have salted or cleared it, whether you had a realistic alternative route, and how much of the fault is yours. If you are found less than 50 percent at fault, you recover, reduced by your share."
+     "v": "Possibly. Since the Michigan Supreme Court’s 2023 decision, an obvious hazard no longer ends the case. The questions are whether the store should have salted or cleared it, whether you had a realistic alternative route, and how much of the fault is yours. If you are found 50 percent or less at fault, you recover, reduced by your share. Above 50 percent, you can still recover economic damages, reduced, but not pain and suffering (MCL 600.2959)."
     }
    ]
   },
@@ -1048,7 +1048,7 @@
    "answer": [
     {
      "t": "text",
-     "v": "Michigan landlords must keep common areas fit for their intended use and the premises in reasonable repair. A broken step, a missing handrail, or an unlit stairwell the landlord knew about is a claim. If the landlord is the Detroit Housing Commission, the claim proceeds under the public building exception with 120-day notice."
+     "v": "Michigan landlords must keep common areas fit for their intended use and the premises in reasonable repair. A broken step, a missing handrail, or an unlit stairwell the landlord knew about is a claim. If the landlord is the Detroit Housing Commission, the claim must fit the public building exception with 120-day notice."
     }
    ]
   },
@@ -1057,7 +1057,7 @@
    "answer": [
     {
      "t": "text",
-     "v": "Three years to sue a private owner or business; 120 days to give written notice to the City of Detroit, the Housing Commission, or a public authority; six months for the State. The footage that proves the case disappears far sooner."
+     "v": "Three years to sue a private owner or business; 120 days to give written notice to the City of Detroit, the Housing Commission, or a public authority; 120 days for the State. The footage that proves the case disappears far sooner."
     }
    ]
   },
@@ -1131,7 +1131,7 @@
    }
   ]
  },
- "wordCount": 2737,
+ "wordCount": 2748,
  "openItems": 0,
  "source": {
   "file": "B2-65_Detroit-Slip-and-Fall-Lawyer.docx",

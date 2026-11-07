@@ -829,7 +829,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Many admission packets include an agreement to arbitrate. A certified facility may not require it as a condition of admission, must explain it in a way the resident or representative understands, and must allow rescission within 30 days (42 CFR 483.70(n)). An agreement signed by a family member without legal authority to bind the resident, such as a power of attorney or guardianship, is generally not enforceable against the resident or the estate. Assisted living agreements are not covered by the federal rule and must be read on their own terms. An enforceable agreement changes the forum, not the claim."
+       "v": "Many admission packets include an agreement to arbitrate. A certified facility may not require it as a condition of admission, must explain it in a way the resident or representative understands, and must allow rescission within 30 days (42 CFR 483.70(m)). An agreement signed by a family member without legal authority to bind the resident, such as a power of attorney or guardianship, is generally not enforceable against the resident or the estate. Assisted living agreements are not covered by the federal rule and must be read on their own terms. An enforceable agreement changes the forum, not the claim."
       }
      ]
     }
@@ -898,7 +898,7 @@
        [
         {
          "t": "text",
-         "v": "42 CFR 483.70(n)"
+         "v": "42 CFR 483.70(m)"
         }
        ]
       ],

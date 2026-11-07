@@ -745,7 +745,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Many admission packets include an agreement to arbitrate. A facility may not require it as a condition of admission, must explain it in a way the resident understands, and must allow rescission within 30 days (42 CFR 483.70(n)). An agreement signed by a family member without legal authority, a power of attorney or guardianship, to bind the resident is generally not enforceable against the resident or the estate; and an agreement explained only in a language the signer did not read raises its own question. An enforceable agreement changes the forum, not the claim."
+       "v": "Many admission packets include an agreement to arbitrate. A facility may not require it as a condition of admission, must explain it in a way the resident understands, and must allow rescission within 30 days (42 CFR 483.70(m)). An agreement signed by a family member without legal authority, a power of attorney or guardianship, to bind the resident is generally not enforceable against the resident or the estate; and an agreement explained only in a language the signer did not read raises its own question. An enforceable agreement changes the forum, not the claim."
       }
      ]
     }
@@ -814,7 +814,7 @@
        [
         {
          "t": "text",
-         "v": "42 CFR 483.70(n)"
+         "v": "42 CFR 483.70(m)"
         }
        ]
       ],

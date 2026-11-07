@@ -718,7 +718,7 @@
      "c": [
       {
        "t": "text",
-       "v": "The administrative appeal is the trial. The federal judge who eventually reviews the claim will read the file as the insurer closed it and, in most cases, ask only whether the denial was arbitrary and capricious. The appeal therefore has to do two things at once: prove the disability, and prove that the insurer’s process was unreasonable."
+       "v": "The administrative appeal is the trial. The federal judge who eventually reviews the claim will read the file as the insurer closed it and, in most cases, ask only whether the denial was arbitrary and capricious. The appeal therefore has to do two things at once: prove the disability, and prove that the insurer’s process was unreasonable. The complete claim file should be requested first, before the appeal is written, and the appeal built with the record a court may later review in mind."
       }
      ]
     },
@@ -1152,21 +1152,6 @@
         "c": [
          {
           "t": "text",
-          "v": "The complete claim file first"
-         }
-        ]
-       },
-       {
-        "t": "text",
-        "v": ", and the appeal built with the record a court may later review in mind."
-       }
-      ],
-      [
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "text",
           "v": "The insurer’s own history in the record"
          }
         ]
@@ -1361,7 +1346,7 @@
    }
   ]
  },
- "wordCount": 3190,
+ "wordCount": 3199,
  "openItems": 0,
  "source": {
   "file": "B2-22_Cigna-Long-Term-Disability-Denial-Lawyer.docx",

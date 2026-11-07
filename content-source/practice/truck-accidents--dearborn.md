@@ -4,7 +4,7 @@ section: personal-injury
 city: dearborn
 status: approved
 seoTitle: Dearborn Truck Accident Lawyer: I-94, the Rouge, and the Federal Records That Decide a Truck Case
-seoDescription: Hit by a semi or commercial truck in Dearborn? The Rouge complex, the Dearborn Truck Plant, and I-94 put heavy freight on every road in the city. ATLAW’s Michigan Avenue office explains the federal safety rules, the $750,000-plus carrier insurance, Michigan no-fault, and why the truck’s records must be preserved within days. Free review. (313) 406-7606.
+seoDescription: Hit by a semi or commercial truck in Dearborn? The Rouge complex, the Dearborn Truck Plant, and I-94 put heavy freight on every road in the city. ATLAW’s Dearborn office explains the federal safety rules, the $750,000-plus carrier insurance, Michigan no-fault, and why the truck’s records must be preserved within days. Free review. (313) 406-7606.
 h1: Dearborn Truck Accident Lawyer
 tagline: Dearborn is an industrial city with a freeway through it. The Rouge complex, the steel works, and the I-94 corridor put heavy trucks on Michigan Avenue, Rotunda, Oakwood, and the Southfield Freeway every hour. A truck case is decided by federal records the carrier may lawfully destroy in months.
 primaryKeyword: truck accident lawyer dearborn mi (70/mo) · dearborn truck accident lawyer (20/mo)

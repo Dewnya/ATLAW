@@ -40,7 +40,7 @@ The national figures matter for one reason: dog bite claims are a routine, insur
 
 **Comparative fault.** Michigan courts have held that the general comparative-fault rule does not reduce a claim under the dog bite statute; the owner’s defenses are limited to trespass and provocation (*Hill v Sacka*, Mich App 2003).
 
-**Injuries without a bite.** A knockdown by a jumping dog, a fall while fleeing, or a bicycle crash caused by a chasing dog is not covered by the statute. It is a negligence claim, and comparative fault applies. The owner’s knowledge of the dog’s tendencies, a dog loose in violation of the township’s rules, or a broken fence are the evidence. See our [bicycle accident page](/personal-injury/bicycle-accidents) and [Canton slip and fall page](/personal-injury/slip-and-fall/canton).
+**Injuries without a bite.** A knockdown by a jumping dog, a fall while fleeing, or a bicycle crash caused by a chasing dog is not covered by the statute. It is a negligence claim, and comparative fault applies. The owner’s knowledge of the dog’s tendencies, a dog loose in violation of the leash rules, or a broken fence are the evidence. See our [bicycle accident page](/personal-injury/bicycle-accidents) and [Canton slip and fall page](/personal-injury/slip-and-fall/canton).
 
 ## Reporting a bite in Canton, the township’s dog rules, and why they matter to the claim
 
@@ -48,7 +48,7 @@ The national figures matter for one reason: dog bite claims are a routine, insur
 
 **Licensing and leash rules.** Michigan requires every dog four months or older to be licensed and vaccinated for rabies (MCL 287.266(1), (8)). In Canton, licenses are issued by the Township Clerk’s Office, and a license requires a current rabies vaccination. State law also bars an owner from letting a dog six months or older stray off the owner’s property unless it is on a leash (MCL 287.262).
 
-A violation does not create the claim, the statute does that, but a dog at large in violation of the township’s rules is evidence in a negligence claim for a non-bite injury, and the township’s licensing and vaccination records identify an owner who denies the dog is theirs.
+A violation does not create the claim, the statute does that, but a dog at large in violation of the leash rules is evidence in a negligence claim for a non-bite injury, and the township’s licensing and vaccination records identify an owner who denies the dog is theirs.
 
 **Dangerous dogs.** Michigan’s Dangerous Animals Act (MCL 287.321 to 287.323) allows a sworn complaint asking the district court to declare a dog that has caused serious injury dangerous, with destruction or strict confinement as the remedies. A finding is strong evidence in the civil case, but the civil case does not depend on it.
 

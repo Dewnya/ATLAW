@@ -130,6 +130,8 @@ For a claimant with mental limitations or a mix of physical and mental limitatio
 
 ## What the records have to show, for each path
 
+Both paths should be evaluated from the start of a claim: whether the records meet or can equal a listing, and what RFC and grid rule would apply if they do not. The two paths call for different evidence, and a claim that cannot meet a listing is still won or lost on the second.
+
 **To meet a listing**: the specific measurement or finding each criterion names, from the specialist who makes it: the echocardiogram report with the ejection fraction, the pulmonary function test with the FEV1, the seizure log and neurologist’s notes, the psychiatric treatment records and a mental RFC opinion addressing the four B areas, the pathology report with staging. A physician’s letter that says the patient “meets listing 4.02” without the underlying test is not evidence; the test is.
 
 **To win at step five**: a longitudinal treatment record without unexplained gaps; objective findings that correspond to the limitations claimed; and a **function-by-function opinion** from a treating source stating, in an eight-hour workday, how long the claimant can sit, stand, and walk, how much and how often they can lift, whether they need to change position or lie down, how often they would be off task and absent, and, for mental impairments, their capacity in each of the four B areas. Since 2017, under 20 CFR 404.1520c, that opinion is weighed for supportability and consistency rather than given controlling weight because it comes from a treating doctor, so the opinion must explain itself and match the records.
@@ -139,7 +141,6 @@ For a claimant with mental limitations or a mix of physical and mental limitatio
 ## Why Michigan claimants call ATLAW to evaluate their claim
 
 - **Thirteen years serving clients, more than 10,000 cases.**
-- **Both paths evaluated from the start**: whether your records meet or can equal a listing, and what RFC and grid rule apply if they do not. **[CONFIRM: practice]**
 - **The opinion the case needs**: function-by-function statements from your treating sources, written to the regulation.
 - **Michigan’s hearing offices.** We appear at Michigan hearing offices across the state, including Detroit, Oak Park, and Livonia, and at hearings held by video or phone.
 - **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.

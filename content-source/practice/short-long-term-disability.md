@@ -79,7 +79,7 @@ The rules bind the claimant too. **The appeal must be filed within the 180 days*
 
 ## The administrative appeal: the trial you did not know you were in
 
-In an ERISA case, the federal court decides the case on the **administrative record**: the claim file as it stood when the insurer made its final decision. With narrow exceptions, no new evidence is admitted in court, no witnesses testify, and there is no discovery into the merits. Everything the judge will ever read about your disability must be in the file before the insurer closes it.
+In an ERISA case, the federal court decides the case on the **administrative record**: the claim file as it stood when the insurer made its final decision. With narrow exceptions, no new evidence is admitted in court, no witnesses testify, and there is no discovery into the merits. Everything the judge will ever read about your disability must be in the file before the insurer closes it. The appeal is therefore built as the trial it is: the complete claim file is requested first, and the record a court may later review is completed before the insurer closes it.
 
 That makes the 180-day appeal the most important stage of the case. A properly built appeal includes:
 
@@ -152,7 +152,6 @@ Fees in disability insurance cases are not set by federal law as Social Security
 ## Why Michigan workers call ATLAW for disability insurance claims
 
 - **Thirteen years serving clients, more than 10,000 cases.**
-- **The appeal built as the trial it is**, with the complete claim file requested first and the record a court may later review completed before the insurer closes it.
 - **ERISA and Michigan law both**, with the governing law identified at the first meeting.
 - **Social Security and LTD coordinated**, so the award does not become a repayment surprise.
 - **Experience with the carriers**: see our pages on [Cigna](/disability/cigna-disability-claims), [Hartford](/disability/hartford-disability-claims), and [Lincoln Financial](/disability/lincoln-financial-disability-claims) claims.

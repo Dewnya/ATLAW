@@ -98,6 +98,8 @@ The appeal is the trial. The federal judge reads the file as Hartford closed it 
 
 **Calculate the contractual lawsuit deadline. The policy at issue in Heimeshoff required an ERISA benefits lawsuit to be filed within three years after proof of loss was due. The Supreme Court upheld the reasonable contractual limitation despite its beginning before administrative review was completed. In Rice v. Jefferson Pilot Financial Insurance Co., 578 F.3d 450 (6th Cir. 2009), the Sixth Circuit likewise enforced a contractual three-year limitation measured from when proof of claim was required to be submitted. These decisions establish the legal significance of proof-of-loss provisions, but they do not impose an identical deadline on every Hartford policy. Claimants must review their own plan and calculate the applicable filing period rather than assuming it begins with the final denial.**.
 
+The Heimeshoff deadline is the contractual limit on filing suit, and it should be calculated first, before the appeal is planned, because the period may already be running while the appeal is prepared.
+
 ## If the appeal is denied
 
 Suit is filed under 29 USC 1132(a)(1)(B) in federal court, in Michigan the Eastern District (Detroit, Ann Arbor, Flint, Bay City) or Western District (Grand Rapids, Kalamazoo, Lansing, Marquette), on the administrative record. If the plan grants Hartford discretion, the standard is arbitrary and capricious with the conflict of interest weighed under *Glenn*; if Hartford forfeited deference through procedural violations, de novo. Remedies are the benefits owed with interest and, in the court’s discretion, attorney fees to a claimant who achieves some success on the merits. Remand to Hartford for a new decision is a common outcome.
@@ -132,7 +134,6 @@ Long-term disability appeals and lawsuits are handled on a contingency basis: no
 ## Why Michigan claimants call ATLAW for Hartford denials
 
 - **Thirteen years serving clients, more than 10,000 cases.**
-- **The Heimeshoff deadline calculated first**, before the appeal is planned. **[CONFIRM: practice]**
 - **Hartford’s own documents answered on their own terms**: the capacity grid completed with clinical support, the Employability Analysis Report tested occupation by occupation.
 - **Social Security and LTD coordinated**, including the estimated offset.
 - **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
