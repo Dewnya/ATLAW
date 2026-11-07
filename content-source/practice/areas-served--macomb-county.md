@@ -15,7 +15,7 @@ delivered: 2026-10-16
 
 ## Macomb County Personal Injury Lawyers
 
-Macomb County is Michigan’s third most populous county, about 880,000 people in 27 cities, villages, and townships between Eight Mile Road and the St. Clair County line, with Lake St. Clair along its eastern edge. In 2024, according to the Michigan State Police, 21,960 traffic crashes were reported in Macomb County; 6,596 people were injured in them, 333 seriously, and 70 were killed. Macomb’s fatality count is higher than Oakland County’s despite 14,000 fewer crashes, a pattern that follows from its long, fast arterials: Van Dyke, Gratiot, Hall Road, Mound, and Groesbeck.
+Macomb County is Michigan’s third most populous county, about 886,000 people (Census Bureau estimate, July 2025) in 27 cities, villages, and townships between Eight Mile Road and the St. Clair County line, with Lake St. Clair along its eastern edge. In 2024, according to the Michigan State Police, 21,960 traffic crashes were reported in Macomb County; 6,596 people were injured in them, 333 seriously, and 70 were killed. Macomb’s fatality count is higher than Oakland County’s despite 14,000 fewer crashes, a pattern that follows from its long, fast arterials: Van Dyke, Gratiot, Hall Road, Mound, and Groesbeck.
 
 ATLAW is a personal injury firm based in Dearborn. In 13 years the firm has handled more than 10,000 cases for injured people in southeast Michigan and recovered more than $100 million for them. This page explains what is particular about a Macomb County claim: where the injuries happen, which courts in Mount Clemens hear the cases, which agencies and insurers are usually on the other side, and the deadlines that apply. The practice-area pages linked throughout explain the law for each kind of case.
 

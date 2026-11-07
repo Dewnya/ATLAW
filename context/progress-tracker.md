@@ -932,7 +932,7 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
 - [x] Oakland County hub population figure updated (Nov 7, 2026) — `areas-served--oakland-county.md` (draft, not yet published)
   - "about 1.27 million people" was the April 2020 census count (1,274,395). Now reads "about 1.29 million people (Census Bureau estimate, July 2025)": QuickFacts Vintage 2025 estimate for July 1, 2025 is 1,288,337, checked on census.gov Nov 7, 2026. The Nov 7 follow-up note quoted "1.30 million" for 2024; that was the Vintage 2024 figure (1,296,888), since revised downward in Vintage 2025
   - Import 276 / 248 approved, typecheck clean, 248 pages prerendered. The page is a draft, so nothing changes on the live site until it is approved
-  - Follow-up: the Wayne County hub ("about 1.75 million", published) and Macomb County hub ("about 880,000", draft) carry undated figures; refresh them from the same Vintage 2025 release when those pages are next touched
+  - Done the same day for the other two hubs: Wayne County hub (published) "about 1.75 million" is now "about 1.77 million people (Census Bureau estimate, July 2025)" from the Vintage 2025 estimate of 1,769,038 (2020 census 1,793,561); Macomb County hub (draft) "about 880,000" is now "about 886,000 people (Census Bureau estimate, July 2025)" from 886,221 (2020 census 881,217). Both checked on census.gov QuickFacts Nov 7, 2026. No other page carries these county figures. Import 276 / 248 approved, typecheck clean, 248 pages prerendered. The Wayne change goes live with the next release
 
 ### Open Questions
 
