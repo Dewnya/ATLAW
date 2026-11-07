@@ -2,7 +2,7 @@
 slug: motorcycle-accidents
 section: personal-injury
 city: royal-oak
-status: draft
+status: approved
 seoTitle: Royal Oak, MI Motorcycle Accident Lawyer: Who Pays a Rider’s Bills, Woodward and the Dream Cruise, Turnarounds and Left Turns, Road Defects, and the Helmet Rule
 seoDescription: Hurt on a motorcycle in Royal Oak? Under Michigan no-fault a motorcycle is not a “motor vehicle,” which decides who pays your medical bills. This page covers the rider priority rule, left-turn and turnaround crashes on Woodward, Dream Cruise traffic, downtown streets and railroad crossings, which agency owns the road, the helmet law, and the deadlines. Free review. (313) 406-7606.
 h1: Royal Oak, MI Motorcycle Accident Lawyer
@@ -45,7 +45,7 @@ The first conversation is free: **(313) 406-7606**.
 | Oakland County riders injured / killed | 219 / 16 | MSP, Michigan Traffic Crash Facts 2024, Oakland County |
 | Michigan motorcycle crashes / riders injured / killed | 3,187 / 2,460 / 168 | MSP, 2024 Motorcycle Crash Facts |
 | Share of Michigan rider deaths involving alcohol | 31 percent | MSP 2024 |
-| Royal Oak crashes / killed / seriously injured / alcohol-involved, all vehicles | 1,992 / 5 / 28 / 57 | MSP 2024 Oakland County profile **[VERIFY]** |
+| Royal Oak crashes / killed / seriously injured / alcohol-involved, all vehicles | 1,992 / 5 / 28 / 57 | MSP 2024 Oakland County profile |
 | Michigan opt-down minimum liability limits for the at-fault driver | $50,000 per person / $100,000 per crash | MCL 500.3009(5) |
 | Medical coverage required to ride without a helmet (age 21+) | $20,000 first-party medical | MCL 257.658 |
 
@@ -82,7 +82,7 @@ Alcohol is part of many of them: 31 percent of Michigan’s 2024 rider deaths in
 - pedestrians stepping out between cars
 - gravel and sand at the corners
 
-Railroad tracks cross several city streets at grade, and a front wheel caught at a rough or angled crossing can put a rider down. **[VERIFY: rail line and crossings]** Bars and restaurants that over-serve a driver who then hits a rider can be liable under the dram shop act. The notice is due within 120 days after you hire a lawyer, and suit within two years (MCL 436.1801(3)). See our [drunk driving accident page](/personal-injury/drunk-driving-accidents).
+The CN rail line through downtown crosses Washington, Main, Fourth, Sixth, and Lincoln at grade, and a front wheel caught at a rough or angled crossing can put a rider down. Bars and restaurants that over-serve a driver who then hits a rider can be liable under the dram shop act. The notice is due within 120 days after you hire a lawyer, and suit within two years (MCL 436.1801(3)). See our [drunk driving accident page](/personal-injury/drunk-driving-accidents).
 
 **I-696.** At the Woodward and Campbell interchanges, and near the I-75 interchange, drivers merging and changing lanes often fail to check for a motorcycle in the next lane. Trucks add blind spots and wind blast. See our [Royal Oak truck accident page](/personal-injury/truck-accidents/royal-oak).
 
@@ -169,7 +169,7 @@ Riders under 21 must wear a helmet. If you met those conditions, riding without 
 ## What to do after a Royal Oak motorcycle crash
 
 1. **Get medical care the same day.** Corewell Health William Beaumont University Hospital, on Thirteen Mile at Woodward, is Oakland County’s Level I adult trauma center.
-2. **Get the police report.** Crashes in the city are worked by the Royal Oak Police Department, and freeway crashes may be worked by the State Police. If a car caused the crash without making contact, make sure the report says so. **[VERIFY: report request process]**
+2. **Get the police report.** Crashes in the city are worked by the Royal Oak Police Department (reports through its Records Division’s online portal about 48 hours after the crash), and freeway crashes may be worked by the State Police. If a car caused the crash without making contact, make sure the report says so.
 3. **Identify every vehicle involved,** including the one that never touched you.
 4. **Photograph everything:** the bike, the scene, the turnaround or intersection, the road surface, your gear, and your injuries. Do not repair or sell the bike.
 5. **Read your policies.** Check your motorcycle policy for first-party medical, UM/UIM, collision, and comprehensive coverage, and your car policy’s PIP level.

@@ -2,7 +2,7 @@
 slug: truck-accidents
 section: personal-injury
 city: southfield
-status: draft
+status: approved
 seoTitle: Southfield Truck Accident Lawyer: I-696, Telegraph, the Work Zone, and the Federal Records That Decide a Truck Case
 seoDescription: Hit by a semi or commercial truck in Southfield? I-696, Telegraph, the Lodge, and Eight Mile carry Oakland County’s freight through the city, and 2,081 heavy trucks and buses were involved in Oakland County crashes in 2024. ATLAW explains the federal safety rules, the $750,000-plus carrier insurance, Michigan no-fault, and why the truck’s records must be preserved within days. Free review. (313) 406-7606.
 h1: Southfield Truck Accident Lawyer
@@ -15,7 +15,7 @@ delivered: October 23, 2026 [CONFIRM: Batch 3 delivery date]
 
 ## Southfield Truck Accident Lawyer
 
-Southfield sits where Oakland County’s freight routes cross. I-696, the Walter P. Reuther Freeway, runs across the middle of the city with interchanges at Telegraph, Northwestern and the Lodge, Southfield Road, Greenfield, and Evergreen in about four miles, and its reconstruction between Lahser Road and I-75 has put lane shifts, narrowed shoulders, and work-zone speed limits on the Southfield stretch. **[CONFIRM: current project status]** Telegraph carries through-trucks north to Pontiac and south to Dearborn; Eight Mile carries the freight that runs along the Detroit line; and the office towers, the Town Center, and the retail along Telegraph and the mile roads take deliveries every day. In 2024, according to the Michigan State Police, 2,081 heavy trucks and buses were involved in crashes in Oakland County.
+Southfield sits where Oakland County’s freight routes cross. I-696, the Walter P. Reuther Freeway, runs across the middle of the city with interchanges at Telegraph, Northwestern and the Lodge, Southfield Road, Greenfield, and Evergreen in about four miles, and its Restore the Reuther reconstruction between Lahser Road and I-75 has put lane shifts, narrowed shoulders, ramp closures, and work-zone speed limits on the Southfield stretch, with the eastbound lanes closed from the Lodge to I-75 through late 2026 and work continuing east of I-75 through 2027. Telegraph carries through-trucks north to Pontiac and south to Dearborn; Eight Mile carries the freight that runs along the Detroit line; and the office towers, the Town Center, and the retail along Telegraph and the mile roads take deliveries every day. In 2024, according to the Michigan State Police, 2,081 heavy trucks and buses were involved in crashes in Oakland County.
 
 A truck crash is not a car crash with a larger vehicle. The driver and the carrier are governed by federal safety regulations whose violation is evidence of negligence; the carrier must hold $750,000 or more in insurance; the records that prove the case, the driver’s electronic logs and the truck’s engine data, can be lawfully destroyed within months; and the carrier’s insurer will have an investigator on the case within days. ATLAW is a personal injury firm at 3 Parklane Boulevard in Dearborn, about 20 minutes from Southfield by the Southfield Freeway. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients. Our [Michigan truck accident lawyer page](/personal-injury/truck-accidents) covers the federal rules in full, our [Oakland County truck accident page](/personal-injury/truck-accidents/oakland-county) covers the county, and our [Southfield page](/areas-served/southfield) covers every kind of injury claim in the city; crashes between passenger vehicles are on our [Southfield car accident page](/personal-injury/auto-accidents/southfield). The first conversation is free: **(313) 406-7606**.
 
@@ -26,7 +26,7 @@ A truck crash is not a car crash with a larger vehicle. The driver and the carri
 | Heavy trucks and buses in Oakland County crashes | 2,081 (2023: 1,906) | MSP, Heavy Trucks and Buses 2024 |
 | Wayne / Macomb, for comparison | 3,916 / 1,257 | MSP 2025 |
 | Oakland County crashes / injured / killed, all vehicles | 35,951 / 9,139 / 68 | MSP 2024 |
-| Telegraph at 12 Mile, all vehicles | 121 crashes; third-highest intersection count in Michigan | MSP 2024 |
+| Telegraph at 12 Mile, all vehicles | 121 crashes in 2025; third-highest intersection count in Michigan | MSP 2025 crash data, published September 2026 |
 | Minimum carrier insurance | $750,000 general freight; $1 million oil; $5 million hazardous materials | 49 CFR 387.9 |
 | Maximum gross vehicle weight on designated Michigan routes | 164,000 lb (federal standard: 80,000 lb) | MCL 257.722 |
 
@@ -34,7 +34,7 @@ The MSP count includes trucks over 10,000 pounds and buses, so SMART buses on Te
 
 ## Where Southfield truck crashes happen
 
-**I-696 and the work zone.** Merges at five interchanges in four miles, lane shifts and narrowed shoulders through the reconstruction, and stopped traffic at the end of each closure. Rear-end and underride crashes at the back of a queue, sideswipes in narrowed lanes, and crashes with construction trucks entering and leaving the work zone. A crash in a work zone carries enhanced penalties for the at-fault driver (MCL 257.601b), and a contractor whose traffic control did not meet the Michigan Manual of Uniform Traffic Control Devices can be a defendant alongside the carrier.
+**I-696 and the work zone.** Merges at five interchanges in four miles, lane shifts and narrowed shoulders through the reconstruction, and stopped traffic at the end of each closure. Rear-end and underride crashes at the back of a queue, sideswipes in narrowed lanes, and crashes with construction trucks entering and leaving the work zone. A moving violation in a work zone carries doubled fines, and one that injures or kills someone in the zone is a misdemeanor or felony (MCL 257.601b), and a contractor whose traffic control did not meet the Michigan Manual of Uniform Traffic Control Devices can be a defendant alongside the carrier.
 
 **Telegraph, the Lodge, and Northwestern.** Through-trucks on Telegraph turning across four lanes at 10, 11, and 12 Mile; the Lodge’s stop-and-go where it meets Northwestern; and delivery trucks entering and leaving the office-tower driveways and loading docks along Northwestern and at the Town Center.
 

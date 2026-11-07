@@ -2,7 +2,7 @@
  "slug": "truck-accidents",
  "section": "personal-injury",
  "city": "royal-oak",
- "status": "draft",
+ "status": "approved",
  "seoTitle": "Truck Accident Lawyer in Royal Oak, MI: I-696 and I-75, Woodward, Downtown Deliveries, the Federal Trucking Rules, and the Evidence That Expires",
  "seoDescription": "Hit by a semi, box truck, or delivery truck in Royal Oak? 2,081 heavy trucks and buses were involved in Oakland County crashes in 2024. Learn how the federal trucking rules, the carrier’s $750,000-plus insurance, underride guards, and Michigan no-fault apply to a crash on I-696, I-75, Woodward, or a downtown street, which agency owns the road, and why the logs must be preserved within days. Free review. (313) 406-7606.",
  "h1": "Royal Oak, MI Truck Accident Lawyer",
@@ -377,17 +377,7 @@
        [
         {
          "t": "text",
-         "v": "MSP 2024 Oakland County profile "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "VERIFY",
-           "v": ""
-          }
-         ]
+         "v": "MSP 2024 Oakland County profile"
         }
        ]
       ],
@@ -1619,17 +1609,7 @@
        },
        {
         "t": "text",
-        "v": " Crashes on city streets are worked by the Royal Oak Police Department. Freeway crashes may be worked by the Michigan State Police. A serious crash may produce a separate commercial vehicle inspection report from the State Police. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "VERIFY",
-          "v": "commercial vehicle enforcement; report request process"
-         }
-        ]
+        "v": " Crashes on city streets are worked by the Royal Oak Police Department, which releases crash reports through its Records Division’s online portal about 48 hours after the crash. Freeway crashes may be worked by the Michigan State Police. In a serious crash, State Police motor carrier officers from the Commercial Vehicle Enforcement Division may respond and inspect the truck and driver, and that inspection record is evidence we request."
        }
       ],
       [
@@ -2166,8 +2146,8 @@
    }
   ]
  },
- "wordCount": 2900,
- "openItems": 2,
+ "wordCount": 2923,
+ "openItems": 0,
  "source": {
   "file": "B4-23_Royal-Oak-Truck-Accident-Lawyer.docx",
   "delivered": "October 25, 2026 [CONFIRM: Batch 4 delivery date]"

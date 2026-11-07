@@ -2,7 +2,7 @@
  "slug": "motorcycle-accidents",
  "section": "personal-injury",
  "city": "royal-oak",
- "status": "draft",
+ "status": "approved",
  "seoTitle": "Royal Oak, MI Motorcycle Accident Lawyer: Who Pays a Rider’s Bills, Woodward and the Dream Cruise, Turnarounds and Left Turns, Road Defects, and the Helmet Rule",
  "seoDescription": "Hurt on a motorcycle in Royal Oak? Under Michigan no-fault a motorcycle is not a “motor vehicle,” which decides who pays your medical bills. This page covers the rider priority rule, left-turn and turnaround crashes on Woodward, Dream Cruise traffic, downtown streets and railroad crossings, which agency owns the road, the helmet law, and the deadlines. Free review. (313) 406-7606.",
  "h1": "Royal Oak, MI Motorcycle Accident Lawyer",
@@ -356,17 +356,7 @@
        [
         {
          "t": "text",
-         "v": "MSP 2024 Oakland County profile "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "VERIFY",
-           "v": ""
-          }
-         ]
+         "v": "MSP 2024 Oakland County profile"
         }
        ]
       ],
@@ -638,21 +628,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Railroad tracks cross several city streets at grade, and a front wheel caught at a rough or angled crossing can put a rider down. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "VERIFY",
-         "v": "rail line and crossings"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " Bars and restaurants that over-serve a driver who then hits a rider can be liable under the dram shop act. The notice is due within 120 days after you hire a lawyer, and suit within two years (MCL 436.1801(3)). See our "
+       "v": "The CN rail line through downtown crosses Washington, Main, Fourth, Sixth, and Lincoln at grade, and a front wheel caught at a rough or angled crossing can put a rider down. Bars and restaurants that over-serve a driver who then hits a rider can be liable under the dram shop act. The notice is due within 120 days after you hire a lawyer, and suit within two years (MCL 436.1801(3)). See our "
       },
       {
        "t": "link",
@@ -1343,17 +1319,7 @@
        },
        {
         "t": "text",
-        "v": " Crashes in the city are worked by the Royal Oak Police Department, and freeway crashes may be worked by the State Police. If a car caused the crash without making contact, make sure the report says so. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "VERIFY",
-          "v": "report request process"
-         }
-        ]
+        "v": " Crashes in the city are worked by the Royal Oak Police Department (reports through its Records Division’s online portal about 48 hours after the crash), and freeway crashes may be worked by the State Police. If a car caused the crash without making contact, make sure the report says so."
        }
       ],
       [
@@ -1805,8 +1771,8 @@
    }
   ]
  },
- "wordCount": 2550,
- "openItems": 3,
+ "wordCount": 2559,
+ "openItems": 0,
  "source": {
   "file": "B4-24_Royal-Oak-Motorcycle-Accident-Lawyer.docx",
   "delivered": "October 25, 2026 [CONFIRM: Batch 4 delivery date]"

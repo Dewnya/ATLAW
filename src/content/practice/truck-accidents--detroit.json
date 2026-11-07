@@ -2,7 +2,7 @@
  "slug": "truck-accidents",
  "section": "personal-injury",
  "city": "detroit",
- "status": "draft",
+ "status": "approved",
  "seoTitle": "Detroit Truck Accident Lawyer: Federal Trucking Rules, Border Freight, and the Evidence That Disappears",
  "seoDescription": "Hit by a semi or commercial truck in Detroit? ATLAW’s truck accident lawyers, minutes away in Dearborn, explain the federal safety rules that decide fault, the $750,000-plus insurance carriers must hold, how Michigan no-fault applies, why the truck’s electronic records can be destroyed within months, and what to do first. Free review. (313) 406-7606.",
  "h1": "Detroit Truck Accident Lawyer",
@@ -20,21 +20,7 @@
    "c": [
     {
      "t": "text",
-     "v": "More international truck freight crosses at Detroit than anywhere else on the U.S.–Canada border. The Ambassador Bridge in Southwest Detroit and the Gordie Howe International Bridge in Delray carry it; I-75, I-94, I-96, and the Lodge move it through the city; and the Stellantis plants on the east side, General Motors’ Factory Zero, the Marathon refinery, the intermodal rail yards along Livernois, the Eastern Market distributors, and the industrial corridors on Mound, Mt. Elliott, and Fort Street generate truck trips of their own. "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "VERIFY",
-       "v": "BTS border crossing data for the “busiest” statement, or soften"
-      }
-     ]
-    },
-    {
-     "t": "text",
-     "v": " In 2024, according to the Michigan State Police, 3,916 heavy trucks and buses were involved in crashes in Wayne County, more than Oakland and Macomb counties combined and up from 3,558 in 2023. A published analysis of Detroit’s open traffic-crash data identified 1,844 crashes involving commercial vehicles in the city in 2024, including nine fatal crashes."
+     "v": "More international truck freight crosses at Detroit than anywhere else on the U.S.–Canada border. The Ambassador Bridge in Southwest Detroit and the Gordie Howe International Bridge in Delray carry it; I-75, I-94, I-96, and the Lodge move it through the city; and the Stellantis plants on the east side, General Motors’ Factory Zero, the Marathon refinery, the intermodal rail yards along Livernois, the Eastern Market distributors, and the industrial corridors on Mound, Mt. Elliott, and Fort Street generate truck trips of their own. In 2024, according to the Michigan State Police, 3,916 heavy trucks and buses were involved in crashes in Wayne County, more than Oakland and Macomb counties combined and up from 3,763 in 2023. A published analysis of Detroit’s open traffic-crash data identified 1,844 crashes involving commercial vehicles in the city in 2024, including nine fatal crashes."
     }
    ]
   },
@@ -175,13 +161,13 @@
        [
         {
          "t": "text",
-         "v": "3,916 (2023: 3,558)"
+         "v": "3,916 (2023: 3,763)"
         }
        ],
        [
         {
          "t": "text",
-         "v": "MSP, Heavy Trucks and Buses report 2024"
+         "v": "MSP, Michigan Traffic Crash Facts 2024 and 2023, Wayne County profiles"
         }
        ]
       ],
@@ -350,21 +336,7 @@
       },
       {
        "t": "text",
-       "v": " Trucks bound for the Ambassador Bridge leave I-75 and I-96 and queue through the neighborhoods around Fort Street, Livernois, Vernor, Springwells, and the bridge plaza; trucks bound for the Gordie Howe bridge use the I-75 interchange in Delray. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "VERIFY",
-         "v": "Gordie Howe operating status and interchange configuration at publication"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " Both corridors put international freight on streets shared with houses, schools, and pedestrians, which is why Southwest Detroit residents have pressed the City for years to enforce truck routes. Customs and plaza congestion can create slow-moving or stopped truck traffic, increasing the importance of following distance, visibility, and safe stopping."
+       "v": " Trucks bound for the Ambassador Bridge leave I-75 and I-96 and queue through the neighborhoods around Fort Street, Livernois, Vernor, Springwells, and the bridge plaza; trucks bound for the Gordie Howe bridge, open since July 2026, use its new I-75 interchange in Delray. Both corridors put international freight on streets shared with houses, schools, and pedestrians, which is why Southwest Detroit residents have pressed the City for years to enforce truck routes. Customs and plaza congestion can create slow-moving or stopped truck traffic, increasing the importance of following distance, visibility, and safe stopping."
       }
      ]
     },
@@ -460,21 +432,7 @@
       },
       {
        "t": "text",
-       "v": " Detroit restricts heavy trucks on certain posted streets, including residential areas covered by its Southwest Detroit truck restrictions. Whether a truck violated an applicable restriction, and whether that violation contributed to a crash, may be relevant to fault. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "VERIFY",
-         "v": "cite the current Detroit truck route ordinance section; the attorney did not verify this; check it against the source before publication"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " Refuse trucks (City of Detroit contractors), Department of Public Works trucks, construction and concrete trucks on the city’s road and demolition projects, delivery box trucks, and tow trucks round out the city cases. A crash with a government-owned truck is a claim under the Governmental Tort Liability Act, described below."
+       "v": " Detroit City Code § 46-4-61 bars trucks from streets where restrictions are posted, except for the shortest distance needed to reach a property, and the Department of Public Works designates truck routes under § 46-1-9. Since October 2025 the department has posted no-truck restrictions across much of Southwest Detroit, including Livernois south of Vernor, Clark, Scotten, West Grand Boulevard, Lonyo, and Central. Whether a truck violated a posted restriction, and whether that violation contributed to a crash, may be relevant to fault. Refuse trucks (City of Detroit contractors), Department of Public Works trucks, construction and concrete trucks on the city’s road and demolition projects, delivery box trucks, and tow trucks round out the city cases. A crash with a government-owned truck is a claim under the Governmental Tort Liability Act, described below."
       }
      ]
     }
@@ -1291,8 +1249,8 @@
    }
   ]
  },
- "wordCount": 2916,
- "openItems": 3,
+ "wordCount": 2926,
+ "openItems": 0,
  "source": {
   "file": "B2-62_Detroit-Truck-Accident-Lawyer.docx",
   "delivered": "2026-10-16"

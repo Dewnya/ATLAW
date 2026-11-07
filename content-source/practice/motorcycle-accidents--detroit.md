@@ -2,7 +2,7 @@
 slug: motorcycle-accidents
 section: personal-injury
 city: detroit
-status: draft
+status: approved
 seoTitle: Detroit Motorcycle Accident Lawyer: Who Pays a Rider’s Bills, the Helmet Law, and Detroit’s Roads
 seoDescription: Hurt on a motorcycle in Detroit? Michigan no-fault treats riders differently: the car’s insurer pays, not yours, and a crash with no car involved has no PIP at all. ATLAW’s Dearborn motorcycle accident lawyers explain the priority rule, the helmet law, pothole claims against the City, and the deadlines. Free review. (313) 406-7606.
 h1: Detroit Motorcycle Accident Lawyer
@@ -23,8 +23,8 @@ ATLAW is a personal injury firm with an office at 3 Parklane Boulevard in Dearbo
 
 | Measure | Figure | Source |
 | --- | --- | --- |
-| Motorcycle crashes in Detroit / riders injured / killed | **[VERIFY: pull the 2024 figures from MSP Michigan Traffic Crash Facts (city or county profile) or delete this row]** | MSP Michigan Traffic Crash Facts, city profile |
-| Motorcycle crashes in Wayne County / riders injured / killed | **[VERIFY: pull the 2024 figures from MSP Michigan Traffic Crash Facts (city or county profile) or delete this row]** | MSP, county profile |
+| Motorcycle crashes in Detroit / people injured / killed | 256 / 217 / 18 | MSP crash data, via SEMCOG |
+| Motorcycles in Wayne County crashes / riders injured / killed | 509 / 367 / 24 | MSP, 2024 Wayne County profile |
 | Michigan motorcycle crashes / riders injured / killed | 3,187 / 2,460 / 168 | MSP, 2024 Motorcycle Crash Facts |
 | Share of Michigan rider deaths involving alcohol | 31 percent | MSP 2024 |
 | Wayne County crashes / injured / killed, all vehicles | 50,355 / 16,458 / 177 | MSP 2024 |
@@ -107,7 +107,7 @@ Motorcycle injury lawsuits seeking more than $25,000 may be filed in the Third J
 - Consultations can be accommodated in English, Arabic, French, Mandarin, Urdu, and Spanish. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 ## Frequently asked questions
 
-**How many motorcycle accidents happen in Detroit?** **[VERIFY: check the 2024 statewide figures in MSP Michigan Traffic Crash Facts; add Detroit and Wayne County motorcycle figures from the same source or remove this question]** Statewide, 3,187 motorcycle crashes in 2024 injured 2,460 riders and killed 168, according to the Michigan State Police. County figures for all crash types are on our [Wayne County page](/areas-served/wayne-county).
+**How many motorcycle accidents happen in Detroit?** In 2024, 256 crashes in Detroit involved a motorcycle; they killed 18 people and injured 217, according to Michigan State Police crash data. Across Wayne County, 509 motorcycles were in crashes, with 24 riders killed and 367 injured. Statewide, 3,187 motorcycle crashes in 2024 injured 2,460 riders and killed 168, according to the Michigan State Police. County figures for all crash types are on our [Wayne County page](/areas-served/wayne-county).
 
 **A car cut me off in Detroit and I went down, but it never hit me. Do I have a claim?** Potentially, yes. Physical contact is not always necessary for a motor vehicle to be considered involved in a motorcycle accident. The evidence must establish the vehicle’s legally sufficient involvement and the circumstances of the crash. If it does, that vehicle’s insurer may be first in line for your medical bills and wage loss, and if the driver was at fault you have an injury claim against them. The problem is identification: get the plate, the witnesses, and any camera footage before the car is gone.
 

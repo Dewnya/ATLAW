@@ -2,7 +2,7 @@
 slug: motorcycle-accidents
 section: personal-injury
 city: clinton-township
-status: draft
+status: approved
 seoTitle: Clinton Township Motorcycle Accident Lawyer: Who Pays a Rider’s Bills, Hall Road and Gratiot Left Turns, Groesbeck, Road Defects, and the Helmet Rule
 seoDescription: Hurt on a motorcycle in Clinton Township? Under Michigan no-fault a motorcycle is not a “motor vehicle,” which decides who pays your medical bills. The rider priority rule, Hall Road crossovers, Gratiot and county-road left turns, Groesbeck’s angled intersections, road defects and why the township is never the road defendant, the helmet law, and the deadlines. Free review. (313) 406-7606.
 h1: Clinton Township Motorcycle Accident Lawyer
@@ -84,7 +84,7 @@ Since 2012, Michigan has let riders 21 and older ride without a helmet if they c
 ## What to do after a Clinton Township motorcycle crash
 
 1. **Get medical care the same day.** Henry Ford Macomb Hospital in the township and McLaren Macomb in Mount Clemens are both Level II trauma centers.
-2. **Get the police report** from the Clinton Township Police Department, or from the State Police on I-94. If a car caused the crash without contact, make sure the report says so. **[VERIFY: report request process]**
+2. **Get the police report** from the Clinton Township Police Department (online through CrashDocs or from Police Records on Groesbeck), or from the State Police on I-94. If a car caused the crash without contact, make sure the report says so.
 3. **Identify every vehicle involved**, including the one that never touched you.
 4. **Photograph the bike, the scene, the crossover or intersection, the road surface, your gear, and your injuries**, and note every business with a camera facing the road. Do not repair or sell the bike.
 5. **Read your motorcycle policy for first-party medical, UM/UIM, and collision coverage**, and your car policy’s PIP level.

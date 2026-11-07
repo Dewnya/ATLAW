@@ -2,7 +2,7 @@
 slug: motorcycle-accidents
 section: personal-injury
 city: farmington-hills
-status: draft
+status: approved
 seoTitle: Farmington Hills Motorcycle Accident Lawyer: Who Pays a Rider’s Bills, the Orchard Lake Roundabout, Michigan Lefts, Road Defects, and the Helmet Rule
 seoDescription: Hurt on a motorcycle in Farmington Hills? Under Michigan no-fault a motorcycle is not a “motor vehicle,” which decides who pays your medical bills. The rider priority rule, the Orchard Lake roundabout and Michigan lefts, left turns on Grand River and Twelve Mile, the freeway interchange, road defects and the three road agencies, the helmet law, and the deadlines. Free review. (313) 406-7606.
 h1: Farmington Hills Motorcycle Accident Lawyer
@@ -85,7 +85,7 @@ Since 2012, Michigan has let riders 21 and older ride without a helmet if they c
 ## What to do after a Farmington Hills motorcycle crash
 
 1. **Get medical care the same day.** Corewell Health Farmington Hills Hospital on Grand River treats many of the city’s injured; Corewell Health William Beaumont University Hospital in Royal Oak, a Level I trauma center, Henry Ford Providence Novi Hospital, and Trinity Health Livonia Hospital treat others.
-2. **Get the police report** from Farmington Hills Police, or from the State Police on the freeways. If a car caused the crash without contact, make sure the report says so. **[VERIFY: report request process]**
+2. **Get the police report** from Farmington Hills Police (online through CLEMIS or at the Records Section on Eleven Mile, generally 48 to 72 hours after the crash), or from the State Police on the freeways. If a car caused the crash without contact, make sure the report says so.
 3. **Identify every vehicle involved**, including the one that never touched you.
 4. **Photograph the bike, the scene, the lane markings, the road surface, your gear, and your injuries.** Do not repair or sell the bike.
 5. **Read your motorcycle policy for first-party medical, UM/UIM, and collision coverage**, and your car policy’s PIP level.

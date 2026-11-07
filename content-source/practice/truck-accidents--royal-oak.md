@@ -2,7 +2,7 @@
 slug: truck-accidents
 section: personal-injury
 city: royal-oak
-status: draft
+status: approved
 seoTitle: Truck Accident Lawyer in Royal Oak, MI: I-696 and I-75, Woodward, Downtown Deliveries, the Federal Trucking Rules, and the Evidence That Expires
 seoDescription: Hit by a semi, box truck, or delivery truck in Royal Oak? 2,081 heavy trucks and buses were involved in Oakland County crashes in 2024. Learn how the federal trucking rules, the carrier’s $750,000-plus insurance, underride guards, and Michigan no-fault apply to a crash on I-696, I-75, Woodward, or a downtown street, which agency owns the road, and why the logs must be preserved within days. Free review. (313) 406-7606.
 h1: Royal Oak, MI Truck Accident Lawyer
@@ -52,7 +52,7 @@ The first conversation is free: **(313) 406-7606**.
 
 | Measure | Figure | Source |
 | --- | --- | --- |
-| Royal Oak crashes / killed / seriously injured, all vehicles | 1,992 / 5 / 28 | MSP 2024 Oakland County profile **[VERIFY]** |
+| Royal Oak crashes / killed / seriously injured, all vehicles | 1,992 / 5 / 28 | MSP 2024 Oakland County profile |
 | Heavy trucks and buses in Oakland County crashes | 2,081 | MSP 2024 |
 | Wayne / Macomb, for comparison | 3,916 / 1,257 | MSP 2024 |
 | Michigan crashes involving heavy trucks and buses | 15,888 (5.5% of all crashes; up 5.3% from 15,088 in 2023) | MSP, Heavy Trucks and Buses 2024 |
@@ -192,7 +192,7 @@ Once a party knows a claim is coming, destroying that evidence exposes it to spo
 
 1. **Call 911 and get medical care the same day.** Corewell Health William Beaumont University Hospital, on Thirteen Mile at Woodward, is Oakland County’s Level I adult trauma center.
 2. **Photograph the truck:** the cab and trailer, the USDOT number and carrier name on the door, both plates, the load and anything that fell from it, the rear guard and reflective tape, and the loading zone, alley, or construction entrance if the truck was entering or leaving one.
-3. **Get the police report.** Crashes on city streets are worked by the Royal Oak Police Department. Freeway crashes may be worked by the Michigan State Police. A serious crash may produce a separate commercial vehicle inspection report from the State Police. **[VERIFY: commercial vehicle enforcement; report request process]**
+3. **Get the police report.** Crashes on city streets are worked by the Royal Oak Police Department, which releases crash reports through its Records Division’s online portal about 48 hours after the crash. Freeway crashes may be worked by the Michigan State Police. In a serious crash, State Police motor carrier officers from the Commercial Vehicle Enforcement Division may respond and inspect the truck and driver, and that inspection record is evidence we request.
 4. **Do not speak to the carrier’s insurer or its investigator.**
 5. **Report to your own insurer and file the Application for No-Fault Benefits** within the first week.
 6. **Call a lawyer within days,** so the preservation letter goes out before the records expire and the truck is repaired.

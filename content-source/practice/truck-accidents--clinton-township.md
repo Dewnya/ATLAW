@@ -2,7 +2,7 @@
 slug: truck-accidents
 section: personal-injury
 city: clinton-township
-status: draft
+status: approved
 seoTitle: Clinton Township Truck Accident Lawyer: Groesbeck, Gratiot, Hall Road, I-94, and the Federal Trucking Rules
 seoDescription: Hit by a semi or delivery truck in Clinton Township? 1,257 heavy trucks and buses were involved in Macomb County crashes in 2024. How the federal trucking rules, the carrier’s insurance, underride guards, the evidence that expires, and Michigan no-fault apply to a crash on Groesbeck, Gratiot, Hall Road, or I-94, and why the township is never the road defendant. Free review. (313) 406-7606.
 h1: Clinton Township Truck Accident Lawyer
@@ -78,7 +78,7 @@ The first act in a Clinton Township truck case is a **preservation letter**: to 
 
 1. **Call 911 and get medical care the same day.** Henry Ford Macomb Hospital in the township and McLaren Macomb in Mount Clemens are both Level II trauma centers.
 2. **Photograph the truck**: the cab, the trailer, the USDOT number and carrier name on the door, both plates, the load, the rear guard and reflective tape, and the driveway or yard if the truck was entering or leaving one.
-3. **Get the police report.** Most township crashes are worked by the Clinton Township Police Department; crashes on I-94 may be worked by the Michigan State Police. A serious crash may produce a separate commercial vehicle inspection report. **[VERIFY: commercial vehicle enforcement; report request process]**
+3. **Get the police report.** Most township crashes are worked by the Clinton Township Police Department (reports online through CrashDocs or from Police Records on Groesbeck); crashes on I-94 may be worked by the Michigan State Police. In a serious crash, State Police motor carrier officers from the Commercial Vehicle Enforcement Division may respond and inspect the truck and driver, and that inspection record is evidence we request.
 4. **Do not speak to the carrier’s insurer or its investigator.**
 5. **Report to your own insurer and file the Application for No-Fault Benefits** within the first week.
 6. **Call a lawyer within days**, so the preservation letter goes out before the records expire and the trailer is repaired.

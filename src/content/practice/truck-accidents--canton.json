@@ -2,7 +2,7 @@
  "slug": "truck-accidents",
  "section": "personal-injury",
  "city": "canton",
- "status": "draft",
+ "status": "approved",
  "seoTitle": "Canton, MI Truck Accident Lawyer: I-275, Michigan Avenue, the Distribution Centers, Delivery Vans, and the Federal Trucking Rules",
  "seoDescription": "Hit by a semi or delivery truck in Canton, Michigan? 3,916 heavy trucks and buses were involved in Wayne County crashes in 2024. How the federal trucking rules, the carrier’s insurance, delivery-van claims, the evidence that expires, and Michigan no-fault apply to a crash on I-275, Michigan Avenue, or Ford Road. Free review. (313) 406-7606.",
  "h1": "Canton, MI Truck Accident Lawyer",
@@ -829,17 +829,7 @@
        },
        {
         "t": "text",
-        "v": " The Michigan State Police generally work I-275 crashes; Canton Public Safety works the surface roads. A serious crash may produce a separate MSP commercial vehicle inspection report. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "VERIFY",
-          "v": "Canton Public Safety report release"
-         }
-        ]
+        "v": " The Michigan State Police generally work I-275 crashes; Canton Public Safety works the surface roads, and its Records Bureau at 1150 South Canton Center Road releases crash reports at no charge in person or online through CLEMIS. In a serious crash, State Police motor carrier officers may inspect the truck and driver, and that inspection record is evidence we request."
        }
       ],
       [
@@ -1233,8 +1223,8 @@
    }
   ]
  },
- "wordCount": 2500,
- "openItems": 1,
+ "wordCount": 2527,
+ "openItems": 0,
  "source": {
   "file": "B3-43_Canton-Truck-Accident-Lawyer.docx",
   "delivered": "October 24, 2026 [CONFIRM: Batch 3 delivery date]"

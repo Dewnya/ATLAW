@@ -1,17 +1,16 @@
 {
  "slug": "truck-accidents",
  "section": "personal-injury",
- "city": "pontiac",
- "status": "draft",
- "seoTitle": "Pontiac, MI Truck Accident Lawyer: M-59, I-75, Telegraph, the Silverdome-Site Warehouse Traffic, and the Federal Trucking Rules",
- "seoDescription": "Hit by a semi or delivery truck in Pontiac? 2,081 heavy trucks and buses were involved in Oakland County crashes in 2024. How the federal trucking rules, the carrier’s insurance, underride guards, warehouse and yard traffic, the evidence that expires, and Michigan no-fault apply to a crash on M-59, I-75, Telegraph, or the Loop, and which agency owns the road. Free review. (313) 406-7606.",
- "h1": "Pontiac, MI Truck Accident Lawyer",
- "tagline": "M-59 and I-75 carry freight past Pontiac’s warehouses, plants, and distribution sites, and the trucks that serve them use the same city streets as everyone else. When one of those trucks causes a crash, the carrier, the trailer’s owner, and sometimes the shipper are part of the case.",
- "primaryKeyword": "truck accident lawyer pontiac mi (70/mo)",
+ "city": "clinton-township",
+ "status": "approved",
+ "seoTitle": "Clinton Township Truck Accident Lawyer: Groesbeck, Gratiot, Hall Road, I-94, and the Federal Trucking Rules",
+ "seoDescription": "Hit by a semi or delivery truck in Clinton Township? 1,257 heavy trucks and buses were involved in Macomb County crashes in 2024. How the federal trucking rules, the carrier’s insurance, underride guards, the evidence that expires, and Michigan no-fault apply to a crash on Groesbeck, Gratiot, Hall Road, or I-94, and why the township is never the road defendant. Free review. (313) 406-7606.",
+ "h1": "Clinton Township Truck Accident Lawyer",
+ "tagline": "Three state highways and a freeway carry Clinton Township’s freight, and Groesbeck’s industrial frontage ships and receives it all day. When one of those trucks causes a crash, the carrier, the trailer’s owner, and sometimes the shipper are part of the case.",
+ "primaryKeyword": "truck accident lawyer clinton township mi (90/mo)",
  "secondaryKeywords": [
-  "truck accident attorney pontiac mi (70)",
-  "pontiac truck accident lawyer (40)",
-  "pontiac truck accident attorney (30)"
+  "clinton township truck accident lawyer (10)",
+  "clinton township truck accident attorney (10)"
  ],
  "intro": [
   {
@@ -19,7 +18,7 @@
    "c": [
     {
      "t": "text",
-     "v": "Pontiac’s freight moves on M-59 and I-75. M-59 crosses the city as Huron Street and becomes a freeway east of the city toward Auburn Hills and I-75, which bypasses the city to the east and north. Along that corridor sit the city’s warehouses, plants, and distribution sites, including the large distribution center Amazon built on the former Pontiac Silverdome site at M-59 and Opdyke, which generates heavy tractor-trailer and delivery-van traffic. Telegraph (US-24) carries trucks along the city’s west side to Dixie Highway, and Woodward and the Loop carry delivery trucks downtown, where the Loop’s conversion to two-way traffic is scheduled to begin in 2028. In 2024, according to the Michigan State Police, 2,081 heavy trucks and buses were involved in crashes in Oakland County, and 110 people were killed and 3,613 injured in heavy truck and bus crashes statewide. The State’s county profile does not break out truck crashes by city."
+     "v": "Clinton Township’s freight moves on state highways. Groesbeck Highway (M-97) cuts diagonally across the township toward Mount Clemens, lined with industrial buildings, trucking yards, and logistics businesses. Gratiot Avenue (M-3) carries trucks between the I-94 corridor, Mount Clemens, and the northern suburbs. Hall Road (M-59) runs along the township’s northern edge past the big-box stores and Partridge Creek, which take deliveries all day. And I-94 crosses the southeastern corner, carrying freight between Detroit, Port Huron, and the Canadian border crossings. In 2024, according to the Michigan State Police, 1,257 heavy trucks and buses were involved in crashes in Macomb County, and 110 people were killed and 3,613 injured in heavy truck and bus crashes statewide."
     }
    ]
   },
@@ -46,11 +45,11 @@
     },
     {
      "t": "link",
-     "href": "/personal-injury/truck-accidents/oakland-county",
+     "href": "/personal-injury/truck-accidents/macomb-county",
      "c": [
       {
        "t": "text",
-       "v": "Oakland County truck accident page"
+       "v": "Macomb County truck accident page"
       }
      ]
     },
@@ -60,25 +59,25 @@
     },
     {
      "t": "link",
-     "href": "/areas-served/pontiac",
+     "href": "/areas-served/clinton-township",
      "c": [
       {
        "t": "text",
-       "v": "Pontiac page"
+       "v": "Clinton Township page"
       }
      ]
     },
     {
      "t": "text",
-     "v": " covers every kind of injury claim in the city; crashes between passenger vehicles are on our "
+     "v": " covers every kind of injury claim in the township; crashes between passenger vehicles are on our "
     },
     {
      "t": "link",
-     "href": "/personal-injury/auto-accidents/pontiac",
+     "href": "/personal-injury/auto-accidents/clinton-township",
      "c": [
       {
        "t": "text",
-       "v": "Pontiac car accident page"
+       "v": "Clinton Township car accident page"
       }
      ]
     },
@@ -134,13 +133,13 @@
        [
         {
          "t": "text",
-         "v": "Heavy trucks and buses in Oakland County crashes"
+         "v": "Heavy trucks and buses in Macomb County crashes"
         }
        ],
        [
         {
          "t": "text",
-         "v": "2,081"
+         "v": "1,257"
         }
        ],
        [
@@ -154,13 +153,13 @@
        [
         {
          "t": "text",
-         "v": "Wayne / Macomb, for comparison"
+         "v": "Wayne / Oakland, for comparison"
         }
        ],
        [
         {
          "t": "text",
-         "v": "3,916 / 1,257"
+         "v": "3,916 / 2,081"
         }
        ],
        [
@@ -214,19 +213,39 @@
        [
         {
          "t": "text",
-         "v": "Oakland County crashes / injured / killed, all vehicles"
+         "v": "Macomb County crashes / injured / killed, all vehicles"
         }
        ],
        [
         {
          "t": "text",
-         "v": "35,951 / 9,139 / 68"
+         "v": "21,960 / 6,596 / 70"
         }
        ],
        [
         {
          "t": "text",
          "v": "MSP 2024"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Macomb County deaths per 1,000 crashes"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "3.2 (Oakland: 1.9)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Calculated from MSP 2024 figures"
         }
        ]
       ],
@@ -277,7 +296,7 @@
      "c": [
       {
        "t": "text",
-       "v": "The MSP count includes trucks over 10,000 pounds and buses, so SMART buses on Woodward and Telegraph and school buses are part of it; bus crashes are covered on our "
+       "v": "The MSP count includes trucks over 10,000 pounds and buses, so SMART buses in the township are part of it; bus crashes are covered on our "
       },
       {
        "t": "link",
@@ -298,8 +317,8 @@
    ]
   },
   {
-   "id": "where-pontiac-truck-crashes-happen",
-   "heading": "Where Pontiac truck crashes happen",
+   "id": "where-clinton-township-truck-crashes-happen",
+   "heading": "Where Clinton Township truck crashes happen",
    "blocks": [
     {
      "t": "p",
@@ -309,31 +328,13 @@
        "c": [
         {
          "t": "text",
-         "v": "The warehouse and distribution traffic."
+         "v": "Groesbeck Highway and the industrial frontage."
         }
        ]
       },
       {
        "t": "text",
-       "v": " Distribution centers run on schedules: tractor-trailers arrive and leave in waves, line up on the approach roads when the yard is full, and turn across traffic into and out of the gates, while fleets of delivery vans leave for their routes. The crashes are trucks turning wide across lanes at the gates, trucks queued or parked on the shoulder or in a travel lane waiting to get in, vans pulling out into traffic, and rear-end crashes in the stop-and-go near the entrances. When a facility’s gate layout or appointment schedule puts trucks on the public road, the facility owner or its logistics operator may share responsibility with the carrier. Delivery vans are often operated by contracted delivery companies rather than the retailer itself, so the van’s operator, its insurer, and the contract between them have to be identified."
-      }
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "text",
-         "v": "M-59 and I-75."
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " On the freeways, the crashes are rear-end and underride crashes in congestion and at the backups near the interchanges, lane changes into a car in the blind spot on the right side of the cab, merge crashes on the ramps, and crashes caused by driver fatigue on long runs. A car that strikes the side or rear of a trailer can go under it; that is an "
+       "v": " Groesbeck meets the mile roads at skewed angles, with industrial driveways, truck terminals, and yards between them. Tractor-trailers turn wide into driveways across two lanes, back into docks and yards from the highway, stop in a travel lane waiting to enter, and pull out into fast traffic where the angled intersections limit sight lines. A car that strikes the side or rear of a trailer can go under it; that is an "
       },
       {
        "t": "strong",
@@ -346,17 +347,7 @@
       },
       {
        "t": "text",
-       "v": " crash, among the most lethal in trucking. Trailers must carry rear impact guards that meet federal standards (49 CFR 393.86), and a missing, damaged, or substandard guard is evidence against the carrier and the trailer’s owner. Huron Street, the surface stretch of M-59, adds signal and left-turn crashes at Telegraph, Perry, Opdyke, and Baldwin, and its closure between the two sides of the Loop is scheduled for spring to fall 2027, which will send detoured trucks onto other streets. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "VERIFY",
-         "v": ""
-        }
-       ]
+       "v": " crash, among the most lethal in trucking. Trailers must carry rear impact guards that meet federal standards (49 CFR 393.86), and a missing, damaged, or substandard guard is evidence against the carrier and the trailer’s owner. When a facility’s dock layout or schedule puts trucks in the road, the facility or its logistics provider may share responsibility with the carrier."
       }
      ]
     },
@@ -368,41 +359,13 @@
        "c": [
         {
          "t": "text",
-         "v": "Telegraph, the Loop, and the city streets."
+         "v": "Gratiot Avenue."
         }
        ]
       },
       {
        "t": "text",
-       "v": " Telegraph carries trucks to and from Dixie Highway and the north county, past the county complex and retail centers. Downtown and in the neighborhoods, delivery trucks, box trucks, and garbage trucks make tight turns, back into alleys and loading zones, and double-park in travel lanes; the crashes are right-turn crashes that catch a car, cyclist, or pedestrian on the inside of the turn, backing crashes, and crashes with trucks stopped where drivers do not expect them. Heavy trucks on designated state routes in Michigan can weigh up to 164,000 pounds, about twice the federal Interstate limit, and need far more distance to stop. See our "
-      },
-      {
-       "t": "link",
-       "href": "/personal-injury/pedestrian-accidents",
-       "c": [
-        {
-         "t": "text",
-         "v": "pedestrian accident page"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " and "
-      },
-      {
-       "t": "link",
-       "href": "/personal-injury/bicycle-accidents",
-       "c": [
-        {
-         "t": "text",
-         "v": "bicycle accident page"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": "."
+       "v": " Trucks run Gratiot’s length between I-94, Mount Clemens, and Chesterfield, past dealerships and strip centers. Rear-end crashes at the signals and in the stacked turn lanes, trucks turning across traffic into commercial driveways, and lane-change crashes into a car in the blind spot on the right side of the cab."
       }
      ]
     },
@@ -414,13 +377,13 @@
        "c": [
         {
          "t": "text",
-         "v": "Lost and spilled loads."
+         "v": "Hall Road and the retail deliveries."
         }
        ]
       },
       {
        "t": "text",
-       "v": " Cargo, equipment, or debris that falls from a truck is a violation of the federal cargo securement rules (49 CFR 393.100 and following) and of Michigan law (MCL 257.720), and the carrier and the company that loaded the truck can both be responsible."
+       "v": " The big-box stores, Partridge Creek, and the restaurants along Hall Road take tractor-trailer and box-truck deliveries daily. Hall Road’s Michigan-left crossovers are a particular hazard: a tractor-trailer cannot always make the turnaround in one movement, and a truck stalled across a crossover or swinging wide into the far lanes is struck by traffic that does not expect it."
       }
      ]
     },
@@ -432,26 +395,31 @@
        "c": [
         {
          "t": "text",
-         "v": "Whose road it is."
+         "v": "I-94."
         }
        ]
       },
       {
        "t": "text",
-       "v": " Pontiac is a city, so the answer has three parts. M-59, I-75, Telegraph, Woodward, and the Loop are MDOT’s; a road-defect claim against the State goes to the Court of Claims, with written notice filed there within 120 days (MCL 691.1404; "
-      },
+       "v": " The freeway crosses the township’s southeastern corner. Its truck crashes are rear-end and underride crashes in congestion, lane changes into a car in the blind spot, and merge crashes at the Harper Avenue interchange."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
       {
-       "t": "em",
+       "t": "strong",
        "c": [
         {
          "t": "text",
-         "v": "Champine v Department of Transportation"
+         "v": "Whose road it is: never the township’s."
         }
        ]
       },
       {
        "t": "text",
-       "v": ", Mich 2022). Most city streets are the City of Pontiac’s, and some roads are the Road Commission for Oakland County’s by segment, each with written notice within 120 days (MCL 691.1402, 691.1404)."
+       "v": " Michigan townships do not own public roads. Groesbeck, Gratiot, Hall Road, and I-94 are MDOT’s; a road-defect claim against the State goes to the Court of Claims, with written notice filed there within 120 days (MCL 691.1404). The county roads, including Garfield, Romeo Plank, Harper, Moravian, Cass, Metro Parkway, and the mile roads, are the Macomb County Department of Roads’, with 120 days’ notice (MCL 691.1404)."
       }
      ]
     }
@@ -475,7 +443,7 @@
       },
       {
        "t": "text",
-       "v": " The motor carrier is responsible for its drivers’ compliance with the Federal Motor Carrier Safety Regulations and is liable for a driver’s negligence in the course of employment. Michigan applies the federal rules to intrastate carriers (MCL 480.11a), so a local hauler or delivery carrier that never leaves Oakland County is held to the same standards as an interstate carrier. The rules that decide truck cases most often:"
+       "v": " The motor carrier is responsible for its drivers’ compliance with the Federal Motor Carrier Safety Regulations and is liable for a driver’s negligence in the course of employment. Michigan applies the federal rules to intrastate carriers (MCL 480.11a), so a local hauler running between Groesbeck yards and Macomb County plants is held to the same standards as an interstate carrier. The rules that decide truck cases most often:"
       }
      ]
     },
@@ -518,7 +486,7 @@
        [
         {
          "t": "text",
-         "v": "11 hours driving in a 14-hour window after 10 off; 60/70-hour weekly limits; recorded on an electronic logging device. Some short-haul drivers are exempt from logs but not from the limits."
+         "v": "11 hours driving in a 14-hour window after 10 off; 60/70-hour weekly limits; recorded on an electronic logging device. Waiting time at a dock counts as on-duty time."
         }
        ]
       ],
@@ -578,27 +546,7 @@
        [
         {
          "t": "text",
-         "v": "Pre-trip inspections, defect reports, maintenance records; brake, tire, lift-axle, lighting, and reflective-tape cases are maintenance cases."
-        }
-       ]
-      ],
-      [
-       [
-        {
-         "t": "text",
-         "v": "Cargo securement"
-        }
-       ],
-       [
-        {
-         "t": "text",
-         "v": "393.100–393.136"
-        }
-       ],
-       [
-        {
-         "t": "text",
-         "v": "Loads must be contained or secured so they cannot shift or fall; a spilled load is evidence of a violation."
+         "v": "Pre-trip inspections, defect reports, maintenance records; brake, tire, lighting, and reflective-tape cases are maintenance cases."
         }
        ]
       ],
@@ -678,7 +626,7 @@
       },
       {
        "t": "text",
-       "v": " In Michigan, a vehicle’s owner is liable for its negligent operation by someone driving with the owner’s consent (MCL 257.401). When the tractor, the trailer, and the driver belong to different companies, which is common in freight and in warehouse drayage, each may be a defendant, although a company in the business of renting or leasing vehicles is generally shielded from owner liability by federal law (49 USC 30106)."
+       "v": " In Michigan, a vehicle’s owner is liable for its negligent operation by someone driving with the owner’s consent (MCL 257.401). When the tractor, the trailer, and the driver belong to different companies, which is common in freight, each may be a defendant, although a company in the business of renting or leasing vehicles is generally shielded from owner liability by federal law (49 USC 30106)."
       }
      ]
     },
@@ -728,7 +676,7 @@
       },
       {
        "t": "text",
-       "v": " The shipper or broker that loaded the truck or hired an unsafe carrier; the warehouse or distribution facility whose gate or dock operations contributed; the maintenance contractor; the manufacturer of a failed component or a defective guard ("
+       "v": " The shipper or broker that loaded the trailer or hired an unsafe carrier; the facility or logistics provider whose dock operations contributed; the maintenance contractor; the manufacturer of a failed component or a defective guard ("
       },
       {
        "t": "link",
@@ -742,7 +690,7 @@
       },
       {
        "t": "text",
-       "v": "); and, for a government truck (MDOT, the City of Pontiac, the Road Commission, Oakland County, SMART, or a school bus), the agency under the motor vehicle exception to governmental immunity (MCL 691.1405)."
+       "v": "); and, for a government truck (MDOT, the Department of Roads, Clinton Township, SMART), the agency under the motor vehicle exception to governmental immunity (MCL 691.1405)."
       }
      ]
     },
@@ -760,7 +708,7 @@
       },
       {
        "t": "text",
-       "v": " Workers’ compensation pays your benefits, and your employer usually cannot be sued (MCL 418.131). If you were injured in your employer’s truck, no-fault benefits generally come from the insurer of that truck (MCL 500.3114(3)), coordinated with comp, which is paid first (MCL 500.3109(1)). You can also sue a third party, such as another driver or a facility whose dock or yard operation caused the crash. See our "
+       "v": " Workers’ compensation pays your benefits, and your employer usually cannot be sued (MCL 418.131). If you were injured in your employer’s truck, no-fault benefits generally come from the insurer of that truck (MCL 500.3114(3)), coordinated with comp, which is paid first (MCL 500.3109(1)). You can also sue a third party, such as another driver or a facility whose dock operation caused the crash. See our "
       },
       {
        "t": "link",
@@ -789,7 +737,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Carriers must keep hours-of-service records for six months (49 CFR 395.8) and driver inspection reports for three months (49 CFR 396.11); after that the regulations no longer require them. Warehouse gate and yard cameras, business cameras along M-59 and Telegraph, MDOT freeway cameras, and dash cameras overwrite in days to weeks. The truck’s engine control module and event data recorder can be cleared when it is repaired and returned to service; a spilled load is swept up within hours; and a damaged rear guard can be replaced before anyone measures it."
+       "v": "Carriers must keep hours-of-service records for six months (49 CFR 395.8) and driver inspection reports for three months (49 CFR 396.11); after that the regulations no longer require them. MDOT freeway cameras, business and yard cameras along Groesbeck, Gratiot, and Hall Road, and dash cameras overwrite in days to weeks. The truck’s engine control module and event data recorder can be cleared when it is repaired and returned to service, and a damaged rear guard can be replaced before anyone measures it."
       }
      ]
     },
@@ -798,7 +746,7 @@
      "c": [
       {
        "t": "text",
-       "v": "The first act in a Pontiac truck case is a "
+       "v": "The first act in a Clinton Township truck case is a "
       },
       {
        "t": "strong",
@@ -811,15 +759,15 @@
       },
       {
        "t": "text",
-       "v": ": to the carrier, its insurer, the tractor and trailer owners, the shipper or broker, and, where the crash happened at or near a warehouse or yard, the facility and its logistics operator. It demands the ELD and engine data, dash camera footage, the driver’s qualification file and post-crash test results, dispatch records, bills of lading, gate and dock appointment logs, maintenance files, and the truck and trailer themselves for inspection, including the brakes, lift axles, load securement, and rear guard. Once a party knows a claim is coming, destroying that evidence exposes it to spoliation sanctions. "
+       "v": ": to the carrier, its insurer, the tractor and trailer owners, the shipper or broker, and, where the crash happened at or near a facility, the facility and its logistics provider. It demands the ELD and engine data, dash camera footage, the driver’s qualification file and post-crash test results, dispatch records and bills of lading, dock appointment and arrival logs, maintenance files, and the truck and trailer themselves for inspection, including the rear guard. Once a party knows a claim is coming, destroying that evidence exposes it to spoliation sanctions. "
       }
      ]
     }
    ]
   },
   {
-   "id": "what-to-do-after-a-pontiac-truck-crash",
-   "heading": "What to do after a Pontiac truck crash",
+   "id": "what-to-do-after-a-clinton-township-truck-crash",
+   "heading": "What to do after a Clinton Township truck crash",
    "blocks": [
     {
      "t": "ol",
@@ -836,7 +784,7 @@
        },
        {
         "t": "text",
-        "v": " McLaren Oakland and Trinity Health Oakland, both in Pontiac, are Level II trauma centers on the State’s list; the most serious injuries may go to Corewell Health William Beaumont University Hospital in Royal Oak, the county’s Level I adult trauma center."
+        "v": " Henry Ford Macomb Hospital in the township and McLaren Macomb in Mount Clemens are both Level II trauma centers."
        }
       ],
       [
@@ -851,7 +799,7 @@
        },
        {
         "t": "text",
-        "v": ": the cab, the trailer, the USDOT number and carrier name on the door, both plates, the load and anything that fell from it, the rear guard and reflective tape, and the gate, yard, or loading zone if the truck was entering or leaving one."
+        "v": ": the cab, the trailer, the USDOT number and carrier name on the door, both plates, the load, the rear guard and reflective tape, and the driveway or yard if the truck was entering or leaving one."
        }
       ],
       [
@@ -866,7 +814,7 @@
        },
        {
         "t": "text",
-        "v": " Crashes on city streets are worked by the Oakland County Sheriff’s Office, which polices Pontiac under contract; freeway crashes may be worked by the Michigan State Police. A serious crash may produce a separate commercial vehicle inspection report from the State Police."
+        "v": " Most township crashes are worked by the Clinton Township Police Department (reports online through CrashDocs or from Police Records on Groesbeck); crashes on I-94 may be worked by the Michigan State Police. In a serious crash, State Police motor carrier officers from the Commercial Vehicle Enforcement Division may respond and inspect the truck and driver, and that inspection record is evidence we request."
        }
       ],
       [
@@ -907,7 +855,7 @@
        },
        {
         "t": "text",
-        "v": ", so the preservation letter goes out before the records expire and the truck is repaired."
+        "v": ", so the preservation letter goes out before the records expire and the trailer is repaired."
        }
       ]
      ]
@@ -946,7 +894,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Most Pontiac truck cases are filed in the Sixth Judicial Circuit Court (Oakland County Circuit Court) at 1200 N. Telegraph Road in Pontiac. Cases against out-of-state carriers may be filed in or removed to the U.S. District Court for the Eastern District of Michigan. Claims against the State go to the Court of Claims; claims up to $25,000 go to the 50th District Court at 70 N. Saginaw Street. A fatal crash is brought by the estate through the Oakland County Probate Court; see our "
+       "v": "Most Clinton Township truck cases are filed in the Sixteenth Judicial Circuit Court (Macomb County Circuit Court) at 40 N. Main Street in Mount Clemens. Cases against out-of-state carriers may be filed in or removed to the U.S. District Court for the Eastern District of Michigan, which sits in Detroit. Claims against the State go to the Court of Claims; claims up to $25,000 go to the 41B District Court on Starks Drive. A fatal crash is brought by the estate through the Macomb County Probate Court; see our "
       },
       {
        "t": "link",
@@ -954,7 +902,7 @@
        "c": [
         {
          "t": "text",
-         "v": "Pontiac wrongful death page"
+         "v": "Clinton Township wrongful death page"
         }
        ]
       },
@@ -991,7 +939,7 @@
        [
         {
          "t": "text",
-         "v": "Preservation letter to carrier, owners, shipper, warehouse facility"
+         "v": "Preservation letter to carrier, owners, shipper, facility"
         }
        ],
        [
@@ -1031,7 +979,7 @@
        [
         {
          "t": "text",
-         "v": "Road defect claim against the City of Pontiac or the Road Commission"
+         "v": "Road defect claim against the Macomb County Department of Roads"
         }
        ],
        [
@@ -1132,8 +1080,8 @@
    ]
   },
   {
-   "id": "why-pontiac-truck-crash-victims-call-atlaw",
-   "heading": "Why Pontiac truck crash victims call ATLAW",
+   "id": "why-clinton-township-truck-crash-victims-call-atlaw",
+   "heading": "Why Clinton Township truck crash victims call ATLAW",
    "blocks": [
     {
      "t": "ul",
@@ -1147,13 +1095,13 @@
       [
        {
         "t": "text",
-        "v": "The preservation letter goes out promptly, including a demand to inspect the truck, its load securement, and its rear guard, and to preserve the facility’s gate and yard footage."
+        "v": "The preservation letter goes out promptly, including a demand to inspect the trailer and its rear guard."
        }
       ],
       [
        {
         "t": "text",
-        "v": "ELD and engine data, FMCSA safety records, warehouse gate and dock logs, and accident reconstruction used to build the case."
+        "v": "ELD and engine data, FMCSA safety records, and accident reconstruction used to build the case."
        }
       ],
       [
@@ -1165,7 +1113,7 @@
       [
        {
         "t": "text",
-        "v": "No fee unless we recover money for you. The first conversation is free."
+        "v": "No attorney fee or case costs unless we recover money for you. The first conversation is free."
        }
       ]
      ]
@@ -1175,34 +1123,16 @@
  ],
  "faqs": [
   {
-   "question": "How many truck accidents happen in Pontiac?",
+   "question": "How many truck accidents happen in Clinton Township?",
    "answer": [
     {
      "t": "text",
-     "v": "The State does not publish truck crash figures by city. Countywide, 2,081 heavy trucks and buses were involved in Oakland County crashes in 2024, and statewide 15,888 crashes involved a heavy truck or bus."
+     "v": "The State does not publish truck crash figures by township. Countywide, 1,257 heavy trucks and buses were involved in Macomb County crashes in 2024, and statewide 15,888 crashes involved a heavy truck or bus."
     }
    ]
   },
   {
-   "question": "A truck waiting to get into a warehouse was stopped in the lane and I hit it. Is that my fault?",
-   "answer": [
-    {
-     "t": "text",
-     "v": "Not necessarily. Following too closely is usually the claim against the rear driver, but a truck stopped in a travel lane without warning or lights, or as a routine result of a facility’s gate schedule, can carry fault too, and so can the facility."
-    }
-   ]
-  },
-  {
-   "question": "A delivery van hit me. Who is responsible?",
-   "answer": [
-    {
-     "t": "text",
-     "v": "The van’s driver and the company that employs the driver, which is often a contracted delivery company rather than the retailer whose name is on the package. That company’s commercial auto policy is usually the coverage. Get the van’s company name and plate."
-    }
-   ]
-  },
-  {
-   "question": "My car went under the back of a trailer on I-75. Is that the truck’s fault?",
+   "question": "My car went under the back of a trailer on Groesbeck. Is that the truck’s fault?",
    "answer": [
     {
      "t": "text",
@@ -1211,7 +1141,16 @@
    ]
   },
   {
-   "question": "I was rear-ended by a semi on M-59. Who pays?",
+   "question": "A truck was stopped in the lane on Groesbeck waiting to turn into a yard, and I hit it. Is that my fault?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Not necessarily. Following too closely is usually the claim against the rear driver, but a truck stopped in a travel lane without warning, without lights, or as a routine practice of a facility’s dock schedule can carry fault too."
+    }
+   ]
+  },
+  {
+   "question": "I was rear-ended by a semi on Gratiot. Who pays?",
    "answer": [
     {
      "t": "text",
@@ -1220,7 +1159,7 @@
    ]
   },
   {
-   "question": "I drive a truck and was hurt in a crash in Pontiac. What are my claims?",
+   "question": "I drive a truck and was hurt in a crash in Clinton Township. What are my claims?",
    "answer": [
     {
      "t": "text",
@@ -1236,18 +1175,27 @@
      "v": "Because the records expire: six months for hours-of-service logs, three months for inspection reports, days or weeks for camera footage, and the truck’s electronic data and the trailer’s damage can disappear on repair."
     }
    ]
+  },
+  {
+   "question": "Is a truck case worth more than a car case?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "The injuries are usually worse and the insurance is usually larger: a $750,000 minimum for a general freight carrier, against $50,000 for a minimally insured car."
+    }
+   ]
   }
  ],
  "cta": {
-  "id": "talk-to-a-lawyer-about-a-pontiac-truck-crash",
-  "heading": "Talk to a lawyer about a Pontiac truck crash",
+  "id": "talk-to-a-lawyer-about-a-clinton-township-truck-crash",
+  "heading": "Talk to a lawyer about a Clinton Township truck crash",
   "blocks": [
    {
     "t": "p",
     "c": [
      {
       "t": "text",
-      "v": "If you or a family member was hit by a commercial truck or delivery van anywhere in Pontiac, call "
+      "v": "If you or a family member was hit by a commercial truck anywhere in Clinton Township, call "
      },
      {
       "t": "strong",
@@ -1260,7 +1208,7 @@
      },
      {
       "t": "text",
-      "v": " or send the form on this page. We will send the preservation letter, identify the carrier, the owners, its insurers, and any shipper or facility involved, and tell you what your claim is. The review is free, and there is no fee unless we recover money for you."
+      "v": " or send the form on this page. We will send the preservation letter, identify the carrier, the owners, its insurers, and any facility or shipper involved, and tell you what your claim is. The review is free, and there is no fee unless we recover money for you."
      }
     ]
    },
@@ -1272,7 +1220,7 @@
       "c": [
        {
         "t": "text",
-        "v": "This page is general information about Michigan and federal law as of October 2026 and is not legal advice. Crash figures are from the Michigan State Police, Michigan Traffic Crash Facts 2024, including the 2024 Heavy Trucks and Buses report. Trauma center levels are from the State of Michigan’s list dated July 31, 2026. Results depend on the facts of each case, and past results do not guarantee a future outcome."
+        "v": "This page is general information about Michigan and federal law as of October 2026 and is not legal advice. Crash figures are from the Michigan State Police, Michigan Traffic Crash Facts 2024, including the 2024 Heavy Trucks and Buses report. Results depend on the facts of each case, and past results do not guarantee a future outcome."
        }
       ]
      }
@@ -1280,10 +1228,10 @@
    }
   ]
  },
- "wordCount": 2752,
- "openItems": 1,
+ "wordCount": 2441,
+ "openItems": 0,
  "source": {
-  "file": "B3-85_Pontiac-Truck-Accident-Lawyer.docx",
+  "file": "B3-69_Clinton-Township-Truck-Accident-Lawyer.docx",
   "delivered": "October 25, 2026 [CONFIRM: Batch 3 delivery date]"
  }
 }

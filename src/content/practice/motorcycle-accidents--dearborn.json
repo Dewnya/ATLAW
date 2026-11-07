@@ -2,7 +2,7 @@
  "slug": "motorcycle-accidents",
  "section": "personal-injury",
  "city": "dearborn",
- "status": "draft",
+ "status": "approved",
  "seoTitle": "Dearborn Motorcycle Accident Lawyer: Who Pays a Rider’s Bills, the Helmet Law, and Dearborn’s Roads",
  "seoDescription": "Hurt on a motorcycle in Dearborn? Michigan no-fault treats riders differently: the car’s insurer pays, not yours, and a crash with no car involved has no PIP at all. ATLAW’s Michigan Avenue office explains the priority rule, the helmet law, pothole claims against MDOT and the City, and the deadlines. Free review. (313) 406-7606.",
  "h1": "Dearborn Motorcycle Accident Lawyer",
@@ -107,25 +107,19 @@
        [
         {
          "t": "text",
-         "v": "Motorcycle crashes in Dearborn / riders injured / killed"
-        }
-       ],
-       [
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "VERIFY",
-           "v": "pull the 2024 figures from MSP Michigan Traffic Crash Facts (city or county profile) or delete this row"
-          }
-         ]
+         "v": "Motorcycle crashes in Dearborn / people injured / killed"
         }
        ],
        [
         {
          "t": "text",
-         "v": "MSP Michigan Traffic Crash Facts, city profile"
+         "v": "20 / 16 / 0"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MSP crash data, via SEMCOG"
         }
        ]
       ],
@@ -133,25 +127,19 @@
        [
         {
          "t": "text",
-         "v": "Motorcycle crashes in Wayne County / riders injured / killed"
-        }
-       ],
-       [
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "VERIFY",
-           "v": "pull the 2024 figures from MSP Michigan Traffic Crash Facts (city or county profile) or delete this row"
-          }
-         ]
+         "v": "Motorcycles in Wayne County crashes / riders injured / killed"
         }
        ],
        [
         {
          "t": "text",
-         "v": "MSP, county profile"
+         "v": "509 / 367 / 24"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MSP, 2024 Wayne County profile"
         }
        ]
       ],
@@ -1039,8 +1027,8 @@
    }
   ]
  },
- "wordCount": 2149,
- "openItems": 2,
+ "wordCount": 2121,
+ "openItems": 0,
  "source": {
   "file": "B2-75_Dearborn-Motorcycle-Accident-Lawyer.docx",
   "delivered": "2026-10-16"

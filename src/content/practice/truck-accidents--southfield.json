@@ -2,7 +2,7 @@
  "slug": "truck-accidents",
  "section": "personal-injury",
  "city": "southfield",
- "status": "draft",
+ "status": "approved",
  "seoTitle": "Southfield Truck Accident Lawyer: I-696, Telegraph, the Work Zone, and the Federal Records That Decide a Truck Case",
  "seoDescription": "Hit by a semi or commercial truck in Southfield? I-696, Telegraph, the Lodge, and Eight Mile carry Oakland County’s freight through the city, and 2,081 heavy trucks and buses were involved in Oakland County crashes in 2024. ATLAW explains the federal safety rules, the $750,000-plus carrier insurance, Michigan no-fault, and why the truck’s records must be preserved within days. Free review. (313) 406-7606.",
  "h1": "Southfield Truck Accident Lawyer",
@@ -18,21 +18,7 @@
    "c": [
     {
      "t": "text",
-     "v": "Southfield sits where Oakland County’s freight routes cross. I-696, the Walter P. Reuther Freeway, runs across the middle of the city with interchanges at Telegraph, Northwestern and the Lodge, Southfield Road, Greenfield, and Evergreen in about four miles, and its reconstruction between Lahser Road and I-75 has put lane shifts, narrowed shoulders, and work-zone speed limits on the Southfield stretch. "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "CONFIRM",
-       "v": "current project status"
-      }
-     ]
-    },
-    {
-     "t": "text",
-     "v": " Telegraph carries through-trucks north to Pontiac and south to Dearborn; Eight Mile carries the freight that runs along the Detroit line; and the office towers, the Town Center, and the retail along Telegraph and the mile roads take deliveries every day. In 2024, according to the Michigan State Police, 2,081 heavy trucks and buses were involved in crashes in Oakland County."
+     "v": "Southfield sits where Oakland County’s freight routes cross. I-696, the Walter P. Reuther Freeway, runs across the middle of the city with interchanges at Telegraph, Northwestern and the Lodge, Southfield Road, Greenfield, and Evergreen in about four miles, and its Restore the Reuther reconstruction between Lahser Road and I-75 has put lane shifts, narrowed shoulders, ramp closures, and work-zone speed limits on the Southfield stretch, with the eastbound lanes closed from the Lodge to I-75 through late 2026 and work continuing east of I-75 through 2027. Telegraph carries through-trucks north to Pontiac and south to Dearborn; Eight Mile carries the freight that runs along the Detroit line; and the office towers, the Town Center, and the retail along Telegraph and the mile roads take deliveries every day. In 2024, according to the Michigan State Police, 2,081 heavy trucks and buses were involved in crashes in Oakland County."
     }
    ]
   },
@@ -213,13 +199,13 @@
        [
         {
          "t": "text",
-         "v": "121 crashes; third-highest intersection count in Michigan"
+         "v": "121 crashes in 2025; third-highest intersection count in Michigan"
         }
        ],
        [
         {
          "t": "text",
-         "v": "MSP 2024"
+         "v": "MSP 2025 crash data, published September 2026"
         }
        ]
       ],
@@ -308,7 +294,7 @@
       },
       {
        "t": "text",
-       "v": " Merges at five interchanges in four miles, lane shifts and narrowed shoulders through the reconstruction, and stopped traffic at the end of each closure. Rear-end and underride crashes at the back of a queue, sideswipes in narrowed lanes, and crashes with construction trucks entering and leaving the work zone. A crash in a work zone carries enhanced penalties for the at-fault driver (MCL 257.601b), and a contractor whose traffic control did not meet the Michigan Manual of Uniform Traffic Control Devices can be a defendant alongside the carrier."
+       "v": " Merges at five interchanges in four miles, lane shifts and narrowed shoulders through the reconstruction, and stopped traffic at the end of each closure. Rear-end and underride crashes at the back of a queue, sideswipes in narrowed lanes, and crashes with construction trucks entering and leaving the work zone. A moving violation in a work zone carries doubled fines, and one that injures or kills someone in the zone is a misdemeanor or felony (MCL 257.601b), and a contractor whose traffic control did not meet the Michigan Manual of Uniform Traffic Control Devices can be a defendant alongside the carrier."
       }
      ]
     },
@@ -1121,8 +1107,8 @@
    }
   ]
  },
- "wordCount": 2021,
- "openItems": 1,
+ "wordCount": 2062,
+ "openItems": 0,
  "source": {
   "file": "B3-03_Southfield-Truck-Accident-Lawyer.docx",
   "delivered": "October 23, 2026 [CONFIRM: Batch 3 delivery date]"

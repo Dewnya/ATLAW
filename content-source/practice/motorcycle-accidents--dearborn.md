@@ -2,7 +2,7 @@
 slug: motorcycle-accidents
 section: personal-injury
 city: dearborn
-status: draft
+status: approved
 seoTitle: Dearborn Motorcycle Accident Lawyer: Who Pays a Rider’s Bills, the Helmet Law, and Dearborn’s Roads
 seoDescription: Hurt on a motorcycle in Dearborn? Michigan no-fault treats riders differently: the car’s insurer pays, not yours, and a crash with no car involved has no PIP at all. ATLAW’s Michigan Avenue office explains the priority rule, the helmet law, pothole claims against MDOT and the City, and the deadlines. Free review. (313) 406-7606.
 h1: Dearborn Motorcycle Accident Lawyer
@@ -23,8 +23,8 @@ ATLAW is a personal injury firm at 3 Parklane Boulevard in Dearborn. In 13 years
 
 | Measure | Figure | Source |
 | --- | --- | --- |
-| Motorcycle crashes in Dearborn / riders injured / killed | **[VERIFY: pull the 2024 figures from MSP Michigan Traffic Crash Facts (city or county profile) or delete this row]** | MSP Michigan Traffic Crash Facts, city profile |
-| Motorcycle crashes in Wayne County / riders injured / killed | **[VERIFY: pull the 2024 figures from MSP Michigan Traffic Crash Facts (city or county profile) or delete this row]** | MSP, county profile |
+| Motorcycle crashes in Dearborn / people injured / killed | 20 / 16 / 0 | MSP crash data, via SEMCOG |
+| Motorcycles in Wayne County crashes / riders injured / killed | 509 / 367 / 24 | MSP, 2024 Wayne County profile |
 | Michigan motorcycle crashes / riders injured / killed | 3,187 / 2,460 / 168 | MSP, 2024 Motorcycle Crash Facts |
 | Share of Michigan rider deaths involving alcohol | 31 percent | MSP 2024 |
 | Wayne County crashes / injured / killed, all vehicles | 50,355 / 16,458 / 177 | MSP 2024 |

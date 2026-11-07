@@ -2,7 +2,7 @@
 slug: motorcycle-accidents
 section: personal-injury
 city: warren
-status: draft
+status: approved
 seoTitle: Warren Motorcycle Accident Lawyer: Who Pays a Rider’s Bills, Van Dyke Left Turns, Road Defects, and the Helmet Rule
 seoDescription: Hurt on a motorcycle in Warren? Under Michigan no-fault a motorcycle is not a “motor vehicle,” which decides who pays your medical bills. The rider priority rule, left-turn crashes on Van Dyke and the mile roads, potholes and the three road agencies, the helmet law, and the deadlines. Free review. (313) 406-7606.
 h1: Warren Motorcycle Accident Lawyer
@@ -39,7 +39,7 @@ ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parkla
 
 **Plant traffic.** Tractor-trailers turning wide into the gates on Mound and Van Dyke, and trucks stopped in travel lanes, are hazards a car can absorb and a motorcycle cannot. See our [Warren truck accident page](/personal-injury/truck-accidents/warren).
 
-**I-696 and Eight Mile.** Merging traffic at five interchanges in about six miles, and the Detroit-line traffic on Eight Mile, where the other driver is more likely to carry the $50,000 minimum or nothing. **[CONFIRM: current construction zones in Warren]**
+**I-696 and Eight Mile.** Merging traffic at five interchanges in about six miles, and the Detroit-line traffic on Eight Mile, where the other driver is more likely to carry the $50,000 minimum or nothing. MDOT’s I-696 reconstruction has not reached Warren; its 2027 phase ends at Dequindre, the Oakland County line. Macomb County resurfaced Mound Road between Eight Mile and I-696 in 2026, and the full rebuild of that stretch is still awaiting funding.
 
 **The road itself.** A single-vehicle crash caused by a pothole, a broken concrete joint, a pavement drop-off, or gravel is a claim against the agency with jurisdiction under the highway exception to governmental immunity (MCL 691.1402). In Warren that means three possible defendants:
 

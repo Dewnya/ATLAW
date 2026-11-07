@@ -2,7 +2,7 @@
 slug: motorcycle-accidents
 section: personal-injury
 city: southfield
-status: draft
+status: approved
 seoTitle: Southfield Motorcycle Accident Lawyer: Who Pays a Rider’s Bills, the Helmet Law, and Southfield’s Roads
 seoDescription: Hurt on a motorcycle in Southfield? Michigan no-fault treats riders differently: the car’s insurer pays, not yours, and a crash with no car involved has no PIP at all. ATLAW explains the priority rule, the helmet law, the I-696 work zone, road-defect claims against MDOT, the RCOC, and the City, and the deadlines. Free review. (313) 406-7606.
 h1: Southfield Motorcycle Accident Lawyer
@@ -34,7 +34,7 @@ ATLAW is a personal injury firm at 3 Parklane Boulevard in Dearborn, about 20 mi
 
 **The left-turn crash on Telegraph and Northwestern.** Telegraph at 12 Mile had 121 crashes in 2025, the most of any Oakland County intersection; drivers turning left across four lanes of oncoming traffic are the recurring account in rider cases, and under Michigan law a driver must yield to oncoming traffic before turning left (MCL 257.650). Northwestern’s office-tower driveways produce the same crash at lower speed.
 
-**I-696 and the work zone.** Five interchanges in four miles, lane shifts, narrowed shoulders, uneven pavement edges, steel plates, and grooved concrete through the reconstruction: hazards a car absorbs and a motorcycle does not. A rider thrown by a work-zone surface condition may have a claim against the construction contractor whose traffic control or surface did not meet the required standards, and against MDOT under the highway exception in the Court of Claims. **[CONFIRM: current I-696 project status; ATTORNEY CHECK: contractor liability and MDOT exposure]**
+**I-696 and the work zone.** Five interchanges in four miles, lane shifts, narrowed shoulders, uneven pavement edges, steel plates, and grooved concrete through the reconstruction: hazards a car absorbs and a motorcycle does not. A rider thrown by a work-zone surface condition may have a claim against the construction contractor whose traffic control or surface did not meet the required standards, and against MDOT under the highway exception in the Court of Claims. The eastbound lanes from the Lodge to I-75 are closed through late 2026, and the project continues east of I-75 through 2027.
 
 **The Lodge and Eight Mile.** Stop-and-go traffic where the Lodge meets Northwestern, and the Detroit-line traffic on Eight Mile, where the other driver is more likely to carry the $50,000 minimum or nothing.
 

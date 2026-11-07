@@ -2,7 +2,7 @@
 slug: truck-accidents
 section: personal-injury
 city: waterford
-status: draft
+status: approved
 seoTitle: Waterford, MI Truck Accident Lawyer: Dixie Highway, M-59, Gravel Trains, and the Federal Trucking Rules
 seoDescription: Hit by a semi, gravel truck, or delivery truck in Waterford Township? 2,081 heavy trucks and buses were involved in Oakland County crashes in 2024. How the federal trucking rules, Michigan’s 164,000-pound limit, the carrier’s insurance, the evidence that expires, and no-fault apply to a crash on Dixie Highway, M-59, or the lake roads, and why the township is never the road defendant. Free review. (313) 406-7606.
 h1: Waterford, MI Truck Accident Lawyer
@@ -77,7 +77,7 @@ The first act in a Waterford truck case is a **preservation letter**: to the car
 
 1. **Call 911 and get medical care the same day.** McLaren Oakland and Trinity Health Oakland in Pontiac are both Level II trauma centers; the most serious injuries may go to Corewell Health William Beaumont University Hospital in Royal Oak, a Level I center.
 2. **Photograph the truck**: the cab, the trailer, the USDOT number and carrier name on the door, both plates, the load and anything that fell from it, the rear guard and reflective tape, and the driveway or lot if the truck was entering or leaving one.
-3. **Get the police report.** Most township crashes are worked by the Waterford Township Police Department; some by the Michigan State Police or the Oakland County Sheriff’s Office. A serious crash may produce a separate commercial vehicle inspection report from the State Police. **[VERIFY: commercial vehicle enforcement; report request process]**
+3. **Get the police report.** Most township crashes are worked by the Waterford Township Police Department (reports online through CLEMIS or from the Police Records Bureau on Civic Center Drive); some by the Michigan State Police or the Oakland County Sheriff’s Office. In a serious crash, State Police motor carrier officers from the Commercial Vehicle Enforcement Division may respond and inspect the truck and driver, and that inspection record is evidence we request.
 4. **Do not speak to the carrier’s insurer or its investigator.**
 5. **Report to your own insurer and file the Application for No-Fault Benefits** within the first week.
 6. **Call a lawyer within days**, so the preservation letter goes out before the records expire and the truck is repaired.

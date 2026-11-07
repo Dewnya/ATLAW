@@ -2,7 +2,7 @@
 slug: motorcycle-accidents
 section: personal-injury
 city: livonia
-status: draft
+status: approved
 seoTitle: Livonia Motorcycle Accident Lawyer: Who Pays a Rider’s Bills, Hines Drive and the Mile Roads, Road Defects, and the Helmet Rule
 seoDescription: Hurt on a motorcycle in Livonia? Under Michigan no-fault a motorcycle is not a “motor vehicle,” which decides who pays your medical bills. The rider priority rule, left-turn crashes on Middlebelt, Plymouth, and Farmington, the I-96 and I-275 merges, Hines Drive, road defects and the three road agencies, the helmet law, and the deadlines. Free review. (313) 406-7606.
 h1: Livonia Motorcycle Accident Lawyer
@@ -85,7 +85,7 @@ Since 2012, Michigan has let riders 21 and older ride without a helmet if they c
 ## What to do after a Livonia motorcycle crash
 
 1. **Get medical care the same day.** Trinity Health Livonia Hospital on Five Mile treats many of the city’s seriously injured; Corewell Health Farmington Hills, Garden City Hospital, and the Detroit Level I trauma centers treat others.
-2. **Get the police report** from Livonia Police (available through CLEMIS), or from the State Police on I-96, I-275, and M-14. If a car caused the crash without contact, make sure the report says so. **[VERIFY]**
+2. **Get the police report** from Livonia Police (sold online through CLEMIS, usually within five to seven business days, or at Central Records on Farmington Road), or from the State Police on I-96, I-275, and M-14. If a car caused the crash without contact, make sure the report says so.
 3. **Identify every vehicle involved**, including the one that never touched you.
 4. **Photograph the bike, the scene, the road surface, your gear, and your injuries.** Do not repair or sell the bike.
 5. **Read your motorcycle policy for first-party medical, UM/UIM, and collision coverage**, and your car policy’s PIP level.

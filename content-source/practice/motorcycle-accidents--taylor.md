@@ -2,7 +2,7 @@
 slug: motorcycle-accidents
 section: personal-injury
 city: taylor
-status: draft
+status: approved
 seoTitle: Taylor, MI Motorcycle Accident Lawyer: Who Pays a Rider’s Bills, Telegraph and Eureka Left Turns, I-75 and I-94, Road Defects, and the Helmet Rule
 seoDescription: Hurt on a motorcycle in Taylor? Under Michigan no-fault, a motorcycle is not a “motor vehicle,” and that decides who pays your medical bills. Covers the rider priority rule, left-turn crashes on Telegraph and Eureka, the I-75 and I-94 merges, whether MDOT, Wayne County, or the City owns the road, the helmet law, and the deadlines. Free review. (313) 406-7606.
 h1: Taylor, MI Motorcycle Accident Lawyer
@@ -130,7 +130,7 @@ Riders under 21 must wear a helmet. If you met those conditions, riding without 
 ## What to do after a Taylor motorcycle crash
 
 1. **Get medical care the same day.** Corewell Health Taylor, on Telegraph, has an emergency department. The most serious injuries often go to Corewell Health Dearborn or Corewell Health Trenton (Level II), or the Level I trauma centers in Detroit, Detroit Receiving Hospital and Henry Ford Hospital.
-2. **Get the police report.** Crashes in the city are worked by the Taylor Police Department, and freeway crashes may be worked by the State Police. If a car caused the crash without making contact, make sure the report says so. **[VERIFY: report request process]**
+2. **Get the police report.** Crashes in the city are worked by the Taylor Police Department (reports online through CLEMIS or from the Records Bureau on Goddard Road about 72 hours after the crash), and freeway crashes may be worked by the State Police. If a car caused the crash without making contact, make sure the report says so.
 3. **Identify every vehicle involved,** including the one that never touched you.
 4. **Photograph the bike, the scene, the road surface, your gear, and your injuries.** Do not repair or sell the bike.
 5. **Read your motorcycle policy** for first-party medical, UM/UIM, and collision coverage, and check your car policy’s PIP level.

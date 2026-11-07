@@ -2,7 +2,7 @@
  "slug": "motorcycle-accidents",
  "section": "personal-injury",
  "city": "detroit",
- "status": "draft",
+ "status": "approved",
  "seoTitle": "Detroit Motorcycle Accident Lawyer: Who Pays a Rider’s Bills, the Helmet Law, and Detroit’s Roads",
  "seoDescription": "Hurt on a motorcycle in Detroit? Michigan no-fault treats riders differently: the car’s insurer pays, not yours, and a crash with no car involved has no PIP at all. ATLAW’s Dearborn motorcycle accident lawyers explain the priority rule, the helmet law, pothole claims against the City, and the deadlines. Free review. (313) 406-7606.",
  "h1": "Detroit Motorcycle Accident Lawyer",
@@ -120,25 +120,19 @@
        [
         {
          "t": "text",
-         "v": "Motorcycle crashes in Detroit / riders injured / killed"
-        }
-       ],
-       [
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "VERIFY",
-           "v": "pull the 2024 figures from MSP Michigan Traffic Crash Facts (city or county profile) or delete this row"
-          }
-         ]
+         "v": "Motorcycle crashes in Detroit / people injured / killed"
         }
        ],
        [
         {
          "t": "text",
-         "v": "MSP Michigan Traffic Crash Facts, city profile"
+         "v": "256 / 217 / 18"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MSP crash data, via SEMCOG"
         }
        ]
       ],
@@ -146,25 +140,19 @@
        [
         {
          "t": "text",
-         "v": "Motorcycle crashes in Wayne County / riders injured / killed"
-        }
-       ],
-       [
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "VERIFY",
-           "v": "pull the 2024 figures from MSP Michigan Traffic Crash Facts (city or county profile) or delete this row"
-          }
-         ]
+         "v": "Motorcycles in Wayne County crashes / riders injured / killed"
         }
        ],
        [
         {
          "t": "text",
-         "v": "MSP, county profile"
+         "v": "509 / 367 / 24"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MSP, 2024 Wayne County profile"
         }
        ]
       ],
@@ -993,21 +981,7 @@
    "answer": [
     {
      "t": "text",
-     "v": ""
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "VERIFY",
-       "v": "check the 2024 statewide figures in MSP Michigan Traffic Crash Facts; add Detroit and Wayne County motorcycle figures from the same source or remove this question"
-      }
-     ]
-    },
-    {
-     "t": "text",
-     "v": " Statewide, 3,187 motorcycle crashes in 2024 injured 2,460 riders and killed 168, according to the Michigan State Police. County figures for all crash types are on our "
+     "v": "In 2024, 256 crashes in Detroit involved a motorcycle; they killed 18 people and injured 217, according to Michigan State Police crash data. Across Wayne County, 509 motorcycles were in crashes, with 24 riders killed and 367 injured. Statewide, 3,187 motorcycle crashes in 2024 injured 2,460 riders and killed 168, according to the Michigan State Police. County figures for all crash types are on our "
     },
     {
      "t": "link",
@@ -1131,8 +1105,8 @@
    }
   ]
  },
- "wordCount": 3040,
- "openItems": 3,
+ "wordCount": 3023,
+ "openItems": 0,
  "source": {
   "file": "B2-63_Detroit-Motorcycle-Accident-Lawyer.docx",
   "delivered": "2026-10-16"

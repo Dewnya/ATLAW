@@ -2,7 +2,7 @@
 slug: motorcycle-accidents
 section: personal-injury
 city: waterford
-status: draft
+status: approved
 seoTitle: Waterford, MI Motorcycle Accident Lawyer: Who Pays a Rider’s Bills, M-59 and Dixie Left Turns, the Lake Roads, Gravel and Road Defects, and the Helmet Rule
 seoDescription: Hurt on a motorcycle in Waterford Township? Under Michigan no-fault a motorcycle is not a “motor vehicle,” which decides who pays your medical bills. The rider priority rule, M-59 and Dixie left turns, the lake roads’ curves and gravel, deer, road defects and why the township is never the road defendant, the helmet law, and the deadlines. Free review. (313) 406-7606.
 h1: Waterford, MI Motorcycle Accident Lawyer
@@ -84,7 +84,7 @@ Since 2012, Michigan has let riders 21 and older ride without a helmet if they c
 ## What to do after a Waterford motorcycle crash
 
 1. **Get medical care the same day.** McLaren Oakland and Trinity Health Oakland in Pontiac are both Level II trauma centers; the most serious injuries may go to Corewell Health William Beaumont University Hospital in Royal Oak, a Level I center.
-2. **Get the police report** from the Waterford Township Police Department, or from the State Police or Oakland County Sheriff where they worked the crash. If a car caused the crash without contact, make sure the report says so. **[VERIFY: report request process]**
+2. **Get the police report** from the Waterford Township Police Department (online through CLEMIS or from the Police Records Bureau on Civic Center Drive), or from the State Police or Oakland County Sheriff where they worked the crash. If a car caused the crash without contact, make sure the report says so.
 3. **Identify every vehicle involved**, including the one that never touched you, and any truck that left material on the road.
 4. **Photograph the bike, the scene, the intersection, curve, or driveway, the road surface and any gravel or debris, your gear, and your injuries**, and note every business and home with a camera facing the road. Do not repair or sell the bike.
 5. **Read your motorcycle policy for first-party medical, UM/UIM, and collision coverage**, and your car policy’s PIP level.

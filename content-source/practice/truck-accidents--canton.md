@@ -2,7 +2,7 @@
 slug: truck-accidents
 section: personal-injury
 city: canton
-status: draft
+status: approved
 seoTitle: Canton, MI Truck Accident Lawyer: I-275, Michigan Avenue, the Distribution Centers, Delivery Vans, and the Federal Trucking Rules
 seoDescription: Hit by a semi or delivery truck in Canton, Michigan? 3,916 heavy trucks and buses were involved in Wayne County crashes in 2024. How the federal trucking rules, the carrier’s insurance, delivery-van claims, the evidence that expires, and Michigan no-fault apply to a crash on I-275, Michigan Avenue, or Ford Road. Free review. (313) 406-7606.
 h1: Canton, MI Truck Accident Lawyer
@@ -79,7 +79,7 @@ The first act in a Canton truck case is a **preservation letter**: to the carrie
 
 1. **Call 911 and get medical care the same day.** Canton has no hospital of its own; many of the seriously injured go to Trinity Health Ann Arbor in Superior Township, a Level I trauma center, or to Trinity Health Livonia, and University of Michigan Health in Ann Arbor treats others.
 2. **Photograph the truck or van**: the cab, the trailer, the USDOT number and carrier name on the door (or the delivery contractor’s name on a van), both plates, the load, and the driveway if the truck was entering or leaving one.
-3. **Get the police report.** The Michigan State Police generally work I-275 crashes; Canton Public Safety works the surface roads. A serious crash may produce a separate MSP commercial vehicle inspection report. **[VERIFY: Canton Public Safety report release]**
+3. **Get the police report.** The Michigan State Police generally work I-275 crashes; Canton Public Safety works the surface roads, and its Records Bureau at 1150 South Canton Center Road releases crash reports at no charge in person or online through CLEMIS. In a serious crash, State Police motor carrier officers may inspect the truck and driver, and that inspection record is evidence we request.
 4. **Do not speak to the carrier’s insurer or its investigator.**
 5. **Report to your own insurer and file the Application for No-Fault Benefits** within the first week.
 6. **Call a lawyer within days**, so the preservation letter goes out before the records expire.

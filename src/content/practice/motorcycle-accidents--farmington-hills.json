@@ -1,19 +1,18 @@
 {
  "slug": "motorcycle-accidents",
  "section": "personal-injury",
- "city": "troy",
- "status": "draft",
- "seoTitle": "Troy, MI Motorcycle Accident Lawyer: Who Pays a Rider’s Bills, Big Beaver and Rochester Road Left Turns, I-75, Road Defects, and the Helmet Rule",
- "seoDescription": "Hurt on a motorcycle in Troy, Michigan? Under Michigan no-fault a motorcycle is not a “motor vehicle,” which decides who pays your medical bills. The rider priority rule, left turns across Big Beaver and Rochester Road, office and mall driveways, the I-75 interchanges, road defects and which agency has the road, the helmet law, and the deadlines. Free review. (313) 406-7606.",
- "h1": "Troy, MI Motorcycle Accident Lawyer",
- "tagline": "Under Michigan no-fault, a motorcycle is not a motor vehicle. That one definition decides who pays a rider’s medical bills after a crash on Big Beaver, Rochester Road, or I-75, and whether there is a no-fault claim at all.",
- "primaryKeyword": "troy motorcycle accident lawyer (50/mo) · motorcycle accident lawyer troy (70/mo, shared nationally)",
+ "city": "farmington-hills",
+ "status": "approved",
+ "seoTitle": "Farmington Hills Motorcycle Accident Lawyer: Who Pays a Rider’s Bills, the Orchard Lake Roundabout, Michigan Lefts, Road Defects, and the Helmet Rule",
+ "seoDescription": "Hurt on a motorcycle in Farmington Hills? Under Michigan no-fault a motorcycle is not a “motor vehicle,” which decides who pays your medical bills. The rider priority rule, the Orchard Lake roundabout and Michigan lefts, left turns on Grand River and Twelve Mile, the freeway interchange, road defects and the three road agencies, the helmet law, and the deadlines. Free review. (313) 406-7606.",
+ "h1": "Farmington Hills Motorcycle Accident Lawyer",
+ "tagline": "Under Michigan no-fault, a motorcycle is not a motor vehicle. That one definition decides who pays a rider’s medical bills after a crash in the Orchard Lake roundabout, on Grand River, or at the I-696 interchange, and whether there is a no-fault claim at all.",
+ "primaryKeyword": "motorcycle accident lawyer farmington hills mi (40/mo)",
  "secondaryKeywords": [
-  "motorcycle accident lawyer troy mi (30)",
-  "motorcycle accident attorney troy mi (30)",
-  "motorcycle accident attorney troy (30)",
-  "motorcycle accident troy mi (20)",
-  "troy motorcycle accident attorney (10)"
+  "farmington hills motorcycle accident lawyer (20)",
+  "farmington hills motorcycle accident attorney (10)",
+  "motorcycle accident lawyer farmington hills (10)",
+  "motorcycle accident attorney farmington hills (10)"
  ],
  "intro": [
   {
@@ -21,7 +20,7 @@
    "c": [
     {
      "t": "text",
-     "v": "A motorcycle crash in Troy is governed by a rule many riders learn only after they are hurt: under Michigan no-fault, a motorcycle is not a “motor vehicle.” That definition decides who pays your medical bills, how much they pay, whether you have a no-fault claim at all, and how the insurer will argue the helmet question. Troy adds its own risks: drivers turning left across Big Beaver’s wide lanes and Rochester Road’s retail traffic; drivers pulling out of office-tower, parking-structure, and shopping-center driveways; median crossovers on the divided arterials; the merges at the I-75 interchanges during the office commute; and a road network split between the City and the Road Commission for Oakland County, which decides where the notice goes when the road caused the crash."
+     "v": "A motorcycle crash in Farmington Hills is governed by a rule many riders learn only after they are hurt: under Michigan no-fault, a motorcycle is not a “motor vehicle.” That definition decides who pays your medical bills, how much they pay, whether you have a no-fault claim at all, and how the insurer will argue the helmet question. Farmington Hills adds its own risks: the multilane roundabout at Orchard Lake Road and 14 Mile, which recorded 109 crashes in 2024, sixth among all Michigan intersections; drivers turning left across Grand River, Twelve Mile, Middlebelt, and the mile roads; the merges where I-696, I-96, I-275, and M-5 meet; and three road agencies, each with its own notice clock when the road itself caused the crash."
     }
    ]
   },
@@ -48,11 +47,11 @@
     },
     {
      "t": "link",
-     "href": "/areas-served/troy",
+     "href": "/areas-served/farmington-hills",
      "c": [
       {
        "t": "text",
-       "v": "Troy page"
+       "v": "Farmington Hills page"
       }
      ]
     },
@@ -62,11 +61,11 @@
     },
     {
      "t": "link",
-     "href": "/personal-injury/auto-accidents/troy",
+     "href": "/personal-injury/auto-accidents/farmington-hills",
      "c": [
       {
        "t": "text",
-       "v": "Troy car accident page"
+       "v": "Farmington Hills car accident page"
       }
      ]
     },
@@ -122,13 +121,13 @@
        [
         {
          "t": "text",
-         "v": "Motorcycle crashes in Oakland County / riders injured / killed"
+         "v": "Motorcycles in Oakland County crashes / riders injured / killed, 2024"
         }
        ],
        [
         {
          "t": "text",
-         "v": "310 motorcycles in crashes / 219 riders injured / 16 killed"
+         "v": "310 / 219 / 16"
         }
        ],
        [
@@ -182,19 +181,19 @@
        [
         {
          "t": "text",
-         "v": "Oakland County crashes / injured / killed, all vehicles"
+         "v": "Orchard Lake Road at 14 Mile (roundabout), all vehicles"
         }
        ],
        [
         {
          "t": "text",
-         "v": "35,951 / 9,139 / 68"
+         "v": "109 crashes, 5 injuries; sixth in Michigan, second in Oakland County"
         }
        ],
        [
         {
          "t": "text",
-         "v": "MSP, Michigan Traffic Crash Facts 2024"
+         "v": "MSP 2024 crash data, as compiled and reported November 2025"
         }
        ]
       ],
@@ -202,13 +201,33 @@
        [
         {
          "t": "text",
-         "v": "Michigan liability limits for the at-fault driver"
+         "v": "Orchard Lake Road at 12 Mile, all vehicles"
         }
        ],
        [
         {
          "t": "text",
-         "v": "$250,000 / $500,000 unless the driver chose lower limits; minimum $50,000 / $100,000"
+         "v": "65 crashes, 16 injuries; seventh in Oakland County"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Same"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Michigan minimum liability limits for the at-fault driver"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "$250,000 / $500,000 by default; as low as $50,000 / $100,000 if the policyholder elects"
         }
        ],
        [
@@ -243,8 +262,8 @@
    ]
   },
   {
-   "id": "where-troy-motorcycle-crashes-happen",
-   "heading": "Where Troy motorcycle crashes happen",
+   "id": "where-farmington-hills-motorcycle-crashes-happen",
+   "heading": "Where Farmington Hills motorcycle crashes happen",
    "blocks": [
     {
      "t": "p",
@@ -254,13 +273,13 @@
        "c": [
         {
          "t": "text",
-         "v": "The left turn on Big Beaver and Rochester Road."
+         "v": "The Orchard Lake roundabout at 14 Mile."
         }
        ]
       },
       {
        "t": "text",
-       "v": " A driver turning left across oncoming traffic, misjudging the speed of a motorcycle or not seeing it at all, is the recurring account in rider cases. Under Michigan law a driver must yield to oncoming traffic before turning left (MCL 257.650). On Big Beaver, the left turn crosses several lanes of oncoming traffic, and a car or truck in the inside lane can hide a motorcycle from the turning driver until it is too late. On Rochester Road, drivers turn left into shopping centers, restaurants, and dealerships between signals, where the rider has no warning."
+       "v": " A roundabout lowers speeds and turns most car crashes into sideswipes and rear-ends, which is why this one recorded 109 crashes but only 5 injuries in 2024. For a rider, a sideswipe is not minor. The roundabout crashes that injure riders are a driver entering without yielding to traffic already circulating, a driver in the inner lane exiting across the outer lane where the motorcycle is, and a driver changing lanes inside the circle. A motorcycle is entitled to a full lane (MCL 257.660(2)), and a driver who crowds a rider out of it is at fault."
       }
      ]
     },
@@ -272,13 +291,13 @@
        "c": [
         {
          "t": "text",
-         "v": "Office, parking-structure, and mall driveways."
+         "v": "Orchard Lake between 12 Mile and 14 Mile."
         }
        ]
       },
       {
        "t": "text",
-       "v": " Big Beaver’s towers, the Somerset parking structures, Oakland Mall, the Troy Motor Mall, and the corporate campuses on Maple and Long Lake empty onto the arterials at shift times. A driver pulling out to cross several lanes, looking for a gap among cars, often misses a motorcycle in that gap. The business’s own cameras usually record the driveway, and they overwrite quickly."
+       "v": " A driver pulling out of a retail or office driveway into the near lane, looking for a gap among cars, often misses a motorcycle in that gap. At the 12 Mile signal, which recorded 65 crashes and 16 injuries in 2024, red-light and turning crashes add to it."
       }
      ]
     },
@@ -290,13 +309,13 @@
        "c": [
         {
          "t": "text",
-         "v": "Median crossovers."
+         "v": "The left turn on Grand River, Twelve Mile, Middlebelt, and the mile roads."
         }
        ]
       },
       {
        "t": "text",
-       "v": " Where Troy’s arterials are divided, drivers turn left by using a crossover in the median and then merging into the far lanes. A driver leaving a crossover must yield to traffic in the lanes being entered, and a rider in the near lane is the one most often hit."
+       "v": " A driver turning left across oncoming traffic, misjudging the speed of a motorcycle or not seeing it at all, is the recurring account in rider cases. Under Michigan law a driver must yield to oncoming traffic before turning left (MCL 257.650). Drivers turning into the retail strips on Grand River and Orchard Lake, and into the office campuses on Twelve Mile and Halsted at shift times, produce the same crash at lower speeds."
       }
      ]
     },
@@ -308,21 +327,21 @@
        "c": [
         {
          "t": "text",
-         "v": "I-75 and the interchanges."
+         "v": "The freeways and the interchange."
         }
        ]
       },
       {
        "t": "text",
-       "v": " On I-75, drivers merging and changing lanes at the Big Beaver and Crooks interchanges during the commute, and rear-end crashes in stop-and-go traffic, are the rider’s risks; a rear-end impact a car absorbs throws a rider. Tractor-trailers on I-75 add blind spots and wind blast. See our "
+       "v": " On I-696, I-96, I-275, and M-5, drivers merging and changing lanes at the interchange at the city’s southwest corner, and rear-end crashes in stop-and-go traffic on I-696, are the rider’s risks; a rear-end impact a car absorbs throws a rider. Tractor-trailers heading to the Novi and Wixom corridor add blind spots and wind blast. See our "
       },
       {
        "t": "link",
-       "href": "/personal-injury/truck-accidents/troy",
+       "href": "/personal-injury/truck-accidents/farmington-hills",
        "c": [
         {
          "t": "text",
-         "v": "Troy truck accident page"
+         "v": "Farmington Hills truck accident page"
         }
        ]
       },
@@ -346,25 +365,13 @@
       },
       {
        "t": "text",
-       "v": " A single-vehicle crash caused by a pothole, a broken concrete joint, a pavement drop-off, a steel plate left by road work, or gravel is a claim against the agency with jurisdiction under the highway exception to governmental immunity (MCL 691.1402). In Troy that usually means:"
+       "v": " A single-vehicle crash caused by a pothole, a broken concrete joint, a pavement drop-off, or a ridge left by road work is a claim against the agency with jurisdiction under the highway exception to governmental immunity (MCL 691.1402). In Farmington Hills that means three possible defendants:"
       }
      ]
     },
     {
      "t": "ul",
      "items": [
-      [
-       {
-        "t": "text",
-        "v": "The City of Troy, for its local streets and its own major streets: written notice within 120 days (MCL 691.1404). MDOT, for I-75: written notice filed with the Court of Claims within 120 days (MCL 691.1404)."
-       }
-      ],
-      [
-       {
-        "t": "text",
-        "v": "The Road Commission for Oakland County, which has jurisdiction over many of Troy’s major roads: written notice within 120 days (MCL 691.1404)."
-       }
-      ],
       [
        {
         "t": "strong",
@@ -377,7 +384,37 @@
        },
        {
         "t": "text",
-        "v": ", for I-75 and generally Stephenson Highway: Court of Claims, with notice within six months (MCL 600.6431)."
+        "v": " for I-696, I-96, I-275, M-5, and Grand River: written notice filed with the Court of Claims within 120 days (MCL 691.1404)."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The Road Commission for Oakland County"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " for Orchard Lake, Middlebelt, Inkster, Farmington Road, Halsted, Haggerty, and the mile roads, including Eight Mile and the 14 Mile roundabout: written notice within 120 days (MCL 691.1404)."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "The City of Farmington Hills"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " for subdivision and local streets: written notice within 120 days (MCL 691.1404)."
        }
       ]
      ]
@@ -387,7 +424,7 @@
      "c": [
       {
        "t": "text",
-       "v": "A defect that was readily apparent to an ordinary observer for 30 days or more is conclusively presumed known to the agency (MCL 691.1403). Notice to the wrong agency is not notice, and in Troy the City and the Road Commission split the major roads."
+       "v": "A defect that was readily apparent to an ordinary observer for 30 days or more is conclusively presumed known to the agency (MCL 691.1403). Notice to the wrong agency is not notice."
       }
      ]
     },
@@ -405,7 +442,7 @@
       },
       {
        "t": "text",
-       "v": " 31 percent of Michigan’s 2024 rider deaths involved alcohol. A restaurant, hotel bar, or bar on Big Beaver or Rochester Road that over-served the driver who hit a rider can be liable under the dram shop act: written notice within 120 days after you hire a lawyer, and suit within two years (MCL 436.1801(3)). See our "
+       "v": " 31 percent of Michigan’s 2024 rider deaths involved alcohol. A bar or restaurant on Grand River or Orchard Lake that over-served the driver who hit a rider can be liable under the dram shop act: written notice within 120 days after you hire a lawyer, and suit within two years (MCL 436.1801(3)). See our "
       },
       {
        "t": "link",
@@ -426,8 +463,8 @@
    ]
   },
   {
-   "id": "who-pays-a-troy-riders-medical-bills",
-   "heading": "Who pays a Troy rider’s medical bills",
+   "id": "who-pays-a-farmington-hills-riders-medical-bills",
+   "heading": "Who pays a Farmington Hills rider’s medical bills",
    "blocks": [
     {
      "t": "p",
@@ -481,7 +518,7 @@
      "c": [
       {
        "t": "text",
-       "v": "“Involved” does not require contact; a car that turned across your path and forced you down is involved even if it never touched you. If no insurer in that chain exists, the Michigan Assigned Claims Plan pays (MCL 500.3172), with its $250,000 medical cap, unless you owned the motorcycle and it was uninsured (MCL 500.3113(b))."
+       "v": "“Involved” does not require contact; a car that cut you off in the roundabout is involved even if it never touched you. If no insurer in that chain exists, the Michigan Assigned Claims Plan pays (MCL 500.3172), with its $250,000 medical cap, unless you owned the motorcycle and it was uninsured (MCL 500.3113(b))."
       }
      ]
     },
@@ -531,7 +568,7 @@
       },
       {
        "t": "text",
-       "v": " A single-vehicle crash on a pothole, a broken joint, or gravel produces no PIP claim. Your bills go to your health insurance and any medical coverage you bought on the motorcycle policy, and your injury claim is against whoever caused the hazard. A rider hit by a car, by contrast, usually has a full PIP claim, and which insurer pays it is the first question."
+       "v": " A single-vehicle crash on a pothole, a broken joint, or gravel in the roundabout produces no PIP claim. Your bills go to your health insurance and any medical coverage you bought on the motorcycle policy, and your injury claim is against whoever caused the hazard. A rider hit by a car, by contrast, usually has a full PIP claim."
       }
      ]
     },
@@ -609,11 +646,11 @@
       },
       {
        "t": "link",
-       "href": "/personal-injury/wrongful-death/troy",
+       "href": "/personal-injury/wrongful-death/farmington-hills",
        "c": [
         {
          "t": "text",
-         "v": "Troy wrongful death page"
+         "v": "Farmington Hills wrongful death page"
         }
        ]
       },
@@ -637,7 +674,7 @@
       },
       {
        "t": "text",
-       "v": " Many Troy drivers carry liability limits at or above the $250,000/$500,000 default, but commuter and freeway traffic includes drivers with the $50,000 opt-down minimum (MCL 500.3009(5)) or nothing. The recovery then turns on your own "
+       "v": " Many drivers carry the $50,000 opt-down minimum (MCL 500.3009(5)). The recovery then turns on your own "
       },
       {
        "t": "strong",
@@ -682,7 +719,7 @@
       },
       {
        "t": "text",
-       "v": " Above 50 percent at fault you recover no noneconomic damages; below that your award is reduced by your share, and at exactly 50 percent you recover half (MCL 500.3135(2)(b), 600.2959). Economic damages beyond no-fault are reduced by your share as well. Insurers argue speed, lane position, lane splitting (illegal in Michigan), and “came out of nowhere.” The police report, witnesses, the other driver’s phone records, business and parking-structure cameras along Big Beaver and Rochester, and the rider’s own camera answer it."
+       "v": " Above 50 percent at fault you recover no noneconomic damages; below that your award is reduced by your share, and at exactly 50 percent you recover half (MCL 500.3135(2)(b), 600.2959). Economic damages beyond no-fault are reduced by your share as well. Insurers argue speed, lane position, lane splitting (illegal in Michigan), and “came out of nowhere.” The police report, witnesses, the other driver’s phone records, business cameras along Orchard Lake and Grand River, and the rider’s own camera answer it."
       }
      ]
     }
@@ -704,8 +741,8 @@
    ]
   },
   {
-   "id": "what-to-do-after-a-troy-motorcycle-crash",
-   "heading": "What to do after a Troy motorcycle crash",
+   "id": "what-to-do-after-a-farmington-hills-motorcycle-crash",
+   "heading": "What to do after a Farmington Hills motorcycle crash",
    "blocks": [
     {
      "t": "ol",
@@ -722,7 +759,7 @@
        },
        {
         "t": "text",
-        "v": " Corewell Health Troy Hospital on Dequindre treats many of the city’s injured; Corewell Health William Beaumont University Hospital in Royal Oak, a Level I trauma center, treats others."
+        "v": " Corewell Health Farmington Hills Hospital on Grand River treats many of the city’s injured; Corewell Health William Beaumont University Hospital in Royal Oak, a Level I trauma center, Henry Ford Providence Novi Hospital, and Trinity Health Livonia Hospital treat others."
        }
       ],
       [
@@ -737,17 +774,7 @@
        },
        {
         "t": "text",
-        "v": " from the Troy Police Department, or from the State Police on I-75. If a car caused the crash without contact, make sure the report says so. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "VERIFY",
-          "v": "report request process"
-         }
-        ]
+        "v": " from Farmington Hills Police (online through CLEMIS or at the Records Section on Eleven Mile, generally 48 to 72 hours after the crash), or from the State Police on the freeways. If a car caused the crash without contact, make sure the report says so."
        }
       ],
       [
@@ -771,13 +798,13 @@
         "c": [
          {
           "t": "text",
-          "v": "Photograph the bike, the scene, the lane markings, the road surface, your gear, and your injuries"
+          "v": "Photograph the bike, the scene, the lane markings, the road surface, your gear, and your injuries."
          }
         ]
        },
        {
         "t": "text",
-        "v": ", and note every business or parking structure with a camera facing the road. Do not repair or sell the bike."
+        "v": " Do not repair or sell the bike."
        }
       ],
       [
@@ -838,7 +865,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Rider injury suits over $25,000 go to the Sixth Judicial Circuit Court at 1200 N. Telegraph Road in Pontiac, or in some Dequindre or Macomb County cases to the Sixteenth Circuit in Mount Clemens (MCL 600.1629); smaller claims to the 52nd District Court, Fourth Division, at 520 W. Big Beaver Road; claims against MDOT to the Court of Claims."
+       "v": "Rider injury suits over $25,000 go to the Sixth Judicial Circuit Court at 1200 N. Telegraph Road in Pontiac, or in some Eight Mile or Wayne County cases to the Third Circuit in Detroit (MCL 600.1629); smaller claims to the 47th District Court at 31605 W. Eleven Mile Road; claims against MDOT to the Court of Claims."
       }
      ]
     },
@@ -909,7 +936,7 @@
        [
         {
          "t": "text",
-         "v": "Road defect claim against the City of Troy or the Road Commission"
+         "v": "Road defect claim against the City or the Road Commission for Oakland County"
         }
        ],
        [
@@ -929,7 +956,7 @@
        [
         {
          "t": "text",
-         "v": "Defect on I-75 (MDOT)"
+         "v": "Defect on I-696, I-96, I-275, M-5, or Grand River (MDOT)"
         }
        ],
        [
@@ -990,8 +1017,8 @@
    ]
   },
   {
-   "id": "why-troy-riders-call-atlaw",
-   "heading": "Why Troy riders call ATLAW",
+   "id": "why-farmington-hills-riders-call-atlaw",
+   "heading": "Why Farmington Hills riders call ATLAW",
    "blocks": [
     {
      "t": "ul",
@@ -1027,20 +1054,20 @@
  ],
  "faqs": [
   {
-   "question": "A car turned left in front of me on Big Beaver and I went down. Do I have a claim?",
+   "question": "A driver cut me off leaving the Orchard Lake roundabout. Do I have a claim?",
    "answer": [
     {
      "t": "text",
-     "v": "Yes. A driver turning left must yield to oncoming traffic, and the car is “involved” under no-fault whether or not it touched you, so its owner’s insurer is first in line for your medical bills. Get the plate and witnesses before the car is gone."
+     "v": "Yes, if the driver exited or changed lanes across your lane. A motorcycle is entitled to the full lane, and the car is “involved” under no-fault whether or not it touched you, so its owner’s insurer is first in line for your medical bills. Get the plate and witnesses before the car is gone."
     }
    ]
   },
   {
-   "question": "A driver pulled out of an office driveway on Big Beaver into my lane. Who is at fault?",
+   "question": "A car pulled out of a Michigan-left crossover and hit me. Who is at fault?",
    "answer": [
     {
      "t": "text",
-     "v": "Usually the driver leaving the driveway, who must yield to traffic on the road. Ask the building’s management for its camera footage right away, or have a lawyer send a preservation letter, because it is kept for days."
+     "v": "Usually the driver leaving the crossover, who must yield to traffic in the lanes being entered. The police diagram, cameras at the nearby businesses, and witnesses decide it."
     }
    ]
   },
@@ -1063,20 +1090,11 @@
    ]
   },
   {
-   "question": "I went down on a pothole on Rochester Road. Who do I notify?",
+   "question": "I went down on a pothole on Middlebelt. Who do I notify?",
    "answer": [
     {
      "t": "text",
-     "v": "The City of Troy or the Road Commission for Oakland County, depending on which agency has that stretch: written notice within 120 days stating the exact location, the defect, the injury, and the witnesses. Confirm the agency before the notice goes out."
-    }
-   ]
-  },
-  {
-   "question": "I found Troy motorcycle lawyers in Ohio and New York. Does that matter?",
-   "answer": [
-    {
-     "t": "text",
-     "v": "Yes. Michigan’s no-fault rider priority rule, helmet law, and deadlines do not exist in those states. A crash in Troy, Michigan needs a lawyer practicing Michigan law."
+     "v": "Middlebelt is generally a Road Commission for Oakland County road: written notice within 120 days stating the exact location, the defect, the injury, and the witnesses."
     }
    ]
   },
@@ -1091,15 +1109,15 @@
   }
  ],
  "cta": {
-  "id": "talk-to-a-lawyer-about-a-troy-motorcycle-crash",
-  "heading": "Talk to a lawyer about a Troy motorcycle crash",
+  "id": "talk-to-a-lawyer-about-a-farmington-hills-motorcycle-crash",
+  "heading": "Talk to a lawyer about a Farmington Hills motorcycle crash",
   "blocks": [
    {
     "t": "p",
     "c": [
      {
       "t": "text",
-      "v": "If you were hurt on a motorcycle anywhere in Troy, call "
+      "v": "If you were hurt on a motorcycle anywhere in Farmington Hills, call "
      },
      {
       "t": "strong",
@@ -1124,7 +1142,7 @@
       "c": [
        {
         "t": "text",
-        "v": "This page is general information about Michigan law as of October 2026 and is not legal advice. Crash figures are from the Michigan State Police, 2024 Motorcycle Crash Facts and Michigan Traffic Crash Facts 2024. Results depend on the facts of each case, and past results do not guarantee a future outcome."
+        "v": "This page is general information about Michigan law as of October 2026 and is not legal advice. Crash figures are from the Michigan State Police, 2024 Motorcycle Crash Facts and Michigan Traffic Crash Facts 2024, and State Police intersection data for 2024 as compiled and reported. Results depend on the facts of each case, and past results do not guarantee a future outcome."
        }
       ]
      }
@@ -1132,10 +1150,10 @@
    }
   ]
  },
- "wordCount": 2369,
- "openItems": 1,
+ "wordCount": 2352,
+ "openItems": 0,
  "source": {
-  "file": "B3-62_Troy-Motorcycle-Accident-Lawyer.docx",
+  "file": "B3-54_Farmington-Hills-Motorcycle-Accident-Lawyer.docx",
   "delivered": "October 25, 2026 [CONFIRM: Batch 3 delivery date]"
  }
 }

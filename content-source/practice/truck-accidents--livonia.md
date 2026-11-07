@@ -2,7 +2,7 @@
 slug: truck-accidents
 section: personal-injury
 city: livonia
-status: draft
+status: approved
 seoTitle: Livonia Truck Accident Lawyer: I-96, I-275, the M-14 Interchange, the Plymouth Road Corridor, and the Federal Trucking Rules
 seoDescription: Hit by a semi or delivery truck in Livonia? 3,916 heavy trucks and buses were involved in Wayne County crashes in 2024. How the federal trucking rules, the carrier’s insurance, the evidence that expires, and Michigan no-fault apply to a crash on I-96, I-275, or Plymouth Road. Free review. (313) 406-7606.
 h1: Livonia Truck Accident Lawyer
@@ -37,7 +37,7 @@ The MSP count includes trucks over 10,000 pounds and buses, so SMART buses on Li
 
 **I-96 and the Schoolcraft service drives.** I-96 carries freight between Detroit, Lansing, and Grand Rapids, with interchanges at Inkster, Middlebelt, Merriman, Farmington, Levan, and Newburgh. The freeway crashes are rear-end collisions in stop-and-go traffic, including underride crashes into the back of a trailer; lane changes into a car in the truck’s blind spot; and rollovers and jackknifes on the ramps and curves. Local news has reported semi crashes that closed I-96 in Livonia, including a truck that struck the Farmington Road overpass in October 2011, closing the eastbound lanes at Newburgh, and a rollover near Levan in May 2016.
 
-**I-275, M-14, and the interchange.** I-275 is the western bypass for freight moving between I-75, I-94, the airport cargo terminals in Romulus, and the northern suburbs, and the I-96/I-275/M-14 interchange at the city’s western edge is where those flows merge and split. Merge and weave crashes, trucks changing lanes for an exit, and backups at the ramps are the interchange’s cases; southbound I-275 near Six Mile is a crash area the Livonia Police Department identifies separately. **[VERIFY]**
+**I-275, M-14, and the interchange.** I-275 is the western bypass for freight moving between I-75, I-94, the airport cargo terminals in Romulus, and the northern suburbs, and the I-96/I-275/M-14 interchange at the city’s western edge is where those flows merge and split. Merge and weave crashes, trucks changing lanes for an exit, and backups at the ramps are the interchange’s cases; southbound I-275 near Six Mile is a crash area the Livonia Police Department’s Traffic Bureau identifies separately on its list of high-crash locations.
 
 **Plymouth Road, Schoolcraft, and the industrial parcels.** Tractor-trailers and box trucks turning wide into loading docks and driveways across two lanes; trucks backing into docks from the road; trucks stopped in a travel lane waiting to enter; and trucks pulling out into fast traffic with limited sight lines. When a facility’s dock layout, traffic control, or delivery schedule puts trucks in the road, the facility or its logistics provider may share responsibility with the carrier.
 

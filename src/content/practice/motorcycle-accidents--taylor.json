@@ -2,7 +2,7 @@
  "slug": "motorcycle-accidents",
  "section": "personal-injury",
  "city": "taylor",
- "status": "draft",
+ "status": "approved",
  "seoTitle": "Taylor, MI Motorcycle Accident Lawyer: Who Pays a Rider’s Bills, Telegraph and Eureka Left Turns, I-75 and I-94, Road Defects, and the Helmet Rule",
  "seoDescription": "Hurt on a motorcycle in Taylor? Under Michigan no-fault, a motorcycle is not a “motor vehicle,” and that decides who pays your medical bills. Covers the rider priority rule, left-turn crashes on Telegraph and Eureka, the I-75 and I-94 merges, whether MDOT, Wayne County, or the City owns the road, the helmet law, and the deadlines. Free review. (313) 406-7606.",
  "h1": "Taylor, MI Motorcycle Accident Lawyer",
@@ -1083,17 +1083,7 @@
        },
        {
         "t": "text",
-        "v": " Crashes in the city are worked by the Taylor Police Department, and freeway crashes may be worked by the State Police. If a car caused the crash without making contact, make sure the report says so. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "VERIFY",
-          "v": "report request process"
-         }
-        ]
+        "v": " Crashes in the city are worked by the Taylor Police Department (reports online through CLEMIS or from the Records Bureau on Goddard Road about 72 hours after the crash), and freeway crashes may be worked by the State Police. If a car caused the crash without making contact, make sure the report says so."
        }
       ],
       [
@@ -1510,8 +1500,8 @@
    }
   ]
  },
- "wordCount": 2342,
- "openItems": 1,
+ "wordCount": 2356,
+ "openItems": 0,
  "source": {
   "file": "B4-10_Taylor-Motorcycle-Accident-Lawyer.docx",
   "delivered": "October 25, 2026 [CONFIRM: Batch 4 delivery date]"

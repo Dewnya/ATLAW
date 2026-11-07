@@ -1,17 +1,19 @@
 {
  "slug": "motorcycle-accidents",
  "section": "personal-injury",
- "city": "livonia",
- "status": "draft",
- "seoTitle": "Livonia Motorcycle Accident Lawyer: Who Pays a Rider’s Bills, Hines Drive and the Mile Roads, Road Defects, and the Helmet Rule",
- "seoDescription": "Hurt on a motorcycle in Livonia? Under Michigan no-fault a motorcycle is not a “motor vehicle,” which decides who pays your medical bills. The rider priority rule, left-turn crashes on Middlebelt, Plymouth, and Farmington, the I-96 and I-275 merges, Hines Drive, road defects and the three road agencies, the helmet law, and the deadlines. Free review. (313) 406-7606.",
- "h1": "Livonia Motorcycle Accident Lawyer",
- "tagline": "Under Michigan no-fault, a motorcycle is not a motor vehicle. That one definition decides who pays a rider’s medical bills after a crash on Middlebelt, Hines Drive, or I-275, and whether there is a no-fault claim at all.",
- "primaryKeyword": "motorcycle accident lawyer livonia mi (40/mo)",
+ "city": "troy",
+ "status": "approved",
+ "seoTitle": "Troy, MI Motorcycle Accident Lawyer: Who Pays a Rider’s Bills, Big Beaver and Rochester Road Left Turns, I-75, Road Defects, and the Helmet Rule",
+ "seoDescription": "Hurt on a motorcycle in Troy, Michigan? Under Michigan no-fault a motorcycle is not a “motor vehicle,” which decides who pays your medical bills. The rider priority rule, left turns across Big Beaver and Rochester Road, office and mall driveways, the I-75 interchanges, road defects and which agency has the road, the helmet law, and the deadlines. Free review. (313) 406-7606.",
+ "h1": "Troy, MI Motorcycle Accident Lawyer",
+ "tagline": "Under Michigan no-fault, a motorcycle is not a motor vehicle. That one definition decides who pays a rider’s medical bills after a crash on Big Beaver, Rochester Road, or I-75, and whether there is a no-fault claim at all.",
+ "primaryKeyword": "troy motorcycle accident lawyer (50/mo) · motorcycle accident lawyer troy (70/mo, shared nationally)",
  "secondaryKeywords": [
-  "motorcycle accident livonia (30)",
-  "livonia motorcycle accident lawyer (no measured volume)",
-  "livonia motorcycle accident attorney (no measured volume)"
+  "motorcycle accident lawyer troy mi (30)",
+  "motorcycle accident attorney troy mi (30)",
+  "motorcycle accident attorney troy (30)",
+  "motorcycle accident troy mi (20)",
+  "troy motorcycle accident attorney (10)"
  ],
  "intro": [
   {
@@ -19,7 +21,7 @@
    "c": [
     {
      "t": "text",
-     "v": "A motorcycle crash in Livonia is governed by a rule many riders learn only after they are hurt: under Michigan no-fault, a motorcycle is not a “motor vehicle.” That definition decides who pays your medical bills, how much they pay, whether you have a no-fault claim at all, and how the insurer will argue the helmet question. Livonia adds its own risks: drivers turning left across Middlebelt, Plymouth, Farmington, and the mile roads; the double signals at the I-96 service drives, where Middlebelt at Schoolcraft recorded 95 crashes in 2024, second in Wayne County; the merges at the I-96/I-275/M-14 interchange; the curves of Hines Drive through Hines Park; and three road agencies, each with its own notice clock when the road itself caused the crash."
+     "v": "A motorcycle crash in Troy is governed by a rule many riders learn only after they are hurt: under Michigan no-fault, a motorcycle is not a “motor vehicle.” That definition decides who pays your medical bills, how much they pay, whether you have a no-fault claim at all, and how the insurer will argue the helmet question. Troy adds its own risks: drivers turning left across Big Beaver’s wide lanes and Rochester Road’s retail traffic; drivers pulling out of office-tower, parking-structure, and shopping-center driveways; median crossovers on the divided arterials; the merges at the I-75 interchanges during the office commute; and a road network split between the City and the Road Commission for Oakland County, which decides where the notice goes when the road caused the crash."
     }
    ]
   },
@@ -46,11 +48,11 @@
     },
     {
      "t": "link",
-     "href": "/areas-served/livonia",
+     "href": "/areas-served/troy",
      "c": [
       {
        "t": "text",
-       "v": "Livonia page"
+       "v": "Troy page"
       }
      ]
     },
@@ -60,11 +62,11 @@
     },
     {
      "t": "link",
-     "href": "/personal-injury/auto-accidents/livonia",
+     "href": "/personal-injury/auto-accidents/troy",
      "c": [
       {
        "t": "text",
-       "v": "Livonia car accident page"
+       "v": "Troy car accident page"
       }
      ]
     },
@@ -120,19 +122,19 @@
        [
         {
          "t": "text",
-         "v": "Motorcycles in Wayne County crashes / riders injured / killed, 2024"
+         "v": "Motorcycle crashes in Oakland County / riders injured / killed"
         }
        ],
        [
         {
          "t": "text",
-         "v": "509 / 367 / 24"
+         "v": "310 motorcycles in crashes / 219 riders injured / 16 killed"
         }
        ],
        [
         {
          "t": "text",
-         "v": "MSP, Michigan Traffic Crash Facts 2024, Wayne County"
+         "v": "MSP, Michigan Traffic Crash Facts 2024, Oakland County"
         }
        ]
       ],
@@ -180,19 +182,19 @@
        [
         {
          "t": "text",
-         "v": "Middlebelt at Schoolcraft, all vehicles"
+         "v": "Oakland County crashes / injured / killed, all vehicles"
         }
        ],
        [
         {
          "t": "text",
-         "v": "95 crashes, 14 injuries; second among Wayne County intersections"
+         "v": "35,951 / 9,139 / 68"
         }
        ],
        [
         {
          "t": "text",
-         "v": "MSP 2024 crash data, as compiled and reported"
+         "v": "MSP, Michigan Traffic Crash Facts 2024"
         }
        ]
       ],
@@ -200,33 +202,13 @@
        [
         {
          "t": "text",
-         "v": "Wayne County deaths per 1,000 crashes, all vehicles"
+         "v": "Michigan liability limits for the at-fault driver"
         }
        ],
        [
         {
          "t": "text",
-         "v": "3.5 (Michigan: 3.8)"
-        }
-       ],
-       [
-        {
-         "t": "text",
-         "v": "Calculated from MSP 2024 figures"
-        }
-       ]
-      ],
-      [
-       [
-        {
-         "t": "text",
-         "v": "Michigan minimum liability limits for the at-fault driver"
-        }
-       ],
-       [
-        {
-         "t": "text",
-         "v": "$250,000 / $500,000 by default; as low as $50,000 / $100,000 if the policyholder elects"
+         "v": "$250,000 / $500,000 unless the driver chose lower limits; minimum $50,000 / $100,000"
         }
        ],
        [
@@ -261,8 +243,8 @@
    ]
   },
   {
-   "id": "where-livonia-motorcycle-crashes-happen",
-   "heading": "Where Livonia motorcycle crashes happen",
+   "id": "where-troy-motorcycle-crashes-happen",
+   "heading": "Where Troy motorcycle crashes happen",
    "blocks": [
     {
      "t": "p",
@@ -272,13 +254,13 @@
        "c": [
         {
          "t": "text",
-         "v": "The left turn on Middlebelt, Plymouth, Farmington, and the mile roads."
+         "v": "The left turn on Big Beaver and Rochester Road."
         }
        ]
       },
       {
        "t": "text",
-       "v": " A driver turning left across oncoming traffic, misjudging the speed of a motorcycle or not seeing it at all, is the recurring account in rider cases. Under Michigan law a driver must yield to oncoming traffic before turning left (MCL 257.650). The Livonia Police Department’s list of the city’s highest-crash intersections, Middlebelt at Plymouth, Five Mile at Middlebelt, and Farmington at Six Mile, Seven Mile, and Plymouth among them, is a list of left-turn intersections. Drivers turning into the shopping centers and driveways along Middlebelt and Plymouth produce the same crash at lower speeds."
+       "v": " A driver turning left across oncoming traffic, misjudging the speed of a motorcycle or not seeing it at all, is the recurring account in rider cases. Under Michigan law a driver must yield to oncoming traffic before turning left (MCL 257.650). On Big Beaver, the left turn crosses several lanes of oncoming traffic, and a car or truck in the inside lane can hide a motorcycle from the turning driver until it is too late. On Rochester Road, drivers turn left into shopping centers, restaurants, and dealerships between signals, where the rider has no warning."
       }
      ]
     },
@@ -290,13 +272,13 @@
        "c": [
         {
          "t": "text",
-         "v": "The I-96 service drives."
+         "v": "Office, parking-structure, and mall driveways."
         }
        ]
       },
       {
        "t": "text",
-       "v": " Each arterial crosses Schoolcraft twice, once at each service drive, with freeway ramps feeding both. A driver coming off a ramp and turning onto the service drive, or changing lanes between the two signals to reach the next ramp, often does not see a motorcycle. Middlebelt at Schoolcraft was second in Wayne County for crashes in 2024."
+       "v": " Big Beaver’s towers, the Somerset parking structures, Oakland Mall, the Troy Motor Mall, and the corporate campuses on Maple and Long Lake empty onto the arterials at shift times. A driver pulling out to cross several lanes, looking for a gap among cars, often misses a motorcycle in that gap. The business’s own cameras usually record the driveway, and they overwrite quickly."
       }
      ]
     },
@@ -308,21 +290,39 @@
        "c": [
         {
          "t": "text",
-         "v": "The freeways and the interchange."
+         "v": "Median crossovers."
         }
        ]
       },
       {
        "t": "text",
-       "v": " On I-96, I-275, and M-14, drivers merging and changing lanes at the interchange near Laurel Park, and rear-end crashes in stop-and-go traffic, are the rider’s risks; a rear-end impact a car absorbs throws a rider. Tractor-trailers on both interstates add blind spots and wind blast. See our "
+       "v": " Where Troy’s arterials are divided, drivers turn left by using a crossover in the median and then merging into the far lanes. A driver leaving a crossover must yield to traffic in the lanes being entered, and a rider in the near lane is the one most often hit."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "I-75 and the interchanges."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " On I-75, drivers merging and changing lanes at the Big Beaver and Crooks interchanges during the commute, and rear-end crashes in stop-and-go traffic, are the rider’s risks; a rear-end impact a car absorbs throws a rider. Tractor-trailers on I-75 add blind spots and wind blast. See our "
       },
       {
        "t": "link",
-       "href": "/personal-injury/truck-accidents/livonia",
+       "href": "/personal-injury/truck-accidents/troy",
        "c": [
         {
          "t": "text",
-         "v": "Livonia truck accident page"
+         "v": "Troy truck accident page"
         }
        ]
       },
@@ -340,31 +340,13 @@
        "c": [
         {
          "t": "text",
-         "v": "Hines Drive."
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " Edward Hines Drive follows the Middle Rouge River through Hines Park across the southeast of the city, a two-lane, curving parkway. Its crashes are riders and drivers crossing the center line on curves, cars pulling out of park entrances, and loose gravel, leaves, and wet pavement under trees. Hines Drive is a Wayne County road."
-      }
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "text",
          "v": "The road itself."
         }
        ]
       },
       {
        "t": "text",
-       "v": " A single-vehicle crash caused by a pothole, a broken concrete joint, a pavement drop-off, or gravel is a claim against the agency with jurisdiction under the highway exception to governmental immunity (MCL 691.1402). In Livonia that means three possible defendants:"
+       "v": " A single-vehicle crash caused by a pothole, a broken concrete joint, a pavement drop-off, a steel plate left by road work, or gravel is a claim against the agency with jurisdiction under the highway exception to governmental immunity (MCL 691.1402). In Troy that usually means:"
       }
      ]
     },
@@ -374,7 +356,13 @@
       [
        {
         "t": "text",
-        "v": "MDOT for I-96, I-275, M-14, and generally the Schoolcraft service drives: written notice filed with the Court of Claims within 120 days (MCL 691.1404)."
+        "v": "The City of Troy, for its local streets and its own major streets: written notice within 120 days (MCL 691.1404). MDOT, for I-75: written notice filed with the Court of Claims within 120 days (MCL 691.1404)."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "The Road Commission for Oakland County, which has jurisdiction over many of Troy’s major roads: written notice within 120 days (MCL 691.1404)."
        }
       ],
       [
@@ -383,28 +371,13 @@
         "c": [
          {
           "t": "text",
-          "v": "Wayne County for the mile roads, including Eight Mile from Haggerty to Farmington, most of the arterials, Plymouth Road west of Newburgh, and Hines Drive"
+          "v": "MDOT"
          }
         ]
        },
        {
         "t": "text",
-        "v": ": written notice within 120 days (MCL 691.1404)."
-       }
-      ],
-      [
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "text",
-          "v": "The City of Livonia"
-         }
-        ]
-       },
-       {
-        "t": "text",
-        "v": " for subdivision and local streets: written notice within 120 days (MCL 691.1404)."
+        "v": ", for I-75 and generally Stephenson Highway: Court of Claims, with notice within six months (MCL 600.6431)."
        }
       ]
      ]
@@ -414,7 +387,7 @@
      "c": [
       {
        "t": "text",
-       "v": "A defect that was readily apparent to an ordinary observer for 30 days or more is conclusively presumed known to the agency (MCL 691.1403). Notice to the wrong agency is not notice."
+       "v": "A defect that was readily apparent to an ordinary observer for 30 days or more is conclusively presumed known to the agency (MCL 691.1403). Notice to the wrong agency is not notice, and in Troy the City and the Road Commission split the major roads."
       }
      ]
     },
@@ -432,7 +405,7 @@
       },
       {
        "t": "text",
-       "v": " 31 percent of Michigan’s 2024 rider deaths involved alcohol. A bar that over-served the driver who hit a rider can be liable under the dram shop act: written notice within 120 days after you hire a lawyer, and suit within two years (MCL 436.1801(3)). See our "
+       "v": " 31 percent of Michigan’s 2024 rider deaths involved alcohol. A restaurant, hotel bar, or bar on Big Beaver or Rochester Road that over-served the driver who hit a rider can be liable under the dram shop act: written notice within 120 days after you hire a lawyer, and suit within two years (MCL 436.1801(3)). See our "
       },
       {
        "t": "link",
@@ -453,8 +426,8 @@
    ]
   },
   {
-   "id": "who-pays-a-livonia-riders-medical-bills",
-   "heading": "Who pays a Livonia rider’s medical bills",
+   "id": "who-pays-a-troy-riders-medical-bills",
+   "heading": "Who pays a Troy rider’s medical bills",
    "blocks": [
     {
      "t": "p",
@@ -508,7 +481,7 @@
      "c": [
       {
        "t": "text",
-       "v": "“Involved” does not require contact; a car that cut you off is involved even if it never touched you. If no insurer in that chain exists, the Michigan Assigned Claims Plan pays (MCL 500.3172), with its $250,000 medical cap, unless you owned the motorcycle and it was uninsured (MCL 500.3113(b))."
+       "v": "“Involved” does not require contact; a car that turned across your path and forced you down is involved even if it never touched you. If no insurer in that chain exists, the Michigan Assigned Claims Plan pays (MCL 500.3172), with its $250,000 medical cap, unless you owned the motorcycle and it was uninsured (MCL 500.3113(b))."
       }
      ]
     },
@@ -558,7 +531,7 @@
       },
       {
        "t": "text",
-       "v": " A single-vehicle crash on a pothole, a broken joint, or gravel on Hines Drive produces no PIP claim. Your bills go to your health insurance and any medical coverage you bought on the motorcycle policy, and your injury claim is against whoever caused the hazard. Some summaries say motorcycles are simply “not included” in no-fault, or that benefits are unavailable “in most cases”; that is true of the definition, but a rider hit by a car usually has a full PIP claim."
+       "v": " A single-vehicle crash on a pothole, a broken joint, or gravel produces no PIP claim. Your bills go to your health insurance and any medical coverage you bought on the motorcycle policy, and your injury claim is against whoever caused the hazard. A rider hit by a car, by contrast, usually has a full PIP claim, and which insurer pays it is the first question."
       }
      ]
     },
@@ -604,7 +577,7 @@
      "c": [
       {
        "t": "text",
-       "v": "For pain and suffering and economic losses beyond no-fault, you sue the at-fault driver if your injury is a serious impairment of body function, permanent serious disfigurement, or death (MCL 500.3135). Motorcycle injuries clear that threshold more often than car injuries: fractures, road rash requiring grafts, torn ligaments, "
+       "v": "For pain and suffering and economic losses beyond no-fault, you sue the at-fault driver if your injury is a serious impairment of body function, permanent serious disfigurement, or death (MCL 500.3135(1)). Motorcycle injuries clear that threshold more often than car injuries: fractures, road rash requiring grafts, torn ligaments, "
       },
       {
        "t": "link",
@@ -632,15 +605,15 @@
       },
       {
        "t": "text",
-       "v": ". You also recover excess economic damages above the PIP limit that applied to you (MCL 500.3135(3)(c)). You have three years to sue (MCL 600.5805(2)); a fatal crash is brought by the estate (see our "
+       "v": ". You also recover excess economic damages above the PIP limit that applied to you, and wage loss above the no-fault cap or beyond three years (MCL 500.3135(3)(c)). You have three years to sue (MCL 600.5805(2)); a fatal crash is brought by the estate (see our "
       },
       {
        "t": "link",
-       "href": "/personal-injury/wrongful-death/livonia",
+       "href": "/personal-injury/wrongful-death/troy",
        "c": [
         {
          "t": "text",
-         "v": "Livonia wrongful death page"
+         "v": "Troy wrongful death page"
         }
        ]
       },
@@ -664,7 +637,7 @@
       },
       {
        "t": "text",
-       "v": " Many drivers carry the $50,000 minimum, and some carry nothing. The recovery then turns on your own "
+       "v": " Many Troy drivers carry liability limits at or above the $250,000/$500,000 default, but commuter and freeway traffic includes drivers with the $50,000 opt-down minimum (MCL 500.3009(5)) or nothing. The recovery then turns on your own "
       },
       {
        "t": "strong",
@@ -709,7 +682,7 @@
       },
       {
        "t": "text",
-       "v": " Above 50 percent at fault you recover no noneconomic damages; below that your award is reduced by your share, and at exactly 50 percent you recover half (MCL 500.3135(2)(b), 600.2959). Economic damages beyond no-fault are reduced by your share as well. Insurers argue speed, lane position, lane splitting (illegal in Michigan), and “came out of nowhere.” The police report, witnesses, the other driver’s phone records, business cameras along Middlebelt and Plymouth, and the rider’s own camera answer it."
+       "v": " Above 50 percent at fault you recover no noneconomic damages; below that your award is reduced by your share, and at exactly 50 percent you recover half (MCL 500.3135(2)(b), 600.2959). Economic damages beyond no-fault are reduced by your share as well. Insurers argue speed, lane position, lane splitting (illegal in Michigan), and “came out of nowhere.” The police report, witnesses, the other driver’s phone records, business and parking-structure cameras along Big Beaver and Rochester, and the rider’s own camera answer it."
       }
      ]
     }
@@ -731,8 +704,8 @@
    ]
   },
   {
-   "id": "what-to-do-after-a-livonia-motorcycle-crash",
-   "heading": "What to do after a Livonia motorcycle crash",
+   "id": "what-to-do-after-a-troy-motorcycle-crash",
+   "heading": "What to do after a Troy motorcycle crash",
    "blocks": [
     {
      "t": "ol",
@@ -749,7 +722,7 @@
        },
        {
         "t": "text",
-        "v": " Trinity Health Livonia Hospital on Five Mile treats many of the city’s seriously injured; Corewell Health Farmington Hills, Garden City Hospital, and the Detroit Level I trauma centers treat others."
+        "v": " Corewell Health Beaumont Troy Hospital on Dequindre treats many of the city’s injured; Corewell Health William Beaumont University Hospital in Royal Oak, a Level I trauma center, treats others."
        }
       ],
       [
@@ -764,17 +737,7 @@
        },
        {
         "t": "text",
-        "v": " from Livonia Police (available through CLEMIS), or from the State Police on I-96, I-275, and M-14. If a car caused the crash without contact, make sure the report says so. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "VERIFY",
-          "v": ""
-         }
-        ]
+        "v": " from the Troy Police Department (online through CLEMIS or at the Records counter at 500 West Big Beaver Road), or from the State Police on I-75. If a car caused the crash without contact, make sure the report says so."
        }
       ],
       [
@@ -798,13 +761,13 @@
         "c": [
          {
           "t": "text",
-          "v": "Photograph the bike, the scene, the road surface, your gear, and your injuries."
+          "v": "Photograph the bike, the scene, the lane markings, the road surface, your gear, and your injuries"
          }
         ]
        },
        {
         "t": "text",
-        "v": " Do not repair or sell the bike."
+        "v": ", and note every business or parking structure with a camera facing the road. Do not repair or sell the bike."
        }
       ],
       [
@@ -865,7 +828,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Rider injury suits over $25,000 go to the Third Judicial Circuit Court in Detroit, or in some Eight Mile or Oakland County cases to the Oakland County Circuit Court (MCL 600.1629); smaller claims to the 16th District Court at 32765 Five Mile Road; claims against MDOT to the Court of Claims."
+       "v": "Rider injury suits over $25,000 go to the Sixth Judicial Circuit Court at 1200 N. Telegraph Road in Pontiac, or in some Dequindre or Macomb County cases to the Sixteenth Circuit in Mount Clemens (MCL 600.1629); smaller claims to the 52nd District Court, Fourth Division, at 520 W. Big Beaver Road; claims against MDOT to the Court of Claims."
       }
      ]
     },
@@ -936,7 +899,7 @@
        [
         {
          "t": "text",
-         "v": "Road defect claim against the City of Livonia or Wayne County"
+         "v": "Road defect claim against the City of Troy or the Road Commission"
         }
        ],
        [
@@ -956,7 +919,7 @@
        [
         {
          "t": "text",
-         "v": "Defect on I-96, I-275, M-14, or an I-96 service drive (MDOT)"
+         "v": "Defect on I-75 (MDOT)"
         }
        ],
        [
@@ -1017,8 +980,8 @@
    ]
   },
   {
-   "id": "why-livonia-riders-call-atlaw",
-   "heading": "Why Livonia riders call ATLAW",
+   "id": "why-troy-riders-call-atlaw",
+   "heading": "Why Troy riders call ATLAW",
    "blocks": [
     {
      "t": "ul",
@@ -1046,12 +1009,6 @@
         "t": "text",
         "v": "No fee unless we recover money for you. The first conversation is free."
        }
-      ],
-      [
-       {
-        "t": "text",
-        "v": "Consultations can be accommodated in English, Arabic, French, Mandarin, Urdu, and Spanish. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed."
-       }
       ]
      ]
     }
@@ -1060,7 +1017,7 @@
  ],
  "faqs": [
   {
-   "question": "A car turned left in front of me on Middlebelt and I went down. Do I have a claim?",
+   "question": "A car turned left in front of me on Big Beaver and I went down. Do I have a claim?",
    "answer": [
     {
      "t": "text",
@@ -1069,11 +1026,11 @@
    ]
   },
   {
-   "question": "I went down on gravel on Hines Drive. Who do I notify?",
+   "question": "A driver pulled out of an office driveway on Big Beaver into my lane. Who is at fault?",
    "answer": [
     {
      "t": "text",
-     "v": "Hines Drive is generally a Wayne County road: written notice within 120 days stating the exact location, the defect, the injury, and the witnesses. Loose gravel is not always a defect the county is liable for, so the notice should go out while the facts are checked."
+     "v": "Usually the driver leaving the driveway, who must yield to traffic on the road. Ask the building’s management for its camera footage right away, or have a lawyer send a preservation letter, because it is kept for days."
     }
    ]
   },
@@ -1096,25 +1053,43 @@
    ]
   },
   {
+   "question": "I went down on a pothole on Rochester Road. Who do I notify?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "The City of Troy or the Road Commission for Oakland County, depending on which agency has that stretch: written notice within 120 days stating the exact location, the defect, the injury, and the witnesses. Confirm the agency before the notice goes out."
+    }
+   ]
+  },
+  {
+   "question": "I found Troy motorcycle lawyers in Ohio and New York. Does that matter?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Yes. Michigan’s no-fault rider priority rule, helmet law, and deadlines do not exist in those states. A crash in Troy, Michigan needs a lawyer practicing Michigan law."
+    }
+   ]
+  },
+  {
    "question": "How long do I have?",
    "answer": [
     {
      "t": "text",
-     "v": "One year to notify the responsible no-fault insurer, three years to sue the at-fault driver, two years to sue a bar, 120 days for a notice to the City or Wayne County, and 120 days to file notice of a road-defect claim against the State."
+     "v": "One year to notify the responsible no-fault insurer, three years to sue the at-fault driver, two years to sue a bar, 120 days for a notice to the City or the Road Commission, and 120 days to file notice of a road-defect claim against the State."
     }
    ]
   }
  ],
  "cta": {
-  "id": "talk-to-a-lawyer-about-a-livonia-motorcycle-crash",
-  "heading": "Talk to a lawyer about a Livonia motorcycle crash",
+  "id": "talk-to-a-lawyer-about-a-troy-motorcycle-crash",
+  "heading": "Talk to a lawyer about a Troy motorcycle crash",
   "blocks": [
    {
     "t": "p",
     "c": [
      {
       "t": "text",
-      "v": "If you were hurt on a motorcycle anywhere in Livonia, call "
+      "v": "If you were hurt on a motorcycle anywhere in Troy, call "
      },
      {
       "t": "strong",
@@ -1139,7 +1114,7 @@
       "c": [
        {
         "t": "text",
-        "v": "This page is general information about Michigan law as of October 2026 and is not legal advice. Crash figures are from the Michigan State Police, 2024 Motorcycle Crash Facts and Michigan Traffic Crash Facts 2024, and State Police intersection data as compiled and reported. Results depend on the facts of each case, and past results do not guarantee a future outcome."
+        "v": "This page is general information about Michigan law as of October 2026 and is not legal advice. Crash figures are from the Michigan State Police, 2024 Motorcycle Crash Facts and Michigan Traffic Crash Facts 2024. Results depend on the facts of each case, and past results do not guarantee a future outcome."
        }
       ]
      }
@@ -1147,10 +1122,10 @@
    }
   ]
  },
- "wordCount": 2269,
- "openItems": 1,
+ "wordCount": 2380,
+ "openItems": 0,
  "source": {
-  "file": "B3-34_Livonia-Motorcycle-Accident-Lawyer.docx",
-  "delivered": "October 24, 2026 [CONFIRM: Batch 3 delivery date]"
+  "file": "B3-62_Troy-Motorcycle-Accident-Lawyer.docx",
+  "delivered": "October 25, 2026 [CONFIRM: Batch 3 delivery date]"
  }
 }

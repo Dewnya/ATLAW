@@ -2,7 +2,7 @@
 slug: motorcycle-accidents
 section: personal-injury
 city: troy
-status: draft
+status: approved
 seoTitle: Troy, MI Motorcycle Accident Lawyer: Who Pays a Rider’s Bills, Big Beaver and Rochester Road Left Turns, I-75, Road Defects, and the Helmet Rule
 seoDescription: Hurt on a motorcycle in Troy, Michigan? Under Michigan no-fault a motorcycle is not a “motor vehicle,” which decides who pays your medical bills. The rider priority rule, left turns across Big Beaver and Rochester Road, office and mall driveways, the I-75 interchanges, road defects and which agency has the road, the helmet law, and the deadlines. Free review. (313) 406-7606.
 h1: Troy, MI Motorcycle Accident Lawyer
@@ -83,8 +83,8 @@ Since 2012, Michigan has let riders 21 and older ride without a helmet if they c
 
 ## What to do after a Troy motorcycle crash
 
-1. **Get medical care the same day.** Corewell Health Troy Hospital on Dequindre treats many of the city’s injured; Corewell Health William Beaumont University Hospital in Royal Oak, a Level I trauma center, treats others.
-2. **Get the police report** from the Troy Police Department, or from the State Police on I-75. If a car caused the crash without contact, make sure the report says so. **[VERIFY: report request process]**
+1. **Get medical care the same day.** Corewell Health Beaumont Troy Hospital on Dequindre treats many of the city’s injured; Corewell Health William Beaumont University Hospital in Royal Oak, a Level I trauma center, treats others.
+2. **Get the police report** from the Troy Police Department (online through CLEMIS or at the Records counter at 500 West Big Beaver Road), or from the State Police on I-75. If a car caused the crash without contact, make sure the report says so.
 3. **Identify every vehicle involved**, including the one that never touched you.
 4. **Photograph the bike, the scene, the lane markings, the road surface, your gear, and your injuries**, and note every business or parking structure with a camera facing the road. Do not repair or sell the bike.
 5. **Read your motorcycle policy for first-party medical, UM/UIM, and collision coverage**, and your car policy’s PIP level.

@@ -2,7 +2,7 @@
 slug: motorcycle-accidents
 section: personal-injury
 city: pontiac
-status: draft
+status: approved
 seoTitle: Pontiac, MI Motorcycle Accident Lawyer: Who Pays a Rider’s Bills, the Woodward Loop, Telegraph and M-59 Left Turns, Work Zones, City Potholes, and the Helmet Rule
 seoDescription: Hurt on a motorcycle in Pontiac? Under Michigan no-fault a motorcycle is not a “motor vehicle,” which decides who pays your medical bills. The rider priority rule, the Loop’s lane changes, Telegraph and Huron Street left turns, the coming Loop construction, city potholes and which agency owns the road, the helmet law, and the deadlines. Free review. (313) 406-7606.
 h1: Pontiac, MI Motorcycle Accident Lawyer
@@ -38,7 +38,7 @@ ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parkla
 
 **M-59 and I-75.** On the freeways, drivers merging and changing lanes, and rear-end crashes in congestion near the interchanges, are the rider’s risks; a rear-end impact a car absorbs throws a rider. Trucks serving the warehouses and plants on the city’s east side add blind spots. See our [Pontiac truck accident page](/personal-injury/truck-accidents/pontiac).
 
-**Work zones.** MDOT plans to convert Pike Street and Cass Avenue to two-way traffic in fall 2026, to close Huron Street between the two sides of the Loop from spring to fall 2027, and to begin converting the Loop itself in 2028. **[VERIFY against MDOT]** Work zones are especially dangerous on two wheels: milled and grooved pavement, uneven lane edges, steel plates, loose gravel, temporary lane shifts, and drivers following old traffic patterns. A crash caused by an unsafe work zone can involve the contractor as well as MDOT, though MDOT answers only for a defect in the roadbed itself, such as an unsecured steel plate or broken pavement, not for signs or lane shifts.
+**Work zones.** MDOT plans to convert Pike Street and Cass Avenue to two-way traffic in fall 2026, to close Huron Street between the two sides of the Loop from spring to fall 2027, and to begin converting the Loop itself in 2028, under its current schedule. Work zones are especially dangerous on two wheels: milled and grooved pavement, uneven lane edges, steel plates, loose gravel, temporary lane shifts, and drivers following old traffic patterns. A crash caused by an unsafe work zone can involve the contractor as well as MDOT, though MDOT answers only for a defect in the roadbed itself, such as an unsecured steel plate or broken pavement, not for signs or lane shifts.
 
 **City streets.** Perry, Baldwin, Joslyn, Opdyke, Walton, Saginaw, and the neighborhood streets carry signal crashes, crashes at stop signs where a driver rolls through, and single-vehicle crashes caused by potholes, broken pavement, and raised utility covers.
 
@@ -86,7 +86,7 @@ Since 2012, Michigan has let riders 21 and older ride without a helmet if they c
 ## What to do after a Pontiac motorcycle crash
 
 1. **Get medical care the same day.** McLaren Oakland and Trinity Health Oakland, both in Pontiac, are Level II trauma centers on the State’s list; the most serious injuries may go to Corewell Health William Beaumont University Hospital in Royal Oak, the county’s Level I adult trauma center.
-2. **Get the police report** from the Oakland County Sheriff’s Office, which polices Pontiac under contract, or from the State Police on the freeways. If a car caused the crash without contact, make sure the report says so. **[VERIFY: report request process]**
+2. **Get the police report** from the Oakland County Sheriff’s Office, which polices Pontiac under contract (online through CLEMIS, typically 7 to 10 business days after the crash, or from the Sheriff’s Records Unit on North Telegraph), or from the State Police on the freeways. If a car caused the crash without contact, make sure the report says so.
 3. **Identify every vehicle involved**, including the one that never touched you.
 4. **Photograph the bike, the scene, the intersection, lane, or work zone, the road surface and any pothole, plate, or gravel, your gear, and your injuries**, and note every business and home with a camera facing the road. Do not repair or sell the bike.
 5. **Read your motorcycle policy for first-party medical, UM/UIM, and collision coverage**, and your car policy’s PIP level.
