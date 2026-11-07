@@ -2,7 +2,7 @@
 slug: auto-accidents
 section: personal-injury
 city: southfield
-status: draft
+status: approved
 seoTitle: Southfield Car Accident Lawyer: Telegraph at 12 Mile, No-Fault Benefits, and the 46th District Court
 seoDescription: Hurt in a car crash in Southfield? Telegraph at 12 Mile recorded 121 crashes in 2025, and Southfield had 83 alcohol-involved crashes. ATLAW’s car accident lawyers explain who pays your bills under Michigan no-fault, what to do when the other driver is uninsured, whose road it was, and the one-year and three-year deadlines. Free review. (313) 406-7606.
 h1: Southfield Car Accident Lawyer
@@ -31,7 +31,7 @@ ATLAW is a personal injury firm at 3 Parklane Boulevard in Dearborn, about 20 mi
 | Oakland County pedestrian / bicycle crashes | 229 / 201 | MSP 2024 |
 | Michigan minimum liability limits | $250,000 / $500,000 by default; as low as $50,000 / $100,000 if the policyholder elects | MCL 500.3009(1), (5) |
 
-Southfield’s 83 alcohol-involved crashes are about one in ten of the county’s 871, from a city with about 6 percent of the county’s population **[VERIFY against the Census estimate]**, a product of the restaurant and bar corridor along Northwestern and Telegraph and the city’s position between Detroit and the Woodward nightlife.
+Southfield’s 83 alcohol-involved crashes are about one in ten of the county’s 871, from a city with about 6 percent of the county’s population, a product of the restaurant and bar corridor along Northwestern and Telegraph and the city’s position between Detroit and the Woodward nightlife.
 
 ## Where Southfield crashes happen, and whose road it is
 
@@ -39,7 +39,7 @@ Southfield’s 83 alcohol-involved crashes are about one in ten of the county’
 
 **Northwestern Highway and the Lodge (M-10).** The diagonal from the Lodge’s end through the Town Center and the office corridor to Twelve Mile, with the I-696 interchange in the middle. Merging crashes at the office-tower driveways and rear-end crashes in the Lodge’s stop-and-go.
 
-**I-696.** Interchanges at Telegraph, Northwestern, Southfield Road, Greenfield, and Evergreen within four miles, and the reconstruction between Lahser Road and I-75 that has put lane closures and work-zone speed limits on the Southfield stretch. Heavy trucks share the work zone; see our [Southfield truck accident page](/personal-injury/truck-accidents/southfield). A crash in a work zone carries enhanced penalties for the at-fault driver (MCL 257.601b) and is strong fault evidence in the civil case. **[CONFIRM: current I-696 project status; ATTORNEY CHECK: 257.601b]**
+**I-696.** Interchanges at Telegraph, Northwestern, Southfield Road, Greenfield, and Evergreen within four miles, and the Restore the Reuther reconstruction between Lahser Road and I-75, which has closed the eastbound lanes from the Lodge to I-75 and the Southfield ramps through late 2026, with work continuing east of I-75 through 2027. Heavy trucks share the work zone; see our [Southfield truck accident page](/personal-injury/truck-accidents/southfield). A moving violation in a work zone carries doubled fines, and one that injures or kills someone in the zone is a misdemeanor or felony (MCL 257.601b); a ticket written in the work zone is strong fault evidence in the civil case.
 
 **The mile roads and the arterials.** Eight Mile (the Detroit line), Nine through Thirteen Mile, Evergreen, Lahser, Inkster, Greenfield, and Southfield Road: intersection crashes at the signals and pedestrian crashes near schools and apartment complexes.
 

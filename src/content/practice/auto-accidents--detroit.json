@@ -2,7 +2,7 @@
  "slug": "auto-accidents",
  "section": "personal-injury",
  "city": "detroit",
- "status": "draft",
+ "status": "approved",
  "seoTitle": "Detroit Car Accident Lawyer: No-Fault Benefits, Uninsured Drivers, City Vehicles, and the Deadlines",
  "seoDescription": "Hurt in a car crash in Detroit? ATLAW’s car accident lawyers, minutes away in Dearborn, explain who pays your bills under Michigan no-fault, what to do when the other driver has no insurance or fled, how a crash with a DDOT bus or city truck is different, and the one-year and three-year deadlines. Free review. (313) 406-7606.",
  "h1": "Detroit Car Accident Lawyer",
@@ -241,17 +241,7 @@
        [
         {
          "t": "text",
-         "v": "MSP Traffic Crash Reporting Unit data, as analyzed by Michigan Auto Law "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "VERIFY",
-           "v": "against TCRU data"
-          }
-         ]
+         "v": "MSP Traffic Crash Reporting Unit data, as analyzed by Michigan Auto Law"
         }
        ]
       ],
@@ -354,17 +344,7 @@
       },
       {
        "t": "text",
-       "v": " I-94 (the Edsel Ford) across the city from Dearborn to the Grosse Pointes; I-75 (the Fisher and the Chrysler) from Downriver through Southwest Detroit, downtown, and the North End to Eight Mile; I-96 (the Jeffries) from Redford to the I-75 interchange; M-10 (the Lodge) from the riverfront to Southfield; M-39 (the Southfield Freeway) along the west side; and M-8 (the Davison). The interchanges, I-94/I-75, I-75/I-96, I-94/M-10, I-96/M-39, I-75/M-8, carry the merging and lane-change crashes. The older stretches with short ramps and left-hand exits, the Lodge and the Davison in particular, carry the rear-end and sideswipe crashes. The freight to the Ambassador Bridge and the Gordie Howe International Bridge puts heavy trucks on all of them. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "VERIFY",
-         "v": "Gordie Howe Bridge opening status at publication"
-        }
-       ]
+       "v": " I-94 (the Edsel Ford) across the city from Dearborn to the Grosse Pointes; I-75 (the Fisher and the Chrysler) from Downriver through Southwest Detroit, downtown, and the North End to Eight Mile; I-96 (the Jeffries) from Redford to the I-75 interchange; M-10 (the Lodge) from the riverfront to Southfield; M-39 (the Southfield Freeway) along the west side; and M-8 (the Davison). The interchanges, I-94/I-75, I-75/I-96, I-94/M-10, I-96/M-39, I-75/M-8, carry the merging and lane-change crashes. The older stretches with short ramps and left-hand exits, the Lodge and the Davison in particular, carry the rear-end and sideswipe crashes. The freight to the Ambassador Bridge and the Gordie Howe International Bridge, which opened in July 2026, puts heavy trucks on all of them."
       }
      ]
     },
@@ -1432,8 +1412,8 @@
    }
   ]
  },
- "wordCount": 3409,
- "openItems": 2,
+ "wordCount": 3402,
+ "openItems": 0,
  "source": {
   "file": "B2-60_Detroit-Car-Accident-Lawyer.docx",
   "delivered": "2026-10-16"

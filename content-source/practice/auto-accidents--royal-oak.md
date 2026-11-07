@@ -2,7 +2,7 @@
 slug: auto-accidents
 section: personal-injury
 city: royal-oak
-status: draft
+status: approved
 seoTitle: Royal Oak, MI Car Accident Lawyer: Woodward and the Michigan Lefts, Downtown and the Bars, I-696, No-Fault Benefits, and City, County, and State Roads
 seoDescription: Hurt in a car crash in Royal Oak? The city had 1,992 crashes, 5 deaths, and 57 alcohol-involved crashes in 2024. Covers who pays your bills under no-fault, how fault is decided at Woodward’s turnarounds and downtown crossings, the dram shop claim against a bar, collecting the other driver’s limit and your own underinsured coverage, which agency owns the road, and the one-year and three-year deadlines. Free review. (313) 406-7606.
 h1: Royal Oak, MI Car Accident Lawyer
@@ -45,7 +45,7 @@ The first conversation is free, in English, Arabic, French, Mandarin, Urdu, or S
 | Measure | Figure | Source |
 | --- | --- | --- |
 | Royal Oak crashes / fatal crashes / injury crashes | 1,992 / 2 / 344 | MSP, Michigan Traffic Crash Facts 2024, Oakland County profile |
-| Royal Oak people killed / seriously injured | 5 / 28 | Same **[VERIFY: 5 killed in 2 fatal crashes]** |
+| Royal Oak people killed / seriously injured | 5 / 28 (four of the five died in one crash on southbound I-75 at Lincoln in July 2024) | Same |
 | Royal Oak alcohol-involved crashes | 57 | Same |
 | Neighbors, for comparison: Ferndale / Madison Heights / Berkley crashes | 522 / 1,030 / 159 | Same |
 | Oakland County crashes / injured / seriously injured / killed | 35,951 / 9,139 / 509 / 68 | Same |
@@ -65,7 +65,7 @@ Royal Oak had 57 alcohol-involved crashes in 2024. That is nearly as many as Fer
 - **signals:** red-light crashes at Eleven, Twelve, Thirteen, and Fourteen Mile
 - **straightaways:** rear-end crashes at the signals and speed-related crashes between them
 
-Woodward belongs to MDOT. Each August, the Woodward Dream Cruise brings crowds, slow traffic, and pedestrians to the corridor. **[VERIFY]**
+Woodward belongs to MDOT. Each August, on the third Saturday, the Woodward Dream Cruise brings crowds, slow traffic, and pedestrians to the corridor.
 
 **Downtown and the bars.** Main Street, Washington, Fourth, Fifth, Lafayette, and Eleven Mile hold dozens of bars, restaurants, a concert venue, and a cinema, with parking structures between them. The crashes are:
 

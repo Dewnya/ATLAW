@@ -2,7 +2,7 @@
 slug: auto-accidents
 section: personal-injury
 city: taylor
-status: draft
+status: approved
 seoTitle: Taylor, MI Car Accident Lawyer: Telegraph and Eureka, I-75 and I-94, No-Fault Benefits, Uninsured and Out-of-State Drivers, and the 23rd District Court
 seoDescription: Hurt in a car crash in Taylor? Taylor had 1,916 crashes and 12 deaths in 2024, and Telegraph at Eureka was fifth in Wayne County. Covers who pays your bills under no-fault, what to do when the other driver is uninsured or from out of state, how fault is decided, who owns Telegraph, Eureka, and the subdivision streets, and the one-year and three-year deadlines. Free review. (313) 406-7606.
 h1: Taylor, MI Car Accident Lawyer
@@ -50,7 +50,7 @@ The first conversation is free, in English, Arabic, French, Mandarin, Urdu, or S
 | Wayne County trucks and buses in crashes | 3,916 vehicles | Same |
 | Michigan liability limits for the at-fault driver | $250,000 / $500,000 unless the driver chose lower limits; minimum $50,000 / $100,000 | MCL 500.3009(1), (5) |
 
-Many of Taylor’s crashes happen on Telegraph, the freeways, and the mile roads, where speeds are higher. **[VERIFY: 2024 Taylor crash and fatality counts in this section against MSP Michigan Traffic Crash Facts]**
+Many of Taylor’s crashes happen on Telegraph, the freeways, and the mile roads, where speeds are higher.
 
 Eureka at Telegraph had 36 injuries in 2024. That ties it with 7 Mile at I-75 in Detroit for the most injuries of any intersection on Wayne County’s top-ten list.
 
@@ -158,7 +158,7 @@ See our [drunk driving accident page](/personal-injury/drunk-driving-accidents).
 
 ## What to do after a Taylor crash
 
-1. **Call 911 and get the police report.** Michigan requires a report for any crash with injury or $1,000 in damage (MCL 257.622). Crashes in the city are worked by the Taylor Police Department, and freeway crashes may be worked by the Michigan State Police. **[VERIFY: report request process]**
+1. **Call 911 and get the police report.** Michigan requires a report for any crash with injury or $1,000 in damage (MCL 257.622). Crashes in the city are worked by the Taylor Police Department, whose reports are available online through CLEMIS or from the Records Bureau at 23515 Goddard Road about 72 hours after the crash; freeway crashes may be worked by the Michigan State Police, whose Metro South post is on Telegraph in Taylor.
 2. **Photograph the scene.** Get the vehicles, the plates, the other driver’s license and insurance card, the signals, and the lane markings. If the other driver shows an out-of-state or rental-car document, photograph that too. Note every business with a camera facing the scene, because footage is kept for days, not weeks.
 3. **Get medical care the same day.** Corewell Health Taylor, on Telegraph, has an emergency department. The most serious injuries often go to a trauma center on the State’s list, such as Corewell Health Dearborn or Corewell Health Trenton (Level II), or Detroit Receiving Hospital or Henry Ford Hospital (Level I) in Detroit.
 4. **Report to your own insurer and file the Application for No-Fault Benefits** within the first week. If you have no policy, a lawyer can identify the insurer next in priority or the Assigned Claims Plan.

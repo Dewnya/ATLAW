@@ -2,7 +2,7 @@
  "slug": "auto-accidents",
  "section": "personal-injury",
  "city": "taylor",
- "status": "draft",
+ "status": "approved",
  "seoTitle": "Taylor, MI Car Accident Lawyer: Telegraph and Eureka, I-75 and I-94, No-Fault Benefits, Uninsured and Out-of-State Drivers, and the 23rd District Court",
  "seoDescription": "Hurt in a car crash in Taylor? Taylor had 1,916 crashes and 12 deaths in 2024, and Telegraph at Eureka was fifth in Wayne County. Covers who pays your bills under no-fault, what to do when the other driver is uninsured or from out of state, how fault is decided, who owns Telegraph, Eureka, and the subdivision streets, and the one-year and three-year deadlines. Free review. (313) 406-7606.",
  "h1": "Taylor, MI Car Accident Lawyer",
@@ -422,17 +422,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Many of Taylor’s crashes happen on Telegraph, the freeways, and the mile roads, where speeds are higher. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "VERIFY",
-         "v": "2024 Taylor crash and fatality counts in this section against MSP Michigan Traffic Crash Facts"
-        }
-       ]
+       "v": "Many of Taylor’s crashes happen on Telegraph, the freeways, and the mile roads, where speeds are higher."
       }
      ]
     },
@@ -1397,17 +1387,7 @@
        },
        {
         "t": "text",
-        "v": " Michigan requires a report for any crash with injury or $1,000 in damage (MCL 257.622). Crashes in the city are worked by the Taylor Police Department, and freeway crashes may be worked by the Michigan State Police. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "VERIFY",
-          "v": "report request process"
-         }
-        ]
+        "v": " Michigan requires a report for any crash with injury or $1,000 in damage (MCL 257.622). Crashes in the city are worked by the Taylor Police Department, whose reports are available online through CLEMIS or from the Records Bureau at 23515 Goddard Road about 72 hours after the crash; freeway crashes may be worked by the Michigan State Police, whose Metro South post is on Telegraph in Taylor."
        }
       ],
       [
@@ -1992,8 +1972,8 @@
    }
   ]
  },
- "wordCount": 2884,
- "openItems": 2,
+ "wordCount": 2894,
+ "openItems": 0,
  "source": {
   "file": "B4-07_Taylor-Car-Accident-Lawyer.docx",
   "delivered": "October 25, 2026 [CONFIRM: Batch 4 delivery date]"

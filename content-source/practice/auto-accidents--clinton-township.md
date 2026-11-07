@@ -2,7 +2,7 @@
 slug: auto-accidents
 section: personal-injury
 city: clinton-township
-status: draft
+status: approved
 seoTitle: Clinton Township Car Accident Lawyer: Hall Road, Gratiot, Groesbeck, No-Fault Benefits, and Why the Township Is Not the Road Defendant
 seoDescription: Hurt in a car crash in Clinton Township? Two of Macomb County’s ten highest-crash intersections in 2024 were on Hall Road at the township’s northern edge. Who pays your bills under no-fault, how fault is decided at the Michigan lefts and signals, why the roads belong to MDOT and Macomb County, and the one-year and three-year deadlines. Free review. (313) 406-7606.
 h1: Clinton Township Car Accident Lawyer
@@ -74,7 +74,7 @@ We move promptly to request the camera footage, signal data, and vehicle data.
 
 ## What to do after a Clinton Township crash
 
-1. **Call 911 and get the police report.** Michigan requires a report for any crash with injury or $1,000 in damage (MCL 257.622). Most township crashes are worked by the Clinton Township Police Department; some freeway and highway crashes by the Michigan State Police or the Macomb County Sheriff’s Office. **[VERIFY: report request process]**
+1. **Call 911 and get the police report.** Michigan requires a report for any crash with injury or $1,000 in damage (MCL 257.622). Most township crashes are worked by the Clinton Township Police Department, whose crash reports are sold online through CrashDocs or released by Police Records at 37985 Groesbeck Highway; some freeway and highway crashes are worked by the Michigan State Police or the Macomb County Sheriff’s Office.
 2. **Photograph the vehicles, plates, the other driver’s license and insurance card, the signals, the crossover, and the lane markings.** Note every business with a camera facing the scene; footage is kept for days, not weeks.
 3. **Get medical care the same day.** Henry Ford Macomb Hospital in the township and McLaren Macomb in Mount Clemens treat most of the township’s injured.
 4. **Report to your own insurer and file the Application for No-Fault Benefits** within the first week.
@@ -111,7 +111,7 @@ Claims up to $25,000, including mini tort claims, are filed in the 41B District 
 
 ## Frequently asked questions
 
-**Which Clinton Township intersections have the most crashes?** In the State Police data for 2024, two Hall Road intersections on the township’s northern edge ranked in Macomb County’s top ten: Hall at Hayes, with 76 crashes and 14 injuries, and Hall at Garfield, with 67 crashes and 19 injuries. The list credits both to Macomb Township. **[CONFIRM: data: Clinton Township’s highest-crash locations from the MTCF query tool]**
+**Which Clinton Township intersections have the most crashes?** In the State Police data for 2024, two Hall Road intersections on the township’s northern edge ranked in Macomb County’s top ten: Hall at Hayes, with 76 crashes and 14 injuries, and Hall at Garfield, with 67 crashes and 19 injuries. The list credits both to Macomb Township. In the 2025 data, Hall at Hayes fell to 67 crashes but rose to 32 injuries, and Hall at Garfield dropped off the top ten.
 
 **How many car accidents happen in Clinton Township each year?** Clinton Township recorded 1,907 crashes, 749 injuries, and 8 deaths in 2024. Macomb County as a whole recorded 21,960 crashes, 6,596 injuries, and 70 deaths in 2024.
 

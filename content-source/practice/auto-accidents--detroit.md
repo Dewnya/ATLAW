@@ -2,7 +2,7 @@
 slug: auto-accidents
 section: personal-injury
 city: detroit
-status: draft
+status: approved
 seoTitle: Detroit Car Accident Lawyer: No-Fault Benefits, Uninsured Drivers, City Vehicles, and the Deadlines
 seoDescription: Hurt in a car crash in Detroit? ATLAW’s car accident lawyers, minutes away in Dearborn, explain who pays your bills under Michigan no-fault, what to do when the other driver has no insurance or fled, how a crash with a DDOT bus or city truck is different, and the one-year and three-year deadlines. Free review. (313) 406-7606.
 h1: Detroit Car Accident Lawyer
@@ -29,7 +29,7 @@ ATLAW is a personal injury firm with an office at 3 Parklane Boulevard in Dearbo
 | Pedestrian-involved crashes in Detroit, 2024 | 420 (two-thirds of Wayne County’s 637; the county had 40 pedestrian deaths) | MSP, Pedestrian Crash Report 2020–2024 |
 | Wayne County alcohol-involved crashes, 2024 | 1,331 | MSP 2024 |
 | Wayne County crashes involving trucks and buses, 2024 | 3,916 | MSP 2024 |
-| Highest-crash Detroit intersections, 2024 | Joy Road at M-39 (78 crashes, 27 injuries); Seven Mile Road at I-75 (69 crashes, 36 injuries) | MSP Traffic Crash Reporting Unit data, as analyzed by Michigan Auto Law **[VERIFY against TCRU data]** |
+| Highest-crash Detroit intersections, 2024 | Joy Road at M-39 (78 crashes, 27 injuries); Seven Mile Road at I-75 (69 crashes, 36 injuries) | MSP Traffic Crash Reporting Unit data, as analyzed by Michigan Auto Law |
 | Deaths per 1,000 crashes, Wayne County, 2024 | 3.5 (Oakland County: 1.9) | Calculated from MSP 2024 |
 | Detroit drivers uninsured before the 2019 reform | About 60 percent, per state regulators’ estimates | Michigan DIFS |
 
@@ -37,7 +37,7 @@ Wayne County accounted for approximately 23% of Michigan’s crash injuries and 
 
 ## Where Detroit car crashes happen
 
-**The freeways.** I-94 (the Edsel Ford) across the city from Dearborn to the Grosse Pointes; I-75 (the Fisher and the Chrysler) from Downriver through Southwest Detroit, downtown, and the North End to Eight Mile; I-96 (the Jeffries) from Redford to the I-75 interchange; M-10 (the Lodge) from the riverfront to Southfield; M-39 (the Southfield Freeway) along the west side; and M-8 (the Davison). The interchanges, I-94/I-75, I-75/I-96, I-94/M-10, I-96/M-39, I-75/M-8, carry the merging and lane-change crashes. The older stretches with short ramps and left-hand exits, the Lodge and the Davison in particular, carry the rear-end and sideswipe crashes. The freight to the Ambassador Bridge and the Gordie Howe International Bridge puts heavy trucks on all of them. **[VERIFY Gordie Howe Bridge opening status at publication]**
+**The freeways.** I-94 (the Edsel Ford) across the city from Dearborn to the Grosse Pointes; I-75 (the Fisher and the Chrysler) from Downriver through Southwest Detroit, downtown, and the North End to Eight Mile; I-96 (the Jeffries) from Redford to the I-75 interchange; M-10 (the Lodge) from the riverfront to Southfield; M-39 (the Southfield Freeway) along the west side; and M-8 (the Davison). The interchanges, I-94/I-75, I-75/I-96, I-94/M-10, I-96/M-39, I-75/M-8, carry the merging and lane-change crashes. The older stretches with short ramps and left-hand exits, the Lodge and the Davison in particular, carry the rear-end and sideswipe crashes. The freight to the Ambassador Bridge and the Gordie Howe International Bridge, which opened in July 2026, puts heavy trucks on all of them.
 
 **The arterials.** Gratiot, Woodward, Grand River, Michigan Avenue, Fort Street, Jefferson, Van Dyke, Livernois, Warren, Davison, McNichols, Seven Mile, Eight Mile, and Telegraph. They are wide, multi-lane, posted at 35 to 45 miles an hour and driven faster, signalized at long intervals, and crossed on foot by residents of neighborhoods with limited transit. The result is the city’s left-turn, red-light, and pedestrian crashes, and high-crash intersections such as Southfield Freeway at Warren and Livernois at Davison, both wide arterial crossings on the west side. Many of these roads are state trunklines (Woodward is M-1, Gratiot M-3, Grand River M-5, Fort M-85, Eight Mile M-102, Michigan Avenue US-12, Telegraph US-24), which matters when the road itself contributed to the crash; see below.
 

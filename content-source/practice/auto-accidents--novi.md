@@ -2,7 +2,7 @@
 slug: auto-accidents
 section: personal-injury
 city: novi
-status: draft
+status: approved
 seoTitle: Novi, MI Car Accident Lawyer: I-96 and I-275, M-5, Twelve Oaks and Novi Road, Deer Crashes, No-Fault Benefits, and City, County, and State Roads
 seoDescription: Hurt in a car crash in Novi? The city had 1,984 crashes, 3 deaths, and 27 serious injuries in 2024, and more than a quarter of its crashes were on the freeways. Covers who pays your bills under no-fault, how fault is decided at the interchanges and retail driveways, deer crashes, collecting the other driver’s limit and your own underinsured coverage, which agency owns the road, and the one-year and three-year deadlines. Free review. (313) 406-7606.
 h1: Novi, MI Car Accident Lawyer
@@ -111,7 +111,7 @@ The evidence that decides fault is perishable:
 - the Novi Police Department crash report and diagram, or the State Police report on the freeway
 - **signal timing data** from MDOT, the Road Commission, or the City
 - cameras at the mall, stores, hotels, gas stations, and homes, many overwritten within days
-- MDOT’s freeway traffic cameras, which generally do not record **[VERIFY]**
+- MDOT’s Mi Drive freeway cameras, which MDOT says provide live viewing and are not continuously recorded
 - the vehicles’ **event data recorders**, which store speed, braking, and throttle in the seconds before impact
 - the other driver’s phone records, for a distracted-driving claim (see our [distracted driving page](/personal-injury/distracted-driving-accidents))
 - witnesses, including other drivers stopped at the signal
@@ -175,7 +175,7 @@ Walled Lake’s buses are run by a private contractor, so a claim over one of th
 
 ## What to do after a Novi crash
 
-1. **Call 911 and get the police report.** Michigan requires a report for any crash with injury or $1,000 in damage (MCL 257.622). Crashes in the city are worked by the Novi Police Department. Freeway crashes may be worked by the Michigan State Police. **[VERIFY: report request process]**
+1. **Call 911 and get the police report.** Michigan requires a report for any crash with injury or $1,000 in damage (MCL 257.622). Crashes in the city are worked by the Novi Police Department, whose crash reports are available online through CLEMIS or from its records desk. Freeway crashes may be worked by the Michigan State Police.
 2. **Photograph the scene.** Get the vehicles, plates, the other driver’s license and insurance card, the ramp or driveway, the signals, and the lane markings. Note every store, hotel, and home with a camera facing the scene. Footage is kept for days, not weeks.
 3. **After a deer strike,** photograph the deer and the damage, and report the crash. Your insurer will ask for the report.
 4. **Get medical care the same day.** Henry Ford Providence Novi Hospital, on Grand River near I-96 and Beck Road, is a Level II adult trauma center. The most severe injuries may go to a Level I center such as Corewell Health William Beaumont University Hospital in Royal Oak.

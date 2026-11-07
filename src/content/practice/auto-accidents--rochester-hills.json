@@ -1,21 +1,19 @@
 {
  "slug": "auto-accidents",
  "section": "personal-injury",
- "city": "royal-oak",
- "status": "draft",
- "seoTitle": "Royal Oak, MI Car Accident Lawyer: Woodward and the Michigan Lefts, Downtown and the Bars, I-696, No-Fault Benefits, and City, County, and State Roads",
- "seoDescription": "Hurt in a car crash in Royal Oak? The city had 1,992 crashes, 5 deaths, and 57 alcohol-involved crashes in 2024. Covers who pays your bills under no-fault, how fault is decided at Woodward’s turnarounds and downtown crossings, the dram shop claim against a bar, collecting the other driver’s limit and your own underinsured coverage, which agency owns the road, and the one-year and three-year deadlines. Free review. (313) 406-7606.",
- "h1": "Royal Oak, MI Car Accident Lawyer",
- "tagline": "Woodward’s eight lanes and turnarounds, a downtown that fills every weekend night, and I-696 along the south edge. In Royal Oak, a crash claim often turns on the turnaround, the signal, and where the other driver had been drinking.",
- "primaryKeyword": "car accident lawyer royal oak mi (50/mo)",
+ "city": "rochester-hills",
+ "status": "approved",
+ "seoTitle": "Rochester Hills, MI Car Accident Lawyer: M-59, Rochester Road, Livernois and Hamlin, Underinsured Motorist Sequencing, and City, County, and State Roads",
+ "seoDescription": "Hurt in a car crash in Rochester Hills? 1,986 crashes in 2024, and Livernois at Hamlin was tenth in Oakland County. Covers who pays your bills under no-fault, how to collect the other driver’s limit and your own underinsured coverage without forfeiting either, deer crashes, Oakland University, which agency owns the road, and the one-year and three-year deadlines. Free review. (313) 406-7606.",
+ "h1": "Rochester Hills, MI Car Accident Lawyer",
+ "tagline": "A serious crash claim in Rochester Hills often turns less on whether the other driver had insurance than on collecting two policies in the right order.",
+ "primaryKeyword": "car accident lawyer rochester hills mi (70/mo)",
  "secondaryKeywords": [
-  "car accident attorney royal oak (30)",
-  "royal oak car accident lawyer (20)",
-  "car accident lawyer royal oak (20)",
-  "royal oak car accident (20)",
-  "car accident royal oak mi (20)",
-  "royal oak accident (20)",
-  "royal oak car accident attorney (10)"
+  "rochester hills car accident lawyer (30)",
+  "rochester hills car accident (20)",
+  "car accident rochester hills mi (20)",
+  "rochester hills accident (20)",
+  "rochester hills car accident attorney (10)"
  ],
  "intro": [
   {
@@ -23,7 +21,7 @@
    "c": [
     {
      "t": "text",
-     "v": "A car crash in Royal Oak is a Michigan no-fault claim on these roads:"
+     "v": "A car crash in Rochester Hills is a Michigan no-fault claim on a road system with these main parts:"
     }
    ]
   },
@@ -36,13 +34,13 @@
       "c": [
        {
         "t": "text",
-        "v": "Woodward Avenue (M-1)"
+        "v": "M-59"
        }
       ]
      },
      {
       "t": "text",
-      "v": " runs the length of the city: eight divided lanes with Michigan-left turnarounds, past downtown and the Corewell Health hospital campus at Thirteen Mile."
+      "v": " runs across the city as a freeway, from I-75 to the Macomb County line."
      }
     ],
     [
@@ -51,13 +49,13 @@
       "c": [
        {
         "t": "text",
-        "v": "I-696"
+        "v": "Rochester Road"
        }
       ]
      },
      {
       "t": "text",
-      "v": " runs along the southern edge, with interchanges at Woodward, Campbell, and I-75."
+      "v": " carries the northeast county’s retail and commuter traffic from the Troy line to downtown Rochester."
      }
     ],
     [
@@ -66,13 +64,13 @@
       "c": [
        {
         "t": "text",
-        "v": "The mile roads,"
+        "v": "Adams, Crooks, Livernois, and John R"
        }
       ]
      },
      {
       "t": "text",
-      "v": " Eleven, Twelve, Thirteen, and Fourteen Mile, cross the city."
+      "v": " run north and south."
      }
     ],
     [
@@ -81,28 +79,13 @@
       "c": [
        {
         "t": "text",
-        "v": "North-south streets:"
+        "v": "Auburn, Hamlin, Avon, Tienken, Walton, and South Boulevard"
        }
       ]
      },
      {
       "t": "text",
-      "v": " Crooks, Coolidge, Campbell, Main, and Rochester Road carry traffic between them."
-     }
-    ],
-    [
-     {
-      "t": "strong",
-      "c": [
-       {
-        "t": "text",
-        "v": "Downtown"
-       }
-      ]
-     },
-     {
-      "t": "text",
-      "v": " Main Street, Washington, and Fourth fill with pedestrians and drivers every weekend night."
+      "v": " run east and west, crossed by the Clinton River and Paint Creek trails."
      }
     ]
    ]
@@ -112,7 +95,7 @@
    "c": [
     {
      "t": "text",
-     "v": "In 2024, the Michigan State Police recorded 1,992 crashes in Royal Oak. They killed 5 people and seriously injured 28, and 57 of them involved alcohol."
+     "v": "In 2024, the Michigan State Police recorded 1,986 crashes in the city: 379 injured someone, 30 people were seriously injured, and 2 were killed. Livernois at Hamlin had 60 crashes, the tenth highest of any intersection in Oakland County."
     }
    ]
   },
@@ -121,7 +104,7 @@
    "c": [
     {
      "t": "text",
-     "v": "A Royal Oak crash claim usually turns on four questions:"
+     "v": "A Rochester Hills crash claim usually turns on three questions:"
     }
    ]
   },
@@ -131,13 +114,7 @@
     [
      {
       "t": "text",
-      "v": "Who had the right of way at a turnaround or a signal?"
-     }
-    ],
-    [
-     {
-      "t": "text",
-      "v": "Had the other driver been drinking, and where?"
+      "v": "Who had the right of way?"
      }
     ],
     [
@@ -149,7 +126,7 @@
     [
      {
       "t": "text",
-      "v": "If the road played a part, does it belong to the State, the county, or the City?"
+      "v": "If the road played a part, did it belong to the State, the county, the City, or Oakland University?"
      }
     ]
    ]
@@ -213,11 +190,11 @@
      },
      {
       "t": "link",
-      "href": "/areas-served/royal-oak",
+      "href": "/areas-served/rochester-hills",
       "c": [
        {
         "t": "text",
-        "v": "Royal Oak page"
+        "v": "Rochester Hills page"
        }
       ]
      },
@@ -233,15 +210,15 @@
    "c": [
     {
      "t": "text",
-     "v": "The first conversation is free, in English, Arabic, French, Mandarin, Urdu, or Spanish: (313) 406-7606. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed."
+     "v": "The first conversation is free, in English, Arabic, French, Mandarin, Urdu, or Spanish: (313) 406-7606."
     }
    ]
   }
  ],
  "sections": [
   {
-   "id": "royal-oak-and-oakland-county-crashes-2024",
-   "heading": "Royal Oak and Oakland County crashes, 2024",
+   "id": "rochester-hills-and-oakland-county-crashes-2024",
+   "heading": "Rochester Hills and Oakland County crashes, 2024",
    "blocks": [
     {
      "t": "table",
@@ -270,19 +247,19 @@
        [
         {
          "t": "text",
-         "v": "Royal Oak crashes / fatal crashes / injury crashes"
+         "v": "Rochester Hills crashes / fatal crashes / injury crashes"
         }
        ],
        [
         {
          "t": "text",
-         "v": "1,992 / 2 / 344"
+         "v": "1,986 / 2 / 379"
         }
        ],
        [
         {
          "t": "text",
-         "v": "MSP, Michigan Traffic Crash Facts 2024, Oakland County profile"
+         "v": "MSP, Michigan Traffic Crash Facts 2024, Oakland County profile (“Rochester Hills/Avon Twp.”)"
         }
        ]
       ],
@@ -290,43 +267,13 @@
        [
         {
          "t": "text",
-         "v": "Royal Oak people killed / seriously injured"
+         "v": "Rochester Hills people killed / seriously injured / injured"
         }
        ],
        [
         {
          "t": "text",
-         "v": "5 / 28"
-        }
-       ],
-       [
-        {
-         "t": "text",
-         "v": "Same "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "VERIFY",
-           "v": "5 killed in 2 fatal crashes"
-          }
-         ]
-        }
-       ]
-      ],
-      [
-       [
-        {
-         "t": "text",
-         "v": "Royal Oak alcohol-involved crashes"
-        }
-       ],
-       [
-        {
-         "t": "text",
-         "v": "57"
+         "v": "2 / 30 / 521"
         }
        ],
        [
@@ -340,19 +287,39 @@
        [
         {
          "t": "text",
-         "v": "Neighbors, for comparison: Ferndale / Madison Heights / Berkley crashes"
+         "v": "Livernois at W. Hamlin Road"
         }
        ],
        [
         {
          "t": "text",
-         "v": "522 / 1,030 / 159"
+         "v": "60 crashes, 4 injuries; tenth in Oakland County"
         }
        ],
        [
         {
          "t": "text",
-         "v": "Same"
+         "v": "MSP 2024 crash data, as compiled and reported November 2025"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Troy, for comparison: crashes / killed / seriously injured"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "2,480 / 7 / 35"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MSP 2024 Oakland County profile"
         }
        ]
       ],
@@ -367,6 +334,26 @@
         {
          "t": "text",
          "v": "35,951 / 9,139 / 509 / 68"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Same"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Oakland County deer-involved crashes"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "2,024"
         }
        ],
        [
@@ -443,15 +430,15 @@
      "c": [
       {
        "t": "text",
-       "v": "Royal Oak had 57 alcohol-involved crashes in 2024. That is nearly as many as Ferndale and Madison Heights combined (59), and about one in fifteen of all such crashes in Oakland County. Royal Oak had slightly more crashes than Rochester Hills (1,986), and more deaths. No Royal Oak intersection was in Oakland County’s 2024 top ten."
+       "v": "Rochester Hills had nearly as many crashes as Troy in 2024 but fewer deaths and serious injuries: Troy had 2,480 crashes, 7 deaths, and 35 serious injuries."
       }
      ]
     }
    ]
   },
   {
-   "id": "where-royal-oak-crashes-happen",
-   "heading": "Where Royal Oak crashes happen",
+   "id": "where-rochester-hills-crashes-happen",
+   "heading": "Where Rochester Hills crashes happen",
    "blocks": [
     {
      "t": "p",
@@ -461,13 +448,13 @@
        "c": [
         {
          "t": "text",
-         "v": "Woodward and the Michigan lefts."
+         "v": "M-59."
         }
        ]
       },
       {
        "t": "text",
-       "v": " Woodward has no direct left turns at most intersections. A driver who wants to turn left goes past the cross street, makes a U-turn at a turnaround in the median, and comes back. The crashes are:"
+       "v": " M-59 is a freeway through the city, with interchanges including Adams, Crooks, and Rochester Road, and the approach to I-75."
       }
      ]
     },
@@ -480,73 +467,13 @@
         "c": [
          {
           "t": "text",
-          "v": "at the turnaround:"
+          "v": "On the freeway:"
          }
         ]
        },
        {
         "t": "text",
-        "v": " a driver pulls out of it into oncoming lanes without yielding, or a truck too long to clear it blocks lanes"
-       }
-      ],
-      [
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "text",
-          "v": "in the crossover:"
-         }
-        ]
-       },
-       {
-        "t": "text",
-        "v": " drivers crossing the median at a signal"
-       }
-      ],
-      [
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "text",
-          "v": "lane changes:"
-         }
-        ]
-       },
-       {
-        "t": "text",
-        "v": " drivers moving left to reach a turnaround (MCL 257.642(1)(a))"
-       }
-      ],
-      [
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "text",
-          "v": "signals:"
-         }
-        ]
-       },
-       {
-        "t": "text",
-        "v": " red-light crashes at Eleven, Twelve, Thirteen, and Fourteen Mile"
-       }
-      ],
-      [
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "text",
-          "v": "straightaways:"
-         }
-        ]
-       },
-       {
-        "t": "text",
-        "v": " rear-end crashes at the signals and speed-related crashes between them"
+        "v": " merge and weave crashes at the ramps, and rear-end crashes in the backups."
        }
       ]
      ]
@@ -556,17 +483,21 @@
      "c": [
       {
        "t": "text",
-       "v": "Woodward belongs to MDOT. Each August, the Woodward Dream Cruise brings crowds, slow traffic, and pedestrians to the corridor. "
+       "v": "M-59 belongs to MDOT. See our "
       },
       {
-       "t": "strong",
+       "t": "link",
+       "href": "/personal-injury/truck-accidents/rochester-hills",
        "c": [
         {
-         "t": "placeholder",
-         "kind": "VERIFY",
-         "v": ""
+         "t": "text",
+         "v": "Rochester Hills truck accident page"
         }
        ]
+      },
+      {
+       "t": "text",
+       "v": "."
       }
      ]
     },
@@ -578,13 +509,13 @@
        "c": [
         {
          "t": "text",
-         "v": "Downtown and the bars."
+         "v": "Rochester Road."
         }
        ]
       },
       {
        "t": "text",
-       "v": " Main Street, Washington, Fourth, Fifth, Lafayette, and Eleven Mile hold dozens of bars, restaurants, a concert venue, and a cinema, with parking structures between them. The crashes are:"
+       "v": " This is the city’s main north-south arterial, from South Boulevard and the Troy line, through the M-59 interchange and the retail strips at Auburn and Hamlin, to the Avon and Tienken signals and downtown Rochester. The crashes are:"
       }
      ]
     },
@@ -594,25 +525,25 @@
       [
        {
         "t": "text",
-        "v": "pedestrians struck at the downtown crossings late at night"
+        "v": "left turns across traffic (MCL 257.650)"
        }
       ],
       [
        {
         "t": "text",
-        "v": "drivers backing out of angled and parallel spaces"
+        "v": "rear-end crashes in the stacked turn lanes"
        }
       ],
       [
        {
         "t": "text",
-        "v": "crashes in and around the parking structures"
+        "v": "driveway crashes at the shopping centers"
        }
       ],
       [
        {
         "t": "text",
-        "v": "drunk-driving crashes as the bars close"
+        "v": "pedestrian crashes near the restaurants"
        }
       ]
      ]
@@ -622,7 +553,77 @@
      "c": [
       {
        "t": "text",
-       "v": "A driver who caused a crash after being served while visibly intoxicated brings a second defendant into the case: the bar. See the dram shop section below and our "
+       "v": "From M-59 north to Tienken, Rochester Road is M-150 and belongs to MDOT; south of M-59 it is a Road Commission road."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Livernois, Hamlin, and the mile roads."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Livernois at Hamlin was the city’s highest-crash intersection in 2024. Crooks, Adams, John R, Auburn, Avon, Tienken, and Walton carry neighborhood and commuter traffic to M-59 and Rochester Road. The crashes are:"
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "text",
+        "v": "signal and left-turn crashes"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "lane changes into an occupied lane (MCL 257.642(1)(a))"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "crashes at subdivision entrances"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "crashes with cyclists and walkers where the Clinton River Trail and Paint Creek Trail cross the roads at grade"
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "See our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/bicycle-accidents",
+       "c": [
+        {
+         "t": "text",
+         "v": "bicycle accident page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " and our "
       },
       {
        "t": "link",
@@ -648,59 +649,13 @@
        "c": [
         {
          "t": "text",
-         "v": "I-696 and I-75."
+         "v": "Oakland University."
         }
        ]
       },
       {
        "t": "text",
-       "v": " The Walter P. Reuther Freeway runs along the city’s southern edge. Its crashes come from:"
-      }
-     ]
-    },
-    {
-     "t": "ul",
-     "items": [
-      [
-       {
-        "t": "text",
-        "v": "merges and lane changes at the Woodward, Campbell, and I-75 interchanges"
-       }
-      ],
-      [
-       {
-        "t": "text",
-        "v": "rear-end crashes in rush-hour backups"
-       }
-      ],
-      [
-       {
-        "t": "text",
-        "v": "trucks bound for the Troy and Madison Heights industrial areas"
-       }
-      ]
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
-      {
-       "t": "text",
-       "v": "See our "
-      },
-      {
-       "t": "link",
-       "href": "/personal-injury/truck-accidents/royal-oak",
-       "c": [
-        {
-         "t": "text",
-         "v": "Royal Oak truck accident page"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": "."
+       "v": " The campus sits on the city’s western side along Walton Boulevard, extending into Auburn Hills. Its traffic includes pedestrian crossings, campus roads, parking structures, and event traffic. A crash on the university’s own roads, or with a university vehicle, is a claim against the State, because Oakland University is a state institution. That claim goes to the Court of Claims, with written notice within six months for a vehicle claim (MCL 600.6431), or 120 days for a road defect (MCL 691.1404)"
       }
      ]
     },
@@ -712,13 +667,13 @@
        "c": [
         {
          "t": "text",
-         "v": "The mile roads and the neighborhoods."
+         "v": "Deer."
         }
        ]
       },
       {
        "t": "text",
-       "v": " Royal Oak’s grid of bungalow neighborhoods produces:"
+       "v": " Oakland County recorded 2,024 deer-involved crashes in 2024, and the wooded corridors along the Clinton River, Paint Creek, and the city’s northern and eastern edges produce them. A deer crash is a no-fault claim:"
       }
      ]
     },
@@ -728,19 +683,13 @@
       [
        {
         "t": "text",
-        "v": "left-turn crashes at the signals on the mile roads and on Crooks, Coolidge, Campbell, Main, and Rochester Road (MCL 257.650)"
+        "v": "Your own insurer pays your medical bills and lost wages."
        }
       ],
       [
        {
         "t": "text",
-        "v": "crashes at uncontrolled and stop-sign intersections on residential streets"
-       }
-      ],
-      [
-       {
-        "t": "text",
-        "v": "cyclist and pedestrian crashes near schools and parks"
+        "v": "Comprehensive coverage usually pays for damage from hitting the deer; collision coverage applies if you swerved and hit something else."
        }
       ]
      ]
@@ -750,21 +699,16 @@
      "c": [
       {
        "t": "text",
-       "v": "The hospital campus at Thirteen Mile and Woodward adds ambulance traffic and visitors unfamiliar with the roads. See our "
+       "v": "There is usually no one to sue. The exception is a crash where another driver swerved into you or caused a chain-reaction collision. "
       },
       {
-       "t": "link",
-       "href": "/personal-injury/bicycle-accidents",
+       "t": "strong",
        "c": [
         {
          "t": "text",
-         "v": "bicycle accident page"
+         "v": "Comprehensive coverage usually pays for damage from hitting the deer; collision coverage applies if you swerved and hit something else"
         }
        ]
-      },
-      {
-       "t": "text",
-       "v": "."
       }
      ]
     },
@@ -776,13 +720,13 @@
        "c": [
         {
          "t": "text",
-         "v": "Whose road it is: the State, the county, or the City."
+         "v": "Whose road it is: the State, the county, the City, or the university."
         }
        ]
       },
       {
        "t": "text",
-       "v": " Royal Oak is a city, and road ownership is split three ways:"
+       "v": " Rochester Hills is a city, and it maintains a number of its own major roads as well as its subdivision streets:"
       }
      ]
     },
@@ -791,30 +735,20 @@
      "items": [
       [
        {
-        "t": "strong",
-        "c": [
-         {
-          "t": "text",
-          "v": "MDOT"
-         }
-        ]
-       },
+        "t": "text",
+        "v": "MDOT owns M-59, and Rochester Road (M-150) from M-59 north to Tienken. A road-defect claim against MDOT goes to the Court of Claims, with written notice filed there within 120 days (MCL 691.1404)."
+       }
+      ],
+      [
        {
         "t": "text",
-        "v": " owns Woodward, I-696, and I-75. A road-defect claim against MDOT goes to the Court of Claims, with written notice filed there within 120 days (MCL 691.1404; "
-       },
-       {
-        "t": "em",
-        "c": [
-         {
-          "t": "text",
-          "v": "Champine v Department of Transportation"
-         }
-        ]
-       },
+        "v": "The Road Commission for Oakland County owns many of the major roads, including Adams, Crooks, Livernois, Avon, Tienken, Walton, and Rochester Road south of M-59."
+       }
+      ],
+      [
        {
         "t": "text",
-        "v": ", Mich 2022)."
+        "v": "The City of Rochester Hills owns some major roads, including Hamlin and John R, as well as the subdivision streets."
        }
       ],
       [
@@ -823,28 +757,13 @@
         "c": [
          {
           "t": "text",
-          "v": "The Road Commission for Oakland County"
+          "v": "Oakland University"
          }
         ]
        },
        {
         "t": "text",
-        "v": " owns Ten, Twelve, and Fourteen Mile."
-       }
-      ],
-      [
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "text",
-          "v": "The City of Royal Oak"
-         }
-        ]
-       },
-       {
-        "t": "text",
-        "v": " owns the other streets, including Eleven and Thirteen Mile, Crooks, Coolidge, Campbell, Main, and Rochester Road."
+        "v": " owns its campus roads. A claim against it is a claim against the State."
        }
       ]
      ]
@@ -867,20 +786,7 @@
       },
       {
        "t": "text",
-       "v": ", Mich 2000). The notice must go to the agency that actually has jurisdiction over that stretch of road, or it is no notice. For a pedestrian who falls, the City’s sidewalk duty matters (MCL 691.1402a). Royal Oak’s code makes the adjacent owner keep the sidewalk in repair (City Code § 650-5), but that duty to the City does not by itself make the owner liable to a pedestrian ("
-      },
-      {
-       "t": "em",
-       "c": [
-        {
-         "t": "text",
-         "v": "Levendoski v Geisenhaver"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": ", Mich 1965). See our "
+       "v": ", Mich 2000). The notice must go to the agency that actually has jurisdiction over that stretch of road, or it is no notice. The City also has the duty to keep public sidewalks and pathways in repair (MCL 691.1402a). See our "
       },
       {
        "t": "link",
@@ -909,7 +815,7 @@
      "c": [
       {
        "t": "text",
-       "v": "In a rear-end crash, fault is rarely disputed. At a Woodward turnaround, a downtown crossing, or a mile-road left turn, it often is, and the other driver’s insurer may try to assign you half or more of the fault. That share matters (MCL 500.3135(2)(b)):"
+       "v": "In a rear-end crash, fault is rarely disputed. At an M-59 ramp, a Rochester Road left turn, or a subdivision entrance, it often is, and the other driver’s insurer may try to assign you half or more of the fault. That number matters:"
       }
      ]
     },
@@ -953,7 +859,7 @@
      "c": [
       {
        "t": "text",
-       "v": "The evidence that decides fault is perishable:"
+       "v": "The rule is in MCL 500.3135(2)(b). The evidence that decides fault is perishable:"
       }
      ]
     },
@@ -963,7 +869,7 @@
       [
        {
         "t": "text",
-        "v": "the Royal Oak Police Department crash report and diagram, or the State Police report on the freeway"
+        "v": "the Oakland County Sheriff’s Office crash report and the deputy’s diagram (the Sheriff polices Rochester Hills under contract)"
        }
       ],
       [
@@ -978,13 +884,13 @@
        },
        {
         "t": "text",
-        "v": " from MDOT, the Road Commission, or the City, including the turnaround signals"
+        "v": " from MDOT, the Road Commission, or the City"
        }
       ],
       [
        {
         "t": "text",
-        "v": "cameras at downtown businesses, parking structures, gas stations, and homes, many overwritten within days"
+        "v": "store, gas-station, business, and residential cameras, many overwritten within days"
        }
       ],
       [
@@ -1029,13 +935,7 @@
       [
        {
         "t": "text",
-        "v": "bar receipts and the bar’s own cameras, if alcohol was involved"
-       }
-      ],
-      [
-       {
-        "t": "text",
-        "v": "witnesses, including other pedestrians downtown"
+        "v": "witnesses"
        }
       ]
      ]
@@ -1045,15 +945,15 @@
      "c": [
       {
        "t": "text",
-       "v": "We move promptly to request the camera footage, signal data, bar records, and vehicle data."
+       "v": "We move promptly to request the camera footage, signal data, and vehicle data."
       }
      ]
     }
    ]
   },
   {
-   "id": "who-pays-after-a-royal-oak-crash",
-   "heading": "Who pays after a Royal Oak crash",
+   "id": "who-pays-after-a-rochester-hills-crash",
+   "heading": "Who pays after a Rochester Hills crash",
    "blocks": [
     {
      "t": "p",
@@ -1107,7 +1007,7 @@
      "c": [
       {
        "t": "text",
-       "v": "If you have no policy, a resident relative’s policy pays (MCL 500.3114). If none exists, an occupant claims from the insurer of the vehicle they were in (MCL 500.3114(4)), and then the Michigan Assigned Claims Plan (MCL 500.3172), capped at $250,000 for medical benefits. A pedestrian or cyclist hit by a car, with no household policy, claims through the Assigned Claims Plan (MCL 500.3115)"
+       "v": "If you have no policy, a resident relative’s policy pays (MCL 500.3114). If none exists, the Michigan Assigned Claims Plan pays (MCL 500.3172), capped at $250,000 for medical benefits. A pedestrian or cyclist hit by a car, with no household policy, claims through the Michigan Assigned Claims Plan (MCL 500.3115)."
       }
      ]
     },
@@ -1130,7 +1030,7 @@
       },
       {
        "t": "text",
-       "v": " and our "
+       "v": " and "
       },
       {
        "t": "link",
@@ -1184,7 +1084,7 @@
      "c": [
       {
        "t": "text",
-       "v": "You can also recover economic losses that no-fault does not cover (MCL 500.3135(3)(c)):"
+       "v": "You can also recover two kinds of economic loss beyond no-fault (MCL 500.3135(3)(c)):"
       }
      ]
     },
@@ -1210,77 +1110,7 @@
      "c": [
       {
        "t": "text",
-       "v": "The suit must be filed within three years (MCL 600.5805(2)). The mini tort claim recovers up to $3,000 in vehicle damage not covered by your policy (MCL 500.3135(3)(e)). If the at-fault driver’s insurer will not pay it, the claim is filed in the 44th District Court."
-      }
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "text",
-         "v": "Drunk drivers and the dram shop claim."
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " A bar, restaurant, or store that serves a visibly intoxicated person, or a minor, is liable for the injuries that person causes under Michigan’s dram shop act (MCL 436.1801). For a crash after a night downtown, the bar’s commercial policy is often larger than the drunk driver’s auto policy. The claim has its own rules:"
-      }
-     ]
-    },
-    {
-     "t": "ul",
-     "items": [
-      [
-       {
-        "t": "text",
-        "v": "Written notice must go to the business within 120 days after you hire a lawyer."
-       }
-      ],
-      [
-       {
-        "t": "text",
-        "v": "The drunk driver must be named and kept in the suit."
-       }
-      ],
-      [
-       {
-        "t": "text",
-        "v": "The suit must be filed within two years, not three (MCL 436.1801(3), (4))."
-       }
-      ],
-      [
-       {
-        "t": "text",
-        "v": "“Visibly intoxicated” has to be shown by what the server could see, so the evidence matters: point-of-sale records, the bar’s cameras, ride-share and parking records, and witnesses who saw the driver served."
-       }
-      ]
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
-      {
-       "t": "text",
-       "v": "That evidence is overwritten or forgotten within weeks. See our "
-      },
-      {
-       "t": "link",
-       "href": "/personal-injury/drunk-driving-accidents",
-       "c": [
-        {
-         "t": "text",
-         "v": "drunk driving accident page"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": "."
+       "v": "The suit must be filed within three years (MCL 600.5805(2)). The mini tort claim recovers up to $3,000 in vehicle damage not covered by your policy (MCL 500.3135(3)(e)). It is filed in the 52nd District Court, Third Division, if the at-fault driver’s insurer will not pay it."
       }
      ]
     },
@@ -1298,7 +1128,7 @@
       },
       {
        "t": "text",
-       "v": " In a serious crash, the at-fault driver’s liability limit may be less than the claim is worth. If you carry "
+       "v": " In a serious crash, the at-fault driver’s liability limit, often $250,000 or more, may still be less than the claim is worth. If you carry "
       },
       {
        "t": "strong",
@@ -1311,7 +1141,7 @@
       },
       {
        "t": "text",
-       "v": ", your own insurer pays the difference up to your UIM limit. Follow these steps in order:"
+       "v": ", your own insurer pays the difference up to your UIM limit. The order matters, and a mistake can forfeit the second policy:"
       }
      ]
     },
@@ -1327,19 +1157,19 @@
       [
        {
         "t": "text",
-        "v": "You notify your own insurer and ask for its written consent to settle."
+        "v": "You notify your own insurer of the offer and ask for its written consent to settle. Most UIM policies require that consent, and many give your insurer a short period to respond or to pay the limit itself."
        }
       ],
       [
        {
         "t": "text",
-        "v": "Only then do you accept the limit and sign the release."
+        "v": "Only after consent do you accept the limit and sign the release."
        }
       ],
       [
        {
         "t": "text",
-        "v": "The UIM claim then proceeds."
+        "v": "Then the UIM claim proceeds against your own insurer, which can contest the value of the claim."
        }
       ]
      ]
@@ -1349,20 +1179,25 @@
      "c": [
       {
        "t": "text",
-       "v": "Accepting without consent can forfeit the UIM claim under most policies. Against an uninsured driver, or in a hit-and-run, the claim for pain and suffering depends on "
-      },
+       "v": "Accepting the liability limit without consent can forfeit the UIM claim under most policies. We read every policy in the household, including umbrella coverage, before valuing the claim."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
       {
        "t": "strong",
        "c": [
         {
          "t": "text",
-         "v": "uninsured motorist coverage"
+         "v": "When the other driver has no insurance, or the minimum."
         }
        ]
       },
       {
        "t": "text",
-       "v": ", whose notice terms are often short. Two rules cut the other way:"
+       "v": " Some drivers carry the $50,000 opt-down minimum (MCL 500.3009(5))"
       }
      ]
     },
@@ -1371,14 +1206,60 @@
      "items": [
       [
        {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Against an uninsured driver:"
+         }
+        ]
+       },
+       {
         "t": "text",
-        "v": "An owner who was required to insure a car and did not is generally barred from PIP benefits (MCL 500.3113(b))."
+        "v": " your pain-and-suffering claim is worth what that driver can personally pay, unless you carry "
+       },
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "uninsured motorist coverage"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": "."
        }
       ],
       [
        {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "A hit-and-run:"
+         }
+        ]
+       },
+       {
         "t": "text",
-        "v": "A driver who was operating their own uninsured vehicle cannot recover pain-and-suffering damages, whoever was at fault (MCL 500.3135(2)(c))."
+        "v": " usually a UM claim, and the policy’s notice terms are often short."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "If you were uninsured yourself:"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " an owner who was required to insure a car and did not is generally barred from PIP benefits (MCL 500.3113(b)). A driver who was operating their own uninsured vehicle cannot recover pain-and-suffering damages, whoever was at fault (MCL 500.3135(2)(c))."
        }
       ]
      ]
@@ -1414,21 +1295,53 @@
        "c": [
         {
          "t": "text",
-         "v": "Rideshare."
+         "v": "Drunk drivers and dram shop."
         }
        ]
       },
       {
        "t": "text",
-       "v": " Downtown Royal Oak is a rideshare pickup zone on weekend nights. A crash with a rideshare driver involves the driver’s own policy and the platform’s commercial coverage. Which policy applies depends on whether the app was on and whether a ride was in progress. See our "
+       "v": " Oakland County recorded 871 alcohol-involved crashes in 2024. A crash caused by a drunk driver leaving a bar or restaurant on Rochester Road or in downtown Rochester can add a claim against the business, if it served a visibly intoxicated person or a minor. That claim has its own rules (MCL 436.1801(3), (4)):"
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "text",
+        "v": "Written notice must go to the business within 120 days after you hire a lawyer."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "The drunk driver must be named and kept in the suit."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "The suit must be filed within two years, not three."
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "See our "
       },
       {
        "t": "link",
-       "href": "/personal-injury/rideshare-accidents",
+       "href": "/personal-injury/drunk-driving-accidents",
        "c": [
         {
          "t": "text",
-         "v": "rideshare accident page"
+         "v": "drunk driving accident page"
         }
        ]
       },
@@ -1446,13 +1359,13 @@
        "c": [
         {
          "t": "text",
-         "v": "Police cars, fire trucks, and buses."
+         "v": "Sheriff’s cars, fire trucks, and buses."
         }
        ]
       },
       {
        "t": "text",
-       "v": " All of these fall under the motor vehicle exception to governmental immunity (MCL 691.1405):"
+       "v": " Rochester Hills is policed by the Oakland County Sheriff’s Office under contract, so a crash with a patrol car in the city is a claim against Oakland County, not the City. Several other government vehicles fall under the motor vehicle exception to governmental immunity (MCL 691.1405):"
       }
      ]
     },
@@ -1462,19 +1375,25 @@
       [
        {
         "t": "text",
-        "v": "Royal Oak Police and Fire vehicles"
+        "v": "Rochester Hills Fire Department apparatus and City vehicles"
        }
       ],
       [
        {
         "t": "text",
-        "v": "SMART buses on Woodward and the mile roads and at the Royal Oak Transit Center"
+        "v": "SMART buses"
        }
       ],
       [
        {
         "t": "text",
-        "v": "Road Commission trucks"
+        "v": "Rochester Community Schools and Avondale buses"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Oakland University vehicles, which are the State’s"
        }
       ]
      ]
@@ -1484,7 +1403,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Royal Oak Schools’ buses are run by a private contractor, so a claim over one of them is an ordinary negligence claim with no immunity question. Dash camera and dispatch records are overwritten on short schedules, so we request them by FOIA promptly. See our "
+       "v": "Dash camera and dispatch records are overwritten on short schedules, so we request them by FOIA promptly. See our "
       },
       {
        "t": "link",
@@ -1505,8 +1424,8 @@
    ]
   },
   {
-   "id": "what-to-do-after-a-royal-oak-crash",
-   "heading": "What to do after a Royal Oak crash",
+   "id": "what-to-do-after-a-rochester-hills-crash",
+   "heading": "What to do after a Rochester Hills crash",
    "blocks": [
     {
      "t": "ol",
@@ -1523,7 +1442,7 @@
        },
        {
         "t": "text",
-        "v": " Michigan requires a report for any crash with injury or $1,000 in damage (MCL 257.622). Crashes in the city are worked by the Royal Oak Police Department. Freeway crashes may be worked by the Michigan State Police."
+        "v": " Michigan requires a report for any crash with injury or $1,000 in damage (MCL 257.622). Crashes in the city are worked by the Oakland County Sheriff’s Office, whose Rochester Hills substation at 750 Barclay Circle releases reports in person, typically within three to five business days; crash reports are also sold online through CLEMIS, usually after 7 to 10 business days. Freeway crashes may be worked by the Michigan State Police."
        }
       ],
       [
@@ -1532,28 +1451,13 @@
         "c": [
          {
           "t": "text",
-          "v": "Photograph the scene."
+          "v": "Photograph everything."
          }
         ]
        },
        {
         "t": "text",
-        "v": " Get the vehicles, plates, the other driver’s license and insurance card, the turnaround or crossing, the signals, and the lane markings. Note every business, parking structure, and home with a camera facing the scene. Footage is kept for days, not weeks."
-       }
-      ],
-      [
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "text",
-          "v": "If you think the other driver had been drinking,"
-         }
-        ]
-       },
-       {
-        "t": "text",
-        "v": " tell the officer, note where the driver said they had been, and write down the names of witnesses."
+        "v": " Get the vehicles, the plates, the other driver’s license and insurance card, the signals, and the lane markings. Note every business with a camera facing the scene, because footage is kept for days, not weeks."
        }
       ],
       [
@@ -1568,7 +1472,7 @@
        },
        {
         "t": "text",
-        "v": " Corewell Health William Beaumont University Hospital, on Thirteen Mile at Woodward, is Oakland County’s Level I adult trauma center."
+        "v": " Henry Ford Rochester Hospital, on University Drive, describes itself as a Level III adult trauma center. The most serious injuries may go to McLaren Oakland or Trinity Health Oakland in Pontiac, both Level II trauma centers, or to Corewell Health William Beaumont University Hospital in Royal Oak, the county’s Level I adult trauma center. Henry Ford Rochester Hospital, on University Drive, describes itself as a Level III adult trauma center."
        }
       ],
       [
@@ -1583,7 +1487,7 @@
        },
        {
         "t": "text",
-        "v": " promptly."
+        "v": " within the first week."
        }
       ],
       [
@@ -1628,7 +1532,7 @@
        },
        {
         "t": "text",
-        "v": " if fault is disputed, alcohol was involved, the other driver’s limit looks too low, or the road played a part. The camera footage and bar records are the first evidence lost, and the 120-day dram shop and road-defect notices are already running."
+        "v": " if fault is disputed, the other driver’s limit looks too low, or the road played a part. The camera footage and signal data are the first evidence lost, and the 120-day notice to the City or the Road Commission is already running."
        }
       ]
      ]
@@ -1677,7 +1581,7 @@
        },
        {
         "t": "text",
-        "v": " including mini tort claims, go to the 44th District Court at 400 E. Eleven Mile Road, which serves Royal Oak and Berkley."
+        "v": " including mini tort claims, go to the 52nd District Court, Third Division, at 700 Barclay Circle in Rochester Hills."
        }
       ],
       [
@@ -1692,7 +1596,7 @@
        },
        {
         "t": "text",
-        "v": " go to the Sixth Judicial Circuit Court at 1200 N. Telegraph Road in Pontiac, with a jury drawn from all of Oakland County."
+        "v": " go to the Sixth Judicial Circuit Court at 1200 N. Telegraph Road in Pontiac, with a jury drawn from all of Oakland County. A crash on Dequindre, the county line, may have happened in Macomb County, which would put the case in the Sixteenth Circuit (MCL 600.1629)."
        }
       ],
       [
@@ -1701,7 +1605,7 @@
         "c": [
          {
           "t": "text",
-          "v": "Defect claims against MDOT"
+          "v": "Defect claims against MDOT, and claims against Oakland University,"
          }
         ]
        },
@@ -1730,7 +1634,7 @@
         "c": [
          {
           "t": "text",
-          "v": "Royal Oak wrongful death page"
+          "v": "Rochester Hills wrongful death page"
          }
         ]
        },
@@ -1744,8 +1648,8 @@
    ]
   },
   {
-   "id": "deadlines-for-royal-oak-crash-claims",
-   "heading": "Deadlines for Royal Oak crash claims",
+   "id": "deadlines-for-rochester-hills-crash-claims",
+   "heading": "Deadlines for Rochester Hills crash claims",
    "blocks": [
     {
      "t": "table",
@@ -1794,26 +1698,6 @@
        [
         {
          "t": "text",
-         "v": "Dram shop claim against a bar"
-        }
-       ],
-       [
-        {
-         "t": "text",
-         "v": "Notice within 120 days of hiring a lawyer; suit within 2 years"
-        }
-       ],
-       [
-        {
-         "t": "text",
-         "v": "MCL 436.1801(3)"
-        }
-       ]
-      ],
-      [
-       [
-        {
-         "t": "text",
          "v": "UIM consent before accepting the at-fault driver’s limit"
         }
        ],
@@ -1854,7 +1738,7 @@
        [
         {
          "t": "text",
-         "v": "Road defect on a City of Royal Oak street or a county road (RCOC)"
+         "v": "Road defect on a City of Rochester Hills road or a county road (RCOC)"
         }
        ],
        [
@@ -1874,7 +1758,7 @@
        [
         {
          "t": "text",
-         "v": "Defect on Woodward, I-696, or I-75 (MDOT)"
+         "v": "Road defect on M-59 or Rochester Road north of M-59 (MDOT), or on a campus road (Oakland University)"
         }
        ],
        [
@@ -1887,6 +1771,46 @@
         {
          "t": "text",
          "v": "MCL 691.1404"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Other claims against Oakland University, such as a university vehicle"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Court of Claims notice within 6 months"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.6431"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Dram shop claim against a bar"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Notice within 120 days of hiring a lawyer; suit within 2 years"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 436.1801(3)"
         }
        ]
       ],
@@ -1935,8 +1859,8 @@
    ]
   },
   {
-   "id": "why-royal-oak-crash-victims-call-atlaw",
-   "heading": "Why Royal Oak crash victims call ATLAW",
+   "id": "why-rochester-hills-crash-victims-call-atlaw",
+   "heading": "Why Rochester Hills crash victims call ATLAW",
    "blocks": [
     {
      "t": "ul",
@@ -1950,31 +1874,31 @@
       [
        {
         "t": "text",
-        "v": "The dram shop notice and the bar’s records handled early in any alcohol-involved crash"
+        "v": "We sequence the liability limit and the UIM claim so that neither is forfeited."
        }
       ],
       [
        {
         "t": "text",
-        "v": "The right road agency identified before any notice runs: MDOT, the Road Commission, or the City."
+        "v": "We identify the right road agency before any notice runs out: MDOT, the Road Commission, the City, or the university."
        }
       ],
       [
        {
         "t": "text",
-        "v": "The liability limit and the UIM claim sequenced so that neither is forfeited."
+        "v": "We send camera, signal-data, dash-camera, and vehicle-preservation requests promptly."
        }
       ],
       [
        {
         "t": "text",
-        "v": "Camera, signal-data, dash-camera, and vehicle-preservation requests sent promptly."
+        "v": "We read every household policy, including UM/UIM and umbrella coverage, before valuing the claim."
        }
       ],
       [
        {
         "t": "text",
-        "v": "No fee unless we recover money for you. The first conversation is free."
+        "v": "There is no fee unless we recover money for you, and the first conversation is free."
        }
       ]
      ]
@@ -1984,108 +1908,65 @@
  ],
  "faqs": [
   {
-   "question": "A driver pulled out of a Woodward turnaround and hit me. Who is at fault?",
+   "question": "The other driver’s insurer offered its $250,000 policy limit. Should I take it?",
    "answer": [
     {
      "t": "text",
-     "v": "Usually the driver leaving the turnaround, who must yield to traffic on Woodward. These crashes are often disputed, though. The turnaround’s signal or sign, the sight lines, and your speed all matter. Photograph the turnaround and get the witnesses. Woodward belongs to MDOT."
+     "v": "Not before checking your own underinsured motorist coverage and getting your insurer’s written consent to settle. Accepting the limit without consent can forfeit the UIM claim under most policies. Done in the right order, you can recover both."
     }
    ]
   },
   {
-   "question": "The driver who hit me had just left a bar downtown. Can I sue the bar?",
+   "question": "Which Rochester Hills intersections have the most crashes?",
    "answer": [
     {
      "t": "text",
-     "v": "Possibly. A bar that served a visibly intoxicated person can be liable for the injuries that person causes. Written notice is due within 120 days after you hire a lawyer, and suit within two years. The bar’s sales records and cameras are the evidence, and they disappear quickly."
+     "v": "In the State Police data for 2024, Livernois at Hamlin had 60 crashes, tenth among Oakland County intersections. The city as a whole recorded 1,986 crashes, 2 deaths, and 30 serious injuries."
     }
    ]
   },
   {
-   "question": "I was hit crossing Main Street at night. Who pays my medical bills?",
+   "question": "I hit a deer on Tienken Road. Who pays?",
    "answer": [
     {
      "t": "text",
-     "v": "Your own household’s auto policy pays first. If you have none, the Assigned Claims Plan pays. (MCL 500.3115.) Your pain-and-suffering claim is against the driver, reduced by any share of fault the evidence assigns you. That is why the signal phase and the downtown cameras matter."
+     "v": "Your own no-fault insurer pays your medical bills and lost wages. Comprehensive coverage usually pays for the car if you hit the deer; collision applies if you swerved into something else. There is usually no one to sue unless another driver caused the crash."
     }
    ]
   },
   {
-   "question": "How many crashes are there in Royal Oak?",
+   "question": "I was hit by a Sheriff’s patrol car in Rochester Hills. Who do I claim against?",
    "answer": [
     {
      "t": "text",
-     "v": "The State Police recorded 1,992 crashes in Royal Oak in 2024. They killed 5 people and seriously injured 28, and 57 involved alcohol."
+     "v": "Oakland County, because the Sheriff’s Office polices the city under contract. The claim proceeds under the motor vehicle exception to governmental immunity. The patrol car’s video and dispatch records should be requested right away."
     }
    ]
   },
   {
-   "question": "A pothole caused my crash.",
+   "question": "A pothole caused my crash. Do I file against the City of Rochester Hills?",
    "answer": [
     {
      "t": "text",
-     "v": ""
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "text",
-       "v": "Do I file against the City of Royal Oak?"
-      }
-     ]
-    },
-    {
-     "t": "text",
-     "v": " It depends on the road: - "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "text",
-       "v": "Woodward, I-696, and I-75"
-      }
-     ]
-    },
-    {
-     "t": "text",
-     "v": " belong to MDOT, with notice filed in the Court of Claims within 120 days. - "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "text",
-       "v": "Ten, Twelve, and Fourteen Mile belong to the Road Commission for Oakland County"
-      }
-     ]
-    },
-    {
-     "t": "text",
-     "v": ", with written notice within 120 days. - "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "text",
-       "v": "Most other streets"
-      }
-     ]
-    },
-    {
-     "t": "text",
-     "v": " belong to the City, with the same 120 days."
+     "v": "It depends on the road. M-59, and Rochester Road north of M-59, belong to MDOT, with written notice filed with the Court of Claims within 120 days. Some major roads belong to the City and some to the Road Commission for Oakland County, and each requires written notice within 120 days. Campus roads belong to Oakland University, with written notice filed with the Court of Claims within 120 days."
     }
    ]
   },
   {
-   "question": "Where would my Royal Oak case be filed?",
+   "question": "I was hit while crossing at Oakland University. Who pays?",
    "answer": [
     {
      "t": "text",
-     "v": "Mini tort claims and claims up to $25,000 go to the 44th District Court on Eleven Mile. Injury suits over $25,000 go to the Sixth Judicial Circuit Court in Pontiac."
+     "v": "Your own household’s auto policy pays your medical bills. If you have none, the Michigan Assigned Claims Plan pays. (MCL 500.3115.) Your claim against the driver is an ordinary claim. A claim against the university itself goes to the Court of Claims, with a six-month notice."
+    }
+   ]
+  },
+  {
+   "question": "Where would my Rochester Hills case be filed?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Mini tort claims and claims up to $25,000 go to the 52-3 District Court at Barclay Circle. Injury suits over $25,000 go to the Sixth Judicial Circuit Court in Pontiac."
     }
    ]
   },
@@ -2094,21 +1975,21 @@
    "answer": [
     {
      "t": "text",
-     "v": "- One year to give your no-fault insurer written notice. - 120 days to send a dram shop notice, and two years to sue a bar. - Three years to sue the at-fault driver. - 120 days for a notice to the City or the Road Commission. - 120 days for a road-defect notice against MDOT."
+     "v": "- One year to give your no-fault insurer written notice. - Three years to sue the at-fault driver. - Two years to sue a bar. - 120 days for a notice to the City or the Road Commission. - 120 days for a road-defect notice against MDOT or the university. - Six months for other claims against the university."
     }
    ]
   }
  ],
  "cta": {
-  "id": "talk-to-a-lawyer-about-a-royal-oak-crash",
-  "heading": "Talk to a lawyer about a Royal Oak crash",
+  "id": "talk-to-a-lawyer-about-a-rochester-hills-crash",
+  "heading": "Talk to a lawyer about a Rochester Hills crash",
   "blocks": [
    {
     "t": "p",
     "c": [
      {
       "t": "text",
-      "v": "If you were injured in a crash anywhere in Royal Oak, call "
+      "v": "If you were injured in a crash anywhere in Rochester Hills, call "
      },
      {
       "t": "strong",
@@ -2121,45 +2002,7 @@
      },
      {
       "t": "text",
-      "v": " or send the form on this page. We will tell you:"
-     }
-    ]
-   },
-   {
-    "t": "ul",
-    "items": [
-     [
-      {
-       "t": "text",
-       "v": "which insurers owe you benefits"
-      }
-     ],
-     [
-      {
-       "t": "text",
-       "v": "how to collect every policy in the right order"
-      }
-     ],
-     [
-      {
-       "t": "text",
-       "v": "whether you have a claim against the other driver, a bar, or a road agency"
-      }
-     ],
-     [
-      {
-       "t": "text",
-       "v": "what evidence has to be preserved this week"
-      }
-     ]
-    ]
-   },
-   {
-    "t": "p",
-    "c": [
-     {
-      "t": "text",
-      "v": "The review is free, and there is no fee unless we recover money for you."
+      "v": " or send the form on this page. We will tell you which insurers owe you benefits and how to collect every policy in the right order. We will also tell you whether you have a claim against the other driver, a bar, the County, or a road agency, and what evidence has to be preserved this week. The review is free, and there is no fee unless we recover money for you."
      }
     ]
    },
@@ -2171,7 +2014,7 @@
       "c": [
        {
         "t": "text",
-        "v": "This page is general information about Michigan law as of October 2026 and is not legal advice. Crash figures are from the Michigan State Police, Michigan Traffic Crash Facts 2024. Trauma center levels are from the State of Michigan’s list dated July 31, 2026. Results depend on the facts of each case, and past results do not guarantee a future outcome."
+        "v": "This page is general information about Michigan law as of October 2026 and is not legal advice. Crash figures are from the Michigan State Police, Michigan Traffic Crash Facts 2024, and State Police intersection data for 2024 as compiled and reported. Trauma center levels are from the State of Michigan’s list dated July 31, 2026. Results depend on the facts of each case, and past results do not guarantee a future outcome."
        }
       ]
      }
@@ -2179,10 +2022,10 @@
    }
   ]
  },
- "wordCount": 2933,
- "openItems": 2,
+ "wordCount": 3127,
+ "openItems": 0,
  "source": {
-  "file": "B4-21_Royal-Oak-Car-Accident-Lawyer.docx",
+  "file": "B4-14_Rochester-Hills-Car-Accident-Lawyer.docx",
   "delivered": "October 25, 2026 [CONFIRM: Batch 4 delivery date]"
  }
 }

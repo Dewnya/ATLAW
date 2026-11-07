@@ -2,7 +2,7 @@
 slug: auto-accidents
 section: personal-injury
 city: livonia
-status: draft
+status: approved
 seoTitle: Livonia Car Accident Lawyer: Middlebelt at Schoolcraft, I-96 and I-275, No-Fault Benefits, and the 16th District Court
 seoDescription: Hurt in a car crash in Livonia? Middlebelt at Schoolcraft recorded 95 crashes in 2024, second in Wayne County. Who pays your bills under no-fault, how fault is decided at the I-96 service drives, whose road it was, and the one-year and three-year deadlines. Free review. (313) 406-7606.
 h1: Livonia Car Accident Lawyer
@@ -32,7 +32,7 @@ ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parkla
 | Wayne County crashes involving trucks and buses | 3,916 | MSP, Heavy Trucks and Buses 2024 |
 | Michigan minimum liability limits | $250,000 / $500,000 by default; as low as $50,000 / $100,000 if the policyholder elects | MCL 500.3009(1), (5) |
 
-The 2025 list, compiled from State Police reports and published in September 2026, shows Middlebelt at Schoolcraft down to 63 crashes and Six Mile at the I-96/I-275 interchange third in the county with 68 crashes and 19 injuries. **[VERIFY against MSP 2025 data before publication]** The Livonia Police Department’s own list of the city’s highest-crash intersections names Middlebelt and Plymouth, Five Mile and Middlebelt, both Schoolcraft service drives at Middlebelt, Six Mile and Farmington, and Seven Mile and Farmington, and identifies southbound I-275 near Six Mile as a separate problem area. **[VERIFY: the Livonia PD list carries no date]**
+The 2025 list, compiled from State Police reports and published in September 2026, shows Middlebelt at Schoolcraft down to 63 crashes and Six Mile at the I-96/I-275 interchange third in the county with 68 crashes and 19 injuries. The Livonia Police Department’s Traffic Bureau publishes its own, undated list of the city’s highest-crash intersections: Middlebelt and Plymouth, Five Mile and Middlebelt, both Schoolcraft service drives at Middlebelt, Six Mile and Farmington, and Seven Mile and Farmington, with southbound I-275 near Six Mile identified as a separate problem area.
 
 ## Where Livonia crashes happen, and whose road it is
 
@@ -72,7 +72,7 @@ We move promptly to request the camera footage, signal data, and vehicle data.
 
 ## What to do after a Livonia crash
 
-1. **Call 911 and get the police report.** Michigan requires a report for any crash with injury or $1,000 in damage (MCL 257.622). Livonia Police crash reports are available online through CLEMIS (payments.clemis.org); a crash on the freeway may be worked by the Michigan State Police instead. **[VERIFY]**
+1. **Call 911 and get the police report.** Michigan requires a report for any crash with injury or $1,000 in damage (MCL 257.622). Livonia Police crash reports are available online through CLEMIS (payments.clemis.org), usually within five to seven business days, or from the department’s Central Records bureau at 15050 Farmington Road; a crash on I-96, I-275, or M-14 may be worked by the Michigan State Police instead, whose reports are sold through its Traffic Crash Purchasing System.
 2. **Photograph the vehicles, plates, the other driver’s license and insurance card, the signals, and the lanes.** Note every business with a camera facing the intersection; footage is kept for days, not weeks.
 3. **Get medical care the same day.** Trinity Health Livonia Hospital on Five Mile treats many of the city’s seriously injured; Corewell Health Farmington Hills, Garden City Hospital, and the Detroit Level I trauma centers treat others.
 4. **Report to your own insurer and file the Application for No-Fault Benefits** within the first week.

@@ -2,7 +2,7 @@
  "slug": "auto-accidents",
  "section": "personal-injury",
  "city": "pontiac",
- "status": "draft",
+ "status": "approved",
  "seoTitle": "Pontiac, MI Car Accident Lawyer: Woodward Loop, Telegraph, M-59, No-Fault Benefits, Uninsured Drivers, and City, County, and State Roads",
  "seoDescription": "Hurt in a car crash in Pontiac? Who pays your bills under no-fault, what to do when the other driver has no insurance, how fault is decided on the Woodward Loop, Telegraph, and M-59, why a crash with a Sheriff’s car is a claim against Oakland County, which agency owns the road, the coming Loop construction, and the one-year and three-year deadlines. Free review. (313) 406-7606.",
  "h1": "Pontiac, MI Car Accident Lawyer",
@@ -274,21 +274,7 @@
       },
       {
        "t": "text",
-       "v": " Traffic on the Loop moves one way at speed, and drivers enter and leave it across several lanes to reach downtown streets, Woodward south, Huron Street, and the neighborhoods. The crashes are lane-change and sideswipe crashes at the weaves, rear-ends at the signals and merges, crashes with drivers who enter the Loop going the wrong way or miss their exit and cut across lanes, and pedestrian crashes at the crossings. The Loop is MDOT’s. MDOT plans to convert it to a two-way avenue, with construction scheduled to begin in 2028, and to convert Pike Street and Cass Avenue to two-way traffic in fall 2026. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "VERIFY",
-         "v": "against MDOT"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " Changes in traffic patterns and work zones produce their own crashes: drivers following old patterns, confusing lane shifts, and crashes with work vehicles. A work-zone crash can involve the contractor as well as a driver."
+       "v": " Traffic on the Loop moves one way at speed, and drivers enter and leave it across several lanes to reach downtown streets, Woodward south, Huron Street, and the neighborhoods. The crashes are lane-change and sideswipe crashes at the weaves, rear-ends at the signals and merges, crashes with drivers who enter the Loop going the wrong way or miss their exit and cut across lanes, and pedestrian crashes at the crossings. The Loop is MDOT’s. MDOT plans to convert it to a two-way avenue, with construction scheduled to begin in 2028, and to convert Pike Street and Cass Avenue to two-way traffic in fall 2026, under its current schedule. Changes in traffic patterns and work zones produce their own crashes: drivers following old patterns, confusing lane shifts, and crashes with work vehicles. A work-zone crash can involve the contractor as well as a driver."
       }
      ]
     },
@@ -324,21 +310,7 @@
       },
       {
        "t": "text",
-       "v": " Huron Street carries M-59 through the city past McLaren Oakland and downtown; east of the city M-59 becomes a freeway to Auburn Hills and I-75. Intersection crashes at Telegraph, Perry, Opdyke, and Baldwin; freeway merge and rear-end crashes; and trucks serving the industrial and warehouse sites on the city’s east side. MDOT plans to close Huron Street between the two sides of the Loop from spring to fall 2027 for the conversion work. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "VERIFY",
-         "v": ""
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " See our "
+       "v": " Huron Street carries M-59 through the city past McLaren Oakland and downtown; east of the city M-59 becomes a freeway to Auburn Hills and I-75. Intersection crashes at Telegraph, Perry, Opdyke, and Baldwin; freeway merge and rear-end crashes; and trucks serving the industrial and warehouse sites on the city’s east side. MDOT plans to close Huron Street between the two sides of the Loop from spring to fall 2027 for the conversion work. See our "
       },
       {
        "t": "link",
@@ -792,17 +764,7 @@
        },
        {
         "t": "text",
-        "v": " Michigan requires a report for any crash with injury or $1,000 in damage (MCL 257.622). Crashes in the city are worked by the Oakland County Sheriff’s Office; freeway crashes may be worked by the Michigan State Police. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "VERIFY",
-          "v": "report request process"
-         }
-        ]
+        "v": " Michigan requires a report for any crash with injury or $1,000 in damage (MCL 257.622). Crashes in the city are worked by the Oakland County Sheriff’s Office, which polices Pontiac under contract; its crash reports are sold online through CLEMIS, typically 7 to 10 business days after the crash, or released by the Sheriff’s Records Unit at 1201 North Telegraph Road. Freeway crashes may be worked by the Michigan State Police."
        }
       ],
       [
@@ -1203,17 +1165,7 @@
    "answer": [
     {
      "t": "text",
-     "v": "No Pontiac intersection was among Oakland County’s ten highest-crash locations in the State Police data for 2024. "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "CONFIRM",
-       "v": "data: Pontiac’s highest-crash locations from the MTCF query tool"
-      }
-     ]
+     "v": "No Pontiac intersection was among Oakland County’s ten highest-crash locations in the State Police data for 2024 or 2025."
     }
    ]
   },
@@ -1296,8 +1248,8 @@
    }
   ]
  },
- "wordCount": 2984,
- "openItems": 4,
+ "wordCount": 3005,
+ "openItems": 0,
  "source": {
   "file": "B3-83_Pontiac-Car-Accident-Lawyer.docx",
   "delivered": "October 25, 2026 [CONFIRM: Batch 3 delivery date]"

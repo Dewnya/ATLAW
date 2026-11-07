@@ -2,7 +2,7 @@
 slug: auto-accidents
 section: personal-injury
 city: waterford
-status: draft
+status: approved
 seoTitle: Waterford, MI Car Accident Lawyer: M-59, Dixie Highway, Crescent Lake Road, No-Fault Benefits, and Why the Township Is Not the Road Defendant
 seoDescription: Hurt in a car crash in Waterford Township? Highland Road (M-59) at Crescent Lake Road was one of Oakland County’s ten highest-crash intersections in 2024, with 22 injuries. Who pays your bills under no-fault, how fault is decided, why the roads belong to MDOT and the Road Commission, and the one-year and three-year deadlines. Free review. (313) 406-7606.
 h1: Waterford, MI Car Accident Lawyer
@@ -38,7 +38,7 @@ Crescent Lake Road at Highland had fewer crashes than the county’s busiest int
 
 ## Where Waterford crashes happen
 
-**Highland Road (M-59).** The township’s spine, from Telegraph and the Pontiac line west past the Crescent Lake, Airport Road, Williams Lake, and Pontiac Lake signals. The crashes are left-turn crashes across several lanes of oncoming traffic, red-light crashes, rear-ends in the stacked turn lanes and at the signals, driveway crashes at the strip centers, and pedestrian crashes where people cross between the stores and the apartment complexes (see our [pedestrian accident page](/personal-injury/pedestrian-accidents)). Highland at Crescent Lake ranked in Oakland County’s 2024 top ten. **[CONFIRM: data: other M-59 intersections from the MTCF query tool]**
+**Highland Road (M-59).** The township’s spine, from Telegraph and the Pontiac line west past the Crescent Lake, Airport Road, Williams Lake, and Pontiac Lake signals. The crashes are left-turn crashes across several lanes of oncoming traffic, red-light crashes, rear-ends in the stacked turn lanes and at the signals, driveway crashes at the strip centers, and pedestrian crashes where people cross between the stores and the apartment complexes (see our [pedestrian accident page](/personal-injury/pedestrian-accidents)). Highland at Crescent Lake ranked in Oakland County’s 2024 top ten.
 
 **Dixie Highway (US-24) and Telegraph.** From the Telegraph junction northwest through Walton, Sashabaw, Scott Lake, and Andersonville toward Clarkston: crashes at dealership and retail driveways, left-turn and signal crashes, and turning-truck crashes from the gravel and freight traffic that uses Dixie (see our [Waterford truck accident page](/personal-injury/truck-accidents)). Farther up the same corridor, Dixie at I-75 in Springfield Township ranked fourth in the county in 2024. Telegraph along the township’s eastern side carries the traffic between Pontiac, the county complex, and Dixie.
 
@@ -74,7 +74,7 @@ We move promptly to request the camera footage, signal data, and vehicle data.
 
 ## What to do after a Waterford crash
 
-1. **Call 911 and get the police report.** Michigan requires a report for any crash with injury or $1,000 in damage (MCL 257.622). Most township crashes are worked by the Waterford Township Police Department; some by the Michigan State Police or the Oakland County Sheriff’s Office. **[VERIFY: report request process]**
+1. **Call 911 and get the police report.** Michigan requires a report for any crash with injury or $1,000 in damage (MCL 257.622). Most township crashes are worked by the Waterford Township Police Department, whose crash reports are available online through CLEMIS or from the Police Records Bureau at 5150 Civic Center Drive; some are worked by the Michigan State Police or the Oakland County Sheriff’s Office.
 2. **Photograph the vehicles, plates, the other driver’s license and insurance card, the signals, the lane markings, and the view from your stop line.** Note every business with a camera facing the scene; footage is kept for days, not weeks.
 3. **Get medical care the same day.** McLaren Oakland and Trinity Health Oakland in Pontiac are both Level II trauma centers; the most serious injuries may go to Corewell Health William Beaumont University Hospital in Royal Oak, a Level I center.
 4. **Report to your own insurer and file the Application for No-Fault Benefits** within the first week.
@@ -111,7 +111,7 @@ Claims up to $25,000, including mini tort claims, are filed in the 51st District
 
 ## Frequently asked questions
 
-**Which Waterford intersections have the most crashes?** In the State Police data for 2024, Highland Road (M-59) at Crescent Lake Road ranked ninth in Oakland County, with 60 crashes and 22 injuries. **[CONFIRM: data: Waterford’s other highest-crash locations from the MTCF query tool]**
+**Which Waterford intersections have the most crashes?** In the State Police data for 2024, Highland Road (M-59) at Crescent Lake Road ranked ninth in Oakland County, with 60 crashes and 22 injuries. No Waterford intersection appears in the county’s 2025 top ten.
 
 **How many car accidents happen in Waterford each year?** Waterford Township recorded 1,546 crashes, 497 injuries, and 3 deaths in 2024. Oakland County as a whole recorded 35,951 crashes, 9,139 injuries, and 68 deaths in 2024.
 

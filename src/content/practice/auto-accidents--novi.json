@@ -2,7 +2,7 @@
  "slug": "auto-accidents",
  "section": "personal-injury",
  "city": "novi",
- "status": "draft",
+ "status": "approved",
  "seoTitle": "Novi, MI Car Accident Lawyer: I-96 and I-275, M-5, Twelve Oaks and Novi Road, Deer Crashes, No-Fault Benefits, and City, County, and State Roads",
  "seoDescription": "Hurt in a car crash in Novi? The city had 1,984 crashes, 3 deaths, and 27 serious injuries in 2024, and more than a quarter of its crashes were on the freeways. Covers who pays your bills under no-fault, how fault is decided at the interchanges and retail driveways, deer crashes, collecting the other driver’s limit and your own underinsured coverage, which agency owns the road, and the one-year and three-year deadlines. Free review. (313) 406-7606.",
  "h1": "Novi, MI Car Accident Lawyer",
@@ -913,17 +913,7 @@
       [
        {
         "t": "text",
-        "v": "MDOT’s freeway traffic cameras, which generally do not record "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "VERIFY",
-          "v": ""
-         }
-        ]
+        "v": "MDOT’s Mi Drive freeway cameras, which MDOT says provide live viewing and are not continuously recorded"
        }
       ],
       [
@@ -1442,17 +1432,7 @@
        },
        {
         "t": "text",
-        "v": " Michigan requires a report for any crash with injury or $1,000 in damage (MCL 257.622). Crashes in the city are worked by the Novi Police Department. Freeway crashes may be worked by the Michigan State Police. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "VERIFY",
-          "v": "report request process"
-         }
-        ]
+        "v": " Michigan requires a report for any crash with injury or $1,000 in damage (MCL 257.622). Crashes in the city are worked by the Novi Police Department, whose crash reports are available online through CLEMIS or from its records desk. Freeway crashes may be worked by the Michigan State Police."
        }
       ],
       [
@@ -2128,8 +2108,8 @@
    }
   ]
  },
- "wordCount": 3302,
- "openItems": 2,
+ "wordCount": 3316,
+ "openItems": 0,
  "source": {
   "file": "B4-27_Novi-Car-Accident-Lawyer.docx",
   "delivered": "October 25, 2026 [CONFIRM: Batch 4 delivery date]"

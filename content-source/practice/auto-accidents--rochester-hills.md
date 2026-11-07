@@ -2,7 +2,7 @@
 slug: auto-accidents
 section: personal-injury
 city: rochester-hills
-status: draft
+status: approved
 seoTitle: Rochester Hills, MI Car Accident Lawyer: M-59, Rochester Road, Livernois and Hamlin, Underinsured Motorist Sequencing, and City, County, and State Roads
 seoDescription: Hurt in a car crash in Rochester Hills? 1,986 crashes in 2024, and Livernois at Hamlin was tenth in Oakland County. Covers who pays your bills under no-fault, how to collect the other driver’s limit and your own underinsured coverage without forfeiting either, deer crashes, Oakland University, which agency owns the road, and the one-year and three-year deadlines. Free review. (313) 406-7606.
 h1: Rochester Hills, MI Car Accident Lawyer
@@ -174,7 +174,7 @@ Dash camera and dispatch records are overwritten on short schedules, so we reque
 
 ## What to do after a Rochester Hills crash
 
-1. **Call 911 and get the police report.** Michigan requires a report for any crash with injury or $1,000 in damage (MCL 257.622). Crashes in the city are worked by the Oakland County Sheriff’s Office. Freeway crashes may be worked by the Michigan State Police. **[VERIFY: report request process at the Rochester Hills substation]**
+1. **Call 911 and get the police report.** Michigan requires a report for any crash with injury or $1,000 in damage (MCL 257.622). Crashes in the city are worked by the Oakland County Sheriff’s Office, whose Rochester Hills substation at 750 Barclay Circle releases reports in person, typically within three to five business days; crash reports are also sold online through CLEMIS, usually after 7 to 10 business days. Freeway crashes may be worked by the Michigan State Police.
 2. **Photograph everything.** Get the vehicles, the plates, the other driver’s license and insurance card, the signals, and the lane markings. Note every business with a camera facing the scene, because footage is kept for days, not weeks.
 3. **Get medical care the same day.** Henry Ford Rochester Hospital, on University Drive, describes itself as a Level III adult trauma center. The most serious injuries may go to McLaren Oakland or Trinity Health Oakland in Pontiac, both Level II trauma centers, or to Corewell Health William Beaumont University Hospital in Royal Oak, the county’s Level I adult trauma center. Henry Ford Rochester Hospital, on University Drive, describes itself as a Level III adult trauma center.
 4. **Report to your own insurer and file the Application for No-Fault Benefits** within the first week.

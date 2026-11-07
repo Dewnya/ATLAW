@@ -2,7 +2,7 @@
 slug: auto-accidents
 section: personal-injury
 city: pontiac
-status: draft
+status: approved
 seoTitle: Pontiac, MI Car Accident Lawyer: Woodward Loop, Telegraph, M-59, No-Fault Benefits, Uninsured Drivers, and City, County, and State Roads
 seoDescription: Hurt in a car crash in Pontiac? Who pays your bills under no-fault, what to do when the other driver has no insurance, how fault is decided on the Woodward Loop, Telegraph, and M-59, why a crash with a Sheriff’s car is a claim against Oakland County, which agency owns the road, the coming Loop construction, and the one-year and three-year deadlines. Free review. (313) 406-7606.
 h1: Pontiac, MI Car Accident Lawyer
@@ -35,11 +35,11 @@ The county’s ten highest-crash intersections in 2024 were in Commerce Township
 
 ## Where Pontiac crashes happen
 
-**The Woodward Loop.** Traffic on the Loop moves one way at speed, and drivers enter and leave it across several lanes to reach downtown streets, Woodward south, Huron Street, and the neighborhoods. The crashes are lane-change and sideswipe crashes at the weaves, rear-ends at the signals and merges, crashes with drivers who enter the Loop going the wrong way or miss their exit and cut across lanes, and pedestrian crashes at the crossings. The Loop is MDOT’s. MDOT plans to convert it to a two-way avenue, with construction scheduled to begin in 2028, and to convert Pike Street and Cass Avenue to two-way traffic in fall 2026. **[VERIFY against MDOT]** Changes in traffic patterns and work zones produce their own crashes: drivers following old patterns, confusing lane shifts, and crashes with work vehicles. A work-zone crash can involve the contractor as well as a driver.
+**The Woodward Loop.** Traffic on the Loop moves one way at speed, and drivers enter and leave it across several lanes to reach downtown streets, Woodward south, Huron Street, and the neighborhoods. The crashes are lane-change and sideswipe crashes at the weaves, rear-ends at the signals and merges, crashes with drivers who enter the Loop going the wrong way or miss their exit and cut across lanes, and pedestrian crashes at the crossings. The Loop is MDOT’s. MDOT plans to convert it to a two-way avenue, with construction scheduled to begin in 2028, and to convert Pike Street and Cass Avenue to two-way traffic in fall 2026, under its current schedule. Changes in traffic patterns and work zones produce their own crashes: drivers following old patterns, confusing lane shifts, and crashes with work vehicles. A work-zone crash can involve the contractor as well as a driver.
 
 **Telegraph Road (US-24).** A multi-lane highway along the city’s west side past the county complex, the courts, and the retail centers, to its end at Dixie Highway. Left-turn and red-light crashes at Orchard Lake, Elizabeth Lake, Square Lake, and Huron, rear-ends in the turn lanes, and driveway crashes at the shopping centers. Telegraph is MDOT’s.
 
-**M-59 (Huron Street) and the freeway.** Huron Street carries M-59 through the city past McLaren Oakland and downtown; east of the city M-59 becomes a freeway to Auburn Hills and I-75. Intersection crashes at Telegraph, Perry, Opdyke, and Baldwin; freeway merge and rear-end crashes; and trucks serving the industrial and warehouse sites on the city’s east side. MDOT plans to close Huron Street between the two sides of the Loop from spring to fall 2027 for the conversion work. **[VERIFY]** See our [Pontiac truck accident page](/personal-injury/truck-accidents/pontiac).
+**M-59 (Huron Street) and the freeway.** Huron Street carries M-59 through the city past McLaren Oakland and downtown; east of the city M-59 becomes a freeway to Auburn Hills and I-75. Intersection crashes at Telegraph, Perry, Opdyke, and Baldwin; freeway merge and rear-end crashes; and trucks serving the industrial and warehouse sites on the city’s east side. MDOT plans to close Huron Street between the two sides of the Loop from spring to fall 2027 for the conversion work. See our [Pontiac truck accident page](/personal-injury/truck-accidents/pontiac).
 
 **The arterials and city streets.** Perry, Baldwin, Joslyn, Opdyke, Walton, Square Lake, Orchard Lake, Saginaw, and the neighborhood streets: signal crashes, crashes at stop signs where a driver rolls through, and crashes with pedestrians and cyclists where sidewalks, crosswalks, and lighting are uneven. See our [pedestrian accident page](/personal-injury/pedestrian-accidents) and [bicycle accident page](/personal-injury/bicycle-accidents).
 
@@ -74,7 +74,7 @@ We move promptly to request the camera footage, signal data, and vehicle data.
 
 ## What to do after a Pontiac crash
 
-1. **Call 911 and get the police report.** Michigan requires a report for any crash with injury or $1,000 in damage (MCL 257.622). Crashes in the city are worked by the Oakland County Sheriff’s Office; freeway crashes may be worked by the Michigan State Police. **[VERIFY: report request process]**
+1. **Call 911 and get the police report.** Michigan requires a report for any crash with injury or $1,000 in damage (MCL 257.622). Crashes in the city are worked by the Oakland County Sheriff’s Office, which polices Pontiac under contract; its crash reports are sold online through CLEMIS, typically 7 to 10 business days after the crash, or released by the Sheriff’s Records Unit at 1201 North Telegraph Road. Freeway crashes may be worked by the Michigan State Police.
 2. **Photograph the vehicles, plates, the other driver’s license and insurance card, the signals, and the lane markings.** If the other driver cannot show proof of insurance, photograph the plate and the vehicle and tell the deputy. Note every business with a camera facing the scene; footage is kept for days, not weeks.
 3. **Get medical care the same day.** McLaren Oakland and Trinity Health Oakland, both in Pontiac, are Level II trauma centers on the State’s list; the most serious injuries may go to Corewell Health William Beaumont University Hospital in Royal Oak, the county’s Level I adult trauma center.
 4. **Report to your own insurer and file the Application for No-Fault Benefits** within the first week. If you have no policy, a lawyer can identify the insurer next in priority or the Assigned Claims Plan.
@@ -117,7 +117,7 @@ The state courts that hear most Pontiac crash cases sit in the city. Claims up t
 
 **A pothole or a bad signal caused my crash. Do I file against the City of Pontiac?** It depends on the road. A defect in the roadbed on Woodward, the Loop, Telegraph, M-59, or I-75 is MDOT’s, with notice filed with the Court of Claims within 120 days. A signal problem on a State or county road generally falls outside the highway exception. Most other streets are the City’s, and some are the Road Commission’s, each with written notice within 120 days.
 
-**Which Pontiac intersections have the most crashes?** No Pontiac intersection was among Oakland County’s ten highest-crash locations in the State Police data for 2024. **[CONFIRM: data: Pontiac’s highest-crash locations from the MTCF query tool]**
+**Which Pontiac intersections have the most crashes?** No Pontiac intersection was among Oakland County’s ten highest-crash locations in the State Police data for 2024 or 2025.
 
 **The Loop is being rebuilt. Who is responsible for a crash in a work zone?** The driver who caused it, and possibly the contractor if signs, barriers, or lane shifts were inadequate. MDOT itself is liable only for a defect in the roadbed, with notice filed with the Court of Claims within 120 days.
 

@@ -2,7 +2,7 @@
 slug: auto-accidents
 section: personal-injury
 city: canton
-status: draft
+status: approved
 seoTitle: Canton, MI Car Accident Lawyer: Ford Road, I-275, No-Fault Benefits, Township Roads, and the 35th District Court
 seoDescription: Hurt in a car crash in Canton, Michigan? Who pays your bills under no-fault, how fault is decided at the Ford Road intersections, why a road-defect claim goes to Wayne County or MDOT and not the township, MDOT’s Ford Road boulevard plan, and the one-year and three-year deadlines. Free review. (313) 406-7606.
 h1: Canton, MI Car Accident Lawyer
@@ -24,7 +24,7 @@ ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parkla
 | Measure | Figure | Source |
 | --- | --- | --- |
 | Canton Township crashes / people injured / killed | 1,961 / 550 / 4 | MSP Michigan Traffic Crash Facts, community profile |
-| Ford Road at Lilley, Canton | 64 crashes, 12 injuries in 2025; seventh among Wayne County intersections | MSP 2025 crash data, as compiled and reported September 2026 **[VERIFY against MSP]** |
+| Ford Road at Lilley, Canton | 64 crashes, 12 injuries in 2025; seventh among Wayne County intersections | MSP 2025 crash data, as compiled and reported September 2026 |
 | Wayne County crashes / injured / killed | 50,355 / 16,458 / 177 | MSP, Michigan Traffic Crash Facts 2024 |
 | Wayne County deaths per 1,000 crashes | 3.5 (Michigan: 3.8) | Calculated from MSP 2024 figures |
 | Wayne County pedestrian-involved crashes | 637 (40 fatal) | MSP, Pedestrian Crash Report 2020–2024 |

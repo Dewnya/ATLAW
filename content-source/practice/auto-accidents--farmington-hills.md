@@ -2,7 +2,7 @@
 slug: auto-accidents
 section: personal-injury
 city: farmington-hills
-status: draft
+status: approved
 seoTitle: Farmington Hills Car Accident Lawyer: The Orchard Lake Roundabout, the I-696 Interchange, No-Fault Benefits, and the 47th District Court
 seoDescription: Hurt in a car crash in Farmington Hills? Orchard Lake at 14 Mile recorded 109 crashes in 2024, sixth among Michigan intersections. Who pays your bills under no-fault, how fault is decided in a roundabout or a Michigan left, whose road it was, and the one-year and three-year deadlines. Free review. (313) 406-7606.
 h1: Farmington Hills Car Accident Lawyer
@@ -73,7 +73,7 @@ We move promptly to request the camera footage, signal data, and vehicle data. S
 
 ## What to do after a Farmington Hills crash
 
-1. **Call 911 and get the police report.** Michigan requires a report for any crash with injury or $1,000 in damage (MCL 257.622). City streets and arterials are generally worked by the Farmington Hills Police; freeway crashes may be worked by the Michigan State Police. **[VERIFY: Farmington Hills Police report request process]**
+1. **Call 911 and get the police report.** Michigan requires a report for any crash with injury or $1,000 in damage (MCL 257.622). City streets and arterials are generally worked by the Farmington Hills Police, whose crash reports are available online through CLEMIS or at the Records Section at 31655 West Eleven Mile Road, generally 48 to 72 hours after the crash; freeway crashes may be worked by the Michigan State Police, whose reports are sold through its Traffic Crash Purchasing System.
 2. **Photograph the vehicles, plates, the other driver’s license and insurance card, the signals or roundabout signs, and the lane markings.** Note every business with a camera facing the intersection; footage is kept for days, not weeks.
 3. **Get medical care the same day.** Corewell Health Farmington Hills Hospital on Grand River treats many of the city’s injured; Corewell Health William Beaumont University Hospital in Royal Oak, a Level I trauma center, Henry Ford Providence Novi Hospital, and Trinity Health Livonia Hospital treat others.
 4. **Report to your own insurer and file the Application for No-Fault Benefits** within the first week.

@@ -2,7 +2,7 @@
 slug: auto-accidents
 section: personal-injury
 city: troy
-status: draft
+status: approved
 seoTitle: Troy, MI Car Accident Lawyer: I-75, Big Beaver, the Office Commute, No-Fault Benefits, and the 52-4 District Court
 seoDescription: Hurt in a car crash in Troy, Michigan? Who pays your bills under no-fault, how fault is decided at the I-75 interchanges and on Big Beaver, why Troy maintains its own major roads, the underinsured motorist rules that decide serious cases, and the one-year and three-year deadlines. Free review. (313) 406-7606.
 h1: Troy Car Accident Lawyer
@@ -76,7 +76,7 @@ We move promptly to request the camera footage, signal data, and vehicle data.
 
 1. **Call 911 and get the police report.** Michigan requires a report for any crash with injury or $1,000 in damage (MCL 257.622). City streets are worked by the Troy Police Department; freeway crashes may be worked by the Michigan State Police.
 2. **Photograph the vehicles, plates, the other driver’s license and insurance card, the signals, and the lane markings.** Note every business, tower, and parking structure with a camera facing the scene; footage is kept for days, not weeks.
-3. **Get medical care the same day.** Corewell Health Troy Hospital on Dequindre treats many of the city’s injured; Corewell Health William Beaumont University Hospital in Royal Oak, a Level I trauma center, treats others.
+3. **Get medical care the same day.** Corewell Health Beaumont Troy Hospital on Dequindre treats many of the city’s injured; Corewell Health William Beaumont University Hospital in Royal Oak, a Level I trauma center, treats others.
 4. **Report to your own insurer and file the Application for No-Fault Benefits** within the first week.
 5. **Read your declarations page** for PIP level, UM/UIM, umbrella, and collision coverage.
 6. **Do not give a recorded statement** to the other driver’s insurer, sign a release, or accept a policy-limits offer before your UIM insurer consents.
@@ -111,7 +111,7 @@ Claims up to $25,000, including mini tort claims, are filed in the 52nd District
 
 ## Frequently asked questions
 
-**Which Troy intersection has the most crashes?** None of Troy’s intersections was in Oakland County’s 2024 top ten. Troy’s crashes are spread along I-75 and its interchanges, Big Beaver, Rochester Road, and the other arterials. **[CONFIRM: data: Troy’s highest-crash locations from the MTCF query tool]**
+**Which Troy intersection has the most crashes?** None of Troy’s intersections was in Oakland County’s top ten in the State Police data for 2024 or 2025. Troy’s crashes are spread along I-75 and its interchanges, Big Beaver, Rochester Road, and the other arterials.
 
 **How many car accidents happen in Troy each year?** Troy recorded 2,480 crashes, 686 injuries, and 7 deaths in 2024. Oakland County as a whole recorded 35,951 crashes, 9,139 injuries, and 68 deaths in 2024.
 
