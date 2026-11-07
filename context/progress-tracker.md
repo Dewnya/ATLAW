@@ -912,7 +912,9 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - Attorney-check markers on the Southfield car and motorcycle pages (257.601b; contractor liability and MDOT exposure) were resolved from the statute and left as general statements; flag to the attorney at the next review if they want them reworded
   - Same corrections applied to published pages they also appeared on: Southfield hub (2025 data label; four nursing homes), five Troy pages (hospital name), the Dearborn, Macomb County and Oakland County truck pages (2023 truck count)
   - Follow-ups: (1) published SSD pages (appeals process, Livonia, Sterling Heights, Ann Arbor, SSDI, SSI, benefits, winning your claim) still carry the Chronicle Legal figures and "12 months ending July 2026" label; harmonize with SSA's FY2026 figures or label them as Chronicle Legal's rolling computation; (2) Oakland County hub says "about 1.27 million" (the 2020 count; the 2024 estimate is 1.30 million); (3) Henry Ford Madison Heights is converting to a psychiatric hospital and Henry Ford River District closed Sept 1, 2026; no page names them, but hub copy mentioning Henry Ford's former Ascension hospitals should not list them; (4) SSD Southfield publishes once the firm answers F-117
-  - Not pushed; Sam releases `mo-dev` to `Yahia-Dev`
+  - Released the same day: see the next entry
+
+- [x] Released `mo-dev` to `Yahia-Dev` (Nov 7, 2026) — fast-forward push `e57c3e5..714531b` over SSH; the 71 newly published pages and the published-page corrections go live. Production should now serve 248 prerendered pages
 
 ### Open Questions
 
