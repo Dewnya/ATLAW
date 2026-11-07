@@ -1,7 +1,7 @@
 ---
 slug: uninsured-motorist-claims
 section: personal-injury
-status: draft
+status: approved
 seoTitle: Michigan Uninsured & Underinsured Motorist Lawyer – UM/UIM Claims
 seoDescription: Hit by an uninsured or underinsured driver in Michigan? Your own UM/UIM coverage may pay, but the policy’s deadlines and conditions can void it. ATLAW explains how. Free review.
 h1: Michigan Uninsured & Underinsured Motorist Claim Lawyer
@@ -161,7 +161,7 @@ The recovery is the same category of damages you would have recovered from an in
 
 **Do I have three years to make a UM claim?** Not necessarily. The three-year statute applies to the lawsuit against the driver. The UM/UIM claim is governed by the policy, and Michigan courts have upheld one-year contractual periods (Rory v Continental, 2005). Read the policy.
 
-**Will my rates go up for using my own UM coverage?** Michigan law prohibits insurers from raising rates or refusing renewal based on a claim for which you were not at fault (MCL 500.2118(2)(a)). **[VERIFY: citation; the attorney did not verify this; check it against the source before publication]**
+**Will my rates go up for using my own UM coverage?** Michigan law lets an insurer surcharge your premium only for accidents in which you were substantially at fault, meaning more than 50 percent the cause, and for moving violations (MCL 500.2111(3), 500.2104(4)), and the grounds for refusing to insure or renew an eligible driver key off eligibility points that accrue only for substantially at-fault accidents (MCL 500.2118(2), 500.2103).
 
 **Can I sue the uninsured driver?** Yes. An uninsured driver has no no-fault tort immunity (MCL 500.3135(3)) and can be sued for all damages. Collection is the practical problem; a license suspension for an unpaid judgment (MCL 257.512) is one tool.
 

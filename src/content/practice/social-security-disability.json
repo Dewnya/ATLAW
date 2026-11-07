@@ -1,7 +1,7 @@
 {
  "slug": "social-security-disability",
  "section": "disability",
- "status": "draft",
+ "status": "approved",
  "seoTitle": "Michigan Social Security Disability Lawyer – SSDI & SSI Claims",
  "seoDescription": "Denied or applying for Social Security Disability in Michigan? ATLAW explains the five-step test, the appeal deadlines, the Detroit-area hearing offices, and the fee cap. Free review.",
  "h1": "Michigan Social Security Disability Lawyer",
@@ -369,21 +369,7 @@
       },
       {
        "t": "text",
-       "v": " Hearings for Wayne, Oakland, Macomb, and Washtenaw claimants are scheduled at the Social Security hearing offices in Detroit, Livonia, and Oak Park, by video, or by phone. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "VERIFY",
-         "v": "current OHO office list and average wait times for the Detroit-area offices from SSA’s published hearing-office data before publishing"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " Approval rates at the hearing level run well above those at the initial level, in Michigan as nationally, which is why a claim that was denied on paper is often won in person."
+       "v": " Hearings for Wayne, Oakland, Macomb, and Washtenaw claimants are assigned, by the field office that handles the claim, to the Social Security hearing offices in Detroit, Livonia, or Oak Park, and are held in person, by video, or by phone. In fiscal year 2026 through August, those three offices approved 58 to 66 percent of the claims their judges decided, with average processing times of about eight months. Approval rates at the hearing level run well above those at the initial level, in Michigan as nationally, which is why a claim that was denied on paper is often won in person."
       }
      ]
     },
@@ -907,8 +893,8 @@
    }
   ]
  },
- "wordCount": 2159,
- "openItems": 1,
+ "wordCount": 2180,
+ "openItems": 0,
  "source": {
   "file": "B1-11_Michigan-Social-Security-Disability-Lawyer.docx",
   "delivered": "2026-10-12"

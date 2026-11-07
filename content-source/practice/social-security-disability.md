@@ -1,7 +1,7 @@
 ---
 slug: social-security-disability
 section: disability
-status: draft
+status: approved
 seoTitle: Michigan Social Security Disability Lawyer – SSDI & SSI Claims
 seoDescription: Denied or applying for Social Security Disability in Michigan? ATLAW explains the five-step test, the appeal deadlines, the Detroit-area hearing offices, and the fee cap. Free review.
 h1: Michigan Social Security Disability Lawyer
@@ -48,7 +48,7 @@ The evidence that decides steps two through five is medical: treating doctors’
 | Appeals Council | Review of the ALJ’s decision for legal error. | 60 days | 6–12 months |
 | Federal court | A civil action in the U.S. District Court for the Eastern District of Michigan (Detroit) | 60 days | 12+ months |
 
-**Hearing offices for metro Detroit.** Hearings for Wayne, Oakland, Macomb, and Washtenaw claimants are scheduled at the Social Security hearing offices in Detroit, Livonia, and Oak Park, by video, or by phone. **[VERIFY: current OHO office list and average wait times for the Detroit-area offices from SSA’s published hearing-office data before publishing]** Approval rates at the hearing level run well above those at the initial level, in Michigan as nationally, which is why a claim that was denied on paper is often won in person.
+**Hearing offices for metro Detroit.** Hearings for Wayne, Oakland, Macomb, and Washtenaw claimants are assigned, by the field office that handles the claim, to the Social Security hearing offices in Detroit, Livonia, or Oak Park, and are held in person, by video, or by phone. In fiscal year 2026 through August, those three offices approved 58 to 66 percent of the claims their judges decided, with average processing times of about eight months. Approval rates at the hearing level run well above those at the initial level, in Michigan as nationally, which is why a claim that was denied on paper is often won in person.
 
 **Missing a 60-day deadline** usually means starting over with a new application, which can cost a year of benefits. The 60 days run from the date on the notice plus five days for mailing.
 

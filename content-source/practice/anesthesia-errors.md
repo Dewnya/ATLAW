@@ -1,7 +1,7 @@
 ---
 slug: anesthesia-errors
 section: personal-injury
-status: draft
+status: approved
 seoTitle: Michigan Anesthesia Error Lawyer – Anesthesia Malpractice Claims
 seoDescription: Brain injury, awareness, or death under anesthesia in Michigan? A claim has a 2-year deadline, a 182-day notice, and a cap of $1,065,000 for the worst injuries. ATLAW explains who is liable. Free review.
 h1: Anesthesia Error Lawyer Michigan
@@ -41,7 +41,7 @@ Anesthesia is delivered by several professionals in several settings, and Michig
 - **The surgeon**, for positioning decisions, for the choice of setting, and for failing to respond to the anesthesia team’s warnings.
 - **The hospital or ambulatory surgery center**, for its own negligence (credentialing, staffing, equipment, policies, recovery-room monitoring) and, through vicarious liability, for the anesthesia provider’s negligence. Many metro Detroit hospitals contract anesthesia to outside staffing companies, and the hospital will argue the anesthesiologist was an independent contractor. Michigan’s ostensible agency doctrine answers that argument: a patient who looks to the hospital for care and is assigned a provider by the hospital may hold the hospital liable unless the patient was told and understood that the provider was not the hospital’s agent (Grewe v Mt Clemens General Hospital, 1978). The Michigan Supreme Court reaffirmed and strengthened the rule in Markel v William Beaumont Hospital (2022, and again by order of July 9, 2025), holding that a patient who enters a hospital through the emergency room and is assigned a treating physician need not establish an additional act of reliance to raise a factual question of ostensible agency, unless the patient was advised and understood that the physician was not the hospital's agent.
 - **The anesthesia staffing company** that employed the provider.
-- **A dentist or oral surgeon** administering sedation or general anesthesia in an office, under the Michigan Board of Dentistry's anesthesia and sedation rules, with the office’s monitoring and rescue equipment a frequent issue. **[VERIFY: current dental anesthesia permit rules; the attorney did not verify this; check it against the source before publication]**
+- **A dentist or oral surgeon** administering sedation or general anesthesia in an office, under the Michigan Board of Dentistry’s anesthesia and sedation rules (R 338.11601 to 338.11603), which set training, life-support certification, equipment, and monitoring requirements, with the office’s monitoring and rescue equipment a frequent issue.
 - **A drug or device manufacturer**, where a pump, vaporizer, monitor, or drug was defective; that claim follows product liability rules.
 
 Identifying every provider in the room, their employer, and the hospital’s contracts is the first task in an anesthesia case, because Michigan’s expert rule, below, is applied provider by provider.

@@ -1,7 +1,7 @@
 ---
 slug: bus-accidents
 section: personal-injury
-status: draft
+status: approved
 seoTitle: Michigan Bus Accident Lawyer – DDOT, SMART, School & Charter Bus Injuries
 seoDescription: Injured on or by a bus in Michigan? Claims against SMART need written notice in 60 days; DDOT, school, and charter buses each have their own rules. ATLAW explains them. Free review.
 h1: Michigan Bus Accident Lawyer
@@ -45,7 +45,7 @@ The practical order for most bus passengers:
 
 1. Your own no-fault policy.
 2. A policy of a spouse or relative you live with (MCL 500.3114(1)).
-3. The bus operator’s insurer, or the operator itself: DDOT and SMART are self-insured, so the PIP claim is made directly to the agency’s claims office. **[VERIFY: self-insured status of DDOT and SMART; the attorney did not verify this; check it against the source before publication]**
+3. The bus operator’s insurer, or the operator itself: DDOT and SMART are self-insured, so the PIP claim is made directly to the agency’s claims office: the City of Detroit Law Department’s claims section for DDOT, and SMART’s claims administrator for SMART.
 4. The Michigan Assigned Claims Plan, if none of the above applies (MCL 500.3172).
 
 Benefits are the same whoever pays: medical expenses, 85% of lost wages up to $7,455 a month (crashes on or after October 1, 2026), $20 a day for replacement services, attendant care, and the one-year written notice rule (MCL 500.3145). See our [no-fault insurance claim](/personal-injury/car-accident-insurance) page for the full benefit schedule and the insurer’s 30-day payment duty.

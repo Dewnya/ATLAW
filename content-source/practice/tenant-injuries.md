@@ -1,7 +1,7 @@
 ---
 slug: tenant-injuries
 section: personal-injury
-status: draft
+status: approved
 seoTitle: Michigan Tenant Injury Lawyer – Suing a Landlord for Unsafe Housing
 seoDescription: Injured in your apartment or a common area in Michigan? MCL 554.139 makes landlords keep rentals fit and in repair, and a July 2026 Supreme Court ruling strengthened it. ATLAW explains your rights. Free review.
 h1: Tenant Injury Lawyer Michigan
@@ -76,7 +76,7 @@ A landlord is not an insurer against crime, and Michigan imposes no general duty
 ## Lead paint, carbon monoxide, and fire
 
 - **Lead.** Most of metro Detroit’s rental housing predates the 1978 lead paint ban. Federal law requires landlords to disclose known lead hazards and provide the EPA pamphlet before a lease (42 USC 4852d), and Michigan’s lead abatement law and local ordinances regulate lead-safe conditions in rentals (MCL 333.5451 and following). A child’s elevated blood lead level traced to deteriorated paint, dust, or soil at a rental is a negligence and 554.139 claim against the landlord, with lifelong damages.
-- **Carbon monoxide and smoke detectors.** State and local codes require working smoke alarms in rental units and carbon monoxide detection where there are fuel-burning appliances or attached garages. A furnace, water heater, or space heater that leaks carbon monoxide, or a fire in a unit without working alarms, is a 554.139(1)(b) and code-violation case. **[VERIFY: specific code citations; the attorney did not verify this; check it against the source before publication]**
+- **Carbon monoxide and smoke detectors.** State law requires a smoke alarm in every unit of a multiple dwelling and in pre-1974 homes (MCL 125.482a, 125.1504c), and carbon monoxide alarms near bedrooms, attached garages, and fuel-burning appliances when a home is built, renovated under permit, or gains a bedroom (MCL 125.1504f); local codes often go further. A furnace, water heater, or space heater that leaks carbon monoxide, or a fire in a unit without working alarms, is a 554.139(1)(b) and code-violation case.
 - **Bedbugs, mold, and sewage.** Habitability conditions that cause illness are claims under the fitness and repair covenants and the Housing Law, proved with medical records, inspection reports, and the repair-request history.
 
 ## Guests and visitors of tenants
@@ -89,7 +89,7 @@ If your landlord is a housing commission (the Detroit Housing Commission, for ex
 
 ## Your landlord cannot retaliate for your complaint
 
-Tenants hesitate to report hazards or pursue claims because they fear eviction. Michigan law prohibits a landlord from evicting a tenant in retaliation for complaining to a government agency about conditions, for exercising rights under the lease or the law, or for membership in a tenant organization, and an eviction within 90 days of such an act is presumed retaliatory (MCL 600.5720). **[VERIFY: current text of 600.5720; the attorney did not verify this; check it against the source before publication]** Reporting a dangerous condition to the city and to the landlord in writing is protected, and it is also the notice the injury case will need.
+Tenants hesitate to report hazards or pursue claims because they fear eviction. Michigan law prohibits a landlord from evicting a tenant in retaliation for complaining to a government agency about conditions, for exercising rights under the lease or the law, or for membership in a tenant organization; where the tenant complained through a court or government agency within the 90 days before the eviction case was filed, the eviction is presumed retaliatory unless the landlord proves otherwise (MCL 600.5720). Reporting a dangerous condition to the city and to the landlord in writing is protected, and it is also the notice the injury case will need.
 
 ## Your own fault
 

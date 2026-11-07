@@ -1,7 +1,7 @@
 ---
 slug: cranbrook-sexual-abuse-claims
 section: personal-injury
-status: draft
+status: approved
 seoTitle: Cranbrook Sexual Abuse Claims – A Michigan Lawyer for Survivors
 seoDescription: Cranbrook Schools told 13,000 alumni in 2022 that a graduate reported abuse by a former faculty member. Michigan law sets deadlines for survivors’ claims, and a bill to extend them is pending. What survivors should know.
 h1: Cranbrook Sexual Abuse Claims: What Survivors Should Know
@@ -120,7 +120,7 @@ Michigan law allows a survivor to recover for the psychological injury and its c
 
 ## Frequently asked questions about Cranbrook sexual abuse claims
 
-**Has a lawsuit been filed against Cranbrook?** Not that we have found in the public record as of this writing. The school disclosed a graduate’s report in April 2022, retained an investigator, and asked alumni to come forward. **[VERIFY: redo the public-record check for a filed lawsuit right before publishing and add the date of that check to this answer]**
+**Has a lawsuit been filed against Cranbrook?** Not that we have found in the public record as of November 2026. The school disclosed a graduate’s report in April 2022, retained an investigator, and asked alumni to come forward; the investigator’s April 2023 report found misconduct by nine former employees.
 
 **The abuse happened in the 1960s. Can I still sue?** Under current Michigan law, usually not, unless a doctrine such as fraudulent concealment applies to your facts. The Senate-passed bills would open a one-year revival window if enacted. A lawyer can tell you where your facts fall under both.
 

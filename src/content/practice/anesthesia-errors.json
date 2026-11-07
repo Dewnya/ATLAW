@@ -1,7 +1,7 @@
 {
  "slug": "anesthesia-errors",
  "section": "personal-injury",
- "status": "draft",
+ "status": "approved",
  "seoTitle": "Michigan Anesthesia Error Lawyer – Anesthesia Malpractice Claims",
  "seoDescription": "Brain injury, awareness, or death under anesthesia in Michigan? A claim has a 2-year deadline, a 182-day notice, and a cap of $1,065,000 for the worst injuries. ATLAW explains who is liable. Free review.",
  "h1": "Anesthesia Error Lawyer Michigan",
@@ -284,17 +284,7 @@
        },
        {
         "t": "text",
-        "v": " administering sedation or general anesthesia in an office, under the Michigan Board of Dentistry's anesthesia and sedation rules, with the office’s monitoring and rescue equipment a frequent issue. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "VERIFY",
-          "v": "current dental anesthesia permit rules; the attorney did not verify this; check it against the source before publication"
-         }
-        ]
+        "v": " administering sedation or general anesthesia in an office, under the Michigan Board of Dentistry’s anesthesia and sedation rules (R 338.11601 to 338.11603), which set training, life-support certification, equipment, and monitoring requirements, with the office’s monitoring and rescue equipment a frequent issue."
        }
       ],
       [
@@ -1296,8 +1286,8 @@
    }
   ]
  },
- "wordCount": 2638,
- "openItems": 1,
+ "wordCount": 2632,
+ "openItems": 0,
  "source": {
   "file": "B2-03_Michigan-Anesthesia-Error-Lawyer.docx",
   "delivered": "2026-10-16"

@@ -1,7 +1,7 @@
 ---
 slug: hospital-mistakes
 section: personal-injury
-status: draft
+status: approved
 seoTitle: Michigan Hospital Negligence Lawyer – Suing a Hospital for Malpractice
 seoDescription: Harmed by a hospital mistake in Michigan? When the hospital itself is liable, when it answers for its doctors, the 2-year deadline, and the special rules for U-M, Hurley, and VA hospitals. Free review.
 h1: Hospital Negligence Lawyer Michigan
@@ -103,7 +103,7 @@ Michigan’s governmental immunity act does not shield a public hospital from li
 
 ## The hospitals of metro Detroit
 
-The firm’s clients are treated in the systems that dominate southeast Michigan: Corewell Health (formerly Beaumont, with hospitals in Royal Oak, Troy, Dearborn, Farmington Hills, Taylor, Trenton, Wayne, and Grosse Pointe), Henry Ford Health (Detroit, West Bloomfield, Wyandotte, Macomb, Jackson, and the former Ascension southeast Michigan hospitals brought into its 2024 joint venture, Detroit Medical Center (Detroit Receiving, Harper, Hutzel, Sinai-Grace, Children’s), Trinity Health (Ann Arbor, Livonia, Oakland, Pontiac), McLaren (Oakland, Macomb, Flint), University of Michigan Health, and the VA. Each has its own employment structure for physicians, its own admission forms, and, for U-M and the VA, its own court. **[VERIFY: accuracy and currency of the system list; the attorney did not verify this; check it against the source before publication]**
+The firm’s clients are treated in the systems that dominate southeast Michigan: Corewell Health (formerly Beaumont, with hospitals in Royal Oak, Troy, Dearborn, Farmington Hills, Taylor, Trenton, Wayne, and Grosse Pointe), Henry Ford Health (Detroit, West Bloomfield, Wyandotte, Macomb, Jackson, and the former Ascension southeast Michigan hospitals brought into its 2024 joint venture, Detroit Medical Center (Detroit Receiving, Harper, Hutzel, Sinai-Grace, Children’s), Trinity Health (Ann Arbor, Livonia, and Trinity Health Oakland in Pontiac), McLaren (Oakland in Pontiac, Macomb in Mount Clemens, Flint), University of Michigan Health, and the VA. Each has its own employment structure for physicians, its own admission forms, and, for U-M and the VA, its own court.
 
 ## What to do if you suspect hospital negligence
 

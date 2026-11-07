@@ -1,7 +1,7 @@
 ---
 slug: medical-malpractice
 section: personal-injury
-status: draft
+status: approved
 seoTitle: Michigan Medical Malpractice Lawyer – Deadlines, Caps & Proof
 seoDescription: Harmed by a doctor or hospital in Michigan? ATLAW explains the 2-year deadline, the Notice of Intent, the damages cap, and what it takes to prove a case. Free review.
 h1: Michigan Medical Malpractice Lawyer
@@ -50,7 +50,7 @@ The cases ATLAW sees most in metro Detroit:
 
 **Who can be the expert.** Michigan’s expert rule (MCL 600.2169) is among the strictest in the country. The expert must practice or teach in the same specialty as the defendant, and if the defendant is board-certified, the expert must be too. During the year before the malpractice, the expert must have spent most of their professional time practicing or teaching that specialty. A case against a board-certified emergency physician needs a board-certified emergency physician, not a general surgeon or an internist. Finding and paying that expert is part of what a malpractice lawyer does, and it is why a malpractice case costs tens of thousands of dollars to bring.
 
-**The damages cap.** Michigan caps non-economic damages (pain, suffering, loss of enjoyment of life) in malpractice cases (MCL 600.1483). The cap is adjusted each January by the Michigan Treasury. For 2026 it is $596,400 for most cases and $1,065,000 for the most severe injuries: permanent loss of a limb’s function from brain or spinal cord injury, permanent cognitive impairment that prevents independent living, or permanent loss of reproductive ability. **[VERIFY: 2026 figures against the Treasury memo before publishing; 2025 was $586,300 / $1,047,000, 2024 was $569,000 / $1,016,000]** There is no cap on economic damages: medical bills, lost earnings, and the cost of future care, which in a catastrophic case can run to many millions.
+**The damages cap.** Michigan caps non-economic damages (pain, suffering, loss of enjoyment of life) in malpractice cases (MCL 600.1483). The cap is adjusted each January by the Michigan Treasury. For 2026 it is $596,400 for most cases and $1,065,000 for the most severe injuries: permanent loss of a limb’s function from brain or spinal cord injury, permanent cognitive impairment that prevents independent living, or permanent loss of reproductive ability. There is no cap on economic damages: medical bills, lost earnings, and the cost of future care, which in a catastrophic case can run to many millions.
 
 **Comparative fault.** If the patient’s own conduct (ignoring instructions, missing follow-ups) contributed, the recovery is reduced by that share, and non-economic damages are barred above 50% (MCL 600.2959).
 

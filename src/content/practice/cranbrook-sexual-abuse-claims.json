@@ -1,7 +1,7 @@
 {
  "slug": "cranbrook-sexual-abuse-claims",
  "section": "personal-injury",
- "status": "draft",
+ "status": "approved",
  "seoTitle": "Cranbrook Sexual Abuse Claims – A Michigan Lawyer for Survivors",
  "seoDescription": "Cranbrook Schools told 13,000 alumni in 2022 that a graduate reported abuse by a former faculty member. Michigan law sets deadlines for survivors’ claims, and a bill to extend them is pending. What survivors should know.",
  "h1": "Cranbrook Sexual Abuse Claims: What Survivors Should Know",
@@ -1017,17 +1017,7 @@
    "answer": [
     {
      "t": "text",
-     "v": "Not that we have found in the public record as of this writing. The school disclosed a graduate’s report in April 2022, retained an investigator, and asked alumni to come forward. "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "VERIFY",
-       "v": "redo the public-record check for a filed lawsuit right before publishing and add the date of that check to this answer"
-      }
-     ]
+     "v": "Not that we have found in the public record as of November 2026. The school disclosed a graduate’s report in April 2022, retained an investigator, and asked alumni to come forward; the investigator’s April 2023 report found misconduct by nine former employees."
     }
    ]
   },
@@ -1155,8 +1145,8 @@
    }
   ]
  },
- "wordCount": 2634,
- "openItems": 1,
+ "wordCount": 2623,
+ "openItems": 0,
  "source": {
   "file": "B2-02_Cranbrook-Sexual-Abuse-Claims.docx",
   "delivered": "2026-10-16"

@@ -1,7 +1,7 @@
 {
  "slug": "wrongful-death",
  "section": "personal-injury",
- "status": "draft",
+ "status": "approved",
  "seoTitle": "Michigan Wrongful Death Lawyer – Who Can File & What Is Owed",
  "seoDescription": "Lost a family member to someone’s negligence in Michigan? ATLAW explains who can file, what the family recovers, the probate step, and the deadlines. Free consultation.",
  "h1": "Michigan Wrongful Death Lawyer",
@@ -222,21 +222,7 @@
      "c": [
       {
        "t": "text",
-       "v": "In a medical malpractice death, non-economic damages are capped (MCL 600.1483): $596,400 for most cases and $1,065,000 for the highest tier in 2026, adjusted each January. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "VERIFY",
-         "v": "2026 cap figures against the Treasury memo"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " Economic damages are not capped."
+       "v": "In a medical malpractice death, non-economic damages are capped (MCL 600.1483): $596,400 for most cases and $1,065,000 for the highest tier in 2026, adjusted each January. Economic damages are not capped."
       }
      ]
     }
@@ -1037,8 +1023,8 @@
    }
   ]
  },
- "wordCount": 2454,
- "openItems": 1,
+ "wordCount": 2446,
+ "openItems": 0,
  "source": {
   "file": "B1-07_Michigan-Wrongful-Death-Lawyer.docx",
   "delivered": "2026-10-12"

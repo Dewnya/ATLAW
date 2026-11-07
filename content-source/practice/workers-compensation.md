@@ -1,7 +1,7 @@
 ---
 slug: workers-compensation
 section: personal-injury
-status: draft
+status: approved
 seoTitle: Michigan Workers’ Compensation Lawyer – Denied or Underpaid Claims
 seoDescription: Hurt at work in Michigan? ATLAW explains what workers’ comp owes you (80% wage loss, medical, the 28-day doctor rule), the deadlines, and when you can also sue. Free review.
 h1: Michigan Workers’ Compensation Lawyer
@@ -26,7 +26,7 @@ ATLAW is a personal injury firm in Dearborn, in a region where the largest emplo
 
 **The 28-day doctor rule.** For the first 28 days of treatment, your employer chooses the doctor. After 28 days you may treat with a doctor of your choice, as long as you notify the employer (MCL 418.315(1)). Insurers rely on workers not knowing this. An employer’s clinic that releases you to full duty on day 20 is a reason to see your own doctor on day 29.
 
-**Wage loss.** If the injury keeps you from working, you receive 80% of your after-tax average weekly wage, calculated from your highest 39 of the 52 weeks before the injury and adjusted for your tax filing status and dependents (MCL 418.351, 418.371). The benefit is capped at 90% of the state average weekly wage, which the state resets each year: $1,164 a week for injuries in 2025. **[VERIFY: 2026 maximum weekly rate, published by the Workers’ Disability Compensation Agency each January]** Benefits begin after a seven-day waiting period and are paid back to day one if the disability lasts two weeks or more (MCL 418.311).
+**Wage loss.** If the injury keeps you from working, you receive 80% of your after-tax average weekly wage, calculated from your highest 39 of the 52 weeks before the injury and adjusted for your tax filing status and dependents (MCL 418.351, 418.371). The benefit is capped at 90% of the state average weekly wage, which the state resets each year: $1,164 a week for injuries in 2025 and $1,201 a week for injuries in 2026. Benefits begin after a seven-day waiting period and are paid back to day one if the disability lasts two weeks or more (MCL 418.311).
 
 **Partial wage loss.** If you return to work at lower pay because of the injury, you receive 80% of the after-tax difference between your old and new wages (MCL 418.301(9)(c)).
 

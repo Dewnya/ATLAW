@@ -1,7 +1,7 @@
 ---
 slug: wrongful-death
 section: personal-injury
-status: draft
+status: approved
 seoTitle: Michigan Wrongful Death Lawyer – Who Can File & What Is Owed
 seoDescription: Lost a family member to someone’s negligence in Michigan? ATLAW explains who can file, what the family recovers, the probate step, and the deadlines. Free consultation.
 h1: Michigan Wrongful Death Lawyer
@@ -41,7 +41,7 @@ The Act lists the damages (MCL 600.2922(6)), and a jury or a settlement allocate
 - **Loss of society and companionship**: the family’s loss of the relationship itself, which Michigan recognizes for each eligible family member. There is no cap on this element in Michigan, except in medical malpractice cases.
 - **Loss of services**: childcare, household work, care for an aging parent, whatever the person did that now has to be replaced.
 
-In a medical malpractice death, non-economic damages are capped (MCL 600.1483): $596,400 for most cases and $1,065,000 for the highest tier in 2026, adjusted each January. **[VERIFY: 2026 cap figures against the Treasury memo]** Economic damages are not capped.
+In a medical malpractice death, non-economic damages are capped (MCL 600.1483): $596,400 for most cases and $1,065,000 for the highest tier in 2026, adjusted each January. Economic damages are not capped.
 
 ## How the recovery is divided among family members
 

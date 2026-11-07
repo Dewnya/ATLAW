@@ -1,7 +1,7 @@
 {
  "slug": "tenant-injuries",
  "section": "personal-injury",
- "status": "draft",
+ "status": "approved",
  "seoTitle": "Michigan Tenant Injury Lawyer – Suing a Landlord for Unsafe Housing",
  "seoDescription": "Injured in your apartment or a common area in Michigan? MCL 554.139 makes landlords keep rentals fit and in repair, and a July 2026 Supreme Court ruling strengthened it. ATLAW explains your rights. Free review.",
  "h1": "Tenant Injury Lawyer Michigan",
@@ -572,17 +572,7 @@
        },
        {
         "t": "text",
-        "v": " State and local codes require working smoke alarms in rental units and carbon monoxide detection where there are fuel-burning appliances or attached garages. A furnace, water heater, or space heater that leaks carbon monoxide, or a fire in a unit without working alarms, is a 554.139(1)(b) and code-violation case. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "VERIFY",
-          "v": "specific code citations; the attorney did not verify this; check it against the source before publication"
-         }
-        ]
+        "v": " State law requires a smoke alarm in every unit of a multiple dwelling and in pre-1974 homes (MCL 125.482a, 125.1504c), and carbon monoxide alarms near bedrooms, attached garages, and fuel-burning appliances when a home is built, renovated under permit, or gains a bedroom (MCL 125.1504f); local codes often go further. A furnace, water heater, or space heater that leaks carbon monoxide, or a fire in a unit without working alarms, is a 554.139(1)(b) and code-violation case."
        }
       ],
       [
@@ -643,21 +633,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Tenants hesitate to report hazards or pursue claims because they fear eviction. Michigan law prohibits a landlord from evicting a tenant in retaliation for complaining to a government agency about conditions, for exercising rights under the lease or the law, or for membership in a tenant organization, and an eviction within 90 days of such an act is presumed retaliatory (MCL 600.5720). "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "VERIFY",
-         "v": "current text of 600.5720; the attorney did not verify this; check it against the source before publication"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " Reporting a dangerous condition to the city and to the landlord in writing is protected, and it is also the notice the injury case will need."
+       "v": "Tenants hesitate to report hazards or pursue claims because they fear eviction. Michigan law prohibits a landlord from evicting a tenant in retaliation for complaining to a government agency about conditions, for exercising rights under the lease or the law, or for membership in a tenant organization; where the tenant complained through a court or government agency within the 90 days before the eviction case was filed, the eviction is presumed retaliatory unless the landlord proves otherwise (MCL 600.5720). Reporting a dangerous condition to the city and to the landlord in writing is protected, and it is also the notice the injury case will need."
       }
      ]
     }
@@ -1344,8 +1320,8 @@
    }
   ]
  },
- "wordCount": 3124,
- "openItems": 2,
+ "wordCount": 3133,
+ "openItems": 0,
  "source": {
   "file": "B1-23_Michigan-Tenant-Injury-Lawyer.docx",
   "delivered": "2026-10-12"
