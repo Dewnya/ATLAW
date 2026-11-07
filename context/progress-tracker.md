@@ -921,6 +921,8 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - Published pages changed: SSD Livonia (seo description, tagline, table, body, FAQ, disclaimer; "5th of 7", not 6th), Sterling Heights, Ann Arbor. Draft pages changed: appeals process (full seven-office table, national row, three sentences; its "update to the current SSA release" VERIFY marker cleared), SSDI, benefits, winning your claim (Michigan "about 60 percent", was 59). The "12 months ending July 2026" label and the "via Chronicle Legal" attributions are gone; chroniclelegal.com's national 57.6% matched SSA's file but its Michigan office rates did not
   - Import 276 / 248 approved, typecheck clean, build 248 pages, no markers. Refresh these figures when SSA posts the FY2027 files (the October file is listed but not yet served)
 
+- [x] Released `mo-dev` to `Yahia-Dev` again (Nov 7, 2026) — fast-forward push `714531b..07b130a` over SSH; the SSA hearing-office figures and the earlier release log go live
+
 ### Open Questions
 
 - [ ] **PRE-LAUNCH — Text Us number.** Confirm with the firm whether (313) 406-7606 can receive SMS, or get a dedicated SMS number. Then set `SMS_NUMBER` in `src/data/contact.ts` (the Text buttons in the header and mobile bar appear automatically).
