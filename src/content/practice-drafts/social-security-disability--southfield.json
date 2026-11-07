@@ -3,7 +3,7 @@
  "section": "disability",
  "city": "southfield",
  "status": "draft",
- "seoTitle": "Southfield Social Security Disability Lawyer: Applications, Denials, the Oak Park Hearing Office, and 2027 Figures",
+ "seoTitle": "Southfield Social Security Disability Lawyer: Applications, Denials, the Hearing Office That Serves Southfield, and 2027 Figures",
  "seoDescription": "Applying for or denied Social Security Disability in Southfield? How the five-step test treats office and desk jobs, the 60-day appeal deadlines, the hearing office that serves Southfield, long-term disability and workers’ comp offsets, and the fee set by federal law. 2026 and 2027 figures. Free review. (313) 406-7606.",
  "h1": "Southfield Social Security Disability Lawyer",
  "tagline": "Social Security does not ask whether you are sick. It asks whether you can do any job that exists in significant numbers in the national economy. For a Southfield claimant whose career was at a desk, that is a harder question than it sounds, and the claim is built around it.",
@@ -308,29 +308,19 @@
        [
         {
          "t": "text",
-         "v": "Oak Park hearing office: approval rate at hearing"
+         "v": "Livonia hearing office (assigned to the field office that serves Southfield): approval rate at hearing"
         }
        ],
        [
         {
          "t": "text",
-         "v": "64.3 percent"
+         "v": "57.9 percent of decisions"
         }
        ],
        [
         {
          "t": "text",
-         "v": "SSA public use files, 12 months ending July 2026 "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "VERIFY",
-           "v": "64.3 percent against SSA’s current Hearing Office Workload Data before publishing"
-          }
-         ]
+         "v": "SSA Hearing Office Workload Data and ALJ disposition data, fiscal year 2026 through August 2026"
         }
        ]
       ],
@@ -338,13 +328,13 @@
        [
         {
          "t": "text",
-         "v": "Oak Park hearing office: wait for a hearing"
+         "v": "Livonia hearing office: wait for a hearing"
         }
        ],
        [
         {
          "t": "text",
-         "v": "About 8 months (244-day average processing time)"
+         "v": "About 8 months (247-day average processing time); Oak Park, the closest office to Southfield, 244 days and 66.2 percent"
         }
        ],
        [
@@ -370,17 +360,7 @@
        [
         {
          "t": "text",
-         "v": "42 USC 406(a) "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "VERIFY",
-           "v": "current cap"
-          }
-         ]
+         "v": "42 USC 406(a)"
         }
        ]
       ],
@@ -679,21 +659,7 @@
        [
         {
          "t": "text",
-         "v": "Online at ssa.gov, by phone, or at the Social Security field office that serves your ZIP code "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "VERIFY",
-           "v": "SSA office locator for 48033, 48034, 48075, 48076"
-          }
-         ]
-        },
-        {
-         "t": "text",
-         "v": "; Michigan DDS reviews the medical evidence"
+         "v": "Online at ssa.gov, by phone, or at the Social Security field office that serves your ZIP code (for Southfield addresses, the Redford office at 26840 West Seven Mile Road); Michigan DDS reviews the medical evidence"
         }
        ],
        [
@@ -777,7 +743,7 @@
        [
         {
          "t": "text",
-         "v": "About 8 months at Oak Park"
+         "v": "About 8 months at Livonia"
         }
        ]
       ],
@@ -840,7 +806,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Hearings for Southfield claimants are often scheduled by the Oak Park hearing office at 25900 Greenfield Road, though the assignment follows the field office handling the claim and can be Detroit or Livonia; hearings are in person, by video, or by phone, and you may ask to appear in person. Missing a 60-day deadline usually means starting over with a new application and can cost back pay. Appeal; do not reapply."
+       "v": "Southfield has no Social Security office of its own. SSA’s office locator assigns Southfield ZIP codes to the Redford field office at 26840 West Seven Mile Road (the former Outer Drive office), and hearings from that office are scheduled by the Livonia hearing office at 19575 Victor Parkway; the Oak Park hearing office at 25900 Greenfield Road, the closest to Southfield, hears claims from the Clawson, Pontiac, and other field offices, so the assignment follows the field office handling your claim. Hearings are in person, by video, or by phone, and you may ask to appear in person. Missing a 60-day deadline usually means starting over with a new application and can cost back pay. Appeal; do not reapply."
       }
      ]
     },
@@ -858,17 +824,7 @@
       },
       {
        "t": "text",
-       "v": " You do not have to visit an office to apply or appeal: both can be done online at ssa.gov or by calling Social Security’s national number. If you want in-person help, SSA’s office locator gives the field office assigned to your ZIP code. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "VERIFY",
-         "v": "the field office serving Southfield and its address before publication"
-        }
-       ]
+       "v": " You do not have to visit an office to apply or appeal: both can be done online at ssa.gov or by calling Social Security’s national number. If you want in-person help, SSA’s office locator gives the field office assigned to your ZIP code; for Southfield ZIP codes it lists the Redford office at 26840 West Seven Mile Road, the former Outer Drive office."
       }
      ]
     }
@@ -1178,7 +1134,7 @@
    "answer": [
     {
      "t": "text",
-     "v": "Often through the Oak Park hearing office, though it can be Detroit or Livonia; in person, by video, or by phone. You can ask to appear in person."
+     "v": "Usually through the Livonia hearing office, which is assigned the Redford field office that serves Southfield ZIP codes; Oak Park or Detroit if a different field office handles your claim. In person, by video, or by phone; you can ask to appear in person."
     }
    ]
   },
@@ -1243,8 +1199,8 @@
    }
   ]
  },
- "wordCount": 1991,
- "openItems": 6,
+ "wordCount": 2077,
+ "openItems": 2,
  "source": {
   "file": "B3-09_Southfield-Social-Security-Disability-Lawyer.docx",
   "delivered": "October 23, 2026 [CONFIRM: Batch 3 delivery date]"

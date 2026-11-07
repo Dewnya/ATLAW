@@ -3,7 +3,7 @@ slug: social-security-disability
 section: disability
 city: southfield
 status: draft
-seoTitle: Southfield Social Security Disability Lawyer: Applications, Denials, the Oak Park Hearing Office, and 2027 Figures
+seoTitle: Southfield Social Security Disability Lawyer: Applications, Denials, the Hearing Office That Serves Southfield, and 2027 Figures
 seoDescription: Applying for or denied Social Security Disability in Southfield? How the five-step test treats office and desk jobs, the 60-day appeal deadlines, the hearing office that serves Southfield, long-term disability and workers’ comp offsets, and the fee set by federal law. 2026 and 2027 figures. Free review. (313) 406-7606.
 h1: Southfield Social Security Disability Lawyer
 tagline: Social Security does not ask whether you are sick. It asks whether you can do any job that exists in significant numbers in the national economy. For a Southfield claimant whose career was at a desk, that is a harder question than it sounds, and the claim is built around it.
@@ -32,9 +32,9 @@ ATLAW has practiced in Michigan for 13 years from its office at 3 Parklane Boule
 
 | Measure | Figure | Source |
 | --- | --- | --- |
-| Oak Park hearing office: approval rate at hearing | 64.3 percent | SSA public use files, 12 months ending July 2026 **[VERIFY: 64.3 percent against SSA’s current Hearing Office Workload Data before publishing]** |
-| Oak Park hearing office: wait for a hearing | About 8 months (244-day average processing time) | Same |
-| Attorney fee | 25 percent of back benefits, capped ($9,200 for agreements approved on or after November 30, 2024) | 42 USC 406(a) **[VERIFY current cap]** |
+| Livonia hearing office (assigned to the field office that serves Southfield): approval rate at hearing | 57.9 percent of decisions | SSA Hearing Office Workload Data and ALJ disposition data, fiscal year 2026 through August 2026 |
+| Livonia hearing office: wait for a hearing | About 8 months (247-day average processing time); Oak Park, the closest office to Southfield, 244 days and 66.2 percent | Same |
+| Attorney fee | 25 percent of back benefits, capped ($9,200 for agreements approved on or after November 30, 2024) | 42 USC 406(a) |
 | Appeal deadline at every stage | 60 days from the notice, plus 5 days for mailing | 20 CFR 404.909, 404.933, 404.968 |
 | Southfield residents reporting a disability | About 16 percent of residents (15.3 percent of adults 18 to 64) | U.S. Census Bureau, ACS 2019–2023, Table S1810 |
 
@@ -62,15 +62,15 @@ The claim is the record. We obtain and organize it from every source: Henry Ford
 
 | Stage | What happens | Deadline | Typical wait |
 | --- | --- | --- | --- |
-| Initial application | Online at ssa.gov, by phone, or at the Social Security field office that serves your ZIP code **[VERIFY: SSA office locator for 48033, 48034, 48075, 48076]**; Michigan DDS reviews the medical evidence | — | Several months **[CONFIRM: data]** |
+| Initial application | Online at ssa.gov, by phone, or at the Social Security field office that serves your ZIP code (for Southfield addresses, the Redford office at 26840 West Seven Mile Road); Michigan DDS reviews the medical evidence | — | Several months **[CONFIRM: data]** |
 | Reconsideration | A different DDS examiner reviews the file; a large share are denied | 60 days | Several months **[CONFIRM: data]** |
-| ALJ hearing | Before an administrative law judge; you testify, a vocational expert testifies, your lawyer cross-examines | 60 days | About 8 months at Oak Park |
+| ALJ hearing | Before an administrative law judge; you testify, a vocational expert testifies, your lawyer cross-examines | 60 days | About 8 months at Livonia |
 | Appeals Council | Review for legal error | 60 days | Often 6–12 months |
 | Federal court | Civil action in the U.S. District Court for the Eastern District of Michigan, Detroit | 60 days | 12+ months |
 
-Hearings for Southfield claimants are often scheduled by the Oak Park hearing office at 25900 Greenfield Road, though the assignment follows the field office handling the claim and can be Detroit or Livonia; hearings are in person, by video, or by phone, and you may ask to appear in person. Missing a 60-day deadline usually means starting over with a new application and can cost back pay. Appeal; do not reapply.
+Southfield has no Social Security office of its own. SSA’s office locator assigns Southfield ZIP codes to the Redford field office at 26840 West Seven Mile Road (the former Outer Drive office), and hearings from that office are scheduled by the Livonia hearing office at 19575 Victor Parkway; the Oak Park hearing office at 25900 Greenfield Road, the closest to Southfield, hears claims from the Clawson, Pontiac, and other field offices, so the assignment follows the field office handling your claim. Hearings are in person, by video, or by phone, and you may ask to appear in person. Missing a 60-day deadline usually means starting over with a new application and can cost back pay. Appeal; do not reapply.
 
-**Looking for the Social Security office?** You do not have to visit an office to apply or appeal: both can be done online at ssa.gov or by calling Social Security’s national number. If you want in-person help, SSA’s office locator gives the field office assigned to your ZIP code. **[VERIFY the field office serving Southfield and its address before publication]**
+**Looking for the Social Security office?** You do not have to visit an office to apply or appeal: both can be done online at ssa.gov or by calling Social Security’s national number. If you want in-person help, SSA’s office locator gives the field office assigned to your ZIP code; for Southfield ZIP codes it lists the Redford office at 26840 West Seven Mile Road, the former Outer Drive office.
 
 ## Back pay and the fee
 
@@ -108,7 +108,7 @@ SSDI benefits begin five full months after the established onset date; SSI is no
 
 **How long do I have to appeal?** Sixty days from the date on the denial notice, plus five days for mailing, at every stage.
 
-**Where will my hearing be?** Often through the Oak Park hearing office, though it can be Detroit or Livonia; in person, by video, or by phone. You can ask to appear in person.
+**Where will my hearing be?** Usually through the Livonia hearing office, which is assigned the Redford field office that serves Southfield ZIP codes; Oak Park or Detroit if a different field office handles your claim. In person, by video, or by phone; you can ask to appear in person.
 
 **What changes in 2027?** From January 2027, the SGA limit rises to $1,770 a month, the trial work month to $1,270, and the SSI federal benefit to $1,029 for an individual, with a 3.6 percent increase in benefits.
 

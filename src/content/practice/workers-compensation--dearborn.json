@@ -2,7 +2,7 @@
  "slug": "workers-compensation",
  "section": "personal-injury",
  "city": "dearborn",
- "status": "draft",
+ "status": "approved",
  "seoTitle": "Dearborn Workers’ Comp Lawyer: Rouge and Plant Injuries, Benefits, Denials, and When You Can Also Sue",
  "seoDescription": "Hurt at work in Dearborn, at the Rouge, a plant, a hospital, or a Michigan Avenue business? Michigan workers’ comp owes you 80 percent of your after-tax wage and all medical care. ATLAW’s Dearborn office explains the benefits, the 90-day notice, the 28-day doctor rule, the hearing at Cadillac Place, and the third-party suit comp does not bar. Free review in English or Arabic. (313) 406-7606.",
  "h1": "Dearborn Workers’ Compensation Lawyer",
@@ -119,23 +119,13 @@
        [
         {
          "t": "text",
-         "v": "$1,201 "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "VERIFY",
-           "v": "against the WDCA rate table"
-          }
-         ]
+         "v": "$1,201"
         }
        ],
        [
         {
          "t": "text",
-         "v": "WDCA"
+         "v": "WDCA 2026 rate table"
         }
        ]
       ],
@@ -619,21 +609,7 @@
      "c": [
       {
        "t": "text",
-       "v": "When a Dearborn employer or insurer denies a claim or stops paying, the worker files an Application for Mediation or Hearing (Form WC-104A) with the Workers’ Disability Compensation Agency; disputed claims go to mediation and then to a magistrate at the agency’s Detroit hearing office in Cadillac Place, 3026 West Grand Boulevard "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "VERIFY",
-         "v": ""
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": ", with appeal to the Michigan Compensation Appellate Commission. A contested claim typically takes 12 to 18 months, which is why most disputed claims resolve by "
+       "v": "When a Dearborn employer or insurer denies a claim or stops paying, the worker files an Application for Mediation or Hearing (Form WC-104A) with the Workers’ Disability Compensation Agency; disputed claims go to mediation and then to a magistrate at the agency’s Detroit hearing site in Cadillac Place, 3026 West Grand Boulevard, Suite 3-700, which hears Wayne, Macomb, Monroe, and Washtenaw county injuries, with appeal to the Michigan Compensation Appellate Commission. A contested claim typically takes 12 to 18 months, which is why most disputed claims resolve by "
       },
       {
        "t": "strong",
@@ -1190,8 +1166,8 @@
    }
   ]
  },
- "wordCount": 2153,
- "openItems": 2,
+ "wordCount": 2159,
+ "openItems": 0,
  "source": {
   "file": "B2-79_Dearborn-Workers-Compensation-Lawyer.docx",
   "delivered": "2026-10-16"

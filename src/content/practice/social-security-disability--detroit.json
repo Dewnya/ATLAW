@@ -2,7 +2,7 @@
  "slug": "social-security-disability",
  "section": "disability",
  "city": "detroit",
- "status": "draft",
+ "status": "approved",
  "seoTitle": "Detroit Disability Lawyer: Social Security Disability Claims, Denials, and Hearings in Detroit",
  "seoDescription": "Applying for or denied Social Security Disability in Detroit? About two in three first applications are denied. ATLAW’s Dearborn disability lawyers explain the five-step test, the 60-day appeal deadlines, the Detroit and Livonia hearing offices, where the medical evidence comes from, and the fee set by federal law. Free review. (313) 406-7606.",
  "h1": "Detroit Social Security Disability Lawyer",
@@ -167,17 +167,7 @@
        [
         {
          "t": "text",
-         "v": "SSA Annual Statistical Report "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "VERIFY",
-           "v": "current year"
-          }
-         ]
+         "v": "SSA Annual Statistical Report on the SSDI Program, 2025 edition"
         }
        ]
       ],
@@ -191,13 +181,13 @@
        [
         {
          "t": "text",
-         "v": "About 3,340 decisions; 242-day average processing time; 60.5 percent approved (12 months ending July 2026)"
+         "v": "About 3,000 decisions; 241-day average processing time; 57.8 percent of decisions approved (fiscal year 2026 through August 2026)"
         }
        ],
        [
         {
          "t": "text",
-         "v": "SSA hearing office data"
+         "v": "SSA Hearing Office Workload Data and ALJ disposition data"
         }
        ]
       ],
@@ -205,29 +195,19 @@
        [
         {
          "t": "text",
-         "v": "Livonia hearing office: approval rate"
+         "v": "Livonia and Oak Park hearing offices: approval rate, average wait"
         }
        ],
        [
         {
          "t": "text",
-         "v": "About 57 percent "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "VERIFY",
-           "v": "against current SSA data"
-          }
-         ]
+         "v": "Livonia: 57.9 percent, 247 days; Oak Park: 66.2 percent, 244 days (same period)"
         }
        ],
        [
         {
          "t": "text",
-         "v": "SSA Hearing Office Workload Data"
+         "v": "Same"
         }
        ]
       ],
@@ -247,17 +227,7 @@
        [
         {
          "t": "text",
-         "v": "SSA "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "VERIFY",
-           "v": "2026 figure"
-          }
-         ]
+         "v": "SSA"
         }
        ]
       ],
@@ -277,17 +247,7 @@
        [
         {
          "t": "text",
-         "v": "SSA "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "VERIFY",
-           "v": ""
-          }
-         ]
+         "v": "SSA"
         }
        ]
       ],
@@ -731,21 +691,7 @@
       },
       {
        "t": "text",
-       "v": " Hearings for Detroit claimants are scheduled at the Detroit hearing office in the Patrick V. McNamara Federal Building on Michigan Avenue downtown or at the Livonia hearing office, in person, by video, or by phone; you may request an in-person hearing. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "VERIFY",
-         "v": "current OHO assignments and addresses"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " Approval rates at the hearing level run well above the initial level, which is why a claim denied on paper is often won in person. In the 12 months ending July 2026, the Detroit office approved 60.5 percent of decided claims and Livonia 57 percent."
+       "v": " Hearings for Detroit claimants are assigned by the field office that handles the claim: most of the city’s field offices send hearings to the Detroit hearing office in the Patrick V. McNamara Federal Building at 477 Michigan Avenue downtown, the Northwest office sends them to the Livonia hearing office at 19575 Victor Parkway, and the Seven Mile–Wyoming office sends them to the Oak Park hearing office at 25900 Greenfield Road. Hearings are held in person, by video, or by phone; you may request an in-person hearing. Approval rates at the hearing level run well above the initial level, which is why a claim denied on paper is often won in person. In fiscal year 2026 through August, the Detroit office approved 57.8 percent of the claims its judges decided, Livonia 57.9 percent, and Oak Park 66.2 percent."
       }
      ]
     },
@@ -1111,17 +1057,7 @@
    "answer": [
     {
      "t": "text",
-     "v": "At the Detroit hearing office in the McNamara Federal Building downtown or the Livonia hearing office, or by video or phone. You can request to appear in person. "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "VERIFY",
-       "v": ""
-      }
-     ]
+     "v": "At the Detroit hearing office in the McNamara Federal Building downtown, the Livonia hearing office, or the Oak Park hearing office, depending on which Social Security field office serves your address, or by video or phone. You can request to appear in person."
     }
    ]
   },
@@ -1222,8 +1158,8 @@
    }
   ]
  },
- "wordCount": 2284,
- "openItems": 6,
+ "wordCount": 2354,
+ "openItems": 0,
  "source": {
   "file": "B2-70_Detroit-Social-Security-Disability-Lawyer.docx",
   "delivered": "2026-10-16"

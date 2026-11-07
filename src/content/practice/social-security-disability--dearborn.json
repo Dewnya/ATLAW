@@ -2,7 +2,7 @@
  "slug": "social-security-disability",
  "section": "disability",
  "city": "dearborn",
- "status": "draft",
+ "status": "approved",
  "seoTitle": "Dearborn Social Security Disability Lawyer: Applications, Denials, Hearings, and Interpreters",
  "seoDescription": "Applying for or denied Social Security Disability in Dearborn? About two in three first applications are denied. ATLAW’s Dearborn office explains the five-step test, the 60-day appeal deadlines, the hearing offices that serve Dearborn, your right to a free interpreter, and the fee set by federal law. Free review in English or Arabic. (313) 406-7606.",
  "h1": "Dearborn Social Security Disability Lawyer",
@@ -133,17 +133,7 @@
        [
         {
          "t": "text",
-         "v": "SSA Annual Statistical Report "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "VERIFY",
-           "v": "current year"
-          }
-         ]
+         "v": "SSA Annual Statistical Report on the SSDI Program, 2025 edition"
         }
        ]
       ],
@@ -171,19 +161,19 @@
        [
         {
          "t": "text",
-         "v": "Detroit and Livonia hearing offices: average wait and approval rate"
+         "v": "Detroit hearing office (assigned to the Dearborn field office): approval rate and average wait"
         }
        ],
        [
         {
          "t": "text",
-         "v": "Detroit: 60.5 percent approved, 242-day average processing time; Livonia: 57 percent, 247 days (12 months ending July 2026)"
+         "v": "57.8 percent of decisions approved; 241-day average processing time (fiscal year 2026 through August 2026)"
         }
        ],
        [
         {
          "t": "text",
-         "v": "SSA hearing office data"
+         "v": "SSA Hearing Office Workload Data and ALJ disposition data"
         }
        ]
       ],
@@ -203,17 +193,7 @@
        [
         {
          "t": "text",
-         "v": "SSA "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "VERIFY",
-           "v": ""
-          }
-         ]
+         "v": "SSA"
         }
        ]
       ],
@@ -233,17 +213,7 @@
        [
         {
          "t": "text",
-         "v": "SSA "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "VERIFY",
-           "v": ""
-          }
-         ]
+         "v": "SSA"
         }
        ]
       ],
@@ -549,21 +519,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Social Security provides a free interpreter at every stage, at the field office, by phone, at the consultative examination, and at the hearing; you do not need to bring a family member to interpret, and in most cases should not. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "VERIFY",
-         "v": ""
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " Tell Social Security in writing which language you need. At the hearing, the judge, the vocational expert, and your lawyer speak through the interpreter, and what you say about your limitations is the evidence. We prepare you for that hearing in English, Arabic, French, Mandarin, Urdu, or Spanish."
+       "v": "Social Security provides a free interpreter at every stage, at the field office, by phone, at the consultative examination, and at the hearing; you do not need to bring a family member to interpret, and in most cases should not. Tell Social Security in writing which language you need. At the hearing, the judge, the vocational expert, and your lawyer speak through the interpreter, and what you say about your limitations is the evidence. We prepare you for that hearing in English, Arabic, French, Mandarin, Urdu, or Spanish."
       }
      ]
     }
@@ -627,21 +583,7 @@
        [
         {
          "t": "text",
-         "v": "Online, by phone, or at the Dearborn Social Security field office "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "VERIFY",
-           "v": "address"
-          }
-         ]
-        },
-        {
-         "t": "text",
-         "v": "; Michigan DDS reviews the medical evidence"
+         "v": "Online, by phone, or at the Dearborn Social Security field office at 19855 Outer Drive, Suite 100 (Garrison Place East); Michigan DDS reviews the medical evidence"
         }
        ],
        [
@@ -768,21 +710,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Hearings for Dearborn claimants are scheduled at the Detroit or Livonia hearing office, in person, by video, or by phone; you may request an in-person hearing. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "VERIFY",
-         "v": "current OHO assignments"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " Missing a 60-day deadline usually means starting over with a new application. Appeal; do not reapply."
+       "v": "Hearings for claims handled by the Dearborn field office are scheduled by the Detroit hearing office in the Patrick V. McNamara Federal Building at 477 Michigan Avenue, in person, by video, or by phone; you may request an in-person hearing. Missing a 60-day deadline usually means starting over with a new application. Appeal; do not reapply."
       }
      ]
     }
@@ -1116,17 +1044,7 @@
    "answer": [
     {
      "t": "text",
-     "v": "At the Detroit or Livonia hearing office, or by video or phone. You can request to appear in person. "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "VERIFY",
-       "v": ""
-      }
-     ]
+     "v": "For claims handled by the Dearborn field office, at the Detroit hearing office in the McNamara Federal Building downtown, or by video or phone. You can request to appear in person."
     }
    ]
   },
@@ -1191,8 +1109,8 @@
    }
   ]
  },
- "wordCount": 1949,
- "openItems": 7,
+ "wordCount": 1979,
+ "openItems": 0,
  "source": {
   "file": "B2-82_Dearborn-Social-Security-Disability-Lawyer.docx",
   "delivered": "2026-10-16"

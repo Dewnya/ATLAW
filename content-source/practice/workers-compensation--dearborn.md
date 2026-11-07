@@ -2,7 +2,7 @@
 slug: workers-compensation
 section: personal-injury
 city: dearborn
-status: draft
+status: approved
 seoTitle: Dearborn Workers’ Comp Lawyer: Rouge and Plant Injuries, Benefits, Denials, and When You Can Also Sue
 seoDescription: Hurt at work in Dearborn, at the Rouge, a plant, a hospital, or a Michigan Avenue business? Michigan workers’ comp owes you 80 percent of your after-tax wage and all medical care. ATLAW’s Dearborn office explains the benefits, the 90-day notice, the 28-day doctor rule, the hearing at Cadillac Place, and the third-party suit comp does not bar. Free review in English or Arabic. (313) 406-7606.
 h1: Dearborn Workers’ Compensation Lawyer
@@ -24,7 +24,7 @@ ATLAW is a personal injury firm at 3 Parklane Boulevard in Dearborn. In 13 years
 | Measure | Figure | Source |
 | --- | --- | --- |
 | Wage-loss benefit | 80 percent of after-tax average weekly wage | MCL 418.351, 418.371 |
-| Maximum weekly benefit, 2026 injuries | $1,201 **[VERIFY against the WDCA rate table]** | WDCA |
+| Maximum weekly benefit, 2026 injuries | $1,201 | WDCA 2026 rate table |
 | Waiting period | 7 days; paid from day one if disability lasts 14 days | MCL 418.311 |
 | Employer chooses the doctor | First 28 days | MCL 418.315(1) |
 | Notice to the employer | 90 days | MCL 418.381(1) |
@@ -67,7 +67,7 @@ ATLAW is a personal injury firm at 3 Parklane Boulevard in Dearborn. In 13 years
 
 ## The hearing, and the lawsuit comp does not bar
 
-When a Dearborn employer or insurer denies a claim or stops paying, the worker files an Application for Mediation or Hearing (Form WC-104A) with the Workers’ Disability Compensation Agency; disputed claims go to mediation and then to a magistrate at the agency’s Detroit hearing office in Cadillac Place, 3026 West Grand Boulevard **[VERIFY]**, with appeal to the Michigan Compensation Appellate Commission. A contested claim typically takes 12 to 18 months, which is why most disputed claims resolve by **redemption**, a lump-sum settlement approved by the magistrate that closes the claim, including future medical care; do not sign one without advice.
+When a Dearborn employer or insurer denies a claim or stops paying, the worker files an Application for Mediation or Hearing (Form WC-104A) with the Workers’ Disability Compensation Agency; disputed claims go to mediation and then to a magistrate at the agency’s Detroit hearing site in Cadillac Place, 3026 West Grand Boulevard, Suite 3-700, which hears Wayne, Macomb, Monroe, and Washtenaw county injuries, with appeal to the Michigan Compensation Appellate Commission. A contested claim typically takes 12 to 18 months, which is why most disputed claims resolve by **redemption**, a lump-sum settlement approved by the magistrate that closes the claim, including future medical care; do not sign one without advice.
 
 Workers’ compensation is your exclusive remedy against an insured employer (MCL 418.131), but you can sue anyone else whose negligence caused the injury (418.827): the other driver in a crash on the job (with workers’ comp primary and no-fault paying the difference under MCL 500.3109(1); see our [Dearborn car accident page](/personal-injury/auto-accidents/dearborn) and [Dearborn truck accident page](/personal-injury/truck-accidents/dearborn)), the general contractor or another subcontractor at the Rouge or a construction site, the manufacturer of a defective press or lift ([product liability](/personal-injury/product-liability)), a property owner whose hazard caused a fall ([Dearborn slip and fall](/personal-injury/slip-and-fall/dearborn)), or a dog owner for a delivery driver ([Dearborn dog bite](/personal-injury/dog-bites/dearborn)). The comp insurer has a lien on that recovery (418.827(5)), reduced by its share of fees and costs; negotiating it is part of the work. The third-party suit is filed in the Third Judicial Circuit Court within three years (MCL 600.5805(2)). A permanent injury may also qualify for Social Security Disability, coordinated with comp under the federal offset; see our [Dearborn Social Security Disability page](/disability/social-security-disability/dearborn).
 

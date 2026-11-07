@@ -2,7 +2,7 @@
 slug: social-security-disability
 section: disability
 city: dearborn
-status: draft
+status: approved
 seoTitle: Dearborn Social Security Disability Lawyer: Applications, Denials, Hearings, and Interpreters
 seoDescription: Applying for or denied Social Security Disability in Dearborn? About two in three first applications are denied. ATLAW’s Dearborn office explains the five-step test, the 60-day appeal deadlines, the hearing offices that serve Dearborn, your right to a free interpreter, and the fee set by federal law. Free review in English or Arabic. (313) 406-7606.
 h1: Dearborn Social Security Disability Lawyer
@@ -23,11 +23,11 @@ ATLAW is a personal injury and disability firm at 3 Parklane Boulevard in Dearbo
 
 | Measure | Figure | Source |
 | --- | --- | --- |
-| First applications denied, nationally | About two in three | SSA Annual Statistical Report **[VERIFY current year]** |
+| First applications denied, nationally | About two in three | SSA Annual Statistical Report on the SSDI Program, 2025 edition |
 | Dearborn residents reporting a disability | 7.6 percent of residents under 65 | U.S. Census Bureau, ACS 2020–2024 |
-| Detroit and Livonia hearing offices: average wait and approval rate | Detroit: 60.5 percent approved, 242-day average processing time; Livonia: 57 percent, 247 days (12 months ending July 2026) | SSA hearing office data |
-| Substantial gainful activity threshold, 2026 | $1,690 a month ($2,830 if blind) | SSA **[VERIFY]** |
-| SSI federal benefit rate, 2026 | $994 individual / $1,491 couple | SSA **[VERIFY]** |
+| Detroit hearing office (assigned to the Dearborn field office): approval rate and average wait | 57.8 percent of decisions approved; 241-day average processing time (fiscal year 2026 through August 2026) | SSA Hearing Office Workload Data and ALJ disposition data |
+| Substantial gainful activity threshold, 2026 | $1,690 a month ($2,830 if blind) | SSA |
+| SSI federal benefit rate, 2026 | $994 individual / $1,491 couple | SSA |
 | Attorney fee | 25 percent of back benefits, capped ($9,200 for agreements approved on or after November 30, 2024) | 42 USC 406(a) |
 | Appeal deadline at every stage | 60 days from the notice, plus 5 days for mailing | 20 CFR 404.909, 404.933, 404.968 |
 | Interpreter at every stage | Free, provided by SSA | SSA, POMS GN 00203.011 |
@@ -54,7 +54,7 @@ Social Security uses a five-step sequential evaluation (20 CFR 404.1520), decidi
 
 ## Your right to an interpreter
 
-Social Security provides a free interpreter at every stage, at the field office, by phone, at the consultative examination, and at the hearing; you do not need to bring a family member to interpret, and in most cases should not. **[VERIFY]** Tell Social Security in writing which language you need. At the hearing, the judge, the vocational expert, and your lawyer speak through the interpreter, and what you say about your limitations is the evidence. We prepare you for that hearing in English, Arabic, French, Mandarin, Urdu, or Spanish.
+Social Security provides a free interpreter at every stage, at the field office, by phone, at the consultative examination, and at the hearing; you do not need to bring a family member to interpret, and in most cases should not. Tell Social Security in writing which language you need. At the hearing, the judge, the vocational expert, and your lawyer speak through the interpreter, and what you say about your limitations is the evidence. We prepare you for that hearing in English, Arabic, French, Mandarin, Urdu, or Spanish.
 
 ## Where the evidence comes from in Dearborn
 
@@ -64,13 +64,13 @@ The claim is the record. We obtain and organize it from every source: Corewell H
 
 | Stage | What happens | Deadline | Typical wait |
 | --- | --- | --- | --- |
-| Initial application | Online, by phone, or at the Dearborn Social Security field office **[VERIFY address]**; Michigan DDS reviews the medical evidence | — | 6–8 months |
+| Initial application | Online, by phone, or at the Dearborn Social Security field office at 19855 Outer Drive, Suite 100 (Garrison Place East); Michigan DDS reviews the medical evidence | — | 6–8 months |
 | Reconsideration | A different DDS examiner reviews the file; most are denied | 60 days | 4–7 months |
 | ALJ hearing | Before an administrative law judge; you testify, a vocational expert testifies, your lawyer cross-examines | 60 days | About 8 months |
 | Appeals Council | Review for legal error | 60 days | 6–12 months |
 | Federal court | Civil action in the U.S. District Court for the Eastern District of Michigan, Detroit | 60 days | 12+ months |
 
-Hearings for Dearborn claimants are scheduled at the Detroit or Livonia hearing office, in person, by video, or by phone; you may request an in-person hearing. **[VERIFY current OHO assignments]** Missing a 60-day deadline usually means starting over with a new application. Appeal; do not reapply.
+Hearings for claims handled by the Dearborn field office are scheduled by the Detroit hearing office in the Patrick V. McNamara Federal Building at 477 Michigan Avenue, in person, by video, or by phone; you may request an in-person hearing. Missing a 60-day deadline usually means starting over with a new application. Appeal; do not reapply.
 
 ## Back pay and the fee
 
@@ -111,7 +111,7 @@ SSDI benefits begin five full months after the established onset date; SSI is no
 
 **How long do I have to appeal?** Sixty days from the date on the denial notice, plus five days for mailing, at every stage.
 
-**Where will my hearing be?** At the Detroit or Livonia hearing office, or by video or phone. You can request to appear in person. **[VERIFY]**
+**Where will my hearing be?** For claims handled by the Dearborn field office, at the Detroit hearing office in the McNamara Federal Building downtown, or by video or phone. You can request to appear in person.
 
 **I was hurt at the Rouge and get workers’ comp. Can I also get SSDI?** Yes, if you meet Social Security’s definition of disability, but the two benefits offset so that the combined amount does not exceed a federal limit. We coordinate both.
 

@@ -2,7 +2,7 @@
 slug: workers-compensation
 section: personal-injury
 city: detroit
-status: draft
+status: approved
 seoTitle: Detroit Workers’ Compensation Lawyer: Benefits, the 28-Day Doctor Rule, Denials, and When You Can Also Sue
 seoDescription: Hurt at work in Detroit? Michigan workers’ comp owes you 80 percent of your after-tax wage, all medical care, and more, but the plants, hospitals, and the City handle claims in-house and deny them often. ATLAW’s Dearborn workers’ comp lawyers explain the benefits, the 90-day notice, the Detroit hearing office, and the third-party suit comp does not bar. Free review. (313) 406-7606.
 h1: Detroit Workers’ Compensation Lawyer
@@ -24,7 +24,7 @@ ATLAW is a personal injury firm at 3 Parklane Boulevard in Dearborn, minutes fro
 | Measure | Figure | Source |
 | --- | --- | --- |
 | Wage-loss benefit | 80 percent of after-tax average weekly wage | MCL 418.351, 418.371 |
-| Maximum weekly benefit, 2026 injuries | $1,201 **[VERIFY against the WDCA rate table; 2025 was $1,164]** | WDCA, 90 percent of state average weekly wage |
+| Maximum weekly benefit, 2026 injuries | $1,201 ($1,164 for 2025 injuries) | WDCA, 90 percent of state average weekly wage |
 | Waiting period | 7 days; paid from day one if disability lasts 14 days | MCL 418.311 |
 | Employer chooses the doctor | First 28 days | MCL 418.315(1) |
 | Notice to the employer | 90 days | MCL 418.381(1) |
@@ -81,7 +81,7 @@ Michigan’s crash data does not count work injuries, and the agency’s claim c
 
 ## The hearing: Cadillac Place
 
-When a Detroit employer or insurer denies a claim or stops paying, the worker files an Application for Mediation or Hearing (Form WC-104A) with the Michigan Workers’ Disability Compensation Agency. Disputed claims go first to mediation and then to a magistrate, who hears testimony and medical evidence and issues a written decision. Hearings for Wayne County workers are held at the agency’s Detroit hearing office in Cadillac Place, 3026 West Grand Boulevard. **[VERIFY address and current hearing-site assignments]** Either side can appeal to the Michigan Compensation Appellate Commission and then, by leave, to the Court of Appeals. A contested claim typically takes 12 to 18 months to decision, which is why most disputed claims resolve by **redemption**: a lump-sum settlement approved by the magistrate that closes the claim, including future medical care. Whether to accept one depends on what treatment you will need, and we say so before you sign.
+When a Detroit employer or insurer denies a claim or stops paying, the worker files an Application for Mediation or Hearing (Form WC-104A) with the Michigan Workers’ Disability Compensation Agency. Disputed claims go first to mediation and then to a magistrate, who hears testimony and medical evidence and issues a written decision. Hearings for injuries in Wayne, Macomb, Monroe, and Washtenaw counties are held at the agency’s Detroit hearing site in Cadillac Place, 3026 West Grand Boulevard, Suite 3-700, which also absorbed the Pontiac hearing site in April 2025. Either side can appeal to the Michigan Compensation Appellate Commission and then, by leave, to the Court of Appeals. A contested claim typically takes 12 to 18 months to decision, which is why most disputed claims resolve by **redemption**: a lump-sum settlement approved by the magistrate that closes the claim, including future medical care. Whether to accept one depends on what treatment you will need, and we say so before you sign.
 
 ## The lawsuit comp does not bar
 

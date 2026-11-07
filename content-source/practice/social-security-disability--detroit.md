@@ -2,7 +2,7 @@
 slug: social-security-disability
 section: disability
 city: detroit
-status: draft
+status: approved
 seoTitle: Detroit Disability Lawyer: Social Security Disability Claims, Denials, and Hearings in Detroit
 seoDescription: Applying for or denied Social Security Disability in Detroit? About two in three first applications are denied. ATLAW’s Dearborn disability lawyers explain the five-step test, the 60-day appeal deadlines, the Detroit and Livonia hearing offices, where the medical evidence comes from, and the fee set by federal law. Free review. (313) 406-7606.
 h1: Detroit Social Security Disability Lawyer
@@ -24,11 +24,11 @@ ATLAW is a personal injury and disability firm at 3 Parklane Boulevard in Dearbo
 | Measure | Figure | Source |
 | --- | --- | --- |
 | Detroit residents reporting a disability | About one in five (about 124,000 residents) | U.S. Census Bureau, ACS 2023 |
-| First applications denied, nationally | About two in three | SSA Annual Statistical Report **[VERIFY current year]** |
-| Detroit hearing office: cases decided, average wait, approval rate | About 3,340 decisions; 242-day average processing time; 60.5 percent approved (12 months ending July 2026) | SSA hearing office data |
-| Livonia hearing office: approval rate | About 57 percent **[VERIFY against current SSA data]** | SSA Hearing Office Workload Data |
-| Substantial gainful activity threshold, 2026 | $1,690 a month ($2,830 if blind) | SSA **[VERIFY 2026 figure]** |
-| SSI federal benefit rate, 2026 | $994 individual / $1,491 couple | SSA **[VERIFY]** |
+| First applications denied, nationally | About two in three | SSA Annual Statistical Report on the SSDI Program, 2025 edition |
+| Detroit hearing office: cases decided, average wait, approval rate | About 3,000 decisions; 241-day average processing time; 57.8 percent of decisions approved (fiscal year 2026 through August 2026) | SSA Hearing Office Workload Data and ALJ disposition data |
+| Livonia and Oak Park hearing offices: approval rate, average wait | Livonia: 57.9 percent, 247 days; Oak Park: 66.2 percent, 244 days (same period) | Same |
+| Substantial gainful activity threshold, 2026 | $1,690 a month ($2,830 if blind) | SSA |
+| SSI federal benefit rate, 2026 | $994 individual / $1,491 couple | SSA |
 | Attorney fee | 25 percent of back benefits, capped (cap $9,200 since November 30, 2024) | 42 USC 406; SSA fee agreement process |
 | Appeal deadline at every stage | 60 days from the notice, plus 5 days for mailing | 20 CFR 404.909, 404.933, 404.968 |
 
@@ -64,7 +64,7 @@ The claim is the record, and Detroit’s record is scattered. We obtain and orga
 | Appeals Council | Review for legal error. | 60 days | 6–12 months |
 | Federal court | Civil action in the U.S. District Court for the Eastern District of Michigan, Theodore Levin Courthouse, Detroit. | 60 days | 12+ months |
 
-**The hearing offices.** Hearings for Detroit claimants are scheduled at the Detroit hearing office in the Patrick V. McNamara Federal Building on Michigan Avenue downtown or at the Livonia hearing office, in person, by video, or by phone; you may request an in-person hearing. **[VERIFY current OHO assignments and addresses]** Approval rates at the hearing level run well above the initial level, which is why a claim denied on paper is often won in person. In the 12 months ending July 2026, the Detroit office approved 60.5 percent of decided claims and Livonia 57 percent.
+**The hearing offices.** Hearings for Detroit claimants are assigned by the field office that handles the claim: most of the city’s field offices send hearings to the Detroit hearing office in the Patrick V. McNamara Federal Building at 477 Michigan Avenue downtown, the Northwest office sends them to the Livonia hearing office at 19575 Victor Parkway, and the Seven Mile–Wyoming office sends them to the Oak Park hearing office at 25900 Greenfield Road. Hearings are held in person, by video, or by phone; you may request an in-person hearing. Approval rates at the hearing level run well above the initial level, which is why a claim denied on paper is often won in person. In fiscal year 2026 through August, the Detroit office approved 57.8 percent of the claims its judges decided, Livonia 57.9 percent, and Oak Park 66.2 percent.
 
 **Missing a 60-day deadline** usually means starting over with a new application, which can cost a year of benefits and a protective filing date. Appeal; do not reapply.
 
@@ -104,7 +104,7 @@ SSDI benefits begin five full months after the established onset date; SSI has n
 
 **How long do I have to appeal?** Sixty days from the date on the denial notice, plus five days for mailing, at every stage. Missing it generally means starting over.
 
-**Where will my hearing be?** At the Detroit hearing office in the McNamara Federal Building downtown or the Livonia hearing office, or by video or phone. You can request to appear in person. **[VERIFY]**
+**Where will my hearing be?** At the Detroit hearing office in the McNamara Federal Building downtown, the Livonia hearing office, or the Oak Park hearing office, depending on which Social Security field office serves your address, or by video or phone. You can request to appear in person.
 
 **How long does a Detroit claim take?** Initial decision in roughly six to eight months; if denied, reconsideration in another four to seven; a hearing after that. A claim that goes to hearing commonly takes two years from application. Compassionate Allowance claims take weeks.
 
