@@ -2,7 +2,7 @@
 slug: workers-compensation
 section: personal-injury
 city: canton
-status: draft
+status: approved
 seoTitle: Canton, MI Workers’ Comp Lawyer: Warehouse, Delivery, Retail, and Construction Injuries, Benefits, Denials, and When You Can Also Sue
 seoDescription: Hurt at work in Canton, Michigan, at a Michigan Avenue warehouse, on a delivery route, in a Ford Road store or restaurant, on a construction site, or at a school? Michigan workers’ comp owes you 80 percent of your after-tax wage and all medical care. The benefits, the 90-day notice, the 28-day doctor rule, staffing-agency and gig workers, and the third-party suit comp does not bar. Free review. (313) 406-7606.
 h1: Canton, MI Workers’ Compensation Lawyer

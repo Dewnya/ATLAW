@@ -2,7 +2,7 @@
 slug: rideshare-accidents
 section: personal-injury
 city: detroit
-status: draft
+status: approved
 seoTitle: Detroit Uber & Lyft Accident Lawyer: Which Policy Pays, the $1 Million Coverage, and Who Pays a Passenger’s Bills
 seoDescription: Hurt in an Uber or Lyft crash in Detroit, as a passenger, a driver, or in another car? Michigan law sets the rideshare insurance by what the app was doing: $1 million on a trip, state minimums while waiting, nothing when off. ATLAW’s Dearborn rideshare accident lawyers explain the three periods, who pays no-fault benefits, and how to get the app data. Free review. (313) 406-7606.
 h1: Detroit Uber & Lyft Accident Lawyer

@@ -2,7 +2,7 @@
 slug: wrongful-death
 section: personal-injury
 city: warren
-status: draft
+status: approved
 seoTitle: Warren Wrongful Death Lawyer: Who Files, What the Family Recovers, and the Macomb County Probate Step
 seoDescription: When a family member dies in Warren because of someone’s negligence, Michigan law gives the claim to the estate, not the family directly. How the Macomb County Probate Court appointment works, what the family can recover, no-fault survivor’s loss benefits, plant and workplace deaths, and the deadlines, including the shorter ones. Free, confidential consultation. (313) 406-7606.
 h1: Warren Wrongful Death Lawyer

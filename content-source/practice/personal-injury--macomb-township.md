@@ -2,7 +2,7 @@
 slug: personal-injury
 section: personal-injury
 city: macomb-township
-status: draft
+status: approved
 seoTitle: Macomb Township, MI Personal Injury Lawyer: How a Claim Works, Who You Claim Against When the County Owns the Roads, Construction Sites and New Homes, the 41A District Court, and What It Costs
 seoDescription: Hurt in Macomb Township? Learn how an injury claim works here: the deadlines; no-fault and uninsured coverage; claims against stores, landlords, condominium associations, builders, and contractors; why Macomb County and the State, not the township, own the roads and the Sheriff provides the police; township sidewalks, paths, parks, and sewers; the 41A District and Sixteenth Circuit courts; how damages are valued; and the one-third fee cap. ATLAW: 13 years, more than 10,000 cases. Free review. (313) 406-7606.
 h1: Macomb Township, MI Personal Injury Lawyer

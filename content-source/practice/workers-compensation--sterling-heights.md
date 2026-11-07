@@ -2,7 +2,7 @@
 slug: workers-compensation
 section: personal-injury
 city: sterling-heights
-status: draft
+status: approved
 seoTitle: Sterling Heights Workers’ Comp Lawyer: Plant, Defense, and Supplier Injuries, Benefits, Denials, and When You Can Also Sue
 seoDescription: Hurt at work in Sterling Heights, at an assembly or stamping plant, a defense contractor, a supplier shop, or a Hall Road business? Michigan workers’ comp owes you 80 percent of your after-tax wage and all medical care. The benefits, the 90-day notice, the 28-day doctor rule, staffing-agency workers, and the third-party suit comp does not bar. Free review. (313) 406-7606.
 h1: Sterling Heights Workers’ Compensation Lawyer

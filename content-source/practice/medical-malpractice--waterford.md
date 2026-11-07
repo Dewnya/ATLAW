@@ -2,7 +2,7 @@
 slug: medical-malpractice
 section: personal-injury
 city: waterford
-status: draft
+status: approved
 seoTitle: Waterford, MI Medical Malpractice Lawyer: Two-Year Deadline, Notice of Intent, 2026 Caps, and Who the Defendant Is
 seoDescription: Harmed by a doctor, hospital, or clinic serving Waterford Township? Michigan malpractice law has a two-year deadline, a 182-day notice before suit, a sworn expert affidavit, and a cap on pain-and-suffering damages ($596,400 or $1,065,000 in 2026). How the rules apply to McLaren Oakland, Trinity Health Oakland, the medical offices and urgent care clinics serving Waterford, surgery centers, nursing homes, and federally funded clinics. Free review. (313) 406-7606.
 h1: Waterford, MI Medical Malpractice Lawyer

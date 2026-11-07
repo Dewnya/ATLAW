@@ -2,7 +2,7 @@
 slug: motorcycle-accidents
 section: personal-injury
 city: dearborn-heights
-status: draft
+status: approved
 seoTitle: Dearborn Heights, MI Motorcycle Accident Lawyer: Who Pays a Rider’s Bills, Telegraph and Ford Road Left Turns, Warren Avenue, Hines Drive, Road Defects, and the Helmet Rule
 seoDescription: Hurt on a motorcycle in Dearborn Heights? Under Michigan no-fault a motorcycle is not a “motor vehicle,” which decides who pays your medical bills. This page covers the rider priority rule, U-turns across Telegraph’s median crossovers and Ford Road’s left turns and driveways, parked cars and car doors on Warren, Hines Drive, single-vehicle crashes with no PIP claim, which agency owns the road, the helmet law, and the deadlines. Free review. (313) 406-7606.
 h1: Dearborn Heights, MI Motorcycle Accident Lawyer

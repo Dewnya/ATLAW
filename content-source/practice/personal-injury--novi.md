@@ -2,7 +2,7 @@
 slug: personal-injury
 section: personal-injury
 city: novi
-status: draft
+status: approved
 seoTitle: Novi, MI Personal Injury Lawyer: How a Claim Works, Who You Claim Against, the 52-1 District Court, and What It Costs
 seoDescription: Hurt in Novi? Learn how an injury claim works here: the deadlines; the insurers and underinsured coverage; claims against stores, the mall, hotels, event venues, and warehouses; the City’s police, fire, buildings, and pathways; MDOT and county roads; the 52-1 District and Sixth Circuit courts; how damages are valued; and the one-third fee cap. ATLAW: 13 years, more than 10,000 cases. Free review. (313) 406-7606.
 h1: Novi, MI Personal Injury Lawyer

@@ -2,7 +2,7 @@
 slug: truck-accidents
 section: personal-injury
 city: st-clair-shores
-status: draft
+status: approved
 seoTitle: Truck Accident Lawyer in St. Clair Shores, MI: I-94 Interchanges and Service Drives, Canadian Carriers, Snow and Ice, Harper and Jefferson Deliveries, the Federal Trucking Rules, and the Evidence That Expires
 seoDescription: Hit by a semi, box truck, or boat hauler in St. Clair Shores? A third of the city’s 2024 crashes were on I-94, and 1,257 heavy trucks and buses were involved in Macomb County crashes. Learn how the federal trucking rules, the carrier’s $750,000-plus insurance, Canadian carriers, underride guards, and Michigan no-fault apply, how to check a carrier’s safety record, which agency owns the road, and why the logs must be preserved within days. Free review. (313) 406-7606.
 h1: St. Clair Shores, MI Truck Accident Lawyer

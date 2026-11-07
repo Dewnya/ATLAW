@@ -3,7 +3,7 @@ slug: case-results
 section: resources
 status: draft
 seoTitle: ATLAW Case Results: Michigan Personal Injury Settlements and Verdicts
-seoDescription: Settlements and verdicts recovered by ATLAW for injured people across Michigan: no-fault benefits, catastrophic injury, and product injury cases, with the case type, county, and year for each, and a plain explanation of what drives case value in Michigan.
+seoDescription: Settlements and verdicts recovered by ATLAW for injured people across Michigan: no-fault benefits, catastrophic injury, and product injury cases, with the case type, county, and how each resolved, and a plain explanation of what drives case value in Michigan.
 h1: Case Results & Settlements
 tagline: More than $100 million recovered across more than 10,000 cases in 13 years. Here is what some of those cases looked like.
 primaryKeyword: atlaw case results (branded; no measurable volume)
@@ -14,23 +14,23 @@ delivered: 2026-10-16
 
 ## Case Results & Settlements
 
-In 13 years, ATLAW has handled more than 10,000 cases for injured people in Michigan and recovered more than $100 million for them. The results below are a selection from those cases, and more will be added. Each lists the type of case, the county where it arose, the year it resolved, how it ended, and a short description of what happened, so you can find the cases that resemble yours.
+In 13 years, ATLAW has handled more than 10,000 cases for injured people in Michigan and recovered more than $100 million for them. The results below are a selection from those cases, and more will be added. Each lists the type of case, the county where it arose, and how it ended, so you can find the cases that resemble yours.
 
 Two things to read before the numbers. First, every amount shown is the gross recovery, before attorney fees, case costs, and the repayment of medical liens; what a client takes home is less, and the section on fees and liens below explains how much less and why. Second, no past result predicts a future one. Michigan law caps some damages and not others, limits recovery to the at-fault driver’s insurance in most crash cases, and reduces or bars recovery when the injured person shares fault. The same injury can resolve for very different amounts depending on facts that have nothing to do with how badly someone was hurt. The section on what drives case value explains those facts.
 
 ## Selected results
 
-| Amount (gross) | Case | County | Year | How it resolved |
-| --- | --- | --- | --- | --- |
-| $833,101 | Vehicle component explosion, eye injury | Wayne | **[CONFIRM: year resolved]** | **[CONFIRM: settlement, verdict, or award]** |
-| $800,000 | No-fault (PIP) benefits | **[CONFIRM: county]** | 2020 | Settlement |
-| $510,929 to date | Catastrophic injury, attendant care (no-fault) | Wayne | **[CONFIRM: year resolved]** | Settlement, with one further payment expected |
+| Amount (gross) | Case | County | How it resolved |
+| --- | --- | --- | --- |
+| $833,101 | Vehicle component explosion, eye injury | Wayne | Settlement |
+| About $1.27 million | No-fault (PIP) benefits | Wayne | Benefits recovered and settlement |
+| $510,929 | Catastrophic injury, attendant care (no-fault) | Wayne | Settlement |
 
-**$833,101 for a vehicle component explosion that destroyed an eye.** Our client was driving home from work when he heard a strange noise from under the hood. He pulled over and opened the hood to find the source, and a component exploded into his face. The impact detached the retina, tore the iris, and destroyed the lens of his left eye, fractured bone, and cracked his teeth. The injury happened in November 2019, and the claim was resolved in Wayne County. **[CONFIRM: case type (product liability, no-fault, or both), how it resolved, and the year]**
+**$833,101 for a vehicle component explosion that caused a serious eye injury.** The amount is all payments combined, and the case was resolved by settlement in Wayne County.
 
-**$800,000 no-fault settlement, after about $467,000 in benefits already recovered.** Before the case settled in 2020, the firm had already recovered about $467,000 in personal injury protection benefits for the client: wage loss, replacement services, and attendant care. The remaining claim against the no-fault insurer then settled for $800,000. **[CONFIRM: county; a sentence or two on the crash and the injury, if the firm wants them shown]**
+**About $1.27 million in no-fault benefits.** Before the case settled, the firm recovered about $467,000 in personal injury protection benefits for the client: wage loss, replacement services, and attendant care. The remaining claim against the no-fault insurer then settled for $800,000. The case was in Wayne County.
 
-**$510,929 to date for round-the-clock attendant care cut to eight hours a day.** Our client was three years old, riding in the back seat, when a 1988 crash left him with a traumatic brain injury and quadriplegia. For years his no-fault insurer paid for round-the-clock attendant care, but after Michigan’s 2019 no-fault reform it cut his paid care to eight hours a day. We filed suit in Wayne County in 2024 to recover the benefits, and the case settled. One further payment is expected. **[CONFIRM: year resolved]**
+**$510,929 for a client whose no-fault insurer cut his round-the-clock attendant care to eight hours a day.** We filed suit in Wayne County to recover the benefits, and the case settled.
 
 Amounts are gross recoveries before attorney fees, costs, and liens. Each case depends on its own facts; these results do not predict the outcome of any other case.
 
@@ -38,7 +38,7 @@ Amounts are gross recoveries before attorney fees, costs, and liens. Each case d
 
 A settlement is an agreement; a verdict is a decision. Most Michigan injury cases settle, often after suit is filed and the insurer has seen the medical records and depositions, sometimes at a court-ordered case evaluation or facilitation. A jury verdict is the amount a jury awarded after trial; the judgment entered on it may be higher, with interest and costs, or lower after reductions for the plaintiff’s share of fault or statutory caps, and it may be appealed. An arbitration award is a decision by a private arbitrator, common in uninsured and underinsured motorist claims where the policy requires it. Where a result says “policy limits,” the insurer paid the full amount of coverage available, which is the most it can be made to pay regardless of what the injury was worth.
 
-Gross is not net. Michigan court rules cap the contingency fee in personal injury cases at one-third of the recovery (MCR 8.121). **[ATTORNEY CHECK]** Case costs, such as filing fees, record charges, deposition transcripts, and expert witnesses, are repaid from the recovery, and in a litigated case with experts they can be substantial. Medical providers, health insurers, Medicare, and Medicaid that paid for crash-related treatment usually have a right to be repaid from a third-party recovery, under federal law for Medicare (42 USC 1395y(b)(2)) and Michigan law for Medicaid (MCL 400.106), and ERISA health plans assert reimbursement under their plan terms. Part of a lawyer’s work on any case is reducing those liens before distribution. Ask any firm you consult to show you, in writing, how the fee, costs, and liens would come out of a hypothetical recovery.
+Gross is not net. Michigan court rules cap the contingency fee in personal injury cases at one-third of the amount recovered, after case costs are deducted (MCR 8.121). Case costs, such as filing fees, record charges, deposition transcripts, and expert witnesses, are repaid from the recovery, and in a litigated case with experts they can be substantial. Medical providers, health insurers, Medicare, and Medicaid that paid for crash-related treatment usually have a right to be repaid from a third-party recovery, under federal law for Medicare (42 USC 1395y(b)(2)) and Michigan law for Medicaid (MCL 400.106), and ERISA health plans assert reimbursement under their plan terms. Part of a lawyer’s work on any case is reducing those liens before distribution. Ask any firm you consult to show you, in writing, how the fee, costs, and liens would come out of a hypothetical recovery.
 
 The amount reflects the coverage as much as the injury. See below.
 
@@ -54,7 +54,7 @@ Michigan is a no-fault state with its own rules, and several of them explain why
 
 **Fault is shared, and it reduces the recovery.** Under MCL 600.2959 and 500.3135(2)(b), a plaintiff’s damages are reduced by the plaintiff’s percentage of fault, and a plaintiff more than 50 percent at fault recovers no pain-and-suffering damages at all. A disputed left turn or a pedestrian outside a crosswalk changes the number.
 
-**Some damages are capped; most are not.** Michigan has no cap on pain-and-suffering damages in car, truck, premises, or dog-bite cases. Medical malpractice noneconomic damages are capped under MCL 600.1483 at $596,400 for 2026, or $1,065,000 for the most severe categories of injury, adjusted each year. Claims against government entities (a city bus, a county road) are limited by the Governmental Tort Liability Act, with its own notice requirements and short deadlines (MCL 691.1401 et seq.). **[ATTORNEY CHECK]**
+**Some damages are capped; most are not.** Michigan has no cap on pain-and-suffering damages in car, truck, premises, or dog-bite cases. Medical malpractice noneconomic damages are capped under MCL 600.1483 at $596,400 for 2026, or $1,065,000 for the most severe categories of injury, adjusted each year. Claims against government entities (a city bus, a county road) are allowed only within narrow exceptions to governmental immunity under the Governmental Tort Liability Act (MCL 691.1401 et seq.), and some carry written notice deadlines as short as 120 days.
 
 **The injury type and the medical record.** Documented objective injury, consistent treatment, and a clear causal link to the crash in the records drive value; gaps in treatment, prior similar complaints, and symptoms with no imaging to support them reduce it. This is why we tell every client to [see a doctor the day of the crash and keep every appointment](/resources/what-to-do-after-an-accident).
 
@@ -74,7 +74,7 @@ Each practice page explains how that kind of case works in Michigan: [car accide
 
 **Are these all of ATLAW’s results?** No. They are a selection from more than 10,000 cases. Most settlements are confidential, and many clients prefer that their cases not be described publicly even without names. The firm’s total recovery, more than $100 million, includes every matter.
 
-**Are the amounts before or after fees?** Before. Every figure is the gross recovery. Fees (capped at one-third in Michigan personal injury cases), case costs, and medical liens come out of the gross. Ask us to show you how that works for your case before you sign anything.
+**Are the amounts before or after fees?** Before. Every figure is the gross recovery. Fees (capped at one-third of the amount recovered, after case costs, in Michigan personal injury cases), case costs, and medical liens come out of the gross. Ask us to show you how that works for your case before you sign anything.
 
 **Is there an average settlement for a car accident in Michigan?** Not a reliable one. Settlements are confidential and depend on the injury, the threshold, the available insurance, and fault. Any website quoting an average is estimating or describing its own cases.
 

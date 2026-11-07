@@ -2,7 +2,7 @@
 slug: personal-injury
 section: personal-injury
 city: pontiac
-status: draft
+status: approved
 seoTitle: Pontiac, MI Personal Injury Lawyer: How a Pontiac Injury Claim Works, Who You Claim Against, the Courts Downtown, and What It Costs
 seoDescription: Hurt in Pontiac? How an injury claim works here: the deadlines, the insurers and the Assigned Claims Plan, uninsured drivers, why a Sheriff’s crash is a claim against Oakland County, the City’s roads and sidewalks, Housing Commission claims, the 50th District and Sixth Circuit courts downtown, how damages are valued, and the one-third fee cap. ATLAW: 13 years, more than 10,000 cases. Free review. (313) 406-7606.
 h1: Pontiac, MI Personal Injury Lawyer

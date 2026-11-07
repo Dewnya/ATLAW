@@ -2,7 +2,7 @@
 slug: nursing-home-abuse
 section: personal-injury
 city: st-clair-shores
-status: draft
+status: approved
 seoTitle: St. Clair Shores, MI Nursing Home Abuse Lawyer: Neglect, Understaffing, Falls, Short-Term Rehab, Assisted Living, Care at Home, Guardianship, and the Two Deadlines
 seoDescription: Suspect abuse or neglect of a parent in a St. Clair Shores nursing home, short-term rehabilitation stay, assisted living or memory care community, adult foster care home, or from a caregiver at home? Learn the staffing rules Michigan sets, where to report today, who can bring the claim when the resident cannot, the two-year and three-year deadlines, and what to do about the arbitration clause. Michigan law, not another state’s. Free, confidential review. (313) 406-7606.
 h1: St. Clair Shores, MI Nursing Home Abuse Lawyer

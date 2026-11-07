@@ -2,7 +2,7 @@
 slug: areas-served
 section: areas-served
 city: troy
-status: draft
+status: approved
 seoTitle: Troy, MI Personal Injury Lawyers: Big Beaver, I-75, the Somerset Corridor, and the 52-4 District Court
 seoDescription: Injured in Troy? ATLAW’s personal injury lawyers handle I-75 and Big Beaver crashes, falls at Somerset and the office towers, workplace injuries in Oakland County’s business hub, and no-fault claims, with 2024 crash data, the 52-4 District and Sixth Circuit courts, Corewell Health Troy, and the deadlines that apply.
 h1: Personal Injury Law Firm Serving Troy, MI

@@ -2,7 +2,7 @@
 slug: truck-accidents
 section: personal-injury
 city: macomb-township
-status: draft
+status: approved
 seoTitle: Truck Accident Lawyer in Macomb Township, MI: Hall Road, Dump Trucks and Concrete Mixers on the Mile Roads, Construction Sites, Seasonal Weight Limits, the Federal Trucking Rules, and the Evidence That Expires
 seoDescription: Hit by a semi, dump truck, concrete mixer, or delivery truck in Macomb Township? 531 of the township’s 1,422 crashes in 2024 were on Hall Road, and 1,257 heavy trucks and buses were involved in Macomb County crashes. Learn how the federal trucking rules, the carrier’s $750,000-plus insurance, construction-site responsibility, spilled and tracked loads, and Michigan no-fault apply, which agency owns the road, and why the logs must be preserved within days. Free review. (313) 406-7606.
 h1: Macomb Township, MI Truck Accident Lawyer

@@ -2,7 +2,7 @@
 slug: nursing-home-abuse
 section: personal-injury
 city: taylor
-status: draft
+status: approved
 seoTitle: Taylor, MI Nursing Home Abuse Lawyer: Neglect, Understaffing, Falls, Assisted Living, Guardianship, and the Two Deadlines
 seoDescription: Suspect abuse or neglect of a parent in a Taylor nursing home, assisted living community, or adult foster care home? Learn the staffing rules Michigan sets, where to report today, who can bring the claim when the resident cannot, the two-year and three-year deadlines, and what to do about the arbitration clause. Free, confidential review. (313) 406-7606.
 h1: Taylor, MI Nursing Home Abuse Lawyer

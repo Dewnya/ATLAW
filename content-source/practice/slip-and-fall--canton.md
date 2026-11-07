@@ -2,7 +2,7 @@
 slug: slip-and-fall
 section: personal-injury
 city: canton
-status: draft
+status: approved
 seoTitle: Canton, MI Slip and Fall Lawyer: Ford Road Stores, Apartments, Warehouses, Township Sidewalks, and Michigan Law After 2023
 seoDescription: Hurt in a fall in Canton, Michigan? Since 2023, an “obvious” hazard no longer ends a Michigan fall case. Who is liable at a Ford Road store, an apartment or condominium complex, a warehouse, or a school, why a sidewalk claim goes to the township but a road claim does not, the 120-day notice, snow and ice, and when a parking-lot fall is covered by no-fault. Free review. (313) 406-7606.
 h1: Canton, MI Slip and Fall Lawyer

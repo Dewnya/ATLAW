@@ -2,7 +2,7 @@
 slug: areas-served
 section: areas-served
 city: washtenaw-county
-status: draft
+status: approved
 seoTitle: Washtenaw County Personal Injury Lawyers: Ann Arbor, Ypsilanti, Pittsfield Township, and Every Washtenaw Community
 seoDescription: Injured in Washtenaw County? 9,844 crashes, 2,231 people injured, and 35 killed on the county’s roads in 2024. Car, truck, pedestrian, bicycle, premises, and medical cases in Ann Arbor, Ypsilanti, and the townships; which agency owns the road; why a claim against the University of Michigan goes to the Court of Claims; the courts in Ann Arbor; and the deadlines. Free review. (313) 406-7606.
 h1: Washtenaw County Personal Injury Lawyers

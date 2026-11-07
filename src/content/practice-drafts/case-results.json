@@ -3,7 +3,7 @@
  "section": "resources",
  "status": "draft",
  "seoTitle": "ATLAW Case Results: Michigan Personal Injury Settlements and Verdicts",
- "seoDescription": "Settlements and verdicts recovered by ATLAW for injured people across Michigan: no-fault benefits, catastrophic injury, and product injury cases, with the case type, county, and year for each, and a plain explanation of what drives case value in Michigan.",
+ "seoDescription": "Settlements and verdicts recovered by ATLAW for injured people across Michigan: no-fault benefits, catastrophic injury, and product injury cases, with the case type, county, and how each resolved, and a plain explanation of what drives case value in Michigan.",
  "h1": "Case Results & Settlements",
  "tagline": "More than $100 million recovered across more than 10,000 cases in 13 years. Here is what some of those cases looked like.",
  "primaryKeyword": "atlaw case results (branded; no measurable volume)",
@@ -19,7 +19,7 @@
    "c": [
     {
      "t": "text",
-     "v": "In 13 years, ATLAW has handled more than 10,000 cases for injured people in Michigan and recovered more than $100 million for them. The results below are a selection from those cases, and more will be added. Each lists the type of case, the county where it arose, the year it resolved, how it ended, and a short description of what happened, so you can find the cases that resemble yours."
+     "v": "In 13 years, ATLAW has handled more than 10,000 cases for injured people in Michigan and recovered more than $100 million for them. The results below are a selection from those cases, and more will be added. Each lists the type of case, the county where it arose, and how it ended, so you can find the cases that resemble yours."
     }
    ]
   },
@@ -62,12 +62,6 @@
       [
        {
         "t": "text",
-        "v": "Year"
-       }
-      ],
-      [
-       {
-        "t": "text",
         "v": "How it resolved"
        }
       ]
@@ -94,26 +88,8 @@
        ],
        [
         {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "CONFIRM",
-           "v": "year resolved"
-          }
-         ]
-        }
-       ],
-       [
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "CONFIRM",
-           "v": "settlement, verdict, or award"
-          }
-         ]
+         "t": "text",
+         "v": "Settlement"
         }
        ]
       ],
@@ -121,7 +97,7 @@
        [
         {
          "t": "text",
-         "v": "$800,000"
+         "v": "About $1.27 million"
         }
        ],
        [
@@ -132,26 +108,14 @@
        ],
        [
         {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "CONFIRM",
-           "v": "county"
-          }
-         ]
+         "t": "text",
+         "v": "Wayne"
         }
        ],
        [
         {
          "t": "text",
-         "v": "2020"
-        }
-       ],
-       [
-        {
-         "t": "text",
-         "v": "Settlement"
+         "v": "Benefits recovered and settlement"
         }
        ]
       ],
@@ -159,7 +123,7 @@
        [
         {
          "t": "text",
-         "v": "$510,929 to date"
+         "v": "$510,929"
         }
        ],
        [
@@ -176,20 +140,8 @@
        ],
        [
         {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "CONFIRM",
-           "v": "year resolved"
-          }
-         ]
-        }
-       ],
-       [
-        {
          "t": "text",
-         "v": "Settlement, with one further payment expected"
+         "v": "Settlement"
         }
        ]
       ]
@@ -203,23 +155,13 @@
        "c": [
         {
          "t": "text",
-         "v": "$833,101 for a vehicle component explosion that destroyed an eye."
+         "v": "$833,101 for a vehicle component explosion that caused a serious eye injury."
         }
        ]
       },
       {
        "t": "text",
-       "v": " Our client was driving home from work when he heard a strange noise from under the hood. He pulled over and opened the hood to find the source, and a component exploded into his face. The impact detached the retina, tore the iris, and destroyed the lens of his left eye, fractured bone, and cracked his teeth. The injury happened in November 2019, and the claim was resolved in Wayne County. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "case type (product liability, no-fault, or both), how it resolved, and the year"
-        }
-       ]
+       "v": " The amount is all payments combined, and the case was resolved by settlement in Wayne County."
       }
      ]
     },
@@ -231,23 +173,13 @@
        "c": [
         {
          "t": "text",
-         "v": "$800,000 no-fault settlement, after about $467,000 in benefits already recovered."
+         "v": "About $1.27 million in no-fault benefits."
         }
        ]
       },
       {
        "t": "text",
-       "v": " Before the case settled in 2020, the firm had already recovered about $467,000 in personal injury protection benefits for the client: wage loss, replacement services, and attendant care. The remaining claim against the no-fault insurer then settled for $800,000. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "county; a sentence or two on the crash and the injury, if the firm wants them shown"
-        }
-       ]
+       "v": " Before the case settled, the firm recovered about $467,000 in personal injury protection benefits for the client: wage loss, replacement services, and attendant care. The remaining claim against the no-fault insurer then settled for $800,000. The case was in Wayne County."
       }
      ]
     },
@@ -259,23 +191,13 @@
        "c": [
         {
          "t": "text",
-         "v": "$510,929 to date for round-the-clock attendant care cut to eight hours a day."
+         "v": "$510,929 for a client whose no-fault insurer cut his round-the-clock attendant care to eight hours a day."
         }
        ]
       },
       {
        "t": "text",
-       "v": " Our client was three years old, riding in the back seat, when a 1988 crash left him with a traumatic brain injury and quadriplegia. For years his no-fault insurer paid for round-the-clock attendant care, but after Michigan’s 2019 no-fault reform it cut his paid care to eight hours a day. We filed suit in Wayne County in 2024 to recover the benefits, and the case settled. One further payment is expected. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "CONFIRM",
-         "v": "year resolved"
-        }
-       ]
+       "v": " We filed suit in Wayne County to recover the benefits, and the case settled."
       }
      ]
     },
@@ -308,21 +230,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Gross is not net. Michigan court rules cap the contingency fee in personal injury cases at one-third of the recovery (MCR 8.121). "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": ""
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " Case costs, such as filing fees, record charges, deposition transcripts, and expert witnesses, are repaid from the recovery, and in a litigated case with experts they can be substantial. Medical providers, health insurers, Medicare, and Medicaid that paid for crash-related treatment usually have a right to be repaid from a third-party recovery, under federal law for Medicare (42 USC 1395y(b)(2)) and Michigan law for Medicaid (MCL 400.106), and ERISA health plans assert reimbursement under their plan terms. Part of a lawyer’s work on any case is reducing those liens before distribution. Ask any firm you consult to show you, in writing, how the fee, costs, and liens would come out of a hypothetical recovery."
+       "v": "Gross is not net. Michigan court rules cap the contingency fee in personal injury cases at one-third of the amount recovered, after case costs are deducted (MCR 8.121). Case costs, such as filing fees, record charges, deposition transcripts, and expert witnesses, are repaid from the recovery, and in a litigated case with experts they can be substantial. Medical providers, health insurers, Medicare, and Medicaid that paid for crash-related treatment usually have a right to be repaid from a third-party recovery, under federal law for Medicare (42 USC 1395y(b)(2)) and Michigan law for Medicaid (MCL 400.106), and ERISA health plans assert reimbursement under their plan terms. Part of a lawyer’s work on any case is reducing those liens before distribution. Ask any firm you consult to show you, in writing, how the fee, costs, and liens would come out of a hypothetical recovery."
       }
      ]
     },
@@ -436,17 +344,7 @@
       },
       {
        "t": "text",
-       "v": " Michigan has no cap on pain-and-suffering damages in car, truck, premises, or dog-bite cases. Medical malpractice noneconomic damages are capped under MCL 600.1483 at $596,400 for 2026, or $1,065,000 for the most severe categories of injury, adjusted each year. Claims against government entities (a city bus, a county road) are limited by the Governmental Tort Liability Act, with its own notice requirements and short deadlines (MCL 691.1401 et seq.). "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "ATTORNEY CHECK",
-         "v": ""
-        }
-       ]
+       "v": " Michigan has no cap on pain-and-suffering damages in car, truck, premises, or dog-bite cases. Medical malpractice noneconomic damages are capped under MCL 600.1483 at $596,400 for 2026, or $1,065,000 for the most severe categories of injury, adjusted each year. Claims against government entities (a city bus, a county road) are allowed only within narrow exceptions to governmental immunity under the Governmental Tort Liability Act (MCL 691.1401 et seq.), and some carry written notice deadlines as short as 120 days."
       }
      ]
     },
@@ -762,7 +660,7 @@
    "answer": [
     {
      "t": "text",
-     "v": "Before. Every figure is the gross recovery. Fees (capped at one-third in Michigan personal injury cases), case costs, and medical liens come out of the gross. Ask us to show you how that works for your case before you sign anything."
+     "v": "Before. Every figure is the gross recovery. Fees (capped at one-third of the amount recovered, after case costs, in Michigan personal injury cases), case costs, and medical liens come out of the gross. Ask us to show you how that works for your case before you sign anything."
     }
    ]
   },
@@ -859,8 +757,8 @@
    }
   ]
  },
- "wordCount": 1965,
- "openItems": 9,
+ "wordCount": 1818,
+ "openItems": 0,
  "source": {
   "file": "B2-28_Case-Results-and-Settlements.docx",
   "delivered": "2026-10-16"

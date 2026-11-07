@@ -2,7 +2,7 @@
 slug: auto-accidents
 section: personal-injury
 city: ann-arbor
-status: draft
+status: approved
 seoTitle: Ann Arbor, MI Car Accident Lawyer: Campus Crosswalks and Cyclists, the State and Ellsworth Roundabout, I-94 and US-23, University of Michigan Claims, No-Fault for Students, and the 15th District Court
 seoDescription: Hurt in a car crash in Ann Arbor? The city had 2,770 crashes and 540 people injured in 2024, including three of every four bicyclist crashes in Washtenaw County. Covers who pays under no-fault, including students, Ann Arbor’s crosswalk rule, the roundabouts, the freeways, crashes with University of Michigan vehicles and the six-month Court of Claims notice, TheRide buses, drunk drivers on game days, and the deadlines. Free review. (313) 406-7606.
 h1: Ann Arbor, MI Car Accident Lawyer

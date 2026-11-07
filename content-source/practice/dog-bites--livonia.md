@@ -2,7 +2,7 @@
 slug: dog-bites
 section: personal-injury
 city: livonia
-status: draft
+status: approved
 seoTitle: Livonia Dog Bite Lawyer: Michigan’s Strict Liability Statute, Livonia Animal Control, Who Pays, and Children’s Claims
 seoDescription: Bitten by a dog in Livonia? Michigan’s statute makes the owner liable even if the dog never bit before, and the claim is usually paid by homeowner’s or renter’s insurance. How to report the bite to Livonia Animal Control, MCL 287.351, the provocation defense, landlords and condominiums, delivery workers, children’s claims, and the deadlines. Free review. (313) 406-7606.
 h1: Livonia Dog Bite Lawyer

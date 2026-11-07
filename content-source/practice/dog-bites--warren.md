@@ -2,7 +2,7 @@
 slug: dog-bites
 section: personal-injury
 city: warren
-status: draft
+status: approved
 seoTitle: Warren Dog Bite Lawyer: Michigan’s Strict Liability Statute, Who Pays, and Children’s Claims
 seoDescription: Bitten by a dog in Warren? Michigan’s statute makes the owner liable even if the dog never bit before, and the claim is usually paid by homeowner’s or renter’s insurance. MCL 287.351, the provocation defense, apartment landlords, delivery workers, children’s claims, and the deadlines. Free review. (313) 406-7606.
 h1: Warren Dog Bite Lawyer

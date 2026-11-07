@@ -2,7 +2,7 @@
 slug: truck-accidents
 section: personal-injury
 city: ann-arbor
-status: draft
+status: approved
 seoTitle: Truck Accident Lawyer in Ann Arbor, MI: I-94, US-23, and M-14 Interchanges, Campus Deliveries and Construction Trucks, University Vehicles in the Court of Claims, Charter Buses, the Federal Trucking Rules, and the Evidence That Expires
 seoDescription: Hit by a semi, box truck, construction truck, or bus in Ann Arbor? 755 heavy trucks and buses were involved in Washtenaw County crashes in 2024, and 652 of the city’s crashes were on interstate routes. Learn how the federal trucking rules, the carrier’s $750,000-plus insurance, underride guards, Michigan no-fault, and the six-month Court of Claims notice for University vehicles apply, which agency owns the road, and why the logs must be preserved within days. Free review. (313) 406-7606.
 h1: Ann Arbor, MI Truck Accident Lawyer

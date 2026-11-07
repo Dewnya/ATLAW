@@ -2,7 +2,7 @@
 slug: nursing-home-abuse
 section: personal-injury
 city: rochester-hills
-status: draft
+status: approved
 seoTitle: Rochester Hills, MI Nursing Home Abuse Lawyer: Neglect, Understaffing, Falls, Assisted Living and Memory Care, Guardianship, and the Two Deadlines
 seoDescription: Suspect abuse or neglect of a parent in a Rochester Hills nursing home, assisted living or memory care community, or adult foster care home? Learn the staffing rules Michigan sets, where to report today, who can bring the claim when the resident cannot, the two-year and three-year deadlines, and what to do about the arbitration clause. Michigan law, not New York’s. Free, confidential review. (313) 406-7606.
 h1: Rochester Hills, MI Nursing Home Abuse Lawyer

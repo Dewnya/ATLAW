@@ -2,7 +2,7 @@
 slug: personal-injury
 section: personal-injury
 city: dearborn
-status: draft
+status: approved
 seoTitle: Dearborn Personal Injury Lawyer on Michigan Avenue: How a Dearborn Injury Claim Works and What It Costs
 seoDescription: ATLAW is a personal injury firm based in Dearborn. We explain how a Dearborn injury claim works from the first week to the check, which deadlines apply, how cases move through the 19th District and Third Circuit courts, and the one-third fee. 13 years, more than 10,000 cases. Free review in English or Arabic. (313) 406-7606.
 h1: Dearborn Personal Injury Lawyer

@@ -2,7 +2,7 @@
 slug: motorcycle-accidents
 section: personal-injury
 city: st-clair-shores
-status: draft
+status: approved
 seoTitle: St. Clair Shores, MI Motorcycle Accident Lawyer: Who Pays a Rider’s Bills, Jefferson and the Nautical Mile, I-94 Interchanges, Harper Left Turns, Drunk Drivers, Road Defects, and the Helmet Rule
 seoDescription: Hurt on a motorcycle in St. Clair Shores? Under Michigan no-fault a motorcycle is not a “motor vehicle,” which decides who pays your medical bills. This page covers the rider priority rule, left turns and drunk drivers on Jefferson, merges and lane changes on I-94, Harper’s driveways, single-vehicle crashes with no PIP claim, which agency owns the road, the helmet law, and the deadlines. Free review. (313) 406-7606.
 h1: St. Clair Shores, MI Motorcycle Accident Lawyer

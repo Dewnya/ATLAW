@@ -2,7 +2,7 @@
 slug: areas-served
 section: areas-served
 city: dearborn-heights
-status: draft
+status: approved
 seoTitle: Dearborn Heights Personal Injury Lawyers: Telegraph, Ford Road, Warren Avenue, and the 20th District Court
 seoDescription: Injured in Dearborn Heights? ATLAW’s personal injury lawyers, minutes away in Dearborn, handle Telegraph, Ford Road, and Michigan Avenue crashes, Warren Avenue pedestrian injuries, Hines Drive crashes, falls, and no-fault claims, with the 20th District and Third Circuit courts, Corewell Health Dearborn and Garden City Hospital, and the deadlines that apply.
 h1: Personal Injury Law Firm Serving Dearborn Heights, MI

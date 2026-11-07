@@ -2,7 +2,7 @@
 slug: wrongful-death
 section: personal-injury
 city: taylor
-status: draft
+status: approved
 seoTitle: Taylor, MI Wrongful Death Lawyer: Who Files, What the Family Recovers, and the Wayne County Probate Step
 seoDescription: When a family member dies in Taylor because of someone’s negligence, Michigan law gives the claim to the estate, not the family directly. Taylor had 12 crash deaths in 2024. This page covers how the Wayne County Probate Court appointment works, what the family can recover, no-fault survivor’s loss benefits, workplace and hospital deaths, which agency owns the road, and the deadlines, including the shorter ones. Free, confidential consultation. (313) 406-7606.
 h1: Taylor, MI Wrongful Death Lawyer

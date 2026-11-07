@@ -2,7 +2,7 @@
 slug: areas-served
 section: areas-served
 city: ypsilanti
-status: draft
+status: approved
 seoTitle: Personal Injury Law Firm Serving Ypsilanti, MI: City and Township Claims, Washtenaw and Michigan Avenues, Eastern Michigan University, and the Right District Court
 seoDescription: Injured in Ypsilanti? The city and the township had 1,907 crashes between them in 2024, and Hamilton and Washtenaw was the county’s top crash intersection. Covers who owns the road in the city and in the township, why a claim against EMU goes to the Court of Claims, Trinity Health Ann Arbor and U-M trauma care, Ford Lake, and which district court hears your case. Free review. (313) 406-7606.
 h1: Personal Injury Law Firm Serving Ypsilanti, MI

@@ -2,7 +2,7 @@
 slug: areas-served
 section: areas-served
 city: novi
-status: draft
+status: approved
 seoTitle: Novi Personal Injury Lawyers: I-96, Twelve Oaks, Novi Road, and the 52-1 District Court
 seoDescription: Injured in Novi? ATLAW’s personal injury lawyers handle I-96, I-275, and M-5 crashes, Twelve Oaks and Novi Road retail-corridor injuries, warehouse and expo-center claims, and no-fault claims in a high-coverage city where underinsured motorist sequencing decides serious cases. 52-1 District and Sixth Circuit courts; Ascension Providence Novi.
 h1: Personal Injury Law Firm Serving Novi, MI

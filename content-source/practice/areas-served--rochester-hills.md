@@ -2,7 +2,7 @@
 slug: areas-served
 section: areas-served
 city: rochester-hills
-status: draft
+status: approved
 seoTitle: Rochester Hills Personal Injury Lawyers: M-59, Rochester Road, Oakland University, and the 52-3 District Court
 seoDescription: Injured in Rochester Hills? ATLAW’s personal injury lawyers handle M-59, Rochester Road, and Adams crashes, Oakland University pedestrian and campus claims, trail and bicycle injuries, falls, and no-fault claims in a high-coverage city where underinsured motorist sequencing decides serious cases. 52-3 District and Sixth Circuit courts; Henry Ford Rochester Hospital.
 h1: Personal Injury Law Firm Serving Rochester Hills, MI

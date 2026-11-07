@@ -2,7 +2,7 @@
 slug: workers-compensation
 section: personal-injury
 city: livonia
-status: draft
+status: approved
 seoTitle: Livonia Workers’ Comp Lawyer: Plant, Warehouse, Hospital, and Retail Injuries, Benefits, Denials, and When You Can Also Sue
 seoDescription: Hurt at work in Livonia, at a plant or warehouse on Plymouth Road, the hospital, a school, or a Laurel Park store? Michigan workers’ comp owes you 80 percent of your after-tax wage and all medical care. The benefits, the 90-day notice, the 28-day doctor rule, staffing-agency workers, and the third-party suit comp does not bar. Free review. (313) 406-7606.
 h1: Livonia Workers’ Compensation Lawyer

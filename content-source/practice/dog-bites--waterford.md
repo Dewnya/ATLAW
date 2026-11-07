@@ -2,7 +2,7 @@
 slug: dog-bites
 section: personal-injury
 city: waterford
-status: draft
+status: approved
 seoTitle: Waterford, MI Dog Bite Lawyer: Michigan’s Strict Liability Statute, Waterford’s Breed Ordinance, Who Pays, and Children’s Claims
 seoDescription: Bitten by a dog in Waterford Township? The owner is liable even if the dog never bit before, and the claim is usually paid by homeowner’s or renter’s insurance. Who to call, MCL 287.351, the provocation defense, what Waterford’s pit bull ordinance does and does not change, lake homes and docks, landlords, delivery workers, children’s claims, and the deadlines. Free review. (313) 406-7606.
 h1: Waterford, MI Dog Bite Lawyer

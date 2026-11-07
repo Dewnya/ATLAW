@@ -1,7 +1,7 @@
 ---
 slug: nursing-home-abuse
 section: personal-injury
-status: draft
+status: approved
 seoTitle: Michigan Nursing Home Abuse Lawyer – Neglect & Injury Claims
 seoDescription: Suspect abuse or neglect in a Michigan nursing home? ATLAW explains the warning signs, how to report, the deadlines (2 or 3 years), and how arbitration clauses are handled. Free review.
 h1: Michigan Nursing Home Abuse Lawyer

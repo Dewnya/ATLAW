@@ -2,7 +2,7 @@
 slug: workers-compensation
 section: personal-injury
 city: farmington-hills
-status: draft
+status: approved
 seoTitle: Farmington Hills Workers’ Comp Lawyer: Office, Engineering, Hospital, Senior Care, and Retail Injuries, Benefits, Denials, and When You Can Also Sue
 seoDescription: Hurt at work in Farmington Hills, at an office or engineering campus on Twelve Mile, the hospital, a senior care community, a store, or a job site? Michigan workers’ comp owes you 80 percent of your after-tax wage up to a weekly maximum, and all medical care. The benefits, the cap for higher earners, the 90-day notice, the 28-day doctor rule, commuting and remote-work injuries, and the third-party suit comp does not bar. Free review. (313) 406-7606.
 h1: Farmington Hills Workers’ Compensation Lawyer

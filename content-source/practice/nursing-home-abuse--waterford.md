@@ -2,7 +2,7 @@
 slug: nursing-home-abuse
 section: personal-injury
 city: waterford
-status: draft
+status: approved
 seoTitle: Waterford, MI Nursing Home Abuse Lawyer: Neglect, Understaffing, Falls, Assisted Living, Guardianship, and the Two Deadlines
 seoDescription: Suspect abuse or neglect of a parent in a Waterford Township nursing home or assisted living community? The staffing rules Michigan sets, where to report today, who can bring the claim when the resident cannot, the two-year and three-year deadlines, and the arbitration clause. Free, confidential review. (313) 406-7606.
 h1: Waterford, MI Nursing Home Abuse Lawyer

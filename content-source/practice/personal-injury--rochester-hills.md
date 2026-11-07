@@ -2,7 +2,7 @@
 slug: personal-injury
 section: personal-injury
 city: rochester-hills
-status: draft
+status: approved
 seoTitle: Rochester Hills, MI Personal Injury Lawyer: How a Claim Works, Who You Claim Against, the 52-3 District Court, and What It Costs
 seoDescription: Hurt in Rochester Hills or Rochester? This page explains how an injury claim works here: the deadlines; the insurers and underinsured motorist coverage; why a Sheriff’s crash is a claim against Oakland County and a campus injury is a claim against the State; City, county, and state roads; trails; the 52-3 District and Sixth Circuit courts; how damages are valued; and the one-third fee cap. ATLAW: 13 years, more than 10,000 cases. Free review. (313) 406-7606.
 h1: Rochester Hills, MI Personal Injury Lawyer

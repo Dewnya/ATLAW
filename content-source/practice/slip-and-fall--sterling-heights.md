@@ -2,7 +2,7 @@
 slug: slip-and-fall
 section: personal-injury
 city: sterling-heights
-status: draft
+status: approved
 seoTitle: Sterling Heights Slip and Fall Lawyer: Hall Road Stores, Apartments, Plants, Sidewalks, and Michigan Law After 2023
 seoDescription: Hurt in a fall in Sterling Heights? Since 2023, an “obvious” hazard no longer ends a Michigan fall case. Who is liable at a Hall Road store, an apartment or condominium complex, a plant, or a school, the 120-day notice to the City, snow and ice, and when a parking-lot fall is covered by no-fault. Free review. (313) 406-7606.
 h1: Sterling Heights Slip and Fall Lawyer

@@ -2,7 +2,7 @@
 slug: auto-accidents
 section: personal-injury
 city: dearborn
-status: draft
+status: approved
 seoTitle: Dearborn Car Accident Lawyer on Michigan Avenue: No-Fault Benefits, Uninsured Drivers, and the 19th District Court
 seoDescription: Hurt in a car crash in Dearborn? ATLAW’s office is on Michigan Avenue, blocks from the 19th District Court. We explain who pays your bills under Michigan no-fault, what to do when the other driver is uninsured, which Dearborn roads are the State’s and which are the City’s, and the one-year and three-year deadlines. Free review. (313) 406-7606.
 h1: Dearborn Car Accident Lawyer

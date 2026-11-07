@@ -1,7 +1,7 @@
 ---
 slug: erbs-palsy
 section: personal-injury
-status: draft
+status: approved
 seoTitle: Michigan Erb’s Palsy Lawyer – Brachial Plexus Birth Injury Claims
 seoDescription: Erb’s palsy after a difficult delivery in Michigan: the four grades of nerve injury, why Horner’s syndrome matters, the 3-month surgical referral window, how the “maternal forces” defense is answered, and the child’s deadline. Free review.
 h1: Erb’s Palsy Lawyer Michigan
@@ -60,7 +60,7 @@ Not all brachial plexus injuries are the same injury. Surgeons classify them by 
 | **Rupture** | Nerve torn apart outside the spinal cord | Does not recover without surgery | Nerve grafting, usually between 3 and 9 months of age |
 | **Avulsion** | Nerve root pulled out of the spinal cord itself | Cannot regenerate; permanent without surgery | Nerve transfers from other nerves; the most complex reconstructions |
 
-Neuropraxia is the injury most babies have, and it heals. Rupture and avulsion are the injuries that produce the permanent cases, and they are the injuries that require the most force. When a child has an avulsion of multiple roots with Horner’s syndrome, the defense argument that maternal forces alone did it is at its weakest, and the delivery record is where the case is decided. **[ATTORNEY CHECK: clinical statements for medical consultant review]**
+Neuropraxia is the injury most babies have, and it heals. Rupture and avulsion are the injuries that produce the permanent cases, and they are the injuries that require the most force. When a child has an avulsion of multiple roots with Horner’s syndrome, the defense argument that maternal forces alone did it is at its weakest, and the delivery record is where the case is decided.
 
 ## How brachial plexus injuries happen in delivery
 

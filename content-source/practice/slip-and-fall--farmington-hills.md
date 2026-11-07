@@ -2,7 +2,7 @@
 slug: slip-and-fall
 section: personal-injury
 city: farmington-hills
-status: draft
+status: approved
 seoTitle: Farmington Hills Slip and Fall Lawyer: Office Campuses, Senior Communities, Orchard Lake and Grand River Stores, City Sidewalks, and Michigan Law After 2023
 seoDescription: Hurt in a fall in Farmington Hills? Since 2023, an “obvious” hazard no longer ends a Michigan fall case. Who is liable at an office campus, a store, an apartment, condominium, or senior community, or a school, why a sidewalk claim goes to the City even beside a county road, the 120-day notice, snow and ice, and when a parking-lot fall is covered by no-fault. Free review. (313) 406-7606.
 h1: Farmington Hills Slip and Fall Lawyer

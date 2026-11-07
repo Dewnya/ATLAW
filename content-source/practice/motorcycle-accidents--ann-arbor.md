@@ -2,7 +2,7 @@
 slug: motorcycle-accidents
 section: personal-injury
 city: ann-arbor
-status: draft
+status: approved
 seoTitle: Ann Arbor, MI Motorcycle Accident Lawyer: Who Pays a Rider’s Bills, Huron River Drive and the County Roads, Roundabouts, Campus Traffic, Students and Mopeds, University Vehicles, and the Helmet Rule
 seoDescription: Hurt on a motorcycle in Ann Arbor? Under Michigan no-fault a motorcycle is not a “motor vehicle,” which decides who pays your medical bills. 105 motorcycles were involved in Washtenaw County crashes in 2024, and 5 riders were killed. This page covers the rider priority rule, Huron River Drive and who owns the road, roundabouts, campus traffic, students and mopeds, University vehicles and the six-month notice, the helmet law, and the three-year suit deadline. Free review. (313) 406-7606.
 h1: Ann Arbor, MI Motorcycle Accident Lawyer

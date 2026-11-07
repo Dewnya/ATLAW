@@ -2,7 +2,7 @@
 slug: social-security-disability
 section: disability
 city: livonia
-status: draft
+status: approved
 seoTitle: Livonia Social Security Disability Lawyer: The Field Office, the Livonia Hearing Office, Denials, and 2027 Figures
 seoDescription: Looking for the Social Security office in Livonia, or denied disability benefits? Where to apply, the Livonia hearing office (57% approval, about 8 months’ wait), the 60-day appeal deadlines, how the five-step test treats physical work, union and LTD offsets, and the fee set by federal law. 2026 and 2027 figures. Free review. (313) 406-7606.
 h1: Livonia Social Security Disability Lawyer

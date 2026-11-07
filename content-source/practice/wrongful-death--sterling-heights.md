@@ -2,7 +2,7 @@
 slug: wrongful-death
 section: personal-injury
 city: sterling-heights
-status: draft
+status: approved
 seoTitle: Sterling Heights Wrongful Death Lawyer: Who Files, What the Family Recovers, and the Macomb County Probate Step
 seoDescription: When a family member dies in Sterling Heights because of someone’s negligence, Michigan law gives the claim to the estate, not the family directly. How the Macomb County Probate Court appointment works, what the family can recover, no-fault survivor’s loss benefits, plant and workplace deaths, and the deadlines, including the shorter ones. Free, confidential consultation. (313) 406-7606.
 h1: Sterling Heights Wrongful Death Lawyer

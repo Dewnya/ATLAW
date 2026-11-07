@@ -2,7 +2,7 @@
 slug: truck-accidents
 section: personal-injury
 city: westland
-status: draft
+status: approved
 seoTitle: Truck Accident Lawyer in Westland, MI: Michigan Avenue and Ford Road, the I-275 Ramps, Deliveries, the Federal Trucking Rules, and the Evidence That Expires
 seoDescription: Hit by a semi, box truck, or delivery truck in Westland? 3,916 heavy trucks and buses were involved in Wayne County crashes in 2024. Learn how the federal trucking rules, the carrier’s $750,000-plus insurance, underride guards, and Michigan no-fault apply to a crash on Michigan Avenue, Ford Road, or the I-275 ramps, which agency owns the road, and why the logs must be preserved within days. Free review. (313) 406-7606.
 h1: Westland, MI Truck Accident Lawyer

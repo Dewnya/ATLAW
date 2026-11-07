@@ -2,7 +2,7 @@
 slug: wrongful-death
 section: personal-injury
 city: livonia
-status: draft
+status: approved
 seoTitle: Livonia Wrongful Death Lawyer: Who Files, What the Family Recovers, and the Wayne County Probate Step
 seoDescription: When a family member dies in Livonia because of someone’s negligence, Michigan law gives the claim to the estate, not the family directly. How the Wayne County Probate Court appointment works, what the family can recover, no-fault survivor’s loss benefits, workplace and nursing home deaths, and the deadlines, including the shorter ones. Free, confidential consultation. (313) 406-7606.
 h1: Livonia Wrongful Death Lawyer

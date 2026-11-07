@@ -2,7 +2,7 @@
 slug: personal-injury
 section: personal-injury
 city: farmington-hills
-status: draft
+status: approved
 seoTitle: Farmington Hills Personal Injury Attorney: How a Farmington Hills Injury Claim Works, What It Is Worth, and What It Costs
 seoDescription: Hurt in Farmington Hills? How an injury claim works here: the deadlines, the insurers, road agencies, and employers involved, the 47th District and Oakland County courts, how damages are valued, and the one-third fee cap. ATLAW: 13 years, more than 10,000 cases. Free review. (313) 406-7606.
 h1: Farmington Hills Personal Injury Lawyer

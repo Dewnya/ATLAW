@@ -2,7 +2,7 @@
 slug: slip-and-fall
 section: personal-injury
 city: troy
-status: draft
+status: approved
 seoTitle: Troy, MI Slip and Fall Lawyer: Somerset, Oakland Mall, the Big Beaver Towers and Parking Structures, City Sidewalks, and Michigan Law After 2023
 seoDescription: Hurt in a fall in Troy, Michigan? Since 2023, an “obvious” hazard no longer ends a Michigan fall case. Who is liable at Somerset, Oakland Mall, an office tower or parking structure, a store, an apartment, condominium, or senior community, or a school, why a sidewalk claim goes to the City, the 120-day notice, escalators and elevators, snow and ice, and when a parking-lot fall is covered by no-fault. Free review. (313) 406-7606.
 h1: Troy, MI Slip and Fall Lawyer

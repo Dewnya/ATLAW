@@ -2,7 +2,7 @@
 slug: areas-served
 section: areas-served
 city: ann-arbor
-status: draft
+status: approved
 seoTitle: Personal Injury Law Firm Serving Ann Arbor, MI: Campus Streets, State Street and Washtenaw Avenue, University Claims, and the Courts on Huron Street
 seoDescription: Injured in Ann Arbor? 2,770 crashes in the city in 2024. Pedestrian and bicycle crashes around campus, Ann Arbor’s crosswalk rule, the State and Ellsworth roundabout, student rentals, football Saturdays, why a claim against the University of Michigan goes to the Court of Claims, Michigan Medicine and Trinity Health Ann Arbor, and the courts on Huron Street. Free review. (313) 406-7606.
 h1: Personal Injury Law Firm Serving Ann Arbor, MI

@@ -2,7 +2,7 @@
 slug: truck-accidents
 section: personal-injury
 city: pittsfield-township
-status: draft
+status: approved
 seoTitle: Truck Accident Attorney in Pittsfield Charter Township, MI: I-94 and US-23, Michigan Avenue to Saline, Store Deliveries on Carpenter and Ellsworth, County Weight Limits, the Federal Trucking Rules, and the Evidence That Expires
 seoDescription: Hit by a semi, box truck, or delivery truck in Pittsfield Township? 755 heavy trucks and buses were involved in Washtenaw County crashes in 2024, and the township recorded 148 interstate and 312 U.S.-route crashes. How the federal trucking rules, the carrier’s $750,000-plus insurance, Michigan no-fault, and the right road owner and court apply, and why the logs must be preserved within days. Free review. (313) 406-7606.
 h1: Pittsfield Township Truck Accident Lawyer

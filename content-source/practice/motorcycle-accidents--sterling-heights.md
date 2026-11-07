@@ -2,7 +2,7 @@
 slug: motorcycle-accidents
 section: personal-injury
 city: sterling-heights
-status: draft
+status: approved
 seoTitle: Sterling Heights Motorcycle Accident Lawyer: Who Pays a Rider’s Bills, Van Dyke and Hall Road, Road Defects, and the Helmet Rule
 seoDescription: Hurt on a motorcycle in Sterling Heights? Under Michigan no-fault a motorcycle is not a “motor vehicle,” which decides who pays your medical bills. The rider priority rule, left-turn crashes on Van Dyke, Hall Road, and the mile roads, the M-53 merge, potholes and the three road agencies, the helmet law, and the deadlines. Free review. (313) 406-7606.
 h1: Sterling Heights Motorcycle Accident Lawyer

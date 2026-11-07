@@ -2,7 +2,7 @@
 slug: personal-injury
 section: personal-injury
 city: livonia
-status: draft
+status: approved
 seoTitle: Livonia Personal Injury Attorney: How a Livonia Injury Claim Works, What It Is Worth, and What It Costs
 seoDescription: Hurt in Livonia? How a Livonia injury claim works: the deadlines, the insurers, road agencies, and employers involved, the 16th District and Third Circuit courts, how damages are valued, and the one-third fee cap. ATLAW: 13 years, more than 10,000 cases. Free review. (313) 406-7606.
 h1: Livonia Personal Injury Lawyer

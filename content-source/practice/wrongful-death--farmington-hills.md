@@ -2,7 +2,7 @@
 slug: wrongful-death
 section: personal-injury
 city: farmington-hills
-status: draft
+status: approved
 seoTitle: Farmington Hills Wrongful Death Lawyer: Who Files, What the Family Recovers, and the Oakland County Probate Step
 seoDescription: When a family member dies in Farmington Hills because of someone’s negligence, Michigan law gives the claim to the estate, not the family directly. How the Oakland County Probate Court appointment works, what the family can recover, no-fault survivor’s loss benefits, workplace, hospital, and nursing home deaths, and the deadlines, including the shorter ones. Free, confidential consultation. (313) 406-7606.
 h1: Farmington Hills Wrongful Death Lawyer

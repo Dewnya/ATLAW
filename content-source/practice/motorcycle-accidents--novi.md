@@ -2,7 +2,7 @@
 slug: motorcycle-accidents
 section: personal-injury
 city: novi
-status: draft
+status: approved
 seoTitle: Novi, MI Motorcycle Accident Lawyer: Who Pays a Rider’s Bills, I-96 and M-5 Merges, Retail Driveways, Deer, Road Defects, and the Helmet Rule
 seoDescription: Hurt on a motorcycle in Novi? Under Michigan no-fault a motorcycle is not a “motor vehicle,” which decides who pays your medical bills. This page covers the rider priority rule, merges on I-96, I-275, and M-5, left turns and driveways on Novi Road and Grand River, deer crashes with no PIP claim, which agency owns the road, the helmet law, and the deadlines. Free review. (313) 406-7606.
 h1: Novi, MI Motorcycle Accident Lawyer

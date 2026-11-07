@@ -2,7 +2,7 @@
 slug: wrongful-death
 section: personal-injury
 city: clinton-township
-status: draft
+status: approved
 seoTitle: Clinton Township Wrongful Death Lawyer: Who Files, What the Family Recovers, and the Macomb County Probate Step
 seoDescription: When a family member dies in Clinton Township because of someone’s negligence, Michigan law gives the claim to the estate, not the family directly. How the Macomb County Probate Court appointment works, what the family can recover, no-fault survivor’s loss benefits, workplace, hospital, and nursing home deaths, why the township is rarely the road defendant, and the deadlines, including the shorter ones. Free, confidential consultation. (313) 406-7606.
 h1: Clinton Township Wrongful Death Lawyer

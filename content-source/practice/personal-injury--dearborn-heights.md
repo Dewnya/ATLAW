@@ -2,7 +2,7 @@
 slug: personal-injury
 section: personal-injury
 city: dearborn-heights
-status: draft
+status: approved
 seoTitle: Dearborn Heights, MI Personal Injury Lawyer: How a Claim Works, Who You Claim Against, the 20th District Court, and What It Costs
 seoDescription: Hurt in Dearborn Heights? Learn how an injury claim works here: the deadlines; the insurers, the Assigned Claims Plan, and uninsured coverage; claims against landlords, stores, and contractors; the City’s sidewalks, buildings, and sewers and Wayne County’s roads and Hines Park; electrical injuries; the 20th District and Third Circuit courts; how damages are valued; and the one-third fee cap. ATLAW: 13 years, more than 10,000 cases. Free review. (313) 406-7606.
 h1: Dearborn Heights, MI Personal Injury Lawyer

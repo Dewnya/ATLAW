@@ -2,7 +2,7 @@
 slug: truck-accidents
 section: personal-injury
 city: taylor
-status: draft
+status: approved
 seoTitle: Truck Accident Lawyer in Taylor, MI: I-75, I-94, and Telegraph, the Federal Trucking Rules, the Carrier’s Insurance, and the Evidence That Expires
 seoDescription: Hit by a semi, box truck, or delivery van in Taylor? 3,916 heavy trucks and buses were involved in Wayne County crashes in 2024. How the federal trucking rules, the carrier’s $750,000-plus insurance, underride guards, and Michigan no-fault apply to a crash on I-75, I-94, Telegraph, or Eureka, which agency owns the road, and why the logs must be preserved within days. Free review. (313) 406-7606.
 h1: Taylor, MI Truck Accident Lawyer

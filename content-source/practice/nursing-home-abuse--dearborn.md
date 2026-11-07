@@ -2,7 +2,7 @@
 slug: nursing-home-abuse
 section: personal-injury
 city: dearborn
-status: draft
+status: approved
 seoTitle: Dearborn Nursing Home Abuse Lawyer: Neglect, Bedsores, Falls, Language, and the Two Deadlines
 seoDescription: Suspect abuse or neglect of a parent in a Dearborn nursing home or assisted living facility? ATLAW’s Dearborn office explains the federal and Michigan rules facilities must follow, a resident’s right to communication in their own language and to food that respects their faith, where to report today, the two-year and three-year deadlines, and the arbitration clause. Free review in English or Arabic. (313) 406-7606.
 h1: Dearborn Nursing Home Abuse Lawyer

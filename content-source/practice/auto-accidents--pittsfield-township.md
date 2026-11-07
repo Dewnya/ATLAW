@@ -2,7 +2,7 @@
 slug: auto-accidents
 section: personal-injury
 city: pittsfield-township
-status: draft
+status: approved
 seoTitle: Pittsfield Township Car Accident Lawyer: Carpenter Road, Washtenaw Avenue, Michigan Avenue, I-94 and US-23, Deer Crashes, Who Owns the Road, No-Fault, and the 14A-1 District Court
 seoDescription: Hurt in a car crash in Pittsfield Charter Township? The State Police recorded 1,143 crashes there in 2024, with 3 people killed and 29 seriously injured, and three of the county’s ten highest-crash intersections are on Carpenter Road. Covers who pays under no-fault, fault at the corridors and the freeway ramps, deer crashes, who owns the road, an Ann Arbor or Saline address on a township crash, and the 14A-1 District Court. Free review. (313) 406-7606.
 h1: Pittsfield Township Car Accident Lawyer

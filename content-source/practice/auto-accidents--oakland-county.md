@@ -2,7 +2,7 @@
 slug: auto-accidents
 section: personal-injury
 city: oakland-county
-status: draft
+status: approved
 seoTitle: Oakland County Car Accident Lawyer: No-Fault Benefits, Underinsured Drivers, and the Pontiac Courts
 seoDescription: Injured in a crash in Oakland County? ATLAW’s car accident lawyers explain who pays your bills under Michigan no-fault, how underinsured motorist coverage works when the other driver’s policy is too small, which Pontiac courts hear the case, and the one-year and three-year deadlines. 35,951 Oakland County crashes in 2024. Free review.
 h1: Oakland County Car Accident Lawyer

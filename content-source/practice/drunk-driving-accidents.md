@@ -1,7 +1,7 @@
 ---
 slug: drunk-driving-accidents
 section: personal-injury
-status: draft
+status: approved
 seoTitle: Michigan Drunk Driving Accident Lawyer – Victims’ Claims & Dram Shop
 seoDescription: Hit by a drunk driver in Michigan? You may have claims against the driver and the bar that served them, with a 120-day notice rule. ATLAW explains both, plus restitution. Free review.
 h1: Michigan Drunk Driving Accident Lawyer

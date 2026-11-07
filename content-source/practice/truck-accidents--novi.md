@@ -2,7 +2,7 @@
 slug: truck-accidents
 section: personal-injury
 city: novi
-status: draft
+status: approved
 seoTitle: Truck Accident Lawyer in Novi, MI: I-96 and I-275, the Warehouses, Loading Docks, the Federal Trucking Rules, and the Evidence That Expires
 seoDescription: Hit by a semi or delivery truck in Novi? 2,081 heavy trucks and buses were involved in Oakland County crashes in 2024, and more than a quarter of Novi’s crashes were on the interstates. Learn how the federal trucking rules, the carrier’s $750,000-plus insurance, underride guards, and Michigan no-fault apply to a crash on I-96, I-275, M-5, or at a warehouse driveway or dock, which agency owns the road, and why the logs must be preserved within days. Free review. (313) 406-7606.
 h1: Novi, MI Truck Accident Lawyer

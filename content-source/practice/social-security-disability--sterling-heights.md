@@ -2,7 +2,7 @@
 slug: social-security-disability
 section: disability
 city: sterling-heights
-status: draft
+status: approved
 seoTitle: Sterling Heights Social Security Disability Lawyer: The Local Office, Applications, Denials, Plant Work, and 2027 Figures
 seoDescription: Looking for the Social Security office in Sterling Heights, or denied disability benefits? Where to apply, the 60-day appeal deadlines, how the five-step test treats years of plant and line work, union disability and workers’ comp offsets, and the fee set by federal law. 2026 and 2027 figures. Free review. (313) 406-7606.
 h1: Sterling Heights Social Security Disability Lawyer

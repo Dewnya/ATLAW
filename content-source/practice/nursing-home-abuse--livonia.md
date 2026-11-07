@@ -2,7 +2,7 @@
 slug: nursing-home-abuse
 section: personal-injury
 city: livonia
-status: draft
+status: approved
 seoTitle: Livonia Nursing Home Abuse Lawyer: Neglect, Understaffing, Hidden Cameras, Guardianship, and the Two Deadlines
 seoDescription: Suspect abuse or neglect of a parent in one of Livonia’s nursing homes or assisted living communities? The staffing rules Michigan sets, where to report today, whether you can put a camera in the room, who can bring the claim when the resident cannot, the two-year and three-year deadlines, and the arbitration clause. Free, confidential review. (313) 406-7606.
 h1: Livonia Nursing Home Abuse Lawyer

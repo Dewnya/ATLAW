@@ -2,7 +2,7 @@
 slug: motorcycle-accidents
 section: personal-injury
 city: pittsfield-township
-status: draft
+status: approved
 seoTitle: Motorcycle Accident Lawyer in Pittsfield Charter Township, MI: Who Pays a Rider’s Bills, Left Turns on Carpenter and Washtenaw, Michigan Avenue to Saline, Deer, I-94 and US-23, Who Owns the Road, and the Helmet Rule
 seoDescription: Hurt on a motorcycle in Pittsfield Township? Under Michigan no-fault a motorcycle is not a “motor vehicle,” which decides who pays your medical bills. 5 riders were killed and 25 seriously injured in Washtenaw County crashes in 2024. The rider priority rule, left turns on Carpenter and Washtenaw, deer on Michigan Avenue and State Street, I-94 and US-23, who owns the road, the helmet law, and the three-year suit deadline. Free review. (313) 406-7606.
 h1: Pittsfield Township Motorcycle Accident Lawyer

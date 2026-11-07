@@ -2,7 +2,7 @@
 slug: dog-bites
 section: personal-injury
 city: ann-arbor
-status: draft
+status: approved
 seoTitle: Ann Arbor, MI Dog Bite Lawyer: Reporting a Bite to Animal Control, Michigan’s Strict Liability Statute, Who Pays, Rentals and Students, Dog Parks and Trails, Delivery Workers, and Children’s Claims
 seoDescription: Bitten by a dog in Ann Arbor? How to report it (Ann Arbor Police and the Humane Society of Huron Valley), why the owner is liable even if the dog never bit before, the provocation defense, homeowner’s and renter’s insurance, student rentals and landlords, dog parks and the Border-to-Border Trail, delivery and postal workers, children’s claims, and the deadlines. Free review. (313) 406-7606.
 h1: Ann Arbor, MI Dog Bite Lawyer

@@ -2,7 +2,7 @@
 slug: truck-accidents
 section: personal-injury
 city: oakland-county
-status: draft
+status: approved
 seoTitle: Oakland County Truck Accident Lawyer: I-75, I-696, Gravel Trains, and the Records That Expire in Months
 seoDescription: Hit by a semi or gravel train in Oakland County? 2,081 trucks and buses were in Oakland County crashes in 2024, up from 1,906 in 2023. ATLAW’s truck accident lawyers explain the federal rules, the carrier’s insurance, Michigan no-fault, the Pontiac courts, and why the preservation letter must go out in days.
 h1: Oakland County Truck Accident Lawyer

@@ -2,7 +2,7 @@
 slug: nursing-home-abuse
 section: personal-injury
 city: sterling-heights
-status: draft
+status: approved
 seoTitle: Sterling Heights Nursing Home Abuse Lawyer: Neglect, Understaffing, Falls, Guardianship, and the Two Deadlines
 seoDescription: Suspect abuse or neglect of a parent in a Sterling Heights nursing home or assisted living community? The staffing rules Michigan sets, where to report today, who can bring the claim when the resident cannot, the two-year and three-year deadlines, and the arbitration clause. Free, confidential review. (313) 406-7606.
 h1: Sterling Heights Nursing Home Abuse Lawyer

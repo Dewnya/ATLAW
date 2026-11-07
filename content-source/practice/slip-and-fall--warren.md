@@ -2,7 +2,7 @@
 slug: slip-and-fall
 section: personal-injury
 city: warren
-status: draft
+status: approved
 seoTitle: Warren Slip and Fall Lawyer: Stores, Apartments, Plants, Sidewalks, and Michigan Law After 2023
 seoDescription: Hurt in a fall in Warren? Since 2023, an “obvious” hazard no longer ends a Michigan fall case. Who is liable at a store, apartment complex, plant, or school, the 120-day notice to the City, snow and ice, and when a parking-lot fall is covered by no-fault. Free review. (313) 406-7606.
 h1: Warren Slip and Fall Lawyer

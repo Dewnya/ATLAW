@@ -2,7 +2,7 @@
 slug: wrongful-death
 section: personal-injury
 city: pontiac
-status: draft
+status: approved
 seoTitle: Pontiac, MI Wrongful Death Lawyer: Who Files, What the Family Recovers, and the Oakland County Probate Step
 seoDescription: When a family member dies in Pontiac because of someone’s negligence, Michigan law gives the claim to the estate, not the family directly. How the Oakland County Probate Court appointment works, what the family can recover, no-fault survivor’s loss benefits when the other driver had no insurance, workplace, hospital, and housing deaths, which agency owns the road, and the deadlines, including the shorter ones. Free, confidential consultation. (313) 406-7606.
 h1: Pontiac, MI Wrongful Death Lawyer

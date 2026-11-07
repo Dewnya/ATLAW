@@ -2,7 +2,7 @@
 slug: personal-injury
 section: personal-injury
 city: pittsfield-township
-status: draft
+status: approved
 seoTitle: Pittsfield Township Personal Injury Lawyer: How a Claim Works, Who Owns the Road, Apartments, Stores, and Bars, the Three Hospitals, the 14A-1 District Court, and What It Costs
 seoDescription: Injured in Pittsfield Charter Township? How a personal injury claim works from the first week to the check; why an Ann Arbor, Ypsilanti, or Saline address can hide a township claim; the Road Commission, MDOT, and township notices; landlords, stores, and bars; Trinity Health, U-M, and VA claims; the 14A-1 District Court; the one-third fee cap; and the deadlines. Free review. (313) 406-7606.
 h1: Pittsfield Township Personal Injury Lawyer

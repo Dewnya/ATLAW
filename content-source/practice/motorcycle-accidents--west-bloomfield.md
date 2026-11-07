@@ -2,7 +2,7 @@
 slug: motorcycle-accidents
 section: personal-injury
 city: west-bloomfield
-status: draft
+status: approved
 seoTitle: West Bloomfield, MI Motorcycle Accident Lawyer: Who Pays a Rider’s Bills, the Lake Roads, Deer, Roundabouts and Left Turns, Road Defects, and the Helmet Rule
 seoDescription: Hurt on a motorcycle in West Bloomfield? Under Michigan no-fault a motorcycle is not a “motor vehicle,” which decides who pays your medical bills. This page covers the rider priority rule, curves and driveways on the lake roads, deer crashes with no PIP claim, left turns and roundabouts on Orchard Lake Road and Maple, why a road claim goes to the Road Commission, the helmet law, and the deadlines. Free review. (313) 406-7606.
 h1: West Bloomfield, MI Motorcycle Accident Lawyer

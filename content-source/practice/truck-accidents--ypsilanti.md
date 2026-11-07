@@ -2,7 +2,7 @@
 slug: truck-accidents
 section: personal-injury
 city: ypsilanti
-status: draft
+status: approved
 seoTitle: Truck Accident Lawyer in Ypsilanti, MI: I-94, Michigan Avenue and Ecorse Road, Willow Run Warehouses and Air Cargo, Downtown Deliveries, Township Weight Limits, the Federal Trucking Rules, and the Evidence That Expires
 seoDescription: Hit by a semi, box truck, or delivery truck in Ypsilanti or Ypsilanti Township? 755 heavy trucks and buses were involved in Washtenaw County crashes in 2024, and the township recorded 188 crashes on I-94. Learn how the federal trucking rules, the carrier’s $750,000-plus insurance, Michigan no-fault, and the right road owner and court apply in the city and the township, and why the logs must be preserved within days. Free review. (313) 406-7606.
 h1: Ypsilanti Truck Accident Lawyer

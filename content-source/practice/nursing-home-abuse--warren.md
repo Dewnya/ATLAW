@@ -2,7 +2,7 @@
 slug: nursing-home-abuse
 section: personal-injury
 city: warren
-status: draft
+status: approved
 seoTitle: Warren Nursing Home Abuse Lawyer: Neglect, Bedsores, Falls, Guardianship, and the Two Deadlines
 seoDescription: Suspect abuse or neglect of a parent in a Warren nursing home or assisted living facility? The federal and Michigan rules facilities must follow, where to report today, who can bring the claim when the resident cannot, the two-year and three-year deadlines, and the arbitration clause. Free, confidential review. (313) 406-7606.
 h1: Warren Nursing Home Abuse Lawyer

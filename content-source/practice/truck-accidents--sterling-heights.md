@@ -2,7 +2,7 @@
 slug: truck-accidents
 section: personal-injury
 city: sterling-heights
-status: draft
+status: approved
 seoTitle: Sterling Heights Truck Accident Lawyer: Mound Road, Van Dyke, M-59, the Plant Gates, and the Federal Trucking Rules
 seoDescription: Hit by a semi or delivery truck in Sterling Heights? 1,257 heavy trucks and buses were involved in Macomb County crashes in 2024. How the federal trucking rules, the carrier’s insurance, the evidence that expires, and Michigan no-fault apply to a crash on Mound, Van Dyke, or Hall Road. Free review. (313) 406-7606.
 h1: Sterling Heights Truck Accident Lawyer

@@ -2,7 +2,7 @@
 slug: truck-accidents
 section: personal-injury
 city: dearborn-heights
-status: draft
+status: approved
 seoTitle: Truck Accident Lawyer in Dearborn Heights, MI: Telegraph and Michigan Avenue, Ford Road and Warren Deliveries, the Federal Trucking Rules, a Carrier’s Safety Record, and the Evidence That Expires
 seoDescription: Hit by a semi, box truck, or delivery truck in Dearborn Heights? 3,916 heavy trucks and buses were involved in Wayne County crashes in 2024. Learn how the federal trucking rules, the carrier’s $750,000-plus insurance, underride guards, and Michigan no-fault apply to a crash on Telegraph, Michigan Avenue, Ford Road, or Warren, how to check a carrier’s safety record, which agency owns the road, and why the logs must be preserved within days. Free review. (313) 406-7606.
 h1: Dearborn Heights, MI Truck Accident Lawyer

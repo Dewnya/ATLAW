@@ -2,7 +2,7 @@
 slug: personal-injury
 section: personal-injury
 city: waterford
-status: draft
+status: approved
 seoTitle: Waterford, MI Personal Injury Attorney: How a Waterford Injury Claim Works, Who You Claim Against in a Township, and What It Costs
 seoDescription: Hurt in Waterford Township? How an injury claim works here: the deadlines, the insurers, road agencies, property owners, and boat owners involved, why the township is rarely the road defendant but is the sidewalk defendant, the 51st District and Oakland County courts, how damages are valued, and the one-third fee cap. ATLAW: 13 years, more than 10,000 cases. Free review. (313) 406-7606.
 h1: Waterford, MI Personal Injury Lawyer

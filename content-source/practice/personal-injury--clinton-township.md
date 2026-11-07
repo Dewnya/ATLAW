@@ -2,7 +2,7 @@
 slug: personal-injury
 section: personal-injury
 city: clinton-township
-status: draft
+status: approved
 seoTitle: Clinton Township Personal Injury Attorney: How a Clinton Township Injury Claim Works, What It Is Worth, and What It Costs
 seoDescription: Hurt in Clinton Township? How an injury claim works here: the deadlines, the insurers, road agencies, property owners, and employers involved, why the township is rarely the road defendant, the 41B District and Macomb County courts, how damages are valued, and the one-third fee cap. ATLAW: 13 years, more than 10,000 cases. Free review. (313) 406-7606.
 h1: Clinton Township Personal Injury Lawyer

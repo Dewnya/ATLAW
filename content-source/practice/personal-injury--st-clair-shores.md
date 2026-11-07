@@ -2,7 +2,7 @@
 slug: personal-injury
 section: personal-injury
 city: st-clair-shores
-status: draft
+status: approved
 seoTitle: St. Clair Shores, MI Personal Injury Lawyer: How a Claim Works, Boating and Marina Injuries on Lake St. Clair, Bars, Landlords, the 40th District Court, and What It Costs
 seoDescription: Hurt in St. Clair Shores or on Lake St. Clair? Learn how an injury claim works here: the deadlines; no-fault and uninsured coverage; claims against bars, landlords, stores, and marinas; boating and jet-ski injuries under Michigan and federal maritime law; the City’s sidewalks, parks, and sewers and the county’s roads; the 40th District and Sixteenth Circuit courts; how damages are valued; and the one-third fee cap. ATLAW: 13 years, more than 10,000 cases. Free review. (313) 406-7606.
 h1: St. Clair Shores, MI Personal Injury Lawyer

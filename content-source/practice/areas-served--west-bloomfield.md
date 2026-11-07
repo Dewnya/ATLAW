@@ -2,7 +2,7 @@
 slug: areas-served
 section: areas-served
 city: west-bloomfield
-status: draft
+status: approved
 seoTitle: West Bloomfield Personal Injury Lawyers: Orchard Lake Road, Maple, the Lakes, and the 48th District Court
 seoDescription: Injured in West Bloomfield? ATLAW’s personal injury lawyers handle Orchard Lake Road and Maple crashes, lake and boating injuries, falls, and no-fault claims in a high-coverage township that owns none of its own roads: the road-defect claim goes to the Road Commission, with a 120-day notice. 48th District and Sixth Circuit courts; Henry Ford West Bloomfield.
 h1: Personal Injury Law Firm Serving West Bloomfield, MI

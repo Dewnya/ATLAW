@@ -2,7 +2,7 @@
 slug: truck-accidents
 section: personal-injury
 city: west-bloomfield
-status: draft
+status: approved
 seoTitle: Truck Accident Lawyer in West Bloomfield, MI: Delivery, Construction, Dump, and Landscape Trucks on Orchard Lake Road, Maple, and the Lake Roads, and the Rules That Apply
 seoDescription: Hit by a delivery truck, dump truck, construction truck, or a pickup towing a landscape trailer in West Bloomfield? 2,081 heavy trucks and buses were involved in Oakland County crashes in 2024. Learn when the federal trucking rules apply, the carrier’s insurance, unsecured loads and trailer hitches, seasonal weight limits on county roads, Michigan no-fault, why the road claim goes to the Road Commission, and why the evidence must be preserved within days. Free review. (313) 406-7606.
 h1: West Bloomfield, MI Truck Accident Lawyer

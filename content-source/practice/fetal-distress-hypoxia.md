@@ -1,7 +1,7 @@
 ---
 slug: fetal-distress-hypoxia
 section: personal-injury
-status: draft
+status: approved
 seoTitle: Michigan Fetal Distress Lawsuit – Failure to Monitor or Act in Labor
 seoDescription: Fetal distress during labor in Michigan: how to read the three monitoring categories, what the nurses and doctor were required to do and when, the 30-minute cesarean standard, how the strip is preserved, and the child’s deadline. Free review.
 h1: Fetal Distress Lawsuit Michigan
@@ -59,7 +59,7 @@ Since 2008, every tracing is classified into one of three categories, and the st
 
 **Intrauterine resuscitation** is the set of measures a nurse can and must begin without waiting for a physician: turning the mother on her side, giving intravenous fluids, giving oxygen, stopping the oxytocin, treating low maternal blood pressure, and, for recurrent variable decelerations, infusing fluid into the uterus (amnioinfusion). If the pattern persists, the physician may give terbutaline to relax the uterus, and may test the baby by scalp stimulation, which should produce an acceleration if the baby is not acidotic.
 
-The most common failures we see in Michigan records are not exotic. They are a Category II tracing with minimal variability and recurrent late decelerations that was documented every thirty minutes for three hours while the oxytocin kept running, a physician who was called and did not come to the bedside, a nurse who was uneasy and did not go over the physician’s head, and a cesarean that was called at 2:10 and started at 3:05. **[ATTORNEY CHECK: clinical statements for medical consultant review]**
+The most common failures we see in Michigan records are not exotic. They are a Category II tracing with minimal variability and recurrent late decelerations that was documented every thirty minutes for three hours while the oxytocin kept running, a physician who was called and did not come to the bedside, a nurse who was uneasy and did not go over the physician’s head, and a cesarean that was called at 2:10 and started at 3:05.
 
 ## The nurse’s duty, and the chain of command
 

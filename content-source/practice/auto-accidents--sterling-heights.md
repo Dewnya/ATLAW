@@ -2,7 +2,7 @@
 slug: auto-accidents
 section: personal-injury
 city: sterling-heights
-status: draft
+status: approved
 seoTitle: Sterling Heights Car Accident Lawyer: 18½ Mile at Van Dyke, Hall Road, No-Fault Benefits, and the 41A District Court
 seoDescription: Hurt in a car crash in Sterling Heights? 18½ Mile at Van Dyke recorded 210 crashes in 2025, more than any other Michigan intersection. Who pays your bills under no-fault, how a left-turn or signal dispute is decided, whose road it was, and the one-year and three-year deadlines. Free review. (313) 406-7606.
 h1: Sterling Heights Car Accident Lawyer

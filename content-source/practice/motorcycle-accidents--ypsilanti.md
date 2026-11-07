@@ -2,7 +2,7 @@
 slug: motorcycle-accidents
 section: personal-injury
 city: ypsilanti
-status: draft
+status: approved
 seoTitle: Ypsilanti Motorcycle Accident Lawyer: Who Pays a Rider’s Bills, Michigan and Washtenaw Avenues, the Downtown Grid, Huron River Drive and Ford Lake, Deer, EMU Students, and the Helmet Rule
 seoDescription: Hurt on a motorcycle in Ypsilanti or Ypsilanti Township? Under Michigan no-fault a motorcycle is not a “motor vehicle,” which decides who pays your medical bills. 5 riders were killed in Washtenaw County crashes in 2024. This page covers the rider priority rule, left turns on Michigan and Washtenaw Avenues, the downtown grid, deer and gravel on the township roads, EMU students and mopeds, who owns the road, the helmet law, and the three-year suit deadline. Free review. (313) 406-7606.
 h1: Ypsilanti Motorcycle Accident Lawyer

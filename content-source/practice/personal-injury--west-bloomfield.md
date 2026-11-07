@@ -2,7 +2,7 @@
 slug: personal-injury
 section: personal-injury
 city: west-bloomfield
-status: draft
+status: approved
 seoTitle: West Bloomfield, MI Personal Injury Lawyer: How a Claim Works, Who You Claim Against, the 48th District Court, and What It Costs
 seoDescription: Hurt in West Bloomfield? Learn how an injury claim works here: the deadlines; the insurers, umbrella policies, and underinsured coverage; the Road Commission, not the township, for road defects; the township for its pathways, buildings, police, and fire; boating, dock, and lake injuries; condominium and lake associations; the 48th District and Sixth Circuit courts; how damages are valued; and the one-third fee cap. ATLAW: 13 years, more than 10,000 cases. Free review. (313) 406-7606.
 h1: West Bloomfield, MI Personal Injury Lawyer

@@ -2,7 +2,7 @@
 slug: truck-accidents
 section: personal-injury
 city: wayne-county
-status: draft
+status: approved
 seoTitle: Wayne County Truck Accident Lawyer: Border Freight, I-94 and I-75, and the Evidence That Disappears in Weeks
 seoDescription: Hit by a semi in Wayne County? 3,916 trucks and buses were in Wayne County crashes in 2024, most on the I-94, I-75, and I-275 freight corridors to the Ambassador and Gordie Howe bridges. ATLAW’s Dearborn truck accident lawyers explain the federal rules, the carrier’s insurance, Michigan no-fault, and why the preservation letter must go out in days.
 h1: Wayne County Truck Accident Lawyer

@@ -2,7 +2,7 @@
 slug: truck-accidents
 section: personal-injury
 city: troy
-status: draft
+status: approved
 seoTitle: Troy, MI Truck Accident Lawyer: I-75, the Stephenson Highway and Maple Road Industrial Corridors, and the Federal Trucking Rules
 seoDescription: Hit by a semi or delivery truck in Troy, Michigan? 2,081 heavy trucks and buses were involved in Oakland County crashes in 2024. How the federal trucking rules, the carrier’s insurance, the evidence that expires, and Michigan no-fault apply to a crash on I-75, Stephenson Highway, Maple, or Big Beaver. Free review. (313) 406-7606.
 h1: Troy, MI Truck Accident Lawyer

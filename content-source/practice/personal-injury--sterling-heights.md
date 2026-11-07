@@ -2,7 +2,7 @@
 slug: personal-injury
 section: personal-injury
 city: sterling-heights
-status: draft
+status: approved
 seoTitle: Sterling Heights Personal Injury Lawyer: How a Sterling Heights Injury Claim Works, What It Is Worth, and What It Costs
 seoDescription: Hurt in Sterling Heights? How a Sterling Heights injury claim works: the deadlines, the insurers, road agencies, and employers involved, the 41A District and Sixteenth Circuit courts, how damages are valued, and the one-third fee cap. ATLAW: 13 years, more than 10,000 cases. Free review. (313) 406-7606.
 h1: Sterling Heights Personal Injury Lawyer

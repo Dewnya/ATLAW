@@ -2,7 +2,7 @@
 slug: personal-injury
 section: personal-injury
 city: troy
-status: draft
+status: approved
 seoTitle: Troy, MI Personal Injury Attorney: How a Troy Injury Claim Works, What It Is Worth, and What It Costs
 seoDescription: Hurt in Troy, Michigan? How an injury claim works here: the deadlines, the insurers, road agencies, property owners, and employers involved, the 52-4 District and Oakland County courts, how damages are valued, and the one-third fee cap. ATLAW: 13 years, more than 10,000 cases. Free review. (313) 406-7606.
 h1: Troy, MI Personal Injury Lawyer

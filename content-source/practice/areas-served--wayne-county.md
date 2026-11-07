@@ -2,7 +2,7 @@
 slug: areas-served
 section: areas-served
 city: wayne-county
-status: draft
+status: approved
 seoTitle: Wayne County Personal Injury Lawyers: Detroit, Dearborn, and 41 More Communities
 seoDescription: ATLAW represents injured people across Wayne County from its Dearborn office: car, truck, pedestrian, and premises cases in Detroit, Dearborn, Livonia, Canton, Taylor, Westland, and every Wayne County community, with 2024 crash data, the courts your case would be filed in, and the deadlines that apply.
 h1: Wayne County Personal Injury Lawyers

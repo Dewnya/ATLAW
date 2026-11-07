@@ -2,7 +2,7 @@
 slug: truck-accidents
 section: personal-injury
 city: macomb-county
-status: draft
+status: approved
 seoTitle: Macomb County Truck Accident Lawyer: Mound and Van Dyke Plant Freight, I-94, and the Records That Expire in Months
 seoDescription: Hit by a semi in Macomb County? 1,257 trucks and buses were in Macomb County crashes in 2024, concentrated on the Mound and Van Dyke plant corridor and I-94. ATLAW’s truck accident lawyers explain the federal rules, the carrier’s insurance, Michigan no-fault, the Mount Clemens courts, and why the preservation letter must go out in days.
 h1: Macomb County Truck Accident Lawyer

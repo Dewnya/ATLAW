@@ -2,7 +2,7 @@
 slug: auto-accidents
 section: personal-injury
 city: warren
-status: draft
+status: approved
 seoTitle: Warren Car Accident Lawyer: Van Dyke at 11 Mile, Mound Road, No-Fault Benefits, and the 37th District Court
 seoDescription: Hurt in a car crash in Warren? 11 Mile at Van Dyke recorded 180 crashes in 2025, the second-highest count of any Michigan intersection. Who pays your bills under no-fault, how a left-turn or signal dispute is decided, whose road it was, and the one-year and three-year deadlines. Free review. (313) 406-7606.
 h1: Warren Car Accident Lawyer

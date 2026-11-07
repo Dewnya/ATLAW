@@ -2,7 +2,7 @@
 slug: motorcycle-accidents
 section: personal-injury
 city: macomb-township
-status: draft
+status: approved
 seoTitle: Macomb Township, MI Motorcycle Accident Lawyer: Who Pays a Rider’s Bills, Hall Road Michigan Lefts, Roundabouts, Gravel and Deer on the Mile Roads, Road Defects, and the Helmet Rule
 seoDescription: Hurt on a motorcycle in Macomb Township or anywhere with a Macomb, MI address? Under Michigan no-fault a motorcycle is not a “motor vehicle,” which decides who pays your medical bills. This page covers the rider priority rule, Michigan lefts on Hall Road, roundabouts, gravel, mud, and deer on the mile roads, single-vehicle crashes with no PIP claim, why Macomb County owns the roads, the helmet law, and the deadlines, including the three-year suit deadline. Free review. (313) 406-7606.
 h1: Macomb Township, MI Motorcycle Accident Lawyer
