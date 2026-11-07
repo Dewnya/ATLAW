@@ -934,6 +934,9 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - Import 276 / 248 approved, typecheck clean, 248 pages prerendered. The page is a draft, so nothing changes on the live site until it is approved
   - Done the same day for the other two hubs: Wayne County hub (published) "about 1.75 million" is now "about 1.77 million people (Census Bureau estimate, July 2025)" from the Vintage 2025 estimate of 1,769,038 (2020 census 1,793,561); Macomb County hub (draft) "about 880,000" is now "about 886,000 people (Census Bureau estimate, July 2025)" from 886,221 (2020 census 881,217). Both checked on census.gov QuickFacts Nov 7, 2026. No other page carries these county figures. Import 276 / 248 approved, typecheck clean, 248 pages prerendered. The Wayne change goes live with the next release
 
+- [x] Released `mo-dev` to `Yahia-Dev` a third time (Nov 7, 2026) — fast-forward push `29759a1..958ad36` over SSH; the Wayne County hub's 2025 population figure goes live (the Oakland and Macomb hubs are drafts, so their new figures wait for approval). `29759a1`, the firm's Nov 7 review corrections, was already on `Yahia-Dev` before this push
+  - Verified live by polling the prerendered Wayne County hub for "1.77 million" (Vercel's SPA fallback returns 200 for every route, so only page content proves a deploy)
+
 ### Open Questions
 
 - [ ] **PRE-LAUNCH — Text Us number.** Confirm with the firm whether (313) 406-7606 can receive SMS, or get a dedicated SMS number. Then set `SMS_NUMBER` in `src/data/contact.ts` (the Text buttons in the header and mobile bar appear automatically).
