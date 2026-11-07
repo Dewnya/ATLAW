@@ -1,15 +1,15 @@
 {
  "slug": "medical-malpractice",
  "section": "personal-injury",
- "city": "rochester-hills",
- "status": "draft",
- "seoTitle": "Rochester Hills, MI Medical Malpractice Lawyer: Henry Ford Rochester Hospital, Transfers, the Two-Year Deadline, Notice of Intent, and 2026 Caps",
- "seoDescription": "Harmed by a doctor, hospital, or clinic in Rochester Hills? Michigan malpractice law has a two-year deadline, a 182-day notice before suit, a sworn expert affidavit, and a cap on pain-and-suffering damages ($596,400 or $1,065,000 in 2026). This page explains how the rules apply to Henry Ford Rochester Hospital (formerly Ascension Providence Rochester), transfers to higher-level centers, contracted physician groups, Oakland University’s clinics, federally funded health centers, the VA, and nursing homes. Free review. (313) 406-7606.",
- "h1": "Rochester Hills, MI Medical Malpractice Lawyer",
- "tagline": "Michigan gives a malpractice victim two years, not three, and requires a written notice and an expert’s sworn affidavit before suit. In Rochester Hills, the first questions are which entity employed the provider, under what legal name at the time of care, and whether the harm happened at the local hospital or at the hospital that received the transfer.",
- "primaryKeyword": "medical malpractice lawyer rochester hills mi (40/mo)",
+ "city": "royal-oak",
+ "status": "approved",
+ "seoTitle": "Royal Oak, MI Medical Malpractice Lawyer: Corewell Health William Beaumont University Hospital, Transfers, the Two-Year Deadline, Notice of Intent, and 2026 Caps",
+ "seoDescription": "Harmed by a doctor, hospital, or clinic in Royal Oak? Michigan malpractice law has a two-year deadline, a 182-day notice before suit, a sworn expert affidavit, and a cap on pain-and-suffering damages ($596,400 or $1,065,000 in 2026). This page explains how the rules apply to Corewell Health William Beaumont University Hospital (formerly Beaumont Hospital, Royal Oak), residents and supervision at a teaching hospital, transfers from other hospitals, children’s care, contracted physician groups, federally funded health centers, the VA, and nursing homes. Free review. (313) 406-7606.",
+ "h1": "Royal Oak, MI Medical Malpractice Lawyer",
+ "tagline": "Michigan gives a malpractice victim two years, not three, and requires a written notice and an expert’s sworn affidavit before suit. In Royal Oak, the first questions are which entity employed each provider, under what legal name at the time of care, and where in a chain of transfers the harm happened.",
+ "primaryKeyword": "royal oak medical malpractice lawyer (tracker term; no measured volume)",
  "secondaryKeywords": [
-  "rochester hills medical malpractice lawyer; henry ford rochester hospital malpractice (long tail); ascension providence rochester malpractice (long tail)"
+  "medical malpractice attorney royal oak mi; medical malpractice lawyer oakland county (10/mo); beaumont royal oak malpractice (long tail); corewell health royal oak malpractice (long tail)"
  ],
  "intro": [
   {
@@ -70,20 +70,20 @@
    "c": [
     {
      "t": "text",
-     "v": "For a Rochester Hills patient, the first question is who the defendant is. The city’s hospital is "
+     "v": "For a Royal Oak patient, the first question is who the defendant is. The city’s hospital is "
     },
     {
      "t": "strong",
      "c": [
       {
        "t": "text",
-       "v": "Henry Ford Rochester Hospital"
+       "v": "Corewell Health William Beaumont University Hospital"
       }
      ]
     },
     {
      "t": "text",
-     "v": " at 1101 W. University Drive, which describes itself as a Level III Adult Trauma Center with 24-hour emergency services. Most patients know it by its former names: Ascension Providence Rochester Hospital, and before that Crittenton Hospital."
+     "v": " at 3601 W. Thirteen Mile Road. It is a Level I adult trauma center and a Level II pediatric trauma center, with a children’s hospital inside it. It was William Beaumont Hospital, and many patients still know it as Beaumont, or Beaumont Hospital, Royal Oak. It is also a teaching hospital: residents and fellows treat patients under the supervision of attending physicians."
     }
    ]
   },
@@ -92,7 +92,16 @@
    "c": [
     {
      "t": "text",
-     "v": "The most serious injuries and illnesses are often transferred to a higher-level center:"
+     "v": "Because it is a Level I center, the hospital receives patients from across southeast Michigan, many of them transferred from another hospital. A Royal Oak malpractice case can begin in another county and end here, or the reverse."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "Day-to-day care happens in other places too:"
     }
    ]
   },
@@ -102,13 +111,25 @@
     [
      {
       "t": "text",
-      "v": "McLaren Oakland or Trinity Health Oakland in Pontiac, both Level II trauma centers on the State’s list"
+      "v": "the medical office buildings on and around the Thirteen Mile campus"
      }
     ],
     [
      {
       "t": "text",
-      "v": "Corewell Health William Beaumont University Hospital in Royal Oak, the county’s Level I adult trauma center"
+      "v": "the practices along Woodward and downtown"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "urgent care clinics and outpatient surgery and imaging centers"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "community health centers, nursing homes, and senior residences"
      }
     ]
    ]
@@ -118,7 +139,7 @@
    "c": [
     {
      "t": "text",
-     "v": "Day-to-day care happens in the medical offices along University Drive, Rochester Road, and Walton; in urgent care clinics; in outpatient surgery and imaging centers; and in community health centers. Health-system-employed physicians practice alongside independent practices and separate physician groups. Each has its own legal entity, insurer, and notice address. A federally funded clinic is sued under federal law, on a different clock and in a different court. Oakland University’s clinics are the State’s."
+     "v": "Health-system-employed physicians practice alongside independent practices and separate physician groups. Each has its own legal entity, insurer, and notice address. A federally funded clinic is sued under federal law, on a different clock and in a different court."
     }
    ]
   },
@@ -209,11 +230,11 @@
      },
      {
       "t": "link",
-      "href": "/areas-served/rochester-hills",
+      "href": "/areas-served/royal-oak",
       "c": [
        {
         "t": "text",
-        "v": "Rochester Hills page"
+        "v": "Royal Oak page"
        }
       ]
      },
@@ -229,7 +250,20 @@
    "c": [
     {
      "t": "text",
-     "v": "The first conversation is free, in English, Arabic, French, Mandarin, Urdu, or Spanish: (313) 406-7606."
+     "v": "The first conversation is free: "
+    },
+    {
+     "t": "strong",
+     "c": [
+      {
+       "t": "text",
+       "v": "(313) 406-7606"
+      }
+     ]
+    },
+    {
+     "t": "text",
+     "v": "."
     }
    ]
   }
@@ -449,7 +483,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Economic damages are not capped. They include medical bills, lost earnings, and the cost of future care. The Affidavit of Merit is required by MCL 600.2912d, and MCL 600.2169 decides who is qualified to sign it."
+       "v": "Economic damages are not capped. They include medical bills, lost earnings, and the cost of future care. Michigan does not award punitive damages in malpractice cases. The Affidavit of Merit is required by MCL 600.2912d, and MCL 600.2169 decides who is qualified to sign it."
       }
      ]
     }
@@ -509,8 +543,8 @@
    ]
   },
   {
-   "id": "rochester-hills-providers-and-who-answers-for-each",
-   "heading": "Rochester Hills providers, and who answers for each",
+   "id": "royal-oak-providers-and-who-answers-for-each",
+   "heading": "Royal Oak providers, and who answers for each",
    "blocks": [
     {
      "t": "p",
@@ -520,27 +554,13 @@
        "c": [
         {
          "t": "text",
-         "v": "Henry Ford Rochester Hospital."
+         "v": "Corewell Health William Beaumont University Hospital."
         }
        ]
       },
       {
        "t": "text",
-       "v": " This is the city’s hospital, with its employed physicians, nurses, and staff. Its name and ownership have changed several times, most recently in the 2024 transaction that brought Ascension’s southeast Michigan hospitals into a joint venture with Henry Ford Health. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "VERIFY",
-         "v": ""
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " The correct legal entity for the Notice of Intent must be identified two ways:"
+       "v": " This is the city’s hospital, with its employed physicians, residents, nurses, and staff. Its name and ownership have changed. Beaumont Health and Spectrum Health combined on February 1, 2022, the system took the name Corewell Health in October 2022, and the hospital’s current name followed that rebrand. The correct legal entity for the Notice of Intent must be identified two ways:"
       }
      ]
     },
@@ -566,7 +586,51 @@
      "c": [
       {
        "t": "text",
-       "v": "Care given under the Ascension Providence or Crittenton name may involve an entity that no longer appears on the building, or a different one for care before and after the transaction. Claims against the hospital and its employed providers are filed in the Sixth Judicial Circuit Court (Oakland County Circuit Court) in Pontiac."
+       "v": "Care given under the Beaumont name may involve an entity name that differs from today’s. Claims against the hospital and its employed providers for care in Royal Oak are filed in the Sixth Judicial Circuit Court (Oakland County Circuit Court) in Pontiac."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Residents, fellows, and supervision."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " At a teaching hospital, the person at the bedside may be a resident or fellow in training. A resident is held to the standard of care for the specialty. Two questions come up in these cases:"
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "text",
+        "v": "whether the resident acted within the scope of training and was properly supervised"
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "whether the attending physician was available, was told, and responded"
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "The Notice of Intent may need to name the resident, the attending physician, and the employer of each. A medical student’s involvement, and whether a state university is implicated by it, is a separate question."
       }
      ]
     },
@@ -609,13 +673,13 @@
        "c": [
         {
          "t": "text",
-         "v": "Transfers to a higher-level center."
+         "v": "Transfers into Royal Oak."
         }
        ]
       },
       {
        "t": "text",
-       "v": " As a Level III center, Henry Ford Rochester stabilizes and transfers many major trauma, stroke, cardiac, and complex surgical patients. They may go to McLaren Oakland, Trinity Health Oakland, Corewell Health William Beaumont University Hospital, or another hospital in the patient’s system. A transfer case can involve two hospitals, two sets of physicians, and the transport between them. The question is which delay or decision caused the harm:"
+       "v": " As a Level I adult and Level II pediatric center, the hospital receives major trauma, stroke, cardiac, neonatal, and complex surgical patients from other hospitals. A transfer case can involve two hospitals, two sets of physicians, and the transport between them. The question is which delay or decision caused the harm:"
       }
      ]
     },
@@ -643,7 +707,7 @@
       [
        {
         "t": "text",
-        "v": "the care after arrival"
+        "v": "the care after arrival in Royal Oak"
        }
       ]
      ]
@@ -653,7 +717,7 @@
      "c": [
       {
        "t": "text",
-       "v": "All of these hospitals are in Oakland County, so the same circuit court hears them."
+       "v": "When the first hospital is in Wayne or Macomb County, the case may involve two counties’ circuit courts, and where to file becomes its own question (MCL 600.1629)."
       }
      ]
     },
@@ -665,13 +729,13 @@
        "c": [
         {
          "t": "text",
-         "v": "Corewell Health Troy and other nearby hospitals."
+         "v": "Children’s care."
         }
        ]
       },
       {
        "t": "text",
-       "v": " Many Rochester Hills residents are treated at Corewell Health Beaumont Troy Hospital, across the city line, or at hospitals in their own health plan’s network. The same Michigan rules apply. The defendant entity and the court are identified the same way."
+       "v": " Corewell Health Children’s operates within the Royal Oak hospital, including neonatal and pediatric intensive care. A child injured before age eight has until the tenth birthday to file, but the parents’ own claims, including for the child’s medical expenses before age 18, follow the ordinary two-year period."
       }
      ]
     },
@@ -689,21 +753,7 @@
       },
       {
        "t": "text",
-       "v": " This includes the primary-care and specialty practices around the hospital and along Rochester Road and Walton, urgent care clinics, and outpatient surgery, dialysis, and imaging centers. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "VERIFY",
-         "v": "outpatient centers in the city"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " Frequent claims are:"
+       "v": " This includes the primary-care and specialty practices on the hospital campus, along Woodward, and downtown; urgent care clinics; and outpatient surgery, dialysis, and imaging centers, among them Henry Ford Medical Center – Royal Oak on Second Street downtown, with its same-day care, imaging, and specialty clinics. Frequent claims are:"
       }
      ]
     },
@@ -747,45 +797,13 @@
        "c": [
         {
          "t": "text",
-         "v": "Oakland University’s clinics."
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " Oakland University is a state university, and its on-campus health clinic is part of it. A malpractice claim against a university-employed provider is not barred by governmental immunity (MCL 691.1407(4)). It proceeds against the State in the Court of Claims, decided by a judge, with the Court of Claims notice requirements in addition to the malpractice rules (MCL 600.6419, 600.6431). A claim against a private physician who teaches at the university’s medical school but practices for a private hospital is an ordinary Michigan malpractice claim."
-      }
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "text",
          "v": "Federally funded community health centers."
         }
        ]
       },
       {
        "t": "text",
-       "v": " Some Oakland County residents get primary, prenatal, and dental care at community health centers that receive federal Health Center Program funding. Providers at a funded center can be deemed federal employees for malpractice purposes. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "VERIFY",
-         "v": "deemed status of centers serving Rochester Hills, by name, at intake; do not name on the page"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " A claim against one follows the Federal Tort Claims Act, not Michigan procedure:"
+       "v": " Some Oakland County residents get primary, prenatal, and dental care at community health centers that receive federal Health Center Program funding. Providers at a funded center can be deemed federal employees for malpractice purposes. A claim against one follows the Federal Tort Claims Act, not Michigan procedure:"
       }
      ]
     },
@@ -835,7 +853,7 @@
       },
       {
        "t": "text",
-       "v": " Veterans treated at the John D. Dingell VA Medical Center in Detroit or a VA outpatient clinic have an FTCA claim on the same path. They may also qualify for disability compensation under 38 USC 1151 where the injury was caused by VA carelessness, negligence, or error, or by an event that was not reasonably foreseeable."
+       "v": " Veterans treated at the John D. Dingell VA Medical Center in Detroit or a VA outpatient clinic have an FTCA claim on the same path. They may also qualify for disability compensation under 38 USC 1151 where the injury was caused by VA carelessness, negligence, or error, or by an event that was not reasonably foreseeable. See our VA benefit claims page."
       }
      ]
     },
@@ -853,7 +871,7 @@
       },
       {
        "t": "text",
-       "v": " Rochester Hills’ emergency medical services, including ambulance transport, are provided by the Rochester Hills Fire Department. Claims against EMS personnel, and against the agency that employs them, public or private, including a private ambulance company handling a transfer between hospitals, are limited by the Emergency Medical Services Act to gross negligence or willful misconduct (MCL 333.20965(1))."
+       "v": " Royal Oak’s emergency medical services, including ambulance transport, are provided by the Royal Oak Fire Department. Claims against EMS personnel, and against the agency that employs them, public or private, including a private ambulance company handling a transfer between hospitals, are limited by the Emergency Medical Services Act to gross negligence or willful misconduct (MCL 333.20965(1))."
       }
      ]
     },
@@ -871,7 +889,7 @@
       },
       {
        "t": "text",
-       "v": " Rochester Hills has four Medicare-certified nursing homes, as well as assisted living and memory care communities and adult foster care homes. Which one it is decides whether the Notice of Intent, the two-year period, and the cap apply."
+       "v": " Royal Oak has one Medicare-certified nursing home, as well as assisted living and memory care communities and senior apartments. Which one it is decides whether the Notice of Intent, the two-year period, and the cap apply."
       }
      ]
     },
@@ -901,11 +919,11 @@
       },
       {
        "t": "link",
-       "href": "/personal-injury/nursing-home-abuse/rochester-hills",
+       "href": "/personal-injury/nursing-home-abuse",
        "c": [
         {
          "t": "text",
-         "v": "Rochester Hills nursing home abuse page"
+         "v": "nursing home abuse page"
         }
        ]
       },
@@ -950,8 +968,8 @@
    ]
   },
   {
-   "id": "the-rochester-hills-malpractice-cases-we-see",
-   "heading": "The Rochester Hills malpractice cases we see",
+   "id": "the-royal-oak-malpractice-cases-we-see",
+   "heading": "The Royal Oak malpractice cases we see",
    "blocks": [
     {
      "t": "ul",
@@ -968,7 +986,37 @@
        },
        {
         "t": "text",
-        "v": " missed stroke, heart attack, sepsis, pulmonary embolism, and bleeds; discharge without a needed test; triage delays; and a delayed transfer from a Level III center to a higher-level one."
+        "v": " missed stroke, heart attack, sepsis, pulmonary embolism, and bleeds; discharge without a needed test; triage delays in a busy Level I emergency department."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Transfer errors:"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " a delayed transfer from another hospital, a delay after arrival, or a handoff in which a test result or warning was lost."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Resident and supervision errors:"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": " a decision made without the attending physician, or an attending who was called and did not respond."
        }
       ],
       [
@@ -992,13 +1040,13 @@
         "c": [
          {
           "t": "text",
-          "v": "Birth injuries:"
+          "v": "Birth and newborn injuries:"
          }
         ]
        },
        {
         "t": "text",
-        "v": " delayed response to fetal distress, mismanaged shoulder dystocia, a delayed cesarean, and the "
+        "v": " delayed response to fetal distress, mismanaged shoulder dystocia, a delayed cesarean, errors in neonatal intensive care, and the "
        },
        {
         "t": "link",
@@ -1040,7 +1088,7 @@
        },
        {
         "t": "text",
-        "v": " injuries that follow. A child injured before age eight has until the tenth birthday; the parents’ own claims do not get that extension."
+        "v": " injuries that follow."
        }
       ],
       [
@@ -1133,11 +1181,11 @@
        },
        {
         "t": "link",
-        "href": "/personal-injury/wrongful-death/rochester-hills",
+        "href": "/personal-injury/wrongful-death/royal-oak",
         "c": [
          {
           "t": "text",
-          "v": "Rochester Hills wrongful death page"
+          "v": "Royal Oak wrongful death page"
          }
         ]
        },
@@ -1147,12 +1195,44 @@
        }
       ]
      ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Injured in a crash, then harmed by the care."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Some malpractice cases here begin as crash cases. A person seriously hurt on Woodward or I-696 is taken to the Level I center, and a missed injury or a surgical error makes the outcome worse. That creates two claims with different rules: the crash claim against the driver, with a three-year deadline and no-fault benefits, and the malpractice claim against the provider, with a two-year deadline and the Notice of Intent. No-fault PIP benefits keep paying the medical bills either way. See our "
+      },
+      {
+       "t": "link",
+       "href": "/personal-injury/auto-accidents/royal-oak",
+       "c": [
+        {
+         "t": "text",
+         "v": "Royal Oak car accident page"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": "."
+      }
+     ]
     }
    ]
   },
   {
-   "id": "how-a-rochester-hills-malpractice-case-proceeds",
-   "heading": "How a Rochester Hills malpractice case proceeds",
+   "id": "how-a-royal-oak-malpractice-case-proceeds",
+   "heading": "How a Royal Oak malpractice case proceeds",
    "blocks": [
     {
      "t": "ol",
@@ -1169,7 +1249,7 @@
        },
        {
         "t": "text",
-        "v": " including the electronic audit trail, requested from every provider promptly, under whatever name the provider used at the time of care."
+        "v": " including the electronic audit trail, requested from every provider promptly, under whatever name the provider used at the time of care. In a transfer case, that means both hospitals and the ambulance service."
        }
       ],
       [
@@ -1199,7 +1279,7 @@
        },
        {
         "t": "text",
-        "v": " A hospital entity, physician group, surgery center, urgent care operator, or independent practice goes to the Sixth Circuit for Oakland County care. Oakland University goes to the Court of Claims. A deemed clinic or the VA follows the SF-95 route to federal court. EMS is subject to the EMS Act’s gross-negligence standard. Serving a Notice of Intent on a federal provider while the federal two-year clock runs can lose the case."
+        "v": " A hospital entity, physician group, surgery center, urgent care operator, or independent practice goes to the Sixth Circuit for Oakland County care. A first hospital in another county may raise a venue question. A deemed clinic or the VA follows the SF-95 route to federal court. EMS is subject to the EMS Act’s gross-negligence standard. Serving a Notice of Intent on a federal provider while the federal two-year clock runs can lose the case."
        }
       ],
       [
@@ -1259,7 +1339,7 @@
        },
        {
         "t": "text",
-        "v": " Minors’ and estates’ settlements are approved by the court or the Oakland County Probate Court. Medicare, Medicaid, ERISA plan, and health plan liens are resolved before distribution."
+        "v": " Minors’ and estates’ settlements are approved by the court or the Oakland County Probate Court. Medicare, Medicaid, ERISA plan, health plan, and no-fault insurer liens are resolved before distribution. A large verdict is reduced to the cap on noneconomic damages unless the injury falls in a catastrophic category."
        }
       ]
      ]
@@ -1282,8 +1362,8 @@
    ]
   },
   {
-   "id": "deadlines-for-rochester-hills-medical-malpractice-claims",
-   "heading": "Deadlines for Rochester Hills medical malpractice claims",
+   "id": "deadlines-for-royal-oak-medical-malpractice-claims",
+   "heading": "Deadlines for Royal Oak medical malpractice claims",
    "blocks": [
     {
      "t": "table",
@@ -1392,26 +1472,6 @@
        [
         {
          "t": "text",
-         "v": "Oakland University provider"
-        }
-       ],
-       [
-        {
-         "t": "text",
-         "v": "Court of Claims notice within 6 months, plus the malpractice rules; this applies to claims against the university itself, and claims against individual physicians may proceed in circuit court"
-        }
-       ],
-       [
-        {
-         "t": "text",
-         "v": "MCL 600.6431"
-        }
-       ]
-      ],
-      [
-       [
-        {
-         "t": "text",
          "v": "Child injured before age 8"
         }
        ],
@@ -1445,6 +1505,26 @@
         {
          "t": "text",
          "v": "MCL 600.5805(8), 600.5852(4)"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Crash claim against the driver, if the malpractice followed a crash"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "3 years; no-fault benefits notice within 1 year"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.5805(2), 500.3145(1)"
         }
        ]
       ],
@@ -1493,8 +1573,8 @@
    ]
   },
   {
-   "id": "why-rochester-hills-patients-call-atlaw",
-   "heading": "Why Rochester Hills patients call ATLAW",
+   "id": "why-royal-oak-patients-call-atlaw",
+   "heading": "Why Royal Oak patients call ATLAW",
    "blocks": [
     {
      "t": "ul",
@@ -1508,7 +1588,13 @@
       [
        {
         "t": "text",
-        "v": "We identify the defendant and the forum before the Notice of Intent is written, including the hospital’s correct entity for the date of care. The defendant may be a hospital entity, physician group, surgery center, urgent care operator, independent practice, Oakland University, a federal clinic, the VA, or an EMS provider."
+        "v": "We identify the defendant and the forum before the Notice of Intent is written, including the hospital’s correct entity for the date of care. The defendant may be a hospital entity, a resident’s or physician’s employer, a physician group, a surgery center, an urgent care operator, an independent practice, a federal clinic, the VA, or an EMS provider."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "In a transfer case, we get both hospitals’ records and the transport record before deciding who is responsible."
        }
       ],
       [
@@ -1536,7 +1622,7 @@
  ],
  "faqs": [
   {
-   "question": "How long do I have to sue a doctor or hospital in Rochester Hills?",
+   "question": "How long do I have to sue a doctor or hospital in Royal Oak?",
    "answer": [
     {
      "t": "text",
@@ -1554,29 +1640,38 @@
    ]
   },
   {
-   "question": "My care was at “Ascension Providence Rochester” or “Crittenton.” Does the name change matter?",
+   "question": "My care was at “Beaumont Hospital, Royal Oak.” Does the name change matter?",
    "answer": [
     {
      "t": "text",
-     "v": "It can. The Notice of Intent and the complaint must name the legal entity responsible for your care at the time it was given. After the hospital’s transactions and rebranding, that may not be the name on the building today. We identify it from the records and the corporate filings."
+     "v": "It can. The Notice of Intent and the complaint must name the legal entity responsible for your care at the time it was given. After the 2022 combination and the renaming, that may not be the name on the building today. We identify it from the records and the corporate filings."
     }
    ]
   },
   {
-   "question": "I was seen at Henry Ford Rochester and transferred to another hospital. Which hospital is responsible?",
+   "question": "A resident, not my doctor, made the decision. Who is responsible?",
    "answer": [
     {
      "t": "text",
-     "v": "It depends on where the decision or delay that caused the harm happened: the first hospital’s diagnosis and decision to transfer, the transport, or the care after arrival. Each provider is a separate defendant with its own Notice of Intent."
+     "v": "A resident is held to the standard of care for the specialty. The resident’s employer, the supervising attending physician, and the hospital may all be responsible, depending on who knew what and when. Each is named in the Notice of Intent."
     }
    ]
   },
   {
-   "question": "I was treated at Oakland University’s clinic. Is that different?",
+   "question": "I was transferred to Royal Oak from another hospital. Which hospital is responsible?",
    "answer": [
     {
      "t": "text",
-     "v": "Yes. The university is the State, so the claim is filed in the Court of Claims and decided by a judge. Its notice requirements apply in addition to the malpractice rules."
+     "v": "It depends on where the decision or delay that caused the harm happened: the first hospital’s diagnosis and decision to transfer, the transport, or the care after arrival in Royal Oak. Each provider is a separate defendant with its own Notice of Intent."
+    }
+   ]
+  },
+  {
+   "question": "I was hurt in a crash and then something went wrong at the hospital. Is that one case or two?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "Usually two: a crash claim against the driver and a malpractice claim against the provider, with different deadlines and rules. Your no-fault insurer keeps paying the medical bills while both are pending."
     }
    ]
   },
@@ -1599,7 +1694,7 @@
    ]
   },
   {
-   "question": "My child was injured at birth. How long do we have?",
+   "question": "My child was injured at birth or in the NICU. How long do we have?",
    "answer": [
     {
      "t": "text",
@@ -1609,15 +1704,15 @@
   }
  ],
  "cta": {
-  "id": "talk-to-a-lawyer-about-medical-malpractice-in-rochester-hills",
-  "heading": "Talk to a lawyer about medical malpractice in Rochester Hills",
+  "id": "talk-to-a-lawyer-about-medical-malpractice-in-royal-oak",
+  "heading": "Talk to a lawyer about medical malpractice in Royal Oak",
   "blocks": [
    {
     "t": "p",
     "c": [
      {
       "t": "text",
-      "v": "If you or a family member was harmed by medical care in Rochester Hills, call "
+      "v": "If you or a family member was harmed by medical care in Royal Oak, call "
      },
      {
       "t": "strong",
@@ -1642,7 +1737,7 @@
       "c": [
        {
         "t": "text",
-        "v": "This page is general information about Michigan and federal law as of October 2026 and is not legal advice. Cap figures are from the Michigan Department of Treasury’s annual adjustment under MCL 600.1483. Henry Ford Rochester Hospital’s trauma level is as stated on Henry Ford Health’s location page; other trauma center levels are from the State of Michigan’s list dated July 31, 2026. Results depend on the facts of each case, and past results do not guarantee a future outcome."
+        "v": "This page is general information about Michigan and federal law as of October 2026 and is not legal advice. Cap figures are from the Michigan Department of Treasury’s annual adjustment under MCL 600.1483. Trauma center levels are as stated by Corewell Health. Results depend on the facts of each case, and past results do not guarantee a future outcome."
        }
       ]
      }
@@ -1650,10 +1745,10 @@
    }
   ]
  },
- "wordCount": 2752,
- "openItems": 3,
+ "wordCount": 2989,
+ "openItems": 0,
  "source": {
-  "file": "B4-19_Rochester-Hills-Medical-Malpractice-Lawyer.docx",
+  "file": "B4-26_Royal-Oak-Medical-Malpractice-Lawyer.docx",
   "delivered": "October 25, 2026 [CONFIRM: Batch 4 delivery date]"
  }
 }

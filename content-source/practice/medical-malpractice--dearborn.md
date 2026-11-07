@@ -2,7 +2,7 @@
 slug: medical-malpractice
 section: personal-injury
 city: dearborn
-status: draft
+status: approved
 seoTitle: Dearborn Medical Malpractice Lawyer: Two-Year Deadline, Notice of Intent, 2026 Caps, and Dearborn’s Providers
 seoDescription: Harmed by a doctor, hospital, or clinic in Dearborn? Michigan malpractice law has a two-year deadline, a 182-day notice before suit, a sworn expert affidavit, and a cap on pain-and-suffering damages ($596,400 or $1,065,000 in 2026). ATLAW’s Dearborn office explains the rules, Corewell Health Dearborn and the city’s clinics, and the different path for federally funded providers. Free review in English or Arabic. (313) 406-7606.
 h1: Dearborn Medical Malpractice Lawyer
@@ -28,7 +28,7 @@ ATLAW is a personal injury firm at 3 Parklane Boulevard in Dearborn, minutes fro
 | Notice of Intent before suit | 182 days; provider has 154 days to respond | MCL 600.2912b |
 | Affidavit of Merit | Filed with the complaint | MCL 600.2912d |
 | Expert qualification | Same specialty; same board certification if the defendant is certified; majority of professional time in that specialty in the prior year | MCL 600.2169 |
-| 2026 cap on noneconomic damages | $596,400 (standard) / $1,065,000 (catastrophic) | MCL 600.1483 **[VERIFY Treasury figures]** |
+| 2026 cap on noneconomic damages | $596,400 (standard) / $1,065,000 (catastrophic) | MCL 600.1483; Michigan Treasury notice, January 2026 |
 | Child injured before age 8 | Deadline runs to the 10th birthday | MCL 600.5851(7) |
 | Federally funded provider | Administrative claim (SF-95) within 2 years; suit after denial or 6 months | 28 USC 2401(b), 2675 |
 

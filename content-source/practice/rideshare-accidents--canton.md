@@ -2,7 +2,7 @@
 slug: rideshare-accidents
 section: personal-injury
 city: canton
-status: draft
+status: approved
 seoTitle: Canton, MI Uber & Lyft Accident Lawyer: Which Policy Pays, the $1 Million Coverage, and the I-275 Airport Run
 seoDescription: Hurt in an Uber or Lyft crash in Canton, Michigan, as a passenger, a driver, or in another car? Michigan law sets the rideshare insurance by what the app was doing: $1 million on a trip, state minimums while waiting, nothing when off. The three periods, who pays no-fault benefits, food-delivery drivers, and how to get the app data. Free review. (313) 406-7606.
 h1: Canton, MI Uber & Lyft Accident Lawyer
@@ -78,7 +78,7 @@ For pain and suffering and economic losses beyond no-fault, you need a threshold
 ## What to do after a Canton rideshare crash
 
 1. **Screenshot the app**: trip screen, driver, plate, route, time. If you are the driver, screenshot your status and the trip log.
-2. **Call 911 and get the police report** from Canton Public Safety, or the State Police on I-275. Give the officer the rideshare information so the UD-10 reflects it. **[VERIFY: report release]**
+2. **Call 911 and get the police report** from Canton Public Safety (free at its Records Bureau on Canton Center Road, or online through CLEMIS), or the State Police on I-275. Give the officer the rideshare information so the UD-10 reflects it.
 3. **Get medical care the same day.** Canton has no hospital of its own; many of the seriously injured go to Trinity Health Ann Arbor, Trinity Health Livonia, or University of Michigan Health.
 4. **Report the crash in the app** (both companies have in-app crash reporting), which creates a company record, and to your own insurer.
 5. **Do not give a recorded statement** to the rideshare company’s insurer or the other driver’s.

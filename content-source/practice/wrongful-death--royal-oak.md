@@ -2,7 +2,7 @@
 slug: wrongful-death
 section: personal-injury
 city: royal-oak
-status: draft
+status: approved
 seoTitle: Royal Oak, MI Wrongful Death Lawyer: Who Files, What the Family Recovers, and the Oakland County Probate Step
 seoDescription: When a family member dies in Royal Oak because of someone’s negligence, Michigan law gives the claim to the estate, not to the family directly. This page explains the Oakland County Probate Court appointment, what the family can recover, no-fault survivor’s loss benefits, underinsured coverage, dram shop claims against a bar, which agency owns the road, and the deadlines, including the shorter ones. Free, confidential consultation. (313) 406-7606.
 h1: Royal Oak, MI Wrongful Death Lawyer
@@ -47,7 +47,7 @@ The firm opens the estate in-house. We welcome clients to our Dearborn office fo
 
 | Measure | Figure | Source |
 | --- | --- | --- |
-| People killed in Royal Oak crashes, 2024 | 5 (in 2 fatal crashes) | MSP, Michigan Traffic Crash Facts 2024, Oakland County profile **[VERIFY]** |
+| People killed in Royal Oak crashes, 2024 | 5 (in 2 fatal crashes; four died in one crash on southbound I-75 at Lincoln in July 2024) | MSP, Michigan Traffic Crash Facts 2024, Oakland County profile |
 | People seriously injured in Royal Oak crashes, 2024 | 28 | Same |
 | Royal Oak crashes / alcohol-involved crashes, 2024 | 1,992 / 57 | Same |
 | People killed in Oakland County crashes, 2024 | 68 (Macomb: 70; Wayne: 177) | MSP 2024 |

@@ -2,7 +2,7 @@
 slug: medical-malpractice
 section: personal-injury
 city: southfield
-status: draft
+status: approved
 seoTitle: Southfield Medical Malpractice Lawyer: Two-Year Deadline, Notice of Intent, 2026 Caps, and Who the Defendant Is
 seoDescription: Harmed by a doctor, hospital, or clinic in Southfield? Michigan malpractice law has a two-year deadline, a 182-day notice before suit, a sworn expert affidavit, and a cap on pain-and-suffering damages ($596,400 or $1,065,000 in 2026). How the rules apply to Henry Ford Providence Southfield, the medical offices on Northwestern Highway and Twelve Mile, and federally funded clinics. Free review. (313) 406-7606.
 h1: Southfield Medical Malpractice Lawyer
@@ -29,7 +29,7 @@ ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parkla
 | Affidavit of Merit | Filed with the complaint | MCL 600.2912d |
 | Defendant’s Affidavit of Meritorious Defense | Within 91 days after the answer | MCL 600.2912e |
 | Expert qualification | Same specialty; same board certification if the defendant is certified; majority of professional time in that specialty in the year before | MCL 600.2169 |
-| 2026 cap on noneconomic damages | $596,400 (standard) / $1,065,000 (catastrophic) | MCL 600.1483 **[VERIFY Treasury figures]** |
+| 2026 cap on noneconomic damages | $596,400 (standard) / $1,065,000 (catastrophic) | MCL 600.1483; Michigan Treasury notice, January 2026 |
 | Child injured before age 8 | Deadline runs to the 10th birthday | MCL 600.5851(7) |
 | Federally funded provider | Administrative claim (SF-95) within 2 years; suit after denial or 6 months | 28 USC 2401(b), 2675 |
 

@@ -2,7 +2,7 @@
 slug: medical-malpractice
 section: personal-injury
 city: rochester-hills
-status: draft
+status: approved
 seoTitle: Rochester Hills, MI Medical Malpractice Lawyer: Henry Ford Rochester Hospital, Transfers, the Two-Year Deadline, Notice of Intent, and 2026 Caps
 seoDescription: Harmed by a doctor, hospital, or clinic in Rochester Hills? Michigan malpractice law has a two-year deadline, a 182-day notice before suit, a sworn expert affidavit, and a cap on pain-and-suffering damages ($596,400 or $1,065,000 in 2026). This page explains how the rules apply to Henry Ford Rochester Hospital (formerly Ascension Providence Rochester), transfers to higher-level centers, contracted physician groups, Oakland University’s clinics, federally funded health centers, the VA, and nursing homes. Free review. (313) 406-7606.
 h1: Rochester Hills, MI Medical Malpractice Lawyer
@@ -71,7 +71,7 @@ Michigan requires proof that the patient would have had a better outcome. A lost
 
 ## Rochester Hills providers, and who answers for each
 
-**Henry Ford Rochester Hospital.** This is the city’s hospital, with its employed physicians, nurses, and staff. Its name and ownership have changed several times, most recently in the 2024 transaction that brought Ascension’s southeast Michigan hospitals into a joint venture with Henry Ford Health. **[VERIFY]** The correct legal entity for the Notice of Intent must be identified two ways:
+**Henry Ford Rochester Hospital.** This is the city’s hospital, with its employed physicians, nurses, and staff. Its name and ownership have changed several times: Crittenton Hospital Medical Center joined Ascension in 2015, became Ascension Crittenton Hospital in 2017 and Ascension Providence Rochester Hospital in 2018, and took the Henry Ford name on October 1, 2024, when Ascension’s southeast Michigan hospitals entered a joint venture with Henry Ford Health. The correct legal entity for the Notice of Intent must be identified two ways:
 
 - from current corporate filings
 - from the name the hospital used at the time of care, not from today’s sign or letterhead
@@ -91,7 +91,7 @@ All of these hospitals are in Oakland County, so the same circuit court hears th
 
 **Corewell Health Troy and other nearby hospitals.** Many Rochester Hills residents are treated at Corewell Health Beaumont Troy Hospital, across the city line, or at hospitals in their own health plan’s network. The same Michigan rules apply. The defendant entity and the court are identified the same way.
 
-**Medical offices, urgent care, surgery centers, and imaging centers.** This includes the primary-care and specialty practices around the hospital and along Rochester Road and Walton, urgent care clinics, and outpatient surgery, dialysis, and imaging centers. **[VERIFY: outpatient centers in the city]** Frequent claims are:
+**Medical offices, urgent care, surgery centers, and imaging centers.** This includes the primary-care and specialty practices around the hospital and along Rochester Road and Walton, urgent care clinics, and outpatient surgery, dialysis, and imaging centers, among them Henry Ford’s cancer, imaging, and behavioral health sites and Corewell Health’s care center on North Rochester Road. Frequent claims are:
 
 - a delayed diagnosis in an office practice
 - a missed fracture or infection at urgent care
@@ -101,7 +101,7 @@ The employer of each provider who touched the chart must be identified. A health
 
 **Oakland University’s clinics.** Oakland University is a state university, and its on-campus health clinic is part of it. A malpractice claim against a university-employed provider is not barred by governmental immunity (MCL 691.1407(4)). It proceeds against the State in the Court of Claims, decided by a judge, with the Court of Claims notice requirements in addition to the malpractice rules (MCL 600.6419, 600.6431). A claim against a private physician who teaches at the university’s medical school but practices for a private hospital is an ordinary Michigan malpractice claim.
 
-**Federally funded community health centers.** Some Oakland County residents get primary, prenatal, and dental care at community health centers that receive federal Health Center Program funding. Providers at a funded center can be deemed federal employees for malpractice purposes. **[VERIFY: deemed status of centers serving Rochester Hills, by name, at intake; do not name on the page]** A claim against one follows the Federal Tort Claims Act, not Michigan procedure:
+**Federally funded community health centers.** Some Oakland County residents get primary, prenatal, and dental care at community health centers that receive federal Health Center Program funding. Providers at a funded center can be deemed federal employees for malpractice purposes. A claim against one follows the Federal Tort Claims Act, not Michigan procedure:
 
 - an administrative claim on Standard Form 95 to the Department of Health and Human Services, within two years (28 USC 2401(b))
 - no Notice of Intent

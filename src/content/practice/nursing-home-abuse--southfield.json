@@ -2,7 +2,7 @@
  "slug": "nursing-home-abuse",
  "section": "personal-injury",
  "city": "southfield",
- "status": "draft",
+ "status": "approved",
  "seoTitle": "Southfield Nursing Home Abuse Lawyer: Neglect, Bedsores, Falls, Guardianship, and the Two Deadlines",
  "seoDescription": "Suspect abuse or neglect of a parent in a Southfield nursing home or assisted living facility? The federal and Michigan rules facilities must follow, where to report today, who can bring the claim when the resident cannot, the two-year and three-year deadlines, and the arbitration clause. Free, confidential review. (313) 406-7606.",
  "h1": "Southfield Nursing Home Abuse Lawyer",
@@ -113,13 +113,13 @@
        [
         {
          "t": "text",
-         "v": "5"
+         "v": "4"
         }
        ],
        [
         {
          "t": "text",
-         "v": "CMS Care Compare"
+         "v": "CMS Care Compare, October 2026"
         }
        ]
       ],
@@ -133,7 +133,7 @@
        [
         {
          "t": "text",
-         "v": "2 of 5 rated 1 or 2 stars overall; 3 of 5 rated 1 or 2 stars on staffing (CMS data, September 2026)"
+         "v": "2 of 4 rated 1 or 2 stars overall; 1 of 4 rated 1 or 2 stars on staffing; 1 carries the CMS abuse icon (CMS data, October 2026)"
         }
        ],
        [
@@ -199,17 +199,7 @@
        [
         {
          "t": "text",
-         "v": "MCL 600.1483 "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "VERIFY",
-           "v": ""
-          }
-         ]
+         "v": "MCL 600.1483; Michigan Treasury notice, January 2026"
         }
        ]
       ],
@@ -1125,8 +1115,8 @@
    }
   ]
  },
- "wordCount": 2015,
- "openItems": 1,
+ "wordCount": 2026,
+ "openItems": 0,
  "source": {
   "file": "B3-10_Southfield-Nursing-Home-Abuse-Lawyer.docx",
   "delivered": "October 23, 2026 [CONFIRM: Batch 3 delivery date]"

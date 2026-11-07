@@ -2,7 +2,7 @@
  "slug": "slip-and-fall",
  "section": "personal-injury",
  "city": "pittsfield-township",
- "status": "draft",
+ "status": "approved",
  "seoTitle": "Pittsfield Township Slip and Fall Lawyer: Stores and Parking Lots, Apartments and Condos, the Township’s Sidewalk and Snow Ordinance, Rental Inspections, Ann Arbor Addresses, and Michigan Law After 2023",
  "seoDescription": "Hurt in a fall in Pittsfield Township? Since 2023, an “obvious” hazard no longer ends a Michigan fall case. Who is liable at a store, an apartment or condo complex, a parking lot, a public sidewalk, or a township building; what the township’s sidewalk and snow ordinance says about owners; rental inspections; why an Ann Arbor address may still be the township; the 120-day and six-month notices; and when a parking-lot fall is a no-fault claim. Free review. (313) 406-7606.",
  "h1": "Pittsfield Township Slip and Fall Lawyer",
@@ -680,19 +680,14 @@
        ],
        [
         {
-         "t": "strong",
-         "c": [
-          {
-           "t": "text",
-           "v": "[DATA: ACS 5-year estimates]"
-          }
-         ]
+         "t": "text",
+         "v": "About 38.3% of households rent; 14.7% of residents are 65 or older"
         }
        ],
        [
         {
          "t": "text",
-         "v": "U.S. Census Bureau"
+         "v": "U.S. Census Bureau QuickFacts (ACS 2020–2024)"
         }
        ]
       ]
@@ -2203,7 +2198,7 @@
    }
   ]
  },
- "wordCount": 3792,
+ "wordCount": 3803,
  "openItems": 0,
  "source": {
   "file": "B4-79_Pittsfield_Township_Slip_and_Fall_Lawyer.docx",

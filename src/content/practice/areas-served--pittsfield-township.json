@@ -2,7 +2,7 @@
  "slug": "areas-served",
  "section": "areas-served",
  "city": "pittsfield-township",
- "status": "draft",
+ "status": "approved",
  "seoTitle": "Personal Injury Law Firm Serving Pittsfield Charter Township, MI: Carpenter Road, Washtenaw Avenue, Michigan Avenue, and Who Owns the Road",
  "seoDescription": "Injured in Pittsfield Township? 1,143 crashes in 2024, and four of Washtenaw County’s ten highest-crash intersections, three of them on Carpenter Road. Covers who owns each road (the Road Commission, MDOT, or the township for sidewalks), the 120-day and six-month notices, Ann Arbor and Ypsilanti mailing addresses, trauma care at Trinity Health Ann Arbor and U-M, and the 14A-1 District Court on Washtenaw Avenue. Free review. (313) 406-7606.",
  "h1": "Personal Injury Law Firm Serving Pittsfield Township, MI",
@@ -911,21 +911,7 @@
       },
       {
        "t": "text",
-       "v": " TheRide runs routes on Washtenaw Avenue, Carpenter Road, State Street, and Packard. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "VERIFY",
-         "v": "current routes"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " A crash with a TheRide bus is a claim under the motor vehicle exception to governmental immunity (MCL 691.1405). A bus passenger’s no-fault benefits follow the bus-passenger priority rules (MCL 500.3114(2)). See our "
+       "v": " TheRide runs routes 4, 5, 6, 66, and 67 through the township, on Washtenaw Avenue, Packard, State Street, Ellsworth, and Carpenter Road. A crash with a TheRide bus is a claim under the motor vehicle exception to governmental immunity (MCL 691.1405). A bus passenger’s no-fault benefits follow the bus-passenger priority rules (MCL 500.3114(2)). See our "
       },
       {
        "t": "link",
@@ -1725,8 +1711,8 @@
    }
   ]
  },
- "wordCount": 2531,
- "openItems": 1,
+ "wordCount": 2538,
+ "openItems": 0,
  "source": {
   "file": "B4-06_Pittsfield-Township-Personal-Injury-Law-Firm.docx",
   "delivered": "October 25, 2026 [CONFIRM: Batch 4 delivery date]"

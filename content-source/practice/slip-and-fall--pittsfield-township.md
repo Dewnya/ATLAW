@@ -2,7 +2,7 @@
 slug: slip-and-fall
 section: personal-injury
 city: pittsfield-township
-status: draft
+status: approved
 seoTitle: Pittsfield Township Slip and Fall Lawyer: Stores and Parking Lots, Apartments and Condos, the Township’s Sidewalk and Snow Ordinance, Rental Inspections, Ann Arbor Addresses, and Michigan Law After 2023
 seoDescription: Hurt in a fall in Pittsfield Township? Since 2023, an “obvious” hazard no longer ends a Michigan fall case. Who is liable at a store, an apartment or condo complex, a parking lot, a public sidewalk, or a township building; what the township’s sidewalk and snow ordinance says about owners; rental inspections; why an Ann Arbor address may still be the township; the 120-day and six-month notices; and when a parking-lot fall is a no-fault claim. Free review. (313) 406-7606.
 h1: Pittsfield Township Slip and Fall Lawyer
@@ -67,7 +67,7 @@ An address that says Ypsilanti or Saline raises the same question with Ypsilanti
 | Interval between rental inspections | 2 years (residential) | Township Code ch. 6, art. IV |
 | Fault that bars pain-and-suffering damages | More than 50 percent | MCL 600.2959 |
 | Claims heard in the 14A-1 District Court | Up to $25,000 | MCL 600.8301 |
-| Township households that rent; residents 65 and older | **[DATA: ACS 5-year estimates]** | U.S. Census Bureau |
+| Township households that rent; residents 65 and older | About 38.3% of households rent; 14.7% of residents are 65 or older | U.S. Census Bureau QuickFacts (ACS 2020–2024) |
 
 The figures that decide a Pittsfield Township fall case are the ones on the property:
 

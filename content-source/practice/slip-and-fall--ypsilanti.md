@@ -2,7 +2,7 @@
 slug: slip-and-fall
 section: personal-injury
 city: ypsilanti
-status: draft
+status: approved
 seoTitle: Ypsilanti Slip and Fall Lawyer: City or Township, EMU Buildings and Walks, Student Rentals, Stores and Parking Lots, Sidewalks, Snow and Ice, and Michigan Law After 2023
 seoDescription: Hurt in a fall in Ypsilanti? Since 2023, an “obvious” hazard no longer ends a Michigan fall case. Who is liable at a store, a rental, an apartment complex, a parking lot, an EMU building or walk, or a public sidewalk; why it matters whether you fell in the city or the township; the 120-day and six-month notices; snow and ice; and when a parking-lot fall is a no-fault claim. Free review. (313) 406-7606.
 h1: Ypsilanti Slip and Fall Lawyer
@@ -64,7 +64,7 @@ The first conversation is free, in English, Arabic, French, Mandarin, Urdu, or S
 | Sidewalk defect presumed to be in reasonable repair | Under 2 inches (rebuttable) | MCL 691.1402a(3) |
 | Fault that bars pain-and-suffering damages | More than 50 percent | MCL 600.2959 |
 | Claims heard in the 14A-1 or 14B District Court | Up to $25,000 | MCL 600.8301 |
-| City and township households that rent; residents 65 and older | About 66.8% of city households rent; township and over-65 shares **[DATA: township and over-65 shares]** | U.S. Census Bureau QuickFacts (ACS 2020–2024) |
+| City and township households that rent; residents 65 and older | About 66.8% of city households and 41.9% of township households rent; 9.7% of city residents and 13.6% of township residents are 65 or older | U.S. Census Bureau QuickFacts (ACS 2020–2024) |
 
 The figures that decide an Ypsilanti fall case are the ones on the property:
 

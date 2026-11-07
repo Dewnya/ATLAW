@@ -2,7 +2,7 @@
  "slug": "dog-bites",
  "section": "personal-injury",
  "city": "canton",
- "status": "draft",
+ "status": "approved",
  "seoTitle": "Canton, MI Dog Bite Lawyer: Michigan’s Strict Liability Statute, Reporting a Bite in Canton, Who Pays, and Children’s Claims",
  "seoDescription": "Bitten by a dog in Canton, Michigan? Michigan’s statute makes the owner liable even if the dog never bit before, and the claim is usually paid by homeowner’s or renter’s insurance. How to report the bite in Canton Township, MCL 287.351, the provocation defense, landlords and condominiums, delivery workers, children’s claims, and the deadlines. Free review. (313) 406-7606.",
  "h1": "Canton, MI Dog Bite Lawyer",
@@ -661,21 +661,7 @@
        },
        {
         "t": "text",
-        "v": " to Canton Public Safety. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "VERIFY",
-          "v": "number"
-         }
-        ]
-       },
-       {
-        "t": "text",
-        "v": " In an apartment or condominium community, also report it to the management office in writing and keep a copy."
+        "v": " to Canton Public Safety at (734) 394-5400, which handles animal control for the township. In an apartment or condominium community, also report it to the management office in writing and keep a copy."
        }
       ],
       [
@@ -924,17 +910,7 @@
    "answer": [
     {
      "t": "text",
-     "v": "Call Canton Public Safety, the township’s police and fire department; call 911 if the attack is in progress or the injury is serious. The report starts the dog’s rabies observation and becomes the record of the bite. "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "VERIFY",
-       "v": ""
-      }
-     ]
+     "v": "Call Canton Public Safety, the township’s police and fire department, at (734) 394-5400; call 911 if the attack is in progress or the injury is serious. The report starts the dog’s rabies observation and becomes the record of the bite."
     }
    ]
   },
@@ -1044,8 +1020,8 @@
    }
   ]
  },
- "wordCount": 2436,
- "openItems": 2,
+ "wordCount": 2445,
+ "openItems": 0,
  "source": {
   "file": "B3-48_Canton-Dog-Bite-Lawyer.docx",
   "delivered": "October 25, 2026 [CONFIRM: Batch 3 delivery date]"

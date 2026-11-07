@@ -2,7 +2,7 @@
 slug: medical-malpractice
 section: personal-injury
 city: clinton-township
-status: draft
+status: approved
 seoTitle: Clinton Township Medical Malpractice Lawyer: Two-Year Deadline, Notice of Intent, 2026 Caps, and Who the Defendant Is
 seoDescription: Harmed by a doctor, hospital, or clinic in Clinton Township? Michigan malpractice law has a two-year deadline, a 182-day notice before suit, a sworn expert affidavit, and a cap on pain-and-suffering damages ($596,400 or $1,065,000 in 2026). How the rules apply to Henry Ford Macomb, McLaren Macomb, the medical offices around them, surgery centers, nursing homes, and federally funded clinics. Free review. (313) 406-7606.
 h1: Clinton Township Medical Malpractice Lawyer
@@ -51,7 +51,7 @@ A bad outcome is not malpractice. Malpractice is a bad outcome caused by a provi
 
 **Federally funded community health centers.** Health centers that receive federal Health Center Program funding can have their providers deemed federal employees for malpractice purposes. A claim against one follows the Federal Tort Claims Act, not Michigan procedure: an administrative claim on Standard Form 95 to the Department of Health and Human Services within two years (28 USC 2401(b)), no Notice of Intent, and suit in the U.S. District Court for the Eastern District of Michigan, tried to a judge without a jury. Identifying a deemed clinic early is the difference between a timely claim and none.
 
-**Veterans.** Selfridge Air National Guard Base is in neighboring Harrison Township. **[VERIFY]** Veterans treated at the John D. Dingell VA Medical Center in Detroit or a VA outpatient clinic have an FTCA claim on the same path, and may also qualify for disability compensation under 38 USC 1151 where the injury was caused by VA carelessness, negligence, or error, or by an event that was not reasonably foreseeable. Active-duty service members generally cannot sue the United States for injuries from military medical care, though a separate administrative claims process exists.
+**Veterans.** Selfridge Air National Guard Base is in neighboring Harrison Township. Veterans treated at the John D. Dingell VA Medical Center in Detroit or a VA outpatient clinic have an FTCA claim on the same path, and may also qualify for disability compensation under 38 USC 1151 where the injury was caused by VA carelessness, negligence, or error, or by an event that was not reasonably foreseeable. Active-duty service members generally cannot sue the United States for injuries from military medical care, though a separate administrative claims process exists.
 
 **EMS.** In Clinton Township, the fire department gives advanced life support on scene, and private ambulance companies transport patients. Claims against EMS personnel, and against the agency that employs them, public or private, are limited by the Emergency Medical Services Act to gross negligence or willful misconduct (MCL 333.20965(1)).
 

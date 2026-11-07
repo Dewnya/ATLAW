@@ -1,17 +1,17 @@
 {
  "slug": "medical-malpractice",
  "section": "personal-injury",
- "city": "farmington-hills",
- "status": "draft",
- "seoTitle": "Farmington Hills Medical Malpractice Lawyer: Two-Year Deadline, Notice of Intent, 2026 Caps, and Who the Defendant Is",
- "seoDescription": "Harmed by a doctor, hospital, or clinic in Farmington Hills? Michigan malpractice law has a two-year deadline, a 182-day notice before suit, a sworn expert affidavit, and a cap on pain-and-suffering damages ($596,400 or $1,065,000 in 2026). How the rules apply to Corewell Health Farmington Hills, the Twelve Mile and Grand River medical offices, surgery centers, nursing homes, and federally funded clinics. Free review. (313) 406-7606.",
- "h1": "Farmington Hills Medical Malpractice Lawyer",
- "tagline": "Michigan gives a malpractice victim two years, not three, and requires a written notice and an expert’s sworn affidavit before suit. In Farmington Hills the first questions are who employed the provider and which side of Eight Mile the care happened on.",
- "primaryKeyword": "farmington hills medical malpractice lawyer (no measured volume)",
+ "city": "livonia",
+ "status": "approved",
+ "seoTitle": "Livonia Medical Malpractice Lawyer: Two-Year Deadline, Notice of Intent, 2026 Caps, and Who the Defendant Is",
+ "seoDescription": "Harmed by a doctor, hospital, or clinic in Livonia? Michigan malpractice law has a two-year deadline, a 182-day notice before suit, a sworn expert affidavit, and a cap on pain-and-suffering damages ($596,400 or $1,065,000 in 2026). How the rules apply to Trinity Health Livonia, the hospitals across the Oakland County line, surgery centers, nursing homes, and federally funded clinics. Free review. (313) 406-7606.",
+ "h1": "Livonia Medical Malpractice Lawyer",
+ "tagline": "Michigan gives a malpractice victim two years, not three, and requires a written notice and an expert’s sworn affidavit before suit. In Livonia the first questions are who employed the provider and which side of Eight Mile the care happened on.",
+ "primaryKeyword": "livonia medical malpractice lawyer (no measured volume)",
  "secondaryKeywords": [
-  "medical malpractice lawyer farmington hills mi",
-  "medical malpractice attorney farmington hills",
-  "farmington hills birth injury lawyer (long tail)"
+  "medical malpractice lawyer livonia mi",
+  "medical malpractice attorney livonia",
+  "livonia birth injury lawyer (long tail)"
  ],
  "intro": [
   {
@@ -19,7 +19,7 @@
    "c": [
     {
      "t": "text",
-     "v": "A medical malpractice claim in Michigan has rules no other injury claim has: a two-year deadline instead of three; a written Notice of Intent served on each provider at least 182 days before suit; a sworn Affidavit of Merit from a qualified expert filed with the complaint; strict rules on who that expert can be; and a cap on pain-and-suffering damages. A case that misses any one of them can be lost before its merits are heard. In Farmington Hills there are two questions to answer first. Who is the defendant: the hospital on Grand River, which has carried three names; a physician group that staffs its emergency department; one of the independent or health-system practices in the medical office buildings on Twelve Mile, Grand River, and Northwestern Highway; or a federally funded clinic, which is sued under federal law on a different clock in a different court? And where did the care happen: in Oakland County, or across Eight Mile in Livonia, which changes the court."
+     "v": "A medical malpractice claim in Michigan has rules no other injury claim has: a two-year deadline instead of three; a written Notice of Intent served on each provider at least 182 days before suit; a sworn Affidavit of Merit from a qualified expert filed with the complaint; strict rules on who that expert can be; and a cap on pain-and-suffering damages. A case that misses any one of them can be lost before its merits are heard. In Livonia there are two questions to answer first. Who is the defendant: the hospital on Five Mile, which has been renamed since 2022; a physician group that staffs its emergency department; an independent practice around Laurel Park; or a federally funded clinic, which is sued under federal law on a different clock in a different court? And where did the care happen: in Wayne County, or across Eight Mile in Farmington Hills or Novi, which changes the court."
     }
    ]
   },
@@ -88,11 +88,11 @@
     },
     {
      "t": "link",
-     "href": "/areas-served/farmington-hills",
+     "href": "/areas-served/livonia",
      "c": [
       {
        "t": "text",
-       "v": "Farmington Hills page"
+       "v": "Livonia page"
       }
      ]
     },
@@ -318,7 +318,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Economic damages, medical bills, lost earnings, and the cost of future care, are not capped. For a patient whose career has been cut short, the uncapped lost-earnings claim is often the larger part of the case."
+       "v": "Economic damages, medical bills, lost earnings, and the cost of future care, are not capped."
       }
      ]
     }
@@ -340,8 +340,8 @@
    ]
   },
   {
-   "id": "farmington-hills-providers-and-who-answers-for-each",
-   "heading": "Farmington Hills’ providers, and who answers for each",
+   "id": "livonias-providers-and-who-answers-for-each",
+   "heading": "Livonia’s providers, and who answers for each",
    "blocks": [
     {
      "t": "p",
@@ -351,27 +351,13 @@
        "c": [
         {
          "t": "text",
-         "v": "Corewell Health Farmington Hills Hospital."
+         "v": "Trinity Health Livonia Hospital."
         }
        ]
       },
       {
        "t": "text",
-       "v": " The hospital on Grand River opened as Botsford Hospital, became Beaumont Hospital, Farmington Hills after it joined Beaumont Health, and is now Corewell Health Farmington Hills Hospital following the Beaumont and Spectrum Health merger that formed Corewell Health. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "VERIFY",
-         "v": "dates of each change"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " Some firm pages and many patients’ records still use the older names. For a claim, the name matters in one way: the correct legal entity for the Notice of Intent must be identified from current corporate filings, not from the sign or the letterhead on an older record. Claims against the hospital and its employed providers are generally filed in the Sixth Judicial Circuit Court in Pontiac."
+       "v": " The hospital on Five Mile Road was St. Mary Mercy Livonia for decades. Trinity Health Michigan announced in April 2022 that it would rebrand its hospitals in phases; the Livonia hospital became Trinity Health St. Mary Mercy Livonia that year and Trinity Health Livonia Hospital in 2023. Some firm pages and many patients’ records still use the old name. For a claim, the name matters in one way: the correct legal entity for the Notice of Intent must be identified from current corporate filings, not from the sign or the letterhead on an older record. Claims against the hospital and its employed providers are filed in the Third Judicial Circuit Court in Detroit."
       }
      ]
     },
@@ -414,13 +400,13 @@
        "c": [
         {
          "t": "text",
-         "v": "The other hospitals Farmington Hills patients use."
+         "v": "The hospitals across Eight Mile, and the others Livonia patients use."
         }
        ]
       },
       {
        "t": "text",
-       "v": " Corewell Health William Beaumont University Hospital in Royal Oak and Henry Ford Providence Novi Hospital (formerly Ascension Providence Novi) are in Oakland County, so claims against them are also generally filed in the Sixth Circuit. Trinity Health Livonia Hospital, across Eight Mile, and the Detroit hospitals are in Wayne County, in the Third Circuit. Venue follows where the malpractice occurred and where the defendants are (MCL 600.1629); a case against providers in both counties can raise a choice of courts."
+       "v": " Corewell Health Farmington Hills Hospital (formerly Beaumont Farmington Hills) and Henry Ford Providence Novi Hospital (formerly Ascension Providence Novi) are in Oakland County, so claims against them are generally filed in the Sixth Judicial Circuit Court in Pontiac. Garden City Hospital and the Detroit hospitals are in Wayne County, in the Third Circuit. Venue follows where the malpractice occurred and where the defendants are (MCL 600.1629); a case against providers in both counties can raise a choice of courts."
       }
      ]
     },
@@ -432,13 +418,13 @@
        "c": [
         {
          "t": "text",
-         "v": "Medical office buildings, surgery centers, and imaging centers."
+         "v": "Surgery centers, imaging centers, and physician offices."
         }
        ]
       },
       {
        "t": "text",
-       "v": " Farmington Hills has many physician practices in the medical office buildings along Twelve Mile, Grand River, Northwestern Highway, and near the hospital, together with outpatient surgery, endoscopy, and imaging centers and urgent care clinics. Some are owned by a health system, some by physicians, and some are independent. A delayed diagnosis in an office practice and a surgical complication at an outpatient center are frequent claims, and the employer of each provider who touched the chart must be identified, because a health-system-employed physician and an independent physician in the same building are different defendants with different insurers. Michigan rules apply."
+       "v": " Livonia has outpatient surgery and imaging centers, urgent care clinics, and many primary-care and specialty practices around Laurel Park, along Five and Six Mile, and near the hospital, some physician-owned, some independent, and some owned by a health system. A delayed diagnosis in an office practice and a surgical complication at an outpatient center are frequent claims, and the employer of each provider who touched the chart must be identified. Michigan rules apply."
       }
      ]
     },
@@ -474,7 +460,7 @@
       },
       {
        "t": "text",
-       "v": " Farmington Hills veterans treated at the John D. Dingell VA Medical Center in Detroit, the VA Ann Arbor Healthcare System, or a VA outpatient clinic have an FTCA claim on the same path, and may also qualify for disability compensation under 38 USC 1151 where the injury was caused by VA carelessness, negligence, or error, or by an event that was not reasonably foreseeable."
+       "v": " Livonia veterans treated at the John D. Dingell VA Medical Center in Detroit, or at a VA outpatient clinic, have an FTCA claim on the same path, and may also qualify for disability compensation under 38 USC 1151 where the injury was caused by VA carelessness, negligence, or error, or by an event that was not reasonably foreseeable."
       }
      ]
     },
@@ -486,13 +472,13 @@
        "c": [
         {
          "t": "text",
-         "v": "Farmington Hills Fire Department EMS."
+         "v": "Livonia Fire & Rescue EMS."
         }
        ]
       },
       {
        "t": "text",
-       "v": " A City agency. Claims against EMS personnel are limited by the Emergency Medical Services Act to gross negligence or willful misconduct (MCL 333.20965). Private ambulance companies have the same gross-negligence protection."
+       "v": " A City agency. Claims against EMS personnel are limited by the Emergency Medical Services Act to gross negligence or willful misconduct (MCL 333.20965), a limit that also covers the City as the life support agency. Private ambulance companies have the same gross-negligence protection."
       }
      ]
     },
@@ -504,21 +490,21 @@
        "c": [
         {
          "t": "text",
-         "v": "Nursing homes and assisted living."
+         "v": "Nursing homes."
         }
        ]
       },
       {
        "t": "text",
-       "v": " Farmington Hills has two Medicare-certified nursing homes and many assisted living and memory care communities. A nurse’s wound-care decision is malpractice; leaving a resident unsupervised against the care plan is usually negligence. See our "
+       "v": " Livonia has five Medicare-certified nursing homes, and their claims are sometimes malpractice and sometimes ordinary negligence; which one it is decides whether the Notice of Intent, the two-year period, and the cap apply. A nurse’s wound-care decision is malpractice; leaving a resident unsupervised against the care plan is usually negligence. See our "
       },
       {
        "t": "link",
-       "href": "/personal-injury/nursing-home-abuse",
+       "href": "/personal-injury/nursing-home-abuse/livonia",
        "c": [
         {
          "t": "text",
-         "v": "nursing home abuse page"
+         "v": "Livonia nursing home abuse page"
         }
        ]
       },
@@ -546,11 +532,11 @@
       },
       {
        "t": "link",
-       "href": "/personal-injury/workers-compensation/farmington-hills",
+       "href": "/personal-injury/workers-compensation/livonia",
        "c": [
         {
          "t": "text",
-         "v": "Farmington Hills workers’ compensation page"
+         "v": "Livonia workers’ compensation page"
         }
        ]
       },
@@ -563,8 +549,8 @@
    ]
   },
   {
-   "id": "the-farmington-hills-malpractice-cases-we-see",
-   "heading": "The Farmington Hills malpractice cases we see",
+   "id": "the-livonia-malpractice-cases-we-see",
+   "heading": "The Livonia malpractice cases we see",
    "blocks": [
     {
      "t": "ul",
@@ -697,22 +683,7 @@
        },
        {
         "t": "text",
-        "v": " in office practices and imaging centers, where the “better outcome” causation standard is argued hardest."
-       }
-      ],
-      [
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "text",
-          "v": "Falls, pressure injuries, and missed decline"
-         }
-        ]
-       },
-       {
-        "t": "text",
-        "v": " in older patients, in the hospital and in nursing and assisted living settings."
+        "v": ", where the “better outcome” causation standard is argued hardest."
        }
       ],
       [
@@ -731,11 +702,11 @@
        },
        {
         "t": "link",
-        "href": "/personal-injury/wrongful-death/farmington-hills",
+        "href": "/personal-injury/wrongful-death/livonia",
         "c": [
          {
           "t": "text",
-          "v": "Farmington Hills wrongful death page"
+          "v": "Livonia wrongful death page"
          }
         ]
        },
@@ -749,8 +720,8 @@
    ]
   },
   {
-   "id": "how-a-farmington-hills-malpractice-case-proceeds",
-   "heading": "How a Farmington Hills malpractice case proceeds",
+   "id": "how-a-livonia-malpractice-case-proceeds",
+   "heading": "How a Livonia malpractice case proceeds",
    "blocks": [
     {
      "t": "ol",
@@ -767,7 +738,7 @@
        },
        {
         "t": "text",
-        "v": ", including the electronic audit trail, from every provider, requested promptly, under whatever name the provider used at the time of care."
+        "v": ", including the electronic audit trail, from every provider, requested in the first week, under whatever name the provider used at the time of care."
        }
       ],
       [
@@ -797,7 +768,7 @@
        },
        {
         "t": "text",
-        "v": ": hospital entity, physician group, surgery center, or independent practice (Sixth Circuit for Oakland County care, Third Circuit for Wayne County care); deemed clinic or VA (SF-95 and the federal court); City EMS (EMS Act). Serving a Notice of Intent on a federal provider while the federal two-year clock runs can lose the case."
+        "v": ": hospital entity, physician group, surgery center, or independent practice (Third Circuit for Wayne County care, Sixth Circuit for Oakland County care); deemed clinic or VA (SF-95 and the federal court); City EMS (EMS Act). Serving a Notice of Intent on a federal provider while the federal two-year clock runs can lose the case."
        }
       ],
       [
@@ -842,7 +813,7 @@
        },
        {
         "t": "text",
-        "v": ", and, for cases that do not settle, trial to a jury in Pontiac or Detroit. Two to four years is typical."
+        "v": ", and, for cases that do not settle, trial to a jury in Detroit or Pontiac. Two to four years is typical."
        }
       ],
       [
@@ -880,8 +851,8 @@
    ]
   },
   {
-   "id": "deadlines-for-farmington-hills-medical-malpractice-claims",
-   "heading": "Deadlines for Farmington Hills medical malpractice claims",
+   "id": "deadlines-for-livonia-medical-malpractice-claims",
+   "heading": "Deadlines for Livonia medical malpractice claims",
    "blocks": [
     {
      "t": "table",
@@ -1050,7 +1021,7 @@
        [
         {
          "t": "text",
-         "v": "Farmington Hills Fire Department EMS"
+         "v": "Livonia Fire & Rescue EMS"
         }
        ],
        [
@@ -1071,8 +1042,8 @@
    ]
   },
   {
-   "id": "why-farmington-hills-patients-call-atlaw",
-   "heading": "Why Farmington Hills patients call ATLAW",
+   "id": "why-livonia-patients-call-atlaw",
+   "heading": "Why Livonia patients call ATLAW",
    "blocks": [
     {
      "t": "ul",
@@ -1086,7 +1057,7 @@
       [
        {
         "t": "text",
-        "v": "The defendant and the forum identified before the Notice of Intent is written: hospital entity, physician group, surgery center, independent practice, federal clinic, or City, in Oakland or Wayne County."
+        "v": "The defendant and the forum identified before the Notice of Intent is written: hospital entity, physician group, surgery center, independent practice, federal clinic, or City, in Wayne or Oakland County."
        }
       ],
       [
@@ -1114,7 +1085,7 @@
  ],
  "faqs": [
   {
-   "question": "How long do I have to sue a Farmington Hills doctor or hospital?",
+   "question": "How long do I have to sue a Livonia doctor or hospital?",
    "answer": [
     {
      "t": "text",
@@ -1123,7 +1094,7 @@
    ]
   },
   {
-   "question": "My records say Botsford or Beaumont. Does the name change affect my claim?",
+   "question": "My records say St. Mary Mercy. Does the name change affect my claim?",
    "answer": [
     {
      "t": "text",
@@ -1132,20 +1103,20 @@
    ]
   },
   {
-   "question": "My doctor’s office is in a medical building next to the hospital. Is the hospital responsible?",
+   "question": "I was treated in Farmington Hills or Novi. Where would the case be filed?",
    "answer": [
     {
      "t": "text",
-     "v": "Not necessarily. Many physicians in those buildings are independent or belong to separate groups. The physician’s employer must be identified, and the hospital is responsible only for its own employees and, in some emergency settings, under ostensible agency."
+     "v": "Generally in the Oakland County Circuit Court in Pontiac, because that is where the care happened. A case that also involves Livonia providers may allow a choice between Oakland and Wayne County."
     }
    ]
   },
   {
-   "question": "I was treated at Trinity Health Livonia. Where would the case be filed?",
+   "question": "The emergency doctor did not work for the hospital. Can I still bring a claim against the hospital?",
    "answer": [
     {
      "t": "text",
-     "v": "Generally in the Third Judicial Circuit Court in Detroit, because the care happened in Wayne County. A case that also involves Farmington Hills providers may allow a choice between Wayne and Oakland County."
+     "v": "Sometimes. Michigan recognizes ostensible agency: if you went to the hospital for care and reasonably believed the doctor was the hospital’s, the hospital can be responsible. The physician’s group is named as well."
     }
    ]
   },
@@ -1178,15 +1149,15 @@
   }
  ],
  "cta": {
-  "id": "talk-to-a-lawyer-about-farmington-hills-medical-malpractice",
-  "heading": "Talk to a lawyer about Farmington Hills medical malpractice",
+  "id": "talk-to-a-lawyer-about-livonia-medical-malpractice",
+  "heading": "Talk to a lawyer about Livonia medical malpractice",
   "blocks": [
    {
     "t": "p",
     "c": [
      {
       "t": "text",
-      "v": "If you or a family member was harmed by medical care in Farmington Hills, call "
+      "v": "If you or a family member was harmed by medical care in Livonia, call "
      },
      {
       "t": "strong",
@@ -1219,10 +1190,10 @@
    }
   ]
  },
- "wordCount": 2262,
- "openItems": 1,
+ "wordCount": 2194,
+ "openItems": 0,
  "source": {
-  "file": "B3-57_Farmington-Hills-Medical-Malpractice-Lawyer.docx",
-  "delivered": "October 25, 2026 [CONFIRM: Batch 3 delivery date]"
+  "file": "B3-36_Livonia-Medical-Malpractice-Lawyer.docx",
+  "delivered": "October 24, 2026 [CONFIRM: Batch 3 delivery date]"
  }
 }

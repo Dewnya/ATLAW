@@ -2,7 +2,7 @@
 slug: personal-injury
 section: personal-injury
 city: canton
-status: draft
+status: approved
 seoTitle: Canton, MI Personal Injury Lawyer: How a Canton Injury Claim Works, What It Is Worth, and What It Costs
 seoDescription: Hurt in Canton, Michigan? How a Canton injury claim works: the deadlines, the insurers and road agencies involved (not the township), the 35th District and Third Circuit courts, how damages are valued, and the one-third fee cap. ATLAW: 13 years, more than 10,000 cases. Free review. (313) 406-7606.
 h1: Canton, MI Personal Injury Lawyer
@@ -24,7 +24,7 @@ ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parkla
 | Measure | Figure | Source |
 | --- | --- | --- |
 | Canton Township crashes / injured / killed, 2024 | 1,961 / 550 / 4 | MSP, Michigan Traffic Crash Facts 2024, Wayne County |
-| Ford Road at Lilley, 2025 | 64 crashes, 12 injuries; seventh among Wayne County intersections | MSP 2025 crash data, as compiled and reported **[VERIFY]** |
+| Ford Road at Lilley, 2025 | 64 crashes, 12 injuries; seventh among Wayne County intersections | MSP 2025 crash data, as compiled and reported September 2026 |
 | Wayne County crashes / injured / killed, 2024 | 50,355 / 16,458 / 177 | MSP, Michigan Traffic Crash Facts 2024 |
 | Wayne County crashes involving trucks and buses, 2024 | 3,916 | MSP, Heavy Trucks and Buses 2024 |
 | MDOT Ford Road boulevard, Sheldon to Lotz | $65 million; construction scheduled 2028–2029 | MDOT, July 2025 |

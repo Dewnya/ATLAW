@@ -1,15 +1,15 @@
 {
  "slug": "medical-malpractice",
  "section": "personal-injury",
- "city": "taylor",
- "status": "draft",
- "seoTitle": "Taylor, MI Medical Malpractice Lawyer: Corewell Health Taylor, Transfers, the Two-Year Deadline, Notice of Intent, and 2026 Caps",
- "seoDescription": "Harmed by a doctor, hospital, or clinic in Taylor? Michigan malpractice law has a two-year deadline, a 182-day notice before suit, a sworn expert affidavit, and a cap on pain-and-suffering damages ($596,400 or $1,065,000 in 2026). Covers how the rules apply to Corewell Health Taylor, transfers to higher-level hospitals, contracted emergency physicians, clinics, federally funded health centers, the VA, and nursing homes. Free review. (313) 406-7606.",
- "h1": "Taylor, MI Medical Malpractice Lawyer",
- "tagline": "Michigan gives a malpractice victim two years, not three, and requires a written notice and an expert’s sworn affidavit before suit. In Taylor, the first questions are which entity employed the provider, under what legal name, and whether the harm happened at Corewell Health Taylor or at the hospital that received the transfer.",
- "primaryKeyword": "taylor medical malpractice lawyer (no measured volume)",
+ "city": "rochester-hills",
+ "status": "approved",
+ "seoTitle": "Rochester Hills, MI Medical Malpractice Lawyer: Henry Ford Rochester Hospital, Transfers, the Two-Year Deadline, Notice of Intent, and 2026 Caps",
+ "seoDescription": "Harmed by a doctor, hospital, or clinic in Rochester Hills? Michigan malpractice law has a two-year deadline, a 182-day notice before suit, a sworn expert affidavit, and a cap on pain-and-suffering damages ($596,400 or $1,065,000 in 2026). This page explains how the rules apply to Henry Ford Rochester Hospital (formerly Ascension Providence Rochester), transfers to higher-level centers, contracted physician groups, Oakland University’s clinics, federally funded health centers, the VA, and nursing homes. Free review. (313) 406-7606.",
+ "h1": "Rochester Hills, MI Medical Malpractice Lawyer",
+ "tagline": "Michigan gives a malpractice victim two years, not three, and requires a written notice and an expert’s sworn affidavit before suit. In Rochester Hills, the first questions are which entity employed the provider, under what legal name at the time of care, and whether the harm happened at the local hospital or at the hospital that received the transfer.",
+ "primaryKeyword": "medical malpractice lawyer rochester hills mi (40/mo)",
  "secondaryKeywords": [
-  "medical malpractice lawyer taylor mi; taylor medical malpractice attorney; corewell health taylor malpractice (long tail)"
+  "rochester hills medical malpractice lawyer; henry ford rochester hospital malpractice (long tail); ascension providence rochester malpractice (long tail)"
  ],
  "intro": [
   {
@@ -33,7 +33,7 @@
     [
      {
       "t": "text",
-      "v": "a written Notice of Intent served on each provider at least 182 days before suit"
+      "v": "a written Notice of Intent, served on each provider at least 182 days before suit"
      }
     ],
     [
@@ -61,7 +61,7 @@
    "c": [
     {
      "t": "text",
-     "v": "A case that misses any one of these can be lost before its merits are heard."
+     "v": "A case that misses any one of them can be lost before its merits are heard."
     }
    ]
   },
@@ -70,20 +70,29 @@
    "c": [
     {
      "t": "text",
-     "v": "For a Taylor patient, the first question is who the defendant is. Taylor’s hospital is "
+     "v": "For a Rochester Hills patient, the first question is who the defendant is. The city’s hospital is "
     },
     {
      "t": "strong",
      "c": [
       {
        "t": "text",
-       "v": "Corewell Health Taylor Hospital"
+       "v": "Henry Ford Rochester Hospital"
       }
      ]
     },
     {
      "t": "text",
-     "v": " on Telegraph Road. It was formerly Beaumont Hospital, Taylor, and before that an Oakwood hospital. Its emergency department sees about 35,000 patients a year, according to a 2024 physician recruitment listing, and patients with the most serious injuries and illnesses are often transferred from there to a trauma center on the State’s list. Those centers include:"
+     "v": " at 1101 W. University Drive, which describes itself as a Level III Adult Trauma Center with 24-hour emergency services. Most patients know it by its former names: Ascension Providence Rochester Hospital, and before that Crittenton Hospital."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "c": [
+    {
+     "t": "text",
+     "v": "The most serious injuries and illnesses are often transferred to a higher-level center:"
     }
    ]
   },
@@ -93,19 +102,13 @@
     [
      {
       "t": "text",
-      "v": "Corewell Health Dearborn"
+      "v": "McLaren Oakland or Trinity Health Oakland in Pontiac, both Level II trauma centers on the State’s list"
      }
     ],
     [
      {
       "t": "text",
-      "v": "Corewell Health Trenton"
-     }
-    ],
-    [
-     {
-      "t": "text",
-      "v": "the Level I trauma centers in Detroit, Detroit Receiving Hospital and Henry Ford Hospital"
+      "v": "Corewell Health William Beaumont University Hospital in Royal Oak, the county’s Level I adult trauma center"
      }
     ]
    ]
@@ -115,7 +118,7 @@
    "c": [
     {
      "t": "text",
-     "v": "Day-to-day care happens in the medical offices along Telegraph and around the hospital, in urgent care clinics, and in community health centers. Health-system-employed physicians practice there alongside independent practices and separate physician groups. Each has its own legal entity, insurer, and notice address. A federally funded clinic is sued under federal law, on a different clock and in a different court."
+     "v": "Day-to-day care happens in the medical offices along University Drive, Rochester Road, and Walton; in urgent care clinics; in outpatient surgery and imaging centers; and in community health centers. Health-system-employed physicians practice alongside independent practices and separate physician groups. Each has its own legal entity, insurer, and notice address. A federally funded clinic is sued under federal law, on a different clock and in a different court. Oakland University’s clinics are the State’s."
     }
    ]
   },
@@ -124,7 +127,7 @@
    "c": [
     {
      "t": "text",
-     "v": "ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Boulevard in Dearborn. The firm has handled more than 10,000 cases and recovered more than $100 million for clients."
+     "v": "ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Boulevard in Dearborn, has handled more than 10,000 cases, and has recovered more than $100 million for clients."
     }
    ]
   },
@@ -206,11 +209,11 @@
      },
      {
       "t": "link",
-      "href": "/areas-served/taylor",
+      "href": "/areas-served/rochester-hills",
       "c": [
        {
         "t": "text",
-        "v": "Taylor page"
+        "v": "Rochester Hills page"
        }
       ]
      },
@@ -446,7 +449,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Economic damages are not capped. These include medical bills, lost earnings, and the cost of future care. MCL 600.2912d requires the Affidavit of Merit, and MCL 600.2169 decides who is qualified to sign it."
+       "v": "Economic damages are not capped. They include medical bills, lost earnings, and the cost of future care. The Affidavit of Merit is required by MCL 600.2912d, and MCL 600.2169 decides who is qualified to sign it."
       }
      ]
     }
@@ -506,8 +509,8 @@
    ]
   },
   {
-   "id": "taylors-providers-and-who-answers-for-each",
-   "heading": "Taylor’s providers, and who answers for each",
+   "id": "rochester-hills-providers-and-who-answers-for-each",
+   "heading": "Rochester Hills providers, and who answers for each",
    "blocks": [
     {
      "t": "p",
@@ -517,13 +520,13 @@
        "c": [
         {
          "t": "text",
-         "v": "Corewell Health Taylor Hospital."
+         "v": "Henry Ford Rochester Hospital."
         }
        ]
       },
       {
        "t": "text",
-       "v": " This is the city’s hospital, with its employed physicians, nurses, and staff. Health-system names and ownership have changed several times here. The correct legal entity for the Notice of Intent has to be identified two ways:"
+       "v": " This is the city’s hospital, with its employed physicians, nurses, and staff. Its name and ownership have changed several times: Crittenton Hospital Medical Center joined Ascension in 2015, became Ascension Crittenton Hospital in 2017 and Ascension Providence Rochester Hospital in 2018, and took the Henry Ford name on October 1, 2024, when Ascension’s southeast Michigan hospitals entered a joint venture with Henry Ford Health. The correct legal entity for the Notice of Intent must be identified two ways:"
       }
      ]
     },
@@ -539,7 +542,7 @@
       [
        {
         "t": "text",
-        "v": "from the name the hospital used at the time of care, not from the sign or the letterhead"
+        "v": "from the name the hospital used at the time of care, not from today’s sign or letterhead"
        }
       ]
      ]
@@ -549,7 +552,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Care given under the Oakwood or Beaumont name may involve an entity name that no longer appears on the building. Claims against the hospital and its employed providers are filed in the Third Judicial Circuit Court in Detroit."
+       "v": "Care given under the Ascension Providence or Crittenton name may involve an entity that no longer appears on the building, or a different one for care before and after the transaction. Claims against the hospital and its employed providers are filed in the Sixth Judicial Circuit Court (Oakland County Circuit Court) in Pontiac."
       }
      ]
     },
@@ -567,7 +570,7 @@
       },
       {
        "t": "text",
-       "v": " Many hospitals staff their emergency departments, anesthesia, and radiology through separate physician groups. A 2024 recruitment listing for Corewell Health Taylor’s emergency department was posted by a national emergency-medicine staffing company. Where a patient came to the hospital for care and reasonably believed the doctor worked for it, Michigan law can hold the hospital responsible under ostensible agency ("
+       "v": " Many hospitals staff their emergency departments, anesthesia, radiology, and hospitalist services through separate physician groups. The Notice of Intent must name the group as well as the hospital. Where a patient came to the hospital for care and reasonably believed the doctor worked for it, Michigan law can hold the hospital responsible under ostensible agency ("
       },
       {
        "t": "em",
@@ -598,7 +601,7 @@
       },
       {
        "t": "text",
-       "v": " Strokes, cardiac emergencies, major trauma, and complex surgical cases may be transferred from Corewell Health Taylor to Corewell Health Dearborn, Corewell Health Trenton, or one of the Detroit Level I centers. A transfer case can involve two hospitals, two sets of physicians, and the transport between them. The question is which delay or decision caused the harm:"
+       "v": " As a Level III center, Henry Ford Rochester stabilizes and transfers many major trauma, stroke, cardiac, and complex surgical patients. They may go to McLaren Oakland, Trinity Health Oakland, Corewell Health William Beaumont University Hospital, or another hospital in the patient’s system. A transfer case can involve two hospitals, two sets of physicians, and the transport between them. The question is which delay or decision caused the harm:"
       }
      ]
     },
@@ -636,7 +639,25 @@
      "c": [
       {
        "t": "text",
-       "v": "All of these hospitals are in Wayne County, so the same circuit court hears the claims."
+       "v": "All of these hospitals are in Oakland County, so the same circuit court hears them."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Corewell Health Troy and other nearby hospitals."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Many Rochester Hills residents are treated at Corewell Health Beaumont Troy Hospital, across the city line, or at hospitals in their own health plan’s network. The same Michigan rules apply. The defendant entity and the court are identified the same way."
       }
      ]
     },
@@ -654,21 +675,7 @@
       },
       {
        "t": "text",
-       "v": " These include the primary-care and specialty practices along Telegraph and around the hospital, urgent care clinics, and outpatient surgery, dialysis, and imaging centers in and around the city. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "VERIFY",
-         "v": "outpatient centers in the city"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " Frequent claims include:"
+       "v": " This includes the primary-care and specialty practices around the hospital and along Rochester Road and Walton, urgent care clinics, and outpatient surgery, dialysis, and imaging centers, among them Henry Ford’s cancer, imaging, and behavioral health sites and Corewell Health’s care center on North Rochester Road. Frequent claims are:"
       }
      ]
     },
@@ -712,27 +719,31 @@
        "c": [
         {
          "t": "text",
+         "v": "Oakland University’s clinics."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Oakland University is a state university, and its on-campus health clinic is part of it. A malpractice claim against a university-employed provider is not barred by governmental immunity (MCL 691.1407(4)). It proceeds against the State in the Court of Claims, decided by a judge, with the Court of Claims notice requirements in addition to the malpractice rules (MCL 600.6419, 600.6431). A claim against a private physician who teaches at the university’s medical school but practices for a private hospital is an ordinary Michigan malpractice claim."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
          "v": "Federally funded community health centers."
         }
        ]
       },
       {
        "t": "text",
-       "v": " Some Downriver residents get their primary, prenatal, and dental care at community health centers that receive federal Health Center Program funding. Providers at a funded center can be deemed federal employees for malpractice purposes. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "VERIFY",
-         "v": "deemed status of centers serving Taylor, by name, at intake; do not name on the page"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " A claim against one follows the Federal Tort Claims Act, not Michigan procedure:"
+       "v": " Some Oakland County residents get primary, prenatal, and dental care at community health centers that receive federal Health Center Program funding. Providers at a funded center can be deemed federal employees for malpractice purposes. A claim against one follows the Federal Tort Claims Act, not Michigan procedure:"
       }
      ]
     },
@@ -742,7 +753,7 @@
       [
        {
         "t": "text",
-        "v": "an administrative claim on Standard Form 95 to the Department of Health and Human Services within two years (28 USC 2401(b))"
+        "v": "an administrative claim on Standard Form 95 to the Department of Health and Human Services, within two years (28 USC 2401(b))"
        }
       ],
       [
@@ -800,7 +811,7 @@
       },
       {
        "t": "text",
-       "v": " Claims against EMS personnel, and against the agency that employs them, public or private, including a private ambulance company handling a transfer between hospitals, are limited by the Emergency Medical Services Act to gross negligence or willful misconduct (MCL 333.20965(1))."
+       "v": " Rochester Hills’ emergency medical services, including ambulance transport, are provided by the Rochester Hills Fire Department. Claims against EMS personnel, and against the agency that employs them, public or private, including a private ambulance company handling a transfer between hospitals, are limited by the Emergency Medical Services Act to gross negligence or willful misconduct (MCL 333.20965(1))."
       }
      ]
     },
@@ -812,21 +823,47 @@
        "c": [
         {
          "t": "text",
-         "v": "Nursing homes and assisted living."
+         "v": "Nursing homes, assisted living, and senior residences."
         }
        ]
       },
       {
        "t": "text",
-       "v": " Taylor has three Medicare-certified nursing homes, as well as assisted living and adult foster care homes. Which one it is decides whether the Notice of Intent, the two-year period, and the cap apply. A nurse’s wound-care decision is malpractice. Leaving a resident unsupervised against the care plan is usually negligence. See our "
+       "v": " Rochester Hills has four Medicare-certified nursing homes, as well as assisted living and memory care communities and adult foster care homes. Which one it is decides whether the Notice of Intent, the two-year period, and the cap apply."
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "t": "text",
+        "v": "A nurse’s wound-care decision is malpractice."
+       }
+      ],
+      [
+       {
+        "t": "text",
+        "v": "Leaving a resident unsupervised against the care plan is usually negligence."
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "See our "
       },
       {
        "t": "link",
-       "href": "/personal-injury/nursing-home-abuse/taylor",
+       "href": "/personal-injury/nursing-home-abuse/rochester-hills",
        "c": [
         {
          "t": "text",
-         "v": "Taylor nursing home abuse page"
+         "v": "Rochester Hills nursing home abuse page"
         }
        ]
       },
@@ -850,7 +887,7 @@
       },
       {
        "t": "text",
-       "v": " Occupational clinics and employer medical departments that treat injured workers at the Downriver plants and warehouses are a separate case. A claim against a provider employed by your own employer may be barred by workers’ compensation exclusivity, while an outside clinic or physician can be sued for malpractice. See our "
+       "v": " Occupational clinics and employer medical departments that treat injured workers are a separate case. A claim against a provider employed by your own employer may be barred by workers’ compensation exclusivity. An outside clinic or physician can be sued for malpractice. See our "
       },
       {
        "t": "link",
@@ -871,8 +908,8 @@
    ]
   },
   {
-   "id": "the-taylor-malpractice-cases-we-see",
-   "heading": "The Taylor malpractice cases we see",
+   "id": "the-rochester-hills-malpractice-cases-we-see",
+   "heading": "The Rochester Hills malpractice cases we see",
    "blocks": [
     {
      "t": "ul",
@@ -889,7 +926,7 @@
        },
        {
         "t": "text",
-        "v": " missed stroke, heart attack, sepsis, pulmonary embolism, and bleeds; discharge without a needed test; triage delays; and delayed transfer to a higher-level center."
+        "v": " missed stroke, heart attack, sepsis, pulmonary embolism, and bleeds; discharge without a needed test; triage delays; and a delayed transfer from a Level III center to a higher-level one."
        }
       ],
       [
@@ -919,7 +956,7 @@
        },
        {
         "t": "text",
-        "v": " delayed response to fetal distress, mismanaged shoulder dystocia, delayed cesarean, and the "
+        "v": " delayed response to fetal distress, mismanaged shoulder dystocia, a delayed cesarean, and the "
        },
        {
         "t": "link",
@@ -961,7 +998,7 @@
        },
        {
         "t": "text",
-        "v": " injuries that follow. A child injured before age eight has until the tenth birthday to file. The parents’ own claims do not get that extension."
+        "v": " injuries that follow. A child injured before age eight has until the tenth birthday; the parents’ own claims do not get that extension."
        }
       ],
       [
@@ -976,7 +1013,7 @@
        },
        {
         "t": "text",
-        "v": " including at outpatient surgery centers: wrong-site surgery, retained objects (which extend the limitations period), perforations, and airway and dosing failures causing "
+        "v": " including at outpatient surgery centers: wrong site, retained objects (which extend the limitations period), perforations, and airway and dosing failures causing "
        },
        {
         "t": "link",
@@ -1054,11 +1091,11 @@
        },
        {
         "t": "link",
-        "href": "/personal-injury/wrongful-death/taylor",
+        "href": "/personal-injury/wrongful-death/rochester-hills",
         "c": [
          {
           "t": "text",
-          "v": "Taylor wrongful death page"
+          "v": "Rochester Hills wrongful death page"
          }
         ]
        },
@@ -1072,8 +1109,8 @@
    ]
   },
   {
-   "id": "how-a-taylor-malpractice-case-proceeds",
-   "heading": "How a Taylor malpractice case proceeds",
+   "id": "how-a-rochester-hills-malpractice-case-proceeds",
+   "heading": "How a Rochester Hills malpractice case proceeds",
    "blocks": [
     {
      "t": "ol",
@@ -1090,7 +1127,7 @@
        },
        {
         "t": "text",
-        "v": " including the electronic audit trail, are requested from every provider promptly, under whatever name the provider used at the time of care."
+        "v": " including the electronic audit trail, requested from every provider promptly, under whatever name the provider used at the time of care."
        }
       ],
       [
@@ -1105,7 +1142,7 @@
        },
        {
         "t": "text",
-        "v": " is done in writing by a physician in the defendant’s specialty, before anything is filed."
+        "v": " by a physician in the defendant’s specialty, in writing, before anything is filed."
        }
       ],
       [
@@ -1114,13 +1151,13 @@
         "c": [
          {
           "t": "text",
-          "v": "Identify the defendants and the forum:"
+          "v": "Identify the defendants and the forum."
          }
         ]
        },
        {
         "t": "text",
-        "v": " a hospital entity, physician group, surgery center, urgent care operator, or independent practice goes to the Third Circuit for Wayne County care; a deemed clinic or the VA goes through the SF-95 and the federal court; and EMS is subject to the EMS Act’s gross-negligence standard. Serving a Notice of Intent on a federal provider while the federal two-year clock runs can lose the case."
+        "v": " A hospital entity, physician group, surgery center, urgent care operator, or independent practice goes to the Sixth Circuit for Oakland County care. Oakland University goes to the Court of Claims. A deemed clinic or the VA follows the SF-95 route to federal court. EMS is subject to the EMS Act’s gross-negligence standard. Serving a Notice of Intent on a federal provider while the federal two-year clock runs can lose the case."
        }
       ],
       [
@@ -1135,7 +1172,7 @@
        },
        {
         "t": "text",
-        "v": " (MCL 600.2912b) is served at least 182 days before suit. A timely notice pauses the two-year period during the notice period (MCL 600.5856(c)). If the provider does not respond within 154 days, suit may be filed then."
+        "v": " (MCL 600.2912b), served at least 182 days before suit. A timely notice pauses the two-year period during the notice period (MCL 600.5856(c)). If the provider does not respond within 154 days, suit may be filed then."
        }
       ],
       [
@@ -1150,7 +1187,7 @@
        },
        {
         "t": "text",
-        "v": " are filed together (MCL 600.2912d). The defense then files its own affidavit (MCL 600.2912e)."
+        "v": " (MCL 600.2912d). The defense then files its own affidavit (MCL 600.2912e)."
        }
       ],
       [
@@ -1159,13 +1196,13 @@
         "c": [
          {
           "t": "text",
-          "v": "Discovery, case evaluation, and facilitation"
+          "v": "Discovery, case evaluation, and facilitation."
          }
         ]
        },
        {
         "t": "text",
-        "v": " follow. Cases that do not settle go to trial before a jury in the Third Circuit at the Coleman A. Young Municipal Center in Detroit. Two to four years is typical."
+        "v": " Cases that do not settle go to trial before a jury in the Sixth Circuit at 1200 N. Telegraph Road in Pontiac. Two to four years is typical."
        }
       ],
       [
@@ -1174,13 +1211,13 @@
         "c": [
          {
           "t": "text",
-          "v": "Resolution:"
+          "v": "Resolution."
          }
         ]
        },
        {
         "t": "text",
-        "v": " minors’ and estates’ settlements are approved by the court or the Wayne County Probate Court, and Medicare, Medicaid, and health plan liens are resolved before distribution."
+        "v": " Minors’ and estates’ settlements are approved by the court or the Oakland County Probate Court. Medicare, Medicaid, ERISA plan, and health plan liens are resolved before distribution."
        }
       ]
      ]
@@ -1196,15 +1233,15 @@
      "c": [
       {
        "t": "text",
-       "v": "Malpractice cases are expensive to bring. The same-specialty expert’s review, affidavit, and testimony alone can run to tens of thousands of dollars. ATLAW handles these cases on contingency, advances the costs, and recovers them only from a settlement or verdict. Contingent fees in Michigan injury cases are limited to one-third of the net recovery (MCR 8.121). The first conversation is free."
+       "v": "Malpractice cases are expensive to bring. The same-specialty expert’s review, affidavit, and testimony alone can run to tens of thousands of dollars. ATLAW handles them on contingency, advances the costs, and recovers them only from a settlement or verdict. Contingent fees in Michigan injury cases are limited to one-third of the net recovery (MCR 8.121). The first conversation is free."
       }
      ]
     }
    ]
   },
   {
-   "id": "deadlines-for-taylor-medical-malpractice-claims",
-   "heading": "Deadlines for Taylor medical malpractice claims",
+   "id": "deadlines-for-rochester-hills-medical-malpractice-claims",
+   "heading": "Deadlines for Rochester Hills medical malpractice claims",
    "blocks": [
     {
      "t": "table",
@@ -1313,6 +1350,26 @@
        [
         {
          "t": "text",
+         "v": "Oakland University provider"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Court of Claims notice within 6 months, plus the malpractice rules; this applies to claims against the university itself, and claims against individual physicians may proceed in circuit court"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "MCL 600.6431"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
          "v": "Child injured before age 8"
         }
        ],
@@ -1394,8 +1451,8 @@
    ]
   },
   {
-   "id": "why-taylor-patients-call-atlaw",
-   "heading": "Why Taylor patients call ATLAW",
+   "id": "why-rochester-hills-patients-call-atlaw",
+   "heading": "Why Rochester Hills patients call ATLAW",
    "blocks": [
     {
      "t": "ul",
@@ -1409,7 +1466,7 @@
       [
        {
         "t": "text",
-        "v": "We identify the defendant and the forum before the Notice of Intent is written, including the hospital’s correct entity name for the date of care. The defendant may be a hospital entity, physician group, surgery center, urgent care operator, independent practice, federal clinic, VA, or EMS provider."
+        "v": "We identify the defendant and the forum before the Notice of Intent is written, including the hospital’s correct entity for the date of care. The defendant may be a hospital entity, physician group, surgery center, urgent care operator, independent practice, Oakland University, a federal clinic, the VA, or an EMS provider."
        }
       ],
       [
@@ -1421,7 +1478,7 @@
       [
        {
         "t": "text",
-        "v": "We give an honest evaluation. Many bad outcomes are not malpractice, and we tell you so at no charge."
+        "v": "We give an honest evaluation: many bad outcomes are not malpractice, and we tell you so at no charge."
        }
       ],
       [
@@ -1437,7 +1494,7 @@
  ],
  "faqs": [
   {
-   "question": "How long do I have to sue a doctor or hospital in Taylor?",
+   "question": "How long do I have to sue a doctor or hospital in Rochester Hills?",
    "answer": [
     {
      "t": "text",
@@ -1450,34 +1507,34 @@
    "answer": [
     {
      "t": "text",
-     "v": "182 days, which is not the same as six calendar months. A notice served on the last day of a six-month count can be late, so count the days."
+     "v": "182 days, which is not the same as six calendar months. A notice served on the last day of a six-month count can be late. Count the days."
     }
    ]
   },
   {
-   "question": "My care was at “Beaumont Taylor.” Does the name change matter?",
+   "question": "My care was at “Ascension Providence Rochester” or “Crittenton.” Does the name change matter?",
    "answer": [
     {
      "t": "text",
-     "v": "It can. The Notice of Intent and the complaint must name the legal entity responsible for your care at the time it was given. After a merger or rebranding, that may not be the name on the building today. We identify it from the records and the corporate filings."
+     "v": "It can. The Notice of Intent and the complaint must name the legal entity responsible for your care at the time it was given. After the hospital’s transactions and rebranding, that may not be the name on the building today. We identify it from the records and the corporate filings."
     }
    ]
   },
   {
-   "question": "I was seen in the Corewell Health Taylor emergency room and transferred. Which hospital is responsible?",
+   "question": "I was seen at Henry Ford Rochester and transferred to another hospital. Which hospital is responsible?",
    "answer": [
     {
      "t": "text",
-     "v": "It depends on where the decision or delay that caused the harm happened. That could be the first hospital’s diagnosis and decision to transfer, the transport, or the care after arrival. Each provider is a separate defendant with its own Notice of Intent."
+     "v": "It depends on where the decision or delay that caused the harm happened: the first hospital’s diagnosis and decision to transfer, the transport, or the care after arrival. Each provider is a separate defendant with its own Notice of Intent."
     }
    ]
   },
   {
-   "question": "The emergency doctor didn’t work for the hospital. Can I still claim against the hospital?",
+   "question": "I was treated at Oakland University’s clinic. Is that different?",
    "answer": [
     {
      "t": "text",
-     "v": "Possibly. Where a patient came to the hospital for care and reasonably believed the doctor was the hospital’s, Michigan law can hold the hospital responsible under ostensible agency. The physician group is named too."
+     "v": "Yes. The university is the State, so the claim is filed in the Court of Claims and decided by a judge. Its notice requirements apply in addition to the malpractice rules."
     }
    ]
   },
@@ -1495,7 +1552,7 @@
    "answer": [
     {
      "t": "text",
-     "v": "Only on pain-and-suffering damages. In 2026, the cap is $596,400 in the standard case and $1,065,000 for the catastrophic permanent injuries the statute lists, adjusted each year. Medical bills, lost earnings, and future care are not capped."
+     "v": "On pain-and-suffering damages only. In 2026, the cap is $596,400 in the standard case and $1,065,000 for the catastrophic permanent injuries the statute lists, adjusted each year. Medical bills, lost earnings, and future care are not capped."
     }
    ]
   },
@@ -1510,15 +1567,15 @@
   }
  ],
  "cta": {
-  "id": "talk-to-a-lawyer-about-medical-malpractice-in-taylor",
-  "heading": "Talk to a lawyer about medical malpractice in Taylor",
+  "id": "talk-to-a-lawyer-about-medical-malpractice-in-rochester-hills",
+  "heading": "Talk to a lawyer about medical malpractice in Rochester Hills",
   "blocks": [
    {
     "t": "p",
     "c": [
      {
       "t": "text",
-      "v": "If you or a family member was harmed by medical care in Taylor, call "
+      "v": "If you or a family member was harmed by medical care in Rochester Hills, call "
      },
      {
       "t": "strong",
@@ -1543,7 +1600,7 @@
       "c": [
        {
         "t": "text",
-        "v": "This page is general information about Michigan and federal law as of October 2026 and is not legal advice. Cap figures are from the Michigan Department of Treasury’s annual adjustment under MCL 600.1483. Results depend on the facts of each case, and past results do not guarantee a future outcome."
+        "v": "This page is general information about Michigan and federal law as of October 2026 and is not legal advice. Cap figures are from the Michigan Department of Treasury’s annual adjustment under MCL 600.1483. Henry Ford Rochester Hospital’s trauma level is as stated on Henry Ford Health’s location page; other trauma center levels are from the State of Michigan’s list dated July 31, 2026. Results depend on the facts of each case, and past results do not guarantee a future outcome."
        }
       ]
      }
@@ -1551,10 +1608,10 @@
    }
   ]
  },
- "wordCount": 2475,
- "openItems": 2,
+ "wordCount": 2769,
+ "openItems": 0,
  "source": {
-  "file": "B4-12_Taylor-Medical-Malpractice-Lawyer.docx",
+  "file": "B4-19_Rochester-Hills-Medical-Malpractice-Lawyer.docx",
   "delivered": "October 25, 2026 [CONFIRM: Batch 4 delivery date]"
  }
 }

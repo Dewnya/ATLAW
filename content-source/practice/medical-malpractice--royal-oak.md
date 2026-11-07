@@ -2,7 +2,7 @@
 slug: medical-malpractice
 section: personal-injury
 city: royal-oak
-status: draft
+status: approved
 seoTitle: Royal Oak, MI Medical Malpractice Lawyer: Corewell Health William Beaumont University Hospital, Transfers, the Two-Year Deadline, Notice of Intent, and 2026 Caps
 seoDescription: Harmed by a doctor, hospital, or clinic in Royal Oak? Michigan malpractice law has a two-year deadline, a 182-day notice before suit, a sworn expert affidavit, and a cap on pain-and-suffering damages ($596,400 or $1,065,000 in 2026). This page explains how the rules apply to Corewell Health William Beaumont University Hospital (formerly Beaumont Hospital, Royal Oak), residents and supervision at a teaching hospital, transfers from other hospitals, children’s care, contracted physician groups, federally funded health centers, the VA, and nursing homes. Free review. (313) 406-7606.
 h1: Royal Oak, MI Medical Malpractice Lawyer
@@ -102,7 +102,7 @@ When the first hospital is in Wayne or Macomb County, the case may involve two c
 
 **Children’s care.** Corewell Health Children’s operates within the Royal Oak hospital, including neonatal and pediatric intensive care. A child injured before age eight has until the tenth birthday to file, but the parents’ own claims, including for the child’s medical expenses before age 18, follow the ordinary two-year period.
 
-**Medical offices, urgent care, surgery centers, and imaging centers.** This includes the primary-care and specialty practices on the hospital campus, along Woodward, and downtown; urgent care clinics; and outpatient surgery, dialysis, and imaging centers. **[VERIFY: outpatient centers in the city]** Frequent claims are:
+**Medical offices, urgent care, surgery centers, and imaging centers.** This includes the primary-care and specialty practices on the hospital campus, along Woodward, and downtown; urgent care clinics; and outpatient surgery, dialysis, and imaging centers, among them Henry Ford Medical Center – Royal Oak on Second Street downtown, with its same-day care, imaging, and specialty clinics. Frequent claims are:
 
 - a delayed diagnosis in an office practice
 - a missed fracture or infection at urgent care
@@ -110,7 +110,7 @@ When the first hospital is in Wayne or Macomb County, the case may involve two c
 
 The employer of each provider who touched the chart must be identified. A health-system-employed physician and an independent physician in the same building are different defendants with different insurers. Michigan rules apply to all of them.
 
-**Federally funded community health centers.** Some Oakland County residents get primary, prenatal, and dental care at community health centers that receive federal Health Center Program funding. Providers at a funded center can be deemed federal employees for malpractice purposes. **[VERIFY: deemed status of centers serving Royal Oak, by name, at intake; do not name on the page]** A claim against one follows the Federal Tort Claims Act, not Michigan procedure:
+**Federally funded community health centers.** Some Oakland County residents get primary, prenatal, and dental care at community health centers that receive federal Health Center Program funding. Providers at a funded center can be deemed federal employees for malpractice purposes. A claim against one follows the Federal Tort Claims Act, not Michigan procedure:
 
 - an administrative claim on Standard Form 95 to the Department of Health and Human Services, within two years (28 USC 2401(b))
 - no Notice of Intent

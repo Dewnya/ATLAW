@@ -2,7 +2,7 @@
 slug: medical-malpractice
 section: personal-injury
 city: farmington-hills
-status: draft
+status: approved
 seoTitle: Farmington Hills Medical Malpractice Lawyer: Two-Year Deadline, Notice of Intent, 2026 Caps, and Who the Defendant Is
 seoDescription: Harmed by a doctor, hospital, or clinic in Farmington Hills? Michigan malpractice law has a two-year deadline, a 182-day notice before suit, a sworn expert affidavit, and a cap on pain-and-suffering damages ($596,400 or $1,065,000 in 2026). How the rules apply to Corewell Health Farmington Hills, the Twelve Mile and Grand River medical offices, surgery centers, nursing homes, and federally funded clinics. Free review. (313) 406-7606.
 h1: Farmington Hills Medical Malpractice Lawyer
@@ -41,7 +41,7 @@ A bad outcome is not malpractice. Malpractice is a bad outcome caused by a provi
 
 ## Farmington Hills’ providers, and who answers for each
 
-**Corewell Health Farmington Hills Hospital.** The hospital on Grand River opened as Botsford Hospital, became Beaumont Hospital, Farmington Hills after it joined Beaumont Health, and is now Corewell Health Farmington Hills Hospital following the Beaumont and Spectrum Health merger that formed Corewell Health. **[VERIFY dates of each change]** Some firm pages and many patients’ records still use the older names. For a claim, the name matters in one way: the correct legal entity for the Notice of Intent must be identified from current corporate filings, not from the sign or the letterhead on an older record. Claims against the hospital and its employed providers are generally filed in the Sixth Judicial Circuit Court in Pontiac.
+**Corewell Health Farmington Hills Hospital.** The hospital on Grand River opened as Botsford Hospital, joined Beaumont Health in September 2014 and became Beaumont Hospital, Farmington Hills in 2015, and took the name Corewell Health Farmington Hills Hospital after the February 2022 Beaumont and Spectrum Health merger, when the Corewell Health name was announced in October 2022. Some firm pages and many patients’ records still use the older names. For a claim, the name matters in one way: the correct legal entity for the Notice of Intent must be identified from current corporate filings, not from the sign or the letterhead on an older record. Claims against the hospital and its employed providers are generally filed in the Sixth Judicial Circuit Court in Pontiac.
 
 **Emergency physicians and other contracted groups.** Many hospitals staff their emergency departments, anesthesia, and radiology through separate physician groups. The Notice of Intent must name the group as well as the hospital. Where a patient came to the hospital for care and reasonably believed the doctor worked for it, Michigan law can hold the hospital responsible under ostensible agency, the rule established in *Grewe v Mt Clemens General Hospital* (1978).
 

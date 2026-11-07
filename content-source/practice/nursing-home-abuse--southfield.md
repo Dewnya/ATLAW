@@ -2,7 +2,7 @@
 slug: nursing-home-abuse
 section: personal-injury
 city: southfield
-status: draft
+status: approved
 seoTitle: Southfield Nursing Home Abuse Lawyer: Neglect, Bedsores, Falls, Guardianship, and the Two Deadlines
 seoDescription: Suspect abuse or neglect of a parent in a Southfield nursing home or assisted living facility? The federal and Michigan rules facilities must follow, where to report today, who can bring the claim when the resident cannot, the two-year and three-year deadlines, and the arbitration clause. Free, confidential review. (313) 406-7606.
 h1: Southfield Nursing Home Abuse Lawyer
@@ -23,11 +23,11 @@ ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parkla
 
 | Measure | Figure | Source |
 | --- | --- | --- |
-| Medicare-certified nursing homes in Southfield | 5 | CMS Care Compare |
-| Southfield facilities rated 1 or 2 stars overall; below average on staffing | 2 of 5 rated 1 or 2 stars overall; 3 of 5 rated 1 or 2 stars on staffing (CMS data, September 2026) | CMS Care Compare |
+| Medicare-certified nursing homes in Southfield | 4 | CMS Care Compare, October 2026 |
+| Southfield facilities rated 1 or 2 stars overall; below average on staffing | 2 of 4 rated 1 or 2 stars overall; 1 of 4 rated 1 or 2 stars on staffing; 1 carries the CMS abuse icon (CMS data, October 2026) | CMS Care Compare |
 | Deadline, medical malpractice claims | 2 years, with a 182-day Notice of Intent | MCL 600.5805(8), 600.2912b |
 | Deadline, ordinary negligence claims | 3 years | MCL 600.5805(2) |
-| 2026 cap on noneconomic damages, malpractice claims only | $596,400 / $1,065,000 | MCL 600.1483 **[VERIFY]** |
+| 2026 cap on noneconomic damages, malpractice claims only | $596,400 / $1,065,000 | MCL 600.1483; Michigan Treasury notice, January 2026 |
 | Window to rescind an arbitration agreement | 30 days from signing | 42 CFR 483.70(m) |
 
 Care Compare publishes each certified facility’s star ratings, staffing hours, inspection results, and penalties. Before a family chooses a facility, or when it suspects a problem, the inspection reports are the first place to look; they show whether the facility has been cited for the same failure before.

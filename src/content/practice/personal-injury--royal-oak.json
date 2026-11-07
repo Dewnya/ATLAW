@@ -2,7 +2,7 @@
  "slug": "personal-injury",
  "section": "personal-injury",
  "city": "royal-oak",
- "status": "draft",
+ "status": "approved",
  "seoTitle": "Royal Oak, MI Personal Injury Lawyer: How a Claim Works, Who You Claim Against, the 44th District Court, and What It Costs",
  "seoDescription": "Hurt in Royal Oak? Learn how an injury claim works here: the deadlines; the insurers and underinsured coverage; dram shop claims against downtown bars; the City’s police, fire, parking structures, and sidewalks; MDOT and county roads; the 44th District and Sixth Circuit courts; how damages are valued; and the one-third fee cap. ATLAW: 13 years, more than 10,000 cases. Free review. (313) 406-7606.",
  "h1": "Royal Oak, MI Personal Injury Lawyer",
@@ -251,17 +251,7 @@
        [
         {
          "t": "text",
-         "v": "Same "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "VERIFY",
-           "v": ""
-          }
-         ]
+         "v": "Same"
         }
        ]
       ],
@@ -488,7 +478,7 @@
       [
        {
         "t": "text",
-        "v": "the police report (the Royal Oak Police Department for the city, the State Police on the freeways)"
+        "v": "the police report (the Royal Oak Police Department for the city, released through its Records Division’s online portal about 48 hours after the crash; the State Police on the freeways)"
        }
       ],
       [
@@ -503,21 +493,6 @@
         "v": "the witnesses’ names"
        }
       ]
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "VERIFY",
-         "v": "report request process"
-        }
-       ]
-      }
      ]
     },
     {
@@ -2172,8 +2147,8 @@
    }
   ]
  },
- "wordCount": 3455,
- "openItems": 2,
+ "wordCount": 3463,
+ "openItems": 0,
  "source": {
   "file": "B4-22_Royal-Oak-Personal-Injury-Lawyer.docx",
   "delivered": "October 25, 2026 [CONFIRM: Batch 4 delivery date]"

@@ -1,17 +1,17 @@
 {
  "slug": "medical-malpractice",
  "section": "personal-injury",
- "city": "troy",
- "status": "draft",
- "seoTitle": "Troy, MI Medical Malpractice Lawyer: Two-Year Deadline, Notice of Intent, 2026 Caps, and Who the Defendant Is",
- "seoDescription": "Harmed by a doctor, hospital, or clinic in Troy, Michigan? Michigan malpractice law has a two-year deadline, a 182-day notice before suit, a sworn expert affidavit, and a cap on pain-and-suffering damages ($596,400 or $1,065,000 in 2026). How the rules apply to Corewell Health Troy, the outpatient and specialty centers on Big Beaver and Livernois, surgery centers, nursing homes, and federally funded clinics. Free review. (313) 406-7606.",
- "h1": "Troy, MI Medical Malpractice Lawyer",
- "tagline": "Michigan gives a malpractice victim two years, not three, and requires a written notice and an expert’s sworn affidavit before suit. In Troy the first questions are which health system, practice, or outpatient center employed the provider, and under what legal name.",
- "primaryKeyword": "troy medical malpractice lawyer (10/mo)",
+ "city": "pontiac",
+ "status": "approved",
+ "seoTitle": "Pontiac, MI Medical Malpractice Lawyer: McLaren Oakland, Trinity Health Oakland, the Two-Year Deadline, Notice of Intent, and 2026 Caps",
+ "seoDescription": "Harmed by a doctor, hospital, or clinic in Pontiac? Michigan malpractice law has a two-year deadline, a 182-day notice before suit, a sworn expert affidavit, and a cap on pain-and-suffering damages ($596,400 or $1,065,000 in 2026). How the rules apply to McLaren Oakland, Trinity Health Oakland, the clinics around them, federally funded health centers, the VA, nursing homes, and care in the county jail. Free review. (313) 406-7606.",
+ "h1": "Pontiac, MI Medical Malpractice Lawyer",
+ "tagline": "Michigan gives a malpractice victim two years, not three, and requires a written notice and an expert’s sworn affidavit before suit. Pontiac has two hospitals and the courts that hear their cases, and the first question is which hospital, physician group, or clinic employed the provider, and under what legal name.",
+ "primaryKeyword": "pontiac medical malpractice lawyer (20/mo)",
  "secondaryKeywords": [
-  "medical malpractice lawyer troy mi (10)",
-  "medical malpractice attorney troy",
-  "troy birth injury lawyer (long tail)"
+  "pontiac medical malpractice attorney (20)",
+  "medical malpractice lawyer pontiac mi",
+  "oakland county birth injury lawyer (long tail)"
  ],
  "intro": [
   {
@@ -19,7 +19,7 @@
    "c": [
     {
      "t": "text",
-     "v": "A medical malpractice claim in Michigan has rules no other injury claim has: a two-year deadline instead of three; a written Notice of Intent served on each provider at least 182 days before suit; a sworn Affidavit of Merit from a qualified expert filed with the complaint; strict rules on who that expert can be; and a cap on pain-and-suffering damages. A case that misses any one of them can be lost before its merits are heard. In Troy the first question is who the defendant is. The city’s hospital on Dequindre has changed names, several health systems run outpatient and specialty centers on Big Beaver and Livernois, and the medical office buildings around the hospital campus hold independent practices alongside health-system-employed physicians. Each has its own legal entity, insurer, and notice address, and a federally funded clinic is sued under federal law on a different clock in a different court."
+     "v": "A medical malpractice claim in Michigan has rules no other injury claim has: a two-year deadline instead of three; a written Notice of Intent served on each provider at least 182 days before suit; a sworn Affidavit of Merit from a qualified expert filed with the complaint; strict rules on who that expert can be; and a cap on pain-and-suffering damages. A case that misses any one of them can be lost before its merits are heard. For a Pontiac patient the first question is who the defendant is. Pontiac has two hospitals: McLaren Oakland on North Perry Street and Trinity Health Oakland on Woodward Avenue, both Level II trauma centers on the State’s list, which treat patients from Pontiac and much of north Oakland County. The most serious injuries may be transferred to Corewell Health William Beaumont University Hospital in Royal Oak, the county’s Level I adult trauma center. Day-to-day care happens in the medical offices around both hospitals, in urgent care clinics, and in community health centers, where health-system-employed physicians practice alongside independent practices and separate physician groups. Each has its own legal entity, insurer, and notice address, and a federally funded clinic is sued under federal law on a different clock in a different court."
     }
    ]
   },
@@ -88,11 +88,11 @@
     },
     {
      "t": "link",
-     "href": "/areas-served/troy",
+     "href": "/areas-served/pontiac",
      "c": [
       {
        "t": "text",
-       "v": "Troy page"
+       "v": "Pontiac page"
       }
      ]
     },
@@ -318,7 +318,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Economic damages, medical bills, lost earnings, and the cost of future care, are not capped. For a patient whose career has been cut short, the uncapped lost-earnings claim is often the larger part of the case."
+       "v": "Economic damages, medical bills, lost earnings, and the cost of future care, are not capped. The Affidavit of Merit itself is required by MCL 600.2912d; MCL 600.2169 decides who is qualified to sign it."
       }
      ]
     }
@@ -340,8 +340,8 @@
    ]
   },
   {
-   "id": "troys-providers-and-who-answers-for-each",
-   "heading": "Troy’s providers, and who answers for each",
+   "id": "pontiacs-providers-and-who-answers-for-each",
+   "heading": "Pontiac’s providers, and who answers for each",
    "blocks": [
     {
      "t": "p",
@@ -351,27 +351,31 @@
        "c": [
         {
          "t": "text",
-         "v": "Corewell Health Troy Hospital."
+         "v": "McLaren Oakland and Trinity Health Oakland."
         }
        ]
       },
       {
        "t": "text",
-       "v": " The hospital on Dequindre was Beaumont Hospital, Troy, and became Corewell Health Troy Hospital after the Beaumont and Spectrum Health merger that formed Corewell Health. "
-      },
+       "v": " The city’s two hospitals, both listed as Level II trauma centers, and their employed physicians, nurses, residents, and staff. Trinity Health Oakland was formerly St. Joseph Mercy Oakland, and McLaren Oakland was formerly known by other names; health-system names and ownership change, so the correct legal entity for the Notice of Intent must be identified from current corporate filings and from the name the hospital used at the time of care, not from the sign or the letterhead. Claims against either hospital and its employed providers are filed in the Sixth Judicial Circuit Court (Oakland County Circuit Court) in Pontiac. Both are teaching hospitals with residents, and a resident’s error is generally the hospital’s responsibility."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
       {
        "t": "strong",
        "c": [
         {
-         "t": "placeholder",
-         "kind": "VERIFY",
-         "v": "dates"
+         "t": "text",
+         "v": "Corewell Health William Beaumont University Hospital."
         }
        ]
       },
       {
        "t": "text",
-       "v": " Many patients’ records still use the Beaumont name. For a claim, the name matters in one way: the correct legal entity for the Notice of Intent must be identified from current corporate filings, not from the sign or the letterhead on an older record. Claims against the hospital and its employed providers are generally filed in the Sixth Judicial Circuit Court in Pontiac."
+       "v": " The Level I adult trauma center in Royal Oak, where the most serious injuries, strokes, and cardiac emergencies may be transferred from Pontiac. A transfer case can involve two hospitals, two sets of physicians, and the transport between them, and the question is which delay or decision caused the harm. It is also in Oakland County, so the same circuit court hears it."
       }
      ]
     },
@@ -389,7 +393,7 @@
       },
       {
        "t": "text",
-       "v": " Many hospitals staff their emergency departments, anesthesia, and radiology through separate physician groups. The Notice of Intent must name the group as well as the hospital. Where a patient came to the hospital for care and reasonably believed the doctor worked for it, Michigan law can hold the hospital responsible under ostensible agency, the rule established in "
+       "v": " Many hospitals staff their emergency departments, anesthesia, and radiology through separate physician groups. The Notice of Intent must name the group as well as the hospital. Where a patient came to the hospital for care and reasonably believed the doctor worked for it, Michigan law can hold the hospital responsible under ostensible agency ("
       },
       {
        "t": "em",
@@ -402,7 +406,7 @@
       },
       {
        "t": "text",
-       "v": " (1978)."
+       "v": ", 1978)."
       }
      ]
     },
@@ -414,63 +418,13 @@
        "c": [
         {
          "t": "text",
-         "v": "Outpatient and specialty centers."
+         "v": "Medical offices, urgent care, surgery centers, and imaging centers."
         }
        ]
       },
       {
        "t": "text",
-       "v": " Several health systems operate outpatient medical centers, specialty clinics, imaging, and ambulatory surgery in Troy, including Henry Ford Health’s Troy medical center and a Children’s Hospital of Michigan specialty center. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "VERIFY",
-         "v": "current Troy outpatient and specialty centers and their operating entities"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " An outpatient center’s providers may be employed by the health system, by a separate physician group, or by a joint-venture entity, and each is a different defendant. A child seen at a Troy specialty center may have been treated by physicians employed by a different entity from the Detroit hospital whose name is on the building."
-      }
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "text",
-         "v": "Medical office buildings, surgery centers, and imaging centers."
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " The medical office buildings around the hospital campus and along Big Beaver and elsewhere in the city hold primary-care and specialty practices, and Troy has outpatient surgery, endoscopy, and imaging centers and urgent care clinics. A delayed diagnosis in an office practice and a surgical complication at an outpatient center are frequent claims, and the employer of each provider who touched the chart must be identified, because a health-system-employed physician and an independent physician in the same building are different defendants with different insurers. Michigan rules apply."
-      }
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "text",
-         "v": "The hospitals Troy patients use outside the city."
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " Corewell Health William Beaumont University Hospital in Royal Oak, a Level I trauma center, is in Oakland County, so claims there are also generally filed in the Sixth Circuit. Hospitals across Dequindre in Macomb County, and the Detroit hospitals, are in other circuits. Venue follows where the malpractice occurred and where the defendants are (MCL 600.1629); a case against providers in two counties can raise a choice of courts."
+       "v": " The primary-care and specialty practices around both hospitals, urgent care clinics, and outpatient surgery, dialysis, and imaging centers in and around the city, among them the outpatient surgery and rehabilitation centers on the Trinity Health Oakland campus on Woodward, McLaren Oakland’s outpatient sites on Perry Street, and the dialysis centers on Telegraph and Woodward. A delayed diagnosis in an office practice, a missed fracture or infection at urgent care, and a surgical complication at an outpatient center are frequent claims, and the employer of each provider who touched the chart must be identified, because a health-system-employed physician and an independent physician in the same building are different defendants with different insurers. Michigan rules apply."
       }
      ]
     },
@@ -488,7 +442,7 @@
       },
       {
        "t": "text",
-       "v": " Health centers that receive federal Health Center Program funding can have their providers deemed federal employees for malpractice purposes. A claim against one follows the Federal Tort Claims Act, not Michigan procedure: an administrative claim on Standard Form 95 to the Department of Health and Human Services within two years (28 USC 2401(b)), no Notice of Intent, and suit in the U.S. District Court for the Eastern District of Michigan, tried to a judge without a jury. Identifying a deemed clinic early is the difference between a timely claim and none."
+       "v": " Pontiac has community health centers that receive federal Health Center Program funding, and many Pontiac residents get their primary, prenatal, and dental care there. Providers at a funded center can be deemed federal employees for malpractice purposes. A claim against one follows the Federal Tort Claims Act, not Michigan procedure: an administrative claim on Standard Form 95 to the Department of Health and Human Services within two years (28 USC 2401(b)), no Notice of Intent, and suit in the U.S. District Court for the Eastern District of Michigan, tried to a judge without a jury. Identifying a deemed clinic early is the difference between a timely claim and none."
       }
      ]
     },
@@ -506,7 +460,7 @@
       },
       {
        "t": "text",
-       "v": " Troy veterans treated at the John D. Dingell VA Medical Center in Detroit or a VA outpatient clinic have an FTCA claim on the same path, and may also qualify for disability compensation under 38 USC 1151 where the injury was caused by VA carelessness, negligence, or error, or by an event that was not reasonably foreseeable."
+       "v": " Veterans treated at the John D. Dingell VA Medical Center in Detroit or a VA outpatient clinic have an FTCA claim on the same path, and may also qualify for disability compensation under 38 USC 1151 where the injury was caused by VA carelessness, negligence, or error, or by an event that was not reasonably foreseeable; see our VA benefit claims page."
       }
      ]
     },
@@ -524,7 +478,7 @@
       },
       {
        "t": "text",
-       "v": " Claims against EMS personnel, and against the ambulance service that employs them, public or private, are limited by the Emergency Medical Services Act to gross negligence or willful misconduct (MCL 333.20965(1)). Troy’s ambulance service has been provided by Star EMS, a private company, since early 2026."
+       "v": " In Pontiac, the Waterford Regional Fire Department responds to medical calls under contract with the City, and a private ambulance company transports patients. Claims against EMS personnel, and against the agency that employs them, public or private, including a private ambulance company handling a transfer between hospitals, are limited by the Emergency Medical Services Act to gross negligence or willful misconduct (MCL 333.20965(1))."
       }
      ]
     },
@@ -542,7 +496,7 @@
       },
       {
        "t": "text",
-       "v": " Troy has two Medicare-certified nursing homes and several assisted living and memory care communities, and their claims are sometimes malpractice and sometimes ordinary negligence; which one it is decides whether the Notice of Intent, the two-year period, and the cap apply. A nurse’s wound-care decision is malpractice; leaving a resident unsupervised against the care plan is usually negligence. See our "
+       "v": " Pontiac has one Medicare-certified nursing home, as well as assisted living and adult foster care homes (CMS data, October 2026) A nurse’s wound-care decision is malpractice; leaving a resident unsupervised against the care plan is usually negligence. See our "
       },
       {
        "t": "link",
@@ -557,6 +511,24 @@
       {
        "t": "text",
        "v": "."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Care in the county jail."
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " The Oakland County Jail is on the county campus in Pontiac. A claim about medical care in a jail is usually not a Michigan malpractice case against the County, which has governmental immunity; it is a federal civil-rights claim for deliberate indifference to a serious medical need (42 USC 1983), often against the County and the private company contracted to provide jail medical care, with its own standards and deadlines. A state-law malpractice claim may also lie against the contracted medical provider and its staff, who do not share the County’s immunity."
       }
      ]
     },
@@ -595,8 +567,8 @@
    ]
   },
   {
-   "id": "the-troy-malpractice-cases-we-see",
-   "heading": "The Troy malpractice cases we see",
+   "id": "the-pontiac-malpractice-cases-we-see",
+   "heading": "The Pontiac malpractice cases we see",
    "blocks": [
     {
      "t": "ul",
@@ -613,7 +585,22 @@
        },
        {
         "t": "text",
-        "v": ": missed stroke, heart attack, sepsis, pulmonary embolism, and bleeds; discharge without a needed test; triage delays."
+        "v": ": missed stroke, heart attack, sepsis, pulmonary embolism, and bleeds; discharge without a needed test; triage delays; and delayed transfer to a higher-level center."
+       }
+      ],
+      [
+       {
+        "t": "strong",
+        "c": [
+         {
+          "t": "text",
+          "v": "Urgent care and clinic errors"
+         }
+        ]
+       },
+       {
+        "t": "text",
+        "v": ": chest pain, abdominal pain, or a head injury sent home as minor; missed fractures, infections, and high-risk pregnancies."
        }
       ],
       [
@@ -763,11 +750,11 @@
        },
        {
         "t": "link",
-        "href": "/personal-injury/wrongful-death/troy",
+        "href": "/personal-injury/wrongful-death/pontiac",
         "c": [
          {
           "t": "text",
-          "v": "Troy wrongful death page"
+          "v": "Pontiac wrongful death page"
          }
         ]
        },
@@ -781,8 +768,8 @@
    ]
   },
   {
-   "id": "how-a-troy-malpractice-case-proceeds",
-   "heading": "How a Troy malpractice case proceeds",
+   "id": "how-a-pontiac-malpractice-case-proceeds",
+   "heading": "How a Pontiac malpractice case proceeds",
    "blocks": [
     {
      "t": "ol",
@@ -799,7 +786,7 @@
        },
        {
         "t": "text",
-        "v": ", including the electronic audit trail, from every provider, requested in the first week, under whatever name the provider used at the time of care."
+        "v": ", including the electronic audit trail, from every provider, requested promptly, under whatever name the provider used at the time of care."
        }
       ],
       [
@@ -819,17 +806,8 @@
       ],
       [
        {
-        "t": "strong",
-        "c": [
-         {
-          "t": "text",
-          "v": "Identify the defendants and the forum"
-         }
-        ]
-       },
-       {
         "t": "text",
-        "v": ": hospital entity, physician group, outpatient center operator, surgery center, or independent practice (Sixth Circuit for Oakland County care); deemed clinic or VA (SF-95 and the federal court); public EMS (governmental immunity). Serving a Notice of Intent on a federal provider while the federal two-year clock runs can lose the case."
+        "v": "EMS (EMS Act) Serving a Notice of Intent on a federal provider while the federal two-year clock runs can lose the case."
        }
       ],
       [
@@ -874,7 +852,7 @@
        },
        {
         "t": "text",
-        "v": ", and, for cases that do not settle, trial to a jury in Pontiac. Two to four years is typical."
+        "v": ", and, for cases that do not settle, trial to a jury in the Sixth Circuit on Telegraph Road. Two to four years is typical."
        }
       ],
       [
@@ -889,7 +867,7 @@
        },
        {
         "t": "text",
-        "v": ", with minors’ and estates’ settlements approved by the court and Medicare, Medicaid, and health plan liens resolved before distribution."
+        "v": ", with minors’ and estates’ settlements approved by the court or the Oakland County Probate Court, and Medicare, Medicaid, and health plan liens resolved before distribution."
        }
       ]
      ]
@@ -905,15 +883,15 @@
      "c": [
       {
        "t": "text",
-       "v": "Malpractice cases are expensive to bring; the same-specialty expert’s review, affidavit, and testimony alone can run to tens of thousands of dollars. ATLAW handles them on contingency, advances the costs, and recovers them only from a settlement or verdict. Contingent fees in Michigan injury cases are limited to one-third of the net recovery (MCR 8.121). At ATLAW, case costs are deducted from the recovery first, and the one-third fee is calculated on the remaining amount; if there is no recovery, you owe no fee and no costs. The first conversation and the initial records review are free."
+       "v": "Malpractice cases are expensive to bring; the same-specialty expert’s review, affidavit, and testimony alone can run to tens of thousands of dollars. ATLAW handles them on contingency, advances the costs, and recovers them only from a settlement or verdict. Contingent fees in Michigan injury cases are limited to one-third of the net recovery (MCR 8.121). The first conversation is free."
       }
      ]
     }
    ]
   },
   {
-   "id": "deadlines-for-troy-medical-malpractice-claims",
-   "heading": "Deadlines for Troy medical malpractice claims",
+   "id": "deadlines-for-pontiac-medical-malpractice-claims",
+   "heading": "Deadlines for Pontiac medical malpractice claims",
    "blocks": [
     {
      "t": "table",
@@ -1048,13 +1026,13 @@
        [
         {
          "t": "text",
-         "v": "2 years, with the estate’s savings provision; 6-year outer limit"
+         "v": "2 years, with the estate’s savings provision; no later than 3 years after the 2-year period ends"
         }
        ],
        [
         {
          "t": "text",
-         "v": "MCL 600.5805(8), 600.5852"
+         "v": "MCL 600.5805(8), 600.5852(4)"
         }
        ]
       ],
@@ -1082,19 +1060,39 @@
        [
         {
          "t": "text",
-         "v": "Public EMS"
+         "v": "EMS, public or private"
         }
        ],
        [
         {
          "t": "text",
-         "v": "Governmental immunity rules; gross negligence standard"
+         "v": "Gross negligence standard"
         }
        ],
        [
         {
          "t": "text",
-         "v": "MCL 691.1407, 333.20965"
+         "v": "MCL 333.20965"
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "text",
+         "v": "Jail medical care (federal civil-rights claim)"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "Generally 3 years, borrowing Michigan’s injury period"
+        }
+       ],
+       [
+        {
+         "t": "text",
+         "v": "42 USC 1983; MCL 600.5805(2)"
         }
        ]
       ]
@@ -1103,8 +1101,8 @@
    ]
   },
   {
-   "id": "why-troy-patients-call-atlaw",
-   "heading": "Why Troy patients call ATLAW",
+   "id": "why-pontiac-patients-call-atlaw",
+   "heading": "Why Pontiac patients call ATLAW",
    "blocks": [
     {
      "t": "ul",
@@ -1118,13 +1116,13 @@
       [
        {
         "t": "text",
-        "v": "The defendant and the forum identified before the Notice of Intent is written: hospital entity, physician group, outpatient center operator, surgery center, independent practice, federal clinic, or EMS provider."
+        "v": "The defendant and the forum identified before the Notice of Intent is written: hospital entity, physician group, surgery center, urgent care operator, independent practice, federal clinic, VA, or EMS provider."
        }
       ],
       [
        {
         "t": "text",
-        "v": "Records requested in the first week; expert review before anything is filed; costs advanced."
+        "v": "Records requested promptly; expert review before anything is filed; costs advanced."
        }
       ],
       [
@@ -1146,7 +1144,7 @@
  ],
  "faqs": [
   {
-   "question": "How long do I have to sue a Troy doctor or hospital?",
+   "question": "How long do I have to sue a doctor or hospital in Pontiac?",
    "answer": [
     {
      "t": "text",
@@ -1155,38 +1153,47 @@
    ]
   },
   {
-   "question": "My records say Beaumont Troy. Does the name change affect my claim?",
+   "question": "Is the Notice of Intent “six months” or 182 days?",
    "answer": [
     {
      "t": "text",
-     "v": "Not the claim itself, but it affects who is named. The Notice of Intent must go to the legal entity responsible for the care, identified from current filings rather than the name on the record."
+     "v": "182 days, which is not the same as six calendar months. A notice served on the last day of a six-month count can be late. Count the days."
     }
    ]
   },
   {
-   "question": "My child was treated at a specialty center in Troy with a Detroit hospital’s name on it. Who is the defendant?",
+   "question": "I was sent home from urgent care and it turned out to be serious. Is that malpractice?",
    "answer": [
     {
      "t": "text",
-     "v": "The entity that employed the physicians and staff who treated your child, which may not be the hospital whose name is on the building. That is identified from the records and corporate filings before the Notice of Intent goes out."
+     "v": "It can be, if a reasonably careful provider would have recognized the warning signs or ordered the test, and the delay changed the outcome. The urgent care operator, not the hospital system whose name may be on the building, is often the employer, so the right defendant has to be identified first."
     }
    ]
   },
   {
-   "question": "My doctor’s office is in a medical building next to the hospital. Is the hospital responsible?",
+   "question": "I was transferred from McLaren Oakland or Trinity Health Oakland to Royal Oak. Which hospital is responsible?",
    "answer": [
     {
      "t": "text",
-     "v": "Not necessarily. Many physicians in those buildings are independent or belong to separate groups. The physician’s employer must be identified, and the hospital is responsible only for its own employees and, in some emergency settings, under ostensible agency."
+     "v": "It depends on where the decision or delay that caused the harm happened: the first hospital’s diagnosis and decision to transfer, the transport, or the care after arrival. Each provider is a separate defendant with its own Notice of Intent."
     }
    ]
   },
   {
-   "question": "My care was at a community health center. Is that different?",
+   "question": "I’m a veteran and was treated at the VA. Is that different?",
    "answer": [
     {
      "t": "text",
-     "v": "It may be. If the center is federally funded and its providers are deemed federal employees, the claim is against the United States under the Federal Tort Claims Act: an administrative claim within two years, no Notice of Intent, and suit in federal court without a jury. We check the center’s status at the first call."
+     "v": "Yes. A claim against VA care follows the Federal Tort Claims Act: an administrative claim within two years, no Notice of Intent, and suit in federal court without a jury. A veteran may also qualify for disability compensation for an injury caused by VA error or an unforeseeable event."
+    }
+   ]
+  },
+  {
+   "question": "My care was at a community health center in Pontiac. Is that different?",
+   "answer": [
+    {
+     "t": "text",
+     "v": "It may be. If the center is federally funded and its providers are deemed federal employees, the claim is against the United States under the Federal Tort Claims Act. We check the center’s status at the first call."
     }
    ]
   },
@@ -1210,15 +1217,15 @@
   }
  ],
  "cta": {
-  "id": "talk-to-a-lawyer-about-troy-medical-malpractice",
-  "heading": "Talk to a lawyer about Troy medical malpractice",
+  "id": "talk-to-a-lawyer-about-medical-malpractice-in-pontiac",
+  "heading": "Talk to a lawyer about medical malpractice in Pontiac",
   "blocks": [
    {
     "t": "p",
     "c": [
      {
       "t": "text",
-      "v": "If you or a family member was harmed by medical care in Troy, call "
+      "v": "If you or a family member was harmed by medical care in Pontiac, call "
      },
      {
       "t": "strong",
@@ -1243,7 +1250,7 @@
       "c": [
        {
         "t": "text",
-        "v": "This page is general information about Michigan and federal law as of October 2026 and is not legal advice. Cap figures are from the Michigan Department of Treasury’s annual adjustment under MCL 600.1483. Results depend on the facts of each case, and past results do not guarantee a future outcome."
+        "v": "This page is general information about Michigan and federal law as of October 2026 and is not legal advice. Cap figures are from the Michigan Department of Treasury’s annual adjustment under MCL 600.1483. Trauma center levels are from the State of Michigan’s Level I and II trauma center list dated July 31, 2026. Results depend on the facts of each case, and past results do not guarantee a future outcome."
        }
       ]
      }
@@ -1251,10 +1258,10 @@
    }
   ]
  },
- "wordCount": 2366,
- "openItems": 2,
+ "wordCount": 2530,
+ "openItems": 0,
  "source": {
-  "file": "B3-65_Troy-Medical-Malpractice-Lawyer.docx",
+  "file": "B3-88_Pontiac-Medical-Malpractice-Lawyer.docx",
   "delivered": "October 25, 2026 [CONFIRM: Batch 3 delivery date]"
  }
 }

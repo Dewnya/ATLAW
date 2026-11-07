@@ -2,7 +2,7 @@
  "slug": "personal-injury",
  "section": "personal-injury",
  "city": "southfield",
- "status": "draft",
+ "status": "approved",
  "seoTitle": "Southfield Personal Injury Lawyer: How a Southfield Injury Claim Works, What It Is Worth, and What It Costs",
  "seoDescription": "Hurt in Southfield? A personal injury lawyer explains how a Southfield claim works: the deadlines, the insurers and road agencies involved, the 46th District and Oakland County Circuit Court, how damages are valued, and the one-third fee cap. ATLAW: 13 years, more than 10,000 cases. Free review. (313) 406-7606.",
  "h1": "Southfield Personal Injury Lawyer",
@@ -128,19 +128,19 @@
        [
         {
          "t": "text",
-         "v": "Telegraph at 12 Mile, 2024"
+         "v": "Telegraph at 12 Mile, 2025"
         }
        ],
        [
         {
          "t": "text",
-         "v": "121 crashes; third-highest intersection count in Michigan"
+         "v": "121 crashes, 28 injuries; third-highest intersection count in Michigan"
         }
        ],
        [
         {
          "t": "text",
-         "v": "Michigan State Police crash data, 2025"
+         "v": "Michigan State Police crash data, 2025 (published September 2026)"
         }
        ]
       ],
@@ -188,29 +188,19 @@
        [
         {
          "t": "text",
-         "v": "Licensed nursing homes in Southfield"
+         "v": "Medicare-certified nursing homes in Southfield"
         }
        ],
        [
         {
          "t": "text",
-         "v": "5"
+         "v": "4"
         }
        ],
        [
         {
          "t": "text",
-         "v": "CMS Care Compare "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "VERIFY",
-           "v": "at publication"
-          }
-         ]
+         "v": "CMS Care Compare, October 2026"
         }
        ]
       ],
@@ -1067,8 +1057,8 @@
    }
   ]
  },
- "wordCount": 1866,
- "openItems": 1,
+ "wordCount": 1870,
+ "openItems": 0,
  "source": {
   "file": "B3-02_Southfield-Personal-Injury-Lawyer.docx",
   "delivered": "October 23, 2026 [CONFIRM: Batch 3 delivery date]"

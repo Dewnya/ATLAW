@@ -2,7 +2,7 @@
 slug: wrongful-death
 section: personal-injury
 city: canton
-status: draft
+status: approved
 seoTitle: Canton, MI Wrongful Death Lawyer: Who Files, What the Family Recovers, and the Wayne County Probate Step
 seoDescription: When a family member dies in Canton, Michigan because of someone’s negligence, Michigan law gives the claim to the estate, not the family directly. How the Wayne County Probate Court appointment works, what the family can recover, no-fault survivor’s loss benefits, workplace and nursing home deaths, and the deadlines, including the shorter ones. Free, confidential consultation. (313) 406-7606.
 h1: Canton, MI Wrongful Death Lawyer
@@ -29,7 +29,7 @@ ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parkla
 | Wayne County pedestrian-involved crashes, 2020–2024 | 637, 40 of them fatal | MSP, Pedestrian Crash Report |
 | Wayne County crashes involving trucks and buses, 2024 | 3,916 | MSP 2024 |
 | People killed in heavy truck and bus crashes, Michigan, 2024 | 110 | MSP, Heavy Trucks and Buses 2024 |
-| Ford Road at Lilley, Canton, 2025 | 64 crashes; seventh among Wayne County intersections | MSP 2025 crash data, as compiled and reported **[VERIFY]** |
+| Ford Road at Lilley, Canton, 2025 | 64 crashes; seventh among Wayne County intersections | MSP 2025 crash data, as compiled and reported September 2026 |
 | 2026 medical malpractice noneconomic damages caps (apply in death cases) | $596,400 / $1,065,000; the lower cap generally applies in death cases | MCL 600.1483 |
 
 ## How a Canton wrongful death claim works

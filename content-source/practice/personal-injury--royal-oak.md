@@ -2,7 +2,7 @@
 slug: personal-injury
 section: personal-injury
 city: royal-oak
-status: draft
+status: approved
 seoTitle: Royal Oak, MI Personal Injury Lawyer: How a Claim Works, Who You Claim Against, the 44th District Court, and What It Costs
 seoDescription: Hurt in Royal Oak? Learn how an injury claim works here: the deadlines; the insurers and underinsured coverage; dram shop claims against downtown bars; the City’s police, fire, parking structures, and sidewalks; MDOT and county roads; the 44th District and Sixth Circuit courts; how damages are valued; and the one-third fee cap. ATLAW: 13 years, more than 10,000 cases. Free review. (313) 406-7606.
 h1: Royal Oak, MI Personal Injury Lawyer
@@ -39,7 +39,7 @@ The first conversation is free, in English, Arabic, French, Mandarin, Urdu, or S
 | Measure | Figure | Source |
 | --- | --- | --- |
 | Royal Oak crashes / fatal crashes / injury crashes, 2024 | 1,992 / 2 / 344 | MSP, Michigan Traffic Crash Facts 2024, Oakland County profile |
-| Royal Oak people killed / seriously injured, 2024 | 5 / 28 | Same **[VERIFY]** |
+| Royal Oak people killed / seriously injured, 2024 | 5 / 28 | Same |
 | Royal Oak alcohol-involved crashes, 2024 | 57 (about 1 in 15 in Oakland County) | Same |
 | Oakland County crashes / injured / seriously injured / killed, 2024 | 35,951 / 9,139 / 509 / 68 | Same |
 | Oakland County pedestrian / bicyclist-involved crashes, 2024 | 229 / 201 | Same |
@@ -62,11 +62,9 @@ The first conversation is free, in English, Arabic, French, Mandarin, Urdu, or S
 
 We also obtain:
 
-- the police report (the Royal Oak Police Department for the city, the State Police on the freeways)
+- the police report (the Royal Oak Police Department for the city, released through its Records Division’s online portal about 48 hours after the crash; the State Police on the freeways)
 - the Royal Oak Fire Department EMS run sheet
 - the witnesses’ names
-
-**[VERIFY: report request process]**
 
 **The first month.** We identify every policy that may pay:
 

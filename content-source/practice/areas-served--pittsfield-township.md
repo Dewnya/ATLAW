@@ -2,7 +2,7 @@
 slug: areas-served
 section: areas-served
 city: pittsfield-township
-status: draft
+status: approved
 seoTitle: Personal Injury Law Firm Serving Pittsfield Charter Township, MI: Carpenter Road, Washtenaw Avenue, Michigan Avenue, and Who Owns the Road
 seoDescription: Injured in Pittsfield Township? 1,143 crashes in 2024, and four of Washtenaw County’s ten highest-crash intersections, three of them on Carpenter Road. Covers who owns each road (the Road Commission, MDOT, or the township for sidewalks), the 120-day and six-month notices, Ann Arbor and Ypsilanti mailing addresses, trauma care at Trinity Health Ann Arbor and U-M, and the 14A-1 District Court on Washtenaw Avenue. Free review. (313) 406-7606.
 h1: Personal Injury Law Firm Serving Pittsfield Township, MI
@@ -107,7 +107,7 @@ The City of Ann Arbor’s crosswalk ordinance does not apply in the township. Th
 
 **No-fault.** Your own household’s auto policy pays your medical bills and lost wages, whoever was at fault. A pedestrian or cyclist with no household policy is covered by the Michigan Assigned Claims Plan (MCL 500.3114, 500.3115, 500.3172). A claim against the at-fault driver for pain and suffering requires a serious impairment of body function, permanent serious disfigurement, or death (MCL 500.3135). It is reduced by your share of fault, and noneconomic damages are barred if you were more than 50% at fault (MCL 600.2959). The mini tort claim for vehicle damage is up to $3,000 (MCL 500.3135(3)(e)).
 
-**Buses.** TheRide runs routes on Washtenaw Avenue, Carpenter Road, State Street, and Packard. **[VERIFY: current routes]** A crash with a TheRide bus is a claim under the motor vehicle exception to governmental immunity (MCL 691.1405). A bus passenger’s no-fault benefits follow the bus-passenger priority rules (MCL 500.3114(2)). See our [bus accident page](/personal-injury/bus-accidents).
+**Buses.** TheRide runs routes 4, 5, 6, 66, and 67 through the township, on Washtenaw Avenue, Packard, State Street, Ellsworth, and Carpenter Road. A crash with a TheRide bus is a claim under the motor vehicle exception to governmental immunity (MCL 691.1405). A bus passenger’s no-fault benefits follow the bus-passenger priority rules (MCL 500.3114(2)). See our [bus accident page](/personal-injury/bus-accidents).
 
 **The hospitals.**
 

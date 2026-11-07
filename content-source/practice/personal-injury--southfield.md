@@ -2,7 +2,7 @@
 slug: personal-injury
 section: personal-injury
 city: southfield
-status: draft
+status: approved
 seoTitle: Southfield Personal Injury Lawyer: How a Southfield Injury Claim Works, What It Is Worth, and What It Costs
 seoDescription: Hurt in Southfield? A personal injury lawyer explains how a Southfield claim works: the deadlines, the insurers and road agencies involved, the 46th District and Oakland County Circuit Court, how damages are valued, and the one-third fee cap. ATLAW: 13 years, more than 10,000 cases. Free review. (313) 406-7606.
 h1: Southfield Personal Injury Lawyer
@@ -24,10 +24,10 @@ ATLAW is a personal injury firm at 3 Parklane Boulevard in Dearborn, about 20 mi
 | Measure | Figure | Source |
 | --- | --- | --- |
 | Southfield crashes / injured / killed, 2024 | 3,313 / 945 / 10 | MSP Michigan Traffic Crash Facts, city profile |
-| Telegraph at 12 Mile, 2024 | 121 crashes; third-highest intersection count in Michigan | Michigan State Police crash data, 2025 |
+| Telegraph at 12 Mile, 2025 | 121 crashes, 28 injuries; third-highest intersection count in Michigan | Michigan State Police crash data, 2025 (published September 2026) |
 | Alcohol-involved crashes in Southfield, 2024 | 83; the most of the 24 suburbs ATLAW serves | MSP 2024 |
 | Oakland County crashes / injured / killed, 2024 | 35,951 / 9,139 / 68 | MSP, Michigan Traffic Crash Facts 2024 |
-| Licensed nursing homes in Southfield | 5 | CMS Care Compare **[VERIFY at publication]** |
+| Medicare-certified nursing homes in Southfield | 4 | CMS Care Compare, October 2026 |
 | Contingency fee cap in Michigan injury cases | One-third of the net recovery | MCR 8.121 |
 
 ## What a Southfield personal injury lawyer does

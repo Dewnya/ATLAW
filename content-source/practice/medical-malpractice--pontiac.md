@@ -2,7 +2,7 @@
 slug: medical-malpractice
 section: personal-injury
 city: pontiac
-status: draft
+status: approved
 seoTitle: Pontiac, MI Medical Malpractice Lawyer: McLaren Oakland, Trinity Health Oakland, the Two-Year Deadline, Notice of Intent, and 2026 Caps
 seoDescription: Harmed by a doctor, hospital, or clinic in Pontiac? Michigan malpractice law has a two-year deadline, a 182-day notice before suit, a sworn expert affidavit, and a cap on pain-and-suffering damages ($596,400 or $1,065,000 in 2026). How the rules apply to McLaren Oakland, Trinity Health Oakland, the clinics around them, federally funded health centers, the VA, nursing homes, and care in the county jail. Free review. (313) 406-7606.
 h1: Pontiac, MI Medical Malpractice Lawyer
@@ -47,7 +47,7 @@ A bad outcome is not malpractice. Malpractice is a bad outcome caused by a provi
 
 **Emergency physicians and other contracted groups.** Many hospitals staff their emergency departments, anesthesia, and radiology through separate physician groups. The Notice of Intent must name the group as well as the hospital. Where a patient came to the hospital for care and reasonably believed the doctor worked for it, Michigan law can hold the hospital responsible under ostensible agency (*Grewe v Mt Clemens General Hospital*, 1978).
 
-**Medical offices, urgent care, surgery centers, and imaging centers.** The primary-care and specialty practices around both hospitals, urgent care clinics, and outpatient surgery, dialysis, and imaging centers in and around the city. **[VERIFY: outpatient centers in the city]** A delayed diagnosis in an office practice, a missed fracture or infection at urgent care, and a surgical complication at an outpatient center are frequent claims, and the employer of each provider who touched the chart must be identified, because a health-system-employed physician and an independent physician in the same building are different defendants with different insurers. Michigan rules apply.
+**Medical offices, urgent care, surgery centers, and imaging centers.** The primary-care and specialty practices around both hospitals, urgent care clinics, and outpatient surgery, dialysis, and imaging centers in and around the city, among them the outpatient surgery and rehabilitation centers on the Trinity Health Oakland campus on Woodward, McLaren Oakland’s outpatient sites on Perry Street, and the dialysis centers on Telegraph and Woodward. A delayed diagnosis in an office practice, a missed fracture or infection at urgent care, and a surgical complication at an outpatient center are frequent claims, and the employer of each provider who touched the chart must be identified, because a health-system-employed physician and an independent physician in the same building are different defendants with different insurers. Michigan rules apply.
 
 **Federally funded community health centers.** Pontiac has community health centers that receive federal Health Center Program funding, and many Pontiac residents get their primary, prenatal, and dental care there. Providers at a funded center can be deemed federal employees for malpractice purposes. A claim against one follows the Federal Tort Claims Act, not Michigan procedure: an administrative claim on Standard Form 95 to the Department of Health and Human Services within two years (28 USC 2401(b)), no Notice of Intent, and suit in the U.S. District Court for the Eastern District of Michigan, tried to a judge without a jury. Identifying a deemed clinic early is the difference between a timely claim and none.
 

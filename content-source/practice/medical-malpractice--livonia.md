@@ -2,7 +2,7 @@
 slug: medical-malpractice
 section: personal-injury
 city: livonia
-status: draft
+status: approved
 seoTitle: Livonia Medical Malpractice Lawyer: Two-Year Deadline, Notice of Intent, 2026 Caps, and Who the Defendant Is
 seoDescription: Harmed by a doctor, hospital, or clinic in Livonia? Michigan malpractice law has a two-year deadline, a 182-day notice before suit, a sworn expert affidavit, and a cap on pain-and-suffering damages ($596,400 or $1,065,000 in 2026). How the rules apply to Trinity Health Livonia, the hospitals across the Oakland County line, surgery centers, nursing homes, and federally funded clinics. Free review. (313) 406-7606.
 h1: Livonia Medical Malpractice Lawyer
@@ -41,7 +41,7 @@ A bad outcome is not malpractice. Malpractice is a bad outcome caused by a provi
 
 ## Livonia’s providers, and who answers for each
 
-**Trinity Health Livonia Hospital.** The hospital on Five Mile Road was St. Mary Mercy Livonia for decades. Trinity Health Michigan announced in 2022 that it would rebrand its hospitals in phases during 2022 and 2023, and the Livonia hospital became Trinity Health St. Mary Mercy Livonia and is now known as Trinity Health Livonia Hospital. **[VERIFY current name and dates]** Some firm pages and many patients’ records still use the old name. For a claim, the name matters in one way: the correct legal entity for the Notice of Intent must be identified from current corporate filings, not from the sign or the letterhead on an older record. Claims against the hospital and its employed providers are filed in the Third Judicial Circuit Court in Detroit.
+**Trinity Health Livonia Hospital.** The hospital on Five Mile Road was St. Mary Mercy Livonia for decades. Trinity Health Michigan announced in April 2022 that it would rebrand its hospitals in phases; the Livonia hospital became Trinity Health St. Mary Mercy Livonia that year and Trinity Health Livonia Hospital in 2023. Some firm pages and many patients’ records still use the old name. For a claim, the name matters in one way: the correct legal entity for the Notice of Intent must be identified from current corporate filings, not from the sign or the letterhead on an older record. Claims against the hospital and its employed providers are filed in the Third Judicial Circuit Court in Detroit.
 
 **Emergency physicians and other contracted groups.** Many hospitals staff their emergency departments, anesthesia, and radiology through separate physician groups. The Notice of Intent must name the group as well as the hospital. Where a patient came to the hospital for care and reasonably believed the doctor worked for it, Michigan law can hold the hospital responsible under ostensible agency, the rule established in *Grewe v Mt Clemens General Hospital* (1978).
 

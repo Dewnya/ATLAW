@@ -2,7 +2,7 @@
 slug: dog-bites
 section: personal-injury
 city: canton
-status: draft
+status: approved
 seoTitle: Canton, MI Dog Bite Lawyer: Michigan’s Strict Liability Statute, Reporting a Bite in Canton, Who Pays, and Children’s Claims
 seoDescription: Bitten by a dog in Canton, Michigan? Michigan’s statute makes the owner liable even if the dog never bit before, and the claim is usually paid by homeowner’s or renter’s insurance. How to report the bite in Canton Township, MCL 287.351, the provocation defense, landlords and condominiums, delivery workers, children’s claims, and the deadlines. Free review. (313) 406-7606.
 h1: Canton, MI Dog Bite Lawyer
@@ -74,7 +74,7 @@ Dog bites cause puncture and crush wounds, torn tendons and nerves, hand and for
 
 1. **Get medical care the same day**, even for a bite that looks minor; the record dated that day is the case.
 2. **Identify the dog and the owner**: name, address or unit number, and vaccination status. If the owner refuses, note the address and the dog’s description; the township’s license records can identify the owner.
-3. **Report the bite** to Canton Public Safety. **[VERIFY number]** In an apartment or condominium community, also report it to the management office in writing and keep a copy.
+3. **Report the bite** to Canton Public Safety at (734) 394-5400, which handles animal control for the township. In an apartment or condominium community, also report it to the management office in writing and keep a copy.
 4. **Photograph the wounds** that day and as they heal, and the place where the bite happened.
 5. **Get witness names.** Provocation is decided by what witnesses say happened in the seconds before the bite.
 6. **Do not give a recorded statement** to the owner’s insurer or accept an early offer; facial scarring is not valued until it has matured.
@@ -101,7 +101,7 @@ Dog bite claims up to $25,000 are filed in the 35th District Court at 660 Plymou
 
 ## Frequently asked questions
 
-**How do I report a dog bite in Canton, Michigan?** Call Canton Public Safety, the township’s police and fire department; call 911 if the attack is in progress or the injury is serious. The report starts the dog’s rabies observation and becomes the record of the bite. **[VERIFY]**
+**How do I report a dog bite in Canton, Michigan?** Call Canton Public Safety, the township’s police and fire department, at (734) 394-5400; call 911 if the attack is in progress or the injury is serious. The report starts the dog’s rabies observation and becomes the record of the bite.
 
 **I read that Canton dog bite claims must be filed within two years. Is that right?** Not in Michigan. Many pages about “Canton” dog bites describe Canton, Ohio or Canton, Georgia, where the deadlines and liability rules differ. In Michigan, an adult has three years to sue, a child has until the later of three years or one year after turning 18, and the owner is liable under MCL 287.351 whether or not the dog had bitten before.
 

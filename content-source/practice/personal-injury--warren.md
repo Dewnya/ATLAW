@@ -2,7 +2,7 @@
 slug: personal-injury
 section: personal-injury
 city: warren
-status: draft
+status: approved
 seoTitle: Warren Personal Injury Lawyer: How a Warren Injury Claim Works, What It Is Worth, and What It Costs
 seoDescription: Hurt in Warren? How a Warren injury claim works: the deadlines, the insurers, road agencies, and employers involved, the 37th District and Sixteenth Circuit courts, how damages are valued, and the one-third fee cap. ATLAW: 13 years, more than 10,000 cases. Free review. (313) 406-7606.
 h1: Warren Personal Injury Lawyer
@@ -24,7 +24,7 @@ ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parkla
 | Measure | Figure | Source |
 | --- | --- | --- |
 | Warren crashes / injured / killed, 2024 | 4,086 / 1,261 / 13 | MSP Michigan Traffic Crash Facts, city profile |
-| 11 Mile at Van Dyke, 2025 | **[CONFIRM: 2025 crash count for this intersection from the Michigan State Police 2025 data]** | Michigan State Police crash data, 2025 |
+| 11 Mile at Van Dyke, 2025 | 180 crashes, 33 injuries, 1 death; second-highest intersection count in Michigan (185 crashes in 2024, the most in the state) | Michigan State Police crash data, 2025 (published September 2026) |
 | Macomb County crashes / injured / killed, 2024 | 21,960 / 6,596 / 70 | MSP, Michigan Traffic Crash Facts 2024 |
 | Macomb County crashes involving trucks and buses, 2024 | 1,257 | MSP 2024 |
 | Medicare-certified nursing homes in Warren | 6 | CMS Care Compare, July and September 2026 |

@@ -2,7 +2,7 @@
 slug: nursing-home-abuse
 section: personal-injury
 city: canton
-status: draft
+status: approved
 seoTitle: Canton, MI Nursing Home Abuse Lawyer: Neglect, Understaffing, Assisted Living, Hidden Cameras, and the Two Deadlines
 seoDescription: Suspect abuse or neglect of a parent in a Canton, Michigan nursing home, assisted living, or memory care community? The staffing rules Michigan sets, where to report today, whether you can put a camera in the room, who can bring the claim when the resident cannot, the two-year and three-year deadlines, and the arbitration clause. Free, confidential review. (313) 406-7606.
 h1: Canton, MI Nursing Home Abuse Lawyer
@@ -75,11 +75,11 @@ Families who see bruises, cuts, or weight loss sometimes hide a camera in a resi
 2. **Michigan Adult Protective Services**, 855-444-3911, 24 hours.
 3. **LARA**, 800-882-6006 or online, for a complaint about a licensed facility.
 4. **The Michigan Long-Term Care Ombudsman**, 866-485-9393, a free, independent advocate for residents.
-5. **Canton Public Safety** for an assault or theft. **[VERIFY number]**
+5. **Canton Public Safety**, (734) 394-5400, for an assault or theft.
 6. The Attorney General’s Health Care Fraud Division, 800-24-ABUSE (800-242-2873) or its online patient-abuse form, for abuse or neglect in a nursing facility.
 7. The Senior Alliance (Area Agency on Aging 1-C), 1-800-815-1112, which serves western and southern Wayne County, including Canton, for help with care options and moving a resident.
 
-**[VERIFY phone numbers at publication]** All of these can act today; a lawsuit comes later and does not depend on them.
+All of these can act today; a lawsuit comes later and does not depend on them.
 
 ## When a staff member is charged with a crime
 
