@@ -6,7 +6,7 @@ status: approved
 seoTitle: Southfield Personal Injury Lawyers: Telegraph, Northwestern, I-696, and the 46th District Court
 seoDescription: Injured in Southfield? ATLAW’s personal injury lawyers handle car and truck crashes on Telegraph, Northwestern Highway, the Lodge, and the I-696 work zone, falls at the office towers and apartment complexes, and no-fault claims, with the 46th District and Sixth Circuit courts, Providence Hospital, and the deadlines that apply. Telegraph at 12 Mile ranked among Oakland County’s highest-crash intersections in 2024.
 h1: Personal Injury Law Firm Serving Southfield, MI
-tagline: Telegraph at 12 Mile recorded 121 crashes in 2024, the third most of any intersection in Michigan. Southfield’s roads are built for the office towers; its injuries follow.
+tagline: Telegraph at 12 Mile recorded 121 crashes in 2025, the third most of any intersection in Michigan. Southfield’s roads are built for the office towers; its injuries follow.
 primaryKeyword: personal injury law firm southfield (served by the “southfield personal injury lawyer / attorney” terms)
 secondaryKeywords: southfield car accident lawyer (390/mo; served by /personal-injury/auto-accidents/southfield), southfield personal injury attorney (260), southfield personal injury lawyer (170), personal injury attorney southfield mi (140), southfield injury lawyer (40)
 source: areas-served__southfield.docx
@@ -69,7 +69,7 @@ ATLAW is a personal injury firm in Dearborn, fifteen minutes down Telegraph or t
 - [Slip and fall](/personal-injury/slip-and-fall/southfield) and [premises liability](/personal-injury/premises-liability) at the office towers, the Town Center, and the apartment complexes
 - [Tenant injuries](/personal-injury/tenant-injuries)
 - [Dog bites](/personal-injury/dog-bites/southfield)
-- [Nursing home abuse and neglect](/personal-injury/nursing-home-abuse/southfield) at the city’s five Medicare-certified nursing homes
+- [Nursing home abuse and neglect](/personal-injury/nursing-home-abuse/southfield) at the city’s four Medicare-certified nursing homes
 - [Medical malpractice](/personal-injury/medical-malpractice/southfield) and [birth injuries](/personal-injury/birth-injuries)
 - [Workers’ compensation](/personal-injury/workers-compensation)
 - [Wrongful death](/personal-injury/wrongful-death/southfield)

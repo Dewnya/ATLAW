@@ -24,7 +24,7 @@ A truck crash is governed by rules a car crash is not. The driver and carrier ar
 | Measure | 2024 | 2023 | Change |
 | --- | --- | --- | --- |
 | Heavy trucks and buses involved in Oakland County crashes | 2,081 | 1,906 | +9% |
-| Wayne County, for comparison | 3,916 | 3,558 | +10% |
+| Wayne County, for comparison | 3,916 | 3,763 | +4% |
 | Macomb County, for comparison | 1,257 | 1,287 | −2% |
 | All Oakland County crashes | 35,951 | 35,386 | +2% |
 | Fatal crashes in Oakland County, all types | 61 | 53 | +15% |

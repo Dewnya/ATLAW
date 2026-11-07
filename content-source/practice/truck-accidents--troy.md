@@ -75,7 +75,7 @@ The first act in a Troy truck case is a **preservation letter**: to the carrier,
 
 ## What to do after a Troy truck crash
 
-1. **Call 911 and get medical care the same day.** Corewell Health Troy Hospital on Dequindre treats many of the city’s injured; Corewell Health William Beaumont University Hospital in Royal Oak, a Level I trauma center, treats others.
+1. **Call 911 and get medical care the same day.** Corewell Health Beaumont Troy Hospital on Dequindre treats many of the city’s injured; Corewell Health William Beaumont University Hospital in Royal Oak, a Level I trauma center, treats others.
 2. **Photograph the truck**: the cab, the trailer, the USDOT number and carrier name on the door, both plates, the load, and the dock, driveway, or dealership if the truck was entering or leaving one.
 3. **Get the police report.** Freeway crashes on I-75 may be worked by the Michigan State Police or the Troy Police Department; the Troy Police work the surface roads. A serious crash may produce a separate commercial vehicle inspection report.
 4. **Do not speak to the carrier’s insurer or its investigator.**

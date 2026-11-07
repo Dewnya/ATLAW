@@ -23,7 +23,7 @@ A truck crash is not a car crash with a larger vehicle. The driver and the carri
 
 | Measure | Figure | Source |
 | --- | --- | --- |
-| Heavy trucks and buses in Wayne County crashes | 3,916 (2023: 3,558) | MSP, Heavy Trucks and Buses 2024 |
+| Heavy trucks and buses in Wayne County crashes | 3,916 (2023: 3,763) | MSP, Michigan Traffic Crash Facts 2024 and 2023, Wayne County profiles |
 | Oakland / Macomb | 2,081 / 1,257 | MSP 2024 |
 | Wayne County crashes / injured / killed, all vehicles | 50,355 / 16,458 / 177 | MSP 2024 |
 | Minimum carrier insurance | $750,000 general freight; $1 million oil; $5 million hazardous materials | 49 CFR 387.9 |

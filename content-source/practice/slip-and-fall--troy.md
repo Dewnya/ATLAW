@@ -49,7 +49,7 @@ No Michigan agency publishes fall counts by city, so the figures that matter in 
 
 **Schools, city buildings, and parks.** Troy is served mainly by the Troy School District, with Avondale, Birmingham, and other districts serving parts of the city. Each is a governmental agency: a fall caused by a dangerous or defective condition of one of their buildings proceeds under the public building exception, which requires the agency to have known of the defect and failed to fix it, with written notice within 120 days (MCL 691.1406). The same rule applies to City Hall and the city’s community center, library, and other public buildings. A fall on a city park path or field, outside a building, has no comparable exception and is difficult to bring.
 
-**Hospitals and nursing homes.** A visitor’s fall at Corewell Health Troy Hospital or a medical office is a premises claim. A patient’s fall, or a resident’s fall in one of the city’s two Medicare-certified nursing homes, may be premises, negligence, or medical malpractice, and which one decides the deadline. See our [Troy medical malpractice page](/personal-injury/medical-malpractice/troy).
+**Hospitals and nursing homes.** A visitor’s fall at Corewell Health Beaumont Troy Hospital or a medical office is a premises claim. A patient’s fall, or a resident’s fall in one of the city’s two Medicare-certified nursing homes, may be premises, negligence, or medical malpractice, and which one decides the deadline. See our [Troy medical malpractice page](/personal-injury/medical-malpractice/troy).
 
 ## A parking-lot fall can be a no-fault claim
 
