@@ -1059,17 +1059,7 @@
        },
        {
         "t": "text",
-        "v": " Some occupations in the Dictionary may be outdated or exist in limited numbers. In 2024, Social Security stopped relying on 114 occupations to support step-five denials and imposed additional evidentiary requirements for 13 others, including document preparer, addresser, and surveillance system monitor. A representative can question whether the cited work remains sufficiently supported by current vocational evidence. "
-       },
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "placeholder",
-          "kind": "VERIFY",
-          "v": "the attorney did not verify this; check it against the source before publication"
-         }
-        ]
+        "v": " Some occupations in the Dictionary may be outdated or exist in limited numbers. In June 2024, Social Security told its adjudicators to stop citing 114 isolated occupations to support step-five denials (Emergency Message 24026) and to require additional vocational-expert evidence before citing 13 others, including document preparer, addresser, and surveillance system monitor (Emergency Message 24027, revised January 2025). A representative can question whether the cited work remains sufficiently supported by current vocational evidence."
        }
       ],
       [
@@ -1680,8 +1670,8 @@
    }
   ]
  },
- "wordCount": 3729,
- "openItems": 1,
+ "wordCount": 3731,
+ "openItems": 0,
  "source": {
   "file": "B2-20_How-to-Win-Social-Security-Disability-Claim.docx",
   "delivered": "2026-10-16"
