@@ -945,6 +945,8 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - Added where the marker asked for a cite or figure: Dearborn §§ 4-23, 4-22, 4-26, 4-32 with the six-month (city) versus four-month (state) licensing age; Troy 2026 county license fees; Pontiac Treasurer address and the County's in-person, mail and online options
   - Follow-ups: Dearborn's city page misstates state law's licensing age (says six months; MCL 287.266 says four); Pontiac's Treasurer page has outdated county links and delinquent fees; LARA's complaint line is voicemail intake, so no page should call it 24-hour; the mass.gov copy of the 2008 Unum report is gone (Maine and Tennessee postings and the Wayback copy remain); the qualifying-impairments page's cardiovascular row will need another look if SSA corrects the October 2026 rule again
 
+- [x] Released `mo-dev` to `Yahia-Dev` a fourth time (Nov 7, 2026) — fast-forward push `0ce812b..c1edf6f` over SSH. The five commits touch only draft pages (the 11 Returned pages with their 20 markers cleared) and the tracker, so no published page changes; the drafts are ready to publish the moment the Content Tracker marks them Approved
+
 ### Open Questions
 
 - [ ] **PRE-LAUNCH — Text Us number.** Confirm with the firm whether (313) 406-7606 can receive SMS, or get a dedicated SMS number. Then set `SMS_NUMBER` in `src/data/contact.ts` (the Text buttons in the header and mobile bar appear automatically).
