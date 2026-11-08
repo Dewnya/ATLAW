@@ -112,7 +112,7 @@ The injury (a stage 4 sore requiring surgery, a hip fracture, sepsis, death); wh
 - Consultations can be accommodated in English, Arabic, French, Mandarin, Urdu, and Spanish. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 ## Frequently asked questions
 
-**Who do I call today about neglect in a Detroit nursing home?** Adult Protective Services at 855-444-3911 (24 hours), LARA at 800-882-6006, and the Long-Term Care Ombudsman at 866-485-9393. Call 911 if the resident is in danger. All three can act today; a lawsuit comes later. **[VERIFY numbers]**
+**Who do I call today about neglect in a Detroit nursing home?** Adult Protective Services at 855-444-3911 (24 hours), LARA at 800-882-6006, and the Long-Term Care Ombudsman at 866-485-9393. Call 911 if the resident is in danger. All three can act today; a lawsuit comes later.
 
 **How long do we have to sue a Detroit nursing home?** Two years for claims involving medical judgment, three years for ordinary negligence such as failing to follow a care plan. Most cases include both. Call before two years have passed.
 

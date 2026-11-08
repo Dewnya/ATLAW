@@ -193,17 +193,7 @@
        [
         {
          "t": "text",
-         "v": "MSP 2025 crash data, as compiled and reported "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "VERIFY",
-           "v": ""
-          }
-         ]
+         "v": "MSP 2025 crash data, as compiled and reported September 2026"
         }
        ]
       ],
@@ -1119,7 +1109,7 @@
   ]
  },
  "wordCount": 2291,
- "openItems": 1,
+ "openItems": 0,
  "source": {
   "file": "B3-44_Canton-Motorcycle-Accident-Lawyer.docx",
   "delivered": "October 24, 2026 [CONFIRM: Batch 3 delivery date]"

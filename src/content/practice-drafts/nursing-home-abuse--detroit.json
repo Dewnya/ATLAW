@@ -1024,17 +1024,7 @@
    "answer": [
     {
      "t": "text",
-     "v": "Adult Protective Services at 855-444-3911 (24 hours), LARA at 800-882-6006, and the Long-Term Care Ombudsman at 866-485-9393. Call 911 if the resident is in danger. All three can act today; a lawsuit comes later. "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "VERIFY",
-       "v": "numbers"
-      }
-     ]
+     "v": "Adult Protective Services at 855-444-3911 (24 hours), LARA at 800-882-6006, and the Long-Term Care Ombudsman at 866-485-9393. Call 911 if the resident is in danger. All three can act today; a lawsuit comes later."
     }
    ]
   },
@@ -1144,8 +1134,8 @@
    }
   ]
  },
- "wordCount": 2274,
- "openItems": 1,
+ "wordCount": 2272,
+ "openItems": 0,
  "source": {
   "file": "B2-71_Detroit-Nursing-Home-Abuse-Lawyer.docx",
   "delivered": "2026-10-16"

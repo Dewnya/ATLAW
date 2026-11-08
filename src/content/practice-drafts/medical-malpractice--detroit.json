@@ -260,17 +260,7 @@
        [
         {
          "t": "text",
-         "v": "MCL 600.1483 "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "VERIFY",
-           "v": "Treasury figures"
-          }
-         ]
+         "v": "MCL 600.1483; Michigan Treasury notice, January 2026"
         }
        ]
       ],
@@ -398,17 +388,7 @@
       },
       {
        "t": "text",
-       "v": " Henry Ford Hospital on West Grand Boulevard (Level I trauma), and Henry Ford St. John Hospital on the east side (formerly Ascension St. John), with their physician groups, outpatient centers, and residents. Private, nonprofit; claims proceed in the Third Judicial Circuit. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "VERIFY",
-         "v": "Henry Ford Hospital “Level I trauma” against the current Michigan state trauma facility list; remove the designation if not confirmed"
-        }
-       ]
+       "v": " Henry Ford Hospital on West Grand Boulevard (Level I trauma), and Henry Ford St. John Hospital on the east side (formerly Ascension St. John; also Level I trauma), with their physician groups, outpatient centers, and residents. Private, nonprofit; claims proceed in the Third Judicial Circuit."
       }
      ]
     },
@@ -1258,8 +1238,8 @@
    }
   ]
  },
- "wordCount": 2516,
- "openItems": 2,
+ "wordCount": 2501,
+ "openItems": 0,
  "source": {
   "file": "B2-66_Detroit-Medical-Malpractice-Lawyer.docx",
   "delivered": "2026-10-16"

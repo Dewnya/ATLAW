@@ -28,7 +28,7 @@ ATLAW is a personal injury firm at 3 Parklane Boulevard in Dearborn, minutes fro
 | Notice of Intent before suit | 182 days; provider has 154 days to respond | MCL 600.2912b |
 | Affidavit of Merit | Filed with the complaint | MCL 600.2912d |
 | Expert qualification | Same specialty; same board certification if the defendant is certified; majority of professional time in that specialty in the prior year | MCL 600.2169 |
-| 2026 cap on noneconomic damages | $596,400 (standard) / $1,065,000 (catastrophic) | MCL 600.1483 **[VERIFY Treasury figures]** |
+| 2026 cap on noneconomic damages | $596,400 (standard) / $1,065,000 (catastrophic) | MCL 600.1483; Michigan Treasury notice, January 2026 |
 | Child injured before age 8 | Deadline runs to the 10th birthday | MCL 600.5851(7) |
 | Federal provider (VA, federally funded clinic) | Administrative claim (SF-95) within 2 years; suit after denial or 6 months | 28 USC 2401(b), 2675 |
 | Fault that bars noneconomic damages | More than 50 percent | MCL 600.2959 |
@@ -43,7 +43,7 @@ A bad outcome is not malpractice. Malpractice is a bad outcome caused by a provi
 
 **The Detroit Medical Center.** Detroit Receiving (Level I trauma), Harper University Hospital, Hutzel Women’s Hospital, Children’s Hospital of Michigan (Level I pediatric trauma), Sinai-Grace on the west side, and the Rehabilitation Institute of Michigan, owned by Tenet Healthcare. Kresge is a Wayne State University institute, not a Tenet-owned DMC hospital. Many DMC physicians are Wayne State University School of Medicine faculty or residents. A claim against a physician employed by a state university can raise Court of Claims questions that do not arise with a private physician (MCL 691.1407(4) provides that the GTLA does not grant immunity for medical care), and the employer must be identified before the Notice of Intent is served.
 
-**Henry Ford Health.** Henry Ford Hospital on West Grand Boulevard (Level I trauma), and Henry Ford St. John Hospital on the east side (formerly Ascension St. John), with their physician groups, outpatient centers, and residents. Private, nonprofit; claims proceed in the Third Judicial Circuit. **[VERIFY: Henry Ford Hospital “Level I trauma” against the current Michigan state trauma facility list; remove the designation if not confirmed]**
+**Henry Ford Health.** Henry Ford Hospital on West Grand Boulevard (Level I trauma), and Henry Ford St. John Hospital on the east side (formerly Ascension St. John; also Level I trauma), with their physician groups, outpatient centers, and residents. Private, nonprofit; claims proceed in the Third Judicial Circuit.
 
 **Karmanos Cancer Institute.** Part of McLaren Health Care; cancer misdiagnosis and delayed-diagnosis claims. Private.
 

@@ -546,14 +546,8 @@
      "t": "p",
      "c": [
       {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "VERIFY",
-         "v": "road conditions and jurisdiction on these roads"
-        }
-       ]
+       "t": "text",
+       "v": "Dutton is a designated natural beauty road with gravel stretches, and Livernois north of Tienken is gravel as well. These are Road Commission for Oakland County roads, apart from a short stretch of Tienken west of Adams that belongs to the City, which decides who receives the notice described below."
       }
      ]
     },
@@ -1688,8 +1682,8 @@
    }
   ]
  },
- "wordCount": 2639,
- "openItems": 1,
+ "wordCount": 2681,
+ "openItems": 0,
  "source": {
   "file": "B4-17_Rochester-Hills-Motorcycle-Accident-Lawyer.docx",
   "delivered": "October 25, 2026 [CONFIRM: Batch 4 delivery date]"

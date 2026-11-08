@@ -26,7 +26,7 @@ ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parkla
 | Motorcycles in Wayne County crashes / riders injured / killed, 2024 | 509 / 367 / 24 | MSP, Michigan Traffic Crash Facts 2024, Wayne County |
 | Michigan motorcycle crashes / riders injured / killed | 3,187 / 2,460 / 168 | MSP, 2024 Motorcycle Crash Facts |
 | Share of Michigan rider deaths involving alcohol | 31 percent | MSP 2024 |
-| Ford Road at Lilley, all vehicles | 64 crashes, 12 injuries in 2025; seventh among Wayne County intersections | MSP 2025 crash data, as compiled and reported **[VERIFY]** |
+| Ford Road at Lilley, all vehicles | 64 crashes, 12 injuries in 2025; seventh among Wayne County intersections | MSP 2025 crash data, as compiled and reported September 2026 |
 | Wayne County deaths per 1,000 crashes, all vehicles | 3.5 (Michigan: 3.8) | Calculated from MSP 2024 figures |
 | Michigan minimum liability limits for the at-fault driver | $250,000 / $500,000 by default; as low as $50,000 / $100,000 if the policyholder elects | MCL 500.3009(1), (5) |
 | Medical coverage required to ride without a helmet (age 21+) | $20,000 first-party medical | MCL 257.658 |

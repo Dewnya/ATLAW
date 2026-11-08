@@ -66,7 +66,7 @@ See our [Rochester Hills truck accident page](/personal-injury/truck-accidents/r
 - pavement seams and patched potholes
 - deer
 
-**[VERIFY: road conditions and jurisdiction on these roads]**
+Dutton is a designated natural beauty road with gravel stretches, and Livernois north of Tienken is gravel as well. These are Road Commission for Oakland County roads, apart from a short stretch of Tienken west of Adams that belongs to the City, which decides who receives the notice described below.
 
 **Deer.** Oakland County recorded 2,024 deer-involved crashes in 2024. For a rider, a deer strike is often a serious injury crash, and it raises a no-fault problem covered below: if no car or truck was involved, there is no PIP claim.
 
