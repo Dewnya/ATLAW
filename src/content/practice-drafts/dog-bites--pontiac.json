@@ -139,17 +139,7 @@
        [
         {
          "t": "text",
-         "v": "Oakland County "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "VERIFY",
-           "v": "that the County serves the city and current hours"
-          }
-         ]
+         "v": "Oakland County; City of Pontiac"
         }
        ]
       ],
@@ -183,19 +173,13 @@
        [
         {
          "t": "text",
-         "v": "Through the City Treasurer or Oakland County Animal Control; proof of rabies vaccination required"
+         "v": "At the City Treasurer’s Office, 47450 Woodward Avenue (Pontiac residents only), or from Oakland County in person, by mail, or online; proof of current rabies vaccination required"
         }
        ],
        [
         {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "VERIFY",
-           "v": ""
-          }
-         ]
+         "t": "text",
+         "v": "City of Pontiac; Oakland County"
         }
        ]
       ],
@@ -465,21 +449,7 @@
       },
       {
        "t": "text",
-       "v": ", report it so the dog is placed under rabies observation and an official record exists. Animal control for Pontiac is handled by Oakland County Animal Control, whose office is in the city at 1200 N. Telegraph Road, Building 42E, (248) 858-1090, weekdays 8:30 a.m. to 4:30 p.m. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "VERIFY",
-         "v": ""
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " If you saw a doctor, the provider should complete a bite report and send it to Animal Control; if you did not, call the Oakland County Health Division at (248) 858-1280 to report the bite. If deputies responded, get the Sheriff’s report number. The report starts the rabies observation, creates the official record, and surfaces prior complaints about the dog. We obtain it, any prior complaints, and the dog’s license record with Freedom of Information Act requests to the County."
+       "v": ", report it so the dog is placed under rabies observation and an official record exists. Animal control for Pontiac is handled by Oakland County Animal Control, whose office is in the city at 1200 N. Telegraph Road, Building 42E, (248) 858-1090, weekdays 8:30 a.m. to 4:30 p.m.; after hours, the County directs reports to local law enforcement. If you saw a doctor, the provider should complete a bite report and send it to Animal Control; if you did not, call the Oakland County Health Division at (248) 858-1280 to report the bite. If deputies responded, get the Sheriff’s report number. The report starts the rabies observation, creates the official record, and surfaces prior complaints about the dog. We obtain it, any prior complaints, and the dog’s license record with Freedom of Information Act requests to the County."
       }
      ]
     },
@@ -1200,17 +1170,7 @@
    "answer": [
     {
      "t": "text",
-     "v": "Animal control for Pontiac is handled by Oakland County Animal Control, whose office is on the county campus in the city: (248) 858-1090. Call 911 if a dog is attacking or still loose; the Sheriff’s Office will respond. If you did not see a doctor, report the bite to the Oakland County Health Division at (248) 858-1280. "
-    },
-    {
-     "t": "strong",
-     "c": [
-      {
-       "t": "placeholder",
-       "kind": "VERIFY",
-       "v": ""
-      }
-     ]
+     "v": "Animal control for Pontiac is handled by Oakland County Animal Control, whose office is on the county campus in the city: (248) 858-1090. Call 911 if a dog is attacking or still loose; the Sheriff’s Office will respond. If you did not see a doctor, report the bite to the Oakland County Health Division at (248) 858-1280."
     }
    ]
   },
@@ -1320,8 +1280,8 @@
    }
   ]
  },
- "wordCount": 3010,
- "openItems": 4,
+ "wordCount": 3025,
+ "openItems": 0,
  "source": {
   "file": "B3-89_Pontiac-Dog-Bite-Lawyer.docx",
   "delivered": "October 25, 2026 [CONFIRM: Batch 3 delivery date]"

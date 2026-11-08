@@ -24,9 +24,9 @@ ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parkla
 | Measure | Figure | Source |
 | --- | --- | --- |
 | Dog-related injury claims paid by U.S. homeowner’s insurers, 2025 | 28,450 claims; $1.86 billion; average $65,450 | Insurance Information Institute and State Farm, May 2026 |
-| Animal control for Pontiac | Oakland County Animal Control, 1200 N. Telegraph Road, Building 42E, Pontiac; (248) 858-1090; weekdays 8:30 a.m.–4:30 p.m. | Oakland County **[VERIFY that the County serves the city and current hours]** |
+| Animal control for Pontiac | Oakland County Animal Control, 1200 N. Telegraph Road, Building 42E, Pontiac; (248) 858-1090; weekdays 8:30 a.m.–4:30 p.m. | Oakland County; City of Pontiac |
 | Bite report when no doctor was seen | Oakland County Health Division, (248) 858-1280 | Oakland County |
-| Pontiac dog license | Through the City Treasurer or Oakland County Animal Control; proof of rabies vaccination required | **[VERIFY]** |
+| Pontiac dog license | At the City Treasurer’s Office, 47450 Woodward Avenue (Pontiac residents only), or from Oakland County in person, by mail, or online; proof of current rabies vaccination required | City of Pontiac; Oakland County |
 | Age at which a dog must be licensed | 4 months | MCL 287.266(1), (8) |
 | Deadline to sue, adult victim | 3 years | MCL 600.5805(2) |
 | Deadline to sue, child victim | 3 years, or one year after the 18th birthday if that is later | MCL 600.5851(1) |
@@ -50,7 +50,7 @@ The national figures matter for one reason: dog bite claims are a routine, insur
 
 **If a dog is attacking or still loose, call 911.** The Oakland County Sheriff’s Office, which polices Pontiac under contract, responds to emergencies involving a dangerous animal.
 
-**For a bite that has already happened**, report it so the dog is placed under rabies observation and an official record exists. Animal control for Pontiac is handled by Oakland County Animal Control, whose office is in the city at 1200 N. Telegraph Road, Building 42E, (248) 858-1090, weekdays 8:30 a.m. to 4:30 p.m. **[VERIFY]** If you saw a doctor, the provider should complete a bite report and send it to Animal Control; if you did not, call the Oakland County Health Division at (248) 858-1280 to report the bite. If deputies responded, get the Sheriff’s report number. The report starts the rabies observation, creates the official record, and surfaces prior complaints about the dog. We obtain it, any prior complaints, and the dog’s license record with Freedom of Information Act requests to the County.
+**For a bite that has already happened**, report it so the dog is placed under rabies observation and an official record exists. Animal control for Pontiac is handled by Oakland County Animal Control, whose office is in the city at 1200 N. Telegraph Road, Building 42E, (248) 858-1090, weekdays 8:30 a.m. to 4:30 p.m.; after hours, the County directs reports to local law enforcement. If you saw a doctor, the provider should complete a bite report and send it to Animal Control; if you did not, call the Oakland County Health Division at (248) 858-1280 to report the bite. If deputies responded, get the Sheriff’s report number. The report starts the rabies observation, creates the official record, and surfaces prior complaints about the dog. We obtain it, any prior complaints, and the dog’s license record with Freedom of Information Act requests to the County.
 
 **Licensing.** Michigan law requires dogs four months or older to be vaccinated against rabies and licensed (MCL 287.266(1), (8)). Pontiac residents can license a dog through the City Treasurer or Oakland County Animal Control.
 
@@ -121,7 +121,7 @@ Dog bite claims up to $25,000 are filed in the 50th District Court at 70 N. Sagi
 
 ## Frequently asked questions
 
-**Does Pontiac have its own animal control?** Animal control for Pontiac is handled by Oakland County Animal Control, whose office is on the county campus in the city: (248) 858-1090. Call 911 if a dog is attacking or still loose; the Sheriff’s Office will respond. If you did not see a doctor, report the bite to the Oakland County Health Division at (248) 858-1280. **[VERIFY]**
+**Does Pontiac have its own animal control?** Animal control for Pontiac is handled by Oakland County Animal Control, whose office is on the county campus in the city: (248) 858-1090. Call 911 if a dog is attacking or still loose; the Sheriff’s Office will respond. If you did not see a doctor, report the bite to the Oakland County Health Division at (248) 858-1280.
 
 **The dog had never bitten anyone before. Does the owner still have to pay?** Yes. Michigan’s statute makes the owner liable regardless of the dog’s history or the owner’s knowledge, as long as you were lawfully present and did not provoke the dog.
 

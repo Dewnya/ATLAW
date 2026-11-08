@@ -368,21 +368,7 @@
      "c": [
       {
        "t": "text",
-       "v": "Dearborn requires dogs over six months to be licensed, with annual renewal, requires dogs to be leashed when off the owner’s property, and limits tethering. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "VERIFY",
-         "v": "cite the current Dearborn animal ordinance sections and confirm the rules; the attorney did not verify this; check it against the source before publication"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " A violation does not create the claim, the statute does that, but a dog loose in violation of the leash rule is evidence against the owner in a negligence claim for a non-bite injury, and the licensing records identify an owner who denies the dog is theirs. Bites are reported to Dearborn Animal Control, reached through the City at 311 or 313-943-2150; the report triggers the rabies observation, creates the official record, and surfaces prior complaints about the dog. We obtain it, and any prior complaints, by Freedom of Information Act request."
+       "v": "Dearborn requires dogs six months and older to be licensed (Dearborn Code of Ordinances § 4-23; state law sets the age at four months), with a standard license that expires each March 1 and three-year and automatic-renewal options; forbids a dog running at large off the owner’s property and requires a leash on public streets (§§ 4-22, 4-26); and limits tethering to one continuous hour and three hours a day, on a tether at least ten feet long (§ 4-32). A violation does not create the claim, the statute does that, but a dog loose in violation of the leash rule is evidence against the owner in a negligence claim for a non-bite injury, and the licensing records identify an owner who denies the dog is theirs. Bites are reported to Dearborn Animal Control, reached through the City at 311 or 313-943-2150; the report triggers the rabies observation, creates the official record, and surfaces prior complaints about the dog. We obtain it, and any prior complaints, by Freedom of Information Act request."
       }
      ]
     },
@@ -993,8 +979,8 @@
    }
   ]
  },
- "wordCount": 2020,
- "openItems": 1,
+ "wordCount": 2050,
+ "openItems": 0,
  "source": {
   "file": "B2-80_Dearborn-Dog-Bite-Lawyer.docx",
   "delivered": "2026-10-16"

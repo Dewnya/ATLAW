@@ -155,23 +155,13 @@
        [
         {
          "t": "text",
-         "v": "(248) 858-1090; 8:30 a.m.–4:30 p.m.; responds to dangerous-animal calls 24/7"
+         "v": "(248) 858-1090; weekdays 8:30 a.m.–4:30 p.m.; after hours, Troy police; 911 for an attack in progress"
         }
        ],
        [
         {
          "t": "text",
-         "v": "City of Troy "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "VERIFY",
-           "v": "at publication"
-          }
-         ]
+         "v": "Oakland County; City of Troy"
         }
        ]
       ],
@@ -185,23 +175,13 @@
        [
         {
          "t": "text",
-         "v": "Issued through Oakland County; one-year licenses at the Troy Police Records counter, three-year licenses from the County"
+         "v": "Issued through Oakland County; one-year licenses at the Troy Police Records counter, three-year licenses from the County; 2026 fees $15 to $25 for one year, $40 to $70 for three, higher after June 1"
         }
        ],
        [
         {
          "t": "text",
-         "v": "City of Troy "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "VERIFY",
-           "v": "fees"
-          }
-         ]
+         "v": "City of Troy; Oakland County 2026 fee schedule"
         }
        ]
       ],
@@ -433,21 +413,7 @@
       },
       {
        "t": "text",
-       "v": " In 2011 the Troy City Council transferred animal control services to Oakland County. Oakland County Animal Control handles animal control for Troy and responds around the clock to calls about dangerous animals; its office is at 1200 N. Telegraph Road, Building 42E, in Pontiac, and its number is (248) 858-1090, weekdays 8:30 a.m. to 4:30 p.m. "
-      },
-      {
-       "t": "strong",
-       "c": [
-        {
-         "t": "placeholder",
-         "kind": "VERIFY",
-         "v": "at publication"
-        }
-       ]
-      },
-      {
-       "t": "text",
-       "v": " The Troy Police Department still responds to emergencies involving a dangerous animal, such as a dog attacking a person: call 911. For a bite that has already happened, report it to Oakland County Animal Control and, if the police responded, get the Troy Police report number."
+       "v": " In 2011 the Troy City Council transferred animal control services to Oakland County. Oakland County Animal Control handles animal control for Troy; its office is at 1200 N. Telegraph Road, Building 42E, in Pontiac, and its number is (248) 858-1090, weekdays 8:30 a.m. to 4:30 p.m. After hours and on weekends the County directs reports to local police. The Troy Police Department responds to emergencies involving a dangerous animal, such as a dog attacking a person: call 911. For a bite that has already happened, report it to Oakland County Animal Control and, if the police responded, get the Troy Police report number."
       }
      ]
     },
@@ -1132,8 +1098,8 @@
    }
   ]
  },
- "wordCount": 2494,
- "openItems": 3,
+ "wordCount": 2517,
+ "openItems": 0,
  "source": {
   "file": "B3-66_Troy-Dog-Bite-Lawyer.docx",
   "delivered": "October 25, 2026 [CONFIRM: Batch 3 delivery date]"

@@ -25,8 +25,8 @@ ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parkla
 | --- | --- | --- |
 | Dog-related injury claims paid by U.S. homeowner’s insurers, 2025 | 28,450 claims; $1.86 billion; average $65,450 | Insurance Information Institute and State Farm, May 2026 |
 | Agency that handles animal control for Troy | Oakland County Animal Control, since 2011 | City of Troy |
-| Oakland County Animal Control phone and hours | (248) 858-1090; 8:30 a.m.–4:30 p.m.; responds to dangerous-animal calls 24/7 | City of Troy **[VERIFY at publication]** |
-| Troy dog license | Issued through Oakland County; one-year licenses at the Troy Police Records counter, three-year licenses from the County | City of Troy **[VERIFY fees]** |
+| Oakland County Animal Control phone and hours | (248) 858-1090; weekdays 8:30 a.m.–4:30 p.m.; after hours, Troy police; 911 for an attack in progress | Oakland County; City of Troy |
+| Troy dog license | Issued through Oakland County; one-year licenses at the Troy Police Records counter, three-year licenses from the County; 2026 fees $15 to $25 for one year, $40 to $70 for three, higher after June 1 | City of Troy; Oakland County 2026 fee schedule |
 | Deadline to sue, adult victim | 3 years | MCL 600.5805(2) |
 | Deadline to sue, child victim | 3 years, or one year after the 18th birthday if that is later | MCL 600.5851(1) |
 | Rabies observation period for the biting dog | 10 days | Mich Admin Code R 325.180(5) |
@@ -47,7 +47,7 @@ The national figures matter for one reason: dog bite claims are a routine, insur
 
 ## Who handles a Troy dog bite: Oakland County, not the City
 
-**Troy has no city animal control.** In 2011 the Troy City Council transferred animal control services to Oakland County. Oakland County Animal Control handles animal control for Troy and responds around the clock to calls about dangerous animals; its office is at 1200 N. Telegraph Road, Building 42E, in Pontiac, and its number is (248) 858-1090, weekdays 8:30 a.m. to 4:30 p.m. **[VERIFY at publication]** The Troy Police Department still responds to emergencies involving a dangerous animal, such as a dog attacking a person: call 911. For a bite that has already happened, report it to Oakland County Animal Control and, if the police responded, get the Troy Police report number.
+**Troy has no city animal control.** In 2011 the Troy City Council transferred animal control services to Oakland County. Oakland County Animal Control handles animal control for Troy; its office is at 1200 N. Telegraph Road, Building 42E, in Pontiac, and its number is (248) 858-1090, weekdays 8:30 a.m. to 4:30 p.m. After hours and on weekends the County directs reports to local police. The Troy Police Department responds to emergencies involving a dangerous animal, such as a dog attacking a person: call 911. For a bite that has already happened, report it to Oakland County Animal Control and, if the police responded, get the Troy Police report number.
 
 The report starts the rabies observation, creates the official record, and surfaces prior complaints about the dog. We obtain it, and any prior complaints and the dog’s license record, with Freedom of Information Act requests to the County and the City.
 
