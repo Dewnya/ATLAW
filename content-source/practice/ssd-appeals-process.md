@@ -1,7 +1,7 @@
 ---
 slug: ssd-appeals-process
 section: disability
-status: draft
+status: approved
 seoTitle: Michigan Social Security Disability Appeal Lawyer – Denied? 60 Days to Act
 seoDescription: Denied Social Security disability in Michigan? The four appeal levels, the 60-day deadline, what Michigan’s seven hearing offices approve and how long they take, the five-step test the judge applies, and the fee cap. Free review.
 h1: Social Security Disability Appeal Lawyer Michigan

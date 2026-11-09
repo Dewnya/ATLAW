@@ -1,7 +1,7 @@
 ---
 slug: compassionate-allowances
 section: disability
-status: draft
+status: approved
 seoTitle: Compassionate Allowance List (2026): 314 Conditions That Fast-Track Disability
 seoDescription: Social Security’s Compassionate Allowances list now has 314 conditions. What is on it, how a claim gets flagged, the records that confirm it, why some listed conditions are still denied, the ALS waiting-period waiver, and what a Michigan lawyer does.
 h1: Compassionate Allowance List Lawyer

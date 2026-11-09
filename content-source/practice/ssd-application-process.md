@@ -1,7 +1,7 @@
 ---
 slug: ssd-application-process
 section: disability
-status: draft
+status: approved
 seoTitle: How to Apply for Social Security Disability in Michigan – Step by Step (2026)
 seoDescription: How to apply for SSDI or SSI in Michigan: who qualifies, the 2026 earnings limits, the documents to gather, the three ways to file, what Michigan’s Disability Determination Service does with your claim, how long it takes, and the mistakes that cause denials.
 h1: How to Apply for Social Security Disability in Michigan

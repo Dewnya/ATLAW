@@ -1,7 +1,7 @@
 ---
 slug: case-results
 section: resources
-status: draft
+status: approved
 seoTitle: ATLAW Case Results: Michigan Personal Injury Settlements and Verdicts
 seoDescription: Settlements and verdicts recovered by ATLAW for injured people across Michigan: no-fault benefits, catastrophic injury, and product injury cases, with the case type, county, and how each resolved, and a plain explanation of what drives case value in Michigan.
 h1: Case Results & Settlements

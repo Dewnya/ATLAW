@@ -2,7 +2,7 @@
 slug: motorcycle-accidents
 section: personal-injury
 city: canton
-status: draft
+status: approved
 seoTitle: Canton, MI Motorcycle Accident Lawyer: Who Pays a Rider’s Bills, Ford Road and I-275, Road Defects, and the Helmet Rule
 seoDescription: Hurt on a motorcycle in Canton, Michigan? Under Michigan no-fault a motorcycle is not a “motor vehicle,” which decides who pays your medical bills. The rider priority rule, left-turn crashes on Ford Road, the I-275 merges, road defects and why the township is not the defendant, the helmet law, and the deadlines. Free review. (313) 406-7606.
 h1: Canton, MI Motorcycle Accident Lawyer

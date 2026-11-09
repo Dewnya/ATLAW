@@ -2,7 +2,7 @@
  "slug": "social-security-disability",
  "section": "disability",
  "city": "southfield",
- "status": "draft",
+ "status": "approved",
  "seoTitle": "Southfield Social Security Disability Lawyer: Applications, Denials, the Hearing Office That Serves Southfield, and 2027 Figures",
  "seoDescription": "Applying for or denied Social Security Disability in Southfield? How the five-step test treats office and desk jobs, the 60-day appeal deadlines, the hearing office that serves Southfield, long-term disability and workers’ comp offsets, and the fee set by federal law. 2026 and 2027 figures. Free review. (313) 406-7606.",
  "h1": "Southfield Social Security Disability Lawyer",
@@ -671,17 +671,7 @@
        [
         {
          "t": "text",
-         "v": "Several months "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "CONFIRM",
-           "v": "data"
-          }
-         ]
+         "v": "About 6 months"
         }
        ]
       ],
@@ -707,17 +697,7 @@
        [
         {
          "t": "text",
-         "v": "Several months "
-        },
-        {
-         "t": "strong",
-         "c": [
-          {
-           "t": "placeholder",
-           "kind": "CONFIRM",
-           "v": "data"
-          }
-         ]
+         "v": "About 6½ months"
         }
        ]
       ],
@@ -1191,7 +1171,7 @@
       "c": [
        {
         "t": "text",
-        "v": "This page is general information about federal disability law as of October 2026 and is not legal advice. Program figures are from the Social Security Administration’s 2027 cost-of-living fact sheet. Hearing office figures are from SSA public data. Results depend on the facts of each case, and past results do not guarantee a future outcome."
+        "v": "This page is general information about federal disability law as of October 2026 and is not legal advice. Program figures are from the Social Security Administration’s 2027 cost-of-living fact sheet. Hearing office figures are from SSA public data. Processing times are SSA’s national averages for September 2026 (185 days for initial claims, 201 days for reconsiderations). Results depend on the facts of each case, and past results do not guarantee a future outcome."
        }
       ]
      }
@@ -1199,8 +1179,8 @@
    }
   ]
  },
- "wordCount": 2077,
- "openItems": 2,
+ "wordCount": 2093,
+ "openItems": 0,
  "source": {
   "file": "B3-09_Southfield-Social-Security-Disability-Lawyer.docx",
   "delivered": "October 23, 2026 [CONFIRM: Batch 3 delivery date]"

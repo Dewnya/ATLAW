@@ -1,7 +1,7 @@
 ---
 slug: supplemental-security-income
 section: disability
-status: draft
+status: approved
 seoTitle: Michigan SSI Lawyer – $994 a Month in 2026, Who Qualifies, and What Reduces It
 seoDescription: Supplemental Security Income in Michigan: the 2026 payment, the income and resource rules that reduce or end it, living-arrangement reductions, SSI for children, Michigan’s state supplement and Medicaid, working on SSI, and how to apply and appeal. Free review.
 h1: SSI Lawyer Michigan

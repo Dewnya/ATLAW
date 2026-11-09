@@ -1,7 +1,7 @@
 ---
 slug: lincoln-financial-disability-claims
 section: disability
-status: draft
+status: approved
 seoTitle: Lincoln Financial Long-Term Disability Denial Lawyer – Michigan Appeals (Liberty Mutual Policies Too)
 seoDescription: Lincoln Financial became the largest seller of fully insured group disability in 2018 by buying Liberty Mutual’s group benefits business. How Lincoln denies and terminates claims, why its two-level appeal matters, and how a Michigan claimant builds the record before it closes.
 h1: Lincoln Financial Disability Denial Lawyer

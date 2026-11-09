@@ -2,7 +2,7 @@
 slug: social-security-disability
 section: disability
 city: southfield
-status: draft
+status: approved
 seoTitle: Southfield Social Security Disability Lawyer: Applications, Denials, the Hearing Office That Serves Southfield, and 2027 Figures
 seoDescription: Applying for or denied Social Security Disability in Southfield? How the five-step test treats office and desk jobs, the 60-day appeal deadlines, the hearing office that serves Southfield, long-term disability and workers’ comp offsets, and the fee set by federal law. 2026 and 2027 figures. Free review. (313) 406-7606.
 h1: Southfield Social Security Disability Lawyer
@@ -62,8 +62,8 @@ The claim is the record. We obtain and organize it from every source: Henry Ford
 
 | Stage | What happens | Deadline | Typical wait |
 | --- | --- | --- | --- |
-| Initial application | Online at ssa.gov, by phone, or at the Social Security field office that serves your ZIP code (for Southfield addresses, the Redford office at 26840 West Seven Mile Road); Michigan DDS reviews the medical evidence | — | Several months **[CONFIRM: data]** |
-| Reconsideration | A different DDS examiner reviews the file; a large share are denied | 60 days | Several months **[CONFIRM: data]** |
+| Initial application | Online at ssa.gov, by phone, or at the Social Security field office that serves your ZIP code (for Southfield addresses, the Redford office at 26840 West Seven Mile Road); Michigan DDS reviews the medical evidence | — | About 6 months |
+| Reconsideration | A different DDS examiner reviews the file; a large share are denied | 60 days | About 6½ months |
 | ALJ hearing | Before an administrative law judge; you testify, a vocational expert testifies, your lawyer cross-examines | 60 days | About 8 months at Livonia |
 | Appeals Council | Review for legal error | 60 days | Often 6–12 months |
 | Federal court | Civil action in the U.S. District Court for the Eastern District of Michigan, Detroit | 60 days | 12+ months |
@@ -118,4 +118,4 @@ SSDI benefits begin five full months after the established onset date; SSI is no
 
 If you are applying for Social Security Disability in Southfield or have been denied, call **(313) 406-7606** or send the form on this page. We will tell you where your claim stands, what the record needs, and what the deadline is. The review is free, and the fee is paid only from back benefits if you win.
 
-*This page is general information about federal disability law as of October 2026 and is not legal advice. Program figures are from the Social Security Administration’s 2027 cost-of-living fact sheet. Hearing office figures are from SSA public data. Results depend on the facts of each case, and past results do not guarantee a future outcome.*
+*This page is general information about federal disability law as of October 2026 and is not legal advice. Program figures are from the Social Security Administration’s 2027 cost-of-living fact sheet. Hearing office figures are from SSA public data. Processing times are SSA’s national averages for September 2026 (185 days for initial claims, 201 days for reconsiderations). Results depend on the facts of each case, and past results do not guarantee a future outcome.*

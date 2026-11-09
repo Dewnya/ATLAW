@@ -2,7 +2,7 @@
 slug: dog-bites
 section: personal-injury
 city: dearborn
-status: draft
+status: approved
 seoTitle: Dearborn Dog Bite Lawyer: Michigan’s Strict Liability Statute, Who Pays, and Children’s Claims
 seoDescription: Bitten by a dog in Dearborn? Michigan’s statute makes the owner liable even if the dog never bit before, and the claim is usually paid by homeowner’s or renter’s insurance. ATLAW’s Dearborn office explains MCL 287.351, the provocation defense, Dearborn Animal Control reports, landlords and uninsured owners, and the deadlines for adults and children. Free review in English or Arabic. (313) 406-7606.
 h1: Dearborn Dog Bite Lawyer

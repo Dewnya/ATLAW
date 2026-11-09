@@ -2,7 +2,7 @@
 slug: dog-bites
 section: personal-injury
 city: pontiac
-status: draft
+status: approved
 seoTitle: Pontiac, MI Dog Bite Lawyer: Michigan’s Strict Liability Statute, Oakland County Animal Control, Local Animal Rules, Who Pays, and Children’s Claims
 seoDescription: Bitten by a dog in Pontiac? The owner is liable even if the dog never bit before, and the claim is usually paid by homeowner’s or renter’s insurance. Who to call (Oakland County Animal Control, on the county campus in Pontiac), MCL 287.351, the provocation defense, what local animal rules add, landlords and the Housing Commission, delivery workers, children’s claims, and the deadlines. Free review. (313) 406-7606.
 h1: Pontiac, MI Dog Bite Lawyer

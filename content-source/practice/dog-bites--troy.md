@@ -2,7 +2,7 @@
 slug: dog-bites
 section: personal-injury
 city: troy
-status: draft
+status: approved
 seoTitle: Troy, MI Dog Bite Lawyer: Michigan’s Strict Liability Statute, Oakland County Animal Control, Who Pays, and Children’s Claims
 seoDescription: Bitten by a dog in Troy, Michigan? The owner is liable even if the dog never bit before, and the claim is usually paid by homeowner’s or renter’s insurance. Who to call (Troy has no city animal control; Oakland County handles it), MCL 287.351, the provocation defense, landlords and condominiums, delivery workers, children’s claims, and the deadlines. Free review. (313) 406-7606.
 h1: Troy, MI Dog Bite Lawyer

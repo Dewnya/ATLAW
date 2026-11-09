@@ -947,6 +947,11 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
 
 - [x] Released `mo-dev` to `Yahia-Dev` a fourth time (Nov 7, 2026) — fast-forward push `0ce812b..c1edf6f` over SSH. The five commits touch only draft pages (the 11 Returned pages with their 20 markers cleared) and the tracker, so no published page changes; the drafts are ready to publish the moment the Content Tracker marks them Approved
 
+- [x] Firm's Nov 8 approvals: 26 pages plus F-177; 275 of 276 pages approved (Nov 9, 2026)
+  - Content Tracker at 23:54 UTC Nov 8: 25 Returned pages marked Approved (bicycle; the 11 F-055 disability pages; Oakland and Macomb hubs; Detroit malpractice, dog bites and nursing home; Dearborn slip and fall, dog bites and rideshare; Canton and Rochester Hills motorcycle; Troy and Pontiac dog bites; Ann Arbor slip and fall) and `/case-results` moved from Ready for attorney to Approved. Still Returned, with no reviewer note: Detroit slip and fall (w91) and the dropped VA row (w27). F-177 answered: initial application "About 6 months", reconsideration "About 6½ months", plus a source-note sentence (SSA national averages for September 2026: 185 and 201 days)
+  - Applied: F-177 cells and source note on `social-security-disability--southfield.md`; 27 sources set to `status: approved` (the 26 above plus Southfield SSD). Import 276 (275 approved, 1 draft), typecheck clean, production build 275 pages, 276 HTML files with no markers and no unserved links. No open marker remains in any source
+  - Left: Detroit slip and fall stays draft until the firm approves it (its corrections and three judgment calls were applied Nov 7). Once it is approved and released, every page is live and the atlawgroup.com cutover can be scheduled. Not yet released; Sam pushes
+
 ### Open Questions
 
 - [ ] **PRE-LAUNCH — Text Us number.** Confirm with the firm whether (313) 406-7606 can receive SMS, or get a dedicated SMS number. Then set `SMS_NUMBER` in `src/data/contact.ts` (the Text buttons in the header and mobile bar appear automatically).

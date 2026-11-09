@@ -2,7 +2,7 @@
 slug: motorcycle-accidents
 section: personal-injury
 city: rochester-hills
-status: draft
+status: approved
 seoTitle: Rochester Hills, MI Motorcycle Accident Lawyer: Who Pays a Rider’s Bills, M-59 and Rochester Road, Deer, Road Defects, and the Helmet Rule
 seoDescription: Hurt on a motorcycle in Rochester Hills? Under Michigan no-fault a motorcycle is not a “motor vehicle,” which decides who pays your medical bills. This page covers the rider priority rule, left-turn crashes on Rochester Road and the mile roads, the M-59 merges, why a deer crash has no PIP claim, whether MDOT, the Road Commission, or the City owns the road, the helmet law, and the deadlines. Free review. (313) 406-7606.
 h1: Rochester Hills, MI Motorcycle Accident Lawyer

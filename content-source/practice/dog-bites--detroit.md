@@ -2,7 +2,7 @@
 slug: dog-bites
 section: personal-injury
 city: detroit
-status: draft
+status: approved
 seoTitle: Detroit Dog Bite Lawyer: Michigan’s Strict Liability Statute, Who Pays, Stray Dogs, and Children’s Claims
 seoDescription: Bitten by a dog in Detroit? Michigan’s statute makes the owner liable even if the dog never bit before, and the claim is usually paid by homeowner’s or renter’s insurance. ATLAW’s Dearborn dog bite lawyers explain MCL 287.351, the provocation defense, Detroit Animal Care and Control reports, uninsured owners and landlords, and the deadlines for adults and children. Free review. (313) 406-7606.
 h1: Detroit Dog Bite Lawyer
