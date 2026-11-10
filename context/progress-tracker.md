@@ -973,7 +973,7 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
 
 - [ ] **PRE-LAUNCH — Text Us number.** Confirm with the firm whether (313) 406-7606 can receive SMS, or get a dedicated SMS number. Then set `SMS_NUMBER` in `src/data/contact.ts` (the Text buttons in the header and mobile bar appear automatically).
 
-- [ ] **Testimonials copy** — still pending from client; homepage + practice-area testimonials remain [CONFIRM] template (client working on copy).
+- [x] ~~**Testimonials copy**~~ — resolved: `src/data/testimonials.ts` holds ten real Google reviews, shared by every review section; no template copy remains (confirmed Nov 10, 2026).
 - [x] ~~**Email inconsistency**~~ — resolved Oct 9, 2026: the revision brief chose `info@atlawgroup.com`; now used everywhere.
 - [ ] **News content** — 3 press releases are DRAFTS built from confirmed facts. Replace with client-approved announcements as issued.
 
