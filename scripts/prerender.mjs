@@ -10,7 +10,7 @@ import { fileURLToPath, pathToFileURL } from "node:url";
 const root = resolve(dirname(fileURLToPath(import.meta.url)), "..");
 const dist = join(root, "dist");
 
-const { render, prerenderRoutes } = await import(pathToFileURL(join(root, "dist-ssr", "entry-server.js")).href);
+const { render, prerenderRoutes, sitemapRoutes } = await import(pathToFileURL(join(root, "dist-ssr", "entry-server.js")).href);
 // Every practice page with content (from the registry). Other page types follow in week 2.
 const ROUTES = prerenderRoutes();
 // Production builds must never contain open items (launch gate: no CONFIRM in dist/).
@@ -42,3 +42,9 @@ for (const route of ROUTES) {
   console.log(`prerendered ${route} -> ${file.slice(root.length + 1)} (${Math.round(page.length / 1024)} KB)`);
 }
 console.log(`${ROUTES.length} page(s) prerendered${SHOW_DRAFTS ? " (drafts included)" : ""}.`);
+
+// Sitemap, from the same route lists the app renders (public/ holds no copy).
+const SITE = "https://atlawgroup.com";
+const urls = sitemapRoutes().map((r) => `  <url><loc>${SITE}${r}</loc></url>`).join("\n");
+writeFileSync(join(dist, "sitemap.xml"), `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls}\n</urlset>\n`);
+console.log(`sitemap.xml: ${sitemapRoutes().length} URL(s).`);
