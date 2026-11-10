@@ -141,7 +141,6 @@ Fees are set by federal law: the lesser of 25 percent of past-due benefits or $9
 ## Why Michigan workers call ATLAW for SSDI claims
 
 - **Thirteen years serving clients, more than 10,000 cases.**
-- **Insured status and the date last insured checked first**, so the claim is filed for the right program with the right onset date.
 - **The evidence built for the insured period**, not only for today.
 - **Michigan’s hearing offices.** We appear at Michigan hearing offices across the state, including Detroit, Oak Park, and Livonia, and at hearings held by video or phone.
 - **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.

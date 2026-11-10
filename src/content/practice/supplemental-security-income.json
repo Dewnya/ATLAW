@@ -1299,21 +1299,6 @@
         "c": [
          {
           "t": "text",
-          "v": "The non-medical rules screened first"
-         }
-        ]
-       },
-       {
-        "t": "text",
-        "v": ", so a disabling condition is not followed by a resource denial."
-       }
-      ],
-      [
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "text",
           "v": "Children’s claims"
          }
         ]
@@ -1523,7 +1508,7 @@
    }
   ]
  },
- "wordCount": 3109,
+ "wordCount": 3094,
  "openItems": 0,
  "source": {
   "file": "B2-19_Michigan-SSI-Lawyer.docx",

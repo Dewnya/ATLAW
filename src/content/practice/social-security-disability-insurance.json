@@ -1576,21 +1576,6 @@
         "c": [
          {
           "t": "text",
-          "v": "Insured status and the date last insured checked first"
-         }
-        ]
-       },
-       {
-        "t": "text",
-        "v": ", so the claim is filed for the right program with the right onset date."
-       }
-      ],
-      [
-       {
-        "t": "strong",
-        "c": [
-         {
-          "t": "text",
           "v": "The evidence built for the insured period"
          }
         ]
@@ -1785,7 +1770,7 @@
    }
   ]
  },
- "wordCount": 3018,
+ "wordCount": 2996,
  "openItems": 0,
  "source": {
   "file": "B2-18_Michigan-SSDI-Lawyer.docx",

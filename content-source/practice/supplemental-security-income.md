@@ -128,7 +128,6 @@ Fees for the claim are set by federal law: the lesser of 25 percent of past-due 
 ## Why Michigan families call ATLAW for SSI claims
 
 - **Thirteen years serving clients, more than 10,000 cases.**
-- **The non-medical rules screened first**, so a disabling condition is not followed by a resource denial.
 - **Children’s claims**, with the six domains and the school records built into the file.
 - **SSI and SSDI filed together** when both apply.
 - **Michigan’s hearing offices.** We appear at Michigan hearing offices across the state, including Detroit, Oak Park, and Livonia, and at hearings held by video or phone.
