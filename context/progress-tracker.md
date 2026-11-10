@@ -966,6 +966,9 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - Released `mo-dev` to `Yahia-Dev` with the rest of Arlyn's Nov 9 email (Canton source label, Belle Isle fix on B2-65, Lincoln typo, SSDI/SSI bullets)
   - Left before the atlawgroup.com cutover: B2-65 approval and flip; the Text Us number (`SMS_NUMBER`); testimonials copy; the firm's own news posts; then DNS to Vercel, redirect check with real requests, Search Console and sitemap submission
 
+- [x] Footer links for Case Results and FAQ (Nov 10, 2026)
+  - A crawl of the built site from the homepage (header menus opened in the browser, then every internal link followed) reached 273 of 275 live pages: the Practice Areas menu lists all 49 statewide pages, the Areas We Serve menu all 28 hubs, and hubs and practice pages link the city pages. `/case-results` and `/faq` had no inbound link anywhere. Both added to `companyLinks` in `src/data/footer.ts` (between News and Contact), so every page now links them. Typecheck clean, production build 275 pages. Thin spots left: the 24 city personal injury pages have one or two inbound links each (their hub)
+
 ### Open Questions
 
 - [ ] **PRE-LAUNCH — Text Us number.** Confirm with the firm whether (313) 406-7606 can receive SMS, or get a dedicated SMS number. Then set `SMS_NUMBER` in `src/data/contact.ts` (the Text buttons in the header and mobile bar appear automatically).

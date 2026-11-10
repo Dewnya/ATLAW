@@ -15,6 +15,8 @@ export const companyLinks: NavLink[] = [
   { label: "Our Team", to: "/team" },
   { label: "Areas Served", to: "/areas-served" },
   { label: "News", to: "/news" },
+  { label: "Case Results", to: "/case-results" },
+  { label: "FAQ", to: "/faq" },
   { label: "Contact", to: "/contact" },
 ];
 
