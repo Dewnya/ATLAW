@@ -952,6 +952,15 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - Applied: F-177 cells and source note on `social-security-disability--southfield.md`; 27 sources set to `status: approved` (the 26 above plus Southfield SSD). Import 276 (275 approved, 1 draft), typecheck clean, production build 275 pages, 276 HTML files with no markers and no unserved links. No open marker remains in any source
   - Left: Detroit slip and fall stays draft until the firm approves it (its corrections and three judgment calls were applied Nov 7). Once it is approved and released, every page is live and the atlawgroup.com cutover can be scheduled. Not yet released; Sam pushes
 
+- [x] Arlyn's Nov 9 email, the rest of it: Canton source label, the Belle Isle fix on B2-65, two optional cleanups (Nov 10, 2026)
+  - Arlyn re-reviewed the preview: the Oakland/Macomb tables, the Pontiac title and tagline, and the Detroit slip-and-fall State-property row are right; F-055's general-information versions are accurate, no changes. The 27 approvals and the F-177 figures she listed were already applied in `e2ea649` (Nov 9), which is on `Yahia-Dev`
+  - B3-41 Canton auto accidents (approved): the Wayne County pedestrian-involved crashes row (637, 40 fatal) now cites "Michigan Traffic Crash Facts 2024, Wayne County"; goes out with the next release
+  - B2-65 Detroit slip and fall: the two Belle Isle sentences replaced with Arlyn's text (120-day notice under MCL 691.1406 only for a defect in a public building; a fall on the grounds, paths or open land is generally barred). Deadlines table row unchanged. Stays draft; Arlyn said she will approve it once this is on the preview, and it is the last page
+  - Optional cleanups taken: B2-24 Lincoln double period fixed; the B2-18 SSDI "checked first" and B2-19 SSI "screened first" bullets removed from the "Why ... call ATLAW" lists to match the F-055 treatment (the bodies already explain insured status and the non-medical rules)
+  - Import 276 / 275 approved / 1 draft; typecheck clean; build 275 pages. Not released; Sam pushes `mo-dev` to `Yahia-Dev`
+  - Note: the sheet's `pages` tab now returns only 2 rows to `npm run tracker` (w27 VA and w91 Detroit slip and fall, both Returned); the approved rows are filtered or moved, so the script's totals no longer cover the whole set
+  - Next: when Arlyn approves B2-65, flip `slip-and-fall--detroit.md` to approved, release, and the atlawgroup.com cutover can be scheduled
+
 ### Open Questions
 
 - [ ] **PRE-LAUNCH — Text Us number.** Confirm with the firm whether (313) 406-7606 can receive SMS, or get a dedicated SMS number. Then set `SMS_NUMBER` in `src/data/contact.ts` (the Text buttons in the header and mobile bar appear automatically).
