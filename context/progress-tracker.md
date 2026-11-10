@@ -961,6 +961,11 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - Note: the sheet's `pages` tab now returns only 2 rows to `npm run tracker` (w27 VA and w91 Detroit slip and fall, both Returned); the approved rows are filtered or moved, so the script's totals no longer cover the whole set
   - Next: when Arlyn approves B2-65, flip `slip-and-fall--detroit.md` to approved, release, and the atlawgroup.com cutover can be scheduled
 
+- [x] Sitemap generated from the build (Nov 10, 2026) — pre-launch gap found while listing what is left before the domain cutover
+  - `public/sitemap.xml` (65 URLs, hand-kept) removed; `scripts/prerender.mjs` writes `dist/sitemap.xml` from `sitemapRoutes()` in `src/entry-server.tsx`: static routes, news posts, every prerendered content page, and the original template city pages that `CityLandingPage` still serves. 310 URLs; all 65 old entries and all 275 prerendered pages included; 34 served by the app without prerender. Future approvals join the sitemap on the next build with no further step
+  - Released `mo-dev` to `Yahia-Dev` with the rest of Arlyn's Nov 9 email (Canton source label, Belle Isle fix on B2-65, Lincoln typo, SSDI/SSI bullets)
+  - Left before the atlawgroup.com cutover: B2-65 approval and flip; the Text Us number (`SMS_NUMBER`); testimonials copy; the firm's own news posts; then DNS to Vercel, redirect check with real requests, Search Console and sitemap submission
+
 ### Open Questions
 
 - [ ] **PRE-LAUNCH — Text Us number.** Confirm with the firm whether (313) 406-7606 can receive SMS, or get a dedicated SMS number. Then set `SMS_NUMBER` in `src/data/contact.ts` (the Text buttons in the header and mobile bar appear automatically).
