@@ -1,5 +1,5 @@
 import { RevealBlock, Counter } from "../../motion/primitives";
-import { VERIFIED_TOTALS, YEARS_SERVING } from "../../data/firm";
+import { RISING_STAR_COUNT, VERIFIED_TOTALS, YEARS_PI_EXPERIENCE } from "../../data/firm";
 
 const grain =
   "url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='140' height='140'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E\")";
@@ -20,7 +20,8 @@ const Stat = ({ label, value }: { label: string; value: string }) => (
  * ResultsStatBar — firm-wide credibility metrics.
  * Lifetime totals (cases handled, total recovered) show only once VERIFIED_TOTALS
  * is set in data/firm.ts, and then carry the standard case-results disclaimer.
- * Until then the bar shows years of service plus approved recognitions.
+ * The years figure is the founder's personal injury experience (the About page counts the firm's years instead).
+ * Until the totals are verified the bar shows that figure plus approved recognitions.
  */
 export const ResultsStatBar = (): JSX.Element => {
   return (
@@ -49,9 +50,9 @@ export const ResultsStatBar = (): JSX.Element => {
             )}
 
             <div className="flex flex-col items-center px-4 text-center">
-              <Counter as="p" className={statClass} duration={1.2} value={YEARS_SERVING} />
+              <Counter as="p" className={statClass} duration={1.2} value={YEARS_PI_EXPERIENCE} />
               <p className="mt-3 font-sans text-[12px] font-semibold uppercase tracking-[0.16em] text-[#C6A04A]">
-                Years Serving Clients
+                Years of Personal Injury Experience
               </p>
             </div>
 
@@ -59,7 +60,7 @@ export const ResultsStatBar = (): JSX.Element => {
             {!VERIFIED_TOTALS && (
               <>
                 <Stat label="Avvo Rating" value="10.0" />
-                <Stat label="Super Lawyers Rising Star" value="3×" />
+                <Stat label="Super Lawyers Rising Star" value={`${RISING_STAR_COUNT}×`} />
               </>
             )}
           </div>

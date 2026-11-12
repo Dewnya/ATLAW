@@ -1,4 +1,3 @@
-import { useState } from "react";
 import { Link } from "react-router-dom";
 import { RevealText, RevealBlock, RevealStagger, RevealImage, DrawRule } from "../../motion/primitives";
 import { STAGGER } from "../../motion/config";
@@ -34,8 +33,6 @@ const stats = [
 ];
 
 export const AboutDewnyaSection = (): JSX.Element => {
-  const [expanded, setExpanded] = useState(false);
-
   return (
     <section
       aria-labelledby="about-dewnya-heading"
@@ -95,74 +92,28 @@ export const AboutDewnyaSection = (): JSX.Element => {
             <DrawRule className="mt-9 block h-px w-[56px] bg-[#B88A2D]" />
 
             <RevealStagger className="mt-10 max-w-[610px] space-y-7">
+              <blockquote
+                className="border-l-2 border-[#B88A2D] pl-6 font-serifDisplay text-[clamp(22px,2.4vw,30px)] italic leading-[1.35] tracking-[-0.01em] text-[#0B1F3A]"
+                style={{ fontVariationSettings: "'opsz' 36, 'wght' 400" }}
+              >
+                &ldquo;Don&rsquo;t tell mom. I&rsquo;ll be okay. Meet me at the hospital.&rdquo;
+              </blockquote>
               <p
                 className="font-serifDisplay text-[18px] leading-[1.7] tracking-[-0.005em] text-[#3A4A63] lg:text-[19px]"
                 style={{ fontVariationSettings: "'opsz' 24, 'wght' 400" }}
               >
-                When you&rsquo;re injured, everything changes overnight. The bills pile up, the
-                insurance company starts calling, and suddenly you&rsquo;re expected to navigate a
-                legal system you never asked to be part of. That&rsquo;s why Dewnya Bazzi built
-                ATLAW &mdash; so no one has to fight that battle alone.
+                That phone call from her younger brother is where Injury to Victory began.
+                It&rsquo;s why Dewnya Bazzi became a personal injury attorney, and why every
+                ATLAW client is treated like family.
               </p>
-              <p
-                className="font-serifDisplay text-[18px] leading-[1.7] tracking-[-0.005em] text-[#3A4A63] lg:text-[19px]"
-                style={{ fontVariationSettings: "'opsz' 24, 'wght' 400" }}
-              >
-                Dewnya founded the firm in Dearborn with a simple promise: every client
-                deserves the kind of attention and care that most firms reserve for their biggest
-                cases. She calls it &ldquo;unreasonable hospitality&rdquo; &mdash; going further
-                than anyone expects, because the people we represent deserve nothing less.
-              </p>
-
-              {expanded && (
-                <>
-                  <p
-                    className="font-serifDisplay text-[18px] leading-[1.7] tracking-[-0.005em] text-[#3A4A63] lg:text-[19px]"
-                    style={{ fontVariationSettings: "'opsz' 24, 'wght' 400" }}
-                  >
-                    She still personally leads ATLAW&rsquo;s personal injury practice, fighting
-                    insurance carriers who lowball injury victims and holding negligent parties
-                    accountable. Her track record has earned her the Super Lawyers Rising Star
-                    distinction three consecutive years, a perfect 10.0 Avvo rating, and a spot
-                    on the National Academy of Personal Injury Attorneys&rsquo; Top 10 Under 40
-                    list.
-                  </p>
-                  <p
-                    className="font-serifDisplay text-[18px] leading-[1.7] tracking-[-0.005em] text-[#3A4A63] lg:text-[19px]"
-                    style={{ fontVariationSettings: "'opsz' 24, 'wght' 400" }}
-                  >
-                    But what matters most to Dewnya isn&rsquo;t the recognition &mdash;
-                    it&rsquo;s the phone call from a client who can finally focus on healing
-                    because we handled everything else. That&rsquo;s the work she built this firm
-                    to do.
-                  </p>
-                </>
-              )}
-
-              <button
-                className="inline-flex items-center gap-2 font-sans text-[14px] font-medium text-[#B88A2D] transition-colors duration-150 hover:text-[#0B1F3A] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#B88A2D]/60 focus-visible:ring-offset-2"
-                onClick={() => setExpanded(!expanded)}
-                type="button"
-              >
-                {expanded ? "See Less" : "See More"}
-                <svg
-                  aria-hidden="true"
-                  className={`h-3 w-3 transition-transform duration-200 ${expanded ? "rotate-180" : ""}`}
-                  fill="none"
-                  stroke="currentColor"
-                  viewBox="0 0 24 24"
-                >
-                  <path d="M19 9l-7 7-7-7" strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} />
-                </svg>
-              </button>
             </RevealStagger>
 
             <RevealBlock className="mt-10">
               <Link
                 className="group inline-flex h-[56px] items-center justify-center gap-2.5 rounded-full bg-[#0E1B2C] px-8 font-sans text-[15px] font-medium text-white transition-all duration-[240ms] ease-[cubic-bezier(0.22,1,0.36,1)] hover:bg-[#16263B] hover:shadow-[0_8px_24px_rgba(14,27,44,0.18)] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#C6A04A] focus-visible:ring-offset-2 focus-visible:ring-offset-[#FFFFFF] lg:h-[60px] lg:px-9"
-                to="/about"
+                to="/about#founder"
               >
-                MEET DEWNYA
+                READ DEWNYA&rsquo;S STORY
                 <ArrowRight className="group-hover:translate-x-1" />
               </Link>
             </RevealBlock>
@@ -172,7 +123,7 @@ export const AboutDewnyaSection = (): JSX.Element => {
             <RevealImage
               alt="Dewnya Bazzi, ATLAW founder and CEO"
               className="h-auto w-full rounded-[24px] object-cover object-top"
-              src="/assets/dewnya/dewnya-seated-desk.avif"
+              src="/assets/dewnya/dewnya-chair-portrait.avif"
               wrapperClassName="w-full overflow-hidden rounded-[24px] shadow-[0_18px_48px_rgba(11,31,58,0.12)]"
             />
           </div>

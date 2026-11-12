@@ -1,5 +1,5 @@
 import { openIntakeModal } from "./IntakeModal";
-import { YEARS_SERVING } from "../../data/firm";
+import { RISING_STAR_COUNT, YEARS_SERVING } from "../../data/firm";
 
 const grain =
   "url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E\")";
@@ -50,7 +50,7 @@ export const Hero = (): JSX.Element => {
           <p className="flex items-center gap-4">
             <span aria-hidden="true" className="h-px w-[72px] shrink-0 bg-[#C6A04A]" />
             <span className="font-sans text-[12px] font-medium uppercase tracking-[0.24em] text-[rgba(255,255,255,0.7)]">
-              Dearborn Personal Injury Attorneys
+              Personal Injury Attorneys
             </span>
           </p>
 
@@ -62,13 +62,13 @@ export const Hero = (): JSX.Element => {
               className="hero-rise block text-[clamp(46px,12vw,68px)] lg:text-[clamp(72px,6.4vw,104px)]"
               style={{ animationDelay: "0ms" }}
             >
-              If it&rsquo;s law,
+              Injury to
             </span>
             <span
               className="hero-rise block text-[clamp(56px,16vw,84px)] lg:whitespace-nowrap lg:text-[clamp(96px,8.4vw,140px)]"
               style={{ animationDelay: "80ms" }}
             >
-              it&rsquo;s ATLAW
+              Victory
               <span
                 aria-hidden="true"
                 className="ml-[0.04em] inline-block h-[0.14em] w-[0.14em] translate-y-[0.02em] rounded-full bg-[#C6A04A] align-baseline"
@@ -80,7 +80,7 @@ export const Hero = (): JSX.Element => {
             className="hero-rise mt-4 font-serifDisplay text-[clamp(18px,2.5vw,24px)] leading-[1.4] tracking-[-0.005em] text-[rgba(255,255,255,0.85)]"
             style={{ animationDelay: "160ms", fontVariationSettings: "'opsz' 36, 'wght' 400" }}
           >
-            You focus on healing. We focus on fighting for you.
+            We fight for what you&rsquo;re owed, so you can focus on getting your life back.
           </p>
 
           <div className="hero-fade" style={{ animationDelay: "800ms" }}>
@@ -142,7 +142,7 @@ export const Hero = (): JSX.Element => {
 
           <div className="flex flex-col items-center">
             <span className="font-serifDisplay text-[28px] font-normal leading-none tracking-[-0.02em] text-white sm:text-[32px]">
-              3<span className="text-[20px] text-white/60 sm:text-[22px]">×</span>
+              {RISING_STAR_COUNT}<span className="text-[20px] text-white/60 sm:text-[22px]">×</span>
             </span>
             <span className="mt-1 font-sans text-[9px] font-semibold uppercase tracking-[0.18em] text-white/40 sm:text-[10px]">
               Super Lawyers

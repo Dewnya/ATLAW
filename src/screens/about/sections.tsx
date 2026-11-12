@@ -7,7 +7,7 @@ export const FounderFeatureSection = (): JSX.Element => {
   const [expanded, setExpanded] = useState(false);
 
   return (
-    <section aria-labelledby="founder-heading" className="w-full bg-white">
+    <section aria-labelledby="founder-heading" className="w-full scroll-mt-24 bg-white" id="founder">
       <div className={`${SECTION} ${PAD}`}>
         <div className="grid items-start gap-12 lg:grid-cols-[55fr_45fr] lg:gap-16">
           <div className="order-2 lg:order-1">
@@ -29,6 +29,15 @@ export const FounderFeatureSection = (): JSX.Element => {
 
             <Reveal delay={160}>
               <div className="mt-7 space-y-5">
+                <p className="max-w-[560px] font-serifDisplay text-[18px] leading-[1.6] text-[#3A4A5E]">
+                  {founderBio.intro}
+                </p>
+                <blockquote
+                  className="max-w-[560px] border-l-2 pl-6 font-serifDisplay text-[clamp(22px,2.4vw,30px)] italic leading-[1.35] tracking-[-0.01em]"
+                  style={{ borderColor: GOLD, color: INK }}
+                >
+                  {founderBio.pullQuote}
+                </blockquote>
                 {founderBio.paragraphs.map((p, i) => (
                   <p key={i} className="max-w-[560px] font-serifDisplay text-[18px] leading-[1.6] text-[#3A4A5E]">
                     {p}
@@ -45,6 +54,19 @@ export const FounderFeatureSection = (): JSX.Element => {
                       {p}
                     </p>
                   ))}
+                  <figure className="max-w-[280px] pt-2">
+                    <img
+                      alt={founderBio.familyPhoto.alt}
+                      className="block h-auto w-full rounded-[16px] object-cover"
+                      height={founderBio.familyPhoto.height}
+                      loading="lazy"
+                      src={founderBio.familyPhoto.src}
+                      width={founderBio.familyPhoto.width}
+                    />
+                    <figcaption className="mt-3 font-sans text-[13px] leading-[1.5] text-[#7A7466]">
+                      {founderBio.familyPhoto.caption}
+                    </figcaption>
+                  </figure>
                 </div>
               </Reveal>
             )}

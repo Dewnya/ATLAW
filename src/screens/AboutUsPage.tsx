@@ -34,9 +34,9 @@ export const AboutUsPage = (): JSX.Element => {
           <img
             alt=""
             aria-hidden="true"
-            className="pointer-events-none absolute inset-0 h-full w-full object-cover object-center opacity-30"
+            className="pointer-events-none absolute inset-0 h-full w-full object-cover object-[50%_100%] opacity-30"
             fetchPriority="high"
-            src="/assets/team/group-shot.avif"
+            src="/assets/about/our-story-collage.avif"
           />
           <div
             aria-hidden="true"
@@ -49,7 +49,8 @@ export const AboutUsPage = (): JSX.Element => {
           />
 
           <Breadcrumbs items={[{ label: "ATLAW", to: "/" }, { label: "About" }]} />
-          <div className={`relative ${SECTION} flex min-h-[420px] flex-col items-center justify-center py-24 text-center md:min-h-[480px] md:py-32 lg:min-h-[540px] lg:py-40`}>
+          {/* Text sits in the upper band; the collage is anchored to the bottom so its faces stay below the copy. */}
+          <div className={`relative ${SECTION} flex min-h-[520px] flex-col items-center justify-start pb-[260px] pt-16 text-center md:min-h-[600px] md:pb-[300px] md:pt-20 lg:min-h-[680px] lg:pb-[340px] lg:pt-24`}>
             <Reveal>
               <Eyebrow num="01" label="About Us" onDark />
             </Reveal>

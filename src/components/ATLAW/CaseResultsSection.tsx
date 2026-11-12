@@ -14,7 +14,7 @@ const fmt = (n: number) => new Intl.NumberFormat("en-US").format(n);
 const VISIBLE = 3;
 
 /** Reviews shown in place of results until the firm supplies approved results. */
-const FALLBACK_REVIEWERS = ["Mike Esseily", "Prophet J.E. Lykes Sr.", "Moe Fares"];
+const FALLBACK_REVIEWERS = ["Mike Esseily", "Prophet J.E. Lykes Sr.", "Z Y"];
 const fallbackReviews = FALLBACK_REVIEWERS.map((name) => googleReviews.find((r) => r.name === name)).filter(
   (r): r is Testimonial => Boolean(r),
 );

@@ -20,16 +20,16 @@ export const googleReviews: Testimonial[] = [
   },
   {
     quote:
-      "Excellent lawyer. Honest, sharp, and easy to work with. Made a stressful situation much easier and got great results thanks Ahmad.",
-    name: "Moe Fares",
-    initials: "MF",
+      "I had a very positive experience working with the best lawyer Dewnya Bazzi and her entire teames. From the beginning of my case, they were professional, knowledgeable, responsive, and genuinely caring. They took the time to explain everything clearly, answered my questions, and kept me informed throughout the process.I especially appreciate the hard work and attention to detail that everyone at the office put into my case. The entire team was respectful, patient, and made me feel that my case was in good hands.I’m very grateful for the time and effort they dedicated to helping me. I would definitely recommend lawyer Dewnya Bazzi and her team to anyone looking for professional and compassionate legal representation.",
+    name: "Z Y",
+    initials: "ZY",
     caseType: "Google Review",
   },
   {
     quote:
-      "ATLAW treated me with dignity and respect. They were kind and courteous and answered all my questions. They responded immediately when I reached out — which most lawyers don't do. I personally want to thank Attorney Mr. Mazen for doing such a wonderful job at representing me.",
-    name: "Perry Sanders",
-    initials: "PS",
+      "I had an excellent experience with my attorney,Dewnya, and would highly recommend her to anyone looking for a dedicated and trustworthy lawyer. My case was complicated, and I had been turned down by two other attorneys before I found her. From the beginning, she took the time to understand my situation, listened to my concerns, and never made me feel like my case was too difficult. She was professional, knowledgeable, responsive, and most importantly, she genuinely fought for me and my best interests. She stayed persistent throughout the entire process and worked extremely hard to achieve a great result. I’m truly grateful for everything she did for me and for the way she handled my case. I couldn’t have asked for a better attorney, and I highly recommend her!",
+    name: "BmcTransportLLc",
+    initials: "BM",
     caseType: "Google Review",
   },
   {
