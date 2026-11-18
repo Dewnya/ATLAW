@@ -32,7 +32,7 @@ export const Hero = (): JSX.Element => {
         className="pointer-events-none absolute inset-0 -z-10 h-full w-full object-cover object-center"
         decoding="async"
         fetchPriority="high"
-        src="/assets/office/office-reception-desk.avif"
+        src="/assets/hero/parklane-towers-dusk.avif"
       />
       <div
         aria-hidden="true"

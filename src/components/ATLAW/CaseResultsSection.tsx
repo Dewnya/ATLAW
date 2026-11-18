@@ -2,7 +2,6 @@ import { useState } from "react";
 import { RevealText, RevealBlock, RevealStagger } from "../../motion/primitives";
 import { STAGGER } from "../../motion/config";
 import { approvedCaseResults, type CaseResult } from "../../data/caseResults";
-import { googleReviews, type Testimonial } from "../../data/testimonials";
 
 const grain =
   "url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='140' height='140'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E\")";
@@ -12,12 +11,6 @@ const headlineAxes = "'opsz' 144, 'wght' 380, 'SOFT' 0, 'WONK' 0";
 const fmt = (n: number) => new Intl.NumberFormat("en-US").format(n);
 
 const VISIBLE = 3;
-
-/** Reviews shown in place of results until the firm supplies approved results. */
-const FALLBACK_REVIEWERS = ["Mike Esseily", "Prophet J.E. Lykes Sr.", "Z Y"];
-const fallbackReviews = FALLBACK_REVIEWERS.map((name) => googleReviews.find((r) => r.name === name)).filter(
-  (r): r is Testimonial => Boolean(r),
-);
 
 const ChevronLeft = () => (
   <svg aria-hidden="true" className="h-5 w-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -35,16 +28,6 @@ const PersonIcon = () => (
   <svg aria-hidden="true" className="h-8 w-8 text-[#B88A2D]/60" fill="currentColor" viewBox="0 0 24 24">
     <path d="M12 12c2.7 0 4.8-2.1 4.8-4.8S14.7 2.4 12 2.4 7.2 4.5 7.2 7.2 9.3 12 12 12zm0 2.4c-3.2 0-9.6 1.6-9.6 4.8v2.4h19.2v-2.4c0-3.2-6.4-4.8-9.6-4.8z" />
   </svg>
-);
-
-const Stars = () => (
-  <span aria-label="5 out of 5 stars" className="flex gap-1" role="img">
-    {Array.from({ length: 5 }, (_, i) => (
-      <svg aria-hidden="true" className="h-4 w-4" fill="#C6A04A" key={i} viewBox="0 0 20 20">
-        <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" />
-      </svg>
-    ))}
-  </span>
 );
 
 const cardClass =
@@ -90,21 +73,6 @@ const ResultCard = ({ result }: { result: CaseResult }) => (
       {result.caseType}
     </p>
   </article>
-);
-
-const ReviewCard = ({ review }: { review: Testimonial }) => (
-  <figure className={`${cardClass} text-center`}>
-    <Stars />
-    <blockquote className="mt-5 flex-1 font-serifDisplay text-[18px] leading-[1.55] text-[#0B1F3A]">
-      &ldquo;{review.quote}&rdquo;
-    </blockquote>
-    <figcaption className="mt-6 flex flex-col items-center gap-1">
-      <span className="font-sans text-[15px] font-semibold text-[#0B1F3A]">{review.name}</span>
-      <span className="font-sans text-[11px] font-semibold uppercase tracking-[0.14em] text-[#B88A2D]">
-        {review.caseType}
-      </span>
-    </figcaption>
-  </figure>
 );
 
 const ResultsCarousel = ({ results }: { results: CaseResult[] }) => {
@@ -221,14 +189,18 @@ export const CaseResultsSection = (): JSX.Element => {
         {hasResults ? (
           <ResultsCarousel results={approvedCaseResults} />
         ) : (
-          <RevealStagger
-            amount={STAGGER.grid}
-            className="mt-14 grid grid-cols-1 items-stretch gap-5 md:mt-16 md:grid-cols-3 lg:mt-[56px] lg:gap-6"
-          >
-            {fallbackReviews.map((review) => (
-              <ReviewCard key={review.name} review={review} />
-            ))}
-          </RevealStagger>
+          <RevealBlock className="mt-10 flex flex-col items-center gap-6 text-center md:mt-12">
+            <p className="max-w-[640px] font-serifDisplay text-[18px] leading-[1.6] text-[#3A4A63] lg:text-[19px]">
+              More than $100 million recovered for injured people across Michigan. See a selection of the
+              firm&rsquo;s settlements and what drives case value in Michigan.
+            </p>
+            <a
+              className="group inline-flex h-[56px] items-center justify-center gap-2.5 rounded-full bg-[#0E1B2C] px-8 font-sans text-[15px] font-medium text-white transition-all duration-[240ms] ease-[cubic-bezier(0.22,1,0.36,1)] hover:bg-[#16263B] hover:shadow-[0_8px_24px_rgba(14,27,44,0.18)] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#C6A04A] focus-visible:ring-offset-2"
+              href="/case-results"
+            >
+              See our case results
+            </a>
+          </RevealBlock>
         )}
 
         {hasResults && (

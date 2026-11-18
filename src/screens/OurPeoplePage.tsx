@@ -2,7 +2,7 @@ import { Header } from "../components/ATLAW/Header";
 import { Breadcrumbs } from "../components/ATLAW/Breadcrumbs";
 import { Footer } from "../components/ATLAW/Footer";
 import { PageMeta } from "../components/ATLAW/PageMeta";
-import { founder, attorneys, staff, type TeamMember } from "../data/team";
+import { founder, staff, type TeamMember } from "../data/team";
 import { attorneySchema } from "../data/schema-org";
 import { TestimonialsSection } from "../components/ATLAW/TestimonialsSection";
 import { IntakeFormSection } from "../components/ATLAW/IntakeFormSection";
@@ -157,36 +157,12 @@ export const OurPeoplePage = (): JSX.Element => {
           </div>
         </section>
 
-        {/* ══ 03 — ATTORNEYS GRID ═════════════════════════════════════ */}
-        <section aria-labelledby="attorneys-heading" className="w-full bg-[#FAFAF8]">
-          <div className={`${SECTION} py-16 md:py-24 lg:py-28`}>
-            <div className="text-center">
-              <p className="font-sans text-[12px] font-semibold uppercase tracking-[0.22em] text-[#7A7466]">
-                <span style={{ color: GOLD }}>02</span> &mdash; Our Attorneys
-              </p>
-              <h2
-                id="attorneys-heading"
-                className="mx-auto mt-6 font-serifDisplay text-[32px] font-normal leading-[1.08] tracking-[-0.02em] sm:text-[40px] md:text-[48px]"
-                style={{ color: INK }}
-              >
-                Your Legal Team<span aria-hidden="true" style={{ color: GOLD }}>.</span>
-              </h2>
-            </div>
-
-            <div className="mx-auto mt-14 grid max-w-[900px] gap-10 sm:grid-cols-2 md:gap-12 lg:grid-cols-3 lg:gap-14">
-              {attorneys.map((attorney) => (
-                <TeamCard key={attorney.name} member={attorney} />
-              ))}
-            </div>
-          </div>
-        </section>
-
-        {/* ══ 04 — KEY STAFF GRID ════════════════════════════════════ */}
+        {/* ══ 03 — TEAM GRID ════════════════════════════════════ */}
         <section aria-labelledby="staff-heading" className="w-full bg-white">
           <div className={`${SECTION} py-16 md:py-24 lg:py-28`}>
             <div className="text-center">
               <p className="font-sans text-[12px] font-semibold uppercase tracking-[0.22em] text-[#7A7466]">
-                <span style={{ color: GOLD }}>03</span> &mdash; Our Team
+                <span style={{ color: GOLD }}>02</span> &mdash; Our Team
               </p>
               <h2
                 id="staff-heading"
