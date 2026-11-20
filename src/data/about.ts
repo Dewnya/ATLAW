@@ -62,13 +62,13 @@ export const founderBio = {
     "Outside the office, I’m active in the Dearborn community. I speak Arabic fluently, as do many of our team members. When you’re hurt, you should be able to tell us what happened in the language you’re most comfortable with.",
     "If you or someone you love has been hurt, call us. We’ll call you back the same day and walk you through your options.",
   ],
-  /** Shown with the full story. */
+  /** Shown under the founder portrait (firm, Nov 19, 2026). */
   familyPhoto: {
     src: "/assets/dewnya/dewnya-and-ali.avif",
     alt: "Dewnya Bazzi with her brother Ali",
     caption: "Dewnya with her brother Ali.",
-    width: 325,
-    height: 704,
+    width: 1200,
+    height: 1500,
   },
 };
 

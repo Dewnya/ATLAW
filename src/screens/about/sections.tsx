@@ -54,19 +54,6 @@ export const FounderFeatureSection = (): JSX.Element => {
                       {p}
                     </p>
                   ))}
-                  <figure className="max-w-[280px] pt-2">
-                    <img
-                      alt={founderBio.familyPhoto.alt}
-                      className="block h-auto w-full rounded-[16px] object-cover"
-                      height={founderBio.familyPhoto.height}
-                      loading="lazy"
-                      src={founderBio.familyPhoto.src}
-                      width={founderBio.familyPhoto.width}
-                    />
-                    <figcaption className="mt-3 font-sans text-[13px] leading-[1.5] text-[#7A7466]">
-                      {founderBio.familyPhoto.caption}
-                    </figcaption>
-                  </figure>
                 </div>
               </Reveal>
             )}
@@ -111,6 +98,19 @@ export const FounderFeatureSection = (): JSX.Element => {
                 width={800}
               />
             </div>
+            <figure className="mx-auto mt-6 w-full max-w-[440px] lg:max-w-none">
+              <img
+                alt={founderBio.familyPhoto.alt}
+                className="block h-auto w-full rounded-[20px] object-cover"
+                height={founderBio.familyPhoto.height}
+                loading="lazy"
+                src={founderBio.familyPhoto.src}
+                width={founderBio.familyPhoto.width}
+              />
+              <figcaption className="mt-3 font-sans text-[13px] leading-[1.5] text-[#7A7466]">
+                {founderBio.familyPhoto.caption}
+              </figcaption>
+            </figure>
           </Reveal>
         </div>
       </div>

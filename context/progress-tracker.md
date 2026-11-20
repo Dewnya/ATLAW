@@ -985,6 +985,12 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - Homepage testimonials: the results section (`CaseResultsSection.tsx`) no longer shows its own three review cards (the only place the homepage differed from the About page); until `approvedCaseResults` is filled it shows one line and a "See our case results" button to `/case-results`. The homepage's testimonials carousel is the same component and data as the About page
   - Typecheck clean, production build 275 pages. Not released; domain switch still on hold pending Dewnya
 
+- [x] Arlyn's Nov 19 email: team order, two new portraits, licensed towers photo, Dewnya and Ali photo (Nov 20, 2026)
+  - Our Team: Mazen Alsamawi stays off (no longer with the firm). Amaan Butt and Fatima Zreik added as Client Advocates (2048×2048 labeled originals → 800×800 AVIF). The twelve are in the firm's order: Mansour, Baydoun, Chamas, Almalahi, Sprung, Daouk, Misovich, Butt, Zreik, Ghamloush, Abdallah, Hakim.
+  - Homepage hero: the Parklane Towers photo replaced with the listing agent's copy (2390×1792 original, no watermark; the firm confirmed it may use it as a tenant). `parklane-towers-dusk.avif` is now 2390×1792, 224 KB. The watermark and size caveats from Nov 17 are resolved
+  - About founder: the Dewnya and Ali photo is the high-resolution copy (3375×4219 original → 1200×1500 AVIF) and now sits under her portrait in the right-hand column with its caption, instead of at the end of the expanded story
+  - Typecheck clean, production build 275 pages. Domain switch still on hold until Dewnya confirms she is done; Detroit slip and fall still awaiting approval
+
 ### Open Questions
 
 - [ ] **PRE-LAUNCH — Text Us number.** Confirm with the firm whether (313) 406-7606 can receive SMS, or get a dedicated SMS number. Then set `SMS_NUMBER` in `src/data/contact.ts` (the Text buttons in the header and mobile bar appear automatically).
