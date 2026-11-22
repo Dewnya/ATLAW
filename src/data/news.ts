@@ -31,7 +31,7 @@ export const newsPosts: NewsPost[] = [
   {
     slug: "dewnya-bazzi-super-lawyers-rising-star-2026",
     title:
-      "ATLAW Founder Dewnya Bazzi Named Super Lawyers Rising Star for Third Consecutive Year",
+      "ATLAW Founder Dewnya Bazzi Named Super Lawyers Rising Star for Ninth Consecutive Year",
     category: "Recognition",
     date: "2026-06-15",
     dateDisplay: "June 15, 2026",
@@ -42,7 +42,7 @@ export const newsPosts: NewsPost[] = [
     body: [
       {
         type: "paragraph",
-        text: "ATLAW today announced that founder and CEO Dewnya Bazzi has been named a Super Lawyers Rising Star for 2026 — the third consecutive year she has received the honor. The Rising Star designation is awarded through a peer-review and independent-research process to no more than 2.5% of attorneys in Michigan.",
+        text: "ATLAW today announced that founder and CEO Dewnya Bazzi has been named a Super Lawyers Rising Star for 2026 — the ninth consecutive year she has received the honor. The Rising Star designation is awarded through a peer-review and independent-research process to no more than 2.5% of attorneys in Michigan.",
       },
       {
         type: "heading",

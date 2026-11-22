@@ -15,7 +15,7 @@ export const autoAccidentsData: PracticeAreaPI = {
   ],
   whyChooseUs: [
     "Michigan’s auto accident laws are different from every other state. The No-Fault system means your own insurance covers your medical bills and lost wages regardless of who caused the crash, but getting those benefits paid in full is rarely straightforward. Insurers delay, deny, and lowball. We know how the system works because we fight it every day.",
-    "Attorney Dewnya Bazzi has been recognized as a Super Lawyers Rising Star three consecutive years for her work in personal injury. She personally oversees every auto accident case we take on, because the details matter and a missed deadline or an unsigned form can cost you thousands.",
+    "Attorney Dewnya Bazzi has been recognized as a Super Lawyers Rising Star nine consecutive years for her work in personal injury. She personally oversees every auto accident case we take on, because the details matter and a missed deadline or an unsigned form can cost you thousands.",
     "We work on contingency. You pay nothing up front and nothing at all unless we recover money for you. That’s not a marketing line — it’s how we practice.",
   ],
   caseResults: [], // firm-approved results only (none supplied yet)

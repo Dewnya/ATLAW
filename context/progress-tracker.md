@@ -991,6 +991,13 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - About founder: the Dewnya and Ali photo is the high-resolution copy (3375×4219 original → 1200×1500 AVIF) and now sits under her portrait in the right-hand column with its caption, instead of at the end of the expanded story
   - Typecheck clean, production build 275 pages. Domain switch still on hold until Dewnya confirms she is done; Detroit slip and fall still awaiting approval
 
+- [x] Dewnya's final changes and the last approval (Nov 21, 2026) — every page approved
+  - B2-65 Detroit slip and fall approved in the tracker; set to `status: approved`. Import 276 / 276 approved / 0 drafts; production build 276 pages, 277 HTML files, sitemap 311 URLs, no markers, no unserved links. The VA row stays dropped
+  - Our Team titles: Tamara Daouk → Client Advocate, Fatima Zreik → Intake Specialist
+  - News post `/news/dewnya-bazzi-super-lawyers-rising-star-2026`: headline and first paragraph now "ninth consecutive year" (slug kept, so the existing link and the `vercel.json` news redirect exception still work). The two unrendered practice strings in `src/data/practice/pi/` also say nine now. Not changed, flagged: the post still says "a 29-person team" while the About timeline says 50+
+  - Footer tagline: "Dearborn's" → "Michigan's personal injury law firm..."
+  - Firm said these are Dewnya's last changes and asked us to switch atlawgroup.com once they are live. Cutover steps in `deliverables/launch-checklist-2026-11-10.md`
+
 ### Open Questions
 
 - [ ] **PRE-LAUNCH — Text Us number.** Confirm with the firm whether (313) 406-7606 can receive SMS, or get a dedicated SMS number. Then set `SMS_NUMBER` in `src/data/contact.ts` (the Text buttons in the header and mobile bar appear automatically).

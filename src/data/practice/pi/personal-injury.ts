@@ -12,7 +12,7 @@ export const personalInjuryData: PracticeAreaPI = {
     "Our attorneys handle claims from the first phone call through settlement or trial. We deal with the insurers, the deadlines, and the paperwork so you can put your energy into recovering.",
   ],
   whyChooseUs: [
-    "ATLAW is a Dearborn-based personal injury firm that handles cases across Southeast Michigan. Attorney Dewnya Bazzi has been recognized as a Super Lawyers Rising Star three consecutive years and maintains a 10.0 Avvo rating for her work in personal injury.",
+    "ATLAW is a Dearborn-based personal injury firm that handles cases across Southeast Michigan. Attorney Dewnya Bazzi has been recognized as a Super Lawyers Rising Star nine consecutive years and maintains a 10.0 Avvo rating for her work in personal injury.",
     "We take on insurance companies, hospitals, property owners, and employers who try to avoid paying what the law says they owe. Every case gets personal attention because the details drive the outcome, and a missed detail can cost you thousands.",
     "We practice on contingency — you pay nothing up front and nothing at all unless we recover money for you. That means our incentives are aligned with yours from day one.",
   ],
