@@ -1009,6 +1009,12 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - Result on the build: 312 indexable pages = 312 sitemap URLs; every page reachable from the homepage through HTML links in at most two clicks; fewest inbound links on any page is two; no dead internal links; no duplicate titles or descriptions; hydration clean in the browser on home, About, Team, Contact, a content page, a template page and the site map (no console errors); menus open and close as before
   - Domain state at the time: DNS points at Vercel but the domain is detached from the project, so atlawgroup.com returns a Vercel 404 until it is re-added (after this and the www fix `c4455b5` are released) or the GoDaddy records are put back to Webflow
 
+- [x] atlawgroup.com live on the new site (Nov 21, 2026)
+  - Sam released `be2886c` to `Yahia-Dev` (verified on atlaw-five.vercel.app: 20 sampled pages full HTML, unknown URLs 404 with the noindex not-found page, 16 old Webflow URLs 301 correctly, sitemap 312 URLs on www) and re-added both domains in Vercel
+  - Live checks on `https://www.atlawgroup.com`: 13 sampled pages 200 with self-canonical on www and no `X-Robots-Tag`; unknown URL 404; 11 old Webflow URLs 301 to the right pages; sitemap 312 URLs; robots.txt allows all; certificate issued for www (valid to Feb 20, 2027); `http://` redirects to `https://`; MX and SPF unchanged
+  - Open: the bare domain `https://atlawgroup.com` serves the site itself (200) instead of redirecting to www. Canonical tags point at www so search engines consolidate, but set the redirect in Vercel's Domains settings (atlawgroup.com → redirect to www.atlawgroup.com). Do not add a www → apex rule anywhere (that caused the Nov 21 loop)
+  - Still to do (Sam): Google Search Console property and sitemap submission; Google Business Profile website link; cancel Webflow after a week or so. Asked the firm: the news post says "29-person team" while the About timeline says 50+
+
 ### Open Questions
 
 - [ ] **PRE-LAUNCH — Text Us number.** Confirm with the firm whether (313) 406-7606 can receive SMS, or get a dedicated SMS number. Then set `SMS_NUMBER` in `src/data/contact.ts` (the Text buttons in the header and mobile bar appear automatically).
