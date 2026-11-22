@@ -31,6 +31,7 @@ export const socialLinks: { label: string; href: string }[] = [
 export const legalLinks: { label: string; to: string }[] = [
   { label: "Privacy Policy", to: "/privacy" },
   { label: "Terms of Use", to: "/terms" },
+  { label: "Site Map", to: "/site-map" },
 ];
 
 export const MAP_URL =

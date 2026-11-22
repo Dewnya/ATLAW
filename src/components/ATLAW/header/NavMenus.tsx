@@ -83,9 +83,10 @@ export const DesktopNavMenu = ({ menu, open, onOpenChange, triggerClassName }: D
         <Chevron open={open} />
       </button>
 
-      {open && (
+      {/* Always rendered so every menu link is in the page HTML; `hidden` keeps it closed and out of the tab order. */}
         <div
           className="absolute inset-x-0 top-full border-t border-white/10 shadow-[0_24px_48px_rgba(5,15,28,0.35)]"
+          hidden={!open}
           id={panelId}
           onClick={(e) => {
             if ((e.target as HTMLElement).closest("a")) onOpenChange(false);
@@ -127,7 +128,6 @@ export const DesktopNavMenu = ({ menu, open, onOpenChange, triggerClassName }: D
             </div>
           </div>
         </div>
-      )}
     </div>
   );
 };

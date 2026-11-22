@@ -41,7 +41,7 @@ atlaw_start/
 │   ├── fonts/                    # Self-hosted font files (woff2)
 │   └── team imgs/                # Legacy team photos (to be replaced)
 ├── scripts/                      # Image conversion utilities (sharp); prerender.mjs (build-time HTML)
-├── vercel.json                   # SPA rewrite, cleanUrls, 301 redirects for old URLs, noindex on *.vercel.app
+├── vercel.json                   # cleanUrls, 301 redirects for old URLs, noindex on *.vercel.app (no SPA rewrite: every route is a prerendered file)
 └── context/                      # Project context files (this directory)
 ```
 
@@ -80,9 +80,10 @@ atlaw_start/
 ## Prerender (build-time HTML)
 
 - `npm run build` = client build, SSR build of `src/entry-server.tsx` into `dist-ssr/` (gitignored), then `scripts/prerender.mjs` (`npm run build:spa` = client build only).
-- Routes come from `prerenderRoutes()` in `src/entry-server.tsx` (every practice with a page). For each, the script renders the page with React's web-stream renderer (waits for lazy routes), writes `dist/<route>.html` with the page's own `<title>`, meta, canonical and JSON-LD (template defaults removed, so no tag appears twice), and the markup inside `#app`.
-- The browser entry hydrates that HTML (`hydrateRoot`) when `#app` already has content; other URLs keep the client-only render through the SPA rewrite.
-- Vercel serves `/a/b` from `a/b.html` through `cleanUrls`; existing files win over the rewrite.
+- Routes come from `prerenderRoutes()` in `src/entry-server.tsx` (every page the site serves: static pages, news posts, practice pages, guides, city pages and the original template city pages; since Nov 21, 2026). For each, the script renders the page with React's web-stream renderer (waits for lazy routes), writes `dist/<route>.html` with the page's own `<title>`, meta, canonical and JSON-LD (template defaults removed, so no tag appears twice), and the markup inside `#app`.
+- The browser entry hydrates that HTML (`hydrateRoot`). Every route is prerendered, so there is no client-only fallback: `vercel.json` has no catch-all rewrite, and an unknown URL gets `dist/404.html` (the prerendered `NotFoundPage`, noindex) with a real 404 status.
+- Vercel serves `/a/b` from `a/b.html` through `cleanUrls`. `dist/sitemap.xml` lists exactly the prerendered routes (`sitemapRoutes = prerenderRoutes`), on the canonical host `https://www.atlawgroup.com`.
+- Findability: the desktop header menus are always in the HTML (`hidden` until opened), and `/site-map` (`SiteMapPage`, data in `src/data/site-map.ts`, linked from the footer) lists every page. A new route must be added to `prerenderRoutes()` or it will 404 in production.
 - Any render error fails the build (errors inside Suspense boundaries are collected and rethrown).
 - Status (Oct 10, 2026): every practice page is prerendered and `npm run build` prerenders. Other page types follow in week 2. A production build fails if a page contains [CONFIRM]/[VERIFY]/[ATTORNEY CHECK].
 - Components must not touch `window`/`document` during render (effects only); otherwise the prerender fails.

@@ -4,12 +4,11 @@ import { StaticRouter } from "react-router-dom/server";
 import { HelmetProvider, type HelmetServerState } from "react-helmet-async";
 import { App } from "./App";
 import { cityContentPages, hasPracticeContent } from "./content";
-import { cities } from "./data/cities";
 import { newsPosts } from "./data/news";
 import { practicesWithPages } from "./data/practice/pages";
-import { practiceAreaBySlug } from "./data/practice/pi";
 import { cityPageHref, practiceHref } from "./data/practice/pi/registry";
 import { resourceHref, resourceRegistry } from "./data/resources";
+import { templateCityRoutes } from "./data/site-map";
 import { SmoothScroll } from "./motion/SmoothScroll";
 
 export interface RenderResult {
@@ -59,34 +58,29 @@ export async function render(url: string): Promise<RenderResult> {
   return { html, head };
 }
 
+/** Pages with no content import that the app always serves (App.tsx routes). */
+const STATIC_ROUTES = ["/", "/about", "/team", "/contact", "/areas-served", "/news", "/privacy", "/terms", "/site-map"];
+
 /**
- * URLs written as static HTML at build time. Practice pages and resource guides
- * come from their registries, so every one with content (and only those) is prerendered.
+ * Every indexable URL, deduplicated: the static pages, the news posts, every
+ * practice page, resource guide and city page with imported copy, and the
+ * original template city pages. All of them are written as static HTML at build
+ * time (scripts/prerender.mjs) and listed in dist/sitemap.xml, so no page
+ * depends on JavaScript to be read or found.
  */
 export function prerenderRoutes(): string[] {
-  return [
-    ...practicesWithPages().map((p) => practiceHref(p.slug)),
-    ...resourceRegistry.filter((r) => hasPracticeContent(r.slug)).map((r) => resourceHref(r.slug)),
-    ...cityContentPages().map((p) => cityPageHref(p.practice, p.city)),
-  ];
-}
-
-/** Pages with no content import that the app always serves (App.tsx routes). */
-const STATIC_ROUTES = ["/", "/about", "/team", "/contact", "/areas-served", "/news", "/privacy", "/terms"];
-
-/**
- * Every indexable URL for dist/sitemap.xml (written by scripts/prerender.mjs):
- * the static pages, the news posts, every prerendered content page, and the
- * original template city pages (the hand-written cities in cities.ts for the
- * original practices in practice/pi), which CityLandingPage still renders when
- * no imported copy replaces them. Deduplicated, in that order.
- */
-export function sitemapRoutes(): string[] {
-  const template = cities.flatMap((c) => Object.keys(practiceAreaBySlug).map((practice) => cityPageHref(practice, c.slug)));
   return [...new Set([
     ...STATIC_ROUTES,
     ...newsPosts.map((n) => `/news/${n.slug}`),
-    ...prerenderRoutes(),
-    ...template,
+    ...practicesWithPages().map((p) => practiceHref(p.slug)),
+    ...resourceRegistry.filter((r) => hasPracticeContent(r.slug)).map((r) => resourceHref(r.slug)),
+    ...cityContentPages().map((p) => cityPageHref(p.practice, p.city)),
+    ...templateCityRoutes().map((p) => cityPageHref(p.practice, p.city)),
   ])];
 }
+
+/** The sitemap lists exactly the prerendered pages. */
+export const sitemapRoutes = prerenderRoutes;
+
+/** A path no route matches, so the router renders NotFoundPage (written to dist/404.html). */
+export const NOT_FOUND_ROUTE = "/__not-found__";

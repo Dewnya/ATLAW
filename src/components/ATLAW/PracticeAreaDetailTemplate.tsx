@@ -6,7 +6,7 @@ import { TestimonialsSection } from "./TestimonialsSection";
 import { IntakeFormSection } from "./IntakeFormSection";
 import { ProcessSection } from "./ProcessSection";
 import { practiceAreaBySlug } from "../../data/practice/pi";
-import { practicePath } from "../../data/practice/pi/registry";
+import { cityPageHref, practicePath } from "../../data/practice/pi/registry";
 import { BreadcrumbSchema } from "./Breadcrumbs";
 
 const GOLD = "#C9A24B";
@@ -806,7 +806,7 @@ export const CityLinksSection = ({ data }: { data: Pick<PracticeAreaPI, "slug" |
             className="rounded-full border border-[#0B1F3A]/12 bg-white px-5 py-2.5 font-sans text-[14px] font-medium transition-all duration-200 hover:border-[#B88A2D] hover:shadow-sm lg:text-[15px]"
             key={city}
             style={{ color: INK }}
-            to={`/personal-injury/${data.slug}/${city.toLowerCase().replace(/\s+/g, "-")}`}
+            to={cityPageHref(data.slug, city.toLowerCase().replace(/\s+/g, "-"))}
           >
             {city}
           </Link>

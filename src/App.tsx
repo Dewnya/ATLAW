@@ -20,6 +20,7 @@ const NewsPage = lazy(() => import("./screens/NewsPage").then((m) => ({ default:
 const NewsPostPage = lazy(() => import("./screens/NewsPostPage").then((m) => ({ default: m.NewsPostPage })));
 const PrivacyPolicyPage = lazy(() => import("./screens/PrivacyPolicyPage").then((m) => ({ default: m.PrivacyPolicyPage })));
 const TermsOfUsePage = lazy(() => import("./screens/TermsOfUsePage").then((m) => ({ default: m.TermsOfUsePage })));
+const SiteMapPage = lazy(() => import("./screens/SiteMapPage").then((m) => ({ default: m.SiteMapPage })));
 const NotFoundPage = lazy(() => import("./screens/NotFoundPage").then((m) => ({ default: m.NotFoundPage })));
 
 /**
@@ -41,6 +42,7 @@ export const App = (): JSX.Element => (
       <Route path="/news/:slug" element={<NewsPostPage />} />
       <Route path="/privacy" element={<PrivacyPolicyPage />} />
       <Route path="/terms" element={<TermsOfUsePage />} />
+      <Route path="/site-map" element={<SiteMapPage />} />
 
       {/* PI routes */}
       <Route path="/personal-injury" element={<PracticePage section="personal-injury" slug="personal-injury" />} />

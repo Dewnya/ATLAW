@@ -10,9 +10,9 @@ import { fileURLToPath, pathToFileURL } from "node:url";
 const root = resolve(dirname(fileURLToPath(import.meta.url)), "..");
 const dist = join(root, "dist");
 
-const { render, prerenderRoutes, sitemapRoutes } = await import(pathToFileURL(join(root, "dist-ssr", "entry-server.js")).href);
-// Every practice page with content (from the registry). Other page types follow in week 2.
-const ROUTES = prerenderRoutes();
+const { render, prerenderRoutes, sitemapRoutes, NOT_FOUND_ROUTE } = await import(pathToFileURL(join(root, "dist-ssr", "entry-server.js")).href);
+// Every page the site serves, plus the 404 page (Vercel serves dist/404.html with a real 404 status).
+const ROUTES = [...prerenderRoutes(), NOT_FOUND_ROUTE];
 // Production builds must never contain open items (launch gate: no CONFIRM in dist/).
 const SHOW_DRAFTS = process.env.VITE_SHOW_DRAFTS === "true";
 const template = readFileSync(join(dist, "index.html"), "utf-8");
@@ -36,7 +36,7 @@ for (const route of ROUTES) {
 
   // "/a/b" -> dist/a/b.html. Vercel serves it at "/a/b" through `cleanUrls`
   // (vercel.json); a "/a/b/index.html" folder would not match without a slash.
-  const file = route === "/" ? join(dist, "index.html") : join(dist, `${route}.html`);
+  const file = route === "/" ? join(dist, "index.html") : route === NOT_FOUND_ROUTE ? join(dist, "404.html") : join(dist, `${route}.html`);
   mkdirSync(dirname(file), { recursive: true });
   writeFileSync(file, page);
   console.log(`prerendered ${route} -> ${file.slice(root.length + 1)} (${Math.round(page.length / 1024)} KB)`);

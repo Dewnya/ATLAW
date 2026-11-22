@@ -5,7 +5,7 @@ import { practiceEntry } from "./practice/pi/registry";
 import { practiceHasPage } from "./practice/pages";
 import { resourceEntry, resourceRegistry } from "./resources";
 
-const STATIC = new Set(["/", "/about", "/team", "/contact", "/news", "/areas-served", "/privacy", "/terms", "/personal-injury"]);
+const STATIC = new Set(["/", "/about", "/team", "/contact", "/news", "/areas-served", "/privacy", "/terms", "/site-map", "/personal-injury"]);
 
 /**
  * Whether this build serves a page at an internal path. A production build
