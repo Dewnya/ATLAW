@@ -1,12 +1,6 @@
 {
   "cleanUrls": true,
   "redirects": [
-    {
-      "source": "/:path*",
-      "has": [{ "type": "host", "value": "www.atlawgroup.com" }],
-      "destination": "https://atlawgroup.com/:path*",
-      "permanent": true
-    },
     { "source": "/our-people/:slug*", "destination": "/team", "statusCode": 301 },
     { "source": "/personal-injury/personal-injury/:city", "destination": "/personal-injury/:city", "statusCode": 301 },
     { "source": "/practice-areas/personal-injury", "destination": "/personal-injury", "statusCode": 301 },

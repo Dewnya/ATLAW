@@ -32,9 +32,9 @@ In Pittsfield Charter Township, the answer to the first question depends on wher
 
 ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Boulevard in Dearborn, about 30 miles east on I-94. The firm has handled more than 10,000 cases and recovered more than $100 million for clients.
 
-- Our [Michigan slip and fall lawyer page](https://atlawgroup.com/personal-injury/slip-and-fall) covers the law in full.
-- Our [premises liability](https://atlawgroup.com/personal-injury/premises-liability), [sidewalk injury](https://atlawgroup.com/personal-injury/sidewalk-injuries), and [tenant injury](https://atlawgroup.com/personal-injury/tenant-injuries) pages cover each kind of owner.
-- Our [Pittsfield Township page](https://atlawgroup.com/areas-served/pittsfield-township) covers every kind of injury claim in the township.
+- Our [Michigan slip and fall lawyer page](/personal-injury/slip-and-fall) covers the law in full.
+- Our [premises liability](/personal-injury/premises-liability), [sidewalk injury](/personal-injury/sidewalk-injuries), and [tenant injury](/personal-injury/tenant-injuries) pages cover each kind of owner.
+- Our [Pittsfield Township page](/areas-served/pittsfield-township) covers every kind of injury claim in the township.
 
 The first conversation is free, in English, Arabic, French, Mandarin, Urdu, or Spanish: **(313) 406-7606**.
 
@@ -106,7 +106,7 @@ In a shopping center, the owner and its management company usually control the c
 
 A lot with an inch or two of snow is still “fit” for parking under *Allison v AEW Capital* (2008), so tenant snow cases depend on whether the accumulation actually prevented use. The general negligence claim after *Kandil-Elsayed* is a separate route. A lease clause waiving the landlord’s liability for its own negligence is void.
 
-The township’s property maintenance code requires a rental to be registered and to hold a certificate of compliance before it is occupied (Code ch. 6, art. IV). Residential rentals are inspected every two years, and at any time after a complaint. The code adopts the International Property Maintenance Code, which covers stairways, porches, balconies, handrails, and guards. A failed inspection, a temporary certificate listing open violations, or a complaint about the stair or railing that gave way is strong evidence of notice. A guest of a tenant who falls on a broken stair or balcony may have a claim against the landlord as well as the tenant. See our [tenant injury page](https://atlawgroup.com/personal-injury/tenant-injuries).
+The township’s property maintenance code requires a rental to be registered and to hold a certificate of compliance before it is occupied (Code ch. 6, art. IV). Residential rentals are inspected every two years, and at any time after a complaint. The code adopts the International Property Maintenance Code, which covers stairways, porches, balconies, handrails, and guards. A failed inspection, a temporary certificate listing open violations, or a complaint about the stair or railing that gave way is strong evidence of notice. A guest of a tenant who falls on a broken stair or balcony may have a claim against the landlord as well as the tenant. See our [tenant injury page](/personal-injury/tenant-injuries).
 
 **Condominiums.** In a condominium community, the association usually controls the common walks, stairs, drives, and lots, and contracts for plowing and salting. A fall on a common element is a claim against the association, and possibly its management company and snow contractor. The master deed and bylaws say which parts are common elements and which are the co-owner’s. A co-owner who falls on a common element is not owed the landlord duty in MCL 554.139, so the claim is an ordinary premises claim.
 
@@ -140,9 +140,9 @@ Measure and photograph the defect with a ruler before it is patched. A walk insi
 - an ordinary premises claim, if the cause was a wet floor or a broken step
 - medical malpractice, if the cause was a failure to assess or supervise a patient or resident at risk of falling
 
-Which kind of claim it is decides the deadline and the procedure. A fall at a University of Michigan Health building or clinic is a claim against the University in the Court of Claims. See our [nursing home abuse page](https://atlawgroup.com/personal-injury/nursing-home-abuse) and [medical malpractice page](https://atlawgroup.com/personal-injury/medical-malpractice).
+Which kind of claim it is decides the deadline and the procedure. A fall at a University of Michigan Health building or clinic is a claim against the University in the Court of Claims. See our [nursing home abuse page](/personal-injury/nursing-home-abuse) and [medical malpractice page](/personal-injury/medical-malpractice).
 
-**Workplaces.** A delivery driver, contractor, or staffing-agency worker who falls at a warehouse, an office park, a store’s loading dock, or a construction site in the township is not that business’s employee. Their own employer’s workers’ compensation pays their benefits. The property owner or the general contractor that controlled the dock, the site, or the icy lot can be sued as a third party, and the comp insurer is repaid from that recovery (MCL 418.827). A business’s own employee generally cannot sue the employer (MCL 418.131). See our [workers’ compensation page](https://atlawgroup.com/personal-injury/workers-compensation).
+**Workplaces.** A delivery driver, contractor, or staffing-agency worker who falls at a warehouse, an office park, a store’s loading dock, or a construction site in the township is not that business’s employee. Their own employer’s workers’ compensation pays their benefits. The property owner or the general contractor that controlled the dock, the site, or the icy lot can be sued as a third party, and the comp insurer is repaid from that recovery (MCL 418.827). A business’s own employee generally cannot sue the employer (MCL 418.131). See our [workers’ compensation page](/personal-injury/workers-compensation).
 
 ## A parking-lot fall can be a no-fault claim
 
@@ -152,7 +152,7 @@ If you fell while getting into or out of your own car, or while loading it, Mich
 - It sits alongside any premises claim against the lot’s owner.
 - A worker hurt on the job while loading, unloading, or getting into or out of a parked vehicle is generally limited to workers’ compensation for that injury, with narrow exceptions (MCL 500.3106(2)).
 
-In a township where most errands end in a large lot, this claim is easy to miss. See our [no-fault insurance claim page](https://atlawgroup.com/personal-injury/car-accident-insurance).
+In a township where most errands end in a large lot, this claim is easy to miss. See our [no-fault insurance claim page](/personal-injury/car-accident-insurance).
 
 ## The law after *Kandil-Elsayed*
 
@@ -207,7 +207,7 @@ A municipality’s duty to repair sidewalks generally does not extend to natural
 ## The courts and deadlines
 
 - **Fall claims up to $25,000** for a fall in the township are filed in the 14A-1 District Court at 4133 Washtenaw Avenue.
-- **Larger claims,** and any fall that causes a [brain injury](https://atlawgroup.com/personal-injury/brain-injury), a [spinal cord injury](https://atlawgroup.com/personal-injury/spinal-cord-injury), or a death, go to the Washtenaw County Trial Court at 101 East Huron Street in Ann Arbor.
+- **Larger claims,** and any fall that causes a [brain injury](/personal-injury/brain-injury), a [spinal cord injury](/personal-injury/spinal-cord-injury), or a death, go to the Washtenaw County Trial Court at 101 East Huron Street in Ann Arbor.
 - **Claims against the State or the University of Michigan** go to the Court of Claims.
 
 

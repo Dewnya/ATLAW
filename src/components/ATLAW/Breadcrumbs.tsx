@@ -2,7 +2,7 @@ import { Fragment } from "react";
 import { Helmet } from "react-helmet-async";
 import { Link } from "react-router-dom";
 
-const BASE_URL = "https://atlawgroup.com";
+const BASE_URL = "https://www.atlawgroup.com";
 
 export interface Crumb {
   label: string;

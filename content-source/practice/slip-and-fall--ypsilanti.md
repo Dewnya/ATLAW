@@ -32,9 +32,9 @@ In Ypsilanti, the answer to the first question depends on where you fell:
 
 ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Boulevard in Dearborn, about 25 miles east on I-94. The firm has handled more than 10,000 cases and recovered more than $100 million for clients.
 
-- Our [Michigan slip and fall lawyer page](https://atlawgroup.com/personal-injury/slip-and-fall) covers the law in full.
-- Our [premises liability](https://atlawgroup.com/personal-injury/premises-liability), [sidewalk injury](https://atlawgroup.com/personal-injury/sidewalk-injuries), and [tenant injury](https://atlawgroup.com/personal-injury/tenant-injuries) pages cover each kind of owner.
-- Our [Ypsilanti page](https://atlawgroup.com/areas-served/ypsilanti) covers every kind of injury claim in the city and the township.
+- Our [Michigan slip and fall lawyer page](/personal-injury/slip-and-fall) covers the law in full.
+- Our [premises liability](/personal-injury/premises-liability), [sidewalk injury](/personal-injury/sidewalk-injuries), and [tenant injury](/personal-injury/tenant-injuries) pages cover each kind of owner.
+- Our [Ypsilanti page](/areas-served/ypsilanti) covers every kind of injury claim in the city and the township.
 
 The first conversation is free, in English, Arabic, French, Mandarin, Urdu, or Spanish: **(313) 406-7606**.
 
@@ -107,7 +107,7 @@ Both governments inspect rentals, and the inspection file can show what the land
 - **In the city,** a rental needs a Certificate of Compliance and is inspected every two years under the property maintenance code.
 - **In the township,** a rental needs a certificate of compliance. The township’s checklist covers stairs free from defects, a graspable handrail or guardrail in place, porch and step concrete free from defects, and sidewalk trip hazards of two inches or more. An item the inspector treats as a life-safety concern must be corrected within seven days.
 
-A failed inspection or an open violation on the stair or railing that gave way is strong evidence of notice. A guest at a tenant’s party who falls on a broken porch or balcony may have a claim against the landlord as well as the tenant. In a condominium, the association usually controls the common walks, stairs, and lots. See our [tenant injury page](https://atlawgroup.com/personal-injury/tenant-injuries).
+A failed inspection or an open violation on the stair or railing that gave way is strong evidence of notice. A guest at a tenant’s party who falls on a broken porch or balcony may have a claim against the landlord as well as the tenant. In a condominium, the association usually controls the common walks, stairs, and lots. See our [tenant injury page](/personal-injury/tenant-injuries).
 
 **Parking lots and public lots.** Most Ypsilanti parking is in private lots, and a fall there is an ordinary premises claim against the owner and any snow or maintenance contractor. The public lots downtown and in Depot Town, and EMU’s lots, raise governmental immunity, where a claim outside a building is difficult to bring. A fall getting out of your own car may also be a no-fault claim (see below).
 
@@ -128,9 +128,9 @@ Measure and photograph the defect with a ruler before it is patched. Tree roots 
 
 **Schools, libraries, and City and township buildings.** Ypsilanti Community Schools, Lincoln Consolidated Schools, the Ypsilanti District Library, and the City and township are governmental agencies. A fall caused by a dangerous or defective condition of one of their buildings proceeds under the public building exception. That exception requires the agency to have known, or to have had reason to know, of the defect and to have failed to fix it within a reasonable time, with written notice within 120 days (MCL 691.1406). A fall on a park path outside a building, in Riverside Park, Frog Island Park, Ford Lake Park, or on the Border-to-Border Trail, has no comparable exception and is difficult to bring.
 
-**Hospitals, nursing homes, and senior communities.** A fall at Trinity Health Ann Arbor, which has an Ypsilanti mailing address but sits in Superior Township, or at a clinic, may be an ordinary premises claim, if the cause was a wet floor or a broken step, or medical malpractice, if the cause was a failure to assess or supervise a patient at risk of falling. A fall at University of Michigan Health is a claim against the University in the Court of Claims. Which kind of claim it is decides the deadline and the procedure. A resident’s fall in a nursing home or assisted living community raises the same question. See our [nursing home abuse page](https://atlawgroup.com/personal-injury/nursing-home-abuse) and [medical malpractice page](https://atlawgroup.com/personal-injury/medical-malpractice).
+**Hospitals, nursing homes, and senior communities.** A fall at Trinity Health Ann Arbor, which has an Ypsilanti mailing address but sits in Superior Township, or at a clinic, may be an ordinary premises claim, if the cause was a wet floor or a broken step, or medical malpractice, if the cause was a failure to assess or supervise a patient at risk of falling. A fall at University of Michigan Health is a claim against the University in the Court of Claims. Which kind of claim it is decides the deadline and the procedure. A resident’s fall in a nursing home or assisted living community raises the same question. See our [nursing home abuse page](/personal-injury/nursing-home-abuse) and [medical malpractice page](/personal-injury/medical-malpractice).
 
-**Workplaces.** A delivery driver, contractor, or staffing-agency worker who falls at a warehouse near Willow Run Airport, a store’s loading dock, or a construction site is not that business’s employee. Their own employer’s workers’ compensation pays their benefits. The property owner or the general contractor that controlled the dock, the site, or the icy lot can be sued as a third party, and the comp insurer is repaid from that recovery (MCL 418.827). A business’s own employee generally cannot sue the employer (MCL 418.131). See our [workers’ compensation page](https://atlawgroup.com/personal-injury/workers-compensation).
+**Workplaces.** A delivery driver, contractor, or staffing-agency worker who falls at a warehouse near Willow Run Airport, a store’s loading dock, or a construction site is not that business’s employee. Their own employer’s workers’ compensation pays their benefits. The property owner or the general contractor that controlled the dock, the site, or the icy lot can be sued as a third party, and the comp insurer is repaid from that recovery (MCL 418.827). A business’s own employee generally cannot sue the employer (MCL 418.131). See our [workers’ compensation page](/personal-injury/workers-compensation).
 
 ## Falls on Eastern Michigan University property
 
@@ -205,7 +205,7 @@ The City of Ypsilanti requires property owners to clear the public sidewalks bes
 ## The courts and deadlines
 
 - **Fall claims up to $25,000** are filed in the 14A-1 District Court at 4133 Washtenaw Avenue in Pittsfield Township for a fall in the city, or the 14B District Court at 7200 S. Huron River Drive for a fall in the township.
-- **Larger claims,** and any fall that causes a [brain injury](https://atlawgroup.com/personal-injury/brain-injury), a [spinal cord injury](https://atlawgroup.com/personal-injury/spinal-cord-injury), or a death, go to the Washtenaw County Trial Court at 101 East Huron Street in Ann Arbor.
+- **Larger claims,** and any fall that causes a [brain injury](/personal-injury/brain-injury), a [spinal cord injury](/personal-injury/spinal-cord-injury), or a death, go to the Washtenaw County Trial Court at 101 East Huron Street in Ann Arbor.
 - **Claims against EMU or the State** go to the Court of Claims.
 
 

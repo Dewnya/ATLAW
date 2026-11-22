@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://atlawgroup.com/sitemap.xml
+Sitemap: https://www.atlawgroup.com/sitemap.xml

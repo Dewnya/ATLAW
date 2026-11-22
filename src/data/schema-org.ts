@@ -1,7 +1,7 @@
 const FIRM = {
   name: "ATLAW — AT Law Group",
   legalName: "AT Law Group, PLLC",
-  url: "https://atlawgroup.com",
+  url: "https://www.atlawgroup.com",
   telephone: "+1-313-406-7606",
   email: "info@atlawgroup.com",
   address: {

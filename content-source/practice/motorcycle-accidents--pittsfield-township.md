@@ -30,9 +30,9 @@ The township adds its own risks:
 
 ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Boulevard in Dearborn, about 30 miles east on I-94. The firm has handled more than 10,000 cases and recovered more than $100 million for clients.
 
-- Our [Michigan motorcycle accident lawyer page](https://atlawgroup.com/personal-injury/motorcycle-accidents) covers the no-fault rules for riders in full.
-- Our [Pittsfield Township page](https://atlawgroup.com/areas-served/pittsfield-township) covers every kind of injury claim in the township.
-- Our [Pittsfield Township car accident page](https://atlawgroup.com/personal-injury/auto-accidents/pittsfield-township) covers crashes between cars.
+- Our [Michigan motorcycle accident lawyer page](/personal-injury/motorcycle-accidents) covers the no-fault rules for riders in full.
+- Our [Pittsfield Township page](/areas-served/pittsfield-township) covers every kind of injury claim in the township.
+- Our [Pittsfield Township car accident page](/personal-injury/auto-accidents/pittsfield-township) covers crashes between cars.
 
 The first conversation is free, in English, Arabic, French, Mandarin, Urdu, or Spanish: **(313) 406-7606**.
 
@@ -77,9 +77,9 @@ In Washtenaw County in 2024, 30 of the 109 people on motorcycles in crashes, mor
 - trucks, with larger blind spots, wind blast, and tire debris
 - rear-end crashes in the slowdowns at the ramps and in work zones
 
-The township recorded 148 interstate crashes in 2024. See our [Pittsfield Township truck accident page](https://atlawgroup.com/personal-injury/truck-accidents/pittsfield-township).
+The township recorded 148 interstate crashes in 2024. See our [Pittsfield Township truck accident page](/personal-injury/truck-accidents/pittsfield-township).
 
-**Drinking and riding.** 31 percent of Michigan’s 2024 rider deaths involved alcohol. The township recorded 34 alcohol-involved crashes of all kinds in 2024. A bar or restaurant that over-serves a driver who then hits a rider can be liable under the dram shop act. The notice is due within 120 days after you hire a lawyer, and suit within two years (MCL 436.1801(3)). See our [drunk driving accident page](https://atlawgroup.com/personal-injury/drunk-driving-accidents).
+**Drinking and riding.** 31 percent of Michigan’s 2024 rider deaths involved alcohol. The township recorded 34 alcohol-involved crashes of all kinds in 2024. A bar or restaurant that over-serves a driver who then hits a rider can be liable under the dram shop act. The notice is due within 120 days after you hire a lawyer, and suit within two years (MCL 436.1801(3)). See our [drunk driving accident page](/personal-injury/drunk-driving-accidents).
 
 **The road itself.** A single-vehicle crash caused by a pothole, a broken pavement seam, or a drop-off in the traveled lanes is a claim against the agency with jurisdiction, under the highway exception to governmental immunity (MCL 691.1402). The township owns no roads, so there are two possible road defendants:
 
@@ -107,7 +107,7 @@ The benefits are the ones a driver would get under MCL 500.3107:
 - attendant care
 - mileage
 
-Written notice is due within one year (MCL 500.3145(1)). See our [no-fault insurance claim page](https://atlawgroup.com/personal-injury/car-accident-insurance).
+Written notice is due within one year (MCL 500.3145(1)). See our [no-fault insurance claim page](/personal-injury/car-accident-insurance).
 
 **The medical limit is set by a policy you did not choose.** Since July 2, 2020, Michigan drivers have chosen a PIP medical level for each policy (MCL 500.3107c). The policy first in priority pays first, up to its PIP level. If the driver who hit you chose $250,000, or a lower level, a lower-priority policy with more coverage, such as your own car policy, may then pay the rest. This is why optional first-party medical coverage on a motorcycle policy matters.
 
@@ -132,12 +132,12 @@ Motorcycle injuries often clear that threshold. Common examples include:
 - fractures
 - road rash requiring grafts
 - torn ligaments
-- [brain injuries](https://atlawgroup.com/personal-injury/brain-injury)
-- [spinal cord injuries](https://atlawgroup.com/personal-injury/spinal-cord-injury)
+- [brain injuries](/personal-injury/brain-injury)
+- [spinal cord injuries](/personal-injury/spinal-cord-injury)
 
-You also recover excess economic damages above the PIP limit that applied to you, including lost wages above the monthly cap (MCL 500.3135(3)(c)). **You have three years to sue** (MCL 600.5805(2)). A fatal crash is brought by the estate through the Washtenaw County Probate Court. The wrongful death claim also has three years, with an extension for the estate’s personal representative (MCL 600.5852). See our [wrongful death page](https://atlawgroup.com/personal-injury/wrongful-death).
+You also recover excess economic damages above the PIP limit that applied to you, including lost wages above the monthly cap (MCL 500.3135(3)(c)). **You have three years to sue** (MCL 600.5805(2)). A fatal crash is brought by the estate through the Washtenaw County Probate Court. The wrongful death claim also has three years, with an extension for the estate’s personal representative (MCL 600.5852). See our [wrongful death page](/personal-injury/wrongful-death).
 
-**What the claim is worth depends on the policies.** Some drivers carry only the $50,000 opt-down minimum (MCL 500.3009(5)), and some carry nothing. The recovery above the other driver’s limit turns on your own **uninsured and underinsured motorist coverage**. That coverage must be on the motorcycle policy, because many car policies exclude the insured while riding an owned motorcycle. Your UIM insurer’s written consent is needed before you accept the at-fault driver’s limit. See our [uninsured motorist page](https://atlawgroup.com/personal-injury/uninsured-motorist-claims).
+**What the claim is worth depends on the policies.** Some drivers carry only the $50,000 opt-down minimum (MCL 500.3009(5)), and some carry nothing. The recovery above the other driver’s limit turns on your own **uninsured and underinsured motorist coverage**. That coverage must be on the motorcycle policy, because many car policies exclude the insured while riding an owned motorcycle. Your UIM insurer’s written consent is needed before you accept the at-fault driver’s limit. See our [uninsured motorist page](/personal-injury/uninsured-motorist-claims).
 
 **Comparative fault is the fight.** Michigan’s rule is modified comparative fault, and it concerns your own share of fault (MCL 500.3135(2)(b), 600.2959):
 

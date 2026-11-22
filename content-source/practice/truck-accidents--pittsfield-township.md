@@ -33,10 +33,10 @@ A truck crash is not a car crash with a larger vehicle:
 
 ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Boulevard in Dearborn, about 30 miles east on I-94. The firm has handled more than 10,000 cases and recovered more than $100 million for clients.
 
-- Our [Michigan truck accident lawyer page](https://atlawgroup.com/personal-injury/truck-accidents) covers the federal rules in full.
-- Our [Washtenaw County truck accident page](https://atlawgroup.com/personal-injury/truck-accidents/washtenaw-county) covers the county.
-- Our [Pittsfield Township page](https://atlawgroup.com/areas-served/pittsfield-township) covers every kind of injury claim in the township.
-- Crashes between passenger vehicles are on our [Pittsfield Township car accident page](https://atlawgroup.com/personal-injury/auto-accidents/pittsfield-township).
+- Our [Michigan truck accident lawyer page](/personal-injury/truck-accidents) covers the federal rules in full.
+- Our [Washtenaw County truck accident page](/personal-injury/truck-accidents/washtenaw-county) covers the county.
+- Our [Pittsfield Township page](/areas-served/pittsfield-township) covers every kind of injury claim in the township.
+- Crashes between passenger vehicles are on our [Pittsfield Township car accident page](/personal-injury/auto-accidents/pittsfield-township).
 
 The first conversation is free, in English, Arabic, French, Mandarin, Urdu, or Spanish: **(313) 406-7606**.
 
@@ -88,7 +88,7 @@ Federal rules require a truck driver to use extreme caution in hazardous conditi
 - trucks parked or stopped in a lane or a fire lane to unload
 - pedestrians crossing between signals to reach a bus stop or a store
 
-A crash at a loading dock or in a shopping center can involve the carrier, the store or its owner, the shopping center’s management company, and a staffing agency that supplied the driver or the dock worker. See our [pedestrian accident page](https://atlawgroup.com/personal-injury/pedestrian-accidents) and [bicycle accident page](https://atlawgroup.com/personal-injury/bicycle-accidents).
+A crash at a loading dock or in a shopping center can involve the carrier, the store or its owner, the shopping center’s management company, and a staffing agency that supplied the driver or the dock worker. See our [pedestrian accident page](/personal-injury/pedestrian-accidents) and [bicycle accident page](/personal-injury/bicycle-accidents).
 
 **State Street and the business parks.** Trucks serving the industrial and business parks enter and leave State Street and Ellsworth Road from yards and docks. The crashes are trucks turning across traffic, trucks backing into a road, and trucks parked on the shoulder at night without warning devices (49 CFR 392.22).
 
@@ -96,7 +96,7 @@ A crash at a loading dock or in a shopping center can involve the carrier, the s
 
 **Lost and spilled loads.** Cargo, gravel, debris, or equipment that falls from a truck is a violation of the federal cargo securement rules (49 CFR 393.100 and following) and of Michigan law (MCL 257.720). The carrier and the company that loaded the truck can both be responsible.
 
-**Buses.** TheRide runs routes on Washtenaw Avenue, Carpenter Road, State Street, and Packard Road. A crash with a TheRide bus is a claim under the motor vehicle exception to governmental immunity (MCL 691.1405). A bus passenger’s no-fault benefits follow the bus-passenger priority rules (MCL 500.3114(2)). A school bus crash is a claim against the school district under the same exception. See our [bus accident page](https://atlawgroup.com/personal-injury/bus-accidents).
+**Buses.** TheRide runs routes on Washtenaw Avenue, Carpenter Road, State Street, and Packard Road. A crash with a TheRide bus is a claim under the motor vehicle exception to governmental immunity (MCL 691.1405). A bus passenger’s no-fault benefits follow the bus-passenger priority rules (MCL 500.3114(2)). A school bus crash is a claim against the school district under the same exception. See our [bus accident page](/personal-injury/bus-accidents).
 
 ## Whose road it is, and whose vehicle
 
@@ -162,19 +162,19 @@ Your claim against the driver and the carrier is for pain and suffering and for 
 
 The noneconomic damages caps apply to medical malpractice and to product liability claims, such as a claim against the maker of a failed part (MCL 600.1483, 600.2946a), not to the claim against the driver and carrier.
 
-The difference from a car case is the money available: the carrier’s commercial policy, often with excess coverage above it. If that coverage still falls short, your own underinsured motorist coverage may add to it. Your insurer’s written consent is needed before you accept the carrier’s limit. See our [no-fault insurance claim page](https://atlawgroup.com/personal-injury/car-accident-insurance).
+The difference from a car case is the money available: the carrier’s commercial policy, often with excess coverage above it. If that coverage still falls short, your own underinsured motorist coverage may add to it. Your insurer’s written consent is needed before you accept the carrier’s limit. See our [no-fault insurance claim page](/personal-injury/car-accident-insurance).
 
 **Other defendants.**
 
 - the shipper or broker that loaded the truck or hired an unsafe carrier
 - the store, shopping center, or business park whose dock, yard, or delivery practice caused the crash
 - the maintenance contractor
-- the manufacturer of a failed component or a defective guard ([product liability](https://atlawgroup.com/personal-injury/product-liability))
+- the manufacturer of a failed component or a defective guard ([product liability](/personal-injury/product-liability))
 - for a government vehicle, the agency that owns it, and for a road defect, the road owner, each with its own notice
 
 
 
-**If you were the truck driver or a dock worker.** Workers’ compensation pays your benefits, and your employer usually cannot be sued (MCL 418.131). If you were injured in your employer’s truck, no-fault benefits generally come from the insurer of that truck (MCL 500.3114(3)), coordinated with comp, which is paid first (MCL 500.3109(1)). You can also sue a third party, such as another driver, a shipper, or a store or business park operator that is not your employer. See our [workers’ compensation page](https://atlawgroup.com/personal-injury/workers-compensation).
+**If you were the truck driver or a dock worker.** Workers’ compensation pays your benefits, and your employer usually cannot be sued (MCL 418.131). If you were injured in your employer’s truck, no-fault benefits generally come from the insurer of that truck (MCL 500.3114(3)), coordinated with comp, which is paid first (MCL 500.3109(1)). You can also sue a third party, such as another driver, a shipper, or a store or business park operator that is not your employer. See our [workers’ compensation page](/personal-injury/workers-compensation).
 
 ## The evidence, and how fast it disappears
 
@@ -217,7 +217,7 @@ Once a party knows a claim is coming, destroying that evidence exposes it to spo
 - **Cases against out-of-state carriers,** which are common on I-94 and US-23, may be filed in, or removed to, the U.S. District Court for the Eastern District of Michigan.
 - **Claims against MDOT or the State** go to the Court of Claims.
 - **Claims up to $25,000** go to the 14A-1 District Court at 4133 Washtenaw Avenue, in the township.
-- **A fatal crash** is brought by the estate through the Washtenaw County Probate Court. See our [wrongful death page](https://atlawgroup.com/personal-injury/wrongful-death).
+- **A fatal crash** is brought by the estate through the Washtenaw County Probate Court. See our [wrongful death page](/personal-injury/wrongful-death).
 
 | What | When | Source |
 | --- | --- | --- |

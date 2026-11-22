@@ -44,7 +44,7 @@ for (const route of ROUTES) {
 console.log(`${ROUTES.length} page(s) prerendered${SHOW_DRAFTS ? " (drafts included)" : ""}.`);
 
 // Sitemap, from the same route lists the app renders (public/ holds no copy).
-const SITE = "https://atlawgroup.com";
+const SITE = "https://www.atlawgroup.com";
 const urls = sitemapRoutes().map((r) => `  <url><loc>${SITE}${r}</loc></url>`).join("\n");
 writeFileSync(join(dist, "sitemap.xml"), `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls}\n</urlset>\n`);
 console.log(`sitemap.xml: ${sitemapRoutes().length} URL(s).`);

@@ -998,6 +998,11 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - Footer tagline: "Dearborn's" → "Michigan's personal injury law firm..."
   - Firm said these are Dewnya's last changes and asked us to switch atlawgroup.com once they are live. Cutover steps in `deliverables/launch-checklist-2026-11-10.md`
 
+- [x] atlawgroup.com switched to the new site (Nov 21, 2026) — www is the canonical host
+  - DNS at GoDaddy (Sam): apex A → 216.150.1.1 (the Webflow A 198.202.211.1 removed), www CNAME → 363c8def41235a98.vercel-dns-017.com (edited from cdn.webflow.com; GoDaddy refused a second www record). MX (Microsoft 365) and TXT records untouched. Public resolvers (8.8.8.8, 1.1.1.1) returned the new records within minutes; Vercel serves both hosts over HTTPS
+  - Vercel's domain settings make www primary (apex 308 → www). The code assumed the apex, so: base URL switched to `https://www.atlawgroup.com` in `PageMeta.tsx`, `Breadcrumbs.tsx`, `schema-org.ts`, `scripts/prerender.mjs` (sitemap), `public/robots.txt`, `index.html` (og:image); the `vercel.json` www → apex rule removed (22 redirects left); 92 absolute apex links in six Pittsfield Township / Ypsilanti content files made relative. www matches the old Webflow site's primary host, so existing Google entries and backlinks keep their host
+  - Build: 276 pages, canonical and sitemap (311 URLs) on www, no apex references left in code or content
+
 ### Open Questions
 
 - [ ] **PRE-LAUNCH — Text Us number.** Confirm with the firm whether (313) 406-7606 can receive SMS, or get a dedicated SMS number. Then set `SMS_NUMBER` in `src/data/contact.ts` (the Text buttons in the header and mobile bar appear automatically).

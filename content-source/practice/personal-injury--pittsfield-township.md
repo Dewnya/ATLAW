@@ -29,9 +29,9 @@ A personal injury lawyer’s first job is to find out which of those deadlines a
 
 ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Boulevard in Dearborn, about 30 miles east on I-94. The firm has handled more than 10,000 cases and recovered more than $100 million for clients. An office address matters less than whether the lawyer knows the courts, agencies, insurers, and property owners your case will involve, and will meet you where you are.
 
-- Our [Pittsfield Township page](https://atlawgroup.com/areas-served/pittsfield-township) covers where the township’s injuries happen.
-- Our [Washtenaw County page](https://atlawgroup.com/areas-served/washtenaw-county) covers the county.
-- Our [Pittsfield Township car accident page](https://atlawgroup.com/personal-injury/auto-accidents/pittsfield-township) covers crashes.
+- Our [Pittsfield Township page](/areas-served/pittsfield-township) covers where the township’s injuries happen.
+- Our [Washtenaw County page](/areas-served/washtenaw-county) covers the county.
+- Our [Pittsfield Township car accident page](/personal-injury/auto-accidents/pittsfield-township) covers crashes.
 - This page covers what a Pittsfield Township personal injury lawyer does, who the defendant is, how a claim is valued, and what it costs.
 
 The first conversation is free, in English, Arabic, French, Mandarin, Urdu, or Spanish: **(313) 406-7606**.
@@ -117,14 +117,14 @@ At settlement, we resolve the liens before you are paid: health plans, Medicare,
 - **TheRide.** A crash with a TheRide bus on Washtenaw Avenue, Carpenter Road, State Street, or Packard Road is a claim against the Ann Arbor Area Transportation Authority under the motor vehicle exception (MCL 691.1405).
 - **Landlords and apartment complexes.** The township has many apartment and condominium complexes, many of them along Carpenter, Ellsworth, and Packard. A landlord must keep the premises and common areas fit for their intended use and in reasonable repair, and comply with health and safety laws (MCL 554.139). That covers: stairs, railings, and balconies; lighting in stairwells, walks, and parking areas; wiring; smoke and carbon monoxide detectors; and snow and ice the landlord controls.
 
-A lease clause that waives the landlord’s liability for its own negligence is not enforceable. Earlier complaints, work orders, and inspection records are often strong evidence of what the landlord knew. A guest at a party in an apartment may have a premises claim too. In a condominium, the association usually controls the common walks, stairs, and lots. See our [Pittsfield Township slip and fall page](https://atlawgroup.com/personal-injury/slip-and-fall/pittsfield-township) and our [tenant injury page](https://atlawgroup.com/personal-injury/tenant-injuries).
+A lease clause that waives the landlord’s liability for its own negligence is not enforceable. Earlier complaints, work orders, and inspection records are often strong evidence of what the landlord knew. A guest at a party in an apartment may have a premises claim too. In a condominium, the association usually controls the common walks, stairs, and lots. See our [Pittsfield Township slip and fall page](/personal-injury/slip-and-fall/pittsfield-township) and our [tenant injury page](/personal-injury/tenant-injuries).
 
 - **Stores, shopping centers, and parking lots.** The township’s retail is concentrated on Carpenter, Ellsworth, and Washtenaw Avenue. A fall in a store, a restaurant, or a parking lot is a premises claim against the owner, the tenant, or both, depending on who controlled the area. In a shopping center, the owner and its management company usually control the common walks and lot, and a snow-removal contractor can be a separate defendant. Since *Kandil-Elsayed v F & E Oil* (2023), an “open and obvious” hazard such as visible ice goes to comparative fault rather than ending the claim.
-- **Bars, stores, and service to minors.** A bar, restaurant, or store that serves a visibly intoxicated person, or anyone under 21, is liable for the injuries that person causes (MCL 436.1801). The State Police recorded 34 alcohol-involved crashes in the township in 2024. The claim needs written notice within 120 days after you hire a lawyer, the intoxicated person named and kept in the suit, and suit within two years. Michigan generally does not hold a private social host liable for serving adults, but furnishing alcohol to minors can create liability. See our [drunk driving accident page](https://atlawgroup.com/personal-injury/drunk-driving-accidents).
-- **Dog owners.** An owner is liable for a bite when the person bitten was lawfully present and did not provoke the dog (MCL 287.351). The township’s animal ordinance may add a separate violation, such as a leash requirement, which can be evidence in a non-bite injury. See our [dog bite page](https://atlawgroup.com/personal-injury/dog-bites).
-- **Employers and third parties.** Warehouses and light industry, retail, the schools, and construction on the freeways and corridors are major workplaces. Workers’ compensation is the remedy against the employer (MCL 418.131), but a contractor, property owner, or equipment maker who caused the injury can be sued, and the comp insurer is repaid from that recovery (MCL 418.827). See our [workers’ compensation page](https://atlawgroup.com/personal-injury/workers-compensation).
+- **Bars, stores, and service to minors.** A bar, restaurant, or store that serves a visibly intoxicated person, or anyone under 21, is liable for the injuries that person causes (MCL 436.1801). The State Police recorded 34 alcohol-involved crashes in the township in 2024. The claim needs written notice within 120 days after you hire a lawyer, the intoxicated person named and kept in the suit, and suit within two years. Michigan generally does not hold a private social host liable for serving adults, but furnishing alcohol to minors can create liability. See our [drunk driving accident page](/personal-injury/drunk-driving-accidents).
+- **Dog owners.** An owner is liable for a bite when the person bitten was lawfully present and did not provoke the dog (MCL 287.351). The township’s animal ordinance may add a separate violation, such as a leash requirement, which can be evidence in a non-bite injury. See our [dog bite page](/personal-injury/dog-bites).
+- **Employers and third parties.** Warehouses and light industry, retail, the schools, and construction on the freeways and corridors are major workplaces. Workers’ compensation is the remedy against the employer (MCL 418.131), but a contractor, property owner, or equipment maker who caused the injury can be sued, and the comp insurer is repaid from that recovery (MCL 418.827). See our [workers’ compensation page](/personal-injury/workers-compensation).
 - **Schools.** The township is served by more than one school district. A district is a governmental agency. A school bus crash falls under the motor vehicle exception, and a dangerous condition in a school building under the public building exception, with written notice within 120 days (MCL 691.1404, 691.1405, 691.1406).
-- **Nursing homes and senior communities.** A claim against a nursing home may be ordinary negligence, with a three-year deadline, or medical malpractice, with two years and a 182-day notice. Which one depends on whether the injury came from a failure of ordinary care, such as a wet floor, or from a professional judgment, such as a failure to assess a resident at risk of falling. See our [nursing home abuse page](https://atlawgroup.com/personal-injury/nursing-home-abuse).
+- **Nursing homes and senior communities.** A claim against a nursing home may be ordinary negligence, with a three-year deadline, or medical malpractice, with two years and a 182-day notice. Which one depends on whether the injury came from a failure of ordinary care, such as a wet floor, or from a professional judgment, such as a failure to assess a resident at risk of falling. See our [nursing home abuse page](/personal-injury/nursing-home-abuse).
 
 ## Three hospitals, three different courts
 
@@ -143,7 +143,7 @@ For the Michigan claims, the rules are:
 - two years from the act or omission, or six months from discovery (MCL 600.5805(8), 600.5838a)
 - the 2026 noneconomic damages caps of $596,400 and $1,065,000 (MCL 600.1483)
 
-See our [Ann Arbor medical malpractice page](https://atlawgroup.com/personal-injury/medical-malpractice/ann-arbor).
+See our [Ann Arbor medical malpractice page](/personal-injury/medical-malpractice/ann-arbor).
 
 ## When the other driver has no insurance, or not enough
 
@@ -163,24 +163,24 @@ If you have no auto insurance of your own and no household policy, your no-fault
 - An owner who was required to insure a car and did not is generally barred from PIP benefits (MCL 500.3113(b)).
 - A driver who was operating their own uninsured vehicle cannot recover pain-and-suffering damages, whoever was at fault (MCL 500.3135(2)(c)).
 
-See our [uninsured motorist page](https://atlawgroup.com/personal-injury/uninsured-motorist-claims).
+See our [uninsured motorist page](/personal-injury/uninsured-motorist-claims).
 
 ## The cases a Pittsfield Township personal injury lawyer handles
 
-- [Car accidents](https://atlawgroup.com/personal-injury/auto-accidents/pittsfield-township)**:** no-fault (MCL 500.3107), the PIP medical level (MCL 500.3107c), the threshold (MCL 500.3135), UM and UIM, and deer crashes.
-- [Pedestrian](https://atlawgroup.com/personal-injury/pedestrian-accidents) **and** [bicycle](https://atlawgroup.com/personal-injury/bicycle-accidents) **injuries** on Carpenter, Washtenaw, and Packard.
-- [Truck accidents](https://atlawgroup.com/personal-injury/truck-accidents/pittsfield-township) on I-94, US-23, and Michigan Avenue.
-- [Motorcycle accidents](https://atlawgroup.com/personal-injury/motorcycle-accidents/pittsfield-township)**:** the rider priority rule (MCL 500.3114(5)).
-- [Bus accidents](https://atlawgroup.com/personal-injury/bus-accidents) involving TheRide, and [Uber and Lyft accidents](https://atlawgroup.com/personal-injury/rideshare-accidents).
-- [Drunk driving crashes](https://atlawgroup.com/personal-injury/drunk-driving-accidents) and dram shop claims, including service to minors.
-- [Slip and fall](https://atlawgroup.com/personal-injury/slip-and-fall/pittsfield-township), [premises liability](https://atlawgroup.com/personal-injury/premises-liability), and [tenant injuries](https://atlawgroup.com/personal-injury/tenant-injuries) in apartment complexes, stores, restaurants, and parking lots.
-- [Dog bites](https://atlawgroup.com/personal-injury/dog-bites)**:** strict liability under MCL 287.351.
-- [Medical malpractice](https://atlawgroup.com/personal-injury/medical-malpractice) and [birth injuries](https://atlawgroup.com/personal-injury/birth-injuries) at Trinity Health Ann Arbor, University of Michigan Health, and the VA.
-- [Nursing home neglect](https://atlawgroup.com/personal-injury/nursing-home-abuse)**.**
-- [Workplace injuries](https://atlawgroup.com/personal-injury/workers-compensation)**:** workers’ compensation, plus a third-party suit where someone other than the employer caused the injury.
-- [Brain injuries](https://atlawgroup.com/personal-injury/brain-injury) and [spinal cord injuries](https://atlawgroup.com/personal-injury/spinal-cord-injury)**.**
-- [Wrongful death](https://atlawgroup.com/personal-injury/wrongful-death)**:** brought by the estate (MCL 600.2922) through the Washtenaw County Probate Court.
-- [Social Security Disability](https://atlawgroup.com/disability/social-security-disability) and [long-term disability](https://atlawgroup.com/disability/short-long-term-disability) when an injury keeps you from working.
+- [Car accidents](/personal-injury/auto-accidents/pittsfield-township)**:** no-fault (MCL 500.3107), the PIP medical level (MCL 500.3107c), the threshold (MCL 500.3135), UM and UIM, and deer crashes.
+- [Pedestrian](/personal-injury/pedestrian-accidents) **and** [bicycle](/personal-injury/bicycle-accidents) **injuries** on Carpenter, Washtenaw, and Packard.
+- [Truck accidents](/personal-injury/truck-accidents/pittsfield-township) on I-94, US-23, and Michigan Avenue.
+- [Motorcycle accidents](/personal-injury/motorcycle-accidents/pittsfield-township)**:** the rider priority rule (MCL 500.3114(5)).
+- [Bus accidents](/personal-injury/bus-accidents) involving TheRide, and [Uber and Lyft accidents](/personal-injury/rideshare-accidents).
+- [Drunk driving crashes](/personal-injury/drunk-driving-accidents) and dram shop claims, including service to minors.
+- [Slip and fall](/personal-injury/slip-and-fall/pittsfield-township), [premises liability](/personal-injury/premises-liability), and [tenant injuries](/personal-injury/tenant-injuries) in apartment complexes, stores, restaurants, and parking lots.
+- [Dog bites](/personal-injury/dog-bites)**:** strict liability under MCL 287.351.
+- [Medical malpractice](/personal-injury/medical-malpractice) and [birth injuries](/personal-injury/birth-injuries) at Trinity Health Ann Arbor, University of Michigan Health, and the VA.
+- [Nursing home neglect](/personal-injury/nursing-home-abuse)**.**
+- [Workplace injuries](/personal-injury/workers-compensation)**:** workers’ compensation, plus a third-party suit where someone other than the employer caused the injury.
+- [Brain injuries](/personal-injury/brain-injury) and [spinal cord injuries](/personal-injury/spinal-cord-injury)**.**
+- [Wrongful death](/personal-injury/wrongful-death)**:** brought by the estate (MCL 600.2922) through the Washtenaw County Probate Court.
+- [Social Security Disability](/disability/social-security-disability) and [long-term disability](/disability/short-long-term-disability) when an injury keeps you from working.
 
 ## What a Pittsfield Township claim is worth, and what reduces it
 

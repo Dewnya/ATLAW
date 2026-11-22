@@ -35,9 +35,9 @@ A Pittsfield Township crash claim usually turns on four questions:
 
 ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Boulevard in Dearborn, about 30 miles east on I-94. The firm has handled more than 10,000 cases and recovered more than $100 million for clients.
 
-- Our [Michigan car accident lawyer page](https://atlawgroup.com/personal-injury/auto-accidents) covers the law in full.
-- Our [Washtenaw County car accident page](https://atlawgroup.com/personal-injury/auto-accidents/washtenaw-county) covers the county.
-- Our [Pittsfield Township page](https://atlawgroup.com/areas-served/pittsfield-township) covers every kind of injury claim in the township.
+- Our [Michigan car accident lawyer page](/personal-injury/auto-accidents) covers the law in full.
+- Our [Washtenaw County car accident page](/personal-injury/auto-accidents/washtenaw-county) covers the county.
+- Our [Pittsfield Township page](/areas-served/pittsfield-township) covers every kind of injury claim in the township.
 
 The first conversation is free, in English, Arabic, French, Mandarin, Urdu, or Spanish: **(313) 406-7606**.
 
@@ -81,7 +81,7 @@ What the numbers show:
 - red-light and left-turn crashes at Packard, Ellsworth, and Michigan Avenue (MCL 257.650)
 - pedestrians crossing between signals to reach a bus stop or a store
 
-See our [pedestrian accident page](https://atlawgroup.com/personal-injury/pedestrian-accidents).
+See our [pedestrian accident page](/personal-injury/pedestrian-accidents).
 
 **Washtenaw Avenue.** Between US-23 and Ypsilanti, Washtenaw Avenue (M-17) is a five-lane commercial road with driveways on both sides and shopping centers at Hogback and Carpenter. Hogback at Washtenaw had 41 crashes in 2024, the third most in the county. The 14A-1 District Court sits on the same road. The crashes are:
 
@@ -104,7 +104,7 @@ See our [pedestrian accident page](https://atlawgroup.com/personal-injury/pedest
 - crashes in work zones
 - truck crashes
 
-See our [Pittsfield Township truck accident page](https://atlawgroup.com/personal-injury/truck-accidents/pittsfield-township) and our [Pittsfield Township motorcycle accident page](https://atlawgroup.com/personal-injury/motorcycle-accidents/pittsfield-township).
+See our [Pittsfield Township truck accident page](/personal-injury/truck-accidents/pittsfield-township) and our [Pittsfield Township motorcycle accident page](/personal-injury/motorcycle-accidents/pittsfield-township).
 
 **Drunk and drugged driving.** The township recorded 34 alcohol-involved and 15 drug-involved crashes in 2024. A bar, restaurant, or store that serves a visibly intoxicated person, or a minor, is liable for the injuries that person causes (see below).
 
@@ -142,7 +142,7 @@ The crash report names the jurisdiction. We confirm it in the first conversation
 
 ## When the other vehicle is a bus or a public vehicle
 
-**TheRide** runs routes on Washtenaw Avenue, Carpenter Road, State Street, and Packard Road. A crash with a TheRide bus is a claim against the Ann Arbor Area Transportation Authority under the motor vehicle exception to governmental immunity (MCL 691.1405), in the circuit court. A bus passenger’s no-fault benefits follow the bus-passenger priority rules (MCL 500.3114(2)). See our [bus accident page](https://atlawgroup.com/personal-injury/bus-accidents).
+**TheRide** runs routes on Washtenaw Avenue, Carpenter Road, State Street, and Packard Road. A crash with a TheRide bus is a claim against the Ann Arbor Area Transportation Authority under the motor vehicle exception to governmental immunity (MCL 691.1405), in the circuit court. A bus passenger’s no-fault benefits follow the bus-passenger priority rules (MCL 500.3114(2)). See our [bus accident page](/personal-injury/bus-accidents).
 
 **Township, Road Commission, and county vehicles** are claims under the same exception, against the agency that owns the vehicle. An individual officer or employee is personally liable only for gross negligence (MCL 691.1407(2)). A crash with a State of Michigan vehicle goes to the Court of Claims, with the six-month notice. Dash camera and body camera footage is overwritten on short schedules, so we request it by FOIA promptly.
 
@@ -160,7 +160,7 @@ The evidence that decides fault is perishable:
 - cameras at the stores, gas stations, and apartment complexes along Carpenter and Washtenaw, many overwritten within days
 - TheRide’s bus cameras, if a bus was nearby
 - the vehicles’ **event data recorders,** which store speed, braking, and throttle in the seconds before impact
-- the other driver’s phone records, for a distracted-driving claim (see our [distracted driving page](https://atlawgroup.com/personal-injury/distracted-driving-accidents))
+- the other driver’s phone records, for a distracted-driving claim (see our [distracted driving page](/personal-injury/distracted-driving-accidents))
 - witnesses
 
 We move promptly to request the camera footage, signal data, and vehicle data.
@@ -182,11 +182,11 @@ We move promptly to request the camera footage, signal data, and vehicle data.
 2. if none applies and the person was riding in a car, the insurer of that car (MCL 500.3114(4))
 3. otherwise, including a person hit while walking or biking, the Michigan Assigned Claims Plan, capped at $250,000 for medical benefits (MCL 500.3115(1))
 
-See our [pedestrian accident page](https://atlawgroup.com/personal-injury/pedestrian-accidents) and our [bicycle accident page](https://atlawgroup.com/personal-injury/bicycle-accidents).
+See our [pedestrian accident page](/personal-injury/pedestrian-accidents) and our [bicycle accident page](/personal-injury/bicycle-accidents).
 
-**Rideshare passengers and drivers.** A passenger in an Uber or Lyft looks first to the passenger’s own household policy, and a driver’s coverage depends on whether the app was on and a ride was accepted. See our [Uber and Lyft accident page](https://atlawgroup.com/personal-injury/rideshare-accidents).
+**Rideshare passengers and drivers.** A passenger in an Uber or Lyft looks first to the passenger’s own household policy, and a driver’s coverage depends on whether the app was on and a ride was accepted. See our [Uber and Lyft accident page](/personal-injury/rideshare-accidents).
 
-The insurer must receive written notice within one year (MCL 500.3145(1)). It must pay each bill within 30 days of reasonable proof, or owe 12 percent interest (MCL 500.3142). See our [no-fault insurance claim page](https://atlawgroup.com/personal-injury/car-accident-insurance).
+The insurer must receive written notice within one year (MCL 500.3145(1)). It must pay each bill within 30 days of reasonable proof, or owe 12 percent interest (MCL 500.3142). See our [no-fault insurance claim page](/personal-injury/car-accident-insurance).
 
 **If you had no insurance.** A person who owned a car and was required to insure it, but did not, is generally barred from PIP benefits for their own injuries (MCL 500.3113(b)). A driver who was operating their own uninsured vehicle cannot recover pain-and-suffering damages, whoever was at fault (MCL 500.3135(2)(c)).
 
@@ -208,9 +208,9 @@ The suit must be filed within three years (MCL 600.5805(2)). The mini tort claim
  3. Only then do you accept the limit and sign the release.
  4. The UIM claim then proceeds.
 
-Accepting without consent can forfeit the UIM claim under many policies. See our [uninsured motorist page](https://atlawgroup.com/personal-injury/uninsured-motorist-claims).
+Accepting without consent can forfeit the UIM claim under many policies. See our [uninsured motorist page](/personal-injury/uninsured-motorist-claims).
 
-**Drunk drivers and the dram shop claim.** A bar, restaurant, or store that serves a visibly intoxicated person, or a minor, is liable for the injuries that person causes (MCL 436.1801). Written notice must go to the business within 120 days after you hire a lawyer, the drunk driver must be named and kept in the suit, and the suit must be filed within two years. See our [drunk driving accident page](https://atlawgroup.com/personal-injury/drunk-driving-accidents).
+**Drunk drivers and the dram shop claim.** A bar, restaurant, or store that serves a visibly intoxicated person, or a minor, is liable for the injuries that person causes (MCL 436.1801). Written notice must go to the business within 120 days after you hire a lawyer, the drunk driver must be named and kept in the suit, and the suit must be filed within two years. See our [drunk driving accident page](/personal-injury/drunk-driving-accidents).
 
 ## What to do after a Pittsfield Township crash
 
@@ -229,7 +229,7 @@ Accepting without consent can forfeit the UIM claim under many policies. See our
 - **Injury suits over $25,000** go to the Washtenaw County Trial Court (22nd Circuit) at 101 East Huron Street in Ann Arbor, with a jury drawn from Washtenaw County.
 - **Claims against MDOT or the State** go to the Michigan Court of Claims.
 - **Cases against out-of-state defendants** may be filed in, or removed to, the U.S. District Court for the Eastern District of Michigan.
-- **A fatal crash** is brought by the estate, opened through the Washtenaw County Probate Court. See our [wrongful death page](https://atlawgroup.com/personal-injury/wrongful-death) and our [Ann Arbor wrongful death page](https://atlawgroup.com/personal-injury/wrongful-death/ann-arbor).
+- **A fatal crash** is brought by the estate, opened through the Washtenaw County Probate Court. See our [wrongful death page](/personal-injury/wrongful-death) and our [Ann Arbor wrongful death page](/personal-injury/wrongful-death/ann-arbor).
 
 ## Deadlines for Pittsfield Township crash claims
 
