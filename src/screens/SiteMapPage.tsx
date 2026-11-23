@@ -80,6 +80,12 @@ export const SiteMapPage = (): JSX.Element => {
         <section aria-labelledby="sitemap-practices" className="w-full bg-[#FAFAF8]">
           <div className={`${SECTION} py-14 md:py-20`}>
             <SectionHeading id="sitemap-practices">Practice Areas</SectionHeading>
+            {/* The personal injury hub belongs to no menu group, so it gets its own line above them. */}
+            <p className="mt-6">
+              <Link className={linkClass} to="/personal-injury">
+                All personal injury cases
+              </Link>
+            </p>
             <div className="mt-10 grid gap-10 sm:grid-cols-2 lg:grid-cols-4">
               {practices.map((group) => (
                 <div key={group.label}>

@@ -1015,6 +1015,10 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - Open: the bare domain `https://atlawgroup.com` serves the site itself (200) instead of redirecting to www. Canonical tags point at www so search engines consolidate, but set the redirect in Vercel's Domains settings (atlawgroup.com → redirect to www.atlawgroup.com). Do not add a www → apex rule anywhere (that caused the Nov 21 loop)
   - Still to do (Sam): Google Search Console property and sitemap submission; Google Business Profile website link; cancel Webflow after a week or so. Asked the firm: the news post says "29-person team" while the About timeline says 50+
 
+- [x] Site map page lists the personal injury hub (Nov 23, 2026)
+  - `/personal-injury` belongs to no menu group, so the Site Map page's body left it out (it was still linked from the header menu and footer). Added an "All personal injury cases" link under the Practice Areas heading in `src/screens/SiteMapPage.tsx`; the page body now links all 311 other sitemap URLs
+  - Not yet released to production
+
 ### Open Questions
 
 - [ ] **PRE-LAUNCH — Text Us number.** Confirm with the firm whether (313) 406-7606 can receive SMS, or get a dedicated SMS number. Then set `SMS_NUMBER` in `src/data/contact.ts` (the Text buttons in the header and mobile bar appear automatically).
