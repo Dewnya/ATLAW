@@ -1026,7 +1026,7 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - About timeline: "2020: Grew to a Team of 50+" is now "Grew to a 29-Person Team", matching the news post
   - Address: every instance standardized to the Google Business Profile form, "3 Parklane Blvd., Suite 400" (was five spellings, with "Suite 400W"): footer, contact page, schema.org `streetAddress`, privacy, terms, `cities.ts`, 276 content sources (re-imported; content diffs are address-only), and the three Google Maps links (footer, contact card and embed, case-results reviews link)
   - Checks: tsc clean; build 313 files; sweep of `dist` finds one address form only (608 instances), no "400W" or "Park Lane", no "3 Consecutive", `sms:` link on all 313 pages; browser check of a practice page, the contact map (resolves to 3 Parklane Blvd #400) and the Text buttons
-  - Not yet released to production
+  - Released to production Nov 23, 2026 (`7b7e503`); verified on www.atlawgroup.com across 14 sampled pages (one address form, "9 Consecutive Years", Text link on every page, About timeline)
 
 ### Open Questions
 
