@@ -1028,6 +1028,13 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - Checks: tsc clean; build 313 files; sweep of `dist` finds one address form only (608 instances), no "400W" or "Park Lane", no "3 Consecutive", `sms:` link on all 313 pages; browser check of a practice page, the contact map (resolves to 3 Parklane Blvd #400) and the Text buttons
   - Released to production Nov 23, 2026 (`7b7e503`); verified on www.atlawgroup.com across 14 sampled pages (one address form, "9 Consecutive Years", Text link on every page, About timeline)
 
+- [x] Site icon fixed for inner pages and search results (Nov 23, 2026)
+  - Google's results still show the old Webflow site's icon (a leftover "SILBER" template logo), cached from before launch
+  - Bug found: `index.html` linked the icon as `./favicon.svg`, which only resolves on the homepage; every inner page asked for a path that 404s, and `/favicon.ico` and `/apple-touch-icon.png` did not exist
+  - Fix: icon links are root-absolute; added `public/favicon.ico` (16/32/48), `favicon-96x96.png` and `apple-touch-icon.png`, generated from the existing navy "A" mark (full-bleed square, padded so it survives Google's circular crop)
+  - The firm's shared "ATLAW Logos" Drive folder has only the wordmark (black and white PNG/JPG) and the 2025 brand guide; no dedicated icon file. The guide's rule (full logotype centred in a 512 square) is unreadable at favicon size, so the "A" from the wordmark stays unless the firm supplies an icon
+  - Not yet released to production. Google refreshes favicons on its own schedule (days to a few weeks) after it recrawls the homepage
+
 ### Open Questions
 
 - [x] ~~**Text Us number**~~ — resolved Nov 23, 2026: the firm confirmed (313) 406-7606 receives texts; `SMS_NUMBER` is set and the Text buttons are on.
