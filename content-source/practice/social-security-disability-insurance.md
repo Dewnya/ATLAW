@@ -143,7 +143,7 @@ Fees are set by federal law: the lesser of 25 percent of past-due benefits or $9
 - **Thirteen years serving clients, more than 10,000 cases.**
 - **The evidence built for the insured period**, not only for today.
 - **Michigan’s hearing offices.** We appear at Michigan hearing offices across the state, including Detroit, Oak Park, and Livonia, and at hearings held by video or phone.
-- **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
+- **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 - **Languages.** Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish.
 - **No fee unless you win**, federally capped at 25 percent of back pay or $9,200, whichever is less.
 

@@ -17,7 +17,7 @@ delivered: 2026-10-16
 
 A Dearborn nursing home resident who develops a stage 4 pressure sore, falls three times in a month, loses twenty pounds, or is found wandering outside was not unlucky. Each of those events is one that federal and Michigan regulations require the facility to prevent, and each is documented by the facility itself, in a chart the family rarely sees until a lawyer asks for it. Dearborn families face two further problems. Many residents speak Arabic, or speak English as a second language that dementia takes first, and a resident who cannot tell staff they are in pain, or understand what they are being given, is a resident at risk. And families who visit daily often notice the problem first but are told it is “normal at this age.”
 
-ATLAW is a personal injury firm at 3 Parklane Boulevard in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients. Our [Michigan nursing home abuse lawyer page](/personal-injury/nursing-home-abuse) covers the regulations, the warning signs, and the two deadlines in full, and our [Dearborn page](/areas-served/dearborn) covers every kind of injury claim in the city; the claim process generally is on our [Dearborn personal injury lawyer page](/personal-injury/dearborn), and facilities elsewhere in the county on our [Wayne County page](/areas-served/wayne-county). The first conversation is free and confidential, in English, Arabic, French, Mandarin, Urdu, or Spanish: (313) 406-7606.
+ATLAW is a personal injury firm at 3 Parklane Blvd., Suite 400 in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients. Our [Michigan nursing home abuse lawyer page](/personal-injury/nursing-home-abuse) covers the regulations, the warning signs, and the two deadlines in full, and our [Dearborn page](/areas-served/dearborn) covers every kind of injury claim in the city; the claim process generally is on our [Dearborn personal injury lawyer page](/personal-injury/dearborn), and facilities elsewhere in the county on our [Wayne County page](/areas-served/wayne-county). The first conversation is free and confidential, in English, Arabic, French, Mandarin, Urdu, or Spanish: (313) 406-7606.
 
 ## The rules, by the numbers
 
@@ -94,7 +94,7 @@ Many admission packets include an agreement to arbitrate. A facility may not req
 
 ## Why Dearborn families call ATLAW
 
-- An office at 3 Parklane Boulevard in Dearborn, with free surface parking; walk-ins are accepted. 13 years, more than 10,000 cases, more than $100 million recovered.
+- An office at 3 Parklane Blvd., Suite 400 in Dearborn, with free surface parking; walk-ins are accepted. 13 years, more than 10,000 cases, more than $100 million recovered.
 - Every case reviewed for both negligence and malpractice, so neither deadline is missed.
 - Prompt attention to requesting and preserving the chart, incident reports, staffing records, and LARA file.
 - Consultations can be accommodated in English, Arabic, French, Mandarin, Urdu, and Spanish.

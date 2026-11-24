@@ -28,7 +28,7 @@ In 2024, the Michigan State Police recorded 1,916 crashes in Taylor. They killed
 - How much insurance is on the other side, and is it Michigan insurance?
 - If the road played a part, did it belong to the State, Wayne County, or the City?
 
-ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Boulevard in Dearborn. The firm has handled more than 10,000 cases and recovered more than $100 million for clients. For more:
+ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Blvd., Suite 400 in Dearborn. The firm has handled more than 10,000 cases and recovered more than $100 million for clients. For more:
 
 - Our [Michigan car accident lawyer page](/personal-injury/auto-accidents) covers the law in full.
 - Our [Wayne County car accident page](/personal-injury/auto-accidents/wayne-county) covers the county.

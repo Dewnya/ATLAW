@@ -104,7 +104,7 @@ ATLAW’s results: more than 10,000 cases and more than $100 million recovered f
 
 ## Why victims in metro Detroit call ATLAW
 
-**A Dearborn firm that looks at the full picture.** Drunk driving accidents can involve more than just the impaired driver. Depending on the circumstances, other parties may also bear legal responsibility, including establishments that unlawfully served alcohol. ATLAW evaluates the facts of each case to identify potential avenues for compensation and determine whether additional claims warrant further consideration. The office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126.
+**A Dearborn firm that looks at the full picture.** Drunk driving accidents can involve more than just the impaired driver. Depending on the circumstances, other parties may also bear legal responsibility, including establishments that unlawfully served alcohol. ATLAW evaluates the facts of each case to identify potential avenues for compensation and determine whether additional claims warrant further consideration. The office is at 3 Parklane Blvd., Suite 400, Dearborn, MI 48126.
 
 **More than 10,000 cases, more than $100 million recovered** in 13 years, across all injury practice areas. Every case is different; the figures show the firm has done this work against these insurers.
 

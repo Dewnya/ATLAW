@@ -17,7 +17,7 @@ delivered: 2026-10-16
 
 Michigan’s dog bite law is short and strict. If a dog bites you without provocation while you are on public property or lawfully on private property, the owner is liable for the full amount of your damages, regardless of whether the dog had ever bitten before or whether the owner knew it was dangerous (MCL 287.351). You do not have to prove negligence. In most of Michigan, that makes the case about the injury and the insurance. In Detroit, three more questions come first: who owns the dog, whether that owner has a homeowner’s or renter’s policy, and what happens when the dog was loose and no owner comes forward. This page answers those questions, and the ones every bite victim has about provocation, children’s claims, scarring, and deadlines.
 
-ATLAW is a personal injury firm at 3 Parklane Boulevard in Dearborn, minutes from downtown Detroit. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients. Our [Michigan dog bite lawyer page](/personal-injury/dog-bites) covers the statute, the defenses, and the insurance in full, and our [Detroit page](/areas-served/detroit) covers every kind of injury claim in the city; this page covers what is particular about a Detroit dog bite; suburban bites are covered on our [Wayne County page](/areas-served/wayne-county), and the claim process generally on our [Detroit personal injury lawyer page](/personal-injury/detroit). The first conversation is free: **(313) 406-7606**.
+ATLAW is a personal injury firm at 3 Parklane Blvd., Suite 400 in Dearborn, minutes from downtown Detroit. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients. Our [Michigan dog bite lawyer page](/personal-injury/dog-bites) covers the statute, the defenses, and the insurance in full, and our [Detroit page](/areas-served/detroit) covers every kind of injury claim in the city; this page covers what is particular about a Detroit dog bite; suburban bites are covered on our [Wayne County page](/areas-served/wayne-county), and the claim process generally on our [Detroit personal injury lawyer page](/personal-injury/detroit). The first conversation is free: **(313) 406-7606**.
 
 ## Dog bites by the numbers
 
@@ -92,7 +92,7 @@ Dog bite suits over $25,000 are filed in the Third Judicial Circuit Court at the
 
 ## Why Detroit bite victims call ATLAW
 
-- An office at 3 Parklane Boulevard in Dearborn, with free surface parking; 13 years, more than 10,000 cases, more than $100 million recovered.
+- An office at 3 Parklane Blvd., Suite 400 in Dearborn, with free surface parking; 13 years, more than 10,000 cases, more than $100 million recovered.
 - The owner, the insurer, and the landlord identified in the first week, before the dog and the witnesses disappear.
 - Children’s cases done right: probate approval, protected funds, and a claim that accounts for the scar revision the child will need years from now.
 - No fee unless we recover money for you. ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs. The first conversation is free.

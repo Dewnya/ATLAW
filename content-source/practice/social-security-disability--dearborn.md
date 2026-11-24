@@ -17,7 +17,7 @@ delivered: 2026-10-16
 
 About two out of three first applications for Social Security Disability are denied, and most of the people denied are in fact disabled. They are denied because the application did not answer the question Social Security actually asks: not “are you sick?” but “can you do any job that exists in significant numbers in the national economy, given your age, education, and work history?” In Dearborn that question has particular answers. Many claimants spent decades in physical work at the Rouge, the steel works, or the restaurants and groceries on Michigan Avenue and Warren. Many have work history from before they came to the United States. Many will testify through an interpreter. Each of those facts changes how the claim is built.
 
-ATLAW is a personal injury and disability firm at 3 Parklane Boulevard in Dearborn. In 13 years the firm has handled more than 10,000 cases for clients across metro Detroit. Our [Michigan Social Security Disability lawyer page](/disability/social-security-disability) covers the programs and the five-step test in full, our [appeals page](/disability/ssd-appeals-process) covers each stage, and our [Dearborn page](/areas-served/dearborn) covers every kind of claim in the city. If your claim is under an employer’s long-term disability plan rather than Social Security, see our [long-term disability page](/disability/short-long-term-disability). The first conversation is free, in English, Arabic, French, Mandarin, Urdu, or Spanish: (313) 406-7606.
+ATLAW is a personal injury and disability firm at 3 Parklane Blvd., Suite 400 in Dearborn. In 13 years the firm has handled more than 10,000 cases for clients across metro Detroit. Our [Michigan Social Security Disability lawyer page](/disability/social-security-disability) covers the programs and the five-step test in full, our [appeals page](/disability/ssd-appeals-process) covers each stage, and our [Dearborn page](/areas-served/dearborn) covers every kind of claim in the city. If your claim is under an employer’s long-term disability plan rather than Social Security, see our [long-term disability page](/disability/short-long-term-disability). The first conversation is free, in English, Arabic, French, Mandarin, Urdu, or Spanish: (313) 406-7606.
 
 ## The rules, by the numbers
 
@@ -95,7 +95,7 @@ SSDI benefits begin five full months after the established onset date; SSI is no
 
 ## Why Dearborn claimants call ATLAW
 
-- An office at 3 Parklane Boulevard in Dearborn, minutes from the Detroit and Livonia hearing offices; present at the hearing in person.
+- An office at 3 Parklane Blvd., Suite 400 in Dearborn, minutes from the Detroit and Livonia hearing offices; present at the hearing in person.
 - Hearing preparation in the claimant’s language.
 - The medical record built from every provider, here and abroad, before the judge reads it.
 - Workers’ compensation, personal injury, and LTD claims coordinated with the Social Security claim.

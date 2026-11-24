@@ -17,7 +17,7 @@ delivered: 2026-10-16
 
 A car crash in Detroit is a Michigan no-fault claim first and a Detroit claim second. The no-fault part is the same everywhere in the state: an insurer determined under Michigan’s no-fault priority rules may pay covered medical expenses and wage-loss benefits regardless of fault. A claim for pain and suffering against the at-fault driver generally requires an injury meeting Michigan’s statutory threshold. The Detroit part is what this page is about. The driver who hit you may be uninsured or carry only the minimum liability coverage. The vehicle is more likely to belong to the City: a DDOT bus, a police car, a Public Works truck. The crash is more likely to involve a pedestrian; Detroit accounted for 420 of Wayne County’s 637 pedestrian-involved crashes in 2024. The road may be the City’s, the County’s, or the State’s, and the notice goes to a different office for each. And the case will be in the Third Circuit or the 36th District, which run differently from the suburban courts.
 
-ATLAW is a personal injury firm with an office at 3 Parklane Boulevard in Dearborn, a short drive from downtown Detroit. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients, including clients with Detroit crash claims involving insurers, uninsured drivers, and government agencies. Our [Michigan car accident lawyer page](/personal-injury/auto-accidents) covers the law in full and our [Detroit page](/areas-served/detroit) covers every kind of injury claim in the city; this page covers what is different about a Detroit car crash claim and what to do about it. The first conversation is free: **(313) 406-7606**.
+ATLAW is a personal injury firm with an office at 3 Parklane Blvd., Suite 400 in Dearborn, a short drive from downtown Detroit. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients, including clients with Detroit crash claims involving insurers, uninsured drivers, and government agencies. Our [Michigan car accident lawyer page](/personal-injury/auto-accidents) covers the law in full and our [Detroit page](/areas-served/detroit) covers every kind of injury claim in the city; this page covers what is different about a Detroit car crash claim and what to do about it. The first conversation is free: **(313) 406-7606**.
 
 ## Detroit car crashes by the numbers
 
@@ -106,7 +106,7 @@ Our [full checklist](/resources/what-to-do-after-an-accident) covers the first d
 
 ## Why Detroiters call ATLAW
 
-- An office at 3 Parklane Boulevard in Dearborn, with free surface parking, and 13 years, more than 10,000 cases, and more than $100 million recovered for clients.
+- An office at 3 Parklane Blvd., Suite 400 in Dearborn, with free surface parking, and 13 years, more than 10,000 cases, and more than $100 million recovered for clients.
 - Daily work in the Third Circuit and the 36th District, and with the Assigned Claims Plan, DDOT, the City’s law department, and the insurers that write Detroit policies.
 - Every household policy read, and every UM/UIM and PIP option identified, before the claim is valued.
 - Prompt attention to preservation of available DDOT, police, and Project Green Light video evidence.

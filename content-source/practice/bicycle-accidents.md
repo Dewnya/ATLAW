@@ -132,7 +132,7 @@ Cyclists’ injuries are serious relative to the speeds involved because the rid
 - **The right insurer, the first time.** The responsible no-fault insurer under MCL 500.3114 and 500.3115 is identified and notified in the first week.
 - **Fault built from the statute.** Three-foot passing, ride-right exceptions, turning rules, and phone records, with the bicycle preserved as evidence.
 - **Both claims, one firm.** The no-fault claim and the claim against the driver are coordinated from the start.
-- **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
+- **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 - **Languages.** Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish.
 - **No fee unless we recover.** ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs. No cost for the first conversation.
 

@@ -30,7 +30,7 @@ In Ypsilanti, who caused the death changes more than usual:
 
 This page explains how the process works for an Ypsilanti family and what to do in the first weeks.
 
-ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Boulevard in Dearborn, about 25 miles east on I-94. The firm has handled more than 10,000 cases and recovered more than $100 million for clients. The firm handles the whole wrongful death process for the family:
+ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Blvd., Suite 400 in Dearborn, about 25 miles east on I-94. The firm has handled more than 10,000 cases and recovered more than $100 million for clients. The firm handles the whole wrongful death process for the family:
 
 - the probate appointment
 - the no-fault survivor’s loss claim

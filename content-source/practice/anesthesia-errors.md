@@ -111,7 +111,7 @@ See our [medical malpractice](/personal-injury/medical-malpractice), [brain inju
 - **Anesthesiologists and CRNAs as reviewing experts**, meeting Michigan’s same-specialty requirements (MCL 600.2169).
 - **Every provider and contract identified**, so the hospital’s “independent contractor” defense is met with the ostensible agency rule.
 - **Records and monitor data preserved first.** For accepted cases, we send written requests to preserve relevant records and monitor data.
-- **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
+- **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 - **Languages.** Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish.
 - **No fee unless we recover.** ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs. No cost for the first conversation.
 

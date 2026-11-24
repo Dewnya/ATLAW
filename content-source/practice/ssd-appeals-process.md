@@ -130,7 +130,7 @@ Fees in Social Security cases are set by federal law, 42 USC 406, and every fee 
 - **Every level, every deadline.** From reconsideration through federal court, with the 60-day deadline at each level tracked from the notice date.
 - **The vocational expert cross-examined**, with the hypothetical and the jobs named tested against the record and the Dictionary of Occupational Titles.
 - **Michigan’s hearing offices.** We appear at Michigan hearing offices across the state, including Detroit, Oak Park, and Livonia, in person or by video or phone.
-- **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed, and consultations by phone or video can also be arranged.
+- **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed, and consultations by phone or video can also be arranged.
 - **Languages.** Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish.
 - **No fee unless you win**, and the fee is federally capped at 25 percent of back pay or $9,200, whichever is less.
 

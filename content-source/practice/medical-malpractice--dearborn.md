@@ -17,7 +17,7 @@ delivered: 2026-10-16
 
 Michigan has built more procedural requirements into medical malpractice claims than into any other kind of injury case: a two-year deadline instead of three, a written notice to each provider 182 days before suit, a sworn affidavit from a qualified expert filed with the complaint, strict rules about who that expert can be, and a cap on pain-and-suffering damages. Dearborn adds a question of its own: who the defendant is. The hospital on Oakwood Boulevard is a private nonprofit. The clinic on Michigan Avenue may be a physician group, a hospital-owned practice, or a federally funded community health center whose providers can only be sued under federal law. The ambulance was the City’s. And a patient who was treated through an interpreter, or without one, has a consent question the record must answer.
 
-ATLAW is a personal injury firm at 3 Parklane Boulevard in Dearborn, minutes from Corewell Health Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients. ATLAW handles medical malpractice claims and works with qualified medical experts, as Michigan law requires, to review each case before it is filed. Our [Michigan medical malpractice lawyer page](/personal-injury/medical-malpractice) covers the law in full, our [hospital negligence](/personal-injury/hospital-mistakes), [anesthesia error](/personal-injury/anesthesia-errors), and [birth injury](/personal-injury/birth-injuries) pages cover the main case types, and our [Dearborn page](/areas-served/dearborn) covers every kind of injury claim in the city. The first conversation is free, in English, Arabic, French, Mandarin, Urdu, or Spanish: (313) 406-7606.
+ATLAW is a personal injury firm at 3 Parklane Blvd., Suite 400 in Dearborn, minutes from Corewell Health Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients. ATLAW handles medical malpractice claims and works with qualified medical experts, as Michigan law requires, to review each case before it is filed. Our [Michigan medical malpractice lawyer page](/personal-injury/medical-malpractice) covers the law in full, our [hospital negligence](/personal-injury/hospital-mistakes), [anesthesia error](/personal-injury/anesthesia-errors), and [birth injury](/personal-injury/birth-injuries) pages cover the main case types, and our [Dearborn page](/areas-served/dearborn) covers every kind of injury claim in the city. The first conversation is free, in English, Arabic, French, Mandarin, Urdu, or Spanish: (313) 406-7606.
 
 ## The rules, by the numbers
 
@@ -92,7 +92,7 @@ Malpractice cases are expensive to bring; the same-specialty expert’s review, 
 
 ## Why Dearborn patients call ATLAW
 
-- An office at 3 Parklane Boulevard in Dearborn, minutes from Corewell Dearborn; 13 years, more than 10,000 cases, more than $100 million recovered.
+- An office at 3 Parklane Blvd., Suite 400 in Dearborn, minutes from Corewell Dearborn; 13 years, more than 10,000 cases, more than $100 million recovered.
 - The defendant and the forum identified before the Notice of Intent is written: private, federal, or City.
 - Prompt attention to requesting the records; expert review before anything is filed; costs advanced.
 - The consent and language questions asked in every case, with consultations in English, Arabic, French, Mandarin, Urdu, and Spanish.

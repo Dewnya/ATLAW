@@ -170,7 +170,7 @@ Michigan retains joint and several liability in medical malpractice where the pl
 - **Both patients, both claims**, with the mother’s two-year deadline and the child’s calendared together.
 - **The records requested in full**, including the monitoring archive, the nursing notes, and, where available, the hospital’s shoulder dystocia protocol and training records.
 - **Settlements structured to protect the child’s benefits**, coordinated where needed with special needs planning professionals.
-- **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Families come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
+- **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400, Dearborn, MI 48126. Families come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 - **Languages.** Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish.
 - **No fee unless we recover.** Contingency fee ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs. No cost for the first conversation.
 

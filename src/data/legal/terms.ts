@@ -167,7 +167,7 @@ export const sections: Section[] = [
     title: "Contact",
     summary: "Questions about these terms? Email us.",
     paragraphs: [
-      `Questions regarding these Terms of Use may be directed to ${EMAIL} or AT Law Group, PLLC, 3 Park Lane Blvd Suite 400W, Dearborn, MI 48126.`,
+      `Questions regarding these Terms of Use may be directed to ${EMAIL} or AT Law Group, PLLC, 3 Parklane Blvd., Suite 400, Dearborn, MI 48126.`,
     ],
   },
 ];

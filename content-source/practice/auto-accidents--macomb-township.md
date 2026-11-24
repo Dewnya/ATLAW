@@ -30,7 +30,7 @@ A Macomb Township crash claim usually turns on four questions:
 - If the road played a part, is it Macomb County’s or the State’s? The township owns none of its roads.
 - If a Sheriff’s car, a school bus, or a construction truck was involved, who is the defendant?
 
-ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Boulevard in Dearborn. The firm has handled more than 10,000 cases and recovered more than $100 million for clients.
+ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Blvd., Suite 400 in Dearborn. The firm has handled more than 10,000 cases and recovered more than $100 million for clients.
 
 - Our [Michigan car accident lawyer page](/personal-injury/auto-accidents) covers the law in full.
 - Our [Macomb County car accident page](/personal-injury/auto-accidents/macomb-county) covers the county.

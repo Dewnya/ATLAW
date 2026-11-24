@@ -31,7 +31,7 @@ A West Bloomfield crash claim usually turns on four questions:
 - How do the other driver’s liability limit, any umbrella policy, and your own underinsured motorist coverage fit together?
 - If the road played a part, which agency owns it? In a township, the answer is almost never the township.
 
-ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Boulevard in Dearborn. The firm has handled more than 10,000 cases and recovered more than $100 million for clients.
+ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Blvd., Suite 400 in Dearborn. The firm has handled more than 10,000 cases and recovered more than $100 million for clients.
 
 - Our [Michigan car accident lawyer page](/personal-injury/auto-accidents) covers the law in full.
 - Our [Oakland County car accident page](/personal-injury/auto-accidents/oakland-county) covers the county.

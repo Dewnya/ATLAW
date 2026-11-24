@@ -174,7 +174,7 @@ Injury suits over $25,000 go to the Washtenaw County Trial Court (22nd Circuit) 
 
 **Where would my Ypsilanti case be filed?** - **Claims up to $25,000:** the 14A-1 District Court on Washtenaw Avenue in Pittsfield Township for the city, or the 14B District Court on S. Huron River Drive for the township. - **Larger injury suits:** the Washtenaw County Trial Court in Ann Arbor. - **Claims against EMU or the State:** the Court of Claims.
 
-**Do you have an office in Ypsilanti?** No. Our office is at 3 Parklane Boulevard in Dearborn, about 25 miles east on I-94. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
+**Do you have an office in Ypsilanti?** No. Our office is at 3 Parklane Blvd., Suite 400 in Dearborn, about 25 miles east on I-94. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 
 **How long do I have?** - Three years for most injury suits. - One year to notify your no-fault insurer. - Two years for malpractice. - 120 days for a claim against the City, the township, or the Road Commission. - Six months for a claim against EMU or the State, or 120 days for a road-defect notice against MDOT or a building-defect notice against EMU.
 

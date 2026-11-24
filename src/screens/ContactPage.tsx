@@ -243,9 +243,9 @@ const contactMethods: ContactMethod[] = [
   {
     icon: <PinIcon className="h-8 w-8 text-[#C6A04A]" />,
     title: "Visit",
-    primary: "3 Park Lane Blvd., Suite 400W",
+    primary: "3 Parklane Blvd., Suite 400",
     secondary: "Dearborn, MI 48126",
-    href: "https://maps.google.com/?q=3+Park+Lane+Blvd+Suite+400W+Dearborn+MI+48126",
+    href: "https://maps.google.com/?q=3+Parklane+Blvd.,+Suite+400,+Dearborn,+MI+48126",
   },
 ];
 
@@ -327,7 +327,7 @@ const OfficeLocation = () => (
         <div className="aspect-[4/3] w-full overflow-hidden rounded-[16px] shadow-[0_8px_24px_rgba(0,0,0,0.08)] lg:aspect-auto lg:min-h-[420px]">
           <iframe
             title="ATLAW Group office location"
-            src="https://maps.google.com/maps?q=3+Park+Lane+Blvd+Suite+400W,+Dearborn,+MI+48126&z=15&output=embed"
+            src="https://maps.google.com/maps?q=3+Parklane+Blvd.,+Suite+400,+Dearborn,+MI+48126&z=15&output=embed"
             className="h-full w-full border-0"
             allowFullScreen
             loading="lazy"
@@ -349,7 +349,7 @@ const OfficeLocation = () => (
               <PinIcon className="mt-0.5 h-5 w-5 shrink-0 text-[#B88A2D]" />
               <div>
                 <p className="font-serifDisplay text-[18px] leading-[1.4] text-[#0B1F3A]">
-                  3 Park Lane Blvd., Suite 400W
+                  3 Parklane Blvd., Suite 400
                 </p>
                 <p className="font-serifDisplay text-[18px] leading-[1.4] text-[#0B1F3A]">
                   Dearborn, MI 48126

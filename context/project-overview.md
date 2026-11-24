@@ -67,7 +67,7 @@ The site is modeled after mikemorris.com: a single authority landing page for th
 - **Legal Name:** AT Law Group, PLLC
 - **DBA:** ATLAW
 - **Founded:** 2013
-- **Office:** 3 Park Lane Blvd., Suite 400W, Dearborn, MI 48126
+- **Office:** 3 Parklane Blvd., Suite 400, Dearborn, MI 48126
 - **Phone:** (313) 406-7606
 - **Domain:** atlawgroup.com
 - **Founder:** Dewnya A. Bazzi — Founder & CEO, Principal Attorney

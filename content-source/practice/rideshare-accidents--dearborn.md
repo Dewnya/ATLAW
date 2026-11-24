@@ -17,7 +17,7 @@ delivered: 2026-10-16
 
 An Uber or Lyft crash in Dearborn is a Michigan no-fault car crash with one added question that decides what the claim is worth: what was the app doing at the moment of impact? If a ride had been accepted or a passenger was on board, a $1 million policy applies. If the driver was logged in and waiting, only the Act’s minimum limits apply. Uber and Lyft hold the record that answers the question, and they do not volunteer it. Dearborn produces more of these cases than its size suggests: the I-94 corridor to Detroit Metropolitan Airport runs across the south of the city, the east-side restaurant district along Michigan Avenue and Warren fills rideshare queues every evening, and many Dearborn residents drive for the platforms themselves.
 
-ATLAW is a personal injury firm at 3 Parklane Boulevard in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients. Our [Michigan Uber and Lyft accident lawyer page](/personal-injury/rideshare-accidents) covers the Transportation Network Company Act and the three insurance periods in full, our [Dearborn car accident page](/personal-injury/auto-accidents/dearborn) covers the no-fault rules for any Dearborn crash, and our [Dearborn page](/areas-served/dearborn) covers every kind of injury claim in the city. The first conversation is free, in English, Arabic, French, Mandarin, Urdu, or Spanish: (313) 406-7606.
+ATLAW is a personal injury firm at 3 Parklane Blvd., Suite 400 in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients. Our [Michigan Uber and Lyft accident lawyer page](/personal-injury/rideshare-accidents) covers the Transportation Network Company Act and the three insurance periods in full, our [Dearborn car accident page](/personal-injury/auto-accidents/dearborn) covers the no-fault rules for any Dearborn crash, and our [Dearborn page](/areas-served/dearborn) covers every kind of injury claim in the city. The first conversation is free, in English, Arabic, French, Mandarin, Urdu, or Spanish: (313) 406-7606.
 
 ## Rideshare crashes by the numbers
 
@@ -98,7 +98,7 @@ Our [full checklist](/resources/what-to-do-after-an-accident) covers the first d
 
 ## Why Dearborn rideshare crash victims call ATLAW
 
-- An office at 3 Parklane Boulevard in Dearborn, with free surface parking; walk-ins are accepted; 13 years, more than 10,000 cases, more than $100 million recovered.
+- An office at 3 Parklane Blvd., Suite 400 in Dearborn, with free surface parking; walk-ins are accepted; 13 years, more than 10,000 cases, more than $100 million recovered.
 - Prompt attention to identifying the coverage period and preserving the app, GPS, and trip data before it is lost.
 - Every policy in the chain read: yours, the household’s, the driver’s, the company’s, the other driver’s.
 - No fee unless we recover money for you. The first conversation is free.

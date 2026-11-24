@@ -28,7 +28,7 @@
    "c": [
     {
      "t": "text",
-     "v": "ATLAW is a personal injury firm at 3 Parklane Boulevard in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients. Our "
+     "v": "ATLAW is a personal injury firm at 3 Parklane Blvd., Suite 400 in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients. Our "
     },
     {
      "t": "link",
@@ -906,7 +906,7 @@
       [
        {
         "t": "text",
-        "v": "An office at 3 Parklane Boulevard in Dearborn, with free surface parking and walk-in consultations available; 13 years, more than 10,000 cases, more than $100 million recovered."
+        "v": "An office at 3 Parklane Blvd., Suite 400 in Dearborn, with free surface parking and walk-in consultations available; 13 years, more than 10,000 cases, more than $100 million recovered."
        }
       ],
       [
@@ -1027,7 +1027,7 @@
    }
   ]
  },
- "wordCount": 2121,
+ "wordCount": 2125,
  "openItems": 0,
  "source": {
   "file": "B2-75_Dearborn-Motorcycle-Accident-Lawyer.docx",

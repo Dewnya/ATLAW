@@ -140,7 +140,7 @@ ATLAW is a personal injury firm in Dearborn. In 13 years the firm has handled mo
 
 ## Working with ATLAW
 
-**Where is ATLAW, and where do you handle cases?** The office is at 3 Parklane Boulevard in Dearborn, and the firm handles cases throughout Michigan.
+**Where is ATLAW, and where do you handle cases?** The office is at 3 Parklane Blvd., Suite 400 in Dearborn, and the firm handles cases throughout Michigan.
 
 **Do you speak Arabic?** Yes. Consultations can be accommodated in English, Arabic, French, Mandarin, Urdu, and Spanish.
 

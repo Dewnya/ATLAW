@@ -33,7 +33,7 @@ So the first question in an Ann Arbor case is who gave the care:
 - **Trinity Health Ann Arbor** and private practices: the ordinary malpractice rules, in the Washtenaw County Trial Court.
 - **The VA Ann Arbor Healthcare System:** the United States, under federal law.
 
-ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Boulevard in Dearborn. The firm has handled more than 10,000 cases and recovered more than $100 million for clients.
+ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Blvd., Suite 400 in Dearborn. The firm has handled more than 10,000 cases and recovered more than $100 million for clients.
 
 - Our [Michigan medical malpractice lawyer page](/personal-injury/medical-malpractice) covers the law in full.
 - Our [hospital mistakes](/personal-injury/hospital-mistakes), [anesthesia error](/personal-injury/anesthesia-errors), and [birth injury](/personal-injury/birth-injuries) pages cover the main case types.

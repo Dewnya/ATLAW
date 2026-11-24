@@ -17,7 +17,7 @@ delivered: 2026-10-16
 
 A motorcycle crash in Detroit is governed by a rule most riders learn only after they are hurt: under Michigan no-fault, a motorcycle is not a “motor vehicle.” That one definition decides who pays your medical bills, how much they pay, whether you have any no-fault claim at all, and how the insurer will argue the helmet question. Add Detroit’s roads, its share of uninsured drivers, and the City as a potential defendant, and a Detroit rider’s claim has more moving parts than a car occupant’s.
 
-ATLAW is a personal injury firm with an office at 3 Parklane Boulevard in Dearborn, serving Detroit and communities throughout southeast Michigan. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients. Our [Michigan motorcycle accident lawyer page](/personal-injury/motorcycle-accidents) covers the no-fault rules for riders in full, our [Detroit page](/areas-served/detroit) covers every kind of injury claim in the city, and our [Detroit car accident page](/personal-injury/auto-accidents/detroit) covers crashes between cars; this page covers what is particular about a Detroit motorcycle crash. The first conversation is free: **(313) 406-7606**.
+ATLAW is a personal injury firm with an office at 3 Parklane Blvd., Suite 400 in Dearborn, serving Detroit and communities throughout southeast Michigan. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients. Our [Michigan motorcycle accident lawyer page](/personal-injury/motorcycle-accidents) covers the no-fault rules for riders in full, our [Detroit page](/areas-served/detroit) covers every kind of injury claim in the city, and our [Detroit car accident page](/personal-injury/auto-accidents/detroit) covers crashes between cars; this page covers what is particular about a Detroit motorcycle crash. The first conversation is free: **(313) 406-7606**.
 
 ## Motorcycle crashes by the numbers, 2024
 
@@ -100,7 +100,7 @@ Motorcycle injury lawsuits seeking more than $25,000 may be filed in the Third J
 
 ## Why Detroit riders call ATLAW
 
-- An office at 3 Parklane Boulevard in Dearborn, serving clients throughout Detroit and southeast Michigan; 13 years, more than 10,000 cases, more than $100 million recovered.
+- An office at 3 Parklane Blvd., Suite 400 in Dearborn, serving clients throughout Detroit and southeast Michigan; 13 years, more than 10,000 cases, more than $100 million recovered.
 - We review available evidence of the vehicles involved and identify potentially applicable insurers under Michigan’s motorcycle no-fault priority rules.
 - Prompt attention to preserving relevant camera footage, vehicle evidence, witness information, and available electronic records.
 - No fee unless we recover money for you. ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs. The first conversation is free.

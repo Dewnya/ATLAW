@@ -29,7 +29,7 @@ Ypsilanti adds its own risks:
 - **I-94,** with merges at Huron Street, Michigan Avenue, and Rawsonville Road, and trucks.
 - **Two governments and four road owners,** the City, the Washtenaw County Road Commission, MDOT, and Eastern Michigan University, each with its own notice clock when the road itself caused the crash.
 
-ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Boulevard in Dearborn. The firm has handled more than 10,000 cases and recovered more than $100 million for clients.
+ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Blvd., Suite 400 in Dearborn. The firm has handled more than 10,000 cases and recovered more than $100 million for clients.
 
 - Our [Michigan motorcycle accident lawyer page](/personal-injury/motorcycle-accidents) covers the no-fault rules for riders in full.
 - Our [Ypsilanti page](/areas-served/ypsilanti) covers every kind of injury claim in the city and the township.

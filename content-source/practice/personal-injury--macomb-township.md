@@ -27,7 +27,7 @@ If you were hurt in Macomb Township because someone else was careless, you have 
 
 A personal injury lawyer’s first job is to find out which of those deadlines apply to you. The second is to make sure none runs out before your claim is paid.
 
-ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Boulevard in Dearborn. The firm has handled more than 10,000 cases and recovered more than $100 million for clients. An office address matters less than whether the lawyer knows the courts, agencies, insurers, and property owners your case will involve, and will meet you where you are.
+ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Blvd., Suite 400 in Dearborn. The firm has handled more than 10,000 cases and recovered more than $100 million for clients. An office address matters less than whether the lawyer knows the courts, agencies, insurers, and property owners your case will involve, and will meet you where you are.
 
 - Our [Macomb Township page](/areas-served/macomb-township) covers where the township’s injuries happen.
 - Our [Macomb County page](/areas-served/macomb-county) covers the county.

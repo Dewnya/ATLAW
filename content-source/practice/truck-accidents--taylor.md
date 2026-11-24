@@ -31,7 +31,7 @@ A truck crash is not a car crash with a larger vehicle:
 - **The records expire.** The records that prove the case, the driver’s electronic logs and the truck’s engine data, can be lawfully discarded within months.
 - **The other side moves fast.** The carrier’s insurer will have an investigator on the case within days.
 
-ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Boulevard in Dearborn. The firm has handled more than 10,000 cases and recovered more than $100 million for clients.
+ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Blvd., Suite 400 in Dearborn. The firm has handled more than 10,000 cases and recovered more than $100 million for clients.
 
 - Our [Michigan truck accident lawyer page](/personal-injury/truck-accidents) covers the federal rules in full.
 - Our [Wayne County truck accident page](/personal-injury/truck-accidents/wayne-county) covers the county.

@@ -1247,7 +1247,7 @@
        "c": [
         {
          "t": "text",
-         "v": "The office is at 3 Parklane Boulevard in Dearborn, and the firm handles cases throughout Michigan."
+         "v": "The office is at 3 Parklane Blvd., Suite 400 in Dearborn, and the firm handles cases throughout Michigan."
         }
        ]
       }
@@ -1330,7 +1330,7 @@
  ],
  "faqs": [],
  "cta": null,
- "wordCount": 3721,
+ "wordCount": 3723,
  "openItems": 0,
  "source": {
   "file": "B2-29_Michigan-Personal-Injury-FAQ.docx",

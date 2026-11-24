@@ -171,7 +171,7 @@ The Michigan claims follow the 182-day Notice of Intent, the Affidavit of Merit,
 
 **Where would my Pittsfield Township case be filed?** - Claims up to $25,000 go to the 14A-1 District Court at 4133 Washtenaw Avenue. - Larger injury suits go to the Washtenaw County Trial Court in Ann Arbor. - Claims against MDOT or the State go to the Court of Claims.
 
-**Do you have an office in Pittsfield Township?** No. Our office is at 3 Parklane Boulevard in Dearborn, about 30 miles east on I-94. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
+**Do you have an office in Pittsfield Township?** No. Our office is at 3 Parklane Blvd., Suite 400 in Dearborn, about 30 miles east on I-94. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 
 **How long do I have?** - Three years for most injury suits. - One year to notify your no-fault insurer. - Two years for malpractice. - 120 days for a claim against the Road Commission or the township. - 120 days for a road-defect notice against MDOT. - Six months for most other claims against the State.
 

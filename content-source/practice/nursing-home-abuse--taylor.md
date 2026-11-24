@@ -25,7 +25,7 @@ Taylor has several kinds of places where older and disabled residents live:
 
 The rules differ depending on which kind of place your parent lives in. Taylor has three Medicare-certified nursing homes.
 
-ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Boulevard in Dearborn. The firm has handled more than 10,000 cases and recovered more than $100 million for clients.
+ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Blvd., Suite 400 in Dearborn. The firm has handled more than 10,000 cases and recovered more than $100 million for clients.
 
 - Our [Michigan nursing home abuse lawyer page](/personal-injury/nursing-home-abuse) covers the regulations, the warning signs, and the deadlines in full.
 - Our [Taylor page](/areas-served/taylor) covers every kind of injury claim in the city.

@@ -35,7 +35,7 @@ A truck crash is not a car crash with a larger vehicle:
 - **The records expire.** The driver’s electronic logs and the truck’s engine data, the records that prove the case, can be lawfully discarded within months.
 - **The other side moves fast.** The carrier’s insurer will have an investigator on the case within days.
 
-ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Boulevard in Dearborn, next door. The firm has handled more than 10,000 cases and recovered more than $100 million for clients.
+ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Blvd., Suite 400 in Dearborn, next door. The firm has handled more than 10,000 cases and recovered more than $100 million for clients.
 
 - Our [Michigan truck accident lawyer page](/personal-injury/truck-accidents) covers the federal rules in full.
 - Our [Wayne County truck accident page](/personal-injury/truck-accidents/wayne-county) covers the county.
@@ -224,7 +224,7 @@ Our [full checklist](/resources/what-to-do-after-an-accident) covers the first d
 
 ## Why Dearborn Heights truck crash victims call ATLAW
 
-- 13 years of Michigan injury practice, more than 10,000 cases, and more than $100 million recovered, from an office at 3 Parklane Boulevard in Dearborn, next door.
+- 13 years of Michigan injury practice, more than 10,000 cases, and more than $100 million recovered, from an office at 3 Parklane Blvd., Suite 400 in Dearborn, next door.
 - The preservation letter goes out promptly. It includes a demand to inspect the truck, its load securement, and its rear guard, and to preserve driveway, curbside, and store footage. It includes a demand to inspect the truck, its load securement, and its rear guard, and to preserve driveway, curbside, and store footage.
 - ELD and engine data, FMCSA safety records, and accident reconstruction used to build the case.
 - Investigation costs advanced, and recovered only from a settlement or verdict.

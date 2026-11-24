@@ -137,7 +137,7 @@ We also represent clients from Ann Arbor Township, Augusta Township, Bridgewater
 
 **Who do I notify about a pothole on a township road?** The Washtenaw County Road Commission, in writing within 120 days, because townships do not own roads. MDOT, with notice filed with the Court of Claims within 120 days.
 
-**Do you have an office in Washtenaw County?** Our office is at 3 Parklane Boulevard in Dearborn, east of Ypsilanti and Ann Arbor. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
+**Do you have an office in Washtenaw County?** Our office is at 3 Parklane Blvd., Suite 400 in Dearborn, east of Ypsilanti and Ann Arbor. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 
 **How long do I have?** Three years for most injury suits, one year to notify your no-fault insurer, two years for malpractice, and as little as 120 days for a claim against the Road Commission or a city, 120 days for a road-defect notice against MDOT, or six months for most other claims against the State or a university.
 

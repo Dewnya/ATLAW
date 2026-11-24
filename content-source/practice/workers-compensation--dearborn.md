@@ -17,7 +17,7 @@ delivered: 2026-10-16
 
 A worker hurt on the job in Dearborn is owed benefits under Michigan’s Workers’ Disability Compensation Act regardless of fault: medical care in full, 80 percent of after-tax wages while unable to work, retraining, and scheduled payments for the loss of a body part. What differs in Dearborn is who is on the other side. Ford, the Rouge complex’s contractors, the steel works, and Corewell Health are self-insured and administer claims through their own adjusters and clinics. The restaurants, bakeries, groceries, and shops along Michigan Avenue and Warren are small employers, some of whom carry no coverage, which changes the claim entirely. And many Dearborn workers report injuries, give statements, and sign forms in a second language, which is where claims are lost before they start.
 
-ATLAW is a personal injury firm at 3 Parklane Boulevard in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients. ATLAW helps injured workers with workers’ compensation claims and reviews every work injury for a possible claim against a third party. Our [Michigan workers’ compensation lawyer page](/personal-injury/workers-compensation) covers the Act in full and our [Dearborn page](/areas-served/dearborn) covers every kind of injury claim in the city; this page covers what is particular about a Dearborn work injury, including the lawsuit against a third party that comp does not bar. The first conversation is free, in English, Arabic, French, Mandarin, Urdu, or Spanish: (313) 406-7606.
+ATLAW is a personal injury firm at 3 Parklane Blvd., Suite 400 in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients. ATLAW helps injured workers with workers’ compensation claims and reviews every work injury for a possible claim against a third party. Our [Michigan workers’ compensation lawyer page](/personal-injury/workers-compensation) covers the Act in full and our [Dearborn page](/areas-served/dearborn) covers every kind of injury claim in the city; this page covers what is particular about a Dearborn work injury, including the lawsuit against a third party that comp does not bar. The first conversation is free, in English, Arabic, French, Mandarin, Urdu, or Spanish: (313) 406-7606.
 
 ## Michigan workers’ compensation by the numbers
 
@@ -95,7 +95,7 @@ Workers’ compensation is your exclusive remedy against an insured employer (MC
 
 ## Why Dearborn workers call ATLAW
 
-- An office at 3 Parklane Boulevard in Dearborn, with free surface parking; walk-in consultations are available. 13 years, more than 10,000 cases, more than $100 million recovered.
+- An office at 3 Parklane Blvd., Suite 400 in Dearborn, with free surface parking; walk-in consultations are available. 13 years, more than 10,000 cases, more than $100 million recovered.
 - Experience against the self-insured employers and third-party administrators that handle Dearborn claims, and with the uninsured-employer cases the small businesses produce.
 - Both claims coordinated: the comp claim before the agency and the third-party suit in the Third Circuit, with the lien negotiated at the end.
 - Fees are contingent and limited by state rule, paid only from benefits recovered and approved by the magistrate; nothing up front, nothing unless benefits are recovered.

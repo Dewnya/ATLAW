@@ -114,7 +114,7 @@ ATLAW’s results: more than 10,000 cases and more than $100 million recovered f
 
 ## Why families in metro Detroit call ATLAW
 
-**A Dearborn firm that evaluates every claim.** ATLAW evaluates whether the facts support ordinary-negligence claims, malpractice claims, or both, so the three-year claims are preserved and the two-year claims are filed correctly. The office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126.
+**A Dearborn firm that evaluates every claim.** ATLAW evaluates whether the facts support ordinary-negligence claims, malpractice claims, or both, so the three-year claims are preserved and the two-year claims are filed correctly. The office is at 3 Parklane Blvd., Suite 400, Dearborn, MI 48126.
 
 **More than 10,000 cases, more than $100 million recovered** in 13 years, across all injury practice areas. Every case is different; the figures show the firm has done this work in these counties.
 

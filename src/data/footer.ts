@@ -35,4 +35,4 @@ export const legalLinks: { label: string; to: string }[] = [
 ];
 
 export const MAP_URL =
-  "https://www.google.com/maps/search/?api=1&query=3+Park+Lane+Blvd+Suite+400W%2C+Dearborn%2C+MI+48126";
+  "https://www.google.com/maps/search/?api=1&query=3+Parklane+Blvd.%2C+Suite+400%2C+Dearborn%2C+MI+48126";

@@ -96,7 +96,7 @@ The Detroit metropolitan area has the largest concentration of disability claima
 
 **English, Arabic, French, Mandarin, Urdu, and Spanish**, for the application, the forms, and the hearing. Social Security provides interpreters at hearings, but the preparation happens in your language with us.
 
-The office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126.
+The office is at 3 Parklane Blvd., Suite 400, Dearborn, MI 48126.
 
 ## Frequently asked questions about Social Security Disability in Michigan
 

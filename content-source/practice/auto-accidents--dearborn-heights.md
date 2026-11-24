@@ -32,7 +32,7 @@ A Dearborn Heights crash claim usually turns on four questions:
 - How do the other driver’s limit and your own uninsured and underinsured motorist coverage fit together?
 - If the road played a part, does it belong to the State, Wayne County, or the City?
 
-ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Boulevard in Dearborn, next door. The firm has handled more than 10,000 cases and recovered more than $100 million for clients.
+ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Blvd., Suite 400 in Dearborn, next door. The firm has handled more than 10,000 cases and recovered more than $100 million for clients.
 
 - Our [Michigan car accident lawyer page](/personal-injury/auto-accidents) covers the law in full.
 - Our [Wayne County car accident page](/personal-injury/auto-accidents/wayne-county) covers the county.
@@ -199,7 +199,7 @@ Our [full checklist](/resources/what-to-do-after-an-accident) covers the first d
 
 ## Why Dearborn Heights crash victims call ATLAW
 
-- 13 years of Michigan injury practice, more than 10,000 cases, and more than $100 million recovered, from an office at 3 Parklane Boulevard in Dearborn, next door.
+- 13 years of Michigan injury practice, more than 10,000 cases, and more than $100 million recovered, from an office at 3 Parklane Blvd., Suite 400 in Dearborn, next door.
 - Every household policy read, including UM/UIM and the PIP medical level, before the claim is valued.
 - The liability limit and the UIM claim sequenced so that neither is forfeited.
 - The right road agency identified before any notice runs: MDOT, Wayne County, or the City.

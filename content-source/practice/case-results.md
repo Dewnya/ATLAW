@@ -82,7 +82,7 @@ Each practice page explains how that kind of case works in Michigan: [car accide
 
 **How long did these cases take?** Every case is different. How long a case takes depends on the injuries, the insurance involved, and whether the case settles or goes to trial.
 
-**Can I talk to a former client?** We do not share former clients’ contact information, to protect their privacy. You can read [reviews from our clients on Google](https://www.google.com/maps/search/?api=1&query=3+Park+Lane+Blvd+Suite+400W%2C+Dearborn%2C+MI+48126).
+**Can I talk to a former client?** We do not share former clients’ contact information, to protect their privacy. You can read [reviews from our clients on Google](https://www.google.com/maps/search/?api=1&query=3+Parklane+Blvd.%2C+Suite+400%2C+Dearborn%2C+MI+48126).
 
 ## Talk to us about your case
 

@@ -107,7 +107,7 @@ If the injured person is a minor, the clock generally runs until at least a year
 
 ## Why people in metro Detroit call ATLAW after a fall
 
-**A Dearborn firm that takes fall cases seriously.** ATLAW evaluates every fall under the law as it stands now. The office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126; the attorney who meets you handles your case.
+**A Dearborn firm that takes fall cases seriously.** ATLAW evaluates every fall under the law as it stands now. The office is at 3 Parklane Blvd., Suite 400, Dearborn, MI 48126; the attorney who meets you handles your case.
 
 **More than 10,000 cases, more than $100 million recovered** in 13 years, across all injury practice areas. Every case is different; the figures show the firm has done this work against these insurers.
 

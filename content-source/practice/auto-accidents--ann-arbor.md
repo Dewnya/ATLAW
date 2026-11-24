@@ -30,7 +30,7 @@ An Ann Arbor crash claim usually turns on four questions:
 - **The other driver’s insurance.** How much they had, and how your own uninsured and underinsured motorist coverage fits with it.
 - **Whether a public body is involved.** If the road, a bus, or a vehicle belonged to the City, MDOT, TheRide, or the University of Michigan, the court and any notice deadline depend on which one.
 
-ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Boulevard in Dearborn, about 35 miles east on I-94. The firm has handled more than 10,000 cases and recovered more than $100 million for clients.
+ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Blvd., Suite 400 in Dearborn, about 35 miles east on I-94. The firm has handled more than 10,000 cases and recovered more than $100 million for clients.
 
 - Our [Michigan car accident lawyer page](/personal-injury/auto-accidents) covers the law in full.
 - Our [Washtenaw County car accident page](/personal-injury/auto-accidents/washtenaw-county) covers the county.

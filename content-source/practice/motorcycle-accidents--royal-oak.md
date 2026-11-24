@@ -29,7 +29,7 @@ Royal Oak adds its own risks:
 - **Downtown**, with tight streets, parked cars, pedestrians, and railroad crossings.
 - **Three road agencies**, each with its own notice clock when the road itself caused the crash.
 
-ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Boulevard in Dearborn. The firm has handled more than 10,000 cases and recovered more than $100 million for clients.
+ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Blvd., Suite 400 in Dearborn. The firm has handled more than 10,000 cases and recovered more than $100 million for clients.
 
 - Our [Michigan motorcycle accident lawyer page](/personal-injury/motorcycle-accidents) covers the no-fault rules for riders in full.
 - Our [Royal Oak page](/areas-served/royal-oak) covers every kind of injury claim in the city.

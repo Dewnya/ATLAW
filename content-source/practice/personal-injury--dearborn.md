@@ -17,7 +17,7 @@ delivered: 2026-10-16
 
 If you were hurt in Dearborn because someone else was careless, you have a claim under Michigan law, and the claim has deadlines that start running the day you are hurt: one year to notify your no-fault insurer after a crash, 120 days to notify the City of Dearborn or Wayne County of a road or sidewalk defect, 120 days to notify the State for a defect on Michigan Avenue or Ford Road, 182 days’ notice before a malpractice suit, and three years for most everything else. A personal injury lawyer’s first job is to find out which of those apply to you; the second is to make sure none runs before your claim is paid.
 
-ATLAW was founded in Dearborn and has practiced here for 13 years. The office is at 3 Parklane Boulevard, minutes from the 19th District Court, and the attorney who meets you handles your case. The firm has handled more than 10,000 cases and recovered more than $100 million for clients, many of them from Dearborn and the communities around it. Our [Dearborn page](/areas-served/dearborn) covers where the city’s injuries happen and which courts and agencies are involved; our [Michigan personal injury lawyer page](/personal-injury) covers the law statewide. This page covers what a Dearborn personal injury lawyer does, how a Dearborn claim is valued and resolved, and what it costs. The first conversation is free, in English, Arabic, French, Mandarin, Urdu, or Spanish: (313) 406-7606.
+ATLAW was founded in Dearborn and has practiced here for 13 years. The office is at 3 Parklane Blvd., Suite 400, minutes from the 19th District Court, and the attorney who meets you handles your case. The firm has handled more than 10,000 cases and recovered more than $100 million for clients, many of them from Dearborn and the communities around it. Our [Dearborn page](/areas-served/dearborn) covers where the city’s injuries happen and which courts and agencies are involved; our [Michigan personal injury lawyer page](/personal-injury) covers the law statewide. This page covers what a Dearborn personal injury lawyer does, how a Dearborn claim is valued and resolved, and what it costs. The first conversation is free, in English, Arabic, French, Mandarin, Urdu, or Spanish: (313) 406-7606.
 
 ## Dearborn injuries by the numbers
 
@@ -90,7 +90,7 @@ Michigan caps contingency fees in injury cases at one-third of the net recovery 
 
 ## Why Dearborn calls ATLAW
 
-- An office at 3 Parklane Boulevard in Dearborn, with free surface parking and walk-in consultations available.
+- An office at 3 Parklane Blvd., Suite 400 in Dearborn, with free surface parking and walk-in consultations available.
 - 13 years, more than 10,000 cases, more than $100 million recovered.
 - Daily work in the 19th District, the Third Circuit, and the Wayne County Probate Court, and with the insurers, the City, SMART, and the employers that defend Dearborn claims.
 - Consultations can be accommodated in English, Arabic, French, Mandarin, Urdu, and Spanish. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.

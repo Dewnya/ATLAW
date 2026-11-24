@@ -111,7 +111,7 @@ ATLAW is a personal injury firm in Dearborn, about 35 miles east on I-94. In 13 
 
 **Where would my Ann Arbor case be filed?** Claims up to $25,000 in the 15th District Court at 301 E. Huron Street; injury suits over $25,000 in the Washtenaw County Trial Court at 101 E. Huron Street; claims against the University or the State in the Court of Claims.
 
-**Do you have an office in Ann Arbor?** Our office is at 3 Parklane Boulevard in Dearborn, east of Ann Arbor. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
+**Do you have an office in Ann Arbor?** Our office is at 3 Parklane Blvd., Suite 400 in Dearborn, east of Ann Arbor. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 
 **How long do I have?** Three years for most injury suits, one year to notify your no-fault insurer, two years for malpractice, 120 days for a claim against the City, and six months for a claim against the University or the State (120 days for a road-defect notice against MDOT or a building-defect notice against the University).
 

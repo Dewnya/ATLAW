@@ -29,7 +29,7 @@ Can you do any job that exists in significant numbers in the national economy, g
 
 In Ann Arbor, that question often meets a particular work history: a nurse, technician, researcher, engineer, teacher, or administrator whose work was skilled. Skilled work can make a claim harder at the last step, because Social Security asks whether those skills transfer to easier work. A claimant whose record shows only a diagnosis, rather than the specific limits that end skilled work too, is the claimant who is denied.
 
-ATLAW has practiced in Michigan for 13 years from its office at 3 Parklane Boulevard in Dearborn and has handled more than 10,000 cases for clients across southeast Michigan.
+ATLAW has practiced in Michigan for 13 years from its office at 3 Parklane Blvd., Suite 400 in Dearborn and has handled more than 10,000 cases for clients across southeast Michigan.
 
 - Our [Michigan Social Security Disability lawyer page](/disability/social-security-disability) covers the programs and the five-step test in full.
 - Our [appeals page](/disability/ssd-appeals-process) covers each stage.

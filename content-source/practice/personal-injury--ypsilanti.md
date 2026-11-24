@@ -26,7 +26,7 @@ If you were hurt in Ypsilanti because someone else was careless, you have a clai
 
 A personal injury lawyer’s first job is to find out which of those deadlines apply to you. In Ypsilanti, that starts with one question: **were you hurt in the City of Ypsilanti or in Ypsilanti Charter Township?** They are two governments with different road owners, police, district courts, and notice rules. The second job is to make sure no deadline runs out before your claim is paid.
 
-ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Boulevard in Dearborn, about 25 miles east on I-94. The firm has handled more than 10,000 cases and recovered more than $100 million for clients. An office address matters less than whether the lawyer knows the courts, agencies, insurers, and property owners your case will involve, and will meet you where you are.
+ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Blvd., Suite 400 in Dearborn, about 25 miles east on I-94. The firm has handled more than 10,000 cases and recovered more than $100 million for clients. An office address matters less than whether the lawyer knows the courts, agencies, insurers, and property owners your case will involve, and will meet you where you are.
 
 - Our [Ypsilanti page](/areas-served/ypsilanti) covers where the city’s and township’s injuries happen.
 - Our [Washtenaw County page](/areas-served/washtenaw-county) covers the county.

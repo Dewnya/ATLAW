@@ -147,7 +147,7 @@ If your injury is a serious impairment of body function, the same crash supports
 - **We handle the insurer directly.** From the application for benefits forward, the insurer deals with us, and every submission is documented so that the 30-day clock and the interest are provable.
 - **Assigned Claims Plan applications.** For passengers, pedestrians, and cyclists without a household policy, we file with the MACP and follow the assignment.
 - **Both claims, one firm.** The PIP claim and the claim against the at-fault driver are coordinated from the first week.
-- **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
+- **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400, Dearborn, MI 48126. Clients come from Detroit, Dearborn, Southfield, Warren, Sterling Heights, Troy, Pontiac, Canton, Ann Arbor, and Ypsilanti. We welcome clients to our Dearborn office for a consultation. If you are unable to visit, home or hospital visits can be arranged as needed.
 - **Languages.** Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish.
 - **No fee unless we recover.** Contingency fee on first-party cases; no cost for the first conversation.
 

@@ -17,7 +17,7 @@ delivered: 2026-10-16
 
 For twenty years a fall on someone else’s property in Michigan was close to unwinnable, because a hazard that was “open and obvious” ended the case before it began. That rule is gone. Since the Michigan Supreme Court’s July 2023 decision in *Kandil-Elsayed v F & E Oil*, a Dearborn fall case turns on who had the duty to keep the place safe, what they knew about the hazard and when, what they did about it, and how much of the fall was your fault. In Dearborn those questions have local answers: the east-side business district’s storefronts and their sidewalks, the apartment buildings along Michigan Avenue and Warren, Fairlane and the west-side shopping districts, two college campuses with different governmental status, and a City that assigns sidewalk maintenance to the adjacent owner.
 
-ATLAW is a personal injury firm at 3 Parklane Boulevard in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients. Our [Michigan slip and fall lawyer page](/personal-injury/slip-and-fall) covers the law in full, our [premises liability](/personal-injury/premises-liability), [sidewalk injury](/personal-injury/sidewalk-injuries), and [tenant injury](/personal-injury/tenant-injuries) pages cover each kind of owner, and our [Dearborn page](/areas-served/dearborn) covers every kind of injury claim in the city. The first conversation is free, in English, Arabic, French, Mandarin, Urdu, or Spanish: (313) 406-7606.
+ATLAW is a personal injury firm at 3 Parklane Blvd., Suite 400 in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients. Our [Michigan slip and fall lawyer page](/personal-injury/slip-and-fall) covers the law in full, our [premises liability](/personal-injury/premises-liability), [sidewalk injury](/personal-injury/sidewalk-injuries), and [tenant injury](/personal-injury/tenant-injuries) pages cover each kind of owner, and our [Dearborn page](/areas-served/dearborn) covers every kind of injury claim in the city. The first conversation is free, in English, Arabic, French, Mandarin, Urdu, or Spanish: (313) 406-7606.
 
 ## The rules, by the numbers
 
@@ -83,7 +83,7 @@ Fall suits over $25,000 are filed in the Third Judicial Circuit Court in Detroit
 
 ## Why Dearborn calls ATLAW after a fall
 
-- An office at 3 Parklane Boulevard in Dearborn, with free surface parking; walk-in consultations are available. 13 years, more than 10,000 cases, more than $100 million recovered.
+- An office at 3 Parklane Blvd., Suite 400 in Dearborn, with free surface parking; walk-in consultations are available. 13 years, more than 10,000 cases, more than $100 million recovered.
 - Every Dearborn fall evaluated under the law as it stands after 2023.
 - Prompt attention to preserving available surveillance footage, inspection records, incident reports, and other time-sensitive evidence.
 - The owner identified before the notice runs: private, landlord, Housing Commission, City, college, or State.

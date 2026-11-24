@@ -138,7 +138,7 @@ ATLAW’s results: more than 10,000 cases and more than $100 million recovered f
 
 ## Why people in metro Detroit call ATLAW after a truck crash
 
-**A Dearborn firm on the freight corridor.** The office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126, minutes from I-94, the Rouge complex, and the Ambassador Bridge approach. The attorneys who meet you handle the case.
+**A Dearborn firm on the freight corridor.** The office is at 3 Parklane Blvd., Suite 400, Dearborn, MI 48126, minutes from I-94, the Rouge complex, and the Ambassador Bridge approach. The attorneys who meet you handle the case.
 
 **More than 10,000 cases, more than $100 million recovered** in 13 years, across all injury practice areas. Every case is different; the figures show the firm has done this work against these insurers.
 

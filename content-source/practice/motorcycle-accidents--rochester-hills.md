@@ -24,7 +24,7 @@ Rochester Hills adds its own risks:
 - **Wooded roads.** The two-lane, wooded roads toward Oakland Township and Rochester bring curves, gravel, and deer.
 - **Road agencies.** Four agencies own the roads here, each with its own notice clock when the road itself caused the crash.
 
-ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Boulevard in Dearborn. The firm has handled more than 10,000 cases and recovered more than $100 million for clients.
+ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Blvd., Suite 400 in Dearborn. The firm has handled more than 10,000 cases and recovered more than $100 million for clients.
 
 - Our [Michigan motorcycle accident lawyer page](/personal-injury/motorcycle-accidents) covers the no-fault rules for riders in full.
 - Our [Rochester Hills page](/areas-served/rochester-hills) covers every kind of injury claim in the city.

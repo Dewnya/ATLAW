@@ -7,6 +7,7 @@ import { IntakeFormSection } from "./IntakeFormSection";
 import { ProcessSection } from "./ProcessSection";
 import { practiceAreaBySlug } from "../../data/practice/pi";
 import { cityPageHref, practicePath } from "../../data/practice/pi/registry";
+import { RISING_STAR_COUNT } from "../../data/firm";
 import { BreadcrumbSchema } from "./Breadcrumbs";
 
 const GOLD = "#C9A24B";
@@ -205,7 +206,7 @@ export const Hero = ({ data, parent = { label: "Personal Injury", to: "/personal
         className="pi-reveal mt-4 font-sans text-[13px] font-semibold uppercase tracking-[0.16em]"
         style={{ animationDelay: "200ms", color: GOLD }}
       >
-        Super Lawyers Rising Star &middot; 3 Consecutive Years
+        Super Lawyers Rising Star &middot; {RISING_STAR_COUNT} Consecutive Years
       </p>
 
       <p

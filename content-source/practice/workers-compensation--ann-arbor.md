@@ -32,7 +32,7 @@ What differs in Ann Arbor is the mix of employers:
 - **Public employers,** including the City, Ann Arbor Public Schools, Washtenaw Community College, Washtenaw County, and TheRide.
 - **Federal employers,** including the VA Ann Arbor Healthcare System, whose workers are covered by federal law instead.
 
-ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Boulevard in Dearborn. The firm has handled more than 10,000 cases and recovered more than $100 million for clients.
+ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Blvd., Suite 400 in Dearborn. The firm has handled more than 10,000 cases and recovered more than $100 million for clients.
 
 - Our [Michigan workers’ compensation lawyer page](/personal-injury/workers-compensation) covers the Act in full.
 - Our [Ann Arbor page](/areas-served/ann-arbor) covers every kind of injury claim in the city.

@@ -128,7 +128,7 @@ Fees are set by federal law: the lesser of 25 percent of past-due benefits or $9
 - **Thirteen years serving clients, more than 10,000 cases.**
 - **Non-medical eligibility checked before filing**, so a terminal diagnosis is not followed by a technical denial.
 - **The family protected**: substitution of party and survivors’ benefits arranged if the worst happens.
-- **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. We meet clients by phone, by video, and at home or in the hospital when travel is not possible.
+- **Dearborn, and the whole metro area.** Our office is at 3 Parklane Blvd., Suite 400, Dearborn, MI 48126. We meet clients by phone, by video, and at home or in the hospital when travel is not possible.
 - **Languages.** Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish.
 - **No fee unless you win**, federally capped at 25 percent of back pay or $9,200, whichever is less.
 

@@ -117,7 +117,7 @@ Every crash below is a car accident claim under Michigan law, but each has a wri
 
 ## Why people in metro Detroit call ATLAW
 
-**A Dearborn firm, not a billboard.** ATLAW was founded in Dearborn by Dewnya Bazzi and has served clients for 13 years. The office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126, and the attorneys who meet you at the consultation are the attorneys who handle the case.
+**A Dearborn firm, not a billboard.** ATLAW was founded in Dearborn by Dewnya Bazzi and has served clients for 13 years. The office is at 3 Parklane Blvd., Suite 400, Dearborn, MI 48126, and the attorneys who meet you at the consultation are the attorneys who handle the case.
 
 **More than 10,000 cases, more than $100 million recovered.** Across all injury practice areas. Every case is different and these figures do not predict yours; they show the firm has done this work in Wayne, Oakland, Macomb, and Washtenaw county courts against the insurers you are dealing with.
 

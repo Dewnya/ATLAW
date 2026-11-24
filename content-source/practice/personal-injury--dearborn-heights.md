@@ -27,7 +27,7 @@ If you were hurt in Dearborn Heights because someone else was careless, you have
 
 A personal injury lawyer’s first job is to find out which of those deadlines apply to you. The second is to make sure none runs out before your claim is paid.
 
-ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Boulevard in Dearborn, next door to Dearborn Heights. The firm has handled more than 10,000 cases and recovered more than $100 million for clients.
+ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Blvd., Suite 400 in Dearborn, next door to Dearborn Heights. The firm has handled more than 10,000 cases and recovered more than $100 million for clients.
 
 - Our [Dearborn Heights page](/areas-served/dearborn-heights) covers where the city’s injuries happen.
 - Our [Wayne County page](/areas-served/wayne-county) covers the county.
@@ -230,7 +230,7 @@ The agreement is in writing. Read how costs are handled if the case is lost, bec
 
 ## Why Dearborn Heights residents call ATLAW
 
-- 13 years of Michigan injury practice, more than 10,000 cases, and more than $100 million recovered, from an office at 3 Parklane Boulevard in Dearborn, next door.
+- 13 years of Michigan injury practice, more than 10,000 cases, and more than $100 million recovered, from an office at 3 Parklane Blvd., Suite 400 in Dearborn, next door.
 - Claims handled in the 20th District, the Wayne County Circuit Court, and the Wayne County Probate Court, and with the insurers, the Assigned Claims Plan, landlords, retailers, Wayne County, the City, and MDOT that defend Dearborn Heights claims.
 - Landlord, store, contractor, and utility records requested promptly, before footage and work orders are gone.
 - The right agency identified before any notice runs: State, county, City, or school district, including the City’s 45-day sewer backup notice.

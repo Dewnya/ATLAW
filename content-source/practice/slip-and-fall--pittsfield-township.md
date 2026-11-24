@@ -30,7 +30,7 @@ In Pittsfield Charter Township, the answer to the first question depends on wher
 - **Township buildings, schools, and parks,** with a 120-day notice and limits set by governmental immunity.
 - **Hospitals, senior communities, workplaces, and homes,** each with its own rules.
 
-ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Boulevard in Dearborn, about 30 miles east on I-94. The firm has handled more than 10,000 cases and recovered more than $100 million for clients.
+ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Blvd., Suite 400 in Dearborn, about 30 miles east on I-94. The firm has handled more than 10,000 cases and recovered more than $100 million for clients.
 
 - Our [Michigan slip and fall lawyer page](/personal-injury/slip-and-fall) covers the law in full.
 - Our [premises liability](/personal-injury/premises-liability), [sidewalk injury](/personal-injury/sidewalk-injuries), and [tenant injury](/personal-injury/tenant-injuries) pages cover each kind of owner.

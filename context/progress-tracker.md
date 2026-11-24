@@ -1017,11 +1017,20 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
 
 - [x] Site map page lists the personal injury hub (Nov 23, 2026)
   - `/personal-injury` belongs to no menu group, so the Site Map page's body left it out (it was still linked from the header menu and footer). Added an "All personal injury cases" link under the Practice Areas heading in `src/screens/SiteMapPage.tsx`; the page body now links all 311 other sitemap URLs
+  - Released to production Nov 23, 2026 (`8ba997c`); verified on www.atlawgroup.com
+
+- [x] Firm's post-launch answers and fixes (Arlyn, Nov 23, 2026)
+  - Answers: use the "29-person team" figure; (313) 406-7606 has SMS enabled in the firm's CRM; the Google Business Profile link already points at www.atlawgroup.com; the firm submitted `sitemap.xml` in Search Console from its own account (Success). Search Console and the Business Profile are closed on our side
+  - Text Us on: `SMS_NUMBER = "+13134067606"` in `src/data/contact.ts`; the header and mobile action bar buttons now show on every page
+  - Rising Star badge: the practice template's hero line and the homepage awards marquee said "3 Consecutive Years"; both now read from `RISING_STAR_COUNT` ("9 Consecutive Years"), which fixes the 54 pages the firm listed
+  - About timeline: "2020: Grew to a Team of 50+" is now "Grew to a 29-Person Team", matching the news post
+  - Address: every instance standardized to the Google Business Profile form, "3 Parklane Blvd., Suite 400" (was five spellings, with "Suite 400W"): footer, contact page, schema.org `streetAddress`, privacy, terms, `cities.ts`, 276 content sources (re-imported; content diffs are address-only), and the three Google Maps links (footer, contact card and embed, case-results reviews link)
+  - Checks: tsc clean; build 313 files; sweep of `dist` finds one address form only (608 instances), no "400W" or "Park Lane", no "3 Consecutive", `sms:` link on all 313 pages; browser check of a practice page, the contact map (resolves to 3 Parklane Blvd #400) and the Text buttons
   - Not yet released to production
 
 ### Open Questions
 
-- [ ] **PRE-LAUNCH — Text Us number.** Confirm with the firm whether (313) 406-7606 can receive SMS, or get a dedicated SMS number. Then set `SMS_NUMBER` in `src/data/contact.ts` (the Text buttons in the header and mobile bar appear automatically).
+- [x] ~~**Text Us number**~~ — resolved Nov 23, 2026: the firm confirmed (313) 406-7606 receives texts; `SMS_NUMBER` is set and the Text buttons are on.
 
 - [x] ~~**Testimonials copy**~~ — resolved: `src/data/testimonials.ts` holds ten real Google reviews, shared by every review section; no template copy remains (confirmed Nov 10, 2026).
 - [x] ~~**Email inconsistency**~~ — resolved Oct 9, 2026: the revision brief chose `info@atlawgroup.com`; now used everywhere.

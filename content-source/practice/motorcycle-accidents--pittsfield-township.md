@@ -28,7 +28,7 @@ The township adds its own risks:
 - **I-94 and US-23,** which meet at the township’s northeast corner, with merges, trucks, and work zones.
 - **A township that owns no roads.** When the road itself caused the crash, the claim is against the Washtenaw County Road Commission or MDOT, each with its own notice clock.
 
-ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Boulevard in Dearborn, about 30 miles east on I-94. The firm has handled more than 10,000 cases and recovered more than $100 million for clients.
+ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Blvd., Suite 400 in Dearborn, about 30 miles east on I-94. The firm has handled more than 10,000 cases and recovered more than $100 million for clients.
 
 - Our [Michigan motorcycle accident lawyer page](/personal-injury/motorcycle-accidents) covers the no-fault rules for riders in full.
 - Our [Pittsfield Township page](/areas-served/pittsfield-township) covers every kind of injury claim in the township.

@@ -110,7 +110,7 @@ The injuries ATLAW sees most: back and shoulder injuries from lifting and repeti
 
 **English, Arabic, French, Mandarin, Urdu, and Spanish**, including at the hearing.
 
-The office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126.
+The office is at 3 Parklane Blvd., Suite 400, Dearborn, MI 48126.
 
 ## Frequently asked questions about Michigan workers’ compensation
 

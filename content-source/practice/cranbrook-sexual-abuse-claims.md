@@ -114,7 +114,7 @@ Michigan law allows a survivor to recover for the psychological injury and its c
 - **A confidential first conversation**, with an ATLAW attorney, about whether a claim exists and what pursuing it would involve, with no obligation and no pressure.
 - **A candid answer on the deadlines**, including when current law bars a claim and what the pending bills would change.
 - **Thirteen years serving clients in metro Detroit**, more than 10,000 cases, more than $100 million recovered across the firm’s practice.
-- **Dearborn, and the whole metro area**, including Bloomfield Hills and Oakland County. Our office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. Meetings away from the office, by video, or at the client’s choice of place can be accommodated. Office visits are preferred when possible, and home or hospital visits are available as needed.
+- **Dearborn, and the whole metro area**, including Bloomfield Hills and Oakland County. Our office is at 3 Parklane Blvd., Suite 400, Dearborn, MI 48126. Meetings away from the office, by video, or at the client’s choice of place can be accommodated. Office visits are preferred when possible, and home or hospital visits are available as needed.
 - **Languages.** Consultations and intake are available in English, Arabic, French, Mandarin, Urdu, and Spanish.
 - **No fee unless we recover.** ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs. No cost for the first conversation.
 

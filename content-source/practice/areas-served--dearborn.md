@@ -15,7 +15,7 @@ delivered: 2026-10-16
 
 ## Personal Injury Law Firm Serving Dearborn, MI
 
-ATLAW was founded in Dearborn and has practiced here for 13 years. Our office is located at Parklane Towers West, 3 Parklane Boulevard, Dearborn, Michigan, and most of the firm’s more than 10,000 cases have come from Dearborn and the communities around it. We know the roads where Dearborn’s crashes happen, the 19th District Court on Michigan Avenue and the Third Circuit in Detroit where Dearborn cases are heard, the hospitals where Dearborn’s injured are treated, and the insurers, the city, and the employers who are usually on the other side. This page explains what is particular about an injury claim in Dearborn. The practice-area pages linked throughout explain the law for each kind of case, and our [Wayne County page](/areas-served/wayne-county) covers the county as a whole.
+ATLAW was founded in Dearborn and has practiced here for 13 years. Our office is located at Parklane Towers West, 3 Parklane Blvd., Suite 400, Dearborn, Michigan, and most of the firm’s more than 10,000 cases have come from Dearborn and the communities around it. We know the roads where Dearborn’s crashes happen, the 19th District Court on Michigan Avenue and the Third Circuit in Detroit where Dearborn cases are heard, the hospitals where Dearborn’s injured are treated, and the insurers, the city, and the employers who are usually on the other side. This page explains what is particular about an injury claim in Dearborn. The practice-area pages linked throughout explain the law for each kind of case, and our [Wayne County page](/areas-served/wayne-county) covers the county as a whole.
 
 Dearborn is a city of about 110,000, Michigan’s seventh largest, and it is three cities in one: the east side along Michigan Avenue and Warren, dense, walkable, and home to one of the largest and most established Arab American communities in the United States; the west side around downtown West Dearborn and Ford’s world headquarters; and the industrial south, the Rouge complex and the rail and truck corridors that serve it. Each produces its own injuries.
 
@@ -100,7 +100,7 @@ Dearborn is a city of about 110,000, Michigan’s seventh largest, and it is thr
 
 ## Frequently asked questions
 
-**Where is ATLAW’s office?** ATLAW’s office is located at Parklane Towers West, 3 Parklane Boulevard, Dearborn, MI 48126. Free surface parking is available. Please contact our team before visiting to confirm availability.
+**Where is ATLAW’s office?** ATLAW’s office is located at Parklane Towers West, 3 Parklane Blvd., Suite 400, Dearborn, MI 48126. Free surface parking is available. Please contact our team before visiting to confirm availability.
 
 **How many crashes happen in Dearborn each year?**  In 2024, Dearborn recorded 3,326 traffic crashes, with 1,113 people injured and four killed, according to Michigan Traffic Crash Facts. Wayne County as a whole recorded 50,355 crashes, 16,458 people injured, and 177 deaths that year.
 

@@ -6,7 +6,7 @@ const FIRM = {
   email: "info@atlawgroup.com",
   address: {
     "@type": "PostalAddress" as const,
-    streetAddress: "3 Park Lane Blvd., Suite 400W",
+    streetAddress: "3 Parklane Blvd., Suite 400",
     addressLocality: "Dearborn",
     addressRegion: "MI",
     postalCode: "48126",

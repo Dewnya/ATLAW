@@ -1,3 +1,4 @@
+import { RISING_STAR_COUNT } from "../../data/firm";
 import { RevealBlock } from "../../motion/primitives";
 
 const awards = [
@@ -6,7 +7,7 @@ const awards = [
   "NAOPIA Top 10 Under 40",
   "Top Attorneys — Outstanding Young Women",
   "A+ Rated",
-  "3 Consecutive Years",
+  `${RISING_STAR_COUNT} Consecutive Years`,
 ];
 
 const AwardItem = ({ label }: { label: string }) => (

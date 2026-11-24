@@ -99,7 +99,7 @@ Michigan places no cap on pain and suffering damages in a dog bite case. ATLAWâ€
 
 ## Why people in metro Detroit call ATLAW after a dog bite
 
-**A Dearborn firm that handles the neighbor problem.** The claim is against the insurance policy, not the neighbor, and we handle the conversation so the relationship survives the case. The office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126; the attorney who meets you handles your case.
+**A Dearborn firm that handles the neighbor problem.** The claim is against the insurance policy, not the neighbor, and we handle the conversation so the relationship survives the case. The office is at 3 Parklane Blvd., Suite 400, Dearborn, MI 48126; the attorney who meets you handles your case.
 
 **More than 10,000 cases, more than $100 million recovered** in 13 years, across all injury practice areas. Every case is different; the figures show the firm has done this work against these insurers.
 

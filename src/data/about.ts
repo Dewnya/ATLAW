@@ -9,7 +9,7 @@ export const timelineEvents = [
   },
   {
     year: "2020",
-    title: "Grew to a Team of 50+",
+    title: "Grew to a 29-Person Team",
     description:
       "Brought on more attorneys and client advocates to serve more families, while keeping the personal attention every client receives.",
   },

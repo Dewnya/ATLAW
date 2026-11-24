@@ -29,7 +29,7 @@ Ann Arbor adds its own risks:
 - **I-94, US-23, and M-14,** with interchange merges and trucks.
 - **Four road owners,** the City, the Washtenaw County Road Commission, MDOT, and the University, each with its own notice clock when the road itself caused the crash.
 
-ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Boulevard in Dearborn. The firm has handled more than 10,000 cases and recovered more than $100 million for clients.
+ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Blvd., Suite 400 in Dearborn. The firm has handled more than 10,000 cases and recovered more than $100 million for clients.
 
 - Our [Michigan motorcycle accident lawyer page](/personal-injury/motorcycle-accidents) covers the no-fault rules for riders in full.
 - Our [Ann Arbor page](/areas-served/ann-arbor) covers every kind of injury claim in the city.

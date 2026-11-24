@@ -26,7 +26,7 @@ Dearborn Heights has several kinds of places where older and disabled residents 
 
 The rules differ depending on which kind of place your parent lives in. Dearborn Heights has two Medicare-certified nursing homes.
 
-ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Boulevard in Dearborn, next door to Dearborn Heights. The firm has handled more than 10,000 cases and recovered more than $100 million for clients.
+ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Blvd., Suite 400 in Dearborn, next door to Dearborn Heights. The firm has handled more than 10,000 cases and recovered more than $100 million for clients.
 
 - Our [Michigan nursing home abuse lawyer page](/personal-injury/nursing-home-abuse) covers the regulations, the warning signs, and the deadlines in full.
 - Our [Dearborn Heights page](/areas-served/dearborn-heights) covers every kind of injury claim in the city.
@@ -233,7 +233,7 @@ Claims are filed in the Third Judicial Circuit Court (Wayne County Circuit Court
 
 ## Why Dearborn Heights families call ATLAW
 
-- 13 years of Michigan injury practice, more than 10,000 cases, and more than $100 million recovered, from an office at 3 Parklane Boulevard in Dearborn, next door.
+- 13 years of Michigan injury practice, more than 10,000 cases, and more than $100 million recovered, from an office at 3 Parklane Blvd., Suite 400 in Dearborn, next door.
 - Care plans checked for language, interpreter, and dietary entries, as well as clinical ones.
 - Every case reviewed for both negligence and malpractice, so neither deadline is missed.
 - The chart, incident reports, staffing records, and LARA file requested promptly.

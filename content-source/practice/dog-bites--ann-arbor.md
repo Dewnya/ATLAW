@@ -30,7 +30,7 @@ In Ann Arbor the bites happen:
 
 The victim is often a child, a neighbor out for a walk, a runner or cyclist, a guest, or a worker at the door. And the person who pays is usually not the owner. When the owner is insured, the claim is paid by the owner’s homeowner’s or renter’s insurance.
 
-ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Boulevard in Dearborn. The firm has handled more than 10,000 cases and recovered more than $100 million for clients.
+ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Blvd., Suite 400 in Dearborn. The firm has handled more than 10,000 cases and recovered more than $100 million for clients.
 
 - Our [Michigan dog bite lawyer page](/personal-injury/dog-bites) covers the statute, the defenses, and the insurance in full.
 - Our [Ann Arbor page](/areas-served/ann-arbor) covers every kind of injury claim in the city.

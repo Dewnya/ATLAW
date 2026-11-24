@@ -125,7 +125,7 @@ In 2024, Wayne, Oakland, Macomb, and Washtenaw counties recorded 118,110 traffic
 
 ## Why people in metro Detroit call ATLAW
 
-**A Dearborn firm for 13 years.** Founded by Dewnya Bazzi, with an office at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126. The attorney who meets you at the consultation handles your case.
+**A Dearborn firm for 13 years.** Founded by Dewnya Bazzi, with an office at 3 Parklane Blvd., Suite 400, Dearborn, MI 48126. The attorney who meets you at the consultation handles your case.
 
 **More than 10,000 cases, more than $100 million recovered.** Across all injury practice areas. Every case is different and these figures do not predict the outcome of yours. They show the firm has done this work in these counties, against these insurers, for 13 years.
 

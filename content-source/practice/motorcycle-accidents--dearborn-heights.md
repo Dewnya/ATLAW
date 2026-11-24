@@ -30,7 +30,7 @@ Dearborn Heights adds its own risks:
 - **Hines Drive,** the county parkway along the Rouge through the north end, with curves, park entrances, and trail crossings.
 - **Three road agencies,** each with its own notice clock when the road itself caused the crash.
 
-ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Boulevard in Dearborn, next door. The firm has handled more than 10,000 cases and recovered more than $100 million for clients.
+ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Blvd., Suite 400 in Dearborn, next door. The firm has handled more than 10,000 cases and recovered more than $100 million for clients.
 
 - Our [Michigan motorcycle accident lawyer page](/personal-injury/motorcycle-accidents) covers the no-fault rules for riders in full.
 - Our [Dearborn Heights page](/areas-served/dearborn-heights) covers every kind of injury claim in the city.
@@ -197,7 +197,7 @@ Riders under 21 must wear a helmet, and a passenger has rules of their own. If y
 | Wrongful death | 3 years, with the estate’s savings provision | MCL 600.5805(2), 600.5852 |
 ## Why Dearborn Heights riders call ATLAW
 
-- 13 years of Michigan injury practice, more than 10,000 cases, and more than $100 million recovered, from an office at 3 Parklane Boulevard in Dearborn, next door.
+- 13 years of Michigan injury practice, more than 10,000 cases, and more than $100 million recovered, from an office at 3 Parklane Blvd., Suite 400 in Dearborn, next door.
 - Every vehicle involved and every policy in the priority chain identified before the no-fault application is filed, including the Assigned Claims Plan when no policy applies.
 - The road agency identified before the notice runs: MDOT, Wayne County, or the City.
 - The liability limit and the UIM claim sequenced so neither is forfeited.

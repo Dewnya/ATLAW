@@ -105,7 +105,7 @@ ATLAW’s results: more than 10,000 cases and more than $100 million recovered f
 
 ## Why families in metro Detroit call ATLAW
 
-**A Dearborn firm that handles the whole process.** The probate filing, the no-fault survivor’s loss claim, the wrongful death lawsuit, and the distribution hearing, with one attorney and one point of contact for the family. The office is at 3 Parklane Blvd., Suite 400W, Dearborn, MI 48126.
+**A Dearborn firm that handles the whole process.** The probate filing, the no-fault survivor’s loss claim, the wrongful death lawsuit, and the distribution hearing, with one attorney and one point of contact for the family. The office is at 3 Parklane Blvd., Suite 400, Dearborn, MI 48126.
 
 **More than 10,000 cases, more than $100 million recovered** in 13 years, across all injury practice areas. Every case is different; the figures show the firm has done this work in these counties.
 

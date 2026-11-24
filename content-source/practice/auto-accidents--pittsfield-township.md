@@ -33,7 +33,7 @@ A Pittsfield Township crash claim usually turns on four questions:
 - **The other driver’s insurance,** and how your own uninsured and underinsured motorist coverage fits with it.
 - **Whether a public body is involved,** and which one: the Washtenaw County Road Commission, MDOT, the township, or TheRide. The court and any notice deadline depend on which one.
 
-ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Boulevard in Dearborn, about 30 miles east on I-94. The firm has handled more than 10,000 cases and recovered more than $100 million for clients.
+ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Blvd., Suite 400 in Dearborn, about 30 miles east on I-94. The firm has handled more than 10,000 cases and recovered more than $100 million for clients.
 
 - Our [Michigan car accident lawyer page](/personal-injury/auto-accidents) covers the law in full.
 - Our [Washtenaw County car accident page](/personal-injury/auto-accidents/washtenaw-county) covers the county.

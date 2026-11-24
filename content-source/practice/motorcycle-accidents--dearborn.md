@@ -17,7 +17,7 @@ delivered: 2026-10-16
 
 A motorcycle crash in Dearborn is governed by a rule most riders learn only after they are hurt: under Michigan no-fault, a motorcycle is not a “motor vehicle.” That one definition decides who pays your medical bills, how much they pay, whether you have any no-fault claim at all, and how the insurer will argue the helmet question. Dearborn adds its own: five of the city’s main roads are the State’s, so a pothole claim may belong in the Court of Claims rather than against the City; and the drivers who turn left across a rider’s lane on Michigan Avenue and Ford Road come from Detroit and the western suburbs with very different policies.
 
-ATLAW is a personal injury firm at 3 Parklane Boulevard in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients. Our [Michigan motorcycle accident lawyer page](/personal-injury/motorcycle-accidents) covers the no-fault rules for riders in full, our [Dearborn page](/areas-served/dearborn) covers every kind of injury claim in the city, and our [Dearborn car accident page](/personal-injury/auto-accidents/dearborn) covers crashes between cars; this page covers what is particular about a Dearborn motorcycle crash. The first conversation is free, in English, Arabic, French, Mandarin, Urdu, or Spanish: (313) 406-7606.
+ATLAW is a personal injury firm at 3 Parklane Blvd., Suite 400 in Dearborn. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients. Our [Michigan motorcycle accident lawyer page](/personal-injury/motorcycle-accidents) covers the no-fault rules for riders in full, our [Dearborn page](/areas-served/dearborn) covers every kind of injury claim in the city, and our [Dearborn car accident page](/personal-injury/auto-accidents/dearborn) covers crashes between cars; this page covers what is particular about a Dearborn motorcycle crash. The first conversation is free, in English, Arabic, French, Mandarin, Urdu, or Spanish: (313) 406-7606.
 
 ## Motorcycle crashes by the numbers, 2024
 
@@ -90,7 +90,7 @@ Our [full checklist](/resources/what-to-do-after-an-accident) covers the first d
 
 ## Why Dearborn riders call ATLAW
 
-- An office at 3 Parklane Boulevard in Dearborn, with free surface parking and walk-in consultations available; 13 years, more than 10,000 cases, more than $100 million recovered.
+- An office at 3 Parklane Blvd., Suite 400 in Dearborn, with free surface parking and walk-in consultations available; 13 years, more than 10,000 cases, more than $100 million recovered.
 - Every vehicle involved and every policy in the priority chain identified before the no-fault application is filed.
 - The road agency identified before the notice runs: MDOT, County, or City.
 - No attorney fee or case costs unless we recover money for you. The first conversation is free.

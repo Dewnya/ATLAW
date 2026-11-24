@@ -29,7 +29,7 @@ Macomb Township adds its own risks:
 - **Deer,** at dawn and dusk, on every one of those roads.
 - **Two road owners,** MDOT and Macomb County, each with its own notice clock when the road itself caused the crash. The township owns none.
 
-ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Boulevard in Dearborn. The firm has handled more than 10,000 cases and recovered more than $100 million for clients.
+ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Blvd., Suite 400 in Dearborn. The firm has handled more than 10,000 cases and recovered more than $100 million for clients.
 
 - Our [Michigan motorcycle accident lawyer page](/personal-injury/motorcycle-accidents) covers the no-fault rules for riders in full.
 - Our [Macomb Township page](/areas-served/macomb-township) covers every kind of injury claim in the township.

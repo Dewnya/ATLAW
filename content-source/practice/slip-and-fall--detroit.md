@@ -17,7 +17,7 @@ delivered: 2026-10-16
 
 For twenty years a fall on someone else’s property in Michigan was close to unwinnable, because a hazard that was “open and obvious” ended the case before it began. That rule is gone. Since the Michigan Supreme Court’s July 2023 decision in *Kandil-Elsayed v F & E Oil*, a Detroit fall case turns on the questions it should have turned on all along: who had the duty to keep the place safe, what they knew about the hazard and when, what they did about it, and how much of the fall was your fault. In Detroit those questions have local answers. Half the city rents, much of its housing stock predates 1960, the City maintains the roads but assigns the sidewalks to the adjacent owner, and a fall on City property starts a 120-day clock the day you hit the ground.
 
-ATLAW is a personal injury firm with an office at 3 Parklane Boulevard in Dearborn, serving Detroit and surrounding southeast Michigan communities. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients. Our [Michigan slip and fall lawyer page](/personal-injury/slip-and-fall) covers the law in full, our [premises liability](/personal-injury/premises-liability), [sidewalk injury](/personal-injury/sidewalk-injuries), and [tenant injury](/personal-injury/tenant-injuries) pages cover each kind of owner, and our [Detroit page](/areas-served/detroit) covers every kind of injury claim in the city; this page covers what is particular about a Detroit fall. The first conversation is free: **(313) 406-7606**.
+ATLAW is a personal injury firm with an office at 3 Parklane Blvd., Suite 400 in Dearborn, serving Detroit and surrounding southeast Michigan communities. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients. Our [Michigan slip and fall lawyer page](/personal-injury/slip-and-fall) covers the law in full, our [premises liability](/personal-injury/premises-liability), [sidewalk injury](/personal-injury/sidewalk-injuries), and [tenant injury](/personal-injury/tenant-injuries) pages cover each kind of owner, and our [Detroit page](/areas-served/detroit) covers every kind of injury claim in the city; this page covers what is particular about a Detroit fall. The first conversation is free: **(313) 406-7606**.
 
 ## Detroit falls by the numbers
 
@@ -89,7 +89,7 @@ Fall suits over $25,000 are filed in the Third Judicial Circuit Court at the Col
 
 ## Why Detroiters call ATLAW after a fall
 
-- An office at 3 Parklane Boulevard in Dearborn, with free surface parking and consultations available by appointment; 13 years, more than 10,000 cases, more than $100 million recovered.
+- An office at 3 Parklane Blvd., Suite 400 in Dearborn, with free surface parking and consultations available by appointment; 13 years, more than 10,000 cases, more than $100 million recovered.
 - We evaluate every Detroit fall under the law as it stands after 2023, not under the rule that made fall cases losers for twenty years.
 - Prompt attention to preserving available surveillance footage, inspection records, incident reports, and other time-sensitive evidence.
 - Owner identified before the notice runs: private, Housing Commission, Land Bank, City, authority, or State.

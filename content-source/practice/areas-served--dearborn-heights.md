@@ -17,7 +17,7 @@ delivered: 2026-10-16
 
 Dearborn Heights is ATLAW’s next-door city: about 61,000 people in two halves, a north end along Ford Road, Warren Avenue, and Joy Road that shares the east-side Arab American community with Dearborn, and a south end along Van Born, Pelham, and Beech Daly that borders Taylor and Allen Park, with Telegraph Road running through both halves (between the Rouge and Ford Road it passes through Dearborn) and Michigan Avenue crossing the middle. Its injuries follow the arterials: Telegraph’s signals and crossovers through both halves of the city, Ford Road’s retail stretch from the Southfield Freeway to Telegraph and beyond, Michigan Avenue’s industrial frontage, and the pedestrian crossings on Warren between the restaurants and the neighborhoods. Hines Drive, the county parkway along the Rouge, runs through the north end with its own crashes and park injuries. In 2024, Dearborn Heights recorded 1,251 traffic crashes, with 385 people injured and no traffic fatalities.
 
-ATLAW’s office is at 3 Parklane Boulevard in Dearborn, a short drive from Dearborn Heights. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients, many of them Dearborn Heights residents. This page explains what is particular about a Dearborn Heights injury claim: where the injuries happen, who the defendants usually are, which courts hear the cases, and the deadlines that end them. Our [Wayne County page](/areas-served/wayne-county) covers the county as a whole, and our [Dearborn page](/areas-served/dearborn) covers the city next door.
+ATLAW’s office is at 3 Parklane Blvd., Suite 400 in Dearborn, a short drive from Dearborn Heights. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients, many of them Dearborn Heights residents. This page explains what is particular about a Dearborn Heights injury claim: where the injuries happen, who the defendants usually are, which courts hear the cases, and the deadlines that end them. Our [Wayne County page](/areas-served/wayne-county) covers the county as a whole, and our [Dearborn page](/areas-served/dearborn) covers the city next door.
 
 ## Dearborn Heights injury numbers, 2024
 
@@ -92,7 +92,7 @@ ATLAW’s office is at 3 Parklane Boulevard in Dearborn, a short drive from Dear
 
 ## Why Dearborn Heights calls ATLAW
 
-- ATLAW’s Dearborn office is at 3 Parklane Boulevard, a short drive from Dearborn Heights.
+- ATLAW’s Dearborn office is at 3 Parklane Blvd., Suite 400, a short drive from Dearborn Heights.
 - 13 years, more than 10,000 cases, more than $100 million recovered, a large share of them for clients in Dearborn and Dearborn Heights.
 - Familiarity with the 20th District, Third Circuit, and Wayne County Probate Court systems, and with the insurers, the Assigned Claims Plan, Wayne County, MDOT, and SMART.
 - Every household policy reviewed for UM/UIM before the claim is valued.
@@ -101,7 +101,7 @@ ATLAW’s office is at 3 Parklane Boulevard in Dearborn, a short drive from Dear
 - Consultations are available in English, Arabic, French, Mandarin, Urdu, and Spanish.
 ## Frequently asked questions
 
-**Where is ATLAW’s office, and how far is it from Dearborn Heights?** ATLAW’s office is at 3 Parklane Boulevard in Dearborn, a short drive from Dearborn Heights. Free surface parking is available.
+**Where is ATLAW’s office, and how far is it from Dearborn Heights?** ATLAW’s office is at 3 Parklane Blvd., Suite 400 in Dearborn, a short drive from Dearborn Heights. Free surface parking is available.
 
 **Where are the crashes in Dearborn Heights?** At the Telegraph signals and crossovers, on Ford Road from the Southfield Freeway to Inkster (including Ford at Mercury Drive and Ford at Telegraph), on Michigan Avenue, and at the Warren Avenue crossings. In 2024, Dearborn Heights recorded 1,251 traffic crashes, 385 people injured, and no traffic fatalities. Wayne County as a whole recorded 50,355 crashes, 16,458 injuries, and 177 deaths in 2024.
 

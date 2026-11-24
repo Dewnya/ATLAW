@@ -24,7 +24,7 @@ When someone dies in Ann Arbor because another person, company, or institution w
 
 In Ann Arbor, who caused the death changes more than usual. A death involving the University of Michigan, including care at University of Michigan Health, is a claim against the State in the Court of Claims. A death after care at the VA Ann Arbor Healthcare System is a federal claim with its own form and deadline. A crash on a city street, a county road, or a freeway each has a different road owner. This page explains how the process works for an Ann Arbor family and what to do in the first weeks.
 
-ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Boulevard in Dearborn. The firm has handled more than 10,000 cases and recovered more than $100 million for clients. The firm handles the whole wrongful death process for the family:
+ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Blvd., Suite 400 in Dearborn. The firm has handled more than 10,000 cases and recovered more than $100 million for clients. The firm handles the whole wrongful death process for the family:
 
 - the probate appointment
 - the no-fault survivor’s loss claim

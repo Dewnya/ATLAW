@@ -34,7 +34,7 @@ The most serious injuries and illnesses are often transferred to a higher-level 
 
 Day-to-day care happens in the medical offices along University Drive, Rochester Road, and Walton; in urgent care clinics; in outpatient surgery and imaging centers; and in community health centers. Health-system-employed physicians practice alongside independent practices and separate physician groups. Each has its own legal entity, insurer, and notice address. A federally funded clinic is sued under federal law, on a different clock and in a different court. Oakland University’s clinics are the State’s.
 
-ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Boulevard in Dearborn, has handled more than 10,000 cases, and has recovered more than $100 million for clients.
+ATLAW has practiced Michigan injury law for 13 years from its office at 3 Parklane Blvd., Suite 400 in Dearborn, has handled more than 10,000 cases, and has recovered more than $100 million for clients.
 
 - Our [Michigan medical malpractice lawyer page](/personal-injury/medical-malpractice) covers the law in full.
 - Our [hospital negligence](/personal-injury/hospital-mistakes), [anesthesia error](/personal-injury/anesthesia-errors), and [birth injury](/personal-injury/birth-injuries) pages cover the main case types.

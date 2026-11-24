@@ -17,7 +17,7 @@ delivered: 2026-10-16
 
 When someone dies in Detroit because another person or company was careless, Michigan’s Wrongful Death Act (MCL 600.2922) gives the family a claim. It does not give it in the way most families expect. The claim belongs to the estate, not to the spouse or children directly. The lawsuit must be brought by the estate’s personal representative, who is generally appointed by the probate court in the county where the deceased lived. Any recovery is distributed under court-supervised procedures, with eligible family members having an opportunity to present their losses. And the deadline depends on what caused the death: a crash, a fall, a fire, a hospital error, a nursing home, a City vehicle. This page explains how the process works in Detroit and what the family should do in the first weeks.
 
-ATLAW is a personal injury firm with an office at 3 Parklane Boulevard in Dearborn, serving families throughout Detroit and southeast Michigan. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients. ATLAW works with its probate team to address estate appointments, applicable no-fault survivor’s benefits, the wrongful-death claim, and the court-supervised settlement or distribution process. Our [Michigan wrongful death lawyer page](/personal-injury/wrongful-death) covers the Act in full and our [Detroit page](/areas-served/detroit) covers every kind of injury claim in the city. The first conversation is free and confidential: **(313) 406-7606**.
+ATLAW is a personal injury firm with an office at 3 Parklane Blvd., Suite 400 in Dearborn, serving families throughout Detroit and southeast Michigan. In 13 years the firm has handled more than 10,000 cases and recovered more than $100 million for clients. ATLAW works with its probate team to address estate appointments, applicable no-fault survivor’s benefits, the wrongful-death claim, and the court-supervised settlement or distribution process. Our [Michigan wrongful death lawyer page](/personal-injury/wrongful-death) covers the Act in full and our [Detroit page](/areas-served/detroit) covers every kind of injury claim in the city. The first conversation is free and confidential: **(313) 406-7606**.
 
 ## Fatal injuries in Detroit and Wayne County
 
@@ -95,7 +95,7 @@ The savings provision is the rule families most often misunderstand. It gives a 
 ## Why Detroit families call ATLAW
 
 - ATLAW works with its probate team to coordinate the estate-appointment process, applicable survivor’s loss benefits, the wrongful-death claim, and court-supervised distribution.
-- An office at 3 Parklane Boulevard in Dearborn, with free surface parking; 13 years, more than 10,000 cases, more than $100 million recovered.
+- An office at 3 Parklane Blvd., Suite 400 in Dearborn, with free surface parking; 13 years, more than 10,000 cases, more than $100 million recovered.
 - Daily work in the Third Circuit and the Wayne County Probate Court.
 - Funeral and burial customs come first; the legal steps are worked around them.
 - No fee unless we recover money for the estate; fees are approved by the probate court. ATLAW advances case costs, so you pay nothing up front; the 33.3% attorney fee is calculated on the recovery after those costs are deducted, and if there is no recovery you owe no fee and no costs. The first conversation is free.

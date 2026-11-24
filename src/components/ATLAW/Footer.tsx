@@ -160,7 +160,7 @@ export const Footer = (): JSX.Element => {
                     Headquarters:
                   </p>
                   <p className="font-sans text-[15px] leading-[1.5] text-white">
-                    3 Park Lane Blvd., Suite 400W
+                    3 Parklane Blvd., Suite 400
                   </p>
                   <p className="font-sans text-[15px] leading-[1.5] text-white">
                     Dearborn, MI 48126
