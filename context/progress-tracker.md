@@ -1033,7 +1033,7 @@ Scope: the build plan (developer and SEO scope) and the July 29, 2026 Website Re
   - Bug found: `index.html` linked the icon as `./favicon.svg`, which only resolves on the homepage; every inner page asked for a path that 404s, and `/favicon.ico` and `/apple-touch-icon.png` did not exist
   - Fix: icon links are root-absolute; added `public/favicon.ico` (16/32/48), `favicon-96x96.png` and `apple-touch-icon.png`, generated from the existing navy "A" mark (full-bleed square, padded so it survives Google's circular crop)
   - The firm's shared "ATLAW Logos" Drive folder has only the wordmark (black and white PNG/JPG) and the 2025 brand guide; no dedicated icon file. The guide's rule (full logotype centred in a 512 square) is unreadable at favicon size, so the "A" from the wordmark stays unless the firm supplies an icon
-  - Not yet released to production. Google refreshes favicons on its own schedule (days to a few weeks) after it recrawls the homepage
+  - Released to production Nov 23, 2026 (`6c5ee89`); all four icon files return 200 on www.atlawgroup.com and inner pages link them by root path. Google refreshes favicons on its own schedule (days to a few weeks) after it recrawls the homepage
 
 ### Open Questions
 
